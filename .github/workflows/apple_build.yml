@@ -1,0 +1,51 @@
+name: Apple Build (iOS + macOS)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-ios:
+    name: Build iOS App
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install kivy kivymd buildozer cython
+
+      - name: iOS Build (placeholder)
+        run: |
+          echo "🚀 iOS build starts here"
+          echo "You need buildozer-ios or kivy-ios toolchain"
+
+  build-macos:
+    name: Build macOS App
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install kivy kivymd pyinstaller
+
+      - name: Build macOS app
+        run: |
+          echo "🍎 Building macOS app..."
+          pyinstaller --onefile --name Neurova main.py
