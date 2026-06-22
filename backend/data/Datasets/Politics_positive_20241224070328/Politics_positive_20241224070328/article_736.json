@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "a9addd6aa66dbfea184671c072373582892c5765",
+        "url": "https://www.manilatimes.net/2024/11/24/tmt-newswire/young-people-gather-for-the-creation-of-the-national-childrens-agenda/2010242",
+        "site_full": "www.manilatimes.net",
+        "site": "manilatimes.net",
+        "site_section": "https://www.manilatimes.net",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news"
+        ],
+        "section_title": " The Manila Times | News | Opinion | Philippines | Asia | World ",
+        "title": "Young people gather for the creation of the National Children's Agenda | The Manila Times",
+        "title_full": "Young people gather for the creation of the National Children's Agenda | The Manila Times",
+        "published": "2024-11-24T06:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://cdn4.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
+        "performance_score": 0,
+        "domain_rank": 7320,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a9addd6aa66dbfea184671c072373582892c5765",
+    "url": "https://www.manilatimes.net/2024/11/24/tmt-newswire/young-people-gather-for-the-creation-of-the-national-childrens-agenda/2010242",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Manila Times",
+    "published": "2024-11-24T06:03:00.000+02:00",
+    "title": "Young people gather for the creation of the National Children's Agenda | The Manila Times",
+    "text": "TERRE des Hommes Netherlands (TdH NL), through its Project \"Creating a safer Online Environment for Every Child\" (Conec) and Project \"Safety for Children and their Rights Online\" (Scrol), held the \"Konek+Syon: Kabataan at OSAEC Ngayong Eleksyon – the 2024 Children and Youth Summit,\" at the B Hotel, Quezon City on Nov. 22 to 23 in celebration of this year's National Children's Month.\nThe period towards the 2025 Philippine midterm elections is a significant opportunity for children and youth to amplify their voices and urge political candidates, incumbent leaders and lawmakers to prioritize their issues and concerns.\nYOUTH REPRESENTATION Over a hundred children and youth leaders from across the Philippines gathered for the ‘Konek Syon: Kabataan at OSAEC Ngayong Eleksyon – the 2024 Children and Youth Summit’. PHOTO FROM TERRE DES HOMMES NETHERLANDS During the summit, over a hundred of children and youth delegates developed a National Children's Agenda, containing their key demands and recommendations to electoral candidates and duty-bearers to respond to urgent issues affecting children and youth nationwide such as violence against children, child trafficking, child labour, offline and online sexual abuse and exploitation of children (OSAEC), discrimination faced by queer children, child marriage, disasters and the climate crisis.\nThis momentous event also facilitated the formation of a unified network of child and youth-led organizations that will advocate for this agenda, ensuring that it will reach electoral candidates and decision-makers.\nThis network will support TdH NL as one of its partners in promoting children's rights, and lobbying for inclusive and gender-responsive legislations, policies and programmes to protect children from exploitation and appropriately support victims and their families.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TdH NL",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:12:10.895+02:00",
+    "updated": "2024-11-24T13:28:15.843+02:00"
+}

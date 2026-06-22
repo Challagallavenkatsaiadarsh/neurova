@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "b9bacd64ce315bb8cc80faacea531e376499b95e",
+        "url": "https://www.onmanorama.com/news/kerala/2024/11/23/wayanad-byelection-results-2024-priyanka-gandhi-sathyan-mokeri-navya-haridas-live.html",
+        "site_full": "www.onmanorama.com",
+        "site": "onmanorama.com",
+        "site_section": "https://www.onmanorama.com/news/kerala.feeds.onmrss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "",
+        "title": "Wayanad Byelection Results 2024: UDF confident of Priyanka Gandhi's debut from Congress bastion",
+        "title_full": "Wayanad Byelection Results 2024: UDF confident of Priyanka Gandhi's debut from Congress bastion",
+        "published": "2024-11-22T23:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.onmanorama.com/content/dam/mm/en/kerala/top-news/images/2024/11/11/priyanka-gandhi-wayanad-sathyan-mokeri-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 24520,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b9bacd64ce315bb8cc80faacea531e376499b95e",
+    "url": "https://www.onmanorama.com/news/kerala/2024/11/23/wayanad-byelection-results-2024-priyanka-gandhi-sathyan-mokeri-navya-haridas-live.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Onmanorama Staff",
+    "published": "2024-11-22T23:01:00.000+02:00",
+    "title": "Wayanad Byelection Results 2024: UDF confident of Priyanka Gandhi's debut from Congress bastion",
+    "text": "Rahul Gandhi vacated the seat to represent Raebareli in the Lok Sabha, paving the way for Priyanka’s candidacy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Priyanka Gandhi Vadra",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Satyan Mokeri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rahul Gandhi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "UDF",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            },
+            {
+                "name": "LDF",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lok",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:22:10.686+02:00",
+    "updated": "2024-11-24T02:27:53.051+02:00"
+}

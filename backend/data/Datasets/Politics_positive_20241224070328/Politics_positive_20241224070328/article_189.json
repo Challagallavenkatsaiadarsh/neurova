@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "ddc32915d4bb80cd224aba14866c722d5ee5f29d",
+        "url": "https://www.hindustantimes.com/india-news/data-story-how-did-the-jmm-win-jharkhand-101732387356093.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "How did the JMM win Jharkhand?",
+        "title_full": "How did the JMM win Jharkhand?",
+        "published": "2024-11-23T20:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/INDIA-bloc-supporters-celebrate-in-the-Jharkhand-A_1732387347530.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ddc32915d4bb80cd224aba14866c722d5ee5f29d",
+    "url": "https://www.hindustantimes.com/india-news/data-story-how-did-the-jmm-win-jharkhand-101732387356093.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abhishek Jha",
+    "published": "2024-11-23T20:12:00.000+02:00",
+    "title": "How did the JMM win Jharkhand?",
+    "text": "Three factors explain the JMM’s big victory – it is the biggest ever in the state’s history – in these elections: complete consolidation of its core constituency among Scheduled Tribe (ST) voters, better outreach among non-ST voters with a wider alliance, identity agnostic welfare schemes, and some external help from a nativist party making its debut which hurt the BJP alliance far more than the JMM alliance.Let us take the 28 ST reserved assembly constituencies . The JMM led alliance has won 27 of them this time. This is the third time in a row the JMM alliance has increased its seat count in the ST reserved ACs at the cost of the BJP. Because, the JMM led alliance had pretty much all of the ST reserved ACs in 2019 as well, a better measure of its growing dominance in the ST reserved ACs is its vote share which has increased from 43% to 51% between 2019 and 2024.See Chart 1:But even wining all the ST ACs would have not given the JMM a majority in the state. This is exactly what happened in the 2024 Lok Sabha elections. The JMM led alliance won all five of the ST reserved parliamentary constituencies (PCs) but the BJP led alliance won the remaining nine PCs. This is why the real story of these elections is the JMM alliance’s performance in the remaining 53 ACs. Not only has the alliance won a 55% seat share in these ACs, it is for the first time that the JMM has won more non-ST reserved ACs than the BJP in the state’s history. Clearly, the allies also played their role. Both the Congress and the Rashtriya Janata Dal (RJD) have improved their strike rates compared to the 2019 assembly elections. The new entrant to the alliance, the Communist Party of India Marxist Leninist Liberation or CPI ML also won two of the four ACs it contested. Both of them had gone to the BJP in the last election. While it is difficult to provide statistics, the cash transfer scheme Maiya Samman Yojna must have played a part in this wider appeal of the JMM among non-ST voters who would have been more concerned about tangible gains than questions of identity or dignity. See Chart 2:Last but not the least is the tailwind from a disruptor in these elections. The Jharkhand Loktantrik Krantikari Morcha (JLKM) made its debut in these elections and contested 68 ACs. The JLKM has been founded by Jairam Kumar Mahato, who is primarily interested in mobilising the Mahato (Kurmi) voters in the North Chotanagpur sub-region of the state. While Jharkhand does not have caste-wise demographic data, Mahatos are believed to be a politically important demography in these parts. The JLKM has managed to win just one AC, but it played spoiler in 14 ACs. A seat is considered to be lost to other parties playing spoiler if the party finishing third has more vote share than the victory margin. Of the 17 seats the BJP alliance has lost to spoilers, the JLKM was the spoiling party in 11.Three of these had been given to the BJP ally All Jharkhand Students Union (AJSU) which until now was considered to be the main political front of Mahato voters. AJSU has won just one of the 10 ACs it contested. To be sure, the JLKM also spoilt three seats for the JMM alliance . While the JMM alliance has gained from the JLKM’s debut in the state’s politics in these elections, the party could change the course of Jharkhand’s politics in the future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "JMM",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:37:33.502+02:00",
+    "updated": "2024-11-24T01:37:33.502+02:00"
+}

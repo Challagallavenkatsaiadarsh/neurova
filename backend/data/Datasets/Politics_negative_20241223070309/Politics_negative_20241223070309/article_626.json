@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "dd5b28888a5c028a03790d59e5c1e379ffea2521",
+        "url": "https://www.newsmax.com/newsfront/texas-floating-border/2024/11/22/id/1189132",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "http://www.newsmax.com",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tNewsmax – Breaking News | News Videos | Politics, Health, Finance\r\n",
+        "title": "Texas Expands Floating Border Wall in Rio Grande River | Newsmax.com",
+        "title_full": "Texas Expands Floating Border Wall in Rio Grande River | Newsmax.com",
+        "published": "2024-11-23T00:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=92a00e7b-25aa-4701-93d9-097dd30b8cbc&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2382,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dd5b28888a5c028a03790d59e5c1e379ffea2521",
+    "url": "https://www.newsmax.com/newsfront/texas-floating-border/2024/11/22/id/1189132",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Swanson",
+    "published": "2024-11-23T00:41:00.000+02:00",
+    "title": "Texas Expands Floating Border Wall in Rio Grande River | Newsmax.com",
+    "text": "By Mark Swanson | Friday, 22 November 2024 05:41 PM EST\nTexas Republican Gov. Gregg Abbott announced Friday that the state has bolstered border security with the addition of more buoys to its floating marine barrier in the Rio Grande River and the installation of more razor wire in Eagle Pass, Texas.\nTexas began expanding the buoy barrier on Wednesday after workers began erecting more razor wire on Tuesday. NewsNation reported Tuesday that the additional barriers were in anticipation of a surge in illegal crossings before President-elect Donald Trump returns to the White House in January. He has vowed to close the border on Day 1 and implement mass deportations of millions of migrants in the U.S. illegally.\nIt’s unclear how much longer the barrier is now, but the original installation of buoys was 1,000-feet long.\nThe additional barriers are an extension of Operation Lone Star, which Abbott implemented in 2023 to “fill the dangerous gaps created by the federal government’s refusal to secure the border” under President Joe Biden.\n“Every individual who is apprehended or arrested and every ounce of drugs seized would have otherwise made their way into communities across Texas and the nation due to open border policies,” Abbott said in Friday’s release.\nThe installation of the floating border wall began in June 2023, part of Abbott’s multibillion-dollar effort to secure the border with Mexico, with Eagle Pass being ground zero for illegal crossings. It was met with immediate pushback from the Biden administration, which demanded Texas remove the barriers or face legal action.\nAbbott chose the latter.\nThe Department of Justice filed a lawsuit, culminating with a panel of the Fifth Circuit Court of Appeals ruling last December that Texas had to remove the floating barrier. The full Fifth Circuit Court of Appeals in July ruled that the barrier could remain while a lower court hears a case on merits.\nAbbott on Friday extoled the merits of Operation Lone Star, citing 48,700 criminal arrests, more than 41,900 felony charges and the seizure of more than 553 million lethal doses of fentanyl, “enough to kill every man, woman, and child in the United States and Mexico combined,\" he said.\nAbbott said the mission has also decreased illegal crossings into Texas by 86%.\n“Fewer illegal crossings into Texas means fewer migrants to transport to sanctuary cities,” he wrote.\nAbbott said Texas has shipped more than 119,000 illegal migrants to six different sanctuary cities since April 2022, including 45,900 to New York City alone.\nMark Swanson, a Newsmax writer and editor, has nearly three decades of experience covering news, culture and politics.\n© 2024 Newsmax. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\nInterest-Based Advertising | Do not sell or share my personal information\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Swanson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gregg Abbott",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:12:59.484+02:00",
+    "updated": "2024-11-23T01:12:59.484+02:00"
+}

@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "cf7a795c4e76fd0ad6e54cdde7307fa3757749cc",
+        "url": "https://news.knowledia.com/gb/en/articles/trump-scores-major-win-in-business-records-case-judge-grants-request-for-59027d12c114a3173b1c86a33994d09d7fc0aa0f",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/gb/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "Trump Scores Major Win in Business Records Case, Judge Grants Request for Permission to File Motion",
+        "title_full": "Trump Scores Major Win in Business Records Case, Judge Grants Request for Permission to File Motion",
+        "published": "2024-11-23T02:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cf7a795c4e76fd0ad6e54cdde7307fa3757749cc",
+    "url": "https://news.knowledia.com/gb/en/articles/trump-scores-major-win-in-business-records-case-judge-grants-request-for-59027d12c114a3173b1c86a33994d09d7fc0aa0f",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:28:00.000+02:00",
+    "title": "Trump Scores Major Win in Business Records Case, Judge Grants Request for Permission to File Motion",
+    "text": "The request for permission to file a motion to dismiss brought by attorneys for President-elect Donald Trump in the Manhattan business records case has been granted, a significant win for Trump and a sign the matter could be headed for dismissal. Justice Juan Merchan issued a ruling Friday granting the request, which was filed Tuesday.\nThe motion to dismiss is due by December 2, and a response from Manhattan District Attorney Alvin Bragg's office must be submitted a week later, by Monday, December 9. Merchan also adjourned the sentencing that was set for November 26.\nIncoming White House Communications Director Steven Cheung touted the development in a statement.\n\"In a decisive win for President Trump, the hoax Manhattan Case is now fully stayed and sentencing is adjourned,\" Cheung said.\n\"President Trump won a landslide victory as the American People have issued a mandate to return him to office and dispose of all remnants of the Witch Hunt cases,\" he added. \"All of the sham lawfare attacks against President Trump are now destroyed and we are…",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.breitbart.com/2024-election/2024/11/22/judge-grants-request-to-file-motion-to-dismiss-in-trumps-new-york-case/",
+        "https://www.breitbart.com/2024-election/2024/11/22/judge-grants-request-to-file-motion-to-dismiss-in-trumps-new-york-case",
+        "https://breitbart.com/2024-election/2024/11/22/judge-grants-request-to-file-motion-to-dismiss-in-trumps-new-york-case/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Steven Cheung",
+                "sentiment": "none"
+            },
+            {
+                "name": "Juan Merchan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alvin Bragg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:47:53.340+02:00",
+    "updated": "2024-11-23T02:47:53.340+02:00"
+}

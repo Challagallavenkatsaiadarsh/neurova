@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "406d9658fe5d22ad975c72a7ad3d4246eda60e55",
+        "url": "https://www.freepressjournal.in/world/india-counted-640-million-votes-in-1-day-california-still-counting-elon-musk-pokes-us-process-while-hailing-indian-electoral-system",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "https://www.freepressjournal.in",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": " Latest News, Breaking News, Today Headlines, India News, Mumbai News | Free Press Journal ",
+        "title": "India Counted 640 Million Votes In 1 Day, California Still Counting: Elon Musk Pokes US Process While",
+        "title_full": "India Counted 640 Million Votes In 1 Day, California Still Counting: Elon Musk Pokes US Process While",
+        "published": "2024-11-24T02:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2022-12/92c7943f-4851-40cd-9815-af5ae40061f4/ElonMusk_Reuters_2_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "406d9658fe5d22ad975c72a7ad3d4246eda60e55",
+    "url": "https://www.freepressjournal.in/world/india-counted-640-million-votes-in-1-day-california-still-counting-elon-musk-pokes-us-process-while-hailing-indian-electoral-system",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Prathamesh Kharade",
+    "published": "2024-11-24T02:45:00.000+02:00",
+    "title": "India Counted 640 Million Votes In 1 Day, California Still Counting: Elon Musk Pokes US Process While",
+    "text": "Tesla CEO Elon Musk has lauded India’s electoral system for its efficiency in counting votes, contrasting it with the slower process in the United States, particularly in California. Musk’s comments came in response to an X post that highlighted India's ability to count 640 million votes in a single day, captioned, “Meanwhile in India, where cheating isn’t the primary goal of their elections.”\nQuoting the post, Musk remarked, “India counted 640 million votes in 1 day. California is still counting votes.” In another instance, Musk responded to a post stating, “India counted 640 million votes in a single day. California is still counting 15 million votes…18 days later.” His remarks emphasized the stark contrast between the electoral processes of the two democracies.\nWhy Is California’s Vote Counting Delayed?\nCalifornia, the most populous U.S. state with nearly 39 million residents, participated in elections on November 5, with around 16 million voters casting their ballots. However, it has consistently been one of the slowest states to complete vote counting. Reports suggest that more than 300,000 ballots remain uncounted over two weeks after the election.\nThe delays stem from California’s extensive reliance on mail-in voting, a method that requires significantly more time and effort than in-person voting, as reported by News18. Each mail-in ballot undergoes a meticulous process of validation and verification before being counted. This includes signature matching and cross-referencing voter records to ensure authenticity. By contrast, in-person ballots are typically scanned and processed much faster.\n['We Super Appreciate Major Brands': SpaceX Boss Elon Musk Applauds CEO Of X, Linda Yaccarino As...\n](https://www.freepressjournal.in/business/we-super-appreciate-major-brands-spacex-boss-elon-musk-applauds-ceo-of-x-linda-yaccarino-as-brands-revives-ad-campaigns-on-x)\nElection officials have pointed out that California’s vast size, coupled with its predominantly mail-in system, contributes to these delays. The extended timeline for counting ballots has become a norm in recent years, with the 2020 U.S. election witnessing similar delays in the state. Officials note that the process ensures accuracy but requires weeks to finalize results.\nIndia’s Electoral Efficiency\nIndia’s voting system, praised by Musk, stands in stark contrast. The world’s largest democracy efficiently managed to count 640 million votes in just a single day during its elections. India employs a combination of electronic voting machines (EVMs) and a robust manual verification process, which accelerates the vote-counting procedure. The streamlined system has been a subject of admiration globally for its capacity to deliver accurate results swiftly in a nation with over a billion people.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Musk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:20:24.325+02:00",
+    "updated": "2024-11-24T05:20:24.325+02:00"
+}

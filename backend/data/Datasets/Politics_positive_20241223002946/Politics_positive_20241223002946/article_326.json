@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "061b9127054ebfd63fd6969e066cb8f331c2bc70",
+        "url": "https://esd.ny.gov/esd-media-center/press-releases/governor-hochul-announces-50-million-available-counties-help-combat-housing-crisis",
+        "site_full": "esd.ny.gov",
+        "site": "ny.gov",
+        "site_section": "https://esd.ny.gov/esd-media-center",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "ESD Media Center | Empire State Development",
+        "title": "Governor Hochul Announces $50 Million Available To Counties To Help Combat Housing Crisis | Empire State Development",
+        "title_full": "Governor Hochul Announces $50 Million Available To Counties To Help Combat Housing Crisis | Empire State Development",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 581,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "061b9127054ebfd63fd6969e066cb8f331c2bc70",
+    "url": "https://esd.ny.gov/esd-media-center/press-releases/governor-hochul-announces-50-million-available-counties-help-combat-housing-crisis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@EmpireStateDev",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Governor Hochul Announces $50 Million Available To Counties To Help Combat Housing Crisis | Empire State Development",
+    "text": "County Infrastructure Grant Program Will Provide Funding To Support County-Led Infrastructure Projects That Encourage Housing Growth, Place-Making and Tourism\nBuilds on Governor Hochul’s Commitment To Address the Housing Crisis Including $600 Million in Capital To Support Housing Statewide in FY25 Budget\nEnhanced Awards for Projects That Create Housing, Application and Information Available [Here](https://esd.ny.gov/county-infrastructure-grant-program)\nGovernor Kathy Hochul today announced the launch of the County Infrastructure Grant Program, which will provide up to $50 million to help counties combat the housing crisis by funding small to medium scale county-led infrastructure projects across the state, with enhanced awards for projects supporting the creation of housing projects of ten units or more. Part of the Governor’s FY 2025 Enacted Budget, which added more than $600 million in Capital Funding to support housing statewide, the County Infrastructure Grant Program is one of many tools available to increase the housing supply, promote affordability, and support renters and homeowners. Available to counties outside of New York City, the program focuses on priority capital projects that support the creation of housing, contribute to placemaking, and further encourage visitation and tourism.\n“Creating more quality and affordable housing throughout the state continues to be one of my top priorities in making New York more affordable and more livable,” Governor Hochul said. “The County Infrastructure Grant Program offers an actionable blueprint for creating thriving communities by incorporating additional housing as a part of infrastructure project plans. This means that more New Yorkers can live where they want, and will encourage more businesses to establish themselves here and grow in New York because there is ample housing.”\nEmpire State Development President, CEO and Commissioner Hope Knight said, “Growing the state’s housing stock has been a pillar of Governor Hochul’s administration and is a cornerstone to sustainable economic growth. Through the County Infrastructure Grant Program, we will help make additional housing a reality, and reinforce a sense of place and vibrancy in communities that will attract more jobs, residents and visitors.”\nRead the full press release [here](https://www.governor.ny.gov/news/governor-hochul-announces-50-million-available-counties-help-combat-housing-crisis).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathy Hochul",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "County Infrastructure Grant Program",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:56:58.677+02:00",
+    "updated": "2024-11-23T01:56:58.677+02:00"
+}

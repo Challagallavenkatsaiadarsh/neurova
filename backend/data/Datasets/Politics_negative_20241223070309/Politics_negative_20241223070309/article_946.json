@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "ddb81915d6481ff645b57118f4dd52f4a7d43b42",
+        "url": "https://www.inkl.com/news/matt-gaetz-now-selling-pep-talks-on-cameo-app-for-250-after-exit-from-congress-45a8ba10-ab68-47fa-b650-b65428297490",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "Matt Gaetz Now Selling 'Pep Talks' On Cameo App For $250 After Exit From Congress",
+        "title_full": "Matt Gaetz Now Selling 'Pep Talks' On Cameo App For $250 After Exit From Congress",
+        "published": "2024-11-23T01:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21225808/matt-gaetz-now-selling-pep-talks-cameo-app.jpg",
+        "performance_score": 0,
+        "domain_rank": 37287,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ddb81915d6481ff645b57118f4dd52f4a7d43b42",
+    "url": "https://www.inkl.com/news/matt-gaetz-now-selling-pep-talks-on-cameo-app-for-250-after-exit-from-congress-45a8ba10-ab68-47fa-b650-b65428297490",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T01:18:00.000+02:00",
+    "title": "Matt Gaetz Now Selling 'Pep Talks' On Cameo App For $250 After Exit From Congress",
+    "text": "Just a day after withdrawing his name from consideration for Attorney General in President-elect Donald Trump's incoming administration , Matt Gaetz has joined the Cameo app, offering 'Pep Talks' for $250. Cameo, an app where celebrities of many tiers can be hired to create personalized video messages, gained a new \"celeb\" Friday with the addition of Matt Gaetz. While his initial offering started at $250, within hours, the price doubled. Gaetz has not commented on his latest gig yet, though if his Cameo pricing increase reflects a demand for his service, he will be issuing many comments soon. In addition to \"send a pep talk,\" Cameo lists \"ask a question,\" \"get advice\" and \"roast someone,\" under \"reasons to get a video.\" Thursday, Gaetz used social media platform \"X\" to announce his withdrawal from consideration for Trump's attorney general amidst media scrutiny and a lack of support from key Senate leadership. Embroiled in numerous allegations of misconduct, including sexual contact with a 17-year-old girl, Gaetz faced an uphill battle to confirmation. Gaetz previously resigned from Congress upon receiving the Attorney General nomination to avoid the release of an ethics report detailing the investigation into his conduct. Some have questioned if Gaetz would attempt to reclaim his position in the House, but Friday he confirmed he would not . \"I'm still going to be in the fight, but it's going to be from a new perch. I do not intend to join the 119th Congress,\" Gaetz said in an interview with Charlie Kirk . Originally published by Latin Times .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.latintimes.com/matt-gaetz-now-selling-pep-talks-cameo-app-250-after-exit-congress-566862",
+        "https://www.latintimes.com/matt-gaetz-wife-unemployment-post-not-returning-congress-566801",
+        "https://www.latintimes.com/topics/matt-gaetz",
+        "https://x.com/charliekirk11/status/1860007261046792293",
+        "https://www.latintimes.com/pam-bondi-trumps-new-pick-attorney-general-pushed-delay-florida-execution-save-fundraising-566727",
+        "https://www.latintimes.com/florida-rep-luna-defends-trumps-cabinet-picks-he-wants-people-who-know-how-message-americans-566713",
+        "https://www.latintimes.com/gop-leader-mitch-mcconnell-among-republicans-who-refused-vote-matt-gaetz-nomination-report-566698",
+        "https://latintimes.com/gop-leader-mitch-mcconnell-among-republicans-who-refused-vote-matt-gaetz-nomination-report-566698",
+        "https://latintimes.com/matt-gaetz-now-selling-pep-talks-cameo-app-250-after-exit-congress-566862",
+        "https://www.x.com/charliekirk11/status/1860007261046792293",
+        "https://latintimes.com/pam-bondi-trumps-new-pick-attorney-general-pushed-delay-florida-execution-save-fundraising-566727",
+        "https://latintimes.com/florida-rep-luna-defends-trumps-cabinet-picks-he-wants-people-who-know-how-message-americans-566713",
+        "https://latintimes.com/matt-gaetz-wife-unemployment-post-not-returning-congress-566801",
+        "https://latintimes.com/topics/matt-gaetz"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Don",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ddb81915d6481ff645b57118f4dd52f4a7d43b42",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:49:25.572+02:00",
+    "updated": "2024-11-23T01:49:25.572+02:00"
+}

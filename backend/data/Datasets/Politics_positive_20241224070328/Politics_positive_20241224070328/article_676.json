@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "ad154a8ccbfcdb95fc0e20654b2f591f6ce2d1ce",
+        "url": "https://www.hindustantimes.com/cities/pune-news/bhosale-khatal-emerge-giant-killers-in-western-maharashtra-toppling-chavan-and-thorat-101732392618100.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Bhosale, Khatal emerge giant-killers in western Maharashtra, toppling Chavan and Thorat",
+        "title_full": "Bhosale, Khatal emerge giant-killers in western Maharashtra, toppling Chavan and Thorat",
+        "published": "2024-11-23T21:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/Western-Maharashtra-witnessed-major-political-upse_1732392614390.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ad154a8ccbfcdb95fc0e20654b2f591f6ce2d1ce",
+    "url": "https://www.hindustantimes.com/cities/pune-news/bhosale-khatal-emerge-giant-killers-in-western-maharashtra-toppling-chavan-and-thorat-101732392618100.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T21:40:00.000+02:00",
+    "title": "Bhosale, Khatal emerge giant-killers in western Maharashtra, toppling Chavan and Thorat",
+    "text": "Bhosale, Khatal emerge giant-killers in western Maharashtra, toppling Chavan and Thorat\nWestern Maharashtra witnessed major political upsets as Congress stalwarts Chavan and Thorat faced defeat in their strongholds by Bhosale and Khatal\nPune: Western Maharashtra witnessed major political upsets as Congress stalwarts Prithviraj Chavan and Balasaheb Thorat faced defeat in their strongholds, falling to candidates who strategically capitalised on local rivalries and shifting voter dynamics.\nIn Sangamner, Congress heavyweight and eight-time MLA Thorat was unseated by Shiv Sena’s Amol Khatal, who made his electoral debut. Khatal, a former RTI activist, defeated Thorat by a margin of over 10,500 votes. The victory was backed by Bharatiya Janata Party (BJP) leader Radhakrishna Vikhe Patil and his son Sujay, long-time rivals of Thorat in local politics.\nKhatal attributed his success to grassroots support. “This is a victory for the Mahayuti workers and the common citizens who stood up against a big leader,” he said. Sujay Vikhe Patil accused Thorat of “gundagardi” (strong-arm politics), adding, “The people saw through it and voted him out.”\nIn Karad South, former chief minister Prithviraj Chavan suffered a stunning defeat to BJP’s Atul Bhosale, ending a decades-long Congress dominance in the constituency. Chavan, seeking a third term, was unable to withstand BJP’s growing influence in the region.\nBhosale, who has strong ties to local cooperatives through his control of two sugar factories, leveraged the BJP’s developmental narrative and criticised Chavan for “failing to deliver”. He also benefited from a decade of sustained support from BJP’s leadership, particularly Devendra Fadnavis, and the financial and social influence of his political family.\n“I thank the people of Karad South, the party workers, and Fadnavis for trusting me,” Bhosale said after his victory.\nChavan, despite attempts to rally Maratha support, including his outreach to pro-quota activist Manoj Jarange Patil, could not overcome the BJP’s consolidation of voters. Lack of cooperation from Nationalist Congress Party (Sharadchandra Pawar) workers, stemming from strained ties with the party’s leadership, further weakened his campaign.\nIn another surprising result, Babasaheb Deshmukh of the Shetkari Kamgar Party defeated Shiv Sena’s Shambhuraje Patil in Sangola. Patil, famous for his dialogue “Kay Zadi, Kay Dongar” (what beautiful trees, what beautiful hills) during Eknath Shinde’s rebellion, could not retain his seat. Deshmukh, grandson of veteran leader Ganpatrao Deshmukh, capitalised on strong rural voter base and discontent with Patil’s performance.\nThe results underscore a significant shift in western Maharashtra’s political landscape, with the Mahayuti alliance capitalising on local issues, strategic alliances, and the erosion of Congress’s traditional strongholds.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Thorat Bhosale",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Prithviraj Chavan",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Radhakrishna Vikhe Patil",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sujay Vikhe Patil",
+                "sentiment": "none"
+            },
+            {
+                "name": "Balasaheb Thorat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amol Khatal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:49:29.604+02:00",
+    "updated": "2024-11-24T05:49:29.604+02:00"
+}

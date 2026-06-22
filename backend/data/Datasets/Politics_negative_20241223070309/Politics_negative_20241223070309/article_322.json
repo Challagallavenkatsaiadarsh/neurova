@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "c5dbe2909a4c54f10076905d1ec84ab8c5a16794",
+        "url": "https://www.cbsnews.com/boston/news/massachusetts-shelters-stay-limit-hotels",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://cbslocal.com#site-header:22",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+        "title": "Proposed changes to Massachusetts shelter system include phasing out hotels, 6-month stay limit - CBS Boston",
+        "title_full": "Proposed changes to Massachusetts shelter system include phasing out hotels, 6-month stay limit - CBS Boston",
+        "published": "2024-11-23T00:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/22/e7931926-a6d5-4f15-a430-d389e51509f6/thumbnail/1200x630/2e2c6c7d44fcfaa0d338d17a57811832/migrants-suitcase.jpg?v=b1635869826311f914073798d8df6484",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c5dbe2909a4c54f10076905d1ec84ab8c5a16794",
+    "url": "https://www.cbsnews.com/boston/news/massachusetts-shelters-stay-limit-hotels",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:12:00.000+02:00",
+    "title": "Proposed changes to Massachusetts shelter system include phasing out hotels, 6-month stay limit - CBS Boston",
+    "text": "BOSTON - Massachusetts Gov. Maura Healey wants to limit stays for migrant and homeless families in emergency shelters to six months, under a new plan released Friday that also calls for phasing out the use of hotels and motels as shelters.\nHealey's proposal would create a new two-track system, one that would allow families to stay up to 30 days and another that would extend it up to six months, depending on circumstances. Massachusetts is currently allowing families to stay in emergency shelters for nine months .\nTwo-track system for Massachusetts shelters \"Beginning December 10, families will be assessed according to their risk and need and directed to either the system's Rapid Shelter Track or the Bridge Shelter Track. Stays in the Rapid Shelter Track are expected to conclude in 30 days. Stays in the Bridge Shelter Track are expected to conclude in six months, pending legislative approval,\" the governor's office said in a statement.\nFamilies would not be able to choose a track. Instead, the state will assign them.\nThe Bridge Shelter Track will be for \"more high-risk families and those with more complex needs that take longer to resolve to find permanent housing - they may be women who have a late-term pregnancies, people with intellectual or developmental disabilities.\"\nA year ago, Healey said Massachusetts has hit its emergency shelter system capacity of 7,500 families. In July of this year, Healey instituted a five-day stay limit for those staying at overflow safety-net sites like the former Chelsea Soldiers Home and an old prison in Norfolk.\nAdvocates for the homeless petitioned the governor this summer to rescind the time limits, saying they're concerned that families will have nowhere else to go .\nPhasing out hotels Healey's plan would also phase out using hotels and motels as shelters in Massachusetts, saying they're just too expensive. Earlier this year, the I-Team uncovered state contracts showing that taxpayers are paying tens of millions of dollars to hotels for rooms and food.\n\"Many hotel rooms lack the space needs for services, which can be isolating and makes it more difficult for case management staff to engage with families. As such, the administration will be phasing out shelters in hotels and motels throughout fiscal year 2025 and 2026 and shifting to a more cost-effective and supportive portfolio,\" Healey's office said.\nThe governor's plan still needs approval from the Legislature.\nIn: Massachusetts Immigration Migrants Mike Toole Mike Toole is the managing editor for CBS Boston. He has worked in the WBZ-TV newsroom for more than 20 years. He previously wrote and produced news and sports at WABC-TV in New York.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maura Healey",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:38:04.689+02:00",
+    "updated": "2024-11-23T00:38:04.689+02:00"
+}

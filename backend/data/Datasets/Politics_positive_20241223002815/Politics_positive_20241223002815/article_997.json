@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "e3d9b966b776e480534e2e6f8cd403e93ac585b1",
+        "url": "https://www.bernama.com/en/news.php/?id=2366682",
+        "site_full": "www.bernama.com",
+        "site": "bernama.com",
+        "site_section": "http://bernama.com/en/rssfeed.php",
+        "site_categories": [
+            "social",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "BERNAMA - English Version",
+        "title": "General : South Korea Keen On Smart Highway Collaboration With Malaysia - Nanta",
+        "title_full": "General : South Korea Keen On Smart Highway Collaboration With Malaysia - Nanta",
+        "published": "2024-11-23T06:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.bernama.com/storage/photos/6f4350a69c303d1b21edf0dbabbfd334674152aca1640-medium",
+        "performance_score": 0,
+        "domain_rank": 14583,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3d9b966b776e480534e2e6f8cd403e93ac585b1",
+    "url": "https://www.bernama.com/en/news.php/?id=2366682",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BERNAMA",
+    "published": "2024-11-23T06:01:00.000+02:00",
+    "title": "General : South Korea Keen On Smart Highway Collaboration With Malaysia - Nanta",
+    "text": "KUALA LUMPUR, Nov 23 (Bernama) -- South Korea has expressed interest in collaborating with Malaysia on infrastructure development, particularly in the construction and management of smart highways that incorporate advanced technologies in this country.\nWorks Minister Datuk Seri Alexander Nanta Linggi said the matter was among key points discussed during his bilateral meeting with South Korea’s Land, Infrastructure and Transport Minister Park Sang-Woo here yesterday.\nNanta said South Korea also plans to sign a memorandum of understanding with Malaysia for collaboration on developing smart highways and advanced management systems.\n“I also expressed hope that this cooperation will serve as a platform for both countries to exchange ideas and technologies, especially in the construction and management of highways in Malaysia, with an emphasis on safety, sustainability and cost-effectiveness.\n“Both nations also agreed to explore the possibility of developing road infrastructure projects utilising high-tech solutions that would benefit the public, in line with the Malaysia MADANI economic and infrastructure development policies,” he said in a Facebook post today.\nNanta said the collaboration is expected to create employment opportunities and improve the quality of life for Malaysians through enhanced and efficient road infrastructure.\nAs an initial step, discussions and further negotiations between senior officials of both countries will commence soon, with the goal of strengthening economic and diplomatic ties through the infrastructure sector.\n“This initiative is expected to further solidify bilateral relations between the two nations, which have maintained close diplomatic ties since 1960.\n“South Korea is globally recognised for its expertise in advanced road technology and vast experience in large-scale infrastructure projects,” he added.\n-- BERNAMA\nBERNAMA provides up-to-date authentic and comprehensive news and information which are disseminated via BERNAMA Wires; www.bernama.com; BERNAMA TV on Astro 502, unifi TV 631 and MYTV 121 channels and BERNAMA Radio on FM93.9 (Klang Valley), FM107.5 (Johor Bahru), FM107.9 (Kota Kinabalu) and FM100.9 (Kuching) frequencies.\nFollow us on social media :\nFacebook : @bernamaofficial, @bernamatv, @bernamaradio\nTwitter : @bernama.com, @BernamaTV, @bernamaradio\nInstagram : @bernamaofficial, @bernamatvofficial, @bernamaradioofficial\nTikTok : @bernamaofficial",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Datuk Seri Alexander Nanta Linggi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bernama",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Nanta",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:09:31.926+02:00",
+    "updated": "2024-11-23T06:09:31.926+02:00"
+}

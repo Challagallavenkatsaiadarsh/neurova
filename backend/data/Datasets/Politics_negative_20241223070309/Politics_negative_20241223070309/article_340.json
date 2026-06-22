@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "6f5e0b02acc77f0078240b051f1d72c38cb22dfb",
+        "url": "https://justthenews.com/government/congress/jim-jordan-instructs-garland-and-mayorkas-keep-their-records-border-probe-when",
+        "site_full": "justthenews.com",
+        "site": "justthenews.com",
+        "site_section": "https://justthenews.com/misty-severi",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Misty Severi | Just The News",
+        "title": "Jim Jordan instructs Garland and Mayorkas to keep their records on border when leaving office",
+        "title_full": "Jim Jordan instructs Garland and Mayorkas to keep their records on border when leaving office",
+        "published": "2024-11-22T23:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2024-05/GettyImages-2152425719.jpg?h=199d8c1f&amp;itok=I4PDPCuO",
+        "performance_score": 0,
+        "domain_rank": 14208,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f5e0b02acc77f0078240b051f1d72c38cb22dfb",
+    "url": "https://justthenews.com/government/congress/jim-jordan-instructs-garland-and-mayorkas-keep-their-records-border-probe-when",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Misty Severi",
+    "published": "2024-11-22T23:43:00.000+02:00",
+    "title": "Jim Jordan instructs Garland and Mayorkas to keep their records on border when leaving office",
+    "text": "Jim Jordan instructs Garland and Mayorkas to keep their records on border when leaving office\nJordan expressed concern in the letters that the departments would purge the documents, communications, and information that the committee has repeatedly requested when they leave office.\nHouse Judiciary Chairman Jim Jordan on Friday instructed Attorney General Merrick Garland, and Homeland Security Secretary Alejandro Mayorkas to keep their records related to the border crisis, as they prepare to leave office next year.\nThe requests were the latest signal that the committee plans to continue its investigations into the Biden-Harris administration's alleged failures. The committee [sent requests](https://justthenews.com/government/congress/house-judiciary-instructs-biden-admin-officials-keep-their-records) to officials in the Federal Trade Commission (FTC) and the Commodity Futures Trading Commission (CFTC) last week.\nJordan expressed concern in the letters that the departments would purge the documents, communications, and information that the committee has repeatedly requested when they leave office.\n“This letter serves as a formal request to preserve all existing and future records and materials related to the Biden-Harris Administration’s enforcement of federal immigration law,” Jordan [wrote in both letters. ](https://x.com/JudiciaryGOP/status/1860066360216420735)\n\"You should construe this preservation notice as an instruction to take all reasonable steps to prevent the destruction or alteration, whether intentionally or negligently, of all documents, communications, and other information ... that are or may be responsive to this congressional inquiry.\"\nMisty Severi is an evening news reporter for Just The News. You can [follow her on X](https://twitter.com/MistySeveri) for more coverage.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/MistySeveri",
+        "https://x.com/JudiciaryGOP/status/1860066360216420735",
+        "https://www.x.com/JudiciaryGOP/status/1860066360216420735",
+        "https://www.twitter.com/MistySeveri"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jim Jordan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Alejandro Mayorkas",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Merrick Garland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Commodity Futures Trading Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Trade Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Homeland Security",
+                "sentiment": "none"
+            },
+            {
+                "name": "CFTC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:39:48.292+02:00",
+    "updated": "2024-11-28T09:30:36.105+02:00"
+}

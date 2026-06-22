@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "fd71585d4c45b2ebb5601ae86fb18dcbb458adda",
+        "url": "https://www.theday.com/state/20241122/legislators-push-bill-to-improve-health-and-safety-of-military-housing",
+        "site_full": "www.theday.com",
+        "site": "theday.com",
+        "site_section": "https://www.theday.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "theday.com: New London and southeastern Connecticut News, Sports, Business, Entertainment and Video",
+        "title": "Legislators push bill to improve health and safety of military housing",
+        "title_full": "Legislators push bill to improve health and safety of military housing",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.theday.com/theday/assets/newsroom/TheDay_Facebook_OG-360px.png",
+        "performance_score": 0,
+        "domain_rank": 12563,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fd71585d4c45b2ebb5601ae86fb18dcbb458adda",
+    "url": "https://www.theday.com/state/20241122/legislators-push-bill-to-improve-health-and-safety-of-military-housing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joe Wojtas",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Legislators push bill to improve health and safety of military housing",
+    "text": "Legislators push bill to improve health and safety of military housing\nThe region’s congressional delegation announced Friday it is pushing for new legislation to improve the health and safety of military housing.\nU.S. Rep. Joe Courtney, D-Second District, Sen. Richard Blumenthal, (D-Conn.) and Sen. Chris Murphy (D-Conn.) along with Guam’s delegate to the House James Moylan have introduced the Healthy at Home on Base Act. It is aimed at supporting service members and their families by improving research on toxic mold in base housing.\nThe bill would create mold standards for military installations and construction requirements for new housing so service families are not sickened from preventable causes like toxic mold. The legislators said a 2023 Army inspection found mold in more than 2,000 of its facilities.\nThis measure was included in the fiscal year 2025 National Defense Authorization Act. The measure is expected to come before Congress next month.\n“\nComments are limited to 200 words in length.\nPost your comment [Cancel reply](/state/20241122/legislators-push-bill-to-improve-health-and-safety-of-military-housing/#respond)\nTotal word count: 0 words. Words left: 200.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Richard Blumenthal",
+                "sentiment": "none"
+            },
+            {
+                "name": "James Moylan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Courtney",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chris Murphy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:19:01.202+02:00",
+    "updated": "2024-11-23T01:19:01.202+02:00"
+}

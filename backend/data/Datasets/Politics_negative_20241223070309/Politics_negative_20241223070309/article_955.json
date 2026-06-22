@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "90923f7d192d061b59e8d18cffcc4ed08bed103c",
+        "url": "https://www.nraila.org/articles/20241122/gulfport-city-council-votes-to-create-gun-free-zone-for-law-abiding-citizens",
+        "site_full": "www.nraila.org",
+        "site": "nraila.org",
+        "site_section": "https://nraila.org/feeds/ilarss",
+        "site_categories": [
+            "hobbies_and_interests"
+        ],
+        "section_title": "NRA-ILA News",
+        "title": "Gulfport City Council Votes to Create \"Gun-Free Zone\" for Law-Abiding Citizens",
+        "title_full": "Gulfport City Council Votes to Create \"Gun-Free Zone\" for Law-Abiding Citizens",
+        "published": "2024-11-22T23:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.nraila.org/remote.axd?https://shared.nrapvf.org/sharedmedia/1507626/ms.jpg?preset=full",
+        "performance_score": 0,
+        "domain_rank": 13678,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "90923f7d192d061b59e8d18cffcc4ed08bed103c",
+    "url": "https://www.nraila.org/articles/20241122/gulfport-city-council-votes-to-create-gun-free-zone-for-law-abiding-citizens",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "National Rifle Association",
+    "published": "2024-11-22T23:41:00.000+02:00",
+    "title": "Gulfport City Council Votes to Create \"Gun-Free Zone\" for Law-Abiding Citizens",
+    "text": "Dear Gulfport NRA Member:\nThis week, the Gulfport City Council voted 4-3 to ban law-abiding citizens who legally open carry from bringing firearms into City Council Chambers during a public meeting. They also approved intrusive security measures, including wanding attendees to identify enhanced carry permit holders, as revealed during the debate on the proposals. These actions unfairly target responsible firearms owners and criminals will simply ignore another so-called \"gun-free zone.\" Gulfport has not experienced any issues related to open carry at council meetings — this is nothing more than a solution in search of a problem.\nThe ban and intrusive screening resolutions were sponsored by Councilmembers Ron Roland and R. Lee Flowers and supported by Councilmembers Richard Kosloski and Ella Holmes Hines. Council President Rusty Walker and Councilmembers Kenneth Casey and Myles Sharp voted against the measures. Please contact members of the City Council and let them know how you feel about their votes! Contact information for Councilmembers can be found here: Gulfport City Council | City of Gulfport\nPlease call Gulfport Mayor Billy Hewes and urge him to veto this anti-gun ordinance! Contact information for the mayor's office can be found here: Mayor | City of Gulfport\nPlease continue to check your inbox and NRA-ILA for updates concerning your Second Amendment rights and hunting heritage.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ella Holmes Hines",
+                "sentiment": "none"
+            },
+            {
+                "name": "Richard Kosloski",
+                "sentiment": "none"
+            },
+            {
+                "name": "R. Lee Flowers",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kenneth Casey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rusty Walker",
+                "sentiment": "none"
+            },
+            {
+                "name": "Myles Sharp",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ron Roland",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Gulfport City Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "City Council Chambers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:50:07.152+02:00",
+    "updated": "2024-11-23T01:50:07.152+02:00"
+}

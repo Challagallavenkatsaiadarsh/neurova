@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "614311ec656ee914f9c34fdd5582b554e2d69626",
+        "url": "https://www.citizen.co.za/boksburg-advertiser/news-headlines/local-news/2024/11/24/say-no-to-violence-against-women-and-children-2",
+        "site_full": "www.citizen.co.za",
+        "site": "citizen.co.za",
+        "site_section": "https://www.citizen.co.za/boksburg-advertiser/news-headlines/local-news",
+        "site_categories": [
+            "media",
+            "top_news_za",
+            "top_news"
+        ],
+        "section_title": "Local news | Boksburg Advertiser",
+        "title": "Say NO to violence against women and children | Boksburg Advertiser",
+        "title_full": "Say NO to violence against women and children | Boksburg Advertiser",
+        "published": "2024-11-24T05:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "ZA",
+        "main_image": "https://www.citizen.co.za/boksburg-advertiser/wp-content/uploads/sites/25/2024/11/gbvvecreigerpark_94730-e1732262083150.jpg",
+        "performance_score": 0,
+        "domain_rank": 11767,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "614311ec656ee914f9c34fdd5582b554e2d69626",
+    "url": "https://www.citizen.co.za/boksburg-advertiser/news-headlines/local-news/2024/11/24/say-no-to-violence-against-women-and-children-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Print Content",
+    "published": "2024-11-24T05:00:00.000+02:00",
+    "title": "Say NO to violence against women and children | Boksburg Advertiser",
+    "text": "As the country is preparing for the launch of the annual 16 Days of Activism for No Violence Against Women and Children, the Reiger Park SAPS-based Victim Support Centre (VEC) said it has a series of activities in the pipeline to raise awareness among residents about gender-based violence and other forms of abuse.\nThe centre, which boasts four volunteers who offer support to victims of abuse and other crimes, added that it has also streamlined its operation to tackle the likely surge in cases of domestic violence and other crimes during the festive season and beyond.\nMorathuwa Phello, a social auxiliary worker at the centre, urges victims of abuse to seek professional help.\nThe campaign, which raise awareness and calls for the elimination of all forms of abuse, runs between November 25 and December 10, and will this year be observed under the theme: ‘30 Years of Advancing Collective Action to End Violence Against Women and Children’.\nThe official event for the 2024 campaign launch will be held on November 25 in the North-West.\nAccording to the South African Government information services, this year’s campaign emphasises addressing the root causes of GBVF, promoting positive masculinity, promoting gender equity, and creating economic opportunities for women and children.\nAt its core, the theme aims to accelerate and amplify multisectoral and whole-of-society accountability.\nWhere to find help?\n• SAPS emergency number: 10111\n• People Opposed to Woman Abuse (Powa). Tel: 011 642 4345\n• Childline South Africa: Toll-free helpline: 116\n• Child Welfare South Africa: Tel: 074 080 8315\n• Families South Africa (Famsa): Tel: 011 975 7106/7\n• Tears Foundation: Free SMS helpline: *134*7355#. Tel: 010 590 5920\n• The Trauma Centre: Tel: 021 465 7373\nHelplines\nSAPS Emergency: 10111\nGender-Based Violence Command Centre: 0800 428 428\nSTOP Gender Violence Helpline: 0800 150 150/ *120*7867#\nHalt Elder Abuse Line (Heal) – helpline for elderly people: 0800 003 081\nHuman Trafficking helpline: 08000 737 283 (08000 rescue) / 082 455 3664\nAlso Read: Famsa weighs in on fight against GBV",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/BoksburgNews",
+        "https://www.instagram.com/boksburgadvertiser/",
+        "https://www.facebook.com/boksburgadvertiser/",
+        "https://www.youtube.com/user/BoksburgAdvertiser1",
+        "https://facebook.com/boksburgadvertiser/",
+        "https://www.facebook.com/boksburgadvertiser",
+        "https://www.instagram.com/boksburgadvertiser",
+        "https://instagram.com/boksburgadvertiser/",
+        "https://www.twitter.com/BoksburgNews",
+        "https://youtube.com/user/BoksburgAdvertiser1"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "VEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:42:15.571+02:00",
+    "updated": "2024-11-24T07:42:15.571+02:00"
+}

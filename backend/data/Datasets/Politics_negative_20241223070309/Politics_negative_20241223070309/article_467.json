@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "4bb6c14ecd1eeed1a3891c1aea0ece38b183925e",
+        "url": "https://www.nbcwashington.com/news/local/northern-virginia/annandale-man-accused-of-posing-as-fbi-agent-at-polling-place-on-election-day/3776095",
+        "site_full": "www.nbcwashington.com",
+        "site": "nbcwashington.com",
+        "site_section": "https://www.nbcwashington.com",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "NBC4 Washington &#8211; DC, Maryland, Virginia local news and weather",
+        "title": "Annandale man accused of posing as FBI agent at polling place on Election Day",
+        "title_full": "Annandale man accused of posing as FBI agent at polling place on Election Day",
+        "published": "2024-11-22T23:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3766,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4bb6c14ecd1eeed1a3891c1aea0ece38b183925e",
+    "url": "https://www.nbcwashington.com/news/local/northern-virginia/annandale-man-accused-of-posing-as-fbi-agent-at-polling-place-on-election-day/3776095",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julie Carey, News4 Northern Virginia Bureau Chief",
+    "published": "2024-11-22T23:54:00.000+02:00",
+    "title": "Annandale man accused of posing as FBI agent at polling place on Election Day",
+    "text": "A Northern Virginia man is facing a charge of impersonating an officer for allegedly showing up at a polling place on Election Day posing as an FBI agent.\nAuthorities say Alex Nguyen, 24, of Annandale, flashed a badge and told election workers he was with the FBI’s election security unit. Nguyen showed up twice at Timber Lane Elementary School, which was serving as a polling place in Falls Church, a detective wrote in search warrant documents.\nElection workers told police Nguyen was wearing a jacket with an FBI logo, had a gold badge on his belt and showed a wallet ID that appeared to have FBI credentials. They also could see a holster that appeared to hold a gun.\nElection workers notified police, and security camera video of Nguyen’s Jeep led investigators to his home. Among the items seized from his vehicle were a holster, black pellet gun, an FBI jacket and and FBI shirt, police said.\nAmong the items seized from Nguyen’s Jeep were a holster, a black pellet gun, an FBI jacket and an FBI shirt, police say. Police and election officials say Nguyen never displayed a weapon and voter operations were not affected.\nIt wasn’t immediately clear whether Nguyen has an attorney.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Nguyen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Timber Lane Elementary School",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:51.415+02:00",
+    "updated": "2024-11-23T00:50:51.415+02:00"
+}

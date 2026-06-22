@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "d9b27a86028e446f84d565c532c995b1d8d68966",
+        "url": "https://www.wnd.com/2024/11/texas-leads-counterrevolution-in-education",
+        "site_full": "www.wnd.com",
+        "site": "wnd.com",
+        "site_section": "https://www.wnd.com",
+        "site_categories": [
+            "tech",
+            "web_clip_art"
+        ],
+        "section_title": "WorldNetDaily",
+        "title": "Texas leads counterrevolution in education",
+        "title_full": "Texas leads counterrevolution in education",
+        "published": "2024-11-23T01:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.wnd.com/wp-content/uploads/2012/08/120831bibleschoolz.jpg",
+        "performance_score": 0,
+        "domain_rank": 4263,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d9b27a86028e446f84d565c532c995b1d8d68966",
+    "url": "https://www.wnd.com/2024/11/texas-leads-counterrevolution-in-education",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carole Hornsby Haynes",
+    "published": "2024-11-23T01:09:00.000+02:00",
+    "title": "Texas leads counterrevolution in education",
+    "text": "A Free Press For A Free People Since 1997",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Education",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wnd-news-alerts.beehiiv.com/subscribe",
+        "https://law.justia.com/codes/texas/education-code/title-2/subtitle-f/chapter-28/subchapter-a/section-28-002/",
+        "https://www.law.justia.com/codes/texas/education-code/title-2/subtitle-f/chapter-28/subchapter-a/section-28-002/",
+        "https://law.justia.com/codes/texas/education-code/title-2/subtitle-f/chapter-28/subchapter-a/section-28-002",
+        "https://www.wnd-news-alerts.beehiiv.com/subscribe"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Texas State Board of Education",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "d9b27a86028e446f84d565c532c995b1d8d68966",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:25:57.112+02:00",
+    "updated": "2024-11-23T03:47:35.445+02:00"
+}

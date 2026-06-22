@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "a7763954a11b3f89038f025c180237abbdd4366e",
+        "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/news/courts/2024/11/22/mexican-immigrant-gets-40-year-prison-sentence-for-cartel-linked-drug-trafficking",
+        "site_full": "dmn-dallas-news-prod.cdn.arcpublishing.com",
+        "site": "arcpublishing.com",
+        "site_section": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/news",
+        "site_categories": [],
+        "section_title": "News | Dallas Morning News",
+        "title": "Mexican immigrant gets 40-year prison sentence for drug trafficking",
+        "title_full": "Mexican immigrant gets 40-year prison sentence for drug trafficking",
+        "published": "2024-11-23T00:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/GYZISVVCZNF7NBDES5OY7DES3A.jpg?auth=2b541c8de5df6fd457dd847c9b4a7521b58db53c23c58ab275fd527ba8cb776b&amp;height=630&amp;width=1200&amp;smart=true&amp;quality=80",
+        "performance_score": 0,
+        "domain_rank": 10498,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a7763954a11b3f89038f025c180237abbdd4366e",
+    "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/news/courts/2024/11/22/mexican-immigrant-gets-40-year-prison-sentence-for-cartel-linked-drug-trafficking",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zacharia Washington",
+    "published": "2024-11-23T00:35:00.000+02:00",
+    "title": "Mexican immigrant gets 40-year prison sentence for drug trafficking",
+    "text": "A Mexican drug trafficker with links to a cartel was sentenced to 40 years in federal prison on Wednesday. Adriana Melendez-Calvillo, 43, pleaded guilty to a “criminal information charging conspiracy to possess with intent to distribute methamphetamine and money laundering,” last year in November, a news release from the U.S. Department of Justice said. She is a citizen of Mexico illegally present in the U.S., according to prosecutors. During Melendez-Calvillo’s sentencing on Wednesday, a federal agent testified that she had ties to Jalisco New Generation Cartel, or CJNG, which is a transnational drug trafficking organization. Court evidence introduced text messages that suggested Melendez-Calvillo received shipments of meth, cocaine and other drugs directly from a supplier in Mexico and she electronically transferred $828,094 in proceeds to individuals in the country, prosecutors said. Court evidence also uncovered that Melendez-Calvillo had parts in trafficking “at least 1,000 pounds of cocaine, 41 kilograms of methamphetamine and 7.8 kilograms of ice methamphetamine,” according to the release. One of Melendez-Calvillo’s co-conspirators, David Garcia, pleaded guilty to conspiracy to possess with intent to distribute methamphetamine last November, the release said. His sentencing is scheduled for January. Another co-conspirator, Omar Gilliam, was charged with conspiracy to possess with intent to distribute methamphetamine and is currently awaiting trial. Garcia and Gilliam both played parts in a meth transaction with Melendez-Calvillo, according to prosecutors.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adriana Melendez-Calvillo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:48:19.093+02:00",
+    "updated": "2024-11-23T00:48:19.093+02:00"
+}

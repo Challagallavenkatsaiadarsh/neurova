@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "746a3f558f54944bb8972008d896c017a8180473",
+        "url": "https://www.fbcnews.com.fj/news/historic-defense-agreement-to-boost-security-cooperation",
+        "site_full": "www.fbcnews.com.fj",
+        "site": "fbcnews.com.fj",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "sports"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Historic defense agreement to boost security cooperation – FBC News",
+        "title_full": "Historic defense agreement to boost security cooperation – FBC News",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "FJ",
+        "main_image": "https://www.fbcnews.com.fj/wp-content/uploads/2024/11/Acting-Minister-of-Home-Affairs-and-Immigration-Filimoni-Vosarogo-and-U.S.-Secretary-of-Defense-Lloyd-Austin.jpg",
+        "performance_score": 0,
+        "domain_rank": 83815,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "746a3f558f54944bb8972008d896c017a8180473",
+    "url": "https://www.fbcnews.com.fj/news/historic-defense-agreement-to-boost-security-cooperation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Historic defense agreement to boost security cooperation – FBC News",
+    "text": "The Acquisition and Cross-Servicing Agreement between Fiji and the United States marks a historic milestone in their defense and security partnership.\nFormalized at the Blackrock Peacekeeping and Humanitarian Assistance and Disaster Relief Camp yesterday, the agreement strengthens military interoperability and logistical support.\nThe agreement was signed by Acting Minister of Home Affairs and Immigration, Hon. Filimoni Vosarogo, and U.S. Secretary of Defense Lloyd Austin.\nA decade in the making, the ACSA facilitates reciprocal exchanges of critical supplies and services, enhancing joint readiness and operational capabilities to address emergencies, humanitarian missions, and regional security challenges.\nU.S. Secretary of Defense Lloyd Austin (left), Acting Minister of Home Affairs and Immigration, Filimoni Vosarogo [Source: Filimoni WR Vosarogo/ Facebook]\nThe partnership builds on existing initiatives, including U.S. Foreign Military Financing, leadership training under the International Military Education and Training program, and maritime security collaborations to combat illegal fishing and transnational crimes.\nAustin says the ACSA highlights a shared commitment to maintaining peace, security, and governance in the Indo-Pacific.\n“This agreement will mean closer logistics cooperation between our forces, including for humanitarian assistance and disaster relief. We’re also announcing the start of negotiations on a Status of Forces Agreement, or SOFA. Once complete, the SOFA will expand our bilateral defense cooperation through increased exercises and military-to-military engagement.”\nAdditionally, the 2018 Shiprider Agreement and the Nevada National Guard’s State Partnership Program have reinforced Fiji’s law enforcement and military capacity.\nFiji is also seeking U.S. support in transitioning peacekeeping forces post-2026 and advancing maritime domain awareness through technology and unmanned systems.\nThe agreement reflects the strategic alignment between the U.S. and Fiji, ensuring enhanced collaboration on pressing regional challenges such as climate change, maritime security, and countering narcotics trafficking.\nAs a regional leader, Fiji continues to play a critical role in fostering stability, and the partnership with the United States further solidifies its capacity to address evolving global and regional security needs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Filimoni Vosarogo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Humanitarian Assistance and Disaster Relief Camp",
+                "sentiment": "none"
+            },
+            {
+                "name": "Filimoni WR Vosarogo/ Facebook",
+                "sentiment": "none"
+            },
+            {
+                "name": "Blackrock Peacekeeping",
+                "sentiment": "none"
+            },
+            {
+                "name": "ACSA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:14:26.863+02:00",
+    "updated": "2024-11-24T09:36:46.223+02:00"
+}

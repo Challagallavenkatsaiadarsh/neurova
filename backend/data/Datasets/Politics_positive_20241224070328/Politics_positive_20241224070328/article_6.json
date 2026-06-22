@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "a0a08db4959d335300f1c275bb3ec260fa523bd7",
+        "url": "https://www.wapt.com/article/councilman-helps-feed-families-with-annual-crop-drop/62996776",
+        "site_full": "www.wapt.com",
+        "site": "wapt.com",
+        "site_section": "http://www.wapt.com/9723646?format=rss_2.0&view=feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Top Stories",
+        "title": "Ward 4 Councilman Kenneth Stokes hosts crop drop.",
+        "title_full": "Ward 4 Councilman Kenneth Stokes hosts crop drop.",
+        "published": "2024-11-23T23:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/sweet-potatoes-1668355378.jpg?crop=1.00xw:0.753xh;0,0.124xh&amp;resize=1200:*",
+        "performance_score": 0,
+        "domain_rank": 24596,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0a08db4959d335300f1c275bb3ec260fa523bd7",
+    "url": "https://www.wapt.com/article/councilman-helps-feed-families-with-annual-crop-drop/62996776",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Michaila Franklin",
+    "published": "2024-11-23T23:28:00.000+02:00",
+    "title": "Ward 4 Councilman Kenneth Stokes hosts crop drop.",
+    "text": "Councilman helps feed families with annual crop drop\nAdvertisement\nCouncilman helps feed families with annual crop drop\nFrom food to gifts, the holidays can get pricey. That's why one Jackson city councilman is lending a helping hand.On Saturday, Ward 4 Councilman Brian Grizzell held his third annual sweet potato crop drop. Grizzell says events like these can help ease the burden that comes with the holidays: \"Service is what we’re all about, and we’re going to just help ease the strain and stress of the holidays.\"One Ward 4 resident echoed those sentiments. \"Some people may be dealing with the cost of food, the high inflation and just not being able to provide a complete dinner meal,\" said Sylvia Owens. Grizzell says organizers came ready with over 6,000 pounds of sweet potatoes.\nJACKSON, Miss. —\nFrom food to gifts, the holidays can get pricey. That's why one Jackson city councilman is lending a helping hand.\nOn Saturday, Ward 4 Councilman Brian Grizzell held his third annual sweet potato crop drop.\nAdvertisement\nGrizzell says events like these can help ease the burden that comes with the holidays: \"Service is what we’re all about, and we’re going to just help ease the strain and stress of the holidays.\"\nOne Ward 4 resident echoed those sentiments. \"Some people may be dealing with the cost of food, the high inflation and just not being able to provide a complete dinner meal,\" said Sylvia Owens.\nGrizzell says organizers came ready with over 6,000 pounds of sweet potatoes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Lifestyle and Leisure",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kenneth Stokes",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Brian Grizzell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sylvia Owens",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:05:05.292+02:00",
+    "updated": "2024-11-24T00:05:05.292+02:00"
+}

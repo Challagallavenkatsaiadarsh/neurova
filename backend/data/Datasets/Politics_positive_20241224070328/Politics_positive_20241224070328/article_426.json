@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "92e303a76de128824260665316ab7f223d1b4dff",
+        "url": "https://www.see.news/trump-nominates-billionaire-scott-bessent-as-treasury-secretary",
+        "site_full": "www.see.news",
+        "site": "see.news",
+        "site_section": "https://www.see.news",
+        "site_categories": [],
+        "section_title": "Sada Elbalad english",
+        "title": "Trump Nominates Billionaire Scott Bessent as Treasury Secretary | Sada Elbalad",
+        "title_full": "Trump Nominates Billionaire Scott Bessent as Treasury Secretary | Sada Elbalad",
+        "published": "2024-11-24T03:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AL",
+        "main_image": "https://i2.wp.com/see.news/images/2024/11/-1732411649-0.jpg?resize=920%2C550&amp;ssl=1",
+        "performance_score": 0,
+        "domain_rank": 108062,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "92e303a76de128824260665316ab7f223d1b4dff",
+    "url": "https://www.see.news/trump-nominates-billionaire-scott-bessent-as-treasury-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2024-11-24T03:36:00.000+02:00",
+    "title": "Trump Nominates Billionaire Scott Bessent as Treasury Secretary | Sada Elbalad",
+    "text": "Taarek Refaat US President-elect Donald Trump’s selection of billionaire Scott Bessent to head the Treasury Department reflects Trump’s desire to avoid making radical changes that could destabilize financial markets.\nBessent is a trusted and well-trained business figure known for his calculated dealings in financial markets, and this choice will not raise concerns on Wall Street, which may be in the interest of the stability of the US economy.\nHe is a pioneer in the field of hedge funds and previously worked as a senior investor in the management of the “Soros” funds, is considered a moderate figure who focuses on market stability, which some see as very important at this stage.\nBessent was one of the most prominent names in Trump’s nominations, indicating that he chose a figure capable of managing financial crises in a calm and thoughtful manner.\nWhile Bessent is committed to maintaining market stability, he is not far removed from Trump’s economic policies. He sees tariffs, such as those imposed on China, as an important tool for achieving better trade deals, but Bessent focuses on the Treasury’s role in maintaining confidence in the markets and not harming the country’s financial situation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sada Elbalad Taarek Refaat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scott Bessent",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:46:56.561+02:00",
+    "updated": "2024-11-24T03:46:56.561+02:00"
+}

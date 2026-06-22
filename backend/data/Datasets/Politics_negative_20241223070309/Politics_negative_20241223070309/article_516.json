@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "adf79b4da4621cd8801082523ee891eaf092701f",
+        "url": "https://www.theregister.com/2024/11/22/andrew_tate_raid/?ref=biztoc.com",
+        "site_full": "www.theregister.com",
+        "site": "theregister.com",
+        "site_section": "https://www.biztoc.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "BizToc",
+        "title": "Andrew Tate's site ransacked, subscriber data stolen",
+        "title_full": "Andrew Tate's site ransacked, subscriber data stolen",
+        "published": "2024-11-23T00:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://regmedia.co.uk/2024/11/22/shutterstock_2506425855.jpg",
+        "performance_score": 0,
+        "domain_rank": 709,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "adf79b4da4621cd8801082523ee891eaf092701f",
+    "url": "https://www.theregister.com/2024/11/22/andrew_tate_raid/?ref=biztoc.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Iain Thomson",
+    "published": "2024-11-23T00:38:00.000+02:00",
+    "title": "Andrew Tate's site ransacked, subscriber data stolen",
+    "text": "He'll just have to take this one on the chin The website of self-proclaimed misogynist and alleged sex trafficker and rapist Andrew Tate has been compromised and data on its paying subscribers stolen. His now-ransacked Real World site is where the antagonistic online influencer preaches eyebrow-raising life advice primarily to young disillusioned men. The British-American ex-kickboxer charges subscribers $50 a month with a promise to help make them wealthier, fitter, and more masculine. The site is said to have more than 113,000 active users, and the guy himself has accumulated millions of followers on various social networks, some of which he has been banned and unbanned from. Intruders said they copied the contents of Real World's 221 public and 395 private chat servers, as well as 794,000 of its usernames for current and former members plus a list of 324,382 registered email addresses. This info has apparently been sent to the security breach notification service at Have I Been Pwned and the leak site DDoSecrets. The self-styled hacktivists also spammed Real World's chat rooms with LGBTQ+ related emojis – owing to Tate's views on gender and sexuality – and told the Daily Dot his site was \"hilariously insecure.\" An unpatched flaw allowed them “to upload emojis, delete attachments, crash everyone’s clients, and temporarily ban people.” Happy birthday, Putin – you've been pwned Israeli hacktivist group brags it took down Iran's internet 'Gay furry hackers' say they've disbanded after raiding Project 2025's Heritage Foundation 'Gay furry hackers' brag of second NATO break-in, steal and leak more data The cyberattack unfolded while Tate was livestreaming from his home in Romania, where he remains under house arrest. The 37-year-old is facing trial on charges of rape, human trafficking, and forming an organised crime ring to sexually exploit women. He denies any wrongdoing. An appeals court this week ruled some evidence was inadmissible, giving prosecutors days to respond. During the data heist on Thursday, the intruders spammed the main message board with pride icons, pro-trans imagery, and AI-generated images of Tate draped in a rainbow flag. This comes after the Real World was found to have left an 88GB MongoDB instance unprotected online containing records on 968,447 user accounts, thus exposing user IDs, email addresses, encrypted passwords, verification statuses, account recovery codes, password expiration dates, and reset tokens. The Real World had no response at the time of publication. ®",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bbc.com/news/uk-64125045",
+        "https://medium.com/matthews-place/how-andrew-tate-is-radicalizing-boys-to-be-anti-lgbtq-online-316a0f7e1d76",
+        "https://www.newsweek.com/fact-check-andrew-tate-human-trafficking-case-not-dismissed-1988348",
+        "https://cybernews.com/security/tates-real-world-exposes-user-messages/",
+        "https://www.rollingstone.com/culture/culture-features/andrew-tate-empire-real-story-1234696706/",
+        "https://www.dailydot.com/debug/andrew-tate-the-real-world-hack/",
+        "https://www.theguardian.com/news/2024/jan/06/im-andrew-tates-audience-and-i-know-why-he-appeals-to-young-men",
+        "https://www.cybernews.com/security/tates-real-world-exposes-user-messages/",
+        "https://bbc.com/news/uk-64125045",
+        "https://theguardian.com/news/2024/jan/06/im-andrew-tates-audience-and-i-know-why-he-appeals-to-young-men",
+        "https://www.rollingstone.com/culture/culture-features/andrew-tate-empire-real-story-1234696706",
+        "https://rollingstone.com/culture/culture-features/andrew-tate-empire-real-story-1234696706/",
+        "https://cybernews.com/security/tates-real-world-exposes-user-messages",
+        "https://www.dailydot.com/debug/andrew-tate-the-real-world-hack",
+        "https://www.medium.com/matthews-place/how-andrew-tate-is-radicalizing-boys-to-be-anti-lgbtq-online-316a0f7e1d76",
+        "https://dailydot.com/debug/andrew-tate-the-real-world-hack/",
+        "https://newsweek.com/fact-check-andrew-tate-human-trafficking-case-not-dismissed-1988348"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrew Tate",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:57:15.355+02:00",
+    "updated": "2024-11-23T00:57:15.355+02:00"
+}

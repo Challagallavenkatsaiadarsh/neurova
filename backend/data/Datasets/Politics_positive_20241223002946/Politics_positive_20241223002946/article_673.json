@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "0ac6fc1a2d0d35ad6754ed7330511ffa0de28082",
+        "url": "https://www.wweek.com/news/2024/11/22/trump-picks-lori-chavez-deremer-to-be-labor-secretary",
+        "site_full": "www.wweek.com",
+        "site": "wweek.com",
+        "site_section": "https://www.wweek.com/news/chasing-ghosts",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Chasing Ghosts - Willamette Week",
+        "title": "Trump Picks Lori Chavez-DeRemer to Be Labor Secretary",
+        "title_full": "Trump Picks Lori Chavez-DeRemer to Be Labor Secretary",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.wweek.com/resizer/v2/IZYXTLKDKZGYJLSZVLFS3PIG2Q.JPG?smart=true&amp;auth=0b0bf546d4defa626f95bea9d862cf17872a0311c0ffa3f9524d5b0a617fe7a4&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 7562,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 11
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0ac6fc1a2d0d35ad6754ed7330511ffa0de28082",
+    "url": "https://www.wweek.com/news/2024/11/22/trump-picks-lori-chavez-deremer-to-be-labor-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nigel Jaquiss",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "Trump Picks Lori Chavez-DeRemer to Be Labor Secretary",
+    "text": "President-elect Donald Trump announced today he has selected 5th District U.S. Rep. Lori Chavez-DeRemer (R-Ore.) to be the next secretary of labor.\n“I am proud to nominate Congresswoman Lori Chavez-DeRemer, from the great state of Oregon, as United States Secretary of Labor,” Trump said.\nChavez-DeRemer, the former mayor of Happy Valley, won her seat in 2022, knocking off Democrat Jamie McLeod-Skinner. She then lost reeelection Nov. 5 to state Rep. Janelle Bynum (D-Happy Valley), who had twice defeated Chavez-DeRemer in legislative contests.\nIn her reelection campaign, Chavez-DeRemer attracted unusually strong labor support for a Republican, and reportedly had the strong backing for a cabinet position from the Teamsters union, many of whose members supported Trump.\n“Lori’s strong support from both the business and labor communities will ensure that the Labor Department can unite Americans of all backgrounds behind our agenda for unprecedented national success,” Trump said in a statement, “making America richer, wealthier, strong and more prosperous than ever before!”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:02:54.769+02:00",
+    "updated": "2024-11-23T04:02:54.769+02:00"
+}

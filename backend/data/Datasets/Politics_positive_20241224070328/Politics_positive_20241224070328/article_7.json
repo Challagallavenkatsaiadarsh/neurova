@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "79ded8478894983bc0ef6a6a4803b8dbf330c821",
+        "url": "https://wjno.iheart.com/content/2024-11-23-trump-fills-2-more-vacancies-naming-picks-for-treasury-secretary-fda-head",
+        "site_full": "wjno.iheart.com",
+        "site": "iheart.com",
+        "site_section": "https://wjno.iheart.com/?pname=wjno.com&sc=dnsredirect",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "1290 WJNO - The Palm Beaches&#x27; Home for Mudd, Beck, Hannity, Clay &amp; Buck, Levin &amp; Noory",
+        "title": "Trump Fills 2 More Vacancies, Naming Picks For Treasury Secretary, FDA Head | 1290 WJNO",
+        "title_full": "Trump Fills 2 More Vacancies, Naming Picks For Treasury Secretary, FDA Head | 1290 WJNO",
+        "published": "2024-11-23T23:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.iheart.com/v3/re/assets.getty/67424ac29838044514b388e3?ops=gravity(%22north%22),fit(1200,675),quality(65)",
+        "performance_score": 0,
+        "domain_rank": 855,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "79ded8478894983bc0ef6a6a4803b8dbf330c821",
+    "url": "https://wjno.iheart.com/content/2024-11-23-trump-fills-2-more-vacancies-naming-picks-for-treasury-secretary-fda-head",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "iHeartRadio",
+    "published": "2024-11-23T23:34:00.000+02:00",
+    "title": "Trump Fills 2 More Vacancies, Naming Picks For Treasury Secretary, FDA Head | 1290 WJNO",
+    "text": "President-elect Donald Trump announced his nominations for key positions in his upcoming administration. Scott Bessent , a Wall Street financier, has been nominated for Treasury Secretary , while Dr. Marty Makary , a professor at Johns Hopkins School of Medicine, has been nominated for Food and Drug Administration (FDA) Commissioner.\nBessent was an early supporter of Trump's 2024 re-election bid. He has expressed his commitment to counter the mounting U.S. national debt , which includes slashing government programs and other spending. If confirmed by the Senate, Bessent would be the nation's first openly gay treasury secretary.\nDr. Marty Makary, a surgical oncologist at Johns Hopkins University, is known for his work on issues like surprise medical billing and his support for Robert F. Kennedy Jr ., Trump's choice to lead the Department of Health and Human Services . Makary has also been a vocal critic of various aspects of the public health response, particularly vaccine mandates and what he called the \"complete dismissal of natural immunity.\"\nIn his announcement, Trump stated that Makary would work with Kennedy to \"properly evaluate harmful chemicals poisoning our Nation's food supply and drugs and biologics being given to our Nation's youth, so that we can finally address the Childhood Chronic Disease Epidemic.\"\nTrump also announced other key nominations, including Dr. Janette Nesheiwat as surgeon general, and Dr. Dave Weldon to head the U.S. Centers for Disease Control and Prevention.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcnews.com/politics/donald-trump/trump-picks-scott-bessent-serve-treasury-secretary-rcna180171",
+        "https://www.nbcnews.com/health/health-news/trump-picks-dr-marty-makary-johns-hopkins-surgeon-fda-chief-rcna180883",
+        "https://nbcnews.com/health/health-news/trump-picks-dr-marty-makary-johns-hopkins-surgeon-fda-chief-rcna180883",
+        "https://nbcnews.com/politics/donald-trump/trump-picks-scott-bessent-serve-treasury-secretary-rcna180171"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scott Bessent",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marty Makary",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johns Hopkins School of Medicine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            },
+            {
+                "name": "FDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:05:06.408+02:00",
+    "updated": "2024-11-24T00:05:06.408+02:00"
+}

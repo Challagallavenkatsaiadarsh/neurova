@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "284ad07604597dacc6c8b17741c0e5a02c4851d2",
+        "url": "https://www.newsbreak.com/news/3686190804509-more-than-100-georgians-sleep-outside-in-solidarity-with-youth-experiencing-homelessness",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/tennille-ga",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Tennille, GA Local News and More | NewsBreak",
+        "title": "More than 100 Georgians sleep outside in solidarity with youth experiencing homelessness",
+        "title_full": "More than 100 Georgians sleep outside in solidarity with youth experiencing homelessness",
+        "published": "2024-11-23T01:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/3X9QOs_0wyHsjax00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "284ad07604597dacc6c8b17741c0e5a02c4851d2",
+    "url": "https://www.newsbreak.com/news/3686190804509-more-than-100-georgians-sleep-outside-in-solidarity-with-youth-experiencing-homelessness",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sawyer Buccy",
+    "published": "2024-11-23T01:23:00.000+02:00",
+    "title": "More than 100 Georgians sleep outside in solidarity with youth experiencing homelessness",
+    "text": "atlantanewsfirst.com 16 minutes ago 16 minutes ago Comments / YOU MAY ALSO LIKE Mississippi News Group3 days ago Uncovering Florida16 days ago Golden Gate Media3 days ago Herbie J Pilato8 days ago Robert Russell Shaneyfelt12 days ago The Current GA29 days ago Explore Beaufort SC19 days ago Angry Ben3 hours ago City Pulse10 days ago Dianna Carney9 days ago atlantanewsfirst.com19 hours ago Golden Gate Media12 days ago Dianna Carney1 day ago Arizona Luminaria6 days ago Dianna Carney1 day ago Herbie J Pilato2 days ago The HD Post5 hours ago The HD Post10 days ago ‘He misses her dearly’: Former President Jimmy Carter mourning death of Rosalynn Carter, one year later atlantanewsfirst.com2 days ago Jacksonville Today22 days ago Jacksonville Today24 days ago Arizona Luminaria9 days ago Vision Pet Care8 hours ago The HD Post10 days ago David Heitz12 days ago Explore Beaufort SC24 days ago Northern Kentucky Tribune21 days ago Dianna Carney11 days ago David Heitz26 days ago Vision Pet Care19 days ago Get updates delivered to you daily. Free and customizable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rosalynn Carter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robert Russell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jimmy Carter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dianna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:39:50.517+02:00",
+    "updated": "2024-11-23T01:39:50.517+02:00"
+}

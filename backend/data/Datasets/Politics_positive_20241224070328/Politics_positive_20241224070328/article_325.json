@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "f1438829059c85dfa695f97d4be029d7b2558b41",
+        "url": "https://www.newstalkzb.co.nz/news/sport/tj-perenara-s-haka-tribute-to-treaty-protest-highlights-all-blacks-win-over-italy",
+        "site_full": "www.newstalkzb.co.nz",
+        "site": "newstalkzb.co.nz",
+        "site_section": "https://www.newstalkzb.co.nz/on-air/the-country/audio",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Audio",
+        "title": "\\u0027Important to me\\u0027: TJ Perenara\\u2019s final haka tribute to Treaty protest",
+        "title_full": "\\u0027Important to me\\u0027: TJ Perenara\\u2019s final haka tribute to Treaty protest",
+        "published": "2024-11-23T15:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NZ",
+        "main_image": "https://www.newstalkzb.co.nz/media/bc1eiitx/all-blacks-v-italy-after.jpg?rmode=crop&v=1db3e746e183410&height=395&width=635&quality=95&scale=both",
+        "performance_score": 0,
+        "domain_rank": 21787,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1438829059c85dfa695f97d4be029d7b2558b41",
+    "url": "https://www.newstalkzb.co.nz/news/sport/tj-perenara-s-haka-tribute-to-treaty-protest-highlights-all-blacks-win-over-italy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ZB",
+    "published": "2024-11-23T15:48:00.000+02:00",
+    "title": "\\u0027Important to me\\u0027: TJ Perenara\\u2019s final haka tribute to Treaty protest",
+    "text": "'Important to me': TJ Perenara’s final haka tribute to Treaty protest News Sport Author NZ Herald , Publish Date Sun, 24 Nov 2024, 1:29pm 'Important to me': TJ Perenara’s final haka tribute to Treaty protest News Sport Author NZ Herald , Publish Date Sun, 24 Nov 2024, 1:29pm TJ Perenara has never been one to shy away from making a statement and he did exactly that in his last match for the All Blacks.\nLeading the haka for a record 64th time, the halfback mentioned “Toitū te tiriti o Waitangi” during the opening of Ka Mate before the All Blacks played Italy in Turin.\nSpeaking after the match, which the All Blacks won unconvincingly 29-11, Perenara told Sky Sports he did it in response to Hīkoi mō te Tiriti, the protest march opposing the Government’s policies towards Māori, primarily the Treaty Principles Bill.\n“Being able to lead the haka is special in any moment,” Perenara said. “To be able to lead it tonight, especially to show the unification of our people back home.\n“I think we all saw the people in our hīkoi ... the unity that our country showed. For us to be able to acknowledge the unification of our people, all of our people, not just tangata whenua but ngā tāngata katoa [everybody] is something that was important for us and important for me.”\nPerenara has been notably outspoken on various social issues, including advocating for LGBTQ+ rights and supporting the Black Lives Matter movement. He has used his platform to speak against racism and discrimination, emphasising inclusivity and equality.\nAn estimated 42,000 people attended the protest in Wellington on Tuesday, with attendees filling Parliament’s front lawn and surrounding streets.\nThe All Blacks ended their season with a lacklustre win against Italy, struggling with physicality and defensive pressure.\nDespite leading 17-6 at halftime, they fumbled through the second half, ultimately winning but failing to assert dominance. This performance leaves questions about their progress under Scott Robertson, despite a 10-4 season record.\nPerenara has led the haka 64 times, Ka Mate 30 times, and Kapa o Pango 34 times.\nAll Blacks' flat finale: Victory marred by underwhelming performance Seymour’s allegations around students taking part in hīkoi ‘inflammatory’ Watch: Speaker suspends House after haka by Te Pāti Māori interrupts Treaty Principles Bill vote Treaty Principles Bill: Protesters gather ahead of bill's introduction Treaty Principles Bill: Three principles agreed on by Cabinet Get the App Take your Radio, Podcasts and Music with you\nGet the iHeart App Close Get more of the radio, music and podcasts you love with the FREE iHeartRadio app. Scan the QR code to download now.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Arts, Culture and Entertainment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "TJ Perenara",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "All Blacks",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sky Sports",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:49:03.272+02:00",
+    "updated": "2024-11-24T03:31:04.526+02:00"
+}

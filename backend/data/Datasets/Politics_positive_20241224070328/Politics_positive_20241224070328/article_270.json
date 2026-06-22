@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "4eb02565a129c622a459ad2c628d79aeffa43dd8",
+        "url": "https://www.hindustantimes.com/cities/lucknow-news/victory-of-pda-s-unity-akhilesh-on-sp-retaining-2-maharashtra-seats-101732383314466.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "‘Victory of PDA’s unity’: Akhilesh on SP retaining 2 Maharashtra seats",
+        "title_full": "‘Victory of PDA’s unity’: Akhilesh on SP retaining 2 Maharashtra seats",
+        "published": "2024-11-23T19:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/MLA-elect-Abu-Azmi-with-SP-chief-Akhilesh-Yadav---_1732383311052.jpeg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4eb02565a129c622a459ad2c628d79aeffa43dd8",
+    "url": "https://www.hindustantimes.com/cities/lucknow-news/victory-of-pda-s-unity-akhilesh-on-sp-retaining-2-maharashtra-seats-101732383314466.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T19:05:00.000+02:00",
+    "title": "‘Victory of PDA’s unity’: Akhilesh on SP retaining 2 Maharashtra seats",
+    "text": "After the Samajwadi Party (SP) successfully retained its two seats in the Maharashtra Assembly, party chief Akhilesh Yadav hailed the victory as a triumph of PDA’s unity. Akhilesh had campaigned in Maharashtra, addressing public gatherings in Dhule and Malegaon districts. SP Maharashtra chief and MLA Abu Asim Azmi retained the Mankhurd Shivaji Nagar seat, defeating NCP’s Nawab Malik by a margin of 12,753 votes. Meanwhile, SP’s second MLA, Rais Kasam Sheikh, secured a landslide victory in the Bhiwandi East constituency, defeating Shiv Sena’s Santosh Manjayya Shetty by over 50,000 votes. Commenting on the party’s success, Akhilesh Yadav wrote on the social networking platform X, “Heartfelt gratitude and thanks to all the voters, supporters, workers, and leaders for making both the Samajwadi Party candidates win as the joint candidates of India Alliance in the Maharashtra Assembly elections. Hearty congratulations to Mr. Abu Asim Azmi from Mankhurd Shivaji Nagar Assembly seat and Mr. Raees Kasam Sheikh from Bhiwandi East Assembly seat for their victory. This is the victory of PDA’s unity!” Abu Asim Azmi also expressed gratitude on X, thanking the people of Mankhurd Shivaji Nagar for electing him for a fourth term. Azmi had previously won the assembly elections from the same seat in 2009, 2014, and 2019.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Santosh Manjayya Shetty",
+                "sentiment": "none"
+            },
+            {
+                "name": "Akhilesh Yadav",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abu Asim Azmi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nawab Malik",
+                "sentiment": "none"
+            },
+            {
+                "name": "Raees Kasam",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Samajwadi Party",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "East Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:16:53.958+02:00",
+    "updated": "2024-11-24T02:16:53.958+02:00"
+}

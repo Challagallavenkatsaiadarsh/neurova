@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "fef8a168a9065eedcd6ffa0ea437d3be3b943810",
+        "url": "https://www.the-independent.com/news/ap-massachusetts-boston-democratic-logan-international-airport-b2652296.html",
+        "site_full": "www.the-independent.com",
+        "site": "the-independent.com",
+        "site_section": "https://the-independent.com/rss",
+        "site_categories": [],
+        "section_title": "The Independent",
+        "title": "Massachusetts will phase out use of hotels and motels to shelter homeless families, governor says",
+        "title_full": "Massachusetts will phase out use of hotels and motels to shelter homeless families, governor says",
+        "published": "2024-11-23T01:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.the-independent.com/2024/11/22/23/Massachusetts_Homeless_Migrants_68112.jpg?quality=75&width=1200&auto=webp",
+        "performance_score": 0,
+        "domain_rank": 30568,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fef8a168a9065eedcd6ffa0ea437d3be3b943810",
+    "url": "https://www.the-independent.com/news/ap-massachusetts-boston-democratic-logan-international-airport-b2652296.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Steve Leblanc",
+    "published": "2024-11-23T01:33:00.000+02:00",
+    "title": "Massachusetts will phase out use of hotels and motels to shelter homeless families, governor says",
+    "text": "Massachusetts Gov. Maura Healey has announced that the state's reliance on hotels and motels to shelter homeless people will be phased out in the next couple of years [Steve Leblanc](/author/steve-leblanc) [Massachusetts](/topic/massachusetts)' reliance on hotels and motels to shelter homeless people will be phased out in the next couple of years, Gov. Maura Healey said Friday, outlining changes to the state's emergency family shelter system. The [Democratic](/topic/democratic) governor said the changes would help more families find stable, permanent housing and help manage costs. Healey said the emergency assistance system has remained steady at around 7,500 families with up to 40 families initially seeking shelter per day. In recent months, that average has fallen to about 15-18 families per day, she said. “In recent years, the state’s family shelter system has grown to be increasingly unsustainable,\" Healey said in a statement. “We’ve taken significant action to rein in its growth, and we’ve seen tangible results.” Last year, Healey declared a state of emergency, capping shelter capacity at 7,500 families. The state has also barred homeless families from sleeping overnight at [Logan International Airport](/topic/logan-international-airport) in [Boston](/topic/boston). Healey said the state will be phasing out the use of hotels and motels to shelter homeless people during the 2025 and 2026 fiscal years. The facilities lack the space for services and can be isolating, Healey said. She said providers will work with families to find safe and stable housing. The administration will also push to increase the state's temporary rental subsidy, Healey said. Under the proposed change, families will be eligible for up to $25,000 of rental assistance per year for two years. The current benefit is a total of $30,000 over two or $45,000 over three years. Beginning Dec. 10, homeless families will be placed on either a “Rapid Shelter Track” or “Bridge Shelter Track” depending on their needs, Healey said. The Rapid Shelter Track is aimed at families who have the resources to quickly find permanent housing. They will be offered 30 days of support to receive help with transitioning quickly to stable housing. The Bridge Shelter Track is meant for families with more complex needs who may take longer to find permanent housing – including women with late-term pregnancies and people with intellectual or developmental disabilities. Gladys Vega, president of La Colaborativa, an immigrant aid organization in Chelsea, Massachusetts, said it’s critical to maintain a safety net for those struggling to find housing they can afford. “As rental prices continue to rise, families across the commonwealth are increasingly finding themselves unable to sustain the cost of housing,” Vega said. “Many Massachusetts residents are a single paycheck away from homelessness.” Massachusetts has struggled to deal with a spike in demand for homeless services — in part due to the influx of migrants to the state. In June, Healey announced that beginning Aug. 1, families not prioritized for placement in emergency assistance shelters would be eligible to stay at overflow sites for just five days. Healey said she was tightening restrictions on emergency assistance system eligibility because of the system’s “continuing capacity constraints” and the need to protect its financial sustainability Beginning June 1, the state also began limiting how long homeless families can stay in shelters to nine months. After that, families are eligible for up to two 90-day extensions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maura Healey",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Steve Leblanc",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:43:27.073+02:00",
+    "updated": "2024-11-23T01:43:27.073+02:00"
+}

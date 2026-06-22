@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "dfe740ca793a504fd5f0ddac4bbf67f0aa07d7c3",
+        "url": "https://www.newsbreak.com/usa-today-560565/3686339264992-trump-picks-former-nfl-player-scott-turner-as-hud-secretary",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/usa-today-560565",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "USA TODAY&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T04:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0Ldjbh_0wyRISbY00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dfe740ca793a504fd5f0ddac4bbf67f0aa07d7c3",
+    "url": "https://www.newsbreak.com/usa-today-560565/3686339264992-trump-picks-former-nfl-player-scott-turner-as-hud-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T04:04:00.000+02:00",
+    "title": "",
+    "text": "By Swapna Venugopal Ramaswamy, USA TODAY ,\n10 minutes ago President-elect Donald Trump said Friday that he had picked Scott Turner, a former professional football player, as the secretary of the Department of Housing and Urban Development.\nTurner would be taking over a high-level Cabinet position charged with advising the president primarily on the housing needs of low and moderate-income families and increasing Americans' access to homeownership. The department also handles cases of housing discrimination.\nTurner will have to be confirmed by the Senate before he can take on the pivotal position.\nScott Turner, White House Opportunity Council executive director conducts a roundtable discussion on opportunity zones. Freddie Herpin Turner served as the executive director of the White House Opportunity and Revitalization Council in Trump’s first administration.\nHis leadership, Trump’s statement said, led an “unprecedented effort that transformed our country’s most distressed communities.”\nThe appointment comes after an election cycle where housing affordability was one of the most critical issues facing voters. Since 2019, U.S. rents have grown by more than 30%, according to Zillow.\nAfter graduating from University of Illinois, Turner was drafted by the Washington Redskins and spent nine years in the NFL before he went on to win a state house race in Texas, where he was born and raised.\nUnder Turner’s leadership, Opportunity Zones, an economic development tool that allows people to invest in distressed areas, received over $50 billion in private investment, according to Trump.\nThis article originally appeared on USA TODAY: Trump picks former NFL player Scott Turner as HUD secretary",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/11/tom-homan-border-czar-transitions-donald-trump/76193602007/",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/22/former-nfl-player-scott-turner-house-aide/76510993007/",
+        "https://img.particlenews.com/image.php?url=0Ldjbh_0wyRISbY00",
+        "https://zillow.mediaroom.com/2024-05-07-New-York-City-rents-grew-seven-times-faster-than-wages-last-year,-tightening-affordability-crunch",
+        "https://uw-media.usatoday.com/embed/video/76498740007?placement=newsbreak",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0Ldjbh_0wyRISbY00",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/22/former-nfl-player-scott-turner-house-aide/76510993007",
+        "https://usatoday.com/story/news/politics/elections/2024/11/22/former-nfl-player-scott-turner-house-aide/76510993007/",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/11/tom-homan-border-czar-transitions-donald-trump/76193602007",
+        "https://www.uw-media.usatoday.com/embed/video/76498740007?placement=newsbreak",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0Ldjbh_0wyRISbY00",
+        "https://img.particlenews.com/image.php",
+        "https://www.zillow.mediaroom.com/2024-05-07-New-York-City-rents-grew-seven-times-faster-than-wages-last-year,-tightening-affordability-crunch",
+        "https://usatoday.com/story/news/politics/elections/2024/11/11/tom-homan-border-czar-transitions-donald-trump/76193602007/",
+        "https://uw-media.usatoday.com/embed/video/76498740007",
+        "https://www.img.particlenews.com/image.php?url=0Ldjbh_0wyRISbY00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Swapna Venugopal Ramaswamy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott Turner",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Housing and Urban Development",
+                "sentiment": "none"
+            },
+            {
+                "name": "White House Opportunity Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:15:18.130+02:00",
+    "updated": "2024-11-23T04:15:18.130+02:00"
+}

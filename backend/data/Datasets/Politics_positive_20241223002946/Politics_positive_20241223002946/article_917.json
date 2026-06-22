@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "75020c88a05c4d994cab044b030bbaafad128d40",
+        "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/president-murmu-highlights-odishas-contribution-to-nation-building",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "President Murmu highlights Odisha’s contribution to nation-building",
+        "title_full": "President Murmu highlights Odisha’s contribution to nation-building",
+        "published": "2024-11-23T00:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-22%2Fw6yprvtt%2Fcontribution.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "75020c88a05c4d994cab044b030bbaafad128d40",
+    "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/president-murmu-highlights-odishas-contribution-to-nation-building",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-23T00:08:00.000+02:00",
+    "title": "President Murmu highlights Odisha’s contribution to nation-building",
+    "text": "BHUBANESWAR: President Droupadi Murmu on Friday said Odisha has immensely contributed towards nation building and people of the state are praised across the world for their tolerance and simplicity.\nSpeaking at the Odisha Parba organised by Odia Samaj in New Delhi, the President said the festival has played an important role in making people aware of the rich heritage of the state’s art, literature, dance, music and cuisine. Over the years, the festival has ignited a profound sense of pride among Odias.\n“The Kalinga war turned ‘Chandashoka’ into ‘Dharmashoka’. The war teaches us that peace is important for progress. Conflicts are going on in some parts of the world today. The Kalinga war chapter of Odisha’s history can show the path of peace to the world,” said the President.\nAddressing the gathering, Chief Minister Mohan Charan Majhi said the event will go a long way in highlighting Odisha’s art and culture, handicrafts, language and literature besides Odia pride. Quoting from the ‘Skanda Purana’, he said Bharata is the greatest among the countries and there is no land like Utkala in the entire world.\nStating that Lord Jagannath is the life of Odia people, the chief minister said after formation of the BJP government, the four doors of the Jagannath temple at Puri were opened. The state government has announced a corpus fund of Rs 500 crore for the temple and initiated measures for protection of Ratna Bhandar.\nUnion Education minister Dharmendra Pradhan said Odisha Parba is a good platform to showcase the state’s art, culture and history at the national level. The festival will play a major role in establishing Odisha’s culture across the world.\nSeveral other prominent leaders including Cuttack MP Bhartruhari Mahatab as well as historians, litterateurs, writers and artistes from the state attended the inaugural ceremony of the three-day event.\nThe highlight of the event will be an Odia conclave where discussions will be held on Odia Asmita (pride), promotion and preservation of Odisha’s culture, art, language and literature.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Droupadi Murmu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mohan Charan Majhi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:38:54.383+02:00",
+    "updated": "2024-11-23T05:38:54.383+02:00"
+}

@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "94194fb8a4f4154f55bd8bdf3abe39004f1e000e",
+        "url": "https://www.fox4news.com/news/ashley-grayson-murder-for-hire-sentence",
+        "site_full": "www.fox4news.com",
+        "site": "fox4news.com",
+        "site_section": "https://www.fox4news.com/almanac",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "DFW Almanac | FOX 4 Dallas-Fort Worth",
+        "title": "Dallas content creator sentenced to 10 years in murder-for-hire plot involving business rival | FOX 4 Dallas-Fort Worth",
+        "title_full": "Dallas content creator sentenced to 10 years in murder-for-hire plot involving business rival | FOX 4 Dallas-Fort Worth",
+        "published": "2024-11-22T23:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/1280/720/6eb23e0b-gavelnew.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 8783,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "94194fb8a4f4154f55bd8bdf3abe39004f1e000e",
+    "url": "https://www.fox4news.com/news/ashley-grayson-murder-for-hire-sentence",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX 4 Staff",
+    "published": "2024-11-22T23:17:00.000+02:00",
+    "title": "Dallas content creator sentenced to 10 years in murder-for-hire plot involving business rival | FOX 4 Dallas-Fort Worth",
+    "text": "A Dallas woman who was known for her online courses and business advice was sentenced to 10 years in federal prison after being convicted in a murder-for-hire case.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:32:38.508+02:00",
+    "updated": "2024-11-28T18:33:24.734+02:00"
+}

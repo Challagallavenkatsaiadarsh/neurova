@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "4afa59343e1634ab2354ed729953d3bc7d60673e",
+        "url": "https://daijiworld.com/news/newsDisplay?newsID=1247105",
+        "site_full": "daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://www.daijiworld.com/rssfeed/rssfeed.xml",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Today's News on Daijiworld.com",
+        "title": "Victory in Maharashtra and Assam bypolls due to PM Modi's good governance: Sarbananda Sonowal",
+        "title_full": "Victory in Maharashtra and Assam bypolls due to PM Modi's good governance: Sarbananda Sonowal",
+        "published": "2024-11-24T02:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "http://daijiworld.com/images/daijiSquareLogo.png",
+        "performance_score": 0,
+        "domain_rank": 24675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4afa59343e1634ab2354ed729953d3bc7d60673e",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1247105",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "daijiworld.com",
+    "published": "2024-11-24T02:36:00.000+02:00",
+    "title": "Victory in Maharashtra and Assam bypolls due to PM Modi's good governance: Sarbananda Sonowal",
+    "text": "Guwahati, Nov 24 (IANS): Union Minister Sarbananda Sonowal on Saturday credited the tremendous performance by BJP-led NDA in both Maharashtra and Assam as a result of Prime Minister Narendra Modi's brand of good governance.\n\"Under the dynamic leadership of Prime Minister Narendra Modi, the transformative policies have won the hearts of the people across the country. The results of today’s assembly elections in Maharashtra and bypolls in Assam are a clear reflection of the people’s trust and confidence in the leadership of Modi ji and the NDA government. His people-centric policies have brought about unprecedented change in the lives of all citizens of India.\"\nSonowal also expressed gratitude to the people for their overwhelming support in the constituencies of Behali, Samaguri, Dholai, Bongaigaon, and Sidli, where NDA candidates -- Diganta Ghatowal, Diplu Ranjan Sharma, Nihar Ranjan Das, Deeptimoyee Chowdhury, and Nirmal Kumar Brahma --secured victory.\nHe emphasised that the newly elected candidates would swiftly continue the development agenda in their respective constituencies and work towards winning the hearts of the people. Sonowal extended his best wishes to all the elected representatives for their future endeavours.\nSonowal acknowledged the contributions of key party leaders and the hard-working party cadre who played significant roles in the election campaign for their efforts.\nHe said: “Wherever there is Lotus, there is happiness, peace, and prosperity. The past 10 years have been a golden era for our country. Since Prime Minister Narendra Modi assumed office in 2014, a new wave of development has begun in India. Under his visionary leadership, India has entered a new era of governance, equality, and harmony, where all citizens have witnessed equal dignity and progress. During the tenure of the BJP-led government, farmers, youth, women, and marginalised communities have all had their hopes and aspirations fulfilled.”\nSonowal contrasted this with the Congress' 60-year rule, which he claimed had left India weak on the world stage and had failed to uphold democracy, imposing a state of emergency on the people.\nHe praised Prime Minister Modi for steering the nation toward comprehensive development and the creation of a new era of governance that has ushered in peace and prosperity for the Northeast region.\n“The BJP government has brought about rapid infrastructural development in the Northeast & Assam, reducing travel time between states and opening up new opportunities for growth. This progress is a direct result of the strong leadership of PM Modi and his genuine care and affection for the people of the Northeast,” Sonowal added.\nDisclaimer:\nPlease write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article.\nPlease note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request.\nHence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarbananda Sonowal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Deeptimoyee Chowdhury",
+                "sentiment": "none"
+            },
+            {
+                "name": "Diplu Ranjan Sharma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Diganta Ghatowal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nihar Ranjan Das",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IANS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Assam",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:14:06.545+02:00",
+    "updated": "2024-11-24T05:14:06.545+02:00"
+}

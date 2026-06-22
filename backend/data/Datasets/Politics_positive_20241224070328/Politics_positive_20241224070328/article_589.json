@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "a53b7ab1223fe477c26211e8981372a5419dead0",
+        "url": "https://www.devdiscourse.com/article/law-order/3168983-fatal-encounter-delhi-police-constables-death-avenged",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://devdiscourse.com/south-asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "South Asia News: International Development News, Breaking News, India News",
+        "title": "Fatal Encounter: Delhi Police Constable's Death Avenged | Law-Order",
+        "title_full": "Fatal Encounter: Delhi Police Constable's Death Avenged | Law-Order",
+        "published": "2024-11-24T02:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2024_10_55_31_6027327.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a53b7ab1223fe477c26211e8981372a5419dead0",
+    "url": "https://www.devdiscourse.com/article/law-order/3168983-fatal-encounter-delhi-police-constables-death-avenged",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-24T02:29:00.000+02:00",
+    "title": "Fatal Encounter: Delhi Police Constable's Death Avenged | Law-Order",
+    "text": "Fatal Encounter: Delhi Police Constable's Death Avenged\nA Delhi Police constable, Kiran Pal, was fatally stabbed by three assailants during patrol. Two, Deepak Max and Krish Gupta, were arrested. The third, Raghav, was killed after a gunfight with police in Sangam Vihar when he resisted arrest and opened fire.\n- Country:\n- India\nA Delhi Police constable lost his life after being stabbed during a night patrol. The incident occurred when Constable Kiran Pal confronted three individuals riding a scooty in southeast Delhi. The attackers, using stones, tried escaping but the constable intercepted them.\nTwo of the accused, Deepak Max and Krish Gupta, were captured later that day. However, the primary assassin, Raghav, eluded capture initially but was traced to Sangam Vihar.\nSpecial Cell and Narcotics Cell operatives located Raghav, who resisted arrest by firing at the officers. In defense, police shot back, fatally wounding Raghav. He succumbed to injuries at ESIC Hospital, Okhla. A pistol was recovered, showing the severity of the encounter.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kiran Pal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sangam Vihar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Krish Gupta",
+                "sentiment": "none"
+            },
+            {
+                "name": "Deepak Max",
+                "sentiment": "none"
+            },
+            {
+                "name": "Raghav",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Okhla",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:11:07.483+02:00",
+    "updated": "2024-11-24T05:11:07.483+02:00"
+}

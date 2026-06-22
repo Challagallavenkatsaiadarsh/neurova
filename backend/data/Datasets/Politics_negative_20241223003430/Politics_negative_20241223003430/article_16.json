@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "8084bfb4909d4c91828e72e9147aa16e511a2d7f",
+        "url": "https://www.stltoday.com/news/multimedia/ganoderma-root-rot-2-293257/image_9c6328df-8a45-531c-8824-8bc0f0ac5fe6.html",
+        "site_full": "www.stltoday.com",
+        "site": "stltoday.com",
+        "site_section": "https://www.stltoday.com/search/?f=rss&amp",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.stltoday.com - RSS Results",
+        "title": "ganoderma_root_rot_2_293257",
+        "title_full": "ganoderma_root_rot_2_293257",
+        "published": "2024-11-22T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/9/c6/9c6328df-8a45-531c-8824-8bc0f0ac5fe6/6740f80d6a1a6.image.jpg?crop=800%2C420%2C0%2C90&amp;resize=800%2C420&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 2389,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8084bfb4909d4c91828e72e9147aa16e511a2d7f",
+    "url": "https://www.stltoday.com/news/multimedia/ganoderma-root-rot-2-293257/image_9c6328df-8a45-531c-8824-8bc0f0ac5fe6.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T06:00:00.000+02:00",
+    "title": "ganoderma_root_rot_2_293257",
+    "text": "[St. Louis Post-Dispatch](/), 901 N. 10th St. St. Louis, MO 63101 Web Only Most Popular - [St. Louis County pins E. coli outbreak on prominent caterer. He calls it ‘reckless.’](/news/local/metro/st-louis-county-pins-e-coli-outbreak-on-prominent-caterer-he-calls-it-reckless/article_852d54a2-a45c-11ef-8b6d-fbe77c536f09.html) - [Clayton woman abducted, shot dead in alley was ‘everything to me,’ twin says](/news/local/crime-courts/clayton-woman-abducted-shot-dead-in-alley-was-everything-to-me-twin-says/article_700c2aec-a7ce-11ef-8b6d-fb656eab8f78.html) - [Atlanta will stand in for St. Louis in upcoming HBO series 'DTF St. Louis'](/life-entertainment/local/movies-tv/atlanta-will-stand-in-for-st-louis-in-upcoming-hbo-series-dtf-st-louis/article_3f082dbc-a39e-11ef-bb01-7704f04e9d36.html) - [St. Louis County coffee shop sued over $50k in unpaid rent](/news/local/business/st-louis-county-coffee-shop-sued-over-50k-in-unpaid-rent/article_bc96e586-a5ea-11ef-b359-23b23c82dff4.html) - [Woman shot dead in St. Louis was abducted from Clayton by gunman, police say](/news/local/crime-courts/woman-shot-dead-in-st-louis-was-abducted-from-clayton-by-gunman-police-say/article_2c334948-a78f-11ef-96b3-7347c71debd4.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Clayton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "HBO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "St. Louis County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:59.818+02:00",
+    "updated": "2024-11-23T00:01:59.818+02:00"
+}

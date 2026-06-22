@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "2b1a44c43fa215e910d8db802823ca85114127a3",
+        "url": "https://asamnews.com/2024/11/23/adena-ishii-first-asian-american-mayor-berkeley-california",
+        "site_full": "asamnews.com",
+        "site": "asamnews.com",
+        "site_section": "https://www.asamnews.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "AsAmNews &#8211; News about the Asian American and Pacific Islander communities",
+        "title": "Adena Ishii is Berkeley’s first Asian American mayor",
+        "title_full": "Adena Ishii is Berkeley’s first Asian American mayor",
+        "published": "2024-11-23T19:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 78462,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b1a44c43fa215e910d8db802823ca85114127a3",
+    "url": "https://asamnews.com/2024/11/23/adena-ishii-first-asian-american-mayor-berkeley-california",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Akemi Tamanaha",
+    "published": "2024-11-23T19:44:00.000+02:00",
+    "title": "Adena Ishii is Berkeley’s first Asian American mayor",
+    "text": "Adena Ishii will be Berkeley, California’s first Asian American mayor.\nAccording to KTVU , Ishii officially won the mayor’s race on Wednesday after her opponent Sophie Hahn conceded. The race was tight, with Ishii winning by 1,039 votes in ranked-choice voting, SFist reports.\n“My message in this campaign was that we needed a reset at City Hall, that we had had two City Council members resign, citing that city politics had become broken and toxic,” Ishii said in an interview with KQED . “We needed someone who was going to be focused on the issues.”\nIshii worked for several as a non-profit and education consultant but has never held public office. One\n“For people who didn’t know me, I knew that I was going to have to convince them that I was capable of doing it,” she said of her campaign in an interview with Berkeleyside .\nCo-director of the Institute of Governmental Studies at UC Berkeley Eric Schickler told KTVU Ishii’s victory suggests voters wanted changed.\n“The election of somebody who’s an outsider, who had not held any office in the city in the past, is at least a sign of voters being a little bit more interested in shaking things up or moving outside of the status quo,” he said.\nAsAmNews is published by the non-profit, Asian American Media Inc.\nWe are supported through donations and such charitable organizations as the Robert Wood Johnson Foundation. All donations are tax deductible and can be made here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ktvu.com/news/adena-ishii-victory-berkeley-mayor-election",
+        "https://www.kqed.org/news/12015247/adena-ishii-a-city-hall-outsider-wins-berkeley-mayors-race",
+        "https://sfist.com/2024/11/21/meet-adena-ishii-the-political-newcomer-who-will-be-the-next-mayor-of-berkeley/",
+        "https://www.berkeleyside.org/2024/11/22/adena-ishii-berkeley-mayor-how-she-won",
+        "https://www.rwjf.org/",
+        "https://sfist.com/2024/11/21/meet-adena-ishii-the-political-newcomer-who-will-be-the-next-mayor-of-berkeley",
+        "https://kqed.org/news/12015247/adena-ishii-a-city-hall-outsider-wins-berkeley-mayors-race",
+        "https://berkeleyside.org/2024/11/22/adena-ishii-berkeley-mayor-how-she-won",
+        "https://www.sfist.com/2024/11/21/meet-adena-ishii-the-political-newcomer-who-will-be-the-next-mayor-of-berkeley/",
+        "https://rwjf.org/",
+        "https://ktvu.com/news/adena-ishii-victory-berkeley-mayor-election",
+        "https://www.rwjf.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adena Ishii",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Eric Schickler",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sophie Hahn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KTVU",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Institute of Governmental Studies",
+                "sentiment": "none"
+            },
+            {
+                "name": "UC Berkeley",
+                "sentiment": "none"
+            },
+            {
+                "name": "KQED",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:47:10.303+02:00",
+    "updated": "2024-11-24T01:47:10.303+02:00"
+}

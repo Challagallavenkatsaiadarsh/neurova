@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "abbde59d80717fc4dfd29fd44a9ce9b352978594",
+        "url": "https://www.devdiscourse.com/article/politics/3168928-trump-nominates-rollins-for-agriculture-secretary",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Trump Nominates Rollins for Agriculture Secretary | Politics",
+        "title_full": "Trump Nominates Rollins for Agriculture Secretary | Politics",
+        "published": "2024-11-23T21:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/01_08_2024_11_18_02_4194667.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "abbde59d80717fc4dfd29fd44a9ce9b352978594",
+    "url": "https://www.devdiscourse.com/article/politics/3168928-trump-nominates-rollins-for-agriculture-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T21:02:00.000+02:00",
+    "title": "Trump Nominates Rollins for Agriculture Secretary | Politics",
+    "text": "Trump Nominates Rollins for Agriculture Secretary\nPresident-elect Donald Trump has announced the nomination of former White House aide Brooke Rollins as the agriculture secretary. Rollins, who previously led the office of American innovation, will need Senate confirmation. She will succeed Tom Vilsack, overseeing farming, forestry, and nutrition policies.\n[Devdiscourse News Desk](/devdiscourse-stories)| Washington DC | Updated: 24-11-2024 03:02 IST | Created: 24-11-2024 03:02 IST\n- Country:\n- United States\nPresident-elect Donald Trump has made a pivotal move by nominating Brooke Rollins, a former White House aide, as his agriculture secretary.\nRollins, currently at the helm of the America First Policy Institute, held a prominent role in Trump's office of American innovation during his initial term.\nHer nomination awaits confirmation by the Republican-controlled Senate, after which she would replace the current agriculture secretary, Tom Vilsack. The position involves managing an expansive portfolio, including farming, forestry, ranching, and food quality policies.\n(With inputs from agencies.)\n- READ MORE ON:\n-\n[Trump](/news?tag=Trump)\n-\n[Rollins](/news?tag=Rollins)\n-\n[Secretary](/news?tag=Secretary)\n-\n[Agriculture](/news?tag=Agriculture)\n-\n[Nomination](/news?tag=Nomination)\n-\n[Senate](/news?tag=Senate)\n-\n[White House](/news?tag=White+House)\n-\n[Farming](/news?tag=Farming)\n-\n[Forestry](/news?tag=Forestry)\n-\n[Nutrition](/news?tag=Nutrition)\nAdvertisement\nALSO READ\n[Democratic Victory: Jacky Rosen Retains Nevada Senate Seat](/article/politics/3151031-democratic-victory-jacky-rosen-retains-nevada-senate-seat) [Indians Shine at Grammy Nominations 2025: Ricky Kej and Anoushka Shankar Lead the Way](/article/entertainment/3151071-indians-shine-at-grammy-nominations-2025-ricky-kej-and-anoushka-shankar-lead-the-way) [Grammy Evolution: New Genres, Surprising Nominations, and Technology's Influence in 2025](/article/entertainment/3151115-grammy-evolution-new-genres-surprising-nominations-and-technologys-influence-in-2025) [Indian Stars Shine at 67th Grammy Awards Nominations](/article/entertainment/3151267-indian-stars-shine-at-67th-grammy-awards-nominations) [Biden and Trump: A Historical White House Meeting](/article/politics/3151684-biden-and-trump-a-historical-white-house-meeting)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tom Vilsack",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Republican",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:03:35.594+02:00",
+    "updated": "2024-11-24T00:07:54.191+02:00"
+}

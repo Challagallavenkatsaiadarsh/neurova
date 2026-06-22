@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "0d1a25f9ab4ddf7a04ea90fcdbe984d21affd06a",
+        "url": "https://www.freepressjournal.in/elections-2018/maharashtra-elections-results-2024-congress-aslam-shaikh-retains-malad-west-seat-secures-fourth-consecutive-victory",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "http://www.freepressjournal.in/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Free Press Journal",
+        "title": "Maharashtra Election Results 2024: Congress' Aslam Shaikh Retains Malad West Seat, Secures Fourth Consecutive Victory",
+        "title_full": "Maharashtra Election Results 2024: Congress' Aslam Shaikh Retains Malad West Seat, Secures Fourth Consecutive Victory",
+        "published": "2024-11-23T21:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2024-11-24/k7vxdfi3/46596791512411994172100514915655013477757581n.heic.jpg",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d1a25f9ab4ddf7a04ea90fcdbe984d21affd06a",
+    "url": "https://www.freepressjournal.in/elections-2018/maharashtra-elections-results-2024-congress-aslam-shaikh-retains-malad-west-seat-secures-fourth-consecutive-victory",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dhairya Gajara",
+    "published": "2024-11-23T21:35:00.000+02:00",
+    "title": "Maharashtra Election Results 2024: Congress' Aslam Shaikh Retains Malad West Seat, Secures Fourth Consecutive Victory",
+    "text": "Shaikh, who was first elected from Malad West constituency in 2009, retained his power for the third time in 2024 assembly election. Shaikh received 98,202 votes against BJP’s Vinod Shelar, who received 91,975 votes in a close contest.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashish Shelar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vinod Shelar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aslam Shaikh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vishwa Hindu Parishad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bandra West MLA",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North",
+                "sentiment": "none"
+            },
+            {
+                "name": "Malad West",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:52:26.226+02:00",
+    "updated": "2024-11-24T03:12:24.869+02:00"
+}

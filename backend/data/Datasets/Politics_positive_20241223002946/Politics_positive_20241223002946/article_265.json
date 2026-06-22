@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "3945dc7970122597d60ad43b8b3c474ab7819f07",
+        "url": "https://www.castanet.net/news/Vernon/518698/JCI-Vernon-taking-nominations-for-Good-Citizen-of-the-Year",
+        "site_full": "www.castanet.net",
+        "site": "castanet.net",
+        "site_section": "https://www.castanet.net/rss/mostrecent.xml",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Castanet.net - Most Recent Stories",
+        "title": "JCI Vernon taking nominations for Good Citizen of the Year (Vernon)",
+        "title_full": "JCI Vernon taking nominations for Good Citizen of the Year (Vernon)",
+        "published": "2024-11-23T00:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.castanet.net/content/2024/11/screen_shot_2024-11-21_at_11.31.55_am_p4095641.jpg",
+        "performance_score": 0,
+        "domain_rank": 17614,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3945dc7970122597d60ad43b8b3c474ab7819f07",
+    "url": "https://www.castanet.net/news/Vernon/518698/JCI-Vernon-taking-nominations-for-Good-Citizen-of-the-Year",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Darren Handschuh",
+    "published": "2024-11-23T00:15:00.000+02:00",
+    "title": "JCI Vernon taking nominations for Good Citizen of the Year (Vernon)",
+    "text": "JCI Vernon is once again looking for a good citizen.\nNominations for Vernon's Good Citizen of the Year are now being accepted.\n“We are asking the community to nominate a Vernonite who has gone above and beyond to serve the city,” said Michael Isobe, 2024 JCI Vernon chapter president. “Vernon has so many volunteers and good people who work quietly behind the scenes and we would like to recognize one of those citizens and let them know that Vernon appreciates them.”\nNominations will be accepted through December with the good citizen being named in the New Year.\n“They will walk in the Vernon Winter Carnival Parade and Kidston Helm Ross Lawyers will make a donation of $500 to the charity of the winners choice on their behalf,” Isobe said.\nNominations can be emailed to [[email protected]](/cdn-cgi/l/email-protection#a9c3cac0dfccdbc7c6c7cec6c6cdcac0ddc0d3ccc7e9cec4c8c0c587cac6c4).\nJCI Vernon is the local chapter of Junior Chamber International, a worldwide organization of 18 to 40 year old's who provide leadership opportunities while working to improve their local communities.\nTo learn more about JCI Vernon, [click here.](http://www.jcivernon.com)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Isobe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Junior Chamber International",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kidston Helm Ross Lawyers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "3945dc7970122597d60ad43b8b3c474ab7819f07",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:34:01.273+02:00",
+    "updated": "2024-11-23T06:05:32.767+02:00"
+}

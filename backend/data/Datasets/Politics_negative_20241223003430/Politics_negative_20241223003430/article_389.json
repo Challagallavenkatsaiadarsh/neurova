@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "f6219d1b2a3764b5e56bff3fdda5e5cfbd97bbd7",
+        "url": "https://www.newsbreak.com/daily-voice-525087/3686109450765-harrisburg-school-district-mourns-passing-of-board-president-jim-thompson",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/daily-voice-525087",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Daily Voice&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T00:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/4QCrhu_0wyCiNIg00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f6219d1b2a3764b5e56bff3fdda5e5cfbd97bbd7",
+    "url": "https://www.newsbreak.com/daily-voice-525087/3686109450765-harrisburg-school-district-mourns-passing-of-board-president-jim-thompson",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T00:15:00.000+02:00",
+    "title": "",
+    "text": "By Jillian Pikora ,\n28 minutes ago\nThe Harrisburg School District is grieving the sudden loss of James R. Thompson, its newly appointed Board President, who passed away unexpectedly on Tuesday, Nov. 19, 2024, just hours after attending a board meeting.\nThompson, 67, was present at the Committee of the Whole Board Meeting on the evening of Nov. 19, where he fulfilled his duties alongside fellow directors and district leadership. His passing marks the end of a remarkable tenure that spanned over a decade of service to the Harrisburg School District.\nThompson was reelected to the board in 2023 and recently named Board President, with Steven Williams as Vice President. His dedication to the students, families, and staff of the district was recognized by his colleagues and administration.\n\"Mr. Thompson thanked the Receiver, Acting Superintendent, and new administration for their superior efforts and dedication to the students and families of the HBGSD,\" the district shared in a statement.\nA moment of silence will be held to honor Thompson’s life and contributions during the next Board of Directors meeting, scheduled for Tuesday, Nov. 26, 2024, at 6:00 p.m. at the Administration Building.\nBorn on Dec. 3, 1956, Thompson was a longtime Harrisburg resident and a respected leader in the community. Funeral arrangements are being handled by Neill Funeral Home in Harrisburg.\nThe district and community extend their condolences to Thompson’s family, friends, and colleagues during this difficult time.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4QCrhu_0wyCiNIg00",
+        "https://img.particlenews.com/image.php?url=4QCrhu_0wyCiNIg00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=4QCrhu_0wyCiNIg00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4QCrhu_0wyCiNIg00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jillian Pikora",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Steven Williams",
+                "sentiment": "none"
+            },
+            {
+                "name": "R. Thompson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:44:34.244+02:00",
+    "updated": "2024-11-23T00:44:34.244+02:00"
+}

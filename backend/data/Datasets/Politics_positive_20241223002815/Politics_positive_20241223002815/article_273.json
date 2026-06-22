@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "fb0f6a4ad6120273a1aa369fe89e3b0d3769c424",
+        "url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404224",
+        "site_full": "morgangriffith.house.gov",
+        "site": "house.gov",
+        "site_section": "https://morgangriffith.house.gov/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "\r\n\tNews List | Congressman Morgan Griffith\r\n",
+        "title": "Griffith Announces $1.65 Million DOE Grant to Martinsville’s GENEDGE Alliance | Congressman Morgan Griffith",
+        "title_full": "Griffith Announces $1.65 Million DOE Grant to Martinsville’s GENEDGE Alliance | Congressman Morgan Griffith",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://morgangriffith.house.gov/images/facebook-meta.jpg",
+        "performance_score": 0,
+        "domain_rank": 443,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fb0f6a4ad6120273a1aa369fe89e3b0d3769c424",
+    "url": "https://morgangriffith.house.gov/news/documentsingle.aspx?DocumentID=404224",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Griffith Announces $1.65 Million DOE Grant to Martinsville’s GENEDGE Alliance | Congressman Morgan Griffith",
+    "text": "Griffith Announces $1.65 Million DOE Grant to Martinsville’s GENEDGE Alliance Friday, November 22, 2024 | Friday, November 22, 2024 – The U.S. Department of Energy (DOE) has awarded a $1,650,000 grant to the Martinsville-based GENEDGE Alliance. The funding will support the Virginia Smart Manufacturing Accelerator Program. U.S. Congressman Morgan Griffith (R-VA) issued the following statement: “GENEDGE Alliance is a leading contributor and innovator in the manufacturing space, benefitting economic growth and manufacturing in Virginia’s Ninth Congressional District. “This $1.65 million grant helps GENEDGE Alliance develop the Virginia Smart Manufacturing Accelerator Program.” BACKGROUND According to Virginia Smart Manufacturing Accerlator’s website, Smart Manufacturing is a technology-driven approach that uses internet-connected machinery to monitor and manage the production process. Goals include identifying opportunities for automating operations and using data analytics to improve manufacturing performance. In June of 2024, GENEDGE Alliance received a grant of more than $2.1 million from the U.S. Department of Commerce’s National Institute of Standards and Technology (NIST). This grant came as a result of their Manufacturing Extension Partnership Program. ### | Stay Connected Use the form below to sign up for my newsletter and get the latest news and updates directly to your inbox.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Morgan Griffith Griffith",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Virginia Smart Manufacturing Accelerator Program",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:35:24.866+02:00",
+    "updated": "2024-11-28T06:13:49.863+02:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "231cfe4891cdaeb884539d4e763c995ab60e8ff3",
+        "url": "https://www.chronline.com/stories/couple-who-led-drug-trafficking-operation-linked-to-aryan-prison-gang-plead-guilty,369042",
+        "site_full": "www.chronline.com",
+        "site": "chronline.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Couple who led drug trafficking operation linked to Aryan prison gang plead guilty",
+        "title_full": "Couple who led drug trafficking operation linked to Aryan prison gang plead guilty",
+        "published": "2024-11-22T21:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn3.creativecirclemedia.com/lafromboise/original/20230701-191129-US-NEWS-SEATTLE-MURDER-SENTENCING-DMT.jpg",
+        "performance_score": 0,
+        "domain_rank": 29601,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "231cfe4891cdaeb884539d4e763c995ab60e8ff3",
+    "url": "https://www.chronline.com/stories/couple-who-led-drug-trafficking-operation-linked-to-aryan-prison-gang-plead-guilty,369042",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Chronicle staff",
+    "published": "2024-11-22T21:12:00.000+02:00",
+    "title": "Couple who led drug trafficking operation linked to Aryan prison gang plead guilty",
+    "text": "Two leaders of a drug trafficking organization connected to the Aryan Family prison gang pleaded guilty to drug trafficking, money laundering and firearms-related charges on Wednesday in U.S. District Court in Tacoma, Jesse James Bailey, 40, and his wife, Candace Bailey, 42, are scheduled to be sentenced by Chief U.S. District Judge David G. Estudillo on Feb. 28. The investigation was led by the Federal Bureau of Investigation with the help of other federal, state and local officials. The Thurston County Narcotics Task Force, led by the Thurston County Sheriff’s Office, and the Lewis County Sheriff’s Office were among the local departments that assisted in the investigation. According to a news release from U.S. Attorney Tessa M. Gorman, prosecutors and attorneys for the defendants have agreed to recommend a 17½-year sentence for Jesse Bailey. Prosecutors will recommend no more than 10 years for his wife, Candace Bailey. Jesse Bailey pleaded guilty to possession of controlled substances with intent to distribute in a quantity that triggers a 10-year mandatory minimum sentence. Additionally, he pleaded guilty to possessing a firearm in furtherance of a drug trafficking crime, which adds a mandatory five-year term to his prison sentence. Jesse Bailey also pleaded guilty to conspiracy to launder money. Candace Bailey pleaded guilty to conspiracy to distribute controlled substances, illegally transferring a firearm to a prohibited person and conspiracy to commit money laundering. Judge Estudillo is not bound by the recommendations and can impose any sentence allowed by law. On Wednesday, March 22, 2023, the FBI led a coordinated takedown of the organization, according to the news release. They arrested 24 people, including the Baileys. On that day, law enforcement seized 177 firearms, more than 10 kilograms of methamphetamine, 11 kilos of fentanyl pills and more than a kilo of fentanyl powder, 3 kilos of heroin and more than $330,000 in cash from 18 locations in Washington and Arizona. The Baileys are forfeiting $699,268 seized from them as proceeds of criminal activity as well as 42 firearms, silencers, body armor, ammunition, scopes and tripods seized from various storage lockers and their residence. They are also forfeiting dozens of pieces of jewelry considered proceeds of their criminal conduct. In their plea agreements, the Baileys admitted to their drug trafficking conduct. The plea agreements describe how the couple discussed various suppliers of illegal narcotics and the pricing. They discussed drug buyers as well. Due to his criminal history, Jesse Bailey was prohibited from possessing firearms, and Candace Bailey admitted she transferred firearms to Jesse Bailey knowing he was a previously convicted felon. Finally, the Baileys admitted in their plea agreements how the couple sought to launder their drug proceeds through various casinos and bank accounts. The case is being prosecuted by Assistant United States Attorneys Zach Dillon and Max Shiner.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David G. Estudillo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jesse James Bailey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tessa M. Gorman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Candace Bailey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jesse Bailey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Thurston County Narcotics Task Force",
+                "sentiment": "none"
+            },
+            {
+                "name": "Thurston County Sheriff’s Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Bureau of Investigation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lewis County Sheriff’s Office",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "231cfe4891cdaeb884539d4e763c995ab60e8ff3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:36.179+02:00",
+    "updated": "2024-11-23T04:35:16.913+02:00"
+}

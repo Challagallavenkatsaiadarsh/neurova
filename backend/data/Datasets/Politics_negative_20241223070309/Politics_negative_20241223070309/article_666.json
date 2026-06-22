@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "dc926bda7f6c8e5c987493e06d6e734856f78865",
+        "url": "https://timesofindia.indiatimes.com/city/kochi/bjp-claims-no-central-neglect-in-wayanad-disaster-relief-amidst-political-controversy/articleshow/115575582.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/city/kochi",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Kochi News, Latest Kochi News Headlines &amp; Live Updates - Times of India",
+        "title": "BJP Claims No Central Neglect in Wayanad Disaster Relief Amidst Political Controversy | Kochi News - Times of India",
+        "title_full": "BJP Claims No Central Neglect in Wayanad Disaster Relief Amidst Political Controversy | Kochi News - Times of India",
+        "published": "2024-11-22T19:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115575581,width-1070,height-580,imgsize-34610,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dc926bda7f6c8e5c987493e06d6e734856f78865",
+    "url": "https://timesofindia.indiatimes.com/city/kochi/bjp-claims-no-central-neglect-in-wayanad-disaster-relief-amidst-political-controversy/articleshow/115575582.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Times Of India",
+    "published": "2024-11-22T19:39:00.000+02:00",
+    "title": "BJP Claims No Central Neglect in Wayanad Disaster Relief Amidst Political Controversy | Kochi News - Times of India",
+    "text": "Kochi: BJP state president K Surendran stated that the claim of central neglect in Wayanad disaster relief is a false campaign, and the state govt should publicly apologise. The documents submitted by the central govt in the high court are a blow to the Pinarayi govt. The govt and the opposition deceived the people by exploiting the Wayanad disaster for electoral gain, he said.Surendran said though the state govt submitted the PDNA report to the Centre on Nov 13, the day of the Wayanad and Chelakkara by-elections, the ruling party claimed it was submitted earlier. The Congress supported this claim without fully verifying it. The govt concealed the fact that out of the Rs 214 crore emergency financial aid requested from the Centre, Rs 150 crore was sanctioned and half of the amount from the SDRF fund was allocated for Wayanad. The central govt also provided funds for airlifting and debris removal and assured necessary assistance to Wayanad after reviewing the PDNA report submitted by the state, he added.Surendran said the govt should inform the public how much money was allocated for Wayanad from the SDRF fund and the Chief Minister's Relief Fund. \\\"The govt's and the opposition's hypocrisy is evident from the harsh criticism received from the high court for misleading the public with a strike over non-existent issues. The LDF and UDF conducted the strike without any warning, betraying the people. Both fronts engaged in a false campaign against the Prime Minister, who is ready to help Kerala,\\\" Surendran said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "K Surendran",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wayanad",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:18:00.705+02:00",
+    "updated": "2024-11-23T01:18:00.705+02:00"
+}

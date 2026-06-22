@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "602daaadc00e3338fddf342708f66113122df258",
+        "url": "https://www.newsbreak.com/fox-13-news-563658/3685803383347-why-2-salt-lake-city-officers-are-on-leave-following-the-death-of-a-50-year-old",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/fox-13-news-563658",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "FOX 13 News&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T20:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/1wpRJ2_0wxuHKoh00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "602daaadc00e3338fddf342708f66113122df258",
+    "url": "https://www.newsbreak.com/fox-13-news-563658/3685803383347-why-2-salt-lake-city-officers-are-on-leave-following-the-death-of-a-50-year-old",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T20:03:00.000+02:00",
+    "title": "",
+    "text": "By Michael Martin ,\n12 hours ago Two officers with the Salt Lake City Police Department are on paid administrative leave following the death of a 50-year-old man on Thursday.\nThe incident is now under investigation and SLCPD have invoked the officer-involved-critical-incident protocol. These are the details that police have released to the public.\nAccording to police, at 4:59 p.m. on Thursday, they were called about a man who was allegedly naked, disoriented, and going through trash near the intersection of 800\nSouth and 700 East. While officers were en route, another 9-1-1 caller informed first responders that the man was shaking.\nDue to the information available from community members, social workers with the Salt Lake City Police Department also responded to the scene.\nPolice say they found the man in a conscious and breathing but not alert state. Police say the man appeared very thin, weak, and malnourished. Police would also request the Salt Lake City Fire Department and Gold Cross Ambulance to respond for a psychological evaluation and medical treatment.\nWhile officers waited for the fire department and ambulance to arrive, police say the man repeatedly tried to stand despite instructions to remain seated. Officers would handcuff the man shortly before paramedics arrived.\nGold Cross Ambulance would take the man to the hospital with SLCPD and social workers following in separate vehicles. First responders say the man's condition worsened during the drive to the hospital and he would pass away once there. His official cause of death has yet to be determined by the medical examiner.\n“I’m proud of how our officers handled this incident,” Salt Lake City Police Chief Mike Brown said. “They approached this tragic situation with compassion and took steps to help by providing the man with clothing and blankets to warm him up while they waited for paramedics.”\nSalt Lake City Police say that their current investigation suggests that no SLCPD officer used deadly force and that no officers on scene fought, or used physical force with the man during their interactions.\nThe two officers who did interact with the victim have been placed on paid administrative leave which is standard procedure. West Jordan Police are leading the investigation into the death.\nRecent Northern Utah Stories\nOne person dead after shooting at Murray apartment, no threat to the public Ryan Marion\nMan killed after being struck by car in South Salt Lake Ryan Marion\nWATCH: Footage shows moments leading up to still missing K9 officer Mythili Gubbi\nWhy SWAT was called in by Kaysville Police during a domestic violence call Michael Martin",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fox13now.com/news/local-news/northern-utah/one-person-dead-after-shooting-at-murray-apartment-no-threat-to-the-public",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1wpRJ2_0wxuHKoh00",
+        "https://www.fox13now.com/news/local-news/northern-utah/man-killed-after-being-struck-by-car-in-south-salt-lake",
+        "https://www.fox13now.com/news/local-news/northern-utah/watch-footage-shows-moments-leading-up-to-still-missing-k9-officer",
+        "https://img.particlenews.com/image.php?url=1wpRJ2_0wxuHKoh00",
+        "https://www.fox13now.com/news/local-news/northern-utah/shelter-in-place-ordered-for-kaysville-residents",
+        "https://fox13now.com/news/local-news/northern-utah/man-killed-after-being-struck-by-car-in-south-salt-lake",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1wpRJ2_0wxuHKoh00",
+        "https://img.particlenews.com/image.php",
+        "https://fox13now.com/news/local-news/northern-utah/one-person-dead-after-shooting-at-murray-apartment-no-threat-to-the-public",
+        "https://www.img.particlenews.com/image.php?url=1wpRJ2_0wxuHKoh00",
+        "https://fox13now.com/news/local-news/northern-utah/shelter-in-place-ordered-for-kaysville-residents",
+        "https://fox13now.com/news/local-news/northern-utah/watch-footage-shows-moments-leading-up-to-still-missing-k9-officer"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Martin",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:06:28.574+02:00",
+    "updated": "2024-11-23T08:44:53.466+02:00"
+}

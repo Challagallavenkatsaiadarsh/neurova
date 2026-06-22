@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "f043c7589e624b73edc08677589e8eb0c61c16f9",
+        "url": "https://www.firstalert4.com:443/2024/11/22/2nd-suspect-charged-september-2023-fatal-shooting-hazelwood-quick-trip",
+        "site_full": "www.firstalert4.com",
+        "site": "firstalert4.com",
+        "site_section": "https://kmov.com/news/investigation",
+        "site_categories": [],
+        "section_title": "First Alert 4 Investigates",
+        "title": "2nd suspect charged in September 2023 fatal shooting at Hazelwood Quick Trip",
+        "title_full": "2nd suspect charged in September 2023 fatal shooting at Hazelwood Quick Trip",
+        "published": "2024-11-22T23:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-kmov-prod.gtv-cdn.com/resizer/v2/T3K2KU3QUJD73BUPEV5ZUCYC7Y.jpg?auth=d4a050806dbe62134d386fa2ea110f485a9de4c29715cd4c1a3782aefd416743&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 14000,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f043c7589e624b73edc08677589e8eb0c61c16f9",
+    "url": "https://www.firstalert4.com:443/2024/11/22/2nd-suspect-charged-september-2023-fatal-shooting-hazelwood-quick-trip",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "First Alert 4 Staff",
+    "published": "2024-11-22T23:43:00.000+02:00",
+    "title": "2nd suspect charged in September 2023 fatal shooting at Hazelwood Quick Trip",
+    "text": "2nd suspect charged in September 2023 fatal shooting at Hazelwood Quick Trip\nCLAYTON, Mo. (First Alert 4) - A second suspect was charged with murder Friday in the September 2023 fatal shooting of 18-year-old Charles Carbon at a Quick Trip in Hazelwood.\nSt. Louis County prosecutors have charged Dakota Shelton, 18, who court documents state was recently certified to stand trial as an adult, with second-degree murder and firearm crimes in the death of Carbon. Bond was set at $500,000 cash-only.\nIt’s not clear when Shelton was arrested, as his juvenile record is sealed under state law. He turned 18 in September and was booked at the county jail that month. A booking photo was not immediately available.\nShelton is the second suspect facing charges in the death of Carbon. Jaquan M. Clarett, 20, was indicted by a grand jury on the same changes in November 2023. He is also in custody and a pretrial hearing is set in his case on Jan. 17 in St. Louis County Court.\nAccording to a Hazelwood Police probable cause statement, Shelton and Clarett were two of three suspects inside[ a vehicle that opened fire on another vehicle](https://www.firstalert4.com/2023/10/02/hazelwood-police-investigating-homicide-quick-trip/) around 10:30 p.m. Sept. 30, 2023 at the Quick Trip in the 7400 block of North Lindbergh.\nCarbon, who was inside the vehicle that was shot at, was struck and later died, according to the statement.\nAn initial court appearance for Shelton has not been set.\nCopyright 2024 KMOV. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jaquan M. Clarett",
+                "sentiment": "none"
+            },
+            {
+                "name": "Charles Carbon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dakota Shelton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Quick Trip\nCLAYTON",
+                "sentiment": "none"
+            },
+            {
+                "name": "St. Louis County Court",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:15:19.655+02:00",
+    "updated": "2024-11-23T00:15:19.655+02:00"
+}

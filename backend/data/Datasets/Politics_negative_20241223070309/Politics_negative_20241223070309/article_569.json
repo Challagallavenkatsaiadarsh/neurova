@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "1a3da0bb7b42ed7e7d8b0ea007b180da744a307f",
+        "url": "https://ijr.com/georgia-maternal-mortality-committee-members-abruptly-fired-after-details-leaked-about-deaths-linked-to-abortion-pill",
+        "site_full": "ijr.com",
+        "site": "ijr.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "society"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "Georgia Maternal Mortality Committee Members Abruptly Fired After Details Leaked About Deaths Linked To Abortion Pill",
+        "title_full": "Georgia Maternal Mortality Committee Members Abruptly Fired After Details Leaked About Deaths Linked To Abortion Pill",
+        "published": "2024-11-23T00:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ijr.com/wp-content/uploads/2024/11/georgia-maternal-mortality-committee-members-abruptly-fired-after-details-leaked-about-deaths-linked-to-abortion-pill.jpg",
+        "performance_score": 0,
+        "domain_rank": 19563,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1a3da0bb7b42ed7e7d8b0ea007b180da744a307f",
+    "url": "https://ijr.com/georgia-maternal-mortality-committee-members-abruptly-fired-after-details-leaked-about-deaths-linked-to-abortion-pill",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daily Caller News Foundation",
+    "published": "2024-11-23T00:35:00.000+02:00",
+    "title": "Georgia Maternal Mortality Committee Members Abruptly Fired After Details Leaked About Deaths Linked To Abortion Pill",
+    "text": "Georgia commissioner and state health officer Dr. Kathleen Toomey dismissed all members of the committee that investigated the deaths of two women that suffered abortion pill complications after information surrounding the review leaked.\nAmber Thurman and Candi Miller reportedly passed away due to complications relating to the abortion pill, which the state maternal mortality review committee determined were “preventable,” according to reports obtained by ProPublica. All committee members were let go after an investigation failed to determine which members were responsible for leaking the information, according to a letter reportedly sent by Toomey to the committee.\n“Confidential information provided to the Maternal Mortality Review Committee (“MMRC” or “committee”) was inappropriately shared with outside individual(s) although both the confidential agreement that committee members sign and O.C.G.A. § 31-2A-16 prohibit the disclosure of such information,” Toomey’s letter reads. “Therefore, effective immediately the current MMRC is disbanded, and all member seats will be filled through a new application process.”\nThurman died after doctors delayed treating an infection caused by the medication abortion for over 20 hours, ProPublica reported . Miller passed away in 2022 after suffering similar complications and deciding not to seek medical attention, according to ProPublica.\nPro-life advocates insist misinformation from abortion supporters is what ultimately led to the deaths of the two women by causing confusion about what care doctors can legally provide.\n“Amber Thurman and Candi Miller died after they suffered complications from dangerous abortion drugs and did not receive appropriate, completely legal emergency care,” Marjorie Dannenfelser, president of Susan B. Anthony Pro-Life America, said in a September statement . “Georgia’s law, like pro-life laws in every other state, allows emergency care, miscarriage care and treatment for ectopic pregnancy. The laws do not penalize women who have abortions and they use plain, commonly accepted legal language. There would be no confusion if abortion advocates were not spreading confusion. Amber, Candi and their babies should be alive today. Democrats are putting countless lives at risk and we will relentlessly call them out.”\nGeorgia’s 6-week abortion ban went into effect in 2022 after the fall of Roe v. Wade , the landmark Supreme Court decision that maintained the national legality of abortion. The law suffered legal turmoil but was ultimately reinstated in October.\nThe Georgia Department of Public Health directed the Daily Caller News Foundation to Toomey’s letter upon request for comment\nAll content created by the Daily Caller News Foundation, an independent and nonpartisan newswire service, is available without charge to any legitimate news publisher that can provide a large audience. All republished articles must include our logo, our reporter’s byline and their DCNF affiliation. For any questions about our guidelines or partnering with us, please contact licensing@dailycallernewsfoundation.org .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathleen Toomey",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Candi Miller",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Georgia Maternal Mortality Committee",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Maternal Mortality Review Committee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1a3da0bb7b42ed7e7d8b0ea007b180da744a307f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:03:38.330+02:00",
+    "updated": "2024-11-23T01:03:38.330+02:00"
+}

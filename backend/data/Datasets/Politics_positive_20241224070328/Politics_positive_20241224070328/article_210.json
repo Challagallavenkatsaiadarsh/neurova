@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "cdc09e0a34300c37c61a2e90a06422aa743c47f5",
+        "url": "https://www.newsbreak.com/the-washington-times-1720242/3687231062775-trump-taps-brooke-rollins-former-white-house-adviser-to-lead-agriculture-department",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/the-washington-times-1720242",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Washington Times&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T23:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0aHQwM_0wzKuzOv00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cdc09e0a34300c37c61a2e90a06422aa743c47f5",
+    "url": "https://www.newsbreak.com/the-washington-times-1720242/3687231062775-trump-taps-brooke-rollins-former-white-house-adviser-to-lead-agriculture-department",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T23:41:00.000+02:00",
+    "title": "",
+    "text": "By Alex Miller ,\n2 hours ago\nPresident-elect Donald Trump announced on Saturday that he will nominate Brooke Rollins, who was an adviser in his first term, as Agriculture secretary in his new Cabinet.\n“As our next Secretary of Agriculture, Brooke will spearhead the effort to protect American Farmers, who are truly the backbone of our Country,” Mr. Trump said . “Congratulations Brooke!”\nThe announcement came after multiple media reports on Friday that Mr. Trump was expected to nominate former Sen. Kelly Loeffler of Georgia to the post.\nMs. Rollins played a large role in Mr. Trump’s first White House, serving on his Economic Advisory Council, as the director of his Domestic Policy Council, Director of the Office of American Innovation, and assistant to the president for strategic initiatives.\nShe went on to become CEO and co-founder of the America First Policy Institute and the America First Works, a pair of nonprofits that were geared toward pushing Mr. Trump’s public policy agenda for the last four years.\nAFPI has played a large role in Mr. Trump’s current transition effort. Indeed, another Trump Cabinet pick, Linda McMahon, served as the board chair for AFPI.\nMs. Rollins, 52, grew up in the agriculture-centered town of Glen Rose, Texas, and attended Texas A&M University, where she earned a bachelor’s of science in agriculture development. Mr. Trump said her background gives her a \"practitioner's experience,” coupled with her policy credentials at the state and national levels, to run the USDA.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0aHQwM_0wzKuzOv00",
+        "https://img.particlenews.com/image.php?url=0aHQwM_0wzKuzOv00",
+        "https://img.particlenews.com/image.php?url=0xkjDP_0wzKuzOv00",
+        "https://truthsocial.com/@realDonaldTrump/posts/113534345225690420",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0xkjDP_0wzKuzOv00",
+        "https://www.img.particlenews.com/image.php?url=0xkjDP_0wzKuzOv00",
+        "https://img.particlenews.com/image.php",
+        "https://www.truthsocial.com/@realDonaldTrump/posts/113534345225690420",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0xkjDP_0wzKuzOv00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0aHQwM_0wzKuzOv00",
+        "https://www.img.particlenews.com/image.php?url=0aHQwM_0wzKuzOv00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Miller",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kelly Loeffler",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Office of American Innovation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Economic Advisory Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Domestic Policy Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "America First Works",
+                "sentiment": "none"
+            },
+            {
+                "name": "American Farmers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "White House",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:48:35.790+02:00",
+    "updated": "2024-11-24T01:48:35.790+02:00"
+}

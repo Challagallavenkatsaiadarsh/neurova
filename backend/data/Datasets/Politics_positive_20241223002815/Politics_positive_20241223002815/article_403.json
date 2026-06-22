@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "7cdc0bc4c36d7b52d80a786d49e0572a3fcf6a99",
+        "url": "https://www.fbcnews.com.fj/news/fiji-and-us-strength-defense-ties-in-key-engagements",
+        "site_full": "www.fbcnews.com.fj",
+        "site": "fbcnews.com.fj",
+        "site_section": "https://www.fbcnews.com.fj",
+        "site_categories": [
+            "sports"
+        ],
+        "section_title": "FBC News &#8211; Latest Fiji News, Sports, and Weather.  Keeping Fijians Connected.",
+        "title": "Fiji and US strength defense ties in key engagements",
+        "title_full": "Fiji and US strength defense ties in key engagements",
+        "published": "2024-11-23T02:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "FJ",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 83815,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7cdc0bc4c36d7b52d80a786d49e0572a3fcf6a99",
+    "url": "https://www.fbcnews.com.fj/news/fiji-and-us-strength-defense-ties-in-key-engagements",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Filipe Naikaso Senior Multimedia Journalist West",
+    "published": "2024-11-23T02:05:00.000+02:00",
+    "title": "Fiji and US strength defense ties in key engagements",
+    "text": "Prime Minister Sitiveni Rabuka has welcomed the active engagement of the United States in strengthening bilateral ties, particularly in defense and security. Speaking during a press conference in Nadi today, Rabuka highlighted the importance of continued collaboration with the US, including with the Trump administration. The Prime Minister’s remarks come after a series of engagements between the two countries this year, stressing the growing partnership. Rabuka highlights the recent signing of the Fiji-US Air Transport Agreement in August and the establishment of the USA Pacific Regional Office in Fiji, which was formalized with the signing of the Bilateral Framework Agreement in October. He says these agreements mark a new chapter in their relationship with the United States. Rabuka notes that Fiji has significantly benefited from defense relationship with the US, citing numerous programs and joint collaborations that have enhanced Fiji’s ability to protect its waters and marine resources, as well as to address transnational crises. US Secretary of Defense Lloyd Austin expanded on the growing defense cooperation between the two nations. Austin says that he will soon sign a new Acquisition and Cross-Servicing Agreement with Fiji’s Ministry for Home Affairs and Immigration. This agreement, Austin explains, will facilitate closer logistics cooperation between the two forces, especially in areas of humanitarian assistance and disaster relief. Austin also shares details of upcoming security assistance initiatives, including a $4.9 million package of foreign military financing, which is pending Congressional approval. This funding will support Fiji’s defense capabilities and contribute to the broader security framework in the Pacific region. The US Secretary of Defense also spoke about the delivery of rigid hull inflatable boats to Fiji, which are expected to arrive in the coming months. These boats will play a crucial role in enhancing Fiji’s maritime security and disaster response capabilities. The leaders discussed the unique security challenges facing the Pacific Islands region, which include maritime security, environmental concerns, and regional stability. Both parties reaffirmed their commitment to strengthening the Indo-Pacific security architecture and enhancing cooperation in addressing shared threats.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sitiveni Rabuka",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "USA Pacific Regional Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "Defense Lloyd Austin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Nadi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:29:42.641+02:00",
+    "updated": "2024-11-23T14:16:59.307+02:00"
+}

@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "f3d797878c303bda25a7cd8470a98341cd877730",
+        "url": "https://www.cbsnews.com/philadelphia/news/atlantic-city-hope-work-initiative-homelessness",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.cbsnews.com/philadelphia/latest/rss/main",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Home - CBS Philadelphia",
+        "title": "Atlantic City launches new work program to give people experiencing homelessness a second chance - CBS Philadelphia",
+        "title_full": "Atlantic City launches new work program to give people experiencing homelessness a second chance - CBS Philadelphia",
+        "published": "2024-11-23T02:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/23/68e9e53f-bb15-49af-96c2-224cea132818/thumbnail/1200x630/92cd3a0e38728a123a5a2452c6284b8f/17pkg-rh-ac-homeless-work-program-transfer-frame-1085.jpg?v=b1635869826311f914073798d8df6484",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f3d797878c303bda25a7cd8470a98341cd877730",
+    "url": "https://www.cbsnews.com/philadelphia/news/atlantic-city-hope-work-initiative-homelessness",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:51:00.000+02:00",
+    "title": "Atlantic City launches new work program to give people experiencing homelessness a second chance - CBS Philadelphia",
+    "text": "A new work program called the Hope Work Initiative launched this week in Atlantic City to give people experiencing homelessness a second chance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/HughesCBS3",
+        "https://www.facebook.com/RyanHughesWPTV",
+        "https://www.acnj.gov/News/View/2061/city-of-atlantic-city-kicks-off-new-work-program-that-employs-homeless-individuals",
+        "https://www.instagram.com/ryan.hughes77/",
+        "https://www.twitter.com/HughesCBS3",
+        "https://facebook.com/RyanHughesWPTV",
+        "https://acnj.gov/News/View/2061/city-of-atlantic-city-kicks-off-new-work-program-that-employs-homeless-individuals",
+        "https://instagram.com/ryan.hughes77/",
+        "https://www.instagram.com/ryan.hughes77"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marty Small",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS Philadelphia Diamond Heard",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CBS News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Avenue",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:57:20.256+02:00",
+    "updated": "2024-11-23T04:16:13.141+02:00"
+}

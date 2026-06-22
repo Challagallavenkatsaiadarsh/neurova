@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "8ad2f5d83dbaf0b7460a89485a3844380d2b9319",
+        "url": "https://www.cincinnati.com/story/news/2024/11/22/mcconnell-reportedly-was-against-matt-gaetz-bid-for-attorney-general/76505390007",
+        "site_full": "www.cincinnati.com",
+        "site": "cincinnati.com",
+        "site_section": "https://www.cincinnati.com/news",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "News",
+        "title": "McConnell reportedly one of at least four Republican senators against Gaetz's AG bid",
+        "title_full": "McConnell reportedly one of at least four Republican senators against Gaetz's AG bid",
+        "published": "2024-11-22T23:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/11/21/USAT/76482492007-usatsi-24813841.jpg?auto=webp&crop=2098,1180,x0,y109&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 2915,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ad2f5d83dbaf0b7460a89485a3844380d2b9319",
+    "url": "https://www.cincinnati.com/story/news/2024/11/22/mcconnell-reportedly-was-against-matt-gaetz-bid-for-attorney-general/76505390007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", The Enquirer",
+    "published": "2024-11-22T23:32:00.000+02:00",
+    "title": "McConnell reportedly one of at least four Republican senators against Gaetz's AG bid",
+    "text": "Kentucky Sen. Mitch McConnell was one of at least four Republican senators who opposed Matt Gaetz's nomination as attorney general, according to a report from The New York Times. President-elect Donald Trump announced Gaetz's nomination last week, but it was unclear whether Gaetz would have enough Republican support to become the country's top law enforcement official. Amid the allegations of sexual misconduct though, Gaetz posted on X, formerly known as Twitter, yesterday that he withdrew his nomination because he believed his confirmation would be a \"distraction to the work of the Trump/Vance administration.\" The New York Times then reported Gaetz \"told people close to him\" that Sen. Lisa Murkowski, Sen. Suzanne Collins, and Sen. John Curtis along with McConnell were \"implacably opposed\" to Gaetz's nomination after meeting with Republican senators and staff. Since Gaetz's withdrawal, Trump has chosen former Florida Attorney General Pam Bondi as his pick for attorney general. Reach reporter Hannah Pinski at @hpinski@courier-journal.com or follow her on X, formerly known as Twitter, at @hannahpinski.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/21/matt-gaetz-withdraws-consideration-attorney-general/76480095007/",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/21/donald-trump-pam-bondi-attorney-general/76489250007/",
+        "https://www.nytimes.com/live/2024/11/21/us/trump-gaetz-news",
+        "https://usatoday.com/story/news/politics/elections/2024/11/21/matt-gaetz-withdraws-consideration-attorney-general/76480095007/",
+        "https://nytimes.com/live/2024/11/21/us/trump-gaetz-news",
+        "https://usatoday.com/story/news/politics/elections/2024/11/21/donald-trump-pam-bondi-attorney-general/76489250007/",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/21/donald-trump-pam-bondi-attorney-general/76489250007",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/21/matt-gaetz-withdraws-consideration-attorney-general/76480095007"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:17:44.641+02:00",
+    "updated": "2024-11-23T00:34:28.972+02:00"
+}

@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "ed44ece4299c0427b7e2478cf7726358cde4d43e",
+        "url": "https://thesun.ng/2025-budget-enugu-govt-engages-citizens-assures-of-prioritising-residents-needs",
+        "site_full": "thesun.ng",
+        "site": "thesun.ng",
+        "site_section": "https://www.sunnewsonline.com",
+        "site_categories": [],
+        "section_title": "The Sun Nigeria &ndash; Voice of the Nation",
+        "title": "2025 budget: Enugu govt engages citizens, assures of prioritising resident’s needs",
+        "title_full": "2025 budget: Enugu govt engages citizens, assures of prioritising resident’s needs",
+        "published": "2024-11-23T04:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 53992,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ed44ece4299c0427b7e2478cf7726358cde4d43e",
+    "url": "https://thesun.ng/2025-budget-enugu-govt-engages-citizens-assures-of-prioritising-residents-needs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rapheal",
+    "published": "2024-11-23T04:04:00.000+02:00",
+    "title": "2025 budget: Enugu govt engages citizens, assures of prioritising resident’s needs",
+    "text": "From Jude Chinedu , Enugu\nT he Enugu State governor, Peter Mbah, has assured that his administration will continue to prioritise the needs of residents ahead of the final preparation and presentation of the 2025 budget estimates to the Enugu State House of Assembly. The governor, who gave the assurance during the 2025 citizens engagement on budget preparation held at the Nike Lake Hotel, Enugu was represented by the Commissioner for Budget and Economic Planning, Chief Robert Ozongwu.\nThe interactive event had representatives from every community, including traditional rulers, presidents general, clergy, youth groups, women groups, Civil Society Organisations, labour unions and persons living with disabilities in attendance.\nOzongwu said: “Today was our citizens’ engagement, an annual event to gather opinions of the general public for them to have input into our budget exercise. To our governor, it is an important exercise because he wants the budget to reflect the wishes, aspirations and priorities of the people.\n“So, he takes it to heart that this exercise must be accomplished before we round off the budget, present to him, before it finally goes to the House of Assembly. So, we include individuals, civil society, women groups, youths, religious leaders and persons living with disabilities. So it’s an embodying exercise.\n“I have gathered the priorities of some interest groups. I know we have captured a lot in the budget but there are some aspects that the participants have emphasised and we have taken note of that. Right from road constructions and other amenities. They were also able to see what we have accomplished with the previous budget. “",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jude Chinedu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Peter Mbah",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert Ozongwu",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Enugu State House of Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Civil Society Organisations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:21:51.641+02:00",
+    "updated": "2024-11-23T04:21:51.641+02:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "def162fa676d6da9778fde3404fee96a46e02477",
+        "url": "https://www.mediaite.com/politics/new-york-democrat-rips-states-unpopular-governor-and-urges-his-own-party-to-learn-from-history-to-avoid-a-republican-win-in-2026",
+        "site_full": "www.mediaite.com",
+        "site": "mediaite.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_cl",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "New York Democrat Rips State’s Unpopular Governor And Urges His Party to ‘Learn From History’ to Avoid a GOP Win",
+        "title_full": "New York Democrat Rips State’s Unpopular Governor And Urges His Party to ‘Learn From History’ to Avoid a GOP Win",
+        "published": "2024-11-23T00:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.mediaite.com/wp-content/uploads/2023/09/AP23060104503976-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 3566,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "def162fa676d6da9778fde3404fee96a46e02477",
+    "url": "https://www.mediaite.com/politics/new-york-democrat-rips-states-unpopular-governor-and-urges-his-own-party-to-learn-from-history-to-avoid-a-republican-win-in-2026",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@mediaite",
+    "published": "2024-11-23T00:39:00.000+02:00",
+    "title": "New York Democrat Rips State’s Unpopular Governor And Urges His Party to ‘Learn From History’ to Avoid a GOP Win",
+    "text": "New York Democrat Rips State’s Unpopular Governor And Urges His Party to ‘Learn From History’ to Avoid a GOP Win Rep. Ritchie Torres (D-NY) lit into New York Governor Kathy Hochul (D) on Friday as he continues to urge Democrats to take positions he sees as more in tune with the electorate. “Kathy Hochul is the new Joe Biden,” Torres posted to X, adding: She may be in denial about the depth of her vulnerabilities as a Democratic nominee. A Democratic incumbent who is less popular in New York than Donald Trump is in grave danger of losing to a Republican in 2026–an outcome not seen in 30 years. Waiting until it’s too late gave us a Republican President in 2024 and could give us a Republican Governor in 2026. “Let’s avoid repeating history and avoid sleepwalking toward impending disaster and defeat. ‘Those who fail to learn from history are doomed to repeat it,’” he concluded, referring to Vice President Kamala Harris’s defeat to Donald Trump earlier in the month. Hochul’s favorability rating dropped to an anemic 34% in a September Siena College poll as her job approval hit an all-time low at 39%. Torres has taken to X in recent weeks and slammed the far-left as party as bearing responsibility for alienating enough voters that Trump was able to not only regain the White House, but win the popular vote for the first time. On Wednesday he wrote, “Even though the greatest path to 270 runs through Pennsylvania, the far left chose to wage a smear campaign to sabotage Josh Shapiro, the highly popular Governor of Pennsylvania.” He added: The far left went on a crusade against Governor Shapiro simply because he dared to speak out as a Jew against antisemitism in the wake of October 7th. Never mind that the presidential race could have been decided by a single vote in Pennsylvania. Its hatred for Donald Trump was exceeded only by its hysterical hatred for Israel and any Jew who dares to identify with it. In the end, Pennsylvania did not matter because we lost all the swing states. But the antisemitism aimed at Josh Shapiro should be neither forgotten nor forgiven. Politico reported on Friday as well that Torres appears to be gearing up to run for governor himself. “Torres will conduct a tour of New York as he considers a run for governor,” noted the report, adding, “Torres has not set a date for the journey or established where he’ll travel. But visits to communities outside of his Bronx House district could raise his profile in upstate and suburban areas, where he is not well known.” Have a tip for us? [tips@mediaite.com](mailto:tips@mediaite.com)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://spectrumlocalnews.com/nys/central-ny/politics/2024/09/20/hochul-brushes-off-record-low-favorability--job-approval-ratings",
+        "https://www.politico.com/news/2024/11/22/torres-hochul-governor-campaign-00191249",
+        "https://politico.com/news/2024/11/22/torres-hochul-governor-campaign-00191249",
+        "https://www.spectrumlocalnews.com/nys/central-ny/politics/2024/09/20/hochul-brushes-off-record-low-favorability--job-approval-ratings"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ritchie Torres",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kamala Harris",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kathy Hochul",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "GOP Win New York Democrat Rips State",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Siena College",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:51:35.790+02:00",
+    "updated": "2024-11-23T00:51:35.790+02:00"
+}

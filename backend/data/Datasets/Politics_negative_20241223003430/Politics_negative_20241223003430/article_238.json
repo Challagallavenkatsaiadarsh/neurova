@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "5ffd823778382e7761bddcffa06a0eb7259c3d33",
+        "url": "https://www.wwnytv.com/2024/11/22/north-country-lawmakers-criticize-border-crossing-change",
+        "site_full": "www.wwnytv.com",
+        "site": "wwnytv.com",
+        "site_section": "https://www.wwnytv.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News",
+        "title": "North Country lawmakers criticize border crossing change",
+        "title_full": "North Country lawmakers criticize border crossing change",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wwny-prod.gtv-cdn.com/resizer/v2/H56ZXIK7EBBA7OCASYJHDAV5WA.jpg?auth=04a312c43aedcd59e3f2c1d29992f323eb8351b9b5b0407f718fc806496f560b&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 26125,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5ffd823778382e7761bddcffa06a0eb7259c3d33",
+    "url": "https://www.wwnytv.com/2024/11/22/north-country-lawmakers-criticize-border-crossing-change",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chad Charette",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "North Country lawmakers criticize border crossing change",
+    "text": "Starting January 6, several border crossings will have their hours cut, meaning traffic will no longer be able to cross 24 hours a day. Local lawmakers oppose the change.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Gray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Stec",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hochul",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Customs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chateaugay",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:29:10.153+02:00",
+    "updated": "2024-11-23T04:49:31.071+02:00"
+}

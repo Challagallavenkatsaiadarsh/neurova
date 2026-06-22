@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "9d017b17b801ca4d6fb243fca096b1ea5085daf3",
+        "url": "https://www.maritimegateway.com/tn-intends-to-build-a-greenfield-port-in-cuddalore",
+        "site_full": "www.maritimegateway.com",
+        "site": "maritimegateway.com",
+        "site_section": "https://www.maritimegateway.com",
+        "site_categories": [
+            "logistics",
+            "media",
+            "business"
+        ],
+        "section_title": "Maritime Gateway - South Asia’s Premier Shipping and Logistics News Portal",
+        "title": "TN intends to build a greenfield port in Cuddalore",
+        "title_full": "TN intends to build a greenfield port in Cuddalore",
+        "published": "2024-11-23T02:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 76284,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d017b17b801ca4d6fb243fca096b1ea5085daf3",
+    "url": "https://www.maritimegateway.com/tn-intends-to-build-a-greenfield-port-in-cuddalore",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@maritimegateway",
+    "published": "2024-11-23T02:36:00.000+02:00",
+    "title": "TN intends to build a greenfield port in Cuddalore",
+    "text": "At Cuddalore, the Tamil Nadu Maritime Board intends to build a new port. With an initial expenditure of 1,500 crore to 2,000 crore, the greenfield port would be built next to the old port. Over ten years after creating the little port at Kattupalli, which is located around thirty kilometers north of Chennai, the state’s maritime board is now establishing its second port.\nThe projected Cuddalore port will initially be able to handle 13.5 million tonnes of cargo annually before expanding to 40 million tonnes. It will manage coastal maritime and international cargo transportation.\nThis project comes after previous plans to upgrade the old Cuddalore port did not progress. The new port will be located 2 km from the old port, covering 1,200 acres, and tenders for development are expected to be issued in the next two months.\nAlthough the initial phase would build 10 berths, the seafront would stretch 3.6 km, increasing the number of berths to 25. It requires an extra 2,000 crore to be invested. According to TN marine board sources, the green field port will be created using the PPP concept.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Tamil Nadu Maritime Board",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Cuddalore",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kattupalli",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:51:04.605+02:00",
+    "updated": "2024-11-23T02:51:04.605+02:00"
+}

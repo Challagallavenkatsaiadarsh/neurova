@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "140aff1ba2055730485261f129d5c133f3386ad3",
+        "url": "https://www.dawn.com/news/1874462/iranian-envoy-eyes-10bn-trade-with-pakistan",
+        "site_full": "www.dawn.com",
+        "site": "dawn.com",
+        "site_section": "https://www.dawn.com/feeds/newspaper/rss.xml",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "The Dawn News - Newspaper",
+        "title": "Iranian envoy eyes $10bn trade with Pakistan",
+        "title_full": "Iranian envoy eyes $10bn trade with Pakistan",
+        "published": "2024-11-24T01:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://www.dawn.com/_img/social-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 3117,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "140aff1ba2055730485261f129d5c133f3386ad3",
+    "url": "https://www.dawn.com/news/1874462/iranian-envoy-eyes-10bn-trade-with-pakistan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (The Newspaper's Staff Correspondent)",
+    "published": "2024-11-24T01:06:00.000+02:00",
+    "title": "Iranian envoy eyes $10bn trade with Pakistan",
+    "text": "QUETTA: The Iranian consul general in Quetta, Hassan Darwish Wand, has expressed hope that bilateral trade between Pakistan and Iran will soon reach $10 billion . Mr Wand made these remarks during a meeting with business leaders of the Quetta Chamber of Commerce and Industry (QCCI) on Saturday. He said efforts were underway to boost the trade volume, which will soon cross the target of $10bn per annum. The Iranian envoy also highlighted the significant increase in trade volume between the two countries in recent years. He praised the chamber’s role in promoting trade ties with Iran and congratulated its newly elected office-bearers, urging them to continue their efforts to foster bilateral commerce. “I will continue my cooperation and resolve to address hurdles creating obstacles in trade growth,” he assured the meeting. Mr Wand announced the upcoming 12th Joint Border Meeting will be held in Quetta and expressed hope that it will lead to more constructive outcomes than previous sessions. The QCCI president, Muhammad Ayub Mariani, and other members presented a commemorative shield to the consul general in recognition of his efforts to bolster Pakistan-Iran trade relations. Senior Vice President Haji Akhtar Kakar Vice President Engineer Mir Wais Khan Kakar thanked the consul general for his support and briefed him on the challenges impeding trade between the two countries. Published in Dawn, November 24th, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hassan Darwish Wand",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Muhammad Ayub Mariani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Quetta Chamber of Commerce and Industry",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:22:59.094+02:00",
+    "updated": "2024-11-24T12:32:29.312+02:00"
+}

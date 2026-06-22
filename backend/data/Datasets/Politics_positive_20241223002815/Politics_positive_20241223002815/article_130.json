@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "d872b473cb251cc7bb415aff87af1998225253fb",
+        "url": "https://eutoday.net/paris-calls-for-government-ban-on-suvs-in-urban-areas",
+        "site_full": "eutoday.net",
+        "site": "eutoday.net",
+        "site_section": "https://www.eutoday.net",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "EU Today - Your Source for News from the EU and Beyond",
+        "title": "Paris Calls for Government Ban on SUVs in Urban Areas",
+        "title_full": "Paris Calls for Government Ban on SUVs in Urban Areas",
+        "published": "2024-11-22T23:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 135614,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d872b473cb251cc7bb415aff87af1998225253fb",
+    "url": "https://eutoday.net/paris-calls-for-government-ban-on-suvs-in-urban-areas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EUToday Correspondents",
+    "published": "2024-11-22T23:44:00.000+02:00",
+    "title": "Paris Calls for Government Ban on SUVs in Urban Areas",
+    "text": "The Paris Council has formally requested the French government to prohibit the use of SUVs in urban environments , citing safety concerns associated with these heavy vehicles. Socialist Mayor Anne Hidalgo highlighted the risks they pose, particularly in dense city spaces. This move comes following a fatal incident in October when a cyclist was struck and killed by an SUV in Paris. Official Appeal to Ban SUVs The council, which functions as both a municipal and departmental body, adopted the motion on Friday. It emphasised the “danger” SUVs represent in urban areas and urged the government to act decisively. As part of its appeal, the left-leaning council also proposed banning advertisements and marketing campaigns promoting large and heavy vehicles of the SUV category.\nDuring the session, council members observed a minute of silence in honour of Paul Varry, a 27-year-old cyclist killed on 15 October by an SUV driver while on a cycling path.\nSenator Ian Brossat, a communist co-leader in the Paris Council, described the incident as a stark reminder of “traffic violence” in the capital. He has also introduced a proposal in the French Senate to grant local authorities the power to ban vehicles weighing over 1.8 tonnes from city streets.\nConcerns About Traffic Safety The council’s appeal underlines the broader issue of traffic-related risks in Paris. The city has one of the lowest car usage rates among major European capitals, with only 4.3% of trips made by car. Most journeys are undertaken on foot (over 50%), followed by public transport (nearly 30%), and bicycles (just over 10%).\nLocal officials argue that SUVs, due to their size and weight, exacerbate traffic risks in a city already striving to prioritise pedestrians, cyclists, and public transport users.\nOngoing Efforts to Discourage SUVs This latest appeal follows a series of measures introduced by the Parisian administration to disincentivise the use of large vehicles. Earlier this year, the city implemented increased parking fees for heavier vehicles. Cars exceeding 1.6 tonnes now incur parking charges three times higher than standard rates. For electric vehicles, which are naturally heavier due to battery weight, the threshold was set at 2 tonnes.\nMayor Hidalgo’s administration has consistently championed measures aimed at reducing the presence of cars in Paris, including expanding pedestrian zones and cycling infrastructure. The campaign against SUVs forms part of a broader initiative to combat pollution, enhance road safety, and create a more sustainable urban environment.\nImage: Paris.fr",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.carthrottle.com/news/large-suvs-could-be-banned-paris-proposed-law",
+        "https://www.lemonde.fr/en/police-and-justice/article/2024/10/18/france-charges-suv-driver-with-murder-for-running-over-cyclist_6729796_105.html",
+        "https://edition.cnn.com/2024/02/05/climate/paris-suvs-parking-charges-triple-climate-intl/index.html",
+        "https://www.edition.cnn.com/2024/02/05/climate/paris-suvs-parking-charges-triple-climate-intl/index.html",
+        "https://carthrottle.com/news/large-suvs-could-be-banned-paris-proposed-law",
+        "https://lemonde.fr/en/police-and-justice/article/2024/10/18/france-charges-suv-driver-with-murder-for-running-over-cyclist_6729796_105.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:18.906+02:00",
+    "updated": "2024-11-23T00:50:18.906+02:00"
+}

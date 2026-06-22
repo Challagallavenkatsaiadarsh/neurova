@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "f1b513cf0b5555b48e3e81efee08c51e9eeee3c8",
+        "url": "https://www.billoreilly.com/b/Imagine-Dragons/-345021457574578174.html",
+        "site_full": "www.billoreilly.com",
+        "site": "billoreilly.com",
+        "site_section": "https://www.billoreilly.com/blog?rss=true&size=50&useblurbs=true&categoryid=2",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Happening on BillOReilly.com",
+        "title": "Imagine Dragons?",
+        "title_full": "Imagine Dragons?",
+        "published": "2024-11-22T21:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 28144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1b513cf0b5555b48e3e81efee08c51e9eeee3c8",
+    "url": "https://www.billoreilly.com/b/Imagine-Dragons/-345021457574578174.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BillOReilly.com Staff",
+    "published": "2024-11-22T21:37:00.000+02:00",
+    "title": "Imagine Dragons?",
+    "text": "Joy Behar proved the absurdity of her show The View Thursday by trying to diminish podcaster, actor, comedian, and broadcaster Joe Rogan for 'believing in dragons.'\nThe longtime comedic staple of the ABC News-produced show lamented how America went from \"Walter Cronkite, basically, to this guy Joe Rogan who believes in dragons.\"\nThe irony is that many people feel that way about ABC News' presentation of The View, where the ladies ramble on about whatever left-wing talking point they like on free television.\nWould Cronkite have been a fan of The View? I wonder.\nBehar said she fact-checked Rogan's belief in dragons, but it looks like Rogan had a discussion with a biologist years ago about whether the idea of dragons was the result of fossil interpretation or ancient encounters with large land lizards.\nThere's a little more there, it seems.\nTo summarize: The comic on The View is upset with the comic who runs the most popular podcast around for allegedly misinforming people and then misinforms people herself about his beliefs on her national TV show.\nYep, Cronkite is rolling over in his grave.\nAnd how does Rogan feel about this? He sees the absurdity of it all, \"declaring\" his belief in dragons on his X profile.\nThe views expressed in the Afternoon Dispatch are those of BillOReilly.com staff.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Arts, Culture and Entertainment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joy Behar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Walter Cronkite",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Rogan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ABC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:49:59.921+02:00",
+    "updated": "2024-11-23T00:49:59.921+02:00"
+}

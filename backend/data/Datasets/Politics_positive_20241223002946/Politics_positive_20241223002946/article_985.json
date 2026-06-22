@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "28ae527569fd29ae5f6aaf444a9745461b417202",
+        "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-boss-urges-global-cooperation-during-hong-kong-trip",
+        "site_full": "www.businesstimes.com.sg",
+        "site": "businesstimes.com.sg",
+        "site_section": "https://www.businesstimes.com.sg/rss.xml",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "The Business Times",
+        "title": "Nvidia boss urges global cooperation during Hong Kong trip",
+        "title_full": "Nvidia boss urges global cooperation during Hong Kong trip",
+        "published": "2024-11-22T22:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://cassette.sphdigital.com.sg/image/businesstimes/46dd89670c03c6de164475644c49f6b96f92034658599f9f12866dfb51ad28ad",
+        "performance_score": 0,
+        "domain_rank": 5758,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "28ae527569fd29ae5f6aaf444a9745461b417202",
+    "url": "https://www.businesstimes.com.sg/companies-markets/nvidia-boss-urges-global-cooperation-during-hong-kong-trip",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T22:59:00.000+02:00",
+    "title": "Nvidia boss urges global cooperation during Hong Kong trip",
+    "text": "NVIDIA chief executive officer Jensen Huang called for preserving global cooperation amid growing anticipation of renewed tensions between the US and China once President-elect Donald Trump returns to the White House next year. While artificial intelligence (AI) accelerators made by Huang’s company are the gold standard for companies and governments racing to build emerging technologies, American officials have restricted Nvidia from selling its most advanced semiconductors to China. That was part of efforts to keep the Asian nation from developing chip capabilities that Washington regards as potential military threats. Huang on Saturday (Nov 23) highlighted the contributions China has made to the development of AI, as he accepted an honorary doctorate degree in engineering from the Hong Kong University of Science and Technology. The university is a major part of China’s significant contributions to open science research, “helping advance AI worldwide”, he said. “Open Research is one of the miracles of modern science and perhaps the ultimate form of global cooperation, one that we must protect,” Huang said, adding that his company has benefitted from being in China with offices in Hong Kong, Shanghai, Beijing and Shenzhen. He also encouraged the university students at the ceremony to apply for a job at Nvidia. Earlier in the week though, Huang indicated that his company will support the incoming Trump administration’s China policy. Nvidia will simultaneously comply with any regulation, do its best to support customers, and compete with others, Huang said. BLOOMBERG Share with us your feedback on BT's products and services [more in Companies & Markets](/companies-markets) [](/companies-markets/nvidia-boss-urges-global-cooperation-during-hong-kong-trip)Nov 23, 2024 11:59 AM [Procter & Gamble doubles down on China’s TikTok to reverse sales slump](/companies-markets/procter-gamble-doubles-down-chinas-tiktok-reverse-sales-slump)Nov 23, 2024 10:36 AM [As SGQR+ reshapes Singapore’s payment scene, who wins?](/singapore/tech-in-asia/sgqr-reshapes-singapores-payment-scene-who-wins)Nov 23, 2024 07:56 AM [Samsung ordered to pay US$118 million for infringing Netlist patents](/companies-markets/samsung-ordered-pay-us118-million-infringing-netlist-patents)Nov 23, 2024 07:19 AM [Fed survey finds inflation fading as a risk next to debt, trade wars](/international/global/fed-survey-finds-inflation-fading-risk-next-debt-trade-wars)Nov 23, 2024 06:55 AM [Dollar climbs, euro weakens to two-year low after PMI data](/companies-markets/dollar-climbs-euro-weakens-two-year-low-after-pmi-data)Nov 23, 2024 06:46 AM [Amazon doubles down on AI startup Anthropic with another US$4 billion](/companies-markets/amazon-doubles-down-ai-startup-anthropic-another-us4-billion)Nov 23, 2024 06:32 AM [Bitcoin at record highs, sets sights on US$100,000](/companies-markets/bitcoin-record-highs-sets-sights-us1 )Nov 23, 2024 06:22 AM",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jensen Huang",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NVIDIA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hong Kong University of Science and Technology",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:06:49.212+02:00",
+    "updated": "2024-11-23T06:06:49.212+02:00"
+}

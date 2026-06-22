@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "0f7947a41daaf4cc074c8ad366b7690e7849cfca",
+        "url": "https://www.desmoinesregister.com/story/news/politics/2024/11/22/iowa-senate-democrats-tap-janice-weiner-to-lead-caucus-in-2025-session/76487010007",
+        "site_full": "www.desmoinesregister.com",
+        "site": "desmoinesregister.com",
+        "site_section": "https://www.desmoinesregister.com",
+        "site_categories": [
+            "running_jogging",
+            "sports"
+        ],
+        "section_title": "Home",
+        "title": "Iowa Senate Democrats elect Janice Weiner as minority leader, replacing retiring Pam Jochum",
+        "title_full": "Iowa Senate Democrats elect Janice Weiner as minority leader, replacing retiring Pam Jochum",
+        "published": "2024-11-23T03:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/presto/2023/07/12/PDEM/b09f4a7d-d5f8-4088-9db2-f9389de6c43b-071123-SpecialSession-LS03_1.jpg?auto=webp&crop=7639,4297,x0,y0&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 2835,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0f7947a41daaf4cc074c8ad366b7690e7849cfca",
+    "url": "https://www.desmoinesregister.com/story/news/politics/2024/11/22/iowa-senate-democrats-tap-janice-weiner-to-lead-caucus-in-2025-session/76487010007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", The Des Moines Register",
+    "published": "2024-11-23T03:39:00.000+02:00",
+    "title": "Iowa Senate Democrats elect Janice Weiner as minority leader, replacing retiring Pam Jochum",
+    "text": "Iowa Senate Democrats have elected Sen. Janice Weiner as their leader following the 2024 election that saw their minority dwindle to just 15 seats. Weiner, a first-term senator from Iowa City, will take the reins as minority leader from Sen. Pam Jochum, D-Dubuque, who is retiring after a 30-year career in the Iowa Legislature. \"As I look ahead to 2025 and beyond, Senate Democrats will fight to ensure opportunity for all Iowans — every worker, every family and every child,\" Weiner said in a statement. \"We will hold those in power accountable and work to preserve and protect Iowans' freedoms.\" Before being elected to the Iowa Senate in 2022, Weiner served on the Iowa City Council and was a foreign services officer with the U.S. State Department. Weiner said she has traveled around the state listening to Iowans in rural, urban and suburban communities. \"I listened to Iowans describe their struggle to make ends meet, their challenges accessing healthcare, and their concerns about inadequate resources and a lack of funding for their kids’ public schools,\" she said. \"It is clear we have a lot of work to do for the people of Iowa.\" Iowa Democrats had few successes in general election, which saw Republicans expand their supermajorities to a 35-15 advantage in the Iowa Senate and a 67-33 majority in the Iowa House. Senate Democrats scored one victory in Senate District 22 in Urbandale, where Democrat Matt Blake defeated Republican Sen. Brad Zaun . But Democratic Sens. Eric Giddens and Nate Boulton lost their reelection bids, leaving the party with its fewest seats since 1970. Earlier Friday, Boulton conceded his race after a recount affirmed Republican Mike Pike's 44-vote victory . Senate Democrats on Friday also chose Sen. Bill Dotzler, D-Waterloo, as whip, and Sens. Molly Donahue, D-Cedar Rapids; Cindy Winckler, D-Davenport; Claire Celsi, D-West Des Moines; and Izaah Knox, D-Des Moines, as assistant leaders. The Democratic leadership team has seen turnover over the past two years. Jochum was tapped as Senate leader in June 2023 after an unusual shakeup saw Senate Democrats oust Sen. Zach Wahls, D-Coralville, as minority leader partway through the election cycle. Some senators said they were frustrated by a lack of communication and by Wahls' firing of a pair of longtime staffers who were rehired after Jochum took over. Weiner thanked Jochum in her statement. \"I want to express my gratitude to Sen. Pam Jochum for her leadership,\" she said. \"I look forward to working with all my colleagues as I assume the responsibilities of serving as the Democratic Leader.\" Republicans in the Iowa Legislature kept their leadership teams in place following the election. House Republicans reelected Rep. Pat Grassley, R-New Hartford, as House speaker and Rep. Matt Windschitl, R-Missouri Valley, as majority leader. Senate Republicans reelected Sen. Jack Whitver, R-Grimes, as majority leader and Sen. Amy Sinclair, R-Allerton as Senate president. House Democrats reelected Rep. Jennifer Konfrst, D-Windsor Heights, as minority leader , a job she has held since 2021 . The Iowa Legislature's 2025 session begins Jan. 13. Stephen Gruber-Miller covers the Iowa Statehouse and politics for the Register. He can be reached by email at [sgrubermil@registermedia.com](mailto:sgrubermil@registermedia.com) or by phone at 515-284-8169. Follow him on Twitter at @sgrubermiller .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/sgrubermiller",
+        "https://www.twitter.com/sgrubermiller"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janice Weiner",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Pam Jochum",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Iowa Senate",
+                "sentiment": "negative"
+            },
+            {
+                "name": "U.S. State Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "0f7947a41daaf4cc074c8ad366b7690e7849cfca",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:43:07.753+02:00",
+    "updated": "2024-11-23T18:54:44.838+02:00"
+}

@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "2e87e933719a4ee82ab6b2ac214d6594375c308b",
+        "url": "https://www.christianitydaily.com/nation/christian-voters-had-a-decisive-impact-on-2024-election.html",
+        "site_full": "www.christianitydaily.com",
+        "site": "christianitydaily.com",
+        "site_section": "https://christianitydaily.com/category/nation",
+        "site_categories": [
+            "religion",
+            "christianity"
+        ],
+        "section_title": "US | Christianity Daily",
+        "title": "US News | Christian Voters Had a Decisive Impact on 2024 Election | Christianity Daily",
+        "title_full": "US News | Christian Voters Had a Decisive Impact on 2024 Election | Christianity Daily",
+        "published": "2024-11-24T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://christianitydaily-29b4.kxcdn.comfiles/original/thumbnail/3/03/30311.jpg",
+        "performance_score": 0,
+        "domain_rank": 59031,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2e87e933719a4ee82ab6b2ac214d6594375c308b",
+    "url": "https://www.christianitydaily.com/nation/christian-voters-had-a-decisive-impact-on-2024-election.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T07:00:00.000+02:00",
+    "title": "US News | Christian Voters Had a Decisive Impact on 2024 Election | Christianity Daily",
+    "text": "Christian voters are being recognized for their significant impact on the outcome of the 2024 presidential election, with data indicating that the faithful overwhelmingly supported President-elect Donald Trump.\nGeorge Barna, director of the Cultural Research Center at Arizona Christian University, published a report last week detailing the findings of post-election research, conducted in the three days following the November 5 election. The data is based on interviews with a national sample of 2,000 voting-age adults.\nAmong self-identified Christians, President Trump secured 56% of the vote, and since Christians represented 72% of the total voter turnout, their backing was pivotal in his re-election.\nThe report noted, “Although Harris won a larger share of the non-Christian vote than Trump’s share of the Christian votes, Christians outnumbered non-Christian voters by a more than five-to-two margin—delivering the decisive Nov. 5 victory to President Trump.”\nThe highest turnout rate of 99% was among those classified as “Spiritually Active Governance Engaged Conservative Christians”, known as SAGE Cons. Meanwhile, the turnout for Catholics rose from 67% to 70%, and Integrated Disciples, those with a biblical worldview, saw an increase from 64% to 67%.\nThe turnout rate remained consistent at 62% for Pentecostal church attendees in both 2020 and 2024. However, turnout for those attending mainline Protestant churches slightly decreased from 66% to 65%, while there was a more significant drop among Evangelical church attendees, from 65% to 59%. In total, 59% of Protestants voted in 2024, compared to 62% in 2020.\nAmong born-again Christians, 58% voted in 2024, down from 64% in 2020. Additionally, the turnout among self-identified Christians fell from 64% to 56%.\nIn the 2024 election, Trump was the preferred candidate among all Christian voter subgroups, capturing 90% of the SAGE Cons vote, 75% of the Integrated Disciples vote, and 74% of the vote from Pentecostal church attendees. He also received support from a substantial majority of Evangelical church attendees (64%), born-again Christians (64%), and Protestants (60%).\nSupport for Trump from mainline Protestant church attendees was at 56%, while 51% of Catholics backed him over Kamala Harris.\nA majority of Christian voters reported that their churches taught about the Bible’s stance on specific issues, with 54% overall, and higher percentages among Pentecostal and Charismatic church attendees (69%) and Evangelicals (67%). Additionally, 53% of all Christians stated their churches encouraged voting without endorsing specific candidates.\nAmong various groups, majorities of Pentecostal, Charismatic, and Evangelical church attendees supported that their churches took this course of action than non-denominational church attendees (52%) and Catholics (41%).\nBarna commented on the high level of Christian support for Trump, stating that he “did a better job than Kamala Harris of representing hallowed Christian characteristics such as the importance and support of family, the rule of law, limited government authority, financial responsibility, and the like.”\nIn contrast, he noted that Harris’s stance on issues like abortion on-demand and open borders clashed with the core values of the nation’s dominant spiritual perspectives.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "George Barna",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harris",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Arizona Christian University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cultural Research Center",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:09:25.582+02:00",
+    "updated": "2024-11-24T08:09:25.582+02:00"
+}

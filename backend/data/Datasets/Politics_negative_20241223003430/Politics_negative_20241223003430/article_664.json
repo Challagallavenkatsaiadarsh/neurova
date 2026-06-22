@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "6ddd52d7a3de26efad9be87b1e49b7ee971201c6",
+        "url": "https://dnyuz.com/2024/11/22/donald-trump-just-got-loud-and-clear-message-from-senate-gop-attorney",
+        "site_full": "dnyuz.com",
+        "site": "dnyuz.com",
+        "site_section": "https://feeds.feedburner.com/dnyuz",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "DNyuz",
+        "title": "Donald Trump Just Got ‘Loud and Clear’ Message From Senate GOP—Attorney",
+        "title_full": "Donald Trump Just Got ‘Loud and Clear’ Message From Senate GOP—Attorney",
+        "published": "2024-11-23T00:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dnyuz.com/wp-content/uploads/2024/11/Donald-Trump-Just-Got-‘Loud-and-Clear-Message-From-Senate.jpg",
+        "performance_score": 0,
+        "domain_rank": 15638,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6ddd52d7a3de26efad9be87b1e49b7ee971201c6",
+    "url": "https://dnyuz.com/2024/11/22/donald-trump-just-got-loud-and-clear-message-from-senate-gop-attorney",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Newsweek",
+    "published": "2024-11-23T00:33:00.000+02:00",
+    "title": "Donald Trump Just Got ‘Loud and Clear’ Message From Senate GOP—Attorney",
+    "text": "Senate Republicans sent Donald Trump a “loud and clear” message by rejecting his nomination of former Representative Matt Gaetz as attorney general, according to legal analyst Glenn Kirschner.\nGaetz announced on Thursday that he was withdrawing from consideration as Trump’s nominee because he believed that “a needlessly protracted Washington scuffle” over his confirmation by the Senate “was unfairly becoming a distraction to the critical work” of the incoming administration.\nWhile Trump quickly named former Florida Attorney General Pam Bondi to take the job instead, the failure of his initial nomination was a clear setback. The president-elect had called reluctant senators in an attempt to win them over, but at least four GOP senators remained opposed to Gaetz before he dropped out, The New York Times reported.\nOn Thursday night, Kirschner, a former federal prosecutor and a frequent Trump critic, said during an episode of his Justice Matters podcast that Senate Republicans’ rejection of Gaetz indicated they might not always give Trump what he wants.\n“The Senate Republicans sent the message loud and clear to Donald Trump: ‘We will not support your nominee, your pick, your flunky for attorney general Matt Gaetz,’” Kirschner said. “Maybe, just maybe, Senate Republicans will not bend a knee to dear leader’s every whim.\n“Donald Trump did not succeed in demoralizing and driving away the good men and women at the Department of Justice, who do the work of the American people each and every day,” he continued.\nKirschner went on to say that Gaetz as attorney general would have been “so demoralizing” for Justice Department employees “because no self-respecting lawyer, or policymaker, or support staff person would ever want to be in a position to work for a guy like Matt Gaetz.”\nSteven Cheung, Trump’s communications director, responded to Newsweek’s request for comment by resharing the following statement about Kirschner: “Glenn is a notorious trafficker of wild conspiracy theories and dubious legal analysis. I would expect nothing more from a clout-chasing MSNBC contributor who has been shunned by the legal community at large.”\nTrump nominated Gaetz as the country’s top law enforcement official on November 13, praising him at the time as a “deeply gifted and tenacious attorney” who would “root out systemic corruption” in the justice system.\nGaetz then promptly resigned from Congress, blocking the release of a House Ethics Committee report concerning his alleged sexual misconduct and drug use. A Justice Department criminal probe into similar allegations ended last year without charges. Gaetz denies all wrongdoing.\nResistance to Trump’s pick was immediately clear, with several Senate Republicans demanding that the House ethics report be released before considering Gaetz’s nomination, regardless of his resignation.\nIn a last-ditch effort to secure his place in Trump’s Cabinet, Gaetz joined Republican senators at the Capitol on Wednesday for meetings that he told reporters went “great” and indicated the “momentum” for his confirmation. He withdrew from the nomination less than 24 hours later.\nThe post Donald Trump Just Got ‘Loud and Clear’ Message From Senate GOP—Attorney appeared first on Newsweek.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Glenn Kirschner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "New York Times",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            },
+            {
+                "name": "GOP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:17:56.860+02:00",
+    "updated": "2024-11-23T01:17:56.860+02:00"
+}

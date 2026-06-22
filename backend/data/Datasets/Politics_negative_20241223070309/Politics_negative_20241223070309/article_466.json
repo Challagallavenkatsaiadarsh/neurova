@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "32a7884b443e4f3e715132c6a05dc3728d61b7ea",
+        "url": "https://redstate.com/jeffc/2024/11/22/guilty-until-proven-safe-iowa-supreme-court-upholds-controversial-mental-health-gun-ban-n2182370",
+        "site_full": "redstate.com",
+        "site": "redstate.com",
+        "site_section": "https://redstate.com/feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "RedState",
+        "title": "Guilty Until Proven Safe’: Iowa Supreme Court Upholds Controversial Mental Health Gun Ban",
+        "title_full": "Guilty Until Proven Safe’: Iowa Supreme Court Upholds Controversial Mental Health Gun Ban",
+        "published": "2024-11-23T00:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.townhall.com/cdn/hodl/2022/175/44a02e8c-4006-4688-9891-86e7e264a31e.jpg",
+        "performance_score": 0,
+        "domain_rank": 7879,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32a7884b443e4f3e715132c6a05dc3728d61b7ea",
+    "url": "https://redstate.com/jeffc/2024/11/22/guilty-until-proven-safe-iowa-supreme-court-upholds-controversial-mental-health-gun-ban-n2182370",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jeff Charles",
+    "published": "2024-11-23T00:10:00.000+02:00",
+    "title": "Guilty Until Proven Safe’: Iowa Supreme Court Upholds Controversial Mental Health Gun Ban",
+    "text": "The Iowa Supreme Court recently ruled against a resident who had his gun rights suspended after being involuntarily committed for mental health treatment back in 2006.\nThe court [ruled](https://www.iowacourts.gov/courtcases/20695/embed/SupremeCourtOpinion) that the burden of proof remains on the individual, referred to as “N.S.” in the ruling, to demonstrate that they are not a threat to themselves or public safety, upholding a state law allowing the government to prohibit people with mental health problems from owning firearms.\n“The State has a compelling interest in ‘prohibiting the possession of firearms by felons and the mentally ill,’ which has been recognized to meet constitutional scrutiny by the United States Supreme Court in District of Columbia v. Heller,” the court ruled.\nBy its terms, Amendment 1A recognizes a fundamental individual right to keep and bear arms—not an absolute right. The text of Amendment 1A expressly contemplates valid restrictions on the state constitutional right to possess firearms but requires courts to apply strict scrutiny to a challenged governmental restriction.\nIowa Code section 724.31 puts the onus on petitioners to show, by a preponderance of evidence, that they are not dangerous and that restoring their rights is in line with the public interest, the court argued. It claims the resident did not address past mental health issues, provide a clean bill of health, or secure corroborative testimony from family members.\n“The court fears that [N.S.] lacks insight into his mental health and/or substance abuse issues. Without additional information, the court lacks sufficient evidence to determine whether [N.S.] is likely to act dangerously in the future,” the document reads.\nThe court held that the law is tailored to serve the interests of preventing gun violence and suicide. The law does permit individuals to petition for the restoration of their gun rights every two years.\nSection 724.31 provides a procedure for restoration of firearm rights upon the petitioner’s showing that he ‘will not be likely to act in a manner dangerous to public safety.’ The prohibition is not permanent; petitioners can reapply every two years.\nLaws like Iowa’s can be [dangerous and easily abused](https://redstate.com/jeffc/2024/11/20/anti-gunner-organization-accidentally-makes-the-case-for-gun-ownership-among-women-n2182254). While protecting public safety and preventing suicide is important, infringing on a natural right that is clearly protected by the Second Amendment is still unacceptable. Those suffering from [mental health problems](https://stage.redstate.com/joesquire/2019/08/09/mental-illness-not-good-enough-reason-introduce-red-flag-laws-n112684) still have the right to defend their lives and property. If the petitioner did not clearly pose an imminent threat to himself or others, it makes no sense to keep him from owning firearms.\nMoreover, the notion that the burden of proof should be on the petitioner is also troubling, given that it runs counter to the Second Amendment, which contains no such provision. Instead, the onus should be on the court to prove that the individual remains a credible threat to others.\nAs Iowa’s law stands today, it essentially empowers the government to violate one’s gun rights indefinitely, leaving it up to a few people to decide whether a person can exercise their right to keep and bear arms – even without clear evidence of immediate danger.\nLaws such as these always [sound good on paper](https://redstate.com/jeffc/2023/04/21/going-beyond-feel-good-legislation-the-truth-about-gun-control-laws-n734465). After all, the government’s job is to protect our rights from dangerous people. However, in many cases, state authorities use this principle to attack our rights under the guise of protecting public safety. Perhaps this will be a law that will be successfully challenged in the not-too-distant future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Iowa Supreme Court Upholds Controversial Mental Health Gun Ban The Iowa Supreme Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "State",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:44.360+02:00",
+    "updated": "2024-11-23T02:39:30.253+02:00"
+}

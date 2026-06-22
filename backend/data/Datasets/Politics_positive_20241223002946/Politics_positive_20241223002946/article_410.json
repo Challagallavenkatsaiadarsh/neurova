@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "ab2c535ccd3a4c3d0badb09f555391bce404e656",
+        "url": "https://legalnewsline.com/stories/666071085-texas-attorney-general-announces-settlement-with-tpc-over-plant-explosion",
+        "site_full": "legalnewsline.com",
+        "site": "legalnewsline.com",
+        "site_section": "https://legalnewsline.com/stories.rss",
+        "site_categories": [
+            "law_government_and_politics",
+            "legal_issues"
+        ],
+        "section_title": "Legal Newsline",
+        "title": "Texas attorney general announces settlement with TPC over plant explosion",
+        "title_full": "Texas attorney general announces settlement with TPC over plant explosion",
+        "published": "2024-11-22T14:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/7e/35/19584941/webp_loru2lscecow3niwoeylr2np071x.webp",
+        "performance_score": 0,
+        "domain_rank": 43431,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ab2c535ccd3a4c3d0badb09f555391bce404e656",
+    "url": "https://legalnewsline.com/stories/666071085-texas-attorney-general-announces-settlement-with-tpc-over-plant-explosion",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Legal Newsline",
+    "published": "2024-11-22T14:28:00.000+02:00",
+    "title": "Texas attorney general announces settlement with TPC over plant explosion",
+    "text": "Attorney General Ken Paxton has announced a settlement with TPC Group Inc. and TPC Group, LLC, following lawsuits related to a chemical plant explosion in Port Neches in November 2019. The explosion led to the evacuation of thousands of residents during Thanksgiving. The state's investigation revealed that TPC was aware of issues at the facility but continued operations regardless. Additionally, legal action was taken against TPC for violations at its Houston plant. The lawsuits claimed that after the explosion, TPC did not adhere to Texas air laws and operated equipment that failed to meet air permit requirements. As part of the settlement concerning the Port Neches incident, TPC is required to repair or replace faulty equipment and pay $12.6 million in penalties for post-December 16, 2022 violations. TPC's bankruptcy filing after the explosion resulted in earlier violations being settled in bankruptcy court. In August 2024, a Stipulation and Notice of Subordination Agreement filed by the bankruptcy trustee agreed on penalties amounting to $150 million. The state prioritized claims from individuals affected by the 2019 explosion within bankruptcy proceedings. Furthermore, TPC has admitted guilt regarding criminal breaches of the federal Clean Air Act. \"In Texas, we believe in ensuring all industries operate safely and being responsible stewards of our environment,\" stated Attorney General Paxton. \"These penalties send a clear message: operate responsibly to protect the health and safety of your fellow Texans, or face the consequences.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ken Paxton",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "TPC Group Inc.",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:30:16.790+02:00",
+    "updated": "2024-11-23T04:24:34.045+02:00"
+}

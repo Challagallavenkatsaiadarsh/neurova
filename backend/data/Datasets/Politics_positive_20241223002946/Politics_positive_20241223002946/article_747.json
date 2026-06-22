@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "88daa0264c2365c127bde3e99d8018d72a99e389",
+        "url": "http://www.uniindia.com/union-minister-encourages-nhpc-to-ensure-stable-power-supply-in-ladakh/north/news/3330299.html",
+        "site_full": "www.uniindia.com",
+        "site": "uniindia.com",
+        "site_section": "http://www.uniindia.net/feed.aspx?lang_id=1",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "United News Of India",
+        "title": "Union Minister encourages NHPC to ensure stable power supply in Ladakh",
+        "title_full": "Union Minister encourages NHPC to ensure stable power supply in Ladakh",
+        "published": "2024-11-22T22:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 27943,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "88daa0264c2365c127bde3e99d8018d72a99e389",
+    "url": "http://www.uniindia.com/union-minister-encourages-nhpc-to-ensure-stable-power-supply-in-ladakh/north/news/3330299.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Uniindia News Service",
+    "published": "2024-11-22T22:05:00.000+02:00",
+    "title": "Union Minister encourages NHPC to ensure stable power supply in Ladakh",
+    "text": "States » NorthPosted at: Nov 23 2024 1:05AM Union Minister encourages NHPC to ensure stable power supply in LadakhSrinagar, Nov 22 (UNI) Union Minister of Power and Housing & Urban Affairs Manohar Lal Khattar on Friday encouraged the National Hydroelectric Power Corporation (NHPC) to ensure stable power supply and exploring new opportunities for green energy in Ladakh.Khattar, who is on a three-day trip to Ladak, visited the 45 MW NHPC Nimoo Bazgo Power Station situated in Leh district and emphasised the central government's focus on renewable energy and environmental sustainability. The Union Minister encouraged the NHPC team to continue their efforts in ensuring a stable power supply and exploring new opportunities for green energy in the region.Khattar commended the dedication and hard work of the NHPC team in maintaining and operating the power station in such challenging conditions.The 45 MW NHPC Nimoo Bazgo Power Station is a critical component of Ladakh's energy landscape.Developed by NHPC, the project harnesses the power of the Indus River, providing a reliable source of clean energy to the region.During his visit, the Union Minister also visited various sites of the power station during which R.K. Chaudhary, CMD, NHPC apprised him about the various activities of the power station not only in terms of power generation but also about the various welfare activities being undertaken for the local population under CSR. UNI QAB SSPTags: #Union Minister encourages NHPC to ensure stable power supply in Ladakh",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Hydroelectric Power Corporation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Power and Housing & Urban Affairs",
+                "sentiment": "none"
+            },
+            {
+                "name": "NHPC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ladakh",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:37:02.692+02:00",
+    "updated": "2024-11-23T04:37:02.692+02:00"
+}

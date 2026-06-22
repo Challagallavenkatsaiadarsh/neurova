@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "114777f22fd434320dfe34b078f9ee6a8c7667b3",
+        "url": "https://www.post-journal.com/news/community/2024/11/jamestown-rotary-clubs-receive-district-lighthouse-award",
+        "site_full": "www.post-journal.com",
+        "site": "post-journal.com",
+        "site_section": "https://www.post-journal.com/news/community",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "  Community | News, Sports, Jobs - Post Journal",
+        "title": "Jamestown Rotary Clubs Receive District Lighthouse Award",
+        "title_full": "Jamestown Rotary Clubs Receive District Lighthouse Award",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 28724,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "114777f22fd434320dfe34b078f9ee6a8c7667b3",
+    "url": "https://www.post-journal.com/news/community/2024/11/jamestown-rotary-clubs-receive-district-lighthouse-award",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Jamestown Rotary Clubs Receive District Lighthouse Award",
+    "text": "Jamestown Rotary Clubs Receive District Lighthouse Award\nMembers of the Rotary Club of Jamestown and the Greater Jamestown AM Rotary Club were represented by Cailtin O’Reilly and Dr. Bert Rappole recently at a Rotary District 7090 Foundation Luncheon in Fort Erie, Ontario, Canada.\nAt the luncheon, clubs from throughout the international Rotary District 7090 were honored with Lighthouse Awards for their service in the Rotary year 2023-24.\nThe awards were presented to the entire membership of each club on behalf of SCott Marcin, former district governor for 2023-2024, in recognition of outstanding performance in serving the community, for international service, youth services, supporting The Rotary Foundation, and for being vibrant Rotary Clubs.\nRotary is a 110-year-old international service club with more than 45,000 clubs and 1.2 million members. District 7090 is unique in that it was the organization’s first international district with 68 clubs spanning two countries – the United States and Canada. Rotary members share responsibility to act on our world’s most persistent issues, working together to promote peace; fight disease; provide clean water, sanitation, and hygiene; save mothers and children; support education; grow local economies, and protect the environment.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "SCott Marcin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bert Rappole",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Greater Jamestown AM Rotary Club",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rotary Foundation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:03:14.878+02:00",
+    "updated": "2024-11-24T06:03:14.878+02:00"
+}

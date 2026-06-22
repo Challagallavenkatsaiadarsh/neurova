@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "fb0c327312e143aa9288f6b0b4d2c2362040dd86",
+        "url": "https://us.fundsforngos.org/news/local-nonprofits-unite-to-aid-community-recovery-after-helene",
+        "site_full": "us.fundsforngos.org",
+        "site": "fundsforngos.org",
+        "site_section": "https://us.fundsforngos.org/grant-size10000-to-100000",
+        "site_categories": [],
+        "section_title": "Grant Size&gt;,000 to 0,000 - fundsforNGOs - United States",
+        "title": "Local Nonprofits Unite to Aid Community Recovery After Helene",
+        "title_full": "Local Nonprofits Unite to Aid Community Recovery After Helene",
+        "published": "2024-11-24T02:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 66989,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fb0c327312e143aa9288f6b0b4d2c2362040dd86",
+    "url": "https://us.fundsforngos.org/news/local-nonprofits-unite-to-aid-community-recovery-after-helene",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@fundsforngos",
+    "published": "2024-11-24T02:22:00.000+02:00",
+    "title": "Local Nonprofits Unite to Aid Community Recovery After Helene",
+    "text": "In the wake of Tropical Storm Helene, local nonprofits in Madison County have come together to form a long-term recovery group aimed at assisting residents affected by the storm. This collaborative effort focuses on providing sustainable housing solutions and essential resources to those in need.\nKey Takeaways\n- Local nonprofits are collaborating to support recovery efforts after Tropical Storm Helene.\n- The Community\n[Housing](https://us.fundsforngos.org/tag/housing-and-shelter/)Coalition is leading initiatives to provide housing assistance. - A long-term\n[recovery](https://us.fundsforngos.org/tag/addiction-prevention-and-recovery/)group has been established to coordinate resources and support.\nCommunity Resilience in Action\nThe storm caused significant damage, particularly in the Rollins community of Marshall, where many families have been left in dire situations. The Community Housing Coalition (CHC) has taken the lead in organizing [relief](https://us.fundsforngos.org/tag/humanitarian-and-disaster-relief/) efforts, working alongside various local churches and national organizations like the American Red Cross.\nChris Watson, the executive director of CHC, reported that numerous families have applied for assistance, with many homes requiring major renovations or complete replacements. The coalition has already provided grant funding to several families and is actively seeking more sustainable housing solutions.\nCollaborative Efforts for Long-Term Recovery\nThe newly formed long-term recovery group held its first meeting recently, bringing together local nonprofits, churches, and government entities. This group aims to create a centralized resource hub for affected families, ensuring equitable recovery for all, regardless of their financial situation.\nLeigh Waters, a case manager at CHC, emphasized the importance of collaboration among various organizations to develop long-term housing solutions. The group is exploring options for volunteer labor and contractor services to assist with home repairs and rebuilding efforts.\nAddressing Immediate Needs\nWhile the long-term recovery plans are being developed, immediate needs are being addressed. CHC has organized temporary housing solutions, including campers, for families displaced by the storm. However, these are not sustainable long-term solutions, and the focus is shifting towards finding permanent housing options.\nWatson noted that many homes in the Rollins community require substantial repairs, often exceeding the funding available for individual assistance. The coalition is working diligently to identify additional funding sources to support these critical projects.\nThe Road Ahead\nAs the community continues to recover from the devastation of Helene, the collaborative efforts of local nonprofits and organizations are crucial. The long-term recovery group aims to streamline resources and support for families, ensuring that no one is left behind in the recovery process.\nThe resilience of the Madison County community is evident as residents come together to support one another during this challenging time. With ongoing efforts and a commitment to rebuilding, there is hope for a brighter future for those affected by the storm.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Helene",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Community Housing Coalition",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:44:17.669+02:00",
+    "updated": "2024-11-24T02:44:17.669+02:00"
+}

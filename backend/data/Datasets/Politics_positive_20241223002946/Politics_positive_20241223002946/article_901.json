@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "b87411725d8766ac9088ccedd1c19113cd741460",
+        "url": "https://gvwire.com/2024/11/22/christine-pelosi-leads-charge-to-ensure-every-vote-counts-in-tight-duarte-gray-race",
+        "site_full": "gvwire.com",
+        "site": "gvwire.com",
+        "site_section": "https://www.gvwire.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Home - GV Wire",
+        "title": "Christine Pelosi Leads Charge to Ensure Every Vote Counts in Tight Duarte-Gray Race",
+        "title_full": "Christine Pelosi Leads Charge to Ensure Every Vote Counts in Tight Duarte-Gray Race",
+        "published": "2024-11-22T23:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 51368,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b87411725d8766ac9088ccedd1c19113cd741460",
+    "url": "https://gvwire.com/2024/11/22/christine-pelosi-leads-charge-to-ensure-every-vote-counts-in-tight-duarte-gray-race",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News",
+    "published": "2024-11-22T23:22:00.000+02:00",
+    "title": "Christine Pelosi Leads Charge to Ensure Every Vote Counts in Tight Duarte-Gray Race",
+    "text": "In a closely contested California House race, Christine Pelosi, daughter of Speaker Emerita Nancy Pelosi, has joined a group of volunteers working to “cure” ballots with signature issues . The race between Republican Rep. John Duarte and Democratic challenger Adam Gray in the Central Valley’s 13th District is separated by just 210 votes as of Friday.\nThe Process of ‘Curing’ Ballots “Curing” involves fixing problems with voters’ ballots to ensure they can be counted before the Dec. 3 deadline. Pelosi told the San Francisco Chronicle she was “staking out” a Modesto home, hoping to connect with a voter whose ballot was rejected due to a signature problem. Elizabeth Chur, another San Francisco volunteer, estimates she’s cured 25 ballots in the past week.\n“We’re also letting you know that wasn’t spam, because a lot of people get post-election emails and texts, and they just delete them thinking they’re spam,” Pelosi explained to one voter.\nRelated Story: California Counts Methodically as House Control Hangs in the Balance\nBoth Campaigns Engaged in Curing Efforts Both campaigns are engaged in this effort, which could prove decisive in the razor-thin race. Gray stated, “That’s all part of making sure that every vote is counted.”\nKim Alexander, president of the California Voter Foundation, noted that only about 50% of ballots that can be remedied are actually cured across California. Signature problems often affect first-time, younger, and older voters.\nA new law passed in September extends the certification period to 28 days after Election Day, allowing more time for ballot curing. Voters can check their ballot status at https://wheresmyballot.sos.ca.gov .\nRead more at San Francisco Chronicle",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wheresmyballot.sos.ca.gov",
+        "https://www.sfchronicle.com/politics/article/ballot-curing-christine-pelosi-california-19932744.php",
+        "https://sfchronicle.com/politics/article/ballot-curing-christine-pelosi-california-19932744.php",
+        "https://www.wheresmyballot.sos.ca.gov"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christine Pelosi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Elizabeth Chur",
+                "sentiment": "none"
+            },
+            {
+                "name": "John Duarte",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adam Gray",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "San Francisco Chronicle",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Central",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:31:46.904+02:00",
+    "updated": "2024-11-23T05:31:46.904+02:00"
+}

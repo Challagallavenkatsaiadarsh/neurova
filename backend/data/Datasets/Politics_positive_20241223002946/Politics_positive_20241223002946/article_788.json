@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "7bd61e5856a3224a2ab877ef51291135997a5c76",
+        "url": "https://fakti.bg/en/life/929912-maxim-genchev-they-got-dimo-drunk-i-hope-he-doesn-t-go-to-jail",
+        "site_full": "fakti.bg",
+        "site": "fakti.bg",
+        "site_section": "https://fakti.bg/en",
+        "site_categories": [
+            "media",
+            "top_news_bg",
+            "top_news"
+        ],
+        "section_title": " News from today and last hour | ФАКТИ.БГ ",
+        "title": "Maxim Genchev: They got Dimo drunk, I hope he doesn't go to jail",
+        "title_full": "Maxim Genchev: They got Dimo drunk, I hope he doesn't go to jail",
+        "published": "2024-11-23T03:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "BG",
+        "main_image": "https://cdn4.focus.bg/fakti/photos/fb/8fb/maksim-genchev-napili-sa-dimo-dano-ne-vleze-v-zatvora-1.webp",
+        "performance_score": 0,
+        "domain_rank": 99016,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7bd61e5856a3224a2ab877ef51291135997a5c76",
+    "url": "https://fakti.bg/en/life/929912-maxim-genchev-they-got-dimo-drunk-i-hope-he-doesn-t-go-to-jail",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "СУ Св. Климент Охридски",
+    "published": "2024-11-23T03:27:00.000+02:00",
+    "title": "Maxim Genchev: They got Dimo drunk, I hope he doesn't go to jail",
+    "text": "Dimo Alexiev fell into someone's trap. Maxim Genchev is sure of this. The director believes that the reality show, hosted by Dimo Alexiev on television, is also to blame.\n„My assumption in this direction is extremely cynical, but I have been a victim, I have been in his place\", remembers Maxim Genchev and tells \"Bulgaria Today\" similar life story. In order to destroy the spectacular success of the cult advertisement for sausages \"Oh, Pepi\" in the past, in which Maxim Genchev played a playful butcher, competitors from the other leading sausage company at the time got the actor drunk in Pazardzhik.\n„They assured me that I was a genius, that the people felt me for luck when they saw me, that people loved me... I cried, I was moved. \"I drank, and I'm not very, very connected with alcohol,\" the director of the film \"The Heroes\" returns the tape.\nGenchev drank 2 brandies and a glass of wine. He went to his apartment, where he lived as an actor in the Pazardzhik Theater, and a police car was waiting for him in front of it.\n„Judging by my bitter experience, I think that in order to boost the rating of this show of Dimo, someone deliberately patted him on the head, comforted him, told him that he was a giant in art and the man pulled two drinks and then they handed him over. That's my lame explanation. It's Dimo's fault, but I hope I meet him somewhere so we can talk to him, because I have plans for this boy”, the director says in one breath.\nHe is convinced that the viewers and the people will lose if Dimo Alexiev is put in prison. I'm just crossing my fingers that he gets away with it.\nSource: novini.bg",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dimo Alexiev",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Maxim Genchev",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pepi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Pazardzhik",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:52:09.993+02:00",
+    "updated": "2024-11-23T04:52:09.993+02:00"
+}

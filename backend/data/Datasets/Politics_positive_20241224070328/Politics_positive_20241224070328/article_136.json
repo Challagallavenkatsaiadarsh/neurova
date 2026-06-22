@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "a8143b2f9b9873029ea9bf51a6c76fd2567659de",
+        "url": "https://www.kbtx.com:443/2024/11/23/president-elect-donald-trump-nominates-brooke-rollins-lead-agriculture-department",
+        "site_full": "www.kbtx.com",
+        "site": "kbtx.com",
+        "site_section": "https://kbtx.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "KBTX News 3 | News, Weather, and Sports | Bryan &amp; College Station, TX",
+        "title": "President Elect Donald Trump nominates Brooke Rollins to lead Agriculture Department",
+        "title_full": "President Elect Donald Trump nominates Brooke Rollins to lead Agriculture Department",
+        "published": "2024-11-24T00:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/QAUKA3QIGJAXJIFHY7UENWANGI.PNG?auth=785a6b7319ef62feb54a7045f3572f3fd86fc7081372ebf87a9cddb26d51fe30&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 17630,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a8143b2f9b9873029ea9bf51a6c76fd2567659de",
+    "url": "https://www.kbtx.com:443/2024/11/23/president-elect-donald-trump-nominates-brooke-rollins-lead-agriculture-department",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@kbtxnews",
+    "published": "2024-11-24T00:28:00.000+02:00",
+    "title": "President Elect Donald Trump nominates Brooke Rollins to lead Agriculture Department",
+    "text": "President Elect Donald Trump nominates Brooke Rollins to lead Agriculture Department\nWASHINGTON, Texas (KBTX) - President-elect Donald Trump has announced that he has nominated Brooke Rollins for the role of agriculture secretary on Saturday.\nRollins is a former Trump Administration policy adviser and the president of the America First Policy Institute (AFPI). The AFPI says it is a “501(c)(3) non-profit, non-partisan research group” with the goal of advancing “policies that put the American people first.”\nRollins, a Texas native, graduated from Texas A&M University in ‘94 where she was the university’s first female student body president. She was also the very first female speaker for Aggie Muster back in 2007.\nHer self-written bio for the America First Policy Institute says that she graduated from A&M with a degree in agricultural development and continued her education at the University of Texas School of Law. Upon graduating with her Juris Doctor, she served as Rick Perry’s policy director. She would then go on to lead the Texas Public Policy Foundation for 15 years.\nUnder Trump, she was the former director of the Domestic Policy Council and assistant to the president for strategic initiatives in the White House. She also served as director of the Office of American Innovation.\nRollins will lead the USDA which is made up of 29 agencies and offices with around 100,000 employees. The department’s job is to perform agricultural research, teach food and agricultural sciences, rural development, protect and manage natural resources, food safety, trade, oversee nutrition programs and more.\nIn a statement from the president-elect, Trump goes on to say that she was also part of his 2016 Economic Advisory Council and “helped develop and manage the transformational Domestic Policy Agenda of my Administration” in all of her roles when she served him.\n“Brooke’s commitment to support the American Farmer, defense of American Food Self-Sufficiency, and the restoration of Agriculture-dependent American Small Towns is second to none,” Trump said in the statement.\nCopyright 2024 KBTX. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tex",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Juris Doctor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rick Perry",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Agriculture Department",
+                "sentiment": "negative"
+            },
+            {
+                "name": "University of Texas School of Law",
+                "sentiment": "none"
+            },
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas Public Policy Foundation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas A&M University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:09:18.627+02:00",
+    "updated": "2024-11-24T01:09:18.627+02:00"
+}

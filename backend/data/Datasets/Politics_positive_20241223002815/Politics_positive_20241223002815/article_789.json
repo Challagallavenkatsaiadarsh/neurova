@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "d76634619e29c18c022493c9d05678888e427bfc",
+        "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/tributes-paid-to-sahid-laxman-nayak-4",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Tributes paid to Sahid Laxman Nayak",
+        "title_full": "Tributes paid to Sahid Laxman Nayak",
+        "published": "2024-11-22T23:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/TNIE%2Fimport%2F2022%2F9%2F3%2Foriginal%2Flxm.JPG?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d76634619e29c18c022493c9d05678888e427bfc",
+    "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/tributes-paid-to-sahid-laxman-nayak-4",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-22T23:49:00.000+02:00",
+    "title": "Tributes paid to Sahid Laxman Nayak",
+    "text": "BERHAMPUR/JEYPORE: Rich tributes were paid to freedom fighter Sahid Laxman Nayak at the circle jail where he was hanged to death by the British.\nAfter garlanding the statue of the martyr at the prison, Commerce and Transport minister Bibhuti Bhushan Jena visited the the weaving section. The minister purchased several towels weaved by the inmates and gifted them to dignitaries including collector Dibyajyoti Parida, SP Saravana Vivek M and a few MLAs.\nIn a bid to make the inmates self-reliant, a skill development programme was started in the prison. As many as 60 inmates of the jail are presently undergoing training under the programme. They will appear for examination to get weaver trainer certificate, said senior superintendent of circle jail D Barik.\nTributes were also paid to the tribal freedom fighter on his birth anniversary across Koraput district on Friday.\nAt Tetuligumma, the birthplace of Sahid Nayak, public representatives, government officials and social activists gathered at the freedom fighter’s statue and paid floral tributes to the son of the soil and recalled his contribution to the freedom movement. A meeting was organised in the village, where Kotpad MLA Rupu Bhatra and Jeypore sub-collector A Sasya Reddy were present.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sahid Laxman Nayak",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bibhuti Bhushan Jena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dibyajyoti Parida",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sahid Nayak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:52:14.084+02:00",
+    "updated": "2024-11-23T04:52:14.084+02:00"
+}

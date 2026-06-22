@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "f679a803976c100c930f038299a8903221678334",
+        "url": "https://www.ndtv.com/world-news/ndtv-exclusive-un-official-calls-for-survivor-centred-anti-violence-laws-7092153",
+        "site_full": "www.ndtv.com",
+        "site": "ndtv.com",
+        "site_section": "https://ndtv.com/latest",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_gb",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Latest News: Today's big news headlines from India and around the world - NDTV.com",
+        "title": "NDTV Exclusive: UN Official Calls For Survivor-Centred Anti-Violence Laws",
+        "title_full": "NDTV Exclusive: UN Official Calls For Survivor-Centred Anti-Violence Laws",
+        "published": "2024-11-24T02:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://c.ndtvimg.com/2024-11/h4u4teeo_melissa-alvarado-_625x300_24_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "performance_score": 0,
+        "domain_rank": 851,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f679a803976c100c930f038299a8903221678334",
+    "url": "https://www.ndtv.com/world-news/ndtv-exclusive-un-official-calls-for-survivor-centred-anti-violence-laws-7092153",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aditya Nath Jha",
+    "published": "2024-11-24T02:29:00.000+02:00",
+    "title": "NDTV Exclusive: UN Official Calls For Survivor-Centred Anti-Violence Laws",
+    "text": "In an exclusive interview with NDTV, Melissa Alvarado, Regional Programme Manager for Ending Violence Against Women at UN Women, emphasised the importance of a survivor-centric approach when drafting laws and regulations to combat violence against women. Ms Alvarado stressed that the voices of survivors must be central in the formulation of policies aimed at curbing gender-based violence. \"Survivors may not be experts on the broader legalities of violence, but they are experts in their own experiences,\" Ms Alvarado said. \"We must listen carefully to them and shape our laws and practices based on their lived experiences.\" She also highlighted the need for a robust feedback loop to evaluate the effectiveness of laws and policies. According to Ms Alvarado, survivor input is crucial to refining and improving legal frameworks that are meant to protect women from violence. Ms Alvarado underscored the importance of identifying women at risk before they become victims of violence. She noted that many victims fail to reach out to existing support systems, such as hotlines and healthcare centres, either due to fear, stigma, or lack of awareness. \"Laws and regulations should be designed not only for those who report violence but also for those who don't,\" she said, stressing the need for preventative measures that reach vulnerable women before situations escalate. A key focus, Ms Alvarado explained, should be preventing severe forms of violence, including domestic abuse that leads to murder or rape. Early identification of high-risk situations, she argued, is essential for preventing these tragic outcomes. There are 1,583 legislative measures across 193 countries to address violence against women, UN data says. Ms Alvarado also discussed the heightened vulnerability of women in conflict zones or during crises, noting that they are often disproportionately affected by violence in such circumstances. She emphasized the importance of integrating women's voices into crisis planning and response efforts, as well as building social protection systems that specifically address the risks women face in times of crisis. \"We need to ensure that, as we prepare for the next climate disaster or other emergencies, we are including women, women's rights organizations, disability rights groups, and LGBTQ+ activists in crisis preparedness and planning,\" Ms Alvarado said. UN Women data shows that 70% of women in conflict, war, and humanitarian crisis, experience gender-based violence. Ms Alvarado also called on businesses to adopt a \"zero-tolerance\" policy for workplace violence against women. Companies, she argued, have a crucial role to play in creating safe environments for female employees and customers alike. In addition to enforcing zero-tolerance policies, Ms Alvarado suggested that companies provide training for employees to recognise signs of violence and extend support to customers who may be experiencing abuse.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Melissa Alvarado",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NDTV",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f679a803976c100c930f038299a8903221678334",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:18:10.625+02:00",
+    "updated": "2024-11-24T07:58:14.146+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "2b448f8258aef8a6d90a26e23a1f390c93ff9cf3",
+        "url": "https://www.newsx.com/india/assembly-elections-2024/maharashtra/ek-hain-toh-safe-hain-pm-modis-dig-after-ndas-big-win-in-maharashtra",
+        "site_full": "www.newsx.com",
+        "site": "newsx.com",
+        "site_section": "https://newsx.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking Latest News Today | Today News Headlines | Latest English News | Top News in India - Newsx",
+        "title": "‘Ek Hain Toh Safe Hain’, PM Modi’s Dig After NDA’s Big Win In Maharashtra",
+        "title_full": "‘Ek Hain Toh Safe Hain’, PM Modi’s Dig After NDA’s Big Win In Maharashtra",
+        "published": "2024-11-23T19:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 64253,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b448f8258aef8a6d90a26e23a1f390c93ff9cf3",
+    "url": "https://www.newsx.com/india/assembly-elections-2024/maharashtra/ek-hain-toh-safe-hain-pm-modis-dig-after-ndas-big-win-in-maharashtra",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Swati Pandey",
+    "published": "2024-11-23T19:04:00.000+02:00",
+    "title": "‘Ek Hain Toh Safe Hain’, PM Modi’s Dig After NDA’s Big Win In Maharashtra",
+    "text": "Prime Minister Narendra Modi , on Saturday, unleashed a powerful critique of the Congress Party, reaffirming his mantra, “Ek hain toh safe hain” (United, we are safe), which he proudly declared as the nation’s “maha-mantra” (national chant). Speaking to BJP workers at the party headquarters in New Delhi, Modi emphasized that the recent Maharashtra elections sent a clear message of unity, marking it as the nation’s collective spirit.\nThe BJP-led Mahayuti alliance emerged victorious with a decisive lead in Maharashtra, securing a commanding 230 out of the 288 Assembly seats. This result not only solidified the BJP’s dominance but also dealt a heavy blow to the Congress-led opposition bloc, the Maha Vikas Aghadi (MVA), which could only capture 50 seats. In his address, Modi celebrated the overwhelming support that united diverse communities, from tribals to Dalits, OBCs, and other marginalized groups. “This unity has been a sharp rebuttal to forces attempting to divide us,” Modi said, highlighting the massive rallying behind the BJP-NDA alliance.\nMUST READ: How Maharashtra Assembly Results Will Shape Tomorrow’s National Politics | Six Big Points\nPraising the BJP’s triumph, Modi declared it as the largest victory by any political party or alliance in Maharashtra in the past 50 years, marking the third consecutive win for the BJP-led coalition in the state. With this win, the BJP further solidified its position as a political juggernaut, having emerged as the largest party for the third consecutive time in Maharashtra. Modi also took a dig at the Congress and the INDIA alliance , boasting that the BJP had outperformed Congress and its allies in terms of seat counts, a testament to its growing strength across the country.\nIn the election, the BJP secured 133 seats out of the 149 it contested, while its allies, the Shiv Sena (Eknath Shinde) and NCP (Ajit Pawar), secured 56 and 41 seats, respectively. In stark contrast, Congress was leading in just 16 seats, with the Shiv Sena (UBT) and NCP (SP) lagging behind at 21 and 10 seats, respectively.\nThe win in Maharashtra marked the sixth state in India where the BJP has achieved a consecutive mandate, reinforcing its growing influence. As the Prime Minister declared, the message was clear: unity wins, division fails, and the BJP’s rise continues unabated.\nALSO READ: Mahim Assembly Seat 2024: A Historic Battleground For Shiv Sena And MNS",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:57:20.180+02:00",
+    "updated": "2024-11-24T00:57:20.180+02:00"
+}

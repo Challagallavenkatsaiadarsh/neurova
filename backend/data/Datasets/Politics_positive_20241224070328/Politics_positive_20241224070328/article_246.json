@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "b475204ca1e42163f63fe47c8a779cfdbaeb81ef",
+        "url": "https://www.gmanetwork.com/news/topstories/regions/927990/vp-sara-duterte-s-supporters-hold-prayer-rally-for-ovp/story",
+        "site_full": "www.gmanetwork.com",
+        "site": "gmanetwork.com",
+        "site_section": "https://www.gmanetwork.com/news",
+        "site_categories": [
+            "television",
+            "entertainment",
+            "top_news_ph",
+            "top_news"
+        ],
+        "section_title": "Latest Philippine News | GMA News Online",
+        "title": "VP Sara Duterte's supporters hold prayer rally for OVP | GMA News Online",
+        "title_full": "VP Sara Duterte's supporters hold prayer rally for OVP | GMA News Online",
+        "published": "2024-11-24T01:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://images.gmanews.tv/webpics/2024/11/davao_2024_11_24_07_39_48.jpg",
+        "performance_score": 0,
+        "domain_rank": 5497,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b475204ca1e42163f63fe47c8a779cfdbaeb81ef",
+    "url": "https://www.gmanetwork.com/news/topstories/regions/927990/vp-sara-duterte-s-supporters-hold-prayer-rally-for-ovp/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GMA Regional TV",
+    "published": "2024-11-24T01:45:00.000+02:00",
+    "title": "VP Sara Duterte's supporters hold prayer rally for OVP | GMA News Online",
+    "text": "of Vice President Sara Duterte gathered at the Rizal Park in Davao City evening on Saturday, November 23, 2024, to light candles and hold a prayer rally.\nAround 600 people attended the activity facilitated by the Hugpong sa Tawong Lungsod Party.\nDuterte was mayor of Davao City before elected as vice president.\nThe group has slammed the House of Representatives for the alleged unjust treatment on the Office of the Vice President (OVP).\nDuterte has expressed anger after her chief-of-staff, Undersecretary Zuleika Lopez, was ordered transferred to the Correctional Institution for Women (CIW) in Mandulyong City from the House detention facility late Friday, November 22.\nLopez was detained at the lower chamber after she was cited in contempt for her supposed \"undue interference\" in the panel’s investigation into the confidential funds of offices held by Duterte.\nThe House panel said the decision to change Lopez’s place of detention was reached during an emergency Zoom meeting on Friday after the panel received two letters that raised “red flags” among its members.\nAmong them is Duterte' supposed interference, which the panel warned could be a precedent for abuse.\nHowever, Lopez was brought to the Veterans Memorial Medical Center (VMMC) after she felt ill after the order for her transfer was implemented.\nDuterte claimed that the order to transfer her chief-of-staff was “ attempted homicide .”\n“Naniniwala ako na it was attempted homicide because she feared for her life. ‘Pag nakakita siya ng uniform ng police, natataranta siya. Kasi imaginine mo ba naman nine [police officers] ang biglang papasok sa kuwarto mo,” Duterte said in an early morning media interview at the Veterans Memorial Medical Center in Quezon City. —with reports from Jaycel Villacorte, GMA Super Radyo Davao and GMA News Online\\/ GMA Regional TV",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sara Duterte",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zuleika Lopez",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "House of Representatives",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mandulyong City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Park",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:04:19.991+02:00",
+    "updated": "2024-11-24T02:04:19.991+02:00"
+}

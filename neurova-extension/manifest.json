@@ -1,0 +1,1 @@
+{ "manifest_version": 3, "name": "Neurova Secure Extension", "version": "1.0", "description": "Secure AI + Cyber login extension", "action": { "default_popup": "popup.html" }, "permissions": [] } 

@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "c3816e1f2a4a7ae6753e5d8e0a4b236e8ba9b2bb",
+        "url": "https://governor.kansas.gov/governor-kelly-announces-pardons",
+        "site_full": "governor.kansas.gov",
+        "site": "kansas.gov",
+        "site_section": "https://governor.kansas.gov/feed",
+        "site_categories": [
+            "agriculture",
+            "law_government_and_politics",
+            "business",
+            "us_government_resources"
+        ],
+        "section_title": "Governor of the State of Kansas",
+        "title": "Governor Kelly Announces Pardons",
+        "title_full": "Governor Kelly Announces Pardons",
+        "published": "2024-11-22T22:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://governor.kansas.gov/wp-content/uploads/2022/04/Press-Release-Laura-Kelly-1.png",
+        "performance_score": 0,
+        "domain_rank": 15191,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c3816e1f2a4a7ae6753e5d8e0a4b236e8ba9b2bb",
+    "url": "https://governor.kansas.gov/governor-kelly-announces-pardons",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Grace Hoge",
+    "published": "2024-11-22T22:40:00.000+02:00",
+    "title": "Governor Kelly Announces Pardons",
+    "text": "Governor Kelly Announces Pardons\nTOPEKA – Governor Laura Kelly announced Friday that she granted pardons to two individuals who show strong signs of rehabilitation. The decision to grant the pardons was made following independent reviews by the Prison Review Board, the Kansas Department of Administration, and the Governor’s legal team.\n“The decision to grant these pardons comes after a meticulous and thorough review process,” Governor Laura Kelly said. “One of the largest factors taken into consideration is a person’s commitment to rehabilitation, making amends, and positively contributing to society. Granting these pardons will give a second chance to two individuals who have taken responsibility for their actions and are working to move on with their lives.”\nGovernor Kelly took into consideration numerous factors to determine if the pardons were warranted, including but not limited to: the nature of the offense, impact of the crime on victims or survivors, demonstration of rehabilitation, criminal history, absence of disciplinary issues in prison, positive achievements and growth while incarcerated, and the ability to contribute to society.\nArticle 1, Section 7 of the Kansas Constitution and K.S.A. § 22-3701 grants the governor’s authority to grant clemency. Below, please find the list of individuals receiving pardons:\nAnthony Mitchell, pardon\nRichard McMichael, pardon\nReview of clemency applications by the Governor is ongoing, and there is no set timeline for review. By law, clemency applications in Kansas must be submitted to the Prisoner Review Board and notice of an individual’s application for clemency must be published in the county newspaper where the crime was committed. The Board reviews all applications before forwarding them for further review. Additional information about the process can be found at the Board’s website: https://www.doc.ks.gov/prb\nThe Governor’s Office encourages victims and survivors to reach out to the Office of Victim Services, which provides confidential support and information to victims, survivors, or witnesses of a crime. Information can be found here or by phone at 866-404-6732.\n###",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "c3816e1f2a4a7ae6753e5d8e0a4b236e8ba9b2bb",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:08:54.289+02:00",
+    "updated": "2024-11-23T01:08:54.289+02:00"
+}

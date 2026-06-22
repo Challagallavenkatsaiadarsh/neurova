@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "59efeb389743fc65a717ac5446f84a0a854deef9",
+        "url": "https://bncc.ticketco.events/no/nb/e/bncc_christmas_reception__the_british_ambassadors_residence_oslo",
+        "site_full": "bncc.ticketco.events",
+        "site": "ticketco.events",
+        "site_section": "https://bncc.ticketco.events/no/nb",
+        "site_categories": [],
+        "section_title": "TicketCo - Arrangementer\nBritish-Norwegian Chamber of Commerce",
+        "title": "BNCC Christmas Reception @ The British Ambassador&#39;s Residence, Oslo",
+        "title_full": "BNCC Christmas Reception @ The British Ambassador&#39;s Residence, Oslo",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "NO",
+        "main_image": "https://tuploads.s3.eu-west-1.amazonaws.com/production/uploads/event/image/719917/default_file-1730300887.png",
+        "performance_score": 0,
+        "domain_rank": 59212,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "59efeb389743fc65a717ac5446f84a0a854deef9",
+    "url": "https://bncc.ticketco.events/no/nb/e/bncc_christmas_reception__the_british_ambassadors_residence_oslo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "BNCC Christmas Reception @ The British Ambassador&#39;s Residence, Oslo",
+    "text": "BNCC Christmas Reception @ The British Ambassador's Residence, Oslo\nThe British-Norwegian Chamber of Commerce in Oslo are pleased to invite their business network from all cultures and denominations to enjoy a splendidly delicious Christmas themed reception for nurturing business connections, in the elegant surroundings of the British Ambassador’s Residence.\nWe hope you will be able to join us and our esteemed Guest of Honour\n- Mr. Thomas Parker-Bowles, Food Critic, Author and son to HM Queen Camilla\nfor:\n🎶 Jolly good tunes to get you in the festive spirit\n🍷 Scrumptious Christmassy nibbles and tipples\n🎁 Delightful surprises and a bit of holiday magic\nat this perfect opportunity to enjoy some top-notch company, and celebrate both the season and the formidable BNCC business network, in true British-Norwegian style.\nRestriksjoner\nPLEASE NOTE: Your contribution to the creation of this event is non-refundable. In the event of a cancellation or withdrawal, the participant will not be entitled to a refund. We apologise if this sounds harsh but the planning and elements of this event are dependent upon an expected number of participants and it's just not possible to detangle any single contribution. We thank you for your understanding.\nThis ticket is intended for the recipient of an Official Invitation from the Administration or a Director on the Board of The British-Norwegian Chamber of Commerce. This is not a public event and security measures to correctly identify the guests attending this event are in place.\nAnsvarsfraskrivelse\nBy registering for this event, you acknowledge and consent to the following:\n1. Your contact information will be shared with BNCC and our event partners. You will receive emails and updates from BNCC, although you have the right to unsubscribe at any time and we will remove your details from our records.\n2. Photographs or videos taken at the event can be shared in BNCC member newsletters and emails, as well as on social media or on the BNCC website.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Thomas Parker-Bowles",
+                "sentiment": "none"
+            },
+            {
+                "name": "Camilla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:31:02.856+02:00",
+    "updated": "2024-11-24T00:31:02.856+02:00"
+}

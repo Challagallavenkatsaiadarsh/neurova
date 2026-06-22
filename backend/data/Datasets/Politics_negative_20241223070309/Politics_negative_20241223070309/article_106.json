@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "751c1e620d0df35d689c03e9fa004ee655923828",
+        "url": "https://www.journalgazette.net/local/fort-wayne-woman-gets-13-year-sentence-for-boyfriends-homicide/article_75bbde5e-a915-11ef-8bcc-0fd7a93c4a73.html",
+        "site_full": "www.journalgazette.net",
+        "site": "journalgazette.net",
+        "site_section": "https://www.journalgazette.net/search/?f=rss&amp",
+        "site_categories": [
+            "media",
+            "world_soccer",
+            "sports"
+        ],
+        "section_title": "www.journalgazette.net - RSS Results",
+        "title": "Fort Wayne woman gets 13-year sentence for boyfriend's homicide",
+        "title_full": "Fort Wayne woman gets 13-year sentence for boyfriend's homicide",
+        "published": "2024-11-22T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/journalgazette.net/content/tncms/assets/v3/editorial/3/64/364ef70a-a916-11ef-8649-93aadbdf5952/6740f36c7d3b2.image.jpg?crop=268%2C268%2C106%2C205&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 17011,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "751c1e620d0df35d689c03e9fa004ee655923828",
+    "url": "https://www.journalgazette.net/local/fort-wayne-woman-gets-13-year-sentence-for-boyfriends-homicide/article_75bbde5e-a915-11ef-8bcc-0fd7a93c4a73.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devan Filchak | The Journal Gazette",
+    "published": "2024-11-22T23:30:00.000+02:00",
+    "title": "Fort Wayne woman gets 13-year sentence for boyfriend's homicide",
+    "text": "A Fort Wayne woman was sentenced Friday to 13 years in prison for her part in her boyfriend’s shooting death.\nLexus Evans, 26, is one of four people charged with murder for the death of 40-year-old Dennis Starr. He was found in the driver’s seat of a car on July 25, 2023, suffering from a gunshot wound. The car was parked in the Waynedale area at Lower Huntington Road and Kruge Drive.\nSamuel W. Evans III, who is her father; Samuel W. Evans IV, her brother; and Jesse Shears were also charged. All four have entered plea agreements, but Samuel W. Evans IV is the only suspect to plead guilty to murder.\nLexus Evans last month pleaded guilty to felony aggravated battery in exchange for a murder charge being dismissal.\nThe plea agreement called for at least 10 years in prison, and the charge carries a maximum of 16 years. Allen Superior Court Judge David Zent approved the plea agreement Friday and sentenced her to 13 years.\nLexus Evans and the victim were dating and living together before the fatal shooting, according to a probable cause affidavit written by Fort Wayne Police Detective Ben MacDonald.\nLexus Evans told police that she was with her father, Samuel Evans III, when the shooting happened. Lexus Evans said she and Starr had argued three days earlier at a cookout and that she was assaulted by his friends after he left.\nStarr was on his way to work at the General Motors assembly plant when he was killed, according to court records.\nSamuel W. Evans III and Jesse Shears were sentenced by Zent on Monday.\nSamuel W. Evans III, who pleaded guilty to battery resulting in serious bodily injury, was sentenced to four years in prison. He faced a maximum sentence of six years, but the plea agreement capped the incarceration to four years.\nShears was sentenced to 10 years in prison after pleading guilty to aggravated battery. The charge carries a sentence of up to 16 years, but the plea agreement capped prison time to 10 years.\nSamuel Evans IV faces between 45 and 65 years in prison for murder at a 10 a.m. sentencing hearing Dec. 2. He entered the plea agreement Nov. 6, which was less than a week before his jury trial was scheduled to begin. If accepted, a sentencing enhancement for using a gun that carries a sentence of five to 20 years will be dismissed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Samuel W. Evans III",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dennis Starr",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jesse Shears",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lexus Evans",
+                "sentiment": "none"
+            },
+            {
+                "name": "David Zent",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ben",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Allen Superior Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kruge Drive",
+                "sentiment": "none"
+            },
+            {
+                "name": "Waynedale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lower",
+                "sentiment": "none"
+            },
+            {
+                "name": "Road",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:13:14.645+02:00",
+    "updated": "2024-11-23T00:13:14.645+02:00"
+}

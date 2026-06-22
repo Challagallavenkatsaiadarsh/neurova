@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "a1469a06f8a631a4da6a5874199f457704e3f401",
+        "url": "https://www.newsbreak.com/cnn-510076/3687233311208-world-agrees-to-climate-deal-on-financial-aid-for-developing-countries-after-summit-nearly-implodes",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/cnn-510076",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "CNN&#x27;s Home Page | NewsBreak",
+        "title": "World agrees to climate deal on financial aid for developing countries after summit nearly implodes",
+        "title_full": "World agrees to climate deal on financial aid for developing countries after summit nearly implodes",
+        "published": "2024-11-24T00:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2JKYgk_0wzL2yuK00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a1469a06f8a631a4da6a5874199f457704e3f401",
+    "url": "https://www.newsbreak.com/cnn-510076/3687233311208-world-agrees-to-climate-deal-on-financial-aid-for-developing-countries-after-summit-nearly-implodes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Laura Paddison, CNN",
+    "published": "2024-11-24T00:40:00.000+02:00",
+    "title": "World agrees to climate deal on financial aid for developing countries after summit nearly implodes",
+    "text": "CNN 41 minutes ago 41 minutes ago Comments / YOU MAY ALSO LIKE 28 pounds of cocaine worth $900,000 was found in a hot chocolate shipment going to Northern Virginia Margaret Minnicks5 days ago Gaetz withdraws from attorney general consideration after Trump told him he didn’t have the votes in the Senate CNN2 days ago CNN2 days ago City Pulse11 days ago Veronica Charnell Media22 days ago Wisconsin Watch16 days ago CNN22 hours ago The Politicians10 days ago The Biden administration is trying to throw a Hail Mary to save the Colorado River before Trump takes over CNN2 days ago A neo-Nazi turf war may have just flared in Columbus, Ohio. Jewish, Black and elected leaders won’t stand for it CNN2 days ago The Politicians7 days ago Golden Gate Media11 days ago Mexican cartel leader who faked his own death has been arrested in California, Justice Department says CNN2 days ago Golden Gate Media11 days ago The HD Post1 day ago Arizona Luminaria10 days ago David Heitz10 days ago CNN2 days ago David Heitz16 days ago Get updates delivered to you daily. Free and customizable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Veronica Charnell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaetz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Justice Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Northern",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:21:36.062+02:00",
+    "updated": "2024-11-24T01:21:36.062+02:00"
+}

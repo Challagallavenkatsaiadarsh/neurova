@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "bcd54fdb7e095ab031b47981a85c49eb8af76c1b",
+        "url": "https://www.premiumtimesng.com/news/top-news/756502-cop29-agrees-deal-for-full-operationalisation-of-loss-damage-fund.html",
+        "site_full": "www.premiumtimesng.com",
+        "site": "premiumtimesng.com",
+        "site_section": "http://nigeria.shafaqna.com/rss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Nigeria News (News Reader) | ",
+        "title": "COP29: Deal agreed for full operationalisation of ‘Loss & Damage’ Fund",
+        "title_full": "COP29: Deal agreed for full operationalisation of ‘Loss & Damage’ Fund",
+        "published": "2024-11-24T06:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 9224,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bcd54fdb7e095ab031b47981a85c49eb8af76c1b",
+    "url": "https://www.premiumtimesng.com/news/top-news/756502-cop29-agrees-deal-for-full-operationalisation-of-loss-damage-fund.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abdulkareem Mojeed, Nicholas Adeniyi",
+    "published": "2024-11-24T06:16:00.000+02:00",
+    "title": "COP29: Deal agreed for full operationalisation of ‘Loss & Damage’ Fund",
+    "text": "This initiative aims to support developing countries in enhancing their resilience to the impacts of climate change.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/presidentaz?lang=en",
+        "https://www.twitter.com/presidentaz?lang=en",
+        "https://twitter.com/presidentaz"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ilham Aliyev",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:29:30.360+02:00",
+    "updated": "2024-11-24T12:26:14.238+02:00"
+}

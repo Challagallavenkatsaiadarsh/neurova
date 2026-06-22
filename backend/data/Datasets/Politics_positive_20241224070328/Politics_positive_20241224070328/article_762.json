@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "526e83539811cb18f68b928b5cda4e5dc4265a2f",
+        "url": "https://www.newsbreak.com/wlns-1589932/3686018773735-michigan-certifies-2024-general-election",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wlns-1589932",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WLNS&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T03:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2NDI7y_0wy6xjzk00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "526e83539811cb18f68b928b5cda4e5dc4265a2f",
+    "url": "https://www.newsbreak.com/wlns-1589932/3686018773735-michigan-certifies-2024-general-election",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T03:06:00.000+02:00",
+    "title": "",
+    "text": "By Shajaka Shelton ,\n1 days ago LANSING, Mich. (WLNS) — Michigan’s Board of State Canvassers voted unanimously to certify the 2024 general election on Friday, following certifications in all 83 counties earlier this month. A little over 5.7 million Michiganders voted in this election—the highest state turnout in history.\n“Our state and county canvassing boards have all fulfilled their lawful duty to certify the results of Michigan’s 2024 General Election,” Secretary of State Jocelyn Benson said. “I am grateful for the dedication of the professional, bipartisan clerks and poll workers who once again ensured that the election was safe, secure and that the results accurately reflect the will of the voters.”\nYou can view the official election results from the page linked here .\nThe Michigan Board of State Canvassers signed certificates to officially certify the results of the 2024 General Election. Pictured from left to right: Chair Mary Ellen Gurewitz (D), Vice-Chair Richard Houskamp (R), member Jeannette Bradshaw (D), and member Anthony Daunt (R). Any candidates who wish to request a recount must do so by Monday morning. However, the deadline varies depending on the race: President, U.S. Senate, and multi-county U.S. or Michigan House races, and all court positions must be filed by 11:21 a.m. Monday, while recounts for single-county U.S. House or Michigan House must be filed by 11:29 a.m.\nCounter-petitions must be filed no later than 48 hours after filing of the recount position under Michigan law .\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WLNS 6 News.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wlns.com",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2NDI7y_0wy6xjzk00",
+        "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-882",
+        "https://img.particlenews.com/image.php?url=2NDI7y_0wy6xjzk00",
+        "https://www.michigan.gov/sos/elections/Election-Results-and-Data",
+        "https://www.img.particlenews.com/image.php?url=2NDI7y_0wy6xjzk00",
+        "https://wlns.com",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2NDI7y_0wy6xjzk00",
+        "https://img.particlenews.com/image.php",
+        "https://michigan.gov/sos/elections/Election-Results-and-Data",
+        "https://legislature.mi.gov/Laws/MCL?objectName=mcl-168-882",
+        "https://www.legislature.mi.gov/Laws/MCL"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:24:11.929+02:00",
+    "updated": "2024-11-24T06:24:11.929+02:00"
+}

@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "8149f90d8f366428a10b8174ff87a6aeb737e52c",
+        "url": "https://thenationonlineng.net/tinubu-seeks-senates-confirmation-of-oluyede-as-coas",
+        "site_full": "thenationonlineng.net",
+        "site": "thenationonlineng.net",
+        "site_section": "https://www.yohaig.ng",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Naija News 247 | Naijanews Headlines Today | 9ja News",
+        "title": "Tinubu seeks Senate’s confirmation of Oluyede as CoAS",
+        "title_full": "Tinubu seeks Senate’s confirmation of Oluyede as CoAS",
+        "published": "2024-11-22T23:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 14224,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8149f90d8f366428a10b8174ff87a6aeb737e52c",
+    "url": "https://thenationonlineng.net/tinubu-seeks-senates-confirmation-of-oluyede-as-coas",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Reporter",
+    "published": "2024-11-22T23:17:00.000+02:00",
+    "title": "Tinubu seeks Senate’s confirmation of Oluyede as CoAS",
+    "text": "President Bola Ahmed Tinubu has formally written to the Senate, seeking confirmation of Lieutenant General Olufemi Olatubosun Oluyede’s appointment as the substantive Chief of Army Staff.\nThis move follows Oluyede’s appointment as Acting Chief of Army Staff on October 30, after the illness of Lieutenant General Taoreed Lagbaja, who sadly passed away on November 5.\nA statement issued yesterday by Special Adviser to the President on Information and Strategy, Bayo Onanuga, said President Tinubu’s letter to the Senate is in accordance with the provisions of Section 218(2) of the 1999 Constitution as amended and Section 18(1) of the Armed Forces Act.\n The statement reads: “President Bola Tinubu has sent a letter to the Senate seeking confirmation of Lieutenant General Olufemi Olatubosun Oluyede’s appointment as the substantive Chief of Army Staff.\n “In the letter sent today, President Tinubu seeks Oluyede’s confirmation in accordance with the provision of Section 218(2) of the 1999 Constitution as amended and Section 18(1) of the Armed Forces Act.\n “President Tinubu appointed Oluyede as the Acting Chief of Army Staff on October 30 following the illness of Lieutenant General Taoreed Lagbaja.\n “General Lagbaja, however, died on 5 November.\n“President Tinubu is confident about the leadership qualities, professional integrity, and experience of Lt. General Oluyede to lead and inspire the army to ensure national security and stability.\nRelated News “Before he was appointed Acting Chief of Army Staff, Oluyede, a member of the 39th Regular Course, like his predecessor, served as the 56th Commander of the elite Infantry Corps of the Nigerian Army, based in Jaji, Kaduna.\n “He was commissioned a second lieutenant in 1992, effective from 1987. He rose to Major-General in September 2020.\n“Since his commissioning as an officer, Oluyede has held many command positions. He was Platoon Commander and adjutant at 65 Battalion, Company Commander at 177 Guards Battalion, Staff Officer in the Guards Brigade, and Commandant of the Amphibious Training School.\n “General Oluyede participated in several operations, including the Economic Community of West African States Monitoring Group (ECOMOG) Mission in Liberia, Operation HARMONY IV in Bakassi, and Operation HADIN KAI in the North East theatre of operations, where he commanded 27 Task Force Brigade.\n “For his meritorious service in various fields of operations, he has earned many honours, including the Corps Medal of Honour, the Grand Service Star, Passing the Staff Course, and Membership in the National Institute.\n “Others are the Field Command Medal, the Field Command Medal of Honour, and the Field Training Medal.\n“Oluyede also received the coveted Chief of Army Staff Commendation Award.He is married and has three children.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://en.wikipedia.org/wiki/Bola_Tinubu",
+        "https://www.en.wikipedia.org/wiki/Bola_Tinubu"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bola Ahmed Tinubu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Olufemi Olatubosun Oluyede",
+                "sentiment": "none"
+            },
+            {
+                "name": "Taoreed Lagbaja",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bayo Onanuga",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bola Tinubu",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:01:48.908+02:00",
+    "updated": "2024-11-23T03:01:48.908+02:00"
+}

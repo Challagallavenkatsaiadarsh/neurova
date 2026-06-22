@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "58e70729e6a2ec145b1fddd3480d6c7a9d6805a8",
+        "url": "https://www.devdiscourse.com/article/politics/3167765-bjps-krishnakumar-leads-early-in-palakkad-bypoll",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "BJP's Krishnakumar Leads Early in Palakkad Bypoll | Politics",
+        "title_full": "BJP's Krishnakumar Leads Early in Palakkad Bypoll | Politics",
+        "published": "2024-11-23T03:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_49_54_2610105.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "58e70729e6a2ec145b1fddd3480d6c7a9d6805a8",
+    "url": "https://www.devdiscourse.com/article/politics/3167765-bjps-krishnakumar-leads-early-in-palakkad-bypoll",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T03:09:00.000+02:00",
+    "title": "BJP's Krishnakumar Leads Early in Palakkad Bypoll | Politics",
+    "text": "BJP's Krishnakumar Leads Early in Palakkad Bypoll\nThe BJP-led NDA candidate, C Krishnakumar, took an early lead in the Palakkad Assembly bypoll as vote counting began. The election features 10 candidates, with Krishnakumar, Rahul Mamkootathil (UDF), and P Sarin (LDF) as main contenders. This by-election followed Shafi Parambil's move to the Lok Sabha.\n- Country:\n- India\nC Krishnakumar, representing the BJP-led National Democratic Alliance, has gained an early advantage in the Palakkad Assembly bypoll, according to TV reports on Saturday. He secured 1,016 votes after the first counting phase, which included postal ballots.\nThere has been no official confirmation from the Election Commission regarding this update. The by-election sees 10 candidates, with primary competition between Rahul Mamkootathil of the UDF, C Krishnakumar of the NDA, and P Sarin of the LDF.\nThe bypoll was necessitated after Congress leader Shafi Parambil resigned from the seat following his election to the Lok Sabha from Vadakara earlier this year.\n(With inputs from agencies.)\n- READ MORE ON:\n-\n[BJP](/news?tag=BJP) -\n[Krishnakumar](/news?tag=Krishnakumar) -\n[Palakkad](/news?tag=Palakkad) -\n[by-election](/news?tag=by-election) -\n[Election Commission](/news?tag=Election+Commission) -\n[Congress](/news?tag=Congress) -\n[NDA](/news?tag=NDA) -\n[UDF](/news?tag=UDF) -\n[LDF](/news?tag=LDF) -\n[Shafi Parambil](/news?tag=Shafi+Parambil)\nALSO READ\n[Republicans On Track for Congressional Dominance](/article/politics/3149624-republicans-on-track-for-congressional-dominance)[Republican Surge: Trump’s Party Eyes Total Congress Control](/article/politics/3149616-republican-surge-trumps-party-eyes-total-congress-control)[Political Tensions Flare as Vijayan Challenges Congress Over Jamaat-e-Islami Links](/article/politics/3149644-political-tensions-flare-as-vijayan-challenges-congress-over-jamaat-e-islami-links)[Grand Soorasamharam Celebration Marks Kanda Sashti Festival Across Tamil Nadu](/article/headlines/3149690-grand-soorasamharam-celebration-marks-kanda-sashti-festival-across-tamil-nadu)[Ananya Panday's Stunning Tribute to Rohit Bal](/article/entertainment/3149754-ananya-pandays-stunning-tribute-to-rohit-bal)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Krishnakumar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rahul Mamkootathil",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shafi Parambil",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:43:20.310+02:00",
+    "updated": "2024-11-23T05:43:20.310+02:00"
+}

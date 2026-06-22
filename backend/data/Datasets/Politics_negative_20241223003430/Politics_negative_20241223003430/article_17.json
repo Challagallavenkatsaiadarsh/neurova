@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "44b86fecefc8fd9cf505710b979c086d9ccc6a21",
+        "url": "https://www.postandcourier.com/columbia/news/columbia-mosque-vandalized-investigation-columbia/article_59b10ba0-a913-11ef-b115-c7d324508e9a.html",
+        "site_full": "www.postandcourier.com",
+        "site": "postandcourier.com",
+        "site_section": "https://www.postandcourier.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "South Carolina News & Charleston SC News | Post and Courier | Charleston, SC. Local News, Sports and Weather ",
+        "title": "Authorities investigating after Columbia mosque vandalized with swastika symbol, 'get out' message",
+        "title_full": "Authorities investigating after Columbia mosque vandalized with swastika symbol, 'get out' message",
+        "published": "2024-11-22T22:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/e/e6/ee672306-6156-11ef-b13b-d76f710fae1d/6022e36d98b24.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 4019,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "44b86fecefc8fd9cf505710b979c086d9ccc6a21",
+    "url": "https://www.postandcourier.com/columbia/news/columbia-mosque-vandalized-investigation-columbia/article_59b10ba0-a913-11ef-b115-c7d324508e9a.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jimmy Nesbitt jnesbitt@postandcourier.com",
+    "published": "2024-11-22T22:50:00.000+02:00",
+    "title": "Authorities investigating after Columbia mosque vandalized with swastika symbol, 'get out' message",
+    "text": "A Columbia mosque was vandalized with symbols including a swastika and the message \"get out,\" according to the Richland County Sheriff's Department. The incident was reported around 10 a.m. Nov. 22 at the Muhammed Mosque on Farrow Road. The sheriff's department has additional patrols at all religious sites in Richland County, according to a news release. \"Additionally, RCSD is notifying all other mosques and synagogues in the area to make them aware,\" the release stated. The Council on American-Islamic Relations, a Washington, D.C.-based Muslim group, called on authorities to investigate the vandalism as a hate crime. “We condemn any attack on a house of worship and urge state and federal law enforcement authorities to bring the perpetrators to justice,\" Ibrahim Hooper, national communications director for CAIR, said in a statement. \"This troubling incident must be investigated as a possible hate crime. “Unfortunately, we are witnessing a rise in bigotry targeting all minority communities nationwide. Political and religious leaders must speak out against the hate-filled ideologies that inevitably result in such acts of bigotry.” Two men were painting over the markings around 4:30 p.m. Nov. 22 ahead of the mosque's scheduled classes. One of the men, who declined to be named, called the act \"a slap in the face\" and said the mosque was trying to move on from the incident. The Richland County Sheriff's Department had not yet determined whether or not to investigate the incident as a hate crime as of 4:30 p.m. Nov. 22, a RCSD spokesperson said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ibrahim Hooper",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CAIR",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Farrow Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:59.979+02:00",
+    "updated": "2024-11-23T01:35:16.574+02:00"
+}

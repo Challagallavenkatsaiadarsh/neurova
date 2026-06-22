@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "ce86c8416a89901f67e84f74a0dda11b2d72ed8c",
+        "url": "https://cubasi.cu/en/news/nicaraguan-national-assembly-approves-historic-constitutional-reforms",
+        "site_full": "cubasi.cu",
+        "site": "cubasi.cu",
+        "site_section": "https://cubasi.cu/en",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Cuba Si - News from Cuba and the World",
+        "title": "Nicaraguan National Assembly Approves Historic Constitutional Reforms | Cuba Si",
+        "title_full": "Nicaraguan National Assembly Approves Historic Constitutional Reforms | Cuba Si",
+        "published": "2024-11-24T03:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CU",
+        "main_image": "http://cubasi.cu/sites/default/files/gdaea62wmaapz3a-1024x682.jpg.jpg",
+        "performance_score": 0,
+        "domain_rank": 99064,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ce86c8416a89901f67e84f74a0dda11b2d72ed8c",
+    "url": "https://cubasi.cu/en/news/nicaraguan-national-assembly-approves-historic-constitutional-reforms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T03:11:00.000+02:00",
+    "title": "Nicaraguan National Assembly Approves Historic Constitutional Reforms | Cuba Si",
+    "text": "Nicaraguan National Assembly Approves Historic Constitutional Reforms\nespeciales\nThe National Assembly of Nicaragua, passed this Friday unanimously and in the first legislature amendments to the 1987 Political Constitution, submitted on November 19 by the President Daniel Ortega and should be approved in a second reading and enter into force in January 2025.\nRELATED:\n[Nicaragua Proposes to China the Construction of the Interoceanic Canal](https://www.telesurenglish.net/nicaragua-proposes-to-china-the-construction-of-the-interoceanic-canal/)\nDuring the session, the president of the National Assembly, Gustavo Porras, stressed that this update of the Constitution represents an important advance for the Nicaraguan people, This achievement reflects the full representation of political forces in the Legislative Branch and is set against a background of “Revolution and Evolution”.\nAccording to the Nicaraguan officials, the main aim of the reforms is to adapt the legal framework to new times and realities through a process of transformation and modernisation, and consolidate a more inclusive legal framework that is in line with the nation’s current challenges.\nNicaragua’s vice president, Rosario Murillo, described the day as historic, emphasizing that the people claimed their right to a representative constitution that would give all citizens prominence and power.\nIn her daily speech to the Nicaragua’s people, she emphasized the importance of guaranteeing fundamental rights for families, men, women and young people, in the context of building a future free from poverty.\n“To families, to men and women, to the youth, on all aspects of life in society, guaranteeing the fundamental rights of us, the Nicaraguan citizens, who proudly and honorably are building a future free from poverty,” he stated.\nThe reforms establishes the revolutionary character of the Nicaraguan state, reaffirms the independence, sovereignty and self-determination of the country, extends from 5 to 6 years the presidential term, establishes the figure of “co-president” and “co-president”, which the executive will “coordinate” the other powers of the State as a reflection of the will of the people.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.telesurenglish.net/nicaragua-proposes-to-china-the-construction-of-the-interoceanic-canal/",
+        "https://www.telesurenglish.net/nicaragua-proposes-to-china-the-construction-of-the-interoceanic-canal",
+        "https://telesurenglish.net/nicaragua-proposes-to-china-the-construction-of-the-interoceanic-canal/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gustavo Porras",
+                "sentiment": "none"
+            },
+            {
+                "name": "Daniel Ortega",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nicaraguan National Assembly",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:07:44.594+02:00",
+    "updated": "2024-11-24T05:07:44.594+02:00"
+}

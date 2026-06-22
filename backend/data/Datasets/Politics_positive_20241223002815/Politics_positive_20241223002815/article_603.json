@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "5605501c120dbd8005c6787d014067b7212db3ca",
+        "url": "https://www.newsbug.info/news/nation/hedge-fund-manager-scott-bessent-has-reportedly-been-tapped-to-lead-the-us-treasury-in/image_f69efa9e-1aac-5f70-b3f9-eafbb33c9517.html",
+        "site_full": "www.newsbug.info",
+        "site": "newsbug.info",
+        "site_section": "https://www.newsbug.info/search/?f=rss&amp",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.newsbug.info - RSS Results",
+        "title": "Hedge fund manager Scott Bessent has reportedly been tapped to lead the US Treasury in the new administration of President-elect Donald Trump",
+        "title_full": "Hedge fund manager Scott Bessent has reportedly been tapped to lead the US Treasury in the new administration of President-elect Donald Trump",
+        "published": "2024-11-23T03:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/newsbug.info/content/tncms/assets/v3/editorial/f/69/f69efa9e-1aac-5f70-b3f9-eafbb33c9517/67411f589b3d3.image.jpg?crop=341%2C341%2C85%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 116011,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5605501c120dbd8005c6787d014067b7212db3ca",
+    "url": "https://www.newsbug.info/news/nation/hedge-fund-manager-scott-bessent-has-reportedly-been-tapped-to-lead-the-us-treasury-in/image_f69efa9e-1aac-5f70-b3f9-eafbb33c9517.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Drew Angerer",
+    "published": "2024-11-23T03:03:00.000+02:00",
+    "title": "Hedge fund manager Scott Bessent has reportedly been tapped to lead the US Treasury in the new administration of President-elect Donald Trump",
+    "text": "Hedge fund manager Scott Bessent has reportedly been tapped to lead the US Treasury in the new administration of President-elect Donald Trump\n- Drew Angerer\n- Updated\nTags\nAs featured on\nUS President-elect Donald Trump is expected to pick billionaire Scott Bessent as his Treasury secretary, media outlets reported Friday, choosing the hedge fund manager to help execute an agenda promising tax cuts and tariffs.\nUS President-elect Donald Trump on Friday named billionaire Scott Bessent as his Treasury secretary, choosing the hedge fund manager to help execute an agenda promising tax cuts and tariffs.\nSuccess! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nBreaking News: Herald Journal\nBreaking News: Iroquois County's Times-Republic\nBreaking News: Kankakee Valley Post News\nBreaking News: Newton County Enterprise\nBreaking News: Rensselaer Republican\nBreaking News: WCINews (Fountain County Neighbor & Review Republican)\nCoronavirus Updates\nGet the latest local and national news.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fountain County Neighbor & Review Republican",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:34:08.682+02:00",
+    "updated": "2024-11-23T03:34:08.682+02:00"
+}

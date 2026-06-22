@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "60c1c1913b302f2f571dd03ae1f4b8694c962d0f",
+        "url": "https://www.newsbreak.com/usa-today-560565/3686311965936-dr-janette-nesheiwat-fox-news-medical-contributor-picked-as-us-surgeon-general",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/usa-today-560565",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "USA TODAY&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T03:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/3BiAgv_0wyPZHXC00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60c1c1913b302f2f571dd03ae1f4b8694c962d0f",
+    "url": "https://www.newsbreak.com/usa-today-560565/3686311965936-dr-janette-nesheiwat-fox-news-medical-contributor-picked-as-us-surgeon-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T03:34:00.000+02:00",
+    "title": "",
+    "text": "By Swapna Venugopal Ramaswamy, USA TODAY ,\n13 minutes ago President-elect Donald Trump announced Friday that he had picked Dr. Janette Nesheiwat, a Fox News medical contributor, to serve as the U.S. Surgeon General.\n“Dr. Nesheiwat is a fierce advocate and strong communicator for preventive medicine and public health,” Trump said in a statement. “She is committed to ensuring that Americans have access to affordable, quality healthcare, and believes in empowering individuals to take charge of their health to live longer, healthier lives.\"\nA graduate of the University of South Florida, she completed her medical residency at University of Arkansas Medical Center in Fayetteville and completed ER rotations with Johns Hopkins University.\nShe’s an author of “ Beyond the Stethoscope: Miracles in Medicine,” which is touted as offering stories of miraculous recoveries, experiences in the ER, and global medical missions that illuminate the transformative power of prayer and unwavering dedication to healing and service, according to a description of the book by its publisher.\nNesheiwat currently serves as a Medical Director at CityMD, a network of urgent care centers in New York and New Jersey. Previously, she served as a physician at Washington Regional Medical Center and at Northwest Medical Hospital.\nNASHVILLE, TENNESSEE - NOVEMBER 16: Dr Janette Nesheiwat attends the 2023 FOX Nation Patriot Awards at The Grand Ole Opry on November 16, 2023 in Nashville, Tennessee. (Photo by Terry Wyatt/Getty Images) Terry Wyatt, Getty Images As a medical news correspondent, Nesheiwat hosted an educational medical television show entitled Family Health Today as well as Health Minute with Dr. Janette on KNWA-TV, an NBC affiliate in Northwest Arkansas, according to her bio listed on Fox News website.\nNesheiwat provided on-the-ground medical treatment to Americans in the aftermath of Hurricane Katrina and the Joplin tornadoes, according to the statement from Trump.\nThis article originally appeared on USA TODAY: Dr. Janette Nesheiwat, Fox News medical contributor, picked as US Surgeon General",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3BiAgv_0wyPZHXC00",
+        "https://img.particlenews.com/image.php?url=3BiAgv_0wyPZHXC00",
+        "https://www.usatoday.com/news/politics/donald-trump/",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/22/trump-fox-news-surgeon-general/76510351007/",
+        "https://www.usatoday.com/news/politics/donald-trump",
+        "https://usatoday.com/story/news/politics/elections/2024/11/22/trump-fox-news-surgeon-general/76510351007/",
+        "https://usatoday.com/news/politics/donald-trump/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3BiAgv_0wyPZHXC00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=3BiAgv_0wyPZHXC00",
+        "https://www.usatoday.com/story/news/politics/elections/2024/11/22/trump-fox-news-surgeon-general/76510351007"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Swapna Venugopal Ramaswamy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of Arkansas Medical Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:48:58.621+02:00",
+    "updated": "2024-11-23T03:48:58.621+02:00"
+}

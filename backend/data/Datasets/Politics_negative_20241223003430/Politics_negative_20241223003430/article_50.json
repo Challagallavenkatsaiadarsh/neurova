@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "29efd46d660da0ca635bc81f1d9edb908cecca21",
+        "url": "https://steelerswire.usatoday.com/2024/11/22/arthur-smith-russell-wilson-steelers-oc-qb",
+        "site_full": "steelerswire.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "http://steelerswire.usatoday.com",
+        "site_categories": [
+            "sports",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_dk",
+            "top_news_th",
+            "top_news_fi",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Pittsburgh Steelers News, Rumors, Scores, Schedule, Stats and Roster | Steelers Wire",
+        "title": "Is OC Arthur Smith wasting Russell Wilson’s talent?",
+        "title_full": "Is OC Arthur Smith wasting Russell Wilson’s talent?",
+        "published": "2024-11-22T22:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://steelerswire.usatoday.com/wp-content/uploads/sites/76/2024/10/USATSI_24310722.jpg?w=1024&#038;h=576&#038;crop=1",
+        "performance_score": 0,
+        "domain_rank": 153,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "29efd46d660da0ca635bc81f1d9edb908cecca21",
+    "url": "https://steelerswire.usatoday.com/2024/11/22/arthur-smith-russell-wilson-steelers-oc-qb",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrew Vasquez",
+    "published": "2024-11-22T22:35:00.000+02:00",
+    "title": "Is OC Arthur Smith wasting Russell Wilson’s talent?",
+    "text": "Are the fans of the Pittsburgh Steelers experiencing their own rendition of a Matt Canada-esque Groundhog Day with OC Arthur Smith? While Smith’s offense is schematically better than anything Canada did for the Steel City, his playcalling in recent weeks has left much to be desired.\nFrom failed gadget plays with Justin Fields to obvious and predictable run calls, it appears Smith is wasting the talented arm of QB Russell Wilson .\nIt is understandable that Smith would attempt to run the ball in large quantities behind an offensive line that struggles with pass protection. However, Wilson has proven time and time again that when defenses are forced to respect his ‘moon ball,’ the Steelers win football games.\nWhile the blame game has recently focused on Wilson’s red zone struggles, it is Smith’s ineptitude in calling proper scoring plays that is truly at fault.\nArthur Smith can’t help himself pic.twitter.com/7MdgRHBk78\n— Kurt Benkert (@KurtBenkert) November 22, 2024\nSmith will need to reevaluate his playsheet moving forward, or the Steelers are in for a long six weeks to close out the 2024 season .\nArticles Could the Steelers sign Russell Wilson to a long-term deal? Steelers QB Russell Wilson labeled 'loser' in first loss of season to Browns Mike Tomlin spares no feelings regarding Russell Wilson's Week 11 INT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/KurtBenkert/status/1859801773327983040?ref_src=twsrc%5Etfw",
+        "https://t.co/7MdgRHBk78",
+        "https://twitter.com/KurtBenkert/status/1859801773327983040",
+        "https://www.t.co/7MdgRHBk78",
+        "https://www.twitter.com/KurtBenkert/status/1859801773327983040?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Arthur Smith",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Russell Wilson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kurt Benkert",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pittsburgh Steelers",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:07:45.969+02:00",
+    "updated": "2024-11-23T00:07:45.969+02:00"
+}

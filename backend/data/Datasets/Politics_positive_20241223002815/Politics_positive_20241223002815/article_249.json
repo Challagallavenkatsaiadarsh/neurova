@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "037349c6967519e6fd85d7b29f457d692cb42412",
+        "url": "https://coloradosprings.gov/news/mayor-yemi-honors-cindy-aubrey-spirit-colorado-springs-award",
+        "site_full": "coloradosprings.gov",
+        "site": "coloradosprings.gov",
+        "site_section": "https://coloradosprings.gov/rss.xml",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "City of Colorado Springs",
+        "title": "Mayor Yemi honors Cindy Aubrey with Spirit of Colorado Springs Award",
+        "title_full": "Mayor Yemi honors Cindy Aubrey with Spirit of Colorado Springs Award",
+        "published": "2024-11-22T23:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 25975,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "037349c6967519e6fd85d7b29f457d692cb42412",
+    "url": "https://coloradosprings.gov/news/mayor-yemi-honors-cindy-aubrey-spirit-colorado-springs-award",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jacob.guilez",
+    "published": "2024-11-22T23:13:00.000+02:00",
+    "title": "Mayor Yemi honors Cindy Aubrey with Spirit of Colorado Springs Award",
+    "text": "Colorado Springs Mayor Yemi Mobolade presented United Way CEO and President Cindy Aubrey with the Inspirational Leader Spirit of Colorado Springs Award at her retirement celebration Thursday, Nov. 22 for her unwavering dedication to the Colorado Springs community.\n“Cindy Aubrey is an inspiration to all of us,” said Mayor Yemi. “Her leadership and advocacy have made an indelible mark on our community. From fostering collaboration among non-profits to supporting our most vulnerable residents, Cindy embodies the spirit of community and has made remarkable contributions and a lasting impact on the city of Colorado Springs.”\nA proud Colorado native and Mitchell High School graduate, Aubrey has devoted her career to serving her hometown, beginning at Fox 21 and continuing at KOAA, where she led the Creative Services and News departments for nearly two decades.\nDuring her tenure as Chief Communications Officer for the City of Colorado Springs, Aubrey played a crucial role in delivering timely and accurate information to residents during some of the city's most challenging times, including the devastating Waldo Canyon and Black Forest fires. Her empathetic approach and commitment to transparency helped guide the community through these crises, solidifying her reputation in local media.\nAfter four years with the city, Aubrey transitioned to Pikes Peak United Way, where, as Senior Vice President of Marketing and later as President and CEO, she spearheaded initiatives that expanded the organization's reach and effectiveness, including the launch of the Family Success Center located in southeast Colorado Springs. Under her leadership, Pikes Peak United Way celebrated a century of service to the region while creating new partnerships to empower those in need.\nThe Mayor’s Office welcomes the opportunity to recognize exceptional individuals within the City of Colorado Springs whose leadership inspires others with an Inspirational Leader Spirit of the Springs Award. These awards are presented to recipients by the mayor or an official designee to honor them for their influence. For more information, visit [ColoradoSprings.gov/SpiritoftheSprings](/spiritofcoloradosprings).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yemi Mobolade",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Cindy Aubrey",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Mitchell High School",
+                "sentiment": "none"
+            },
+            {
+                "name": "Creative Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:25:54.845+02:00",
+    "updated": "2024-11-23T01:25:54.845+02:00"
+}

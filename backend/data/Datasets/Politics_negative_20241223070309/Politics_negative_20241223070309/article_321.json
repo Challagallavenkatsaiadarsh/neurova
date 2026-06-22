@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "aecc2c551475579286396a6a17b3697780d13e78",
+        "url": "https://www.anews.com.tr/middle-east/2024/11/22/israeli-settlers-led-by-extremist-ben-gvir-storm-hebrons-ibrahimi-mosque-to-mark-jewish-holiday",
+        "site_full": "www.anews.com.tr",
+        "site": "anews.com.tr",
+        "site_section": "https://anews.com.tr",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "A News - Daily News, Breaking News, and The Latest News Titles",
+        "title": "Israeli settlers, led by extremist Ben-Gvir, storm Hebron&apos;s Ibrahimi Mosque to mark Jewish holiday",
+        "title_full": "Israeli settlers, led by extremist Ben-Gvir, storm Hebron&apos;s Ibrahimi Mosque to mark Jewish holiday",
+        "published": "2024-11-22T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ia.tmgrup.com.tr/fa1cc4/806/378/0/3/864/408?u=https://i.tmgrup.com.tr/anews/v1/2024/11/22/israeli-settlers-led-by-extremist-ben-gvir-storm-hebrons-ibrahimi-mosque-to-mark-jewish-holiday-1732307642363.jpg",
+        "performance_score": 0,
+        "domain_rank": 94339,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aecc2c551475579286396a6a17b3697780d13e78",
+    "url": "https://www.anews.com.tr/middle-east/2024/11/22/israeli-settlers-led-by-extremist-ben-gvir-storm-hebrons-ibrahimi-mosque-to-mark-jewish-holiday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anadolu Agency",
+    "published": "2024-11-22T23:30:00.000+02:00",
+    "title": "Israeli settlers, led by extremist Ben-Gvir, storm Hebron&apos;s Ibrahimi Mosque to mark Jewish holiday",
+    "text": "Thousands of illegal Israeli settlers, led by the far-right Israeli National Security Minister Itamar Ben-Gvir, stormed the Ibrahimi Mosque in Hebron, in the southern occupied West Bank, to mark a Jewish holiday.\nAref Jaber, a member of a local committee working to defend Hebron against Israeli violations, told Anadolu that several buses transported the settlers to the Ibrahimi Mosque, where they performed Talmudic rituals for the Jewish holiday known as Chayei Sarah (Life of Sarah).\n\"The Israeli army completely sealed off the Old City in Hebron (where Ibrahimi Mosque is located) and imposed a curfew on the people,\" Jaber added.\nGhassan Al-Rajbi, director of the Ibrahimi Mosque, told Anadolu that the Israeli army closed the mosque to the Palestinians and kicked the mosque's employees out it until Saturday evening.\nHe noted that the settlers were escorted by Israeli ministers, including Ben-Gvir.\nThe Ibrahimi Mosque is located in the old city of Hebron in the southern West Bank, which is under Israeli control. About 400 illegal settlers live there, guarded by around 1,500 Israeli soldiers.\nRevered by both Muslims and Jews, Hebron's Ibrahimi Mosque complex is believed to be the burial site of the prophets Abraham, Isaac, and Jacob.\nAfter the 1994 massacre of 29 Palestinian worshippers inside the mosque by a Jewish extremist settler, Baruch Goldstein, the Israeli authorities divided the mosque complex between Muslim and Jewish worshippers.\nIn 2017, the UNESCO-affiliated World Heritage Committee declared the Ibrahimi Mosque a Palestinian World Heritage Site.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ben-Gvir",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Itama",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ghassan Al-Rajbi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aref Jaber",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Ibrahimi Mosque",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Old City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "aecc2c551475579286396a6a17b3697780d13e78",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:37:58.065+02:00",
+    "updated": "2024-11-23T00:37:58.065+02:00"
+}

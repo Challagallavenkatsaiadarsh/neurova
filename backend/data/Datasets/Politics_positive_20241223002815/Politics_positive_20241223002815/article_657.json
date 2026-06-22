@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "23e6a7ce8451fb53d364bf353536e6d95eb9b910",
+        "url": "https://www.canada.ca/en/pacific-economic-development/news/2024/11/minister-harjit-s-sajjan-and-parliamentary-secretary-taleeb-noormohamed-to-announce-tax-break-for-all-canadians.html",
+        "site_full": "www.canada.ca",
+        "site": "canada.ca",
+        "site_section": "https://www.canada.ca/en/news.datatable.json?_=1585577734",
+        "site_categories": [
+            "social"
+        ],
+        "section_title": "",
+        "title": "Minister Harjit S. Sajjan and Parliamentary Secretary Taleeb Noormohamed to announce tax break for all Canadians - Canada.ca",
+        "title_full": "Minister Harjit S. Sajjan and Parliamentary Secretary Taleeb Noormohamed to announce tax break for all Canadians - Canada.ca",
+        "published": "2024-11-23T01:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.canada.ca/content/dam/ped-dep/images/news/media-advisories/vancouver-ma-eng.jpg",
+        "performance_score": 0,
+        "domain_rank": 437,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "23e6a7ce8451fb53d364bf353536e6d95eb9b910",
+    "url": "https://www.canada.ca/en/pacific-economic-development/news/2024/11/minister-harjit-s-sajjan-and-parliamentary-secretary-taleeb-noormohamed-to-announce-tax-break-for-all-canadians.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pacific Economic Development Canada",
+    "published": "2024-11-23T01:06:00.000+02:00",
+    "title": "Minister Harjit S. Sajjan and Parliamentary Secretary Taleeb Noormohamed to announce tax break for all Canadians - Canada.ca",
+    "text": "From: Pacific Economic Development Canada\nMedia advisory The Honourable Harjit S. Sajjan, President of the King’s Privy Council for Canada, Minister of Emergency Preparedness and Minister responsible for the Pacific Economic Development Agency of Canada, alongside Parliamentary Secretary to the Minister of Canadian Heritage, Taleeb Noormohamed, will make an announcement that will put more money in your pocket, so you can buy the things you need and save for the things you want.\nNovember 22, 2024 – Vancouver, British Columbia\nThe Honourable Harjit S. Sajjan, Minister of Emergency Preparedness and Minister responsible for the Pacific Economic Development Agency of Canada, alongside Taleeb Noormohamed, Parliamentary Secretary to the Minister of Canadian Heritage, will make an announcement that will put more money in your pocket, so you can buy the things you need and save for the things you want.\nDate: Sunday, November 24, 2024\nTime: 10:00 am\nLocation: The Granville Island Toy Company\n 3298 Main Street\n Vancouver, B.C.\nContacts Joanna Kanga\nPress Secretary\nOffice of Minister Sajjan\nJoanna.kanga@kpc-cpr.gc.ca\nLynsey Brothers\nA/Communications Manager\nPacifiCan\nlynsey.brothers@pacifican.gc.ca",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Taleeb Noormohamed",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Harjit S. Sajjan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joanna Kanga",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sajjan\nJoan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pacific Economic Development Canada\nMedia",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Pacific Economic Development Agency",
+                "sentiment": "none"
+            },
+            {
+                "name": "Heritage",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:59:27.624+02:00",
+    "updated": "2024-11-23T03:59:27.624+02:00"
+}

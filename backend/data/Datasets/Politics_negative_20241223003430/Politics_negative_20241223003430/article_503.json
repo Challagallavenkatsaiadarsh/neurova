@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "fbad12a3e0ca97b9f05c0ed93f5bfc74a11d47f3",
+        "url": "https://www.news-journal.com/ukraine-position-of-military-forces/image_aa636c45-fd99-5503-981a-b6c8e5bdc913.html",
+        "site_full": "www.news-journal.com",
+        "site": "news-journal.com",
+        "site_section": "https://www.news-journal.com/search/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Search | news-journal.com",
+        "title": "Ukraine: position of military forces | | news-journal.com",
+        "title_full": "Ukraine: position of military forces | | news-journal.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/a/a6/aa636c45-fd99-5503-981a-b6c8e5bdc913/673f328b5e594.image.jpg?crop=419%2C419%2C0%2C46&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 17517,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fbad12a3e0ca97b9f05c0ed93f5bfc74a11d47f3",
+    "url": "https://www.news-journal.com/ukraine-position-of-military-forces/image_aa636c45-fd99-5503-981a-b6c8e5bdc913.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Valentin RAKOVSKY, Sophie RAMIS, Cléa PECULIER",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Ukraine: position of military forces | | news-journal.com",
+    "text": "Ukraine: position of military forces - Valentin RAKOVSKY, Sophie RAMIS, Cléa PECULIER - Updated Tags As featured on Ukraine on Thursday accused Russia of having deployed a ballistic missile designed to carry nuclear warheads for the first time in history which, if confirmed, would be a major escalation of the war. Russian President Vladimir Putin said Thursday that the conflict in Ukraine had characteristics of a \"global\" war and did not rule out strikes on Western countries. Most Popular Articles [Business Beat: Film Alley in Longview prepares to open](/premium/business-beat-film-alley-in-longview-prepares-to-open/article_8fc3b1b0-a2ca-11ef-8649-2346fa41a2cd.html)[Documents detail months leading to Longview environmental health manager's resignation](/premium/documents-detail-months-leading-to-longview-environmental-health-managers-resignation/article_cbdb8bee-9a57-11ef-8b71-f76714f977a6.html)[Divorces granted: Nov. 4-8, 2024](/news/public_record/divorces-granted-nov-4-8-2024/article_6371ad60-a2b6-11ef-b3cc-9b97cf657de9.html)[Are you not entertained? Longview's new movie theater, Film Alley, to open Friday](/news/business/local/are-you-not-entertained-longviews-new-movie-theater-film-alley-to-open-friday/article_35040b9c-a83f-11ef-a490-cb31b510ad5f.html)[East Texas city won't consider request to compensate owner of controversial 'Jesus' sign](/news/local/east-texas-city-wont-consider-request-to-compensate-owner-of-controversial-jesus-sign/article_427a7462-a6c5-11ef-835f-57787681ef01.html)[Marriage licenses: Nov. 4-8, 2024](/news/public_record/marriage-licenses-nov-4-8-2024/article_855d29ac-a05b-11ef-b64b-9b6bfdc4a50a.html)[Plenty of free Thanksgiving food boxes still available, but you have to sign up](/plenty-of-free-thanksgiving-food-boxes-still-available-but-you-have-to-sign-up/article_ba525c7b-1ac0-5681-a0bb-3f8ea2ed16db.html)[Amid nationwide fluoride debate, East Texas city that pioneered practice has stopped it](/premium/amid-nationwide-fluoride-debate-east-texas-city-that-pioneered-practice-has-stopped-it/article_8c50b57e-9ae0-11ef-9da4-cb16594fae97.html)[Cynamics and Hitachi Systems, Ltd. Forge Strategic Relationship to Fortify APAC Cybersecurity with AI-Driven Solutions - Collaboration Aims to Bolster Cyber Defense Across Asia-Pacific Through Advanced AI and IT Expertise](/cynamics-and-hitachi-systems-ltd-forge-strategic-relationship-to-fortify-apac-cybersecurity-with-ai-driven/article_31acc3e3-aea3-50e6-a192-12ab1dbdd28f.html)[Hawkins councilman accused of writing improper checks; municipal judge could be replaced](/news/local/hawkins-councilman-accused-of-writing-improper-checks-municipal-judge-could-be-replaced/article_0a4f0c68-a6f9-11ef-89fd-ff2e7c4977cc.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:55:38.344+02:00",
+    "updated": "2024-11-23T00:55:38.344+02:00"
+}

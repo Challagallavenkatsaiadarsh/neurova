@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "8c9dc0a67c5791e19b25abbd389b8dd9a005fa80",
+        "url": "https://www.nrdc.org/press-releases/cop-29-countries-agree-increase-investments-developing-world-confront-climate-crisis",
+        "site_full": "www.nrdc.org",
+        "site": "nrdc.org",
+        "site_section": "https://www.nrdc.org/rss.xml",
+        "site_categories": [
+            "home_and_garden",
+            "environmental_safety"
+        ],
+        "section_title": "NRDC",
+        "title": "COP 29: Countries Agree to Increase Investments for Developing World to Confront Climate Crisis",
+        "title_full": "COP 29: Countries Agree to Increase Investments for Developing World to Confront Climate Crisis",
+        "published": "2024-11-24T00:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 1759,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c9dc0a67c5791e19b25abbd389b8dd9a005fa80",
+    "url": "https://www.nrdc.org/press-releases/cop-29-countries-agree-increase-investments-developing-world-confront-climate-crisis",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T00:47:00.000+02:00",
+    "title": "COP 29: Countries Agree to Increase Investments for Developing World to Confront Climate Crisis",
+    "text": "BAKU, Azerbaijan — The COP 29 climate summit concluded today with an agreement to invest $1.3 trillion per year by 2035 globally to reduce climate pollution and adapt to the impacts of the climate crisis. At the core of this goal, wealthier countries agreed to mobilize $300 billion per year by 2035 through international public finance and mobilizing private sector finance, along with a process to increase funding in the coming years. An agreement to set this new collective quantified goal   (NCQG) for climate finance was a key part of the deal that secured the Paris Agreement, in recognition that all countries would need to do more to tackle the climate crisis, but that low-income, vulnerable countries need support from wealthier countries to do so.  \nA statement follows from Manish Bapna , president of NRDC (Natural Resources Defense Council):\n“This new global climate finance deal provides the foundational blueprint for the future of climate finance. While wealthy, polluting countries should have committed to a higher amount, this is a floor not a ceiling. The pressure to increase funding will only grow over time, as the economic and security rationale for delivering more international climate finance is clear, and we will work to build the political support necessary to deliver finance commensurate with the challenge. This is not only the right thing to do morally—it is critical for humanity’s survival and prosperity.\n“The greatest injustice of the climate crisis is that countries and communities that have done the least to cause the problem are being hit first and worst by the impacts. At the same time, they have little to no finance to cope with mounting climate impacts or to enable their own clean energy transition.\n“We know that every single country must act if we are going avoid ever-worsening climate catastrophe, where no place is immune. And all of us must adapt to our changing climate reality.\n“International climate investments are not only good for protecting people and communities but also create jobs and expand markets for the clean energy technologies we need to build a better future for all.\n“There is still more work to be done by wealthy countries to ensure the quality and accessibility of climate finance – as well as the amount – improve significantly in the coming years. Despite the current geopolitical headwinds, it is a positive sign that countries rallied to deliver more climate action.\n“The economics of climate action and adaptation are on our side. The costs of clean energy technologies needed in the developing world have been declining faster than expected. So it's not a question of ‘ if’ but 'how fast’ the world moves in this direction, and to what extent the U.S. will help that transition to a cleaner, safer future—or whether it will miss the moment, and the economic opportunity that comes with it.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Environment",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Manish Bapna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Natural Resources Defense Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "NRDC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:27:20.498+02:00",
+    "updated": "2024-11-25T01:50:32.635+02:00"
+}

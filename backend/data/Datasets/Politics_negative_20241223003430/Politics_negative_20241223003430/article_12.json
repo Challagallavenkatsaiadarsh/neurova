@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "5891d1deefc70d138e915e35b54baecc2ee7d891",
+        "url": "https://www.newsbreak.com/news8000com-wkbt-news-8-1590300/3686017063718-sun-prairie-principal-resigned-after-investigation-into-misconduct-school-board-says",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/news8000-com-wkbt-news-8-1590300",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "News8000com WKBT News 8&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T21:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/3qqmMV_0wy6qu8c00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5891d1deefc70d138e915e35b54baecc2ee7d891",
+    "url": "https://www.newsbreak.com/news8000com-wkbt-news-8-1590300/3686017063718-sun-prairie-principal-resigned-after-investigation-into-misconduct-school-board-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T21:54:00.000+02:00",
+    "title": "",
+    "text": "By Kyle Jones ,\n2 hours ago SUN PRAIRIE, Wis. -- Former Sun Prairie East High School Principal Renee Coleman resigned following an investigation into her conduct, the Sun Prairie Area School District Board of Education said Friday.\nThe third-party investigation, carried out by MWH Law Group's Attorney Emery Harlan, was initiated following a complaint about Coleman's conduct in a press box during a staff convocation on Aug. 27.\nAccording to the district, the investigation found that Coleman made inappropriate comments throughout the convocation, \"including during the National Anthem, student performance, and speeches.\"\nColeman allegedly made inappropriate comments about SPASD Superintendent Brad Saron and used a slur when referring to students performing a dance routine.\nShe allegedly made rude comments about an employee's hygiene, referred to an employee as a \"fat ass\" and claimed she could not be fired because of her race.\nDuring the investigation, the district received another complaint from the Sun Prairie Education Association alleging that Coleman repeatedly misgendered an employee between Sept. 2023 and Aug. 2024 despite repeated requests to use the correct names and pronouns.\nThe board claimed that Coleman gave false statements during the investigation into both complaints.\nThe district decided to part ways with Coleman after the investigation was completed, but allowed her to resign instead of firing her to \"mitigate further harm to our community, respect the dignity of all those involved, limit the district’s legal liability, and exercise financial responsibility based on contract law for school administrators and the potential for costly litigation.\"\nThe board said it felt it needed to release the findings of the investigations based on Coleman's actions and after former school board member Alwyn Foster cited \"the mishandling of Principal Coleman's resignation\" as reason for resigning from the board.\n​COPYRIGHT 2024 BY CHANNEL 3000. ALL RIGHTS RESERVED. THIS MATERIAL MAY NOT BE PUBLISHED, BROADCAST, REWRITTEN OR REDISTRIBUTED.\nSun Prairie High School",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Education",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=3qqmMV_0wy6qu8c00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3qqmMV_0wy6qu8c00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3qqmMV_0wy6qu8c00",
+        "https://www.img.particlenews.com/image.php?url=3qqmMV_0wy6qu8c00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kyle Jones",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Emery Harlan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brad Saron",
+                "sentiment": "none"
+            },
+            {
+                "name": "Coleman",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Sun Prairie Education Association",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:31.018+02:00",
+    "updated": "2024-11-23T00:01:31.018+02:00"
+}

@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "9681bf7619e5b65fd073100610bac2507d8bc233",
+        "url": "https://en.trend.az/business/3974501.html",
+        "site_full": "en.trend.az",
+        "site": "trend.az",
+        "site_section": "https://en.trend.az/feeds/index.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Trend – News from Azerbaijan, Georgia, Kazakhstan, Turkmenistan, Uzbekistan, Iran and Turkey.",
+        "title": "UN chief praises Azerbaijan’s leadership, calls COP29 agreement crucial",
+        "title_full": "UN chief praises Azerbaijan’s leadership, calls COP29 agreement crucial",
+        "published": "2024-11-23T21:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "AZ",
+        "main_image": "https://cdn.trend.az/2024/11/21/trend_guterres_211124_2.jpg",
+        "performance_score": 0,
+        "domain_rank": 12418,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9681bf7619e5b65fd073100610bac2507d8bc233",
+    "url": "https://en.trend.az/business/3974501.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T21:05:00.000+02:00",
+    "title": "UN chief praises Azerbaijan’s leadership, calls COP29 agreement crucial",
+    "text": "BAKU, Azerbaijan, November 24. COP29 agreement\nprovides a base on which to build, UN Secretary-General António\nGuterres said in a statement, Trend reports.\n\"COP29 comes at the close of a brutal year – a year seared by record temperatures and scarred by climate disaster, all as emissions continue to rise,\" Guterres remarked. He emphasized the dire need for financing, particularly for developing nations burdened by debt and struggling to recover from climate disasters while being left behind in the transition to renewable energy.\nAn agreement at COP29, he said, was critical to keeping the 1.5-degree Celsius target alive. \"Countries have delivered. I had hoped for a more ambitious outcome – on both finance and mitigation – to meet the great challenge we face. But this agreement provides a base on which to build\".\nGuterres stressed the urgency of turning pledges into tangible actions. “Commitments must quickly become cash. All countries must come together to ensure the top-end of this new goal is met.”\nHighlighting key achievements of COP29, the SecGen noted progress in emissions reductions, accelerating the energy transition, and reaching consensus on carbon markets. He underscored the importance of new, economy-wide national climate action plans (NDCs) aligned with the 1.5-degree target, particularly from G20 nations, and urged swift action to implement the Pact for the Future.\n\"Effective action on debt, increasing concessional finance, improving access, and substantially enhancing the lending capacity of Multilateral Development Banks through adequate recapitalization are essential,\" the SecGen added.\nGuterres expressed gratitude to the government of Azerbaijan and COP29 President Mukhtar Babayev for their leadership, as well as to UNFCCC Executive Secretary Simon Stiell and the United Nations team for their support. \"COP29 has laid the groundwork. Now it is up to all of us to deliver,\" he concluded.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "al António\nGuterres",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9681bf7619e5b65fd073100610bac2507d8bc233",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:40:27.045+02:00",
+    "updated": "2024-11-24T01:40:27.045+02:00"
+}

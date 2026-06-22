@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "904ccb3467ba3df55dbcfe8d28a07b58545be0f8",
+        "url": "https://www.tribuneindia.com/news/patiala/mla-inaugurates-development-projects-worth-crores-in-patiala",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "The Tribune: Today's Latest News, Breaking News, Top Headlines from India & World",
+        "title": "MLA inaugurates development projects worth crores in Patiala - The Tribune",
+        "title_full": "MLA inaugurates development projects worth crores in Patiala - The Tribune",
+        "published": "2024-11-24T02:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/674289a7ab5b6-pat1.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "904ccb3467ba3df55dbcfe8d28a07b58545be0f8",
+    "url": "https://www.tribuneindia.com/news/patiala/mla-inaugurates-development-projects-worth-crores-in-patiala",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2024-11-24T02:28:00.000+02:00",
+    "title": "MLA inaugurates development projects worth crores in Patiala - The Tribune",
+    "text": "MLA inaugurates development projects worth crores in Patiala\nPatiala MLA Ajitpal Singh Kohli today inaugurated development projects worth crores across three locations in the city.\nAccompanied by Joint Commissioner Deepjot Kaur, Executive Engineer Mohan Lal, SDO Amitoj Singh, and several prominent local leaders, MLA Kohli emphasised the government’s commitment to ensuring the city’s holistic development.\nThe first project inaugurated was the construction of streets in Tange Wali Gali, near the city’s popular book market. This project, located in Ward 49, involves CC flooring and improved drainage with the installation of water pipes at a cost of Rs 46.17 lakh.\nFollowing this, MLA Kohli inaugurated the reconstruction of the main road in Ajit Nagar, a long-pending project estimated to be done at a cost of Rs 53 lakh. The road, which had been in poor condition for years, will now feature CC flooring for better durability and usability.\nThe third project focused on the roads in Majithia Enclave Extension and Gobind Nagar in Model Town. This initiative, costing Rs 61.22 lakh, aims to enhance connectivity and convenience for the residents in the area.\nSpeaking on the occasion, MLA Kohli assured people that every development project in the city would be executed efficiently and without any delay. He stated, “The residents of Patiala will not face any inconvenience due to incomplete development works. We have started addressing long-pending issues to ensure the city’s infrastructure meets the highest standards.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deepjot Kaur",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohan Lal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Tange Wali Gali",
+                "sentiment": "none"
+            },
+            {
+                "name": "Town",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:24:08.184+02:00",
+    "updated": "2024-11-24T04:24:08.184+02:00"
+}

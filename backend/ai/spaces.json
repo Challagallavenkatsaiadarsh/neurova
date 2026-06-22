@@ -1,0 +1,34 @@
+{
+  "spaces": {
+    "ipl_live": {
+      "name": "IPL LIVE FAN SPACE",
+      "host": "NeuroAdmin",
+      "users": [
+        "default_user"
+      ],
+      "messages": []
+    },
+    "movie_talk": {
+      "name": "MOVIE CELEBRITY TALK",
+      "host": "CinemaBot",
+      "users": [
+        "default_user"
+      ],
+      "messages": []
+    },
+    "ai_future": {
+      "name": "AI FUTURE DISCUSSION",
+      "host": "NeuroAI",
+      "users": [],
+      "messages": []
+    },
+    "anime_space": {
+      "name": "ANIME COMMUNITY SPACE",
+      "host": "AnimeHub",
+      "users": [
+        "default_user"
+      ],
+      "messages": []
+    }
+  }
+}

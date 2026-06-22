@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "9984004522f519a4e8fd074a2dd0100ceb5e66e5",
+        "url": "https://www.hindustantimes.com/cities/lucknow-news/up-assembly-bypolls-lotus-blooms-in-kundarki-after-31-years-101732384394841.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "UP assembly bypolls: Lotus blooms in Kundarki after 31 years",
+        "title_full": "UP assembly bypolls: Lotus blooms in Kundarki after 31 years",
+        "published": "2024-11-23T19:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/BJP-candidate-Ramveer-Singh-Thakur--along-with-his_1732384391427.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9984004522f519a4e8fd074a2dd0100ceb5e66e5",
+    "url": "https://www.hindustantimes.com/cities/lucknow-news/up-assembly-bypolls-lotus-blooms-in-kundarki-after-31-years-101732384394841.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T19:23:00.000+02:00",
+    "title": "UP assembly bypolls: Lotus blooms in Kundarki after 31 years",
+    "text": "In what could be termed as one of the biggest surprises in the UP assembly bypolls, the Bharatiya Janata Party on Saturday won the Kundarki seat in Moradabad district after 31 years.Ramveer Singh Thakur, the BJP candidate, defeated Samajwadi Party nominee Mohd Rizwan by a huge margin of over 1.44 lakh votes.Experts suggest a change in the voting pattern of this minority dominated seat may have brough good news for the BJP. However, Samajwadi Party has alleged that this election was fought by the police and police personnel did bogus voting in civil clothes.The BJP had last won the Kundarki seat in 1993 when its candidate Chandra Vijay Singh alias Baby Raja was the winner.Thereafter, Bahujan Samaj Party candidate Akbar Hussain won the Kundarki seat in 1996 and 2007. The Samajwadi Party’s Mohammad Rizwan won the seat in 2002, 2012 and 2017 while party candidate Ziaur Rahman Barq was the victor in 2022.Denied the SP ticket, Rizwan had contested the seat as the BSP candidate in 2022 and finished third. The BJP’s Ramveer Singh was the runner-up in 2012 and 2017.The BJP’s surprise victory in Kundarki has triggered speculation that the party candidate wearing a skull cap might have helped him or there may have been possible sabotage by a Samajwadi Party insider.Samajwadi Party former MLC Udaiveer Singh alleged the BJP won this by-election with the help of police personnel.“Our allegations are not against BJP workers, because the CM didn’t trust on his own party workers. Police personnel first beat the voters, chased them away from the booth and then did bogus voting in civil clothes. That is why the results have defied the trend witnessed since Independence.”“Even if there was some dissent among SP voters or within the party, our voters would have gone to the BSP or else have abstained from the voting,” Udaiveer Singh said.However, senior journalist Ratan Mani Lal said a change in voting pattern and division in Muslim votes may have propelled the BJP.“This seat was considered difficult for the BJP initially. I see a definite change in the voting pattern and I am sure the Muslim vote was divided. I also see that consolidation of Muslim could not happen on this seat due to whatever reasons. There may be some support from the minority community to the BJP candidate, else such a big win was not possible. Also, Chandra Shekhar Azad fielding his candidate may have not helped him but it might have gone towards the BJP. The strategy of BJP like making an inroad among Muslim voters has definitely worked for them in Kundarki,” Lal said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ramveer Singh Thakur",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chandra Vijay Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ziaur Rahman Barq",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohammad Rizwan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Akbar Hussain",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohd Rizwan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Baby Raja",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bahujan Samaj Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samajwadi Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:34:06.098+02:00",
+    "updated": "2024-11-24T03:34:46.520+02:00"
+}

@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "418c4f82ddaa84bb4cb0bab1625405a8e0542a42",
+        "url": "https://www.unr.edu/nevada-today/news/2024/latino-insights-podcast",
+        "site_full": "www.unr.edu",
+        "site": "unr.edu",
+        "site_section": "https://www.unr.edu/nevada-today/news",
+        "site_categories": [
+            "education"
+        ],
+        "section_title": "Nevada Today Archives | University of Nevada, Reno",
+        "title": "Creating a space for dialogue, thought and community belonging regarding Latino-focused topics",
+        "title_full": "Creating a space for dialogue, thought and community belonging regarding Latino-focused topics",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://www.unr.edu//main/images/news/2024/November/aguirre-michael.jpg",
+        "performance_score": 0,
+        "domain_rank": 3544,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "418c4f82ddaa84bb4cb0bab1625405a8e0542a42",
+    "url": "https://www.unr.edu/nevada-today/news/2024/latino-insights-podcast",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Angela Rudolph",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Creating a space for dialogue, thought and community belonging regarding Latino-focused topics",
+    "text": "Tackling topics that range from the history and governance surrounding the U.S./México borderlands, to immigrant mental health, the experiences of Latinas in the workplace and much more, Latino Insights is a podcast launched this year by the Latino Research Center.\n“Join us as we discuss research that directly impacts the Latino community in our state,” states the description of the podcast on Spotify. “This podcast serves as a bridge between academia and the broader public, aiming to disseminate crucial findings and shed light on pressing issues affecting Latinos. Through Latino Insights, we strive to create an inclusive space that fosters dialogue, awareness and unity among our community.”\nThat inclusive space and fostering a sense of belonging is important to the Latino Research Center, says Jafeth Sanchez, Ph.D., director of the Center.\n“We are creating an additional platform for meaningful dialogue on topics that cannot only resonate with Latinos, but this also helps enhance perspectives of the knowledge and scholarship that exists with regard to Latinx efforts for all listeners,” Sanchez said. “The podcast celebrates a sense of connection and belonging through diverse voices. The podcast brings about conversations focusing on our collaborative efforts, storytelling and opportunities for continued impact within the community and beyond.”\nThe podcast was revived in March 2024 and currently offers a number of fascinating episodes with astute guests. The Center is still determining a regular posting cadence, but it aims to do about one new episode a month to give listeners time to find, interact with and process the information in each episode.\nWhile the podcast is intended to create a space promoting dialogue and thought regarding Latino-focused topics, it is not intended to be purely insights by Latinx scholars. The emphasis and inspiration is on better understanding Latino insights as a whole.\n“We want to enhance the means by which we (or our partners) can provide insights regarding the Latino community,” Sanchez said. “The goals are to share information that is relevant, timely and does not require access to a database or paywall. It also helps engage partners within and outside of the University while maintaining a focus on serving as a nexus with the community and the institution … For example, [in our latest episode](https://open.spotify.com/episode/2HQ0TEOYejGGenHvuJIDVh), the recent LRC HSI report highlighted the importance of cultural relevance in curriculum, along with better understanding historical contexts.”\nLearn more and [listen to Latino Insights on Spotify](https://open.spotify.com/show/6GnfBQicXvGsBinoqyaW3O?si=e009185462be40ba).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://open.spotify.com/show/6GnfBQicXvGsBinoqyaW3O?si=e009185462be40ba",
+        "https://open.spotify.com/episode/2HQ0TEOYejGGenHvuJIDVh",
+        "https://www.open.spotify.com/show/6GnfBQicXvGsBinoqyaW3O?si=e009185462be40ba",
+        "https://www.open.spotify.com/episode/2HQ0TEOYejGGenHvuJIDVh",
+        "https://open.spotify.com/show/6GnfBQicXvGsBinoqyaW3O"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jafeth Sanchez",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Latino Research Center",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:31:23.246+02:00",
+    "updated": "2024-11-23T01:31:23.246+02:00"
+}

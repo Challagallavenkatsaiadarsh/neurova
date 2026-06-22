@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "e621ab28489b3e51e3b0e892e43e81c0bdb9d04a",
+        "url": "https://m.cnycentral.com/news/local/amtrak-restores-empire-service-for-holiday-travel-season",
+        "site_full": "m.cnycentral.com",
+        "site": "cnycentral.com",
+        "site_section": "https://m.cnycentral.com/news/local",
+        "site_categories": [],
+        "section_title": "chevron-right",
+        "title": "Restoration of Amtrak's Empire Service",
+        "title_full": "Restoration of Amtrak's Empire Service",
+        "published": "2024-11-22T20:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cnycentral.com/resources/media2/16x9/1024/986/center/90/d3a7bb78-e5e5-4b7d-bdac-69957ee967fc-39297a9ccdaf4143942b2d25e7fb04b2large16x9_Amtrakezgif.comwebptopngconverter.png",
+        "performance_score": 0,
+        "domain_rank": 25147,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e621ab28489b3e51e3b0e892e43e81c0bdb9d04a",
+    "url": "https://m.cnycentral.com/news/local/amtrak-restores-empire-service-for-holiday-travel-season",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Felix Day",
+    "published": "2024-11-22T20:17:00.000+02:00",
+    "title": "Restoration of Amtrak's Empire Service",
+    "text": "Albany, NY — Governor Kathy Hochul, Amtrak, and the New York State Department of Transportation have announced the restoration of Amtrak's Empire Service, just in time for the holiday and winter travel seasons.\nThis decision follows a letter from Governor Hochul urging Amtrak to address service disruptions. Governor Hochul said,\nEnsuring access to reliable train travel throughout this key corridor is critical to riders who utilize the service and to communities who benefit from the economic activity they generate. These service restorations are a huge victory for passengers who depend on the Empire Service.\nAmtrak President Roger Harris highlighted the collaboration with Governor Hochul and the New York State Department of Transportation, stating that the new schedules will ensure that trains used by more than 98% of customers will remain in service until major tunnel work begins. The tunnel work, a $1.6 billion investment, aims to improve train service reliability within New York State and throughout the Northeast Corridor.\nMarie Therese Dominguez, New York State Department of Transportation Commissioner, emphasized the importance of dependable rail service, saying;\nI commend Governor Hochul’s commitment to always looking out for all New Yorkers.\nThe Empire Service, which carried over two million passengers in the federal fiscal year 2024, had faced reductions due to the East River Tunnel Rehabilitation Project.\nOn November 13, Governor Hochul called for a stop on Amtrack reductions. Full story [here](https://cbs6albany.com/news/local/gov-kathy-hochul-calls-for-a-stop-in-amtrak-reductions-to-nyc#).\nHowever, Amtrak has agreed to restore nearly all suspended trains and add additional cars to mitigate disruptions.\nBack in October, Assembly member John T. McDonald III and Assembly member Patricia Fahy were concerned about reports on reducing the number of round trips. Full story[ here](https://cbs6albany.com/news/local/local-lawmakers-calling-on-washington-to-keep-amtrak#).\nNow McDonald and Fahy are excited about the restoration of Amtrak Empire Services.\nMcDonald III expressed appreciation for Governor Hochul's swift actions, noting that many colleagues had called for minimizing the impact on passengers.\nFahy added that Capital Region residents would be thrilled with the restoration of services, which are vital to the local economy.\nThese measures will be effective through March 2, 2025, with Amtrak continuing to evaluate the service plan for potential improvements.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbs6albany.com/news/local/local-lawmakers-calling-on-washington-to-keep-amtrak#",
+        "https://cbs6albany.com/news/local/gov-kathy-hochul-calls-for-a-stop-in-amtrak-reductions-to-nyc#",
+        "https://www.cbs6albany.com/news/local/gov-kathy-hochul-calls-for-a-stop-in-amtrak-reductions-to-nyc#",
+        "https://www.cbs6albany.com/news/local/local-lawmakers-calling-on-washington-to-keep-amtrak#"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:11:17.025+02:00",
+    "updated": "2024-11-23T04:11:17.025+02:00"
+}

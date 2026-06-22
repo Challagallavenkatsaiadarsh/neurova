@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "bbd77dee34278920bdaf3efa6f5bb90c6b8f3ed8",
+        "url": "https://www.tribuneindia.com/news/amritsar/byelection-win-vindicates-peoples-trust",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "The Tribune: Today's Latest News, Breaking News, Top Headlines from India & World",
+        "title": "‘Byelection win vindicates people’s trust’ - The Tribune",
+        "title_full": "‘Byelection win vindicates people’s trust’ - The Tribune",
+        "published": "2024-11-24T04:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/6742af0ae5283-1231110CD-_AAP-22-11-24-AMRITSAR-SUNIL8.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bbd77dee34278920bdaf3efa6f5bb90c6b8f3ed8",
+    "url": "https://www.tribuneindia.com/news/amritsar/byelection-win-vindicates-peoples-trust",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2024-11-24T04:14:00.000+02:00",
+    "title": "‘Byelection win vindicates people’s trust’ - The Tribune",
+    "text": "‘Byelection win vindicates people’s trust’\nAAP workers and volunteers today celebrated the bypoll win by party candidates in three out of four assembly constituencies in Punjab. The party won Dera Baba Nanak, Chabbewal and Gidderbaha seats by convincing margins. Harbhajan Singh ETO said the win...\nAAP party workers celebrated partys win on three seats in Punjab by polls by treating each other with laddoos in Amritsar.\nAdvertisement\nAAP workers and volunteers today celebrated the bypoll win by party candidates in three out of four assembly constituencies in Punjab. The party won Dera Baba Nanak, Chabbewal and Gidderbaha seats by convincing margins.\nHarbhajan Singh ETO said the win is a signal that people have put their stamp on the development work undertaken by AAP government.\nHe said the victory has laid the foundation stone for the assembly elections due in 2027. “We will win in 2027 with a bigger majority. AAP is the party of common people and we are committed to the welfare of layman. These elections have proved that whatever work we have done during our two and a half years of tenure, people have liked them.”\nAdvertisement\nAdvertisement\nAdvertisement\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Harbhajan Singh ETO",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dera Baba Nanak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:06:39.293+02:00",
+    "updated": "2024-11-24T07:06:39.293+02:00"
+}

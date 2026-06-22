@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "228be38435f2daf38f06b6070b4a078a2ee105e8",
+        "url": "https://www.ahmedabadmirror.com/emulating-ambedkar-bhagat-singh/67998718.html",
+        "site_full": "www.ahmedabadmirror.com",
+        "site": "ahmedabadmirror.com",
+        "site_section": "https://www.ahmedabadmirror.com/news/others/anniversary-special",
+        "site_categories": [],
+        "section_title": "Anniversary Special",
+        "title": "EMULATING Ambedkar, Bhagat Singh",
+        "title_full": "EMULATING Ambedkar, Bhagat Singh",
+        "published": "2024-11-23T22:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.ahmedabadmirror.com/am/uploads/mediaGallery/image/1616872473740.jpg-org",
+        "performance_score": 0,
+        "domain_rank": 89740,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "228be38435f2daf38f06b6070b4a078a2ee105e8",
+    "url": "https://www.ahmedabadmirror.com/emulating-ambedkar-bhagat-singh/67998718.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ahmedabad Mirror",
+    "published": "2024-11-23T22:59:00.000+02:00",
+    "title": "EMULATING Ambedkar, Bhagat Singh",
+    "text": "Jignesh Mevani,\nVadgam MLA, Dalit leader\n‘If I look back at my life, I felt inspired by Dr Ambedkar during childhood and Bhagat Singh during my college days’\nI come from a lower middle-class Dalit family from Asarwa area of Ahmedabad. I didn’t get any kind of exposure till I was almost 20.\nI studied at HK Arts College where I met professors Saumya Joshi and Sanjay Bhave. I learnt about art, movies and theatre under their tutelage. I gained understanding of issues and began reading Bhagat Singh, Babasaheb Ambedkar and Karl Marx.\nIn our country, it is extremely difficult for the poor to step up the ladder and do something in life. Coming from such a family, it’s a big achievement for me to become an MLA.\nAfter college, I started my career as a journalist and got to see the lives of people and their problems. However, I realised that if you really want to work for people, you don’t need to be a journalist. Then I thought of taking up activism. I started studying LLB and gradually started fighting for the rights of the downtrodden.\nAfter quitting journalism, I was unemployed for eight years. In that time, I studied law and carried out activism without earning anything. I used to borrow money from my friends during those days.\nWhile fighting for people's rights, powerful people tried to suppress my voice. Getting threats on phone and abuses on social media became a norm. If I look back at my life, I feel I was most inspired by Dr Ambedkar during my childhood and Bhagat Singh during my college days. Dr Ambedkar came from a family of untouchables but went on to earn innumerable degrees and become the chief architect of Constitution of India. Reading about his life journey left a big impact on me and I continue to be inspired by him every day.\nBhagat Singh began fighting for people of India and labourers, right from his college days. His legend is widely followed not only India but entire South Asia. He fought the powers that be on behalf of labourers. He fought capitalism and rooted for socialism, which is very inspiring for me.\nLooking ahead I have decided to walk down the path of righteousness, as practiced by Dr Ambedkar, and never go astray. My rivals will never be able to pin me down as I want to emulate Ambedkar’s journey of honesty.\nBabasaheb fought elections and was also an activist. He tried to change the system from the inside and stood with people in his activism — that has really inspired me to take the path I am on today. While Bhagat Singh’s ideological clarity and commitment is inspiring.\nDuring his last days Babasaheb fought for the landless, worked towards creating a casteless society and strived to work for inter-caste marriages to bring about a mixed society. I walk the path shown by him and my fight for today’s landless is my tribute to him. Bhagat Singh too who fought for equality in society and I’m trying to do the same.\nWhatever I eat or wear involves the hard work of farmers and labourers. Hence, it is my fundamental duty to fight for their rights.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bhagat Singh Jignesh Mevani",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sanjay Bhave",
+                "sentiment": "none"
+            },
+            {
+                "name": "Saumya Joshi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karl Marx",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dalit",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Babasaheb Ambedkar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ahmedabad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asarwa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:29:55.707+02:00",
+    "updated": "2024-11-24T01:29:55.707+02:00"
+}

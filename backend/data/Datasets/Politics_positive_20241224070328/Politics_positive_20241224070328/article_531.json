@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "48fd9c956a402119a175c3b926202ea67719978a",
+        "url": "https://www.asiaone.com:443/world/canada-apologises-inuit-communities-mass-killing-sled-dogs-decades-ago",
+        "site_full": "www.asiaone.com",
+        "site": "asiaone.com",
+        "site_section": "https://asiaone.com",
+        "site_categories": [
+            "media",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "AsiaOne, Asia&#x27;s Leading News Portal, Get Latest News at AsiaOne",
+        "title": "Canada apologises to Inuit communities for mass killing of sled dogs decades ago, World News - AsiaOne",
+        "title_full": "Canada apologises to Inuit communities for mass killing of sled dogs decades ago, World News - AsiaOne",
+        "published": "2024-11-23T19:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://media.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Nov2024/1124_sled%20dog.jpg?itok=bZz1Tbw_",
+        "performance_score": 0,
+        "domain_rank": 4627,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "48fd9c956a402119a175c3b926202ea67719978a",
+    "url": "https://www.asiaone.com:443/world/canada-apologises-inuit-communities-mass-killing-sled-dogs-decades-ago",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T19:54:00.000+02:00",
+    "title": "Canada apologises to Inuit communities for mass killing of sled dogs decades ago, World News - AsiaOne",
+    "text": "The government of Canada on Saturday (Nov 23) apologised to the Inuit of northern Quebec for the mass killing of sled dogs in the 1950s and 1960s, which devastated communities by depriving them of the ability to hunt and travel. Federal Minister of Crown-Indigenous Relations Gary Anandasangaree travelled to Kangiqsujuaq in the Nunavik region to deliver the apology and promised C$45 million (S$43.33 million) in compensation. It follows another government apology in 2019 to the Inuit of the Qikiqtani region, which includes Baffin Island, for the effects of traumatic federal policies including family separation and the slaughter of sled dogs, known as qimmiit. \"Today, the Government of Canada accepted responsibility for its role in a terrible historic injustice and expressed its deep regret and sincere apology for the harms inflicted by the slaughter of qimmiit in Nunavik,\" Anandasangaree said. Thousands of sled dogs were shot by the Royal Canadian Mounted Police (RCMP) and other authorities in Inuit settlements from the mid-1950s onwards, said Pita Aatami, President of Makivvik, the organisation representing Quebec's Inuit. Sled dog teams were an integral part of Inuit culture and hunting traditions, providing quick travel across the vast frozen landscapes of Canada's far north. They were also instrumental in the hunting of seals and caribou. The unjustified killing of the sled dogs led to food and economic insecurity for the Nunavik Inuit and the loss of traditional ways of accessing land, and caused deep and lasting emotional wounds, the government said in a statement. \"Their independence was taken away, they could not go out on the land anymore and there was no means of hunting,\" Aatami told Reuters in a phone interview, adding the apology and compensation are long overdue. \"It's been an intergenerational trauma and has taken 25 years of my life to get here,\" he said. The RCMP launched an internal investigation into the slaughter of sled dogs in 2006 and cleared themselves of any wrongdoing, stating that the killings were done in the interest of public safety. But Aatami and other Inuit leaders say the dogs were shot to keep the largely nomadic Inuit in settled communities, and compared the killings to other major impacts of colonisation including the relocation of families in other parts of Canada and being forced to send children to residential schools. In 2011 the Quebec Government apologised for the dog slaughter that took place in Nunavik by police and government in the 1950s and 1960s. [[nid:709516]]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gary Anandasangaree",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Royal Canadian Mounted Police",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Baffin Island",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nunavik",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:40:10.844+02:00",
+    "updated": "2024-11-24T05:18:37.357+02:00"
+}

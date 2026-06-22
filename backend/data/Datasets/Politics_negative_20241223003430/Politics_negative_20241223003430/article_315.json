@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "d63f194476c4ebbaa3ea99a963541c0dc8ebc512",
+        "url": "https://www.fox13news.com/news/fema-accused-withholding-hurricane-aid-from-trump-supporters",
+        "site_full": "www.fox13news.com",
+        "site": "fox13news.com",
+        "site_section": "https://www.fox13news.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "FOX 13 Tampa Bay",
+        "title": "Florida Attorney General vows accountability after FEMA workers told to skip Trump supporters after hurricanes | FOX 13 Tampa Bay",
+        "title_full": "Florida Attorney General vows accountability after FEMA workers told to skip Trump supporters after hurricanes | FOX 13 Tampa Bay",
+        "published": "2024-11-23T00:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/1280/720/vlcsnap-2024-11-22-16h41m59s707.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 6962,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d63f194476c4ebbaa3ea99a963541c0dc8ebc512",
+    "url": "https://www.fox13news.com/news/fema-accused-withholding-hurricane-aid-from-trump-supporters",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kimberly Kuizon",
+    "published": "2024-11-23T00:16:00.000+02:00",
+    "title": "Florida Attorney General vows accountability after FEMA workers told to skip Trump supporters after hurricanes | FOX 13 Tampa Bay",
+    "text": "BRADENTON BEACH, Fla. - FEMA is accused of withholding hurricane-related aid from outward supporters of President-elect Donald Trump in Florida . Attorney General Ashely Moody said testimony from FEMA Administrator Deanne Criswell on Capitol Hill was eye-opening. \"I think it was very revealing and shocking to some,\" said Moody. A Donald Trump for president flag surrounded by hurricane debris. As Floridians continued to recover from Hurricanes Helene and Milton , Criswell faced a grilling from lawmakers. This comes after a Microsoft Teams message was leaked, directing FEMA workers to steer away from houses supporting President-elect Donald Trump. READ MORE: Missing and endangered 3-month-old baby taken by mother, Hillsborough deputies say Around 20 homes were skipped in Lake Placid , and Moody has since filed a lawsuit against FEMA officials to understand why this happened. \"We will keep aggressively pursuing this lawsuit, and we will keep working with great leaders in Washington of both parties to make sure our federal agencies that are meant to serve us the people are never taken over by those agenda-driven or those hostile to their own citizens that they are supposed to be serving because of their political preferences,\" Moody said. Congressman Vern Buchanan joined Moody on the morning of November 22 on Bradenton Beach . Buchanan led a letter co-signed by 54 house colleagues to Criswell, demanding answers and accountability. \"We will get to the bottom of it and resolve and everybody who had a particular mindset that doesn’t work for everybody, they’re gone,\" Buchanan said. \"We will get rid of them. I think it’s a different environment in Washington now. We won’t put up with nonsense.\" READ MORE: Pinellas County elementary students show off skills in annual exhibit at Dunedin Fine Art Center The FEMA supervisor at the center of the controversy said it wasn’t driven by politics. She said it was about safety. \"My job is to make sure my team is safe. That they don&apos;t become part of the disaster and make sure everyone is safe and sound,\" said Marn’I Washington. Texts from FEMA Supervisor Marn’I Washington saying the area she was canvassing was \"politically hostile.\" Washington said she was told the best practices in the field were de-escalation and avoidance. She said an encounter at a home led to the decision. \"I’ve been present when a woman told my team member ‘FEMA was not her thing,’ and she took an aggressive stance,\" she said Moody said she will pursue and uncover why this happened. \"I think the question is now how did this happen and what’s being done about it,\" she said. Press play above to watch FOX 13 News live: STAY CONNECTED WITH FOX 13 TAMPA : for your smart TV for breaking news alerts, latest headlines Download the SkyTower Radar app Sign up for FOX 13’s daily newsletter",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deanne Criswell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ashely Moody",
+                "sentiment": "none"
+            },
+            {
+                "name": "Helene",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FEMA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "none"
+            },
+            {
+                "name": "Moody",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lake Placid",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:37:00.515+02:00",
+    "updated": "2024-11-28T02:03:57.678+02:00"
+}

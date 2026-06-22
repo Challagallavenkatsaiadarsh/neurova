@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "8eb925692a2be7df0bc06eb71fddf02d954d8232",
+        "url": "https://democraticunderground.com/104520452",
+        "site_full": "democraticunderground.com",
+        "site": "democraticunderground.com",
+        "site_section": "https://democraticunderground.com/?com=latest_threads",
+        "site_categories": [],
+        "section_title": "Latest Discussions - Democratic Underground Forums",
+        "title": "Former Aide Accuses Florida Rep. Daryl Campbell of Sexual Harassment",
+        "title_full": "Former Aide Accuses Florida Rep. Daryl Campbell of Sexual Harassment",
+        "published": "2024-11-23T00:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.democraticunderground.com/imgs/du100x100.gif",
+        "performance_score": 0,
+        "domain_rank": 10738,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8eb925692a2be7df0bc06eb71fddf02d954d8232",
+    "url": "https://democraticunderground.com/104520452",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:15:00.000+02:00",
+    "title": "Former Aide Accuses Florida Rep. Daryl Campbell of Sexual Harassment",
+    "text": "In a lawsuit filed against the Florida House of Representatives, a woman says Florida Democratic state Rep. Daryl Campbell sexually harassed her while she worked as his district aide. The complaint, filed on September 26 in Broward County court, alleges Campbell made the plaintiff uncomfortable by \"treating her like a jealous boyfriend\" and wanting to share a room with her on work trips. The suit has since been moved to Leon County court, according to a November 18 filing. Campbell, whose Broward County district encompasses parts of Fort Lauderdale, Wilton Manors, Plantation, and Lauderhill, is not named as a defendant in the suit. The woman, who requested that New Times identify her in this story only by her last name, Guice, alleges sex harassment, discrimination, and retaliation after she was fired from her post \"for her complaints and objections to sexual harassment and discrimination.\" More: https://www.miaminewtimes.com/news/former-aide-accuses-florida-rep-daryl-campbell-of-sexual-harassment-21814266",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daryl Campbell",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Guice",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Florida House of Representatives",
+                "sentiment": "negative"
+            },
+            {
+                "name": "New Times",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Broward County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:46:43.920+02:00",
+    "updated": "2024-11-23T00:46:43.920+02:00"
+}

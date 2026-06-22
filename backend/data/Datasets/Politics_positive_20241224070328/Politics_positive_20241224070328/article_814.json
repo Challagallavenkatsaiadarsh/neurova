@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "93669a3b02947a00a119a8036d5768ce094789ec",
+        "url": "https://www.nation.com.pk/24-Nov-2024/kp-delegation-holds-talks-for-peace-in-kurram",
+        "site_full": "www.nation.com.pk",
+        "site": "nation.com.pk",
+        "site_section": "https://nation.com.pk",
+        "site_categories": [
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Latest News, Today's Paper and Daily ePaper – The Nation",
+        "title": "KP delegation holds talks for peace in Kurram",
+        "title_full": "KP delegation holds talks for peace in Kurram",
+        "published": "2024-11-24T06:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+        "performance_score": 0,
+        "domain_rank": 11559,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "93669a3b02947a00a119a8036d5768ce094789ec",
+    "url": "https://www.nation.com.pk/24-Nov-2024/kp-delegation-holds-talks-for-peace-in-kurram",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "OUR STAFF REPORT",
+    "published": "2024-11-24T06:36:00.000+02:00",
+    "title": "KP delegation holds talks for peace in Kurram",
+    "text": "Peshawar - On the directives of the Khyber Pakhtunkhwa Chief Minister, a high-level government delegation visited Kurram district to hold discussions aimed at defusing tensions and achieving lasting peace in the area.\nIn an official statement issued Saturday, Advisor to the Chief Minister on Information and Public Relations Muhammad Ali Saif said the delegation held detailed meetings with Shia community leaders, resulting in constructive discussions to address their concerns. “In the next phase, we will engage with Sunni leaders to further the peace process,” he added.\nMr. Saif emphasized the government’s commitment to resolving issues through dialogue and highlighted the ongoing Jirgas with local elders as part of efforts to reduce tensions and ensure peace in the district.\nHe reiterated the government’s objective to achieve a ceasefire between both parties and establish long-term stability in the area.\n“Our foremost objective is to achieve a ceasefire between both parties and establish lasting peace in the area.\nThe Chief Minister has issued clear instructions to resolve all issues through dialogue,” he said. The visit reflects the government’s dedication to bringing stability to Kurram district amid escalating tensions, with hopes for positive outcomes through continued negotiations, Mr. Saif concluded.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Muhammad Ali Saif",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Kurram",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:55:52.859+02:00",
+    "updated": "2024-11-24T06:55:52.859+02:00"
+}

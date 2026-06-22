@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "47ab467550a9eb67c2c888571da90f98bee3b8ef",
+        "url": "https://www.unexplained-mysteries.com/forum/topic/382663-israel-kills-hezbollah-leader-who-planned-elaborate-attack-on-us-soldiers-in-iraq",
+        "site_full": "www.unexplained-mysteries.com",
+        "site": "unexplained-mysteries.com",
+        "site_section": "https://www.unexplained-mysteries.com/forum",
+        "site_categories": [
+            "science",
+            "paranormal_phenomena"
+        ],
+        "section_title": "Forums - Unexplained Mysteries Discussion Forums",
+        "title": "Israel kills Hezbollah leader who planned elaborate attack on U.S. soldiers in Iraq",
+        "title_full": "Israel kills Hezbollah leader who planned elaborate attack on U.S. soldiers in Iraq",
+        "published": "2024-11-23T00:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 40762,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "47ab467550a9eb67c2c888571da90f98bee3b8ef",
+    "url": "https://www.unexplained-mysteries.com/forum/topic/382663-israel-kills-hezbollah-leader-who-planned-elaborate-attack-on-us-soldiers-in-iraq",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Claira",
+    "published": "2024-11-23T00:14:00.000+02:00",
+    "title": "Israel kills Hezbollah leader who planned elaborate attack on U.S. soldiers in Iraq",
+    "text": "A recent Israeli airstrike in Syria killed a senior Hezbollah commander who helped plan one of the boldest and most sophisticated attacks against American troops during the Iraq War, according to a senior U.S. defense official.\nAli Mussa Daqduq had been captured by U.S. forces following the 2007 raid in which militants posing as an American security team killed five U.S. soldiers. But he was later released by the Iraqi government. Details of the Israeli airstrike were scarce. It was not immediately clear when the strike took place, where in Syria or whether it targeted Daqduq specifically, the senior defense official said.\nhttps://www.nbcnews.com/politics/israel-kills-hezbollah-leader-planned-elaborate-attack-us-soldiers-ira-rcna181315\nhttps://www.timesofisrael.com/liveblog_entry/report-recent-idf-strike-in-syria-killed-senior-hezbollah-commander-behind-deadly-2007-attack-on-us-troops/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ali Mussa Daqduq",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:55:32.566+02:00",
+    "updated": "2024-11-23T16:14:41.894+02:00"
+}

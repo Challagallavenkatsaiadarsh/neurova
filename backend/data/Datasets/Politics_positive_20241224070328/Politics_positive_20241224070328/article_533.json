@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "d3a0a31705ab5ff310a9f1db676756ff16c4c188",
+        "url": "https://www.hindustantimes.com/cities/pune-news/celebrations-in-mahayuti-camp-sombre-mood-at-mva-offices-in-pune-101732390637121.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Celebrations in Mahayuti camp, sombre mood at MVA offices in Pune",
+        "title_full": "Celebrations in Mahayuti camp, sombre mood at MVA offices in Pune",
+        "published": "2024-11-23T21:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/For-the-Mahayuti--the-triumph-translated-into-gran_1732390632930.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d3a0a31705ab5ff310a9f1db676756ff16c4c188",
+    "url": "https://www.hindustantimes.com/cities/pune-news/celebrations-in-mahayuti-camp-sombre-mood-at-mva-offices-in-pune-101732390637121.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T21:07:00.000+02:00",
+    "title": "Celebrations in Mahayuti camp, sombre mood at MVA offices in Pune",
+    "text": "Parts of Pune witnessed jubilant celebrations as the Mahayuti alliance clinched a resounding victory in the assembly elections, securing majority in seven of the city’s eight constituencies. The Bharatiya Janata Party (BJP) dominated the results, winning six seats, while the Ajit Pawar-led Nationalist Congress Party (NCP) retained Hadapsar. The NCP (Sharadchandra Pawar) managed to win Wadgaonsheri. The Mahayuti comprises the BJP, Shiv Sena led by chief minister Eknath Shinde, and the Nationalist Congress Party headed by deputy chief minister Ajit Pawar. The Maha Vikas Aghadi (MVA) alliance consists of the Congress, Shiv Sena (UBT) and NCP (Sharadchandra Pawar). For the Mahayuti, the triumph translated into grand festivities, particularly among the BJP and NCP supporters. In contrast, a sombre mood prevailed at the offices of Congress, Shiv Sena (UBT), and NCP (Sharad Pawar faction). Initially, supporters gathered at the Congress Bhavan in Shivajinagar, but as the results became clearer by 10 am, the office wore a desolate look. A similar scene unfolded at the Shiv Sena (UBT) office at Pulachiwadi and the NCP (SP) office near Dengle Bridge. At the BJP’s head office on DP Road, celebrations began around 1 pm as leaders and party workers gathered to mark the victory. Firecrackers lit up the area, and saffron powder filled the air as workers danced to campaign songs dedicated to candidates. BJP Member of Parliament (MP) and minister of state for civil aviation Murlidhar Mohol joined the celebrations. Addressing the crowd, Mohol said, “This victory is a blessing from the people of Maharashtra. It reflects their love and appreciation for the honest work we’ve done in the last two and a half years. Our unity and collective effort have brought us this success.” Festivities extended to other parts of Pune, including Shukrawar Peth and Ghole Road, where supporters celebrated the victories of BJP candidates Siddharth Shirole and Hemant Rasne. Loud music played on DJ systems as supporters danced, threw and smeared saffron powder on each other. A massive 200-foot garland, hung on a crane, was prepared to welcome Shirole, who won from the Shivajinagar constituency. Some Ganesh mandals joined in with saffron lanterns to express their support to the winning candidates. A vibrant celebration was also seen at Narayan Peth, where NCP supporters gathered. Pink “gulal” filled the air as party members raised slogans in support of their candidate. Meanwhile, Wadgaonsheri saw rare cheer for the MVA, as Bapu Pathare of NCP (SP) emerged victorious, the lone MVA candidate to win in Pune. Celebrations included dhol-tasha performances and a grand victory rally organised by Pathare and his supporters. The stark contrast in mood between the Mahayuti and MVA camps encapsulated the electoral outcome, with the BJP-led alliance cementing its dominance in Pune, while the opposition factions were left to regroup after their setbacks.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sharadchandra Pawar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MVA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mahayuti",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:41:23.667+02:00",
+    "updated": "2024-11-24T05:37:47.503+02:00"
+}

@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "74e13b82efe8e781366e39fc56fa1fca267ef648",
+        "url": "https://coloradosprings.gov/news/city-colorado-springs-earns-2025-military-friendlyr-employer-designation",
+        "site_full": "coloradosprings.gov",
+        "site": "coloradosprings.gov",
+        "site_section": "https://coloradosprings.gov/rss.xml",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "City of Colorado Springs",
+        "title": "City of Colorado Springs Earns 2025 Military Friendly® Employer Designation",
+        "title_full": "City of Colorado Springs Earns 2025 Military Friendly® Employer Designation",
+        "published": "2024-11-22T22:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 25975,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "74e13b82efe8e781366e39fc56fa1fca267ef648",
+    "url": "https://coloradosprings.gov/news/city-colorado-springs-earns-2025-military-friendlyr-employer-designation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jacob.guilez",
+    "published": "2024-11-22T22:25:00.000+02:00",
+    "title": "City of Colorado Springs Earns 2025 Military Friendly® Employer Designation",
+    "text": "The City of Colorado Springs has earned a Bronze Military Friendly® Employer designation for 2025.\nInstitutions earning the Military Friendly® Employers designation were evaluated using both public data sources and responses from a proprietary survey. More than 1,200 companies participated in the Military Friendly® survey.\nNearly 20% of City of Colorado Springs employees are veterans. The City is one of the core employers of the Employer Roundtable. This Roundtable is comprised of the City, Colorado Springs Utilities, Deloitte, USAA and UCHealth to develop best practices. The coalition works closely with local installations, including Peterson and Schriever Space Force Stations, Fort Carson Army Post, Cheyenne Mountain Space Force Station and the U.S. Air Force Academy, to assist with military spouse employment issues, and link military spouses with jobs, opportunities, and resources. This partnership has led to shared efforts on legislative efforts, data collection, job fairs and employment.\nThe City also participates in Hiring our Heroes (HOH), a program for transitioning military and military spouses. Veteran’s Local Government Management Fellowship (VLGMF), an initiative the City is also involved in, works to place transitioning veterans in a fellowship up to 16 weeks. Spouses can also participate for 6-8 weeks.\n“We are proud of the City once again earning the designation as a Military Friendly® Employer,” said Sallie Clark, the City’s Senior Advisor for Government & Military Engagement in the Mayor's Office of Community Affairs. “We are continually working with our military community and installations to make not only our City a military-friendly employer, but our entire region, open to employing veterans, spouses and family members of our active service members.”\nMethodology, criteria, and weightings were determined by VIQTORY with input from the Military Friendly® Advisory Council of independent leaders in the military recruitment community. Final ratings were determined by combining an organization’s survey score with an assessment of the organization’s ability to meet thresholds for recruitment, new hire retention, employee turnover, and promotion and advancement of veterans and military employees.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Labor",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Peterson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Schriever Space Force Stations",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. Air Force Academy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fort Carson Army Post",
+                "sentiment": "none"
+            },
+            {
+                "name": "USAA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:25:57.272+02:00",
+    "updated": "2024-11-23T01:25:57.272+02:00"
+}

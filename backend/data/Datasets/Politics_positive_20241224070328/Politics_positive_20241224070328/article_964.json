@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "316ad1b390b4d3dc0c4df83a1afc8ee8a96125ab",
+        "url": "https://www.thehansindia.com/andhra-pradesh/purandeswari-hails-mahayuti-landslide-win-in-maharashtra-924113",
+        "site_full": "www.thehansindia.com",
+        "site": "thehansindia.com",
+        "site_section": "https://thehansindia.com/news/international",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest Breaking International News, World News - The Hans India",
+        "title": "Purandeswari hails Mahayuti landslide win in Maharashtra",
+        "title_full": "Purandeswari hails Mahayuti landslide win in Maharashtra",
+        "published": "2024-11-24T05:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://assets.thehansindia.com/h-upload/2024/11/24/1500007-untitled-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 13895,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "316ad1b390b4d3dc0c4df83a1afc8ee8a96125ab",
+    "url": "https://www.thehansindia.com/andhra-pradesh/purandeswari-hails-mahayuti-landslide-win-in-maharashtra-924113",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Md Ameen",
+    "published": "2024-11-24T05:34:00.000+02:00",
+    "title": "Purandeswari hails Mahayuti landslide win in Maharashtra",
+    "text": "Live\n[BJP increases vote share](/karnataka/bjp-increases-vote-share-924114)[Purandeswari hails Mahayuti landslide win in Maharashtra](/andhra-pradesh/purandeswari-hails-mahayuti-landslide-win-in-maharashtra-924113)[Voters reject dynastic politics in Karnataka: Raja Mannar](/news/cities/bengaluru/voters-reject-dynastic-politics-in-karnataka-raja-mannar-924112)[By election results harbinger of 2028 election results: DCM DK Shivakumar](/news/cities/bengaluru/by-election-results-harbinger-of-2028-election-results-dcm-dk-shivakumar-924110)[Cold Wave Hits Agency Area, Temperatures Plummets on Ghat Regions](/andhra-pradesh/cold-wave-hits-agency-area-temperatures-plummets-on-ghat-regions-924109)[MIXING FRUITS AND CULTURE](/featured/sunday-hans/mixing-fruits-and-culture-924106)[BJP activists elated in Guntur](/andhra-pradesh/bjp-activists-elated-in-guntur-924108)[Shakira to give her Lamborghini Urus to a lucky fan](/featured/sunday-hans/shakira-to-give-her-lamborghini-urus-to-a-lucky-fan-924105)[Sheraton Hyderabad Hotel Hosts a Joyful Fruit Mixing Event](/featured/sunday-hans/sheraton-hyderabad-hotel-hosts-a-joyful-fruit-mixing-event-924103)[Mastering AI for workplace success](/featured/sunday-hans/mastering-ai-for-workplace-success-924102)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mahay",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sheraton Hyderabad Hotel",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karnataka",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:08:19.556+02:00",
+    "updated": "2024-11-24T08:08:19.556+02:00"
+}

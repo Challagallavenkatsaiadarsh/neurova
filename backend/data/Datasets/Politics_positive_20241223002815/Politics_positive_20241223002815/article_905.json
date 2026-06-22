@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "d7920456f79065b9454f457d2fc3e52c7edd4509",
+        "url": "https://pakobserver.net/pakistan-approves-20-new-trade-posts-in-china-to-boost-investment",
+        "site_full": "pakobserver.net",
+        "site": "pakobserver.net",
+        "site_section": "https://pakobserver.net/business",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Business Archives - Pakistan Observer",
+        "title": "Pakistan approves 20 new trade posts in China to boost investment",
+        "title_full": "Pakistan approves 20 new trade posts in China to boost investment",
+        "published": "2024-11-22T23:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://pakobserver.net/wp-content/uploads/2023/11/PAK-CHINA-FLAG.webp",
+        "performance_score": 0,
+        "domain_rank": 36289,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d7920456f79065b9454f457d2fc3e52c7edd4509",
+    "url": "https://pakobserver.net/pakistan-approves-20-new-trade-posts-in-china-to-boost-investment",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News desk",
+    "published": "2024-11-22T23:01:00.000+02:00",
+    "title": "Pakistan approves 20 new trade posts in China to boost investment",
+    "text": "Pakistan has approved the establishment of 20 new trade positions in China to strengthen economic ties and promote investment, with the facilitation of the State Investment Facilitation Center.\nThe Ministry of Commerce has allocated 5.5 billion Pakistani rupees for trade missions this year, aimed at boosting exports and attracting foreign investment. A grant of 226.7 million rupees has also been approved by the Economic Coordination Committee to promote foreign investment.\nChina remains Pakistan’s largest trading partner, with Pakistan’s exports to China valued at $2.56 billion.\nThe creation of these new positions is seen as a strategic step to further enhance bilateral trade relations between the two countries.\nThe collaboration with SIFC is expected to help streamline the process and improve the effectiveness of trade and investment initiatives with China.\nRecently, Pakistan and China signed defence equipment agreements during the ongoing IDEAS 2024 exhibition in Karachi. The IDEAS 2024 defence exhibition is taking place at the Expo Centre in Karachi, now on its fourth day.\nSeveral international companies have signed agreements and memorandums of understanding, including defence equipment deals between Pakistan and China, according to Express News.\nThe MOU was signed by Mr. Ding from China and Brigadier Nadeem Ahsan from Pakistan.\nThe agreement was made between Pakistan’s Heavy Industries Taxila and China’s Norinco.\nAnother agreement was made with Chenab Engineering Works & Foundries. Brigadier Nadeem Ahsan from Pakistan and Ahmed Hassan from Chenab Company signed the MOU during the event.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "State Investment Facilitation Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Economic Coordination Committee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Commerce",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:33:59.167+02:00",
+    "updated": "2024-11-23T05:33:59.167+02:00"
+}

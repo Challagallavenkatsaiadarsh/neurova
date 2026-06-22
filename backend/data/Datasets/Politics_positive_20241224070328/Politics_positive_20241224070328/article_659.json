@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "e97443462015f74a7395a51a0f66459f967db9c0",
+        "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-bjps-nihar-ranjan-das-wins-dholai-bypoll-by-9098-votes",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "Assam: BJP's Nihar Ranjan Das Wins Dholai Bypoll by 9,098 Votes",
+        "title_full": "Assam: BJP's Nihar Ranjan Das Wins Dholai Bypoll by 9,098 Votes",
+        "published": "2024-11-24T00:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-24%2Fxxd86hi6%2FBJP-wins-Dholai-by-9000-votes.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e97443462015f74a7395a51a0f66459f967db9c0",
+    "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-bjps-nihar-ranjan-das-wins-dholai-bypoll-by-9098-votes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-24T00:24:00.000+02:00",
+    "title": "Assam: BJP's Nihar Ranjan Das Wins Dholai Bypoll by 9,098 Votes",
+    "text": "A correspondent\nSilchar: The BJP, as expected, registered a convincing victory in Dholai bye-election as the party candidate Nihar Ranjan Das defeated his Congress rival Dhrubajyoti Purkayastha by a margin of 9,098 votes. However, victory had a clear signal for the ruling party as narrowed by more than 11,00 votes in comparison to the 2021 Assembly election result where Parimal Suklabaidya defeated the Congress candidate Kamakhya Prasad Mallah by a margin of more than 20 thousand votes.\nThe counting on Saturday at the Silchar ISBT saw the BJP candidate maintaining a steady lead from round one. However, the margin marked a narrowing trend midway as in the 8th and 9th rounds Nihar Ranjan was leading only by 500 votes. However, from round 10 onwards, the margin kept on increasing in favour of Nihar Ranjan and after the final 15th round he finished with 68,759 votes. Purkayastha polled 59,742 votes.\nLater speaking to the mediapersons, Nihar Ranjan said, he along with the MP Parimal Suklabaidya would work for the infrastructure development of Dholai. Nihar Ranjan was accused of being a Bangladeshi by renegade BJP leader Amiyo Kanti Das, who even filed for an independent candidature after being rejected for the ticket. Though Amiyo Kanti withdrew his nomination after the Chief Minister Himanta Biswa Sarma stepped in, the ‘outsider’ issue that he slapped on the party candidate, was picked up by the Congress. When quizzed on the Bangladeshi issue, Nihar Ranjan after winning the election, said the people of Dholai had given the answer through the ballot.\nParimal Suklabaidya, who represented Dholai in the Assam Assembly five times before being elected as the MP this year, said, people had absolute confidence only the BJP and today’s result was a seal on this.\nAlso Read: BJP-Led NDA Sweeps Assam Assembly By-Polls 2024\nAlso Watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nihar Ranjan Das",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:38:45.469+02:00",
+    "updated": "2024-11-24T05:38:45.469+02:00"
+}

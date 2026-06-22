@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "38534d7c208bbc535cc92cffa9c2dfcbb026565d",
+        "url": "https://www.wgrz.com/article/news/crime/ny-state-police-crackdown-impaired-reckless-thanksgiving/71-303efef2-a29f-43a2-b93a-3fff6bec9392",
+        "site_full": "www.wgrz.com",
+        "site": "wgrz.com",
+        "site_section": "https://wgrz.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News Headlines | wgrz.com",
+        "title": "State Police to crack down on impaired, reckless drivers this Thanksgiving",
+        "title_full": "State Police to crack down on impaired, reckless drivers this Thanksgiving",
+        "published": "2024-11-24T01:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.wgrz.com/assets/WGRZ/images/201220bf-8eab-4d03-848b-693247796072/20241123T231208/201220bf-8eab-4d03-848b-693247796072_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 11587,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "38534d7c208bbc535cc92cffa9c2dfcbb026565d",
+    "url": "https://www.wgrz.com/article/news/crime/ny-state-police-crackdown-impaired-reckless-thanksgiving/71-303efef2-a29f-43a2-b93a-3fff6bec9392",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tommy Gallagher (WGRZ)",
+    "published": "2024-11-24T01:36:00.000+02:00",
+    "title": "State Police to crack down on impaired, reckless drivers this Thanksgiving",
+    "text": "BUFFALO, N.Y. — New York State Police will be cracking down on [impaired and reckless drivers](/section/holidays) over the next week.\nThe state's safety campaign runs through Dec. 1. State Police said that during last year's Thanksgiving holiday period, nearly 200 drivers were arrested for DWI, and more than 4,300 people were issued speeding tickets.\nTickets will also be handed out for distracted driving.\n\"A common threat on our roads that we continually fight is impaired and drunk driving,\" State Police Superintendent Steven G. James said in a statement.\n\"Traffic enforcement is imperative to everyone’s well-being and the goal of making this holiday a safe one. The New York State Police proudly joins our law enforcement partners in the ongoing effort to discourage, detect, and apprehend impaired and drunk drivers.\"\nState Police, the Governor’s Traffic Safety Committee, and National Highway Traffic Safety Administration provided some recommendations for people to follow this week:\n- Plan a safe way home before you do anything;\n- Designate a sober driver before you start drinking;\n- If you’re impaired, use a taxi or ride-sharing service, call a sober friend or family member, or use public transportation;\n- Use your community’s sober ride program;\n- If you suspect a driver is drunk or impaired on the road, call local law enforcement;\n- If you know someone who is about to drive or ride while impaired, take their keys and help make other arrangements to get to where they are going safely.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Steven G. James",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Highway Traffic Safety Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York State Police",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:48:52.714+02:00",
+    "updated": "2024-11-24T02:48:52.714+02:00"
+}

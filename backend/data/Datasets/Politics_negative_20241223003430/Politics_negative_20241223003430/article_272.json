@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "8df08c1f6b784660f5b69474614fbf84094dcd6a",
+        "url": "https://www.ncr-iran.org/en/news/economy/iran-news-bloomberg-exposes-shadow-fleet-evading-sanctions-to-export-iranian-oil",
+        "site_full": "www.ncr-iran.org",
+        "site": "ncr-iran.org",
+        "site_section": "https://www.ncr-iran.org/en/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Iran News Now - Breaking Iran News &amp; Headlines | NCRI",
+        "title": "Iran News: Bloomberg Exposes Shadow Fleet Evading Sanctions to Export Iranian Oil",
+        "title_full": "Iran News: Bloomberg Exposes Shadow Fleet Evading Sanctions to Export Iranian Oil",
+        "published": "2024-11-22T22:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.ncr-iran.org/en/wp-content/uploads/2024/09/tankers-on-sea.jpg",
+        "performance_score": 0,
+        "domain_rank": 48907,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8df08c1f6b784660f5b69474614fbf84094dcd6a",
+    "url": "https://www.ncr-iran.org/en/news/economy/iran-news-bloomberg-exposes-shadow-fleet-evading-sanctions-to-export-iranian-oil",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mansoureh Galestan",
+    "published": "2024-11-22T22:18:00.000+02:00",
+    "title": "Iran News: Bloomberg Exposes Shadow Fleet Evading Sanctions to Export Iranian Oil",
+    "text": "On November 19, a detailed investigative [report by Bloomberg](https://www.bloomberg.com/news/articles/2024-11-19/the-shadow-fleet-of-ships-moving-sanctioned-iranian-oil-to-china-podcast) has shed light on how the clerical regime in Iran continues to evade international sanctions by employing a vast network of aging and unregistered oil tankers, often referred to as the “shadow fleet” or “ghost fleet.” The report reveals that these tankers play a pivotal role in moving Iranian oil to markets such as China, enabling the regime to sustain daily exports despite global sanctions.\nAccording to Bloomberg, the regime utilizes this clandestine fleet to export up to 1.6 million barrels of oil daily, with the majority destined for China. The report estimates that in the first nine months of this year alone, over 350 million barrels of Iranian oil were smuggled through the Strait of Malacca near Malaysia, generating approximately $20 billion in revenue.\nThe investigation highlights how [these ships operate](https://www.ncr-iran.org/en/wp-content/uploads/2022/02/NCRI-US-Report-Formation-of-Proxy-Naval-Units-2Feb2022.pdf) under the radar by disabling their transponders to avoid detection, engaging in ship-to-ship transfers at sea, and falsifying documentation to obscure the oil’s origin. A notable example from the report details the journey of the tanker “Titan,” which loaded oil near Iran’s Hormuz Strait and transferred it to “Win Win” off the Malaysian coast. The oil was then re-documented as originating from Malaysia or Oman before being transported to China.\nLEAKED DOCUMENTS Reveal Iranian Regime’s Plot To Form International Club to Counter Sanctions\n[#BlacklistIRGC],[#IRGCFundsTerror],[https://t.co/VS8Abf0Bw3]— NCRI-U.S. Rep Office (@NCRIUS)\n[June 19, 2023]\nBloomberg’s findings align with earlier reports from organizations such as [United Against Nuclear Iran](https://www.unitedagainstnucleariran.com/blog/august-2024-iran-tanker-tracker), which has identified over 400 tankers participating in this network. Energy consultancy Vortexa further estimates that 190 of these vessels, many of them capable of carrying up to two million barrels, are currently involved in illicit operations linked to Iran, Russia, and Venezuela.\nThe report underscores the challenges facing the international community in enforcing sanctions, describing the shadow fleet’s operations as a “major vulnerability” in the sanctions framework. Despite attempts to monitor these activities, Bloomberg notes that 60% of the identified tankers remain unsanctioned by the U.S., leaving room for further punitive measures. Analysts suggest that blacklisting these ships could significantly increase the cost and time required for Tehran to deliver oil to its primary buyers.\nWith the return of Donald Trump to the U.S. presidency looming, Bloomberg identifies Iran’s shadow fleet as a critical challenge for the revival of [“maximum pressure” sanctions](https://www.wsj.com/world/middle-east/trump-to-renew-maximum-pressure-campaign-against-iran-f0db5fd5). The report concludes that effectively targeting this network would not only disrupt Iran’s oil exports but also reduce the regime’s capacity to fund its destabilizing regional activities.\nBloomberg’s exposé offers a stark reminder of the intricate measures employed by Iran to bypass sanctions, raising questions about the effectiveness of current policies and highlighting the need for stricter enforcement.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsj.com/world/middle-east/trump-to-renew-maximum-pressure-campaign-against-iran-f0db5fd5",
+        "https://www.unitedagainstnucleariran.com/blog/august-2024-iran-tanker-tracker",
+        "https://www.bloomberg.com/news/articles/2024-11-19/the-shadow-fleet-of-ships-moving-sanctioned-iranian-oil-to-china-podcast",
+        "https://bloomberg.com/news/articles/2024-11-19/the-shadow-fleet-of-ships-moving-sanctioned-iranian-oil-to-china-podcast",
+        "https://unitedagainstnucleariran.com/blog/august-2024-iran-tanker-tracker",
+        "https://wsj.com/world/middle-east/trump-to-renew-maximum-pressure-campaign-against-iran-f0db5fd5"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bloomberg",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:32:36.369+02:00",
+    "updated": "2024-11-23T00:32:36.369+02:00"
+}

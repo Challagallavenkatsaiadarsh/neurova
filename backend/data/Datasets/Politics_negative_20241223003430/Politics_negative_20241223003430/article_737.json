@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "0c0f618f9383fad1eb702d23bfdd6dd853dfe535",
+        "url": "https://www.inkl.com/news/trump-s-search-for-new-fbi-director-faces-complications",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "Trump's Search For New FBI Director Faces Complications",
+        "title_full": "Trump's Search For New FBI Director Faces Complications",
+        "published": "2024-11-23T01:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21225772/638322630213126069.jpg",
+        "performance_score": 0,
+        "domain_rank": 37287,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0c0f618f9383fad1eb702d23bfdd6dd853dfe535",
+    "url": "https://www.inkl.com/news/trump-s-search-for-new-fbi-director-faces-complications",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T01:07:00.000+02:00",
+    "title": "Trump's Search For New FBI Director Faces Complications",
+    "text": "President-elect Donald Trump is currently in the process of searching for a new FBI director, a task that has proven to be challenging due to the necessity of finding a candidate who can navigate the confirmation process smoothly while also appealing to the Make America Great Again (MAGA) base. Recent reports suggested that former Michigan Rep. Mike Rogers, who has a background as an FBI special agent, was a leading contender for the position. However, Trump's inner circle and transition team faced significant pushback, both publicly and privately, in response to this potential selection. On Friday morning, Dan Scavino, Trump's incoming deputy chief of staff, indicated that Rogers would not be appointed to the FBI director role, quoting Trump as saying, 'I have never even given it a thought.' This decision underscores the challenges Trump is encountering as he seeks a replacement for current FBI Director Christopher Wray , who still has three years remaining in his term despite Trump's previous intentions to dismiss him. The president-elect is tasked with finding a candidate who can garner support from Senate Republicans , who have emphasized their commitment to thoroughly vetting and approving Trump's nominees. Simultaneously, Trump aims to select an FBI director who can shield him from investigations while also addressing demands from his base to overhaul the bureau. Trump's conservative allies were disappointed by former Florida Rep. Matt Gaetz's withdrawal from consideration for the position of attorney general, as it became evident that he lacked the necessary GOP backing for confirmation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.topnews.live///2024/11/22/live-blog/michigan/live-news-of-michigan-november-22-2024/index.html",
+        "https://www.topnews.live///2023/11/30/live-blog/crime-justice/christopher-wray-live-updates/index.html",
+        "https://www.topnews.live///2023/09/01/live-blog/politics/donald-trump-live-updates/index.html",
+        "https://www.topnews.live///2024/11/22/live-blog/florida/live-news-of-florida-november-22-2024/index.html",
+        "https://www.topnews.live///2023/11/05/live-blog/politics/republican-party-live-updates/index.html",
+        "https://topnews.live///2023/11/05/live-blog/politics/republican-party-live-updates/index.html",
+        "https://topnews.live///2023/09/01/live-blog/politics/donald-trump-live-updates/index.html",
+        "https://topnews.live///2024/11/22/live-blog/michigan/live-news-of-michigan-november-22-2024/index.html",
+        "https://topnews.live///2024/11/22/live-blog/florida/live-news-of-florida-november-22-2024/index.html",
+        "https://topnews.live///2023/11/30/live-blog/crime-justice/christopher-wray-live-updates/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Christopher Wray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Scavino",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mike Rogers",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:13.289+02:00",
+    "updated": "2024-11-23T01:24:13.289+02:00"
+}

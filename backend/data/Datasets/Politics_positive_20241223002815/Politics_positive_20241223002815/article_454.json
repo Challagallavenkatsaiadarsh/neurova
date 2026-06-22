@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "b96a8af3b3a0cc11b698ee6e74bcc47f65a073ee",
+        "url": "https://www.devdiscourse.com/article/politics/3167696-scott-bessent-nominated-for-treasury-a-market-savvy-choice",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Scott Bessent Nominated for Treasury: A Market-Savvy Choice | Politics",
+        "title_full": "Scott Bessent Nominated for Treasury: A Market-Savvy Choice | Politics",
+        "published": "2024-11-23T00:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_53_54_7540817.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b96a8af3b3a0cc11b698ee6e74bcc47f65a073ee",
+    "url": "https://www.devdiscourse.com/article/politics/3167696-scott-bessent-nominated-for-treasury-a-market-savvy-choice",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T00:07:00.000+02:00",
+    "title": "Scott Bessent Nominated for Treasury: A Market-Savvy Choice | Politics",
+    "text": "Scott Bessent Nominated for Treasury: A Market-Savvy Choice\nDonald Trump is expected to nominate Scott Bessent, a well-known investor, as U.S. Treasury Secretary. This decision is seen as favorable by Wall Street due to Bessent's financial expertise and understanding of market dynamics, especially among concerns over potential tariffs in Trump's economic agenda.\nDonald Trump is set to nominate prominent investor Scott Bessent as U.S. Treasury Secretary, according to sources speaking to Reuters. This move is being closely watched by Wall Street for its potential implications on market policies.\nEconomist Christopher Hodge noted the pick reflects a balance between trade protection and market sensitivity. Bessent is praised for his market acumen, suggesting that Trump's administration may be attuned to economic signals, particularly regarding tariffs.\nIndustry experts view Bessent's selection as reassuring for financial markets. His understanding of market dynamics and economic conditions is expected to guide fiscal and trade policies, possibly tempering some of the harsher tariff proposals from the campaign trail.\n(With inputs from agencies.)\nALSO READ\n[Despite challenges under Trump's administration India could benefit from high tariffs on China: Report](/article/business/3149821-despite-challenges-under-trumps-administration-india-could-benefit-from-high-tariffs-on-china-report)[Muted Wall Street Open as High Hopes Meet Economic Uncertainty](/article/business/3150463-muted-wall-street-open-as-high-hopes-meet-economic-uncertainty)[Wall Street Surges Amid Market Volatility Post-Election](/article/business/3150776-wall-street-surges-amid-market-volatility-post-election)[Wall Street Cheers: S&P 500 Soars Past 6,000 Amid Trump Policies](/article/politics/3150923-wall-street-cheers-sp-500-soars-past-6000-amid-trump-policies)[Wall Street Holds Steady Amid Trump Rally; Eyes on Interest Rate Cuts](/article/headlines/3150561-wall-street-holds-steady-amid-trump-rally-eyes-on-interest-rate-cuts)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Christopher Hodge",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scott Bessent",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:43:11.091+02:00",
+    "updated": "2024-11-23T02:43:11.091+02:00"
+}

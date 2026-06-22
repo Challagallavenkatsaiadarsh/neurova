@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "9b07e2943adb4dad1df481ffbc8c8fa636b2d6c4",
+        "url": "https://www.newsbreak.com/news/3686047698435-cascade-county-faces-staffing-crisis-long-waits-on-election-day",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/great-falls-mt",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Great Falls, MT Local News and More | NewsBreak",
+        "title": "Cascade County Faces Staffing Crisis, Long Waits on Election Day",
+        "title_full": "Cascade County Faces Staffing Crisis, Long Waits on Election Day",
+        "published": "2024-11-22T01:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0hicUZ_0wy8nPdy00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9b07e2943adb4dad1df481ffbc8c8fa636b2d6c4",
+    "url": "https://www.newsbreak.com/news/3686047698435-cascade-county-faces-staffing-crisis-long-waits-on-election-day",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "kitchentablenews.org",
+    "published": "2024-11-22T01:21:00.000+02:00",
+    "title": "Cascade County Faces Staffing Crisis, Long Waits on Election Day",
+    "text": "kitchentablenews.org 1 days ago 1 days ago Comments / 1 YOU MAY ALSO LIKE Uncovering Florida16 days ago The Current GA29 days ago Robert Russell Shaneyfelt12 days ago City Pulse10 days ago Jacksonville Today23 days ago L.A. TACO25 days ago Explore Beaufort SC19 days ago Dianna Carney1 day ago The HD Post24 days ago Arizona Luminaria9 days ago Jacksonville Today24 days ago The HD Post10 days ago Northern Kentucky Tribune21 days ago David Heitz12 days ago Thomas Smith3 days ago Dianna Carney1 day ago The HD Post10 days ago David Heitz15 days ago David Heitz25 days ago Jacksonville Today22 days ago Arizona Luminaria6 days ago David Heitz25 days ago Jude Folly2 hours ago David Heitz9 days ago Golden Gate Media4 days ago Lawyers are allowed into Giuliani’s NYC apartment after he misses a deadline for turning over assets The Current GA19 days ago Northern Kentucky Tribune13 days ago Dianna Carney10 hours ago Golden Gate Media10 days ago Get updates delivered to you daily. Free and customizable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Russell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Giuliani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dianna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:10:50.334+02:00",
+    "updated": "2024-11-23T00:10:50.334+02:00"
+}

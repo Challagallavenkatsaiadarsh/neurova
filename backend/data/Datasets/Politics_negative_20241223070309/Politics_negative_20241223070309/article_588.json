@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "0bd551d8edcef142021cab0f2d81bb5fe0d6381a",
+        "url": "https://www.breitbart.com/politics/2024/11/22/election-data-liz-cheney-hurt-kamala-harris-with-swing-voters-in-rust-belt",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "http://breitbart.com/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "title": "Election Data: Liz Cheney Hurt Kamala with Swing Voters in Rust Belt",
+        "title_full": "Election Data: Liz Cheney Hurt Kamala with Swing Voters in Rust Belt",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 13,
+        "participants_count": 13,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2024/11/GettyImages-2175688442-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1703,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0bd551d8edcef142021cab0f2d81bb5fe0d6381a",
+    "url": "https://www.breitbart.com/politics/2024/11/22/election-data-liz-cheney-hurt-kamala-harris-with-swing-voters-in-rust-belt",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Binder",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Election Data: Liz Cheney Hurt Kamala with Swing Voters in Rust Belt",
+    "text": "Vice President Kamala Harris’s campaigning with ousted congresswoman Liz Cheney, the daughter of former Vice President Dick Cheney, on the presidential campaign trail may have cost her support with swing voters in Michigan and Pennsylvania, new election data reveals.\nThe data, published by Data for Progress, asked voters in Michigan and Pennsylvania if they were more enthusiastic or less enthusiastic about Harris after she campaigned with Cheney.\nWith Michigan swing voters, 3-in-10 said Cheney’s endorsement made them less enthusiastic about Harris, while only 23 percent said they were more enthusiastic.\nSimilarly, in Pennsylvania, 28 percent of swing voters said they were less enthusiastic about Harris after she campaigned with Cheney, while only 21 percent said the endorsement from the neoconservative made them more enthusiastic for Harris.\nData for Progress\nData for Progress\n“A new analysis … suggests Kamala Harris’ decision to focus on generating earned media by campaigning with former Republican Representative Liz Cheney in the final days of the race sacrificed enthusiasm among key voters,” the report states.\n“Focusing wholly instead on populist economic issues would have benefited her with key voters in both states,” the report continues.\nIn Michigan, Cheney’s endorsement of Harris made white voters, voters 45 years or older, and male voters less enthusiastic to support the vice president than it made them more enthusiastic.\nHarris’s campaigning with Cheney, likewise, made voters under 45 years old, college-educated voters, and white voters all less enthusiastic than it made them more enthusiastic to vote for the vice president.\nJohn Binder is a reporter for Breitbart News. Email him at jbinder@breitbart.com. Follow him on Twitter here .\n2024 Election Politics 2024 Presidential Election Kamala Harris Liz Cheney",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/JxhnBxnder",
+        "https://www.dataforprogress.org/blog/2024/11/22/new-data-shows-the-economy-was-the-deciding-factor-for-voters-in-pennsylvania-and-michigan-and-harris-missed-opportunities-to-play-up-economic-populism",
+        "https://www.twitter.com/JxhnBxnder",
+        "https://dataforprogress.org/blog/2024/11/22/new-data-shows-the-economy-was-the-deciding-factor-for-voters-in-pennsylvania-and-michigan-and-harris-missed-opportunities-to-play-up-economic-populism"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:07:55.646+02:00",
+    "updated": "2024-11-23T17:51:33.840+02:00"
+}

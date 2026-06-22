@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "28b621f9e7ab8acdaad4c277b8d83839476c7e60",
+        "url": "https://www.grandforksherald.com/sports/northland-outdoors/bipartisan-legislation-would-extend-funding-for-national-parks-infrastructure",
+        "site_full": "www.grandforksherald.com",
+        "site": "grandforksherald.com",
+        "site_section": "https://www.grandforksherald.com/index.atom",
+        "site_categories": [
+            "shopping"
+        ],
+        "section_title": "Grand Forks Herald | Grand Forks, East Grand Forks news, weather &amp; sports",
+        "title": "Bipartisan legislation would extend funding for national parks infrastructure",
+        "title_full": "Bipartisan legislation would extend funding for national parks infrastructure",
+        "published": "2024-11-23T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.forumcomm.com/dims4/default/735a659/2147483647/strip/true/crop/1024x683+0+0/resize/1598x1066!/quality/90/?url=https%3A%2F%2Ffcc-cue-exports-brightspot.s3.us-west-2.amazonaws.com%2Finforum%2Fbinary%2Frooseveltpark_binary_940525.jpg",
+        "performance_score": 0,
+        "domain_rank": 13788,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "28b621f9e7ab8acdaad4c277b8d83839476c7e60",
+    "url": "https://www.grandforksherald.com/sports/northland-outdoors/bipartisan-legislation-would-extend-funding-for-national-parks-infrastructure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Report",
+    "published": "2024-11-23T01:00:00.000+02:00",
+    "title": "Bipartisan legislation would extend funding for national parks infrastructure",
+    "text": "Bipartisan legislation would extend funding for national parks infrastructure\nNorth Dakota Sen. Kevin Cramer among authors of America the Beautiful Act\nWASHINGTON – Sen. Kevin Cramer is among the authors of bipartisan legislation introduced Thursday, Nov. 21, to keep fixing aging infrastructure in national parks across the country.\nJoining the North Dakota Republican in introducing the America the Beautiful Act, which will extend critical park maintenance, were Sens. Steve Daines, R-Montana; Angus King, I-Maine; and Mark Warner, D-Virginia.\nADVERTISEMENT\nThe Great American Outdoors Act, originally\n[signed](https://www.cramer.senate.gov/news/press-releases/sen-cramer-statement-on-president-trump-signing-the-great-american-outdoors-act-into-law)\ninto law by President Donald Trump in 2020, established the National Parks and Public Lands Legacy Restoration Fund and included $1.9 billion over five years to address the maintenance backlog across public land agencies, including the National Parks Service, Bureau of Land Management, U.S. Forest Service and others.\nAccording to a news release from Cramer’s office, the America the Beautiful Act will reauthorize the Legacy Restoration Fund and provide $2 billion for maintenance projects.\nSince the passage of the Great American Outdoors Act, North Dakota projects in Theodore Roosevelt National Park and the Dakota Prairie Grasslands received significant funding to complete restoration and expansion projects, Cramer said in the news release. In TRNP, the South Loop Road is slated to reopen next summer as a result of $47 million to repair the washed-out sections and will have expanded walkways, seating and wayside exhibits, as well as repaved roadside pull-outs. Cramer\n[visited](https://www.cramer.senate.gov/news/press-releases/senator-cramer-visits-theodore-roosevelt-national-park-south-loop-construction)\nTRNP in August to view the construction progress on the loop.\nThe Dakota Prairie Grasslands, located near TRNP, has received\n[multiple](https://www.cramer.senate.gov/news/press-releases/sen-cramer-usda-awards-829k-to-improve-outdoor-recreation-perform-infrastructure-maintenance-in-north-dakota)\n[awards](https://www.cramer.senate.gov/news/press-releases/sen-cramer-usda-awards-funds-to-dakota-prairie-grassland)\nto maintain campgrounds, update the Maah Daah Hey trailhead and resurface and repair roadways with funding from the Great American Outdoors Act. Additional projects in North Dakota include trail\n[maintenance](https://www.cramer.senate.gov/news/press-releases/sen-cramer-usda-forest-service-northern-region-announces-funding-to-improve-access-recreation-opportunities-in-north-dakota)\non the National North Country Scenic Trail.\n“The Great American Outdoors Act brought real results to North Dakota’s outdoor recreation opportunities,” Cramer said in a statement. “Visitors to Theodore Roosevelt National Park will be able to travel the South Loop road, which washed out several years ago, and recreationists can enjoy the updated trails and campsites in the nearby grasslands. Let’s keep this momentum going by passing the America the Beautiful Act, so we maintain our national treasures.”\nCongress now must work together to get the bill over the finish line, the National Parks Conservation Association said.\n“Millions of people flock to national parks every year to experience some of our nation’s best landscapes and most significant stories,” Theresa Pierno, president and CEO of the National Parks Conservation Association, said in a statement. “National parks are icons of our country, and Americans love them. They also want to see them supported. And this bill is a promise that we will continue to take care of the places that mean so much to so many people.”\nADVERTISEMENT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Cramer",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Steve Daines",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Warner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Angus King",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Parks and Public Lands Legacy Restoration Fund",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bureau of Land Management",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Parks Service",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "28b621f9e7ab8acdaad4c277b8d83839476c7e60",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:36:04.365+02:00",
+    "updated": "2024-11-28T07:13:50.004+02:00"
+}

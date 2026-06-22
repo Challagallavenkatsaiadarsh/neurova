@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "5b36d0389d883d4d274c9be7d37fc7a1f1b145c4",
+        "url": "https://timesofindia.indiatimes.com/city/raipur/bjp-celebrates-victory-in-raipur-south-assembly-by-election-a-testimony-to-modis-guarantees/articleshow/115609225.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/city/raipur",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Raipur News: Top Stories, Breaking Updates &amp; Live Headlines | Times of India",
+        "title": "BJP Celebrates Victory in Raipur South Assembly By-Election: A Testimony to Modi's Guarantees | Raipur News - Times of India",
+        "title_full": "BJP Celebrates Victory in Raipur South Assembly By-Election: A Testimony to Modi's Guarantees | Raipur News - Times of India",
+        "published": "2024-11-23T21:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5b36d0389d883d4d274c9be7d37fc7a1f1b145c4",
+    "url": "https://timesofindia.indiatimes.com/city/raipur/bjp-celebrates-victory-in-raipur-south-assembly-by-election-a-testimony-to-modis-guarantees/articleshow/115609225.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Times Of India",
+    "published": "2024-11-23T21:06:00.000+02:00",
+    "title": "BJP Celebrates Victory in Raipur South Assembly By-Election: A Testimony to Modi's Guarantees | Raipur News - Times of India",
+    "text": "Raipur: \\\"Public has expressed confidence in BJP and it's a victory of Modi's guarantee,\\\" said chief minister Vishnu Deo Sai on BJP's victory in Raipur South Assembly by-election as he congratulated the residents of South assembly constituency, party workers in the area and all the party functionaries stating, that it is because of them that they have won. Speaking to reporters in Raipur, CM said, \\\"Our govt has continuously worked to fulfil PM Narendra Modi's guarantees. The public has approved the work done by the BJP govt in its ten months tenue in Chhattisgarh today.\\\"After the victory of BJP candidate Sunil Soni, BJP workers in large number gathered at BJP office in Raipur to celebrate the victory by bursting crackers and playing drums and offering sweets to each other.Sai said, \\\"Our govt has tried to fulfil Modi's guarantee in 10 months, from giving Rs 1000 to more than 70 lakh women under the Mahtari Vandan Yojana to giving paddy bonus to farmers and Rs 3100 per quintal of paddy, Ramlala Darshan Yojana. I congratulate our MLA Sunil Soni for the victory,\\\"\\\"Health minister Shyam Bihari Jaiswal was the election in-charge for Raipur South Assembly and BJP registered a massive victory due to the efforts of all the ministers, including MP Brijmohan Agarwal, and party vice-president Shivratan Sharma. I congratulate and thank everyone,\\\" the CM added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ramlala Darshan Yojana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vishnu Deo Sai",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sunil Soni",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chhattisgarh",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:10:21.976+02:00",
+    "updated": "2024-11-24T03:10:21.976+02:00"
+}

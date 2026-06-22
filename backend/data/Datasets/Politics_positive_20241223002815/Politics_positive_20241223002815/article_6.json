@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "3bdb74b1fa9c8e9e0042e8e4720936dbcfc317fe",
+        "url": "https://timesofindia.indiatimes.com/city/aurangabad/record-voter-turnout-in-maharashtra-all-ministers-constituencies-see-significant-increases/articleshow/115577206.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/india/maharashtra",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Maharashtra News Latest Maharashtra News Headlines &amp; Live Updates | Times of India",
+        "title": "Record Voter Turnout in Maharashtra: All Ministers’ Constituencies See Significant Increases | Chhatrapati Sambhajinagar News - Times of India",
+        "title_full": "Record Voter Turnout in Maharashtra: All Ministers’ Constituencies See Significant Increases | Chhatrapati Sambhajinagar News - Times of India",
+        "published": "2024-11-22T20:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3bdb74b1fa9c8e9e0042e8e4720936dbcfc317fe",
+    "url": "https://timesofindia.indiatimes.com/city/aurangabad/record-voter-turnout-in-maharashtra-all-ministers-constituencies-see-significant-increases/articleshow/115577206.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mohammed Akhef",
+    "published": "2024-11-22T20:45:00.000+02:00",
+    "title": "Record Voter Turnout in Maharashtra: All Ministers’ Constituencies See Significant Increases | Chhatrapati Sambhajinagar News - Times of India",
+    "text": "Chhatrapati Sambhajinagar: Mahayuti govt has 28 cabinet ministers and except for one, their assembly constituencies witnessed increases in turnouts on Wednesday, ranging from 1% to 14%. In fact, overall turnout went past the 66% mark, the highest in three decades. The last time Maharashtra was anywhere near these numbers was in 1991, when it recorded 71.7%.Observers said the high turnout this year was likely due to close fights between known arch rivals. After all, two of the biggest parties have factionalised. The observers also said 'Ladki Bahin' may have been a factor too.According to data, public works department minister Ravindra Chavan's Dombivali assembly constituency, which saw 41.3% voting in the 2019 assembly elections, hit 56.19% this year. Tribal development minister Vijaykumar Gavit's Nandurbar constituency had an increase of 12.2% in turnout and labour minister Suresh Khade's constituency — Miraj — recorded a similar 12%. In Ratnagari, which is industries minister Uday Samant's constituency, there were 13% more voters this year than in 2019.Chief Minister Eknath Shinde's constituency Kopri-Pachpakhadi, which five years ago saw a turnout of 48.4% recorded a 11% increase, ending up at nearly 60% this year. Deputy chief ministers Devendra Fadnavis and Ajit Pawar's constituencies of Nagpur South West and Baramati saw increases of 4% and 3%, respectively.Agriculture Minister Dhananjay Munde's constituency of Parli had a 2% spurt, from 73.5% in 2019 to 75.27% this year. \\\"More people stepped out for Mahayuti because of the welfare and development work we've been doing,\\\" he said.Only housing minister Atul Save's Aurangabad East constituency, where he's locked in battle with AIMIM's Syed Imtiaz Jaleel, recorded a dip in turnout. It had dropped 3% compared to figures from 2019.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vijaykumar Gavit",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ravindra Chavan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suresh Khade",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ladki Bahin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Uday Samant",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:07:00.232+02:00",
+    "updated": "2024-11-23T00:07:00.232+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "4d28f8d81b4ec0b0236f596e929d8090d69362c1",
+        "url": "https://www.thenews.com.pk/print/1254056-50-pti-workers-acquitted-in-may-9-case",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "http://www.thenews.com.pk/rss/2/19",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International - ",
+        "title": "50 PTI workers acquitted in May 9 case",
+        "title_full": "50 PTI workers acquitted in May 9 case",
+        "published": "2024-11-23T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254056_072701_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4d28f8d81b4ec0b0236f596e929d8090d69362c1",
+    "url": "https://www.thenews.com.pk/print/1254056-50-pti-workers-acquitted-in-may-9-case",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Bureau report",
+    "published": "2024-11-23T01:00:00.000+02:00",
+    "title": "50 PTI workers acquitted in May 9 case",
+    "text": "PESHAWAR: Additional District and Sessions Judge Tila Muhammad acquitted 50 workers of Pakistan Tehreek-e-Insaf (PTI) accused of vandalism in a case pertaining to the May 9, 2023 protest, citing lack of evidence.\nDuring the trial, the prosecution alleged that the accused were involved in acts of arson and vandalism in the jurisdiction of Faqirabad Police Station.\nIt was claimed that the suspects had set a cinema on fire and threatened its employees with dire consequences.\nFollowing the incident, police had registered cases against nearly 50 PTI workers.\nHowever, the defense counsel, Advocate Ali Zaman, argued that the allegations were baseless and politically motivated. He stated that the prosecution failed to provide concrete evidence linking the accused to commission of the alleged crimes.\nHe said that the case lacked merit and was filed on political grounds, requesting the judge to acquit the accused for want of evidence.\nAfter hearing the arguments and reviewing the evidence, the court ruled in favour of the defense, acquitting all 50 accused.\nPTI workers at a public gathering in this undated picture. — AFP/FileMULTAN: Pakistan Tehreek Insaf has announced...\nThe newly elected chairperson of the Free and Fair Election Network , Mukhtar Javed seen in this image, released on...\nAwami National Party KP president Mian Iftikhar Hussain addresses the Provincial Council meeting at Bacha Khan Markaz...\nThis combo of images shows the spokesman for the KP government and Adviser to the CM on Information, Barrister...\nThis representational image shows flame on the stove. — Unsplash/ FileMANSEHRA: The residents on Friday urged the...\nFormer president Arif Alvi speaks to journalists in Karachi on March 10, 2024, in this screengrab taken from a video....",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tila Muhammad",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ali Zaman",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "PTI",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:45:33.145+02:00",
+    "updated": "2024-11-23T04:45:33.145+02:00"
+}

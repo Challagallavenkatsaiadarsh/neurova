@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "20d9948d57941c58d844e66fecdcc8fb4420cea1",
+        "url": "https://www.loudounnow.com/news/singh-earns-democratic-nomination-in-26th-house-district-primary/article_7962ad6e-a9f9-11ef-88c8-d7821ecf6a75.html",
+        "site_full": "www.loudounnow.com",
+        "site": "loudounnow.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Singh Earns Democratic Nomination in 26th House District Primary | News | loudounnow.com",
+        "title_full": "Singh Earns Democratic Nomination in 26th House District Primary | News | loudounnow.com",
+        "published": "2024-11-23T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/loudounnow.com/content/tncms/assets/v3/editorial/9/04/9040af30-a9fa-11ef-9119-03e83253896b/6742731f9abf3.image.jpg?crop=1440%2C756%2C0%2C342&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 76469,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "20d9948d57941c58d844e66fecdcc8fb4420cea1",
+    "url": "https://www.loudounnow.com/news/singh-earns-democratic-nomination-in-26th-house-district-primary/article_7962ad6e-a9f9-11ef-88c8-d7821ecf6a75.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hanna Pampaloni",
+    "published": "2024-11-23T07:00:00.000+02:00",
+    "title": "Singh Earns Democratic Nomination in 26th House District Primary | News | loudounnow.com",
+    "text": "JJ Singh will be the Democratic nominee for the 26th House District special election in January after he beat four other candidates during a firehouse primary Saturday.\nSingh received 745 of the 1, 839 ballots cast. Sam Nandi came in second with 425, followed by Ibraheem Samirah with 323, Loudoun County School Board Vice Chair Arben Istrefi with 280, and Lakesha Gorham-McDurfee with 66.\nSingh served in the Peace Corps in Bolivia, with in the Obama Administration’s Budget Office, and as a senior policy advisor to U.S. Senator Chris Coons (D-DE). He has also served on the county’s Economic Development Commission and as the treasurer of the Loudoun County Democratic Committee.\nHe[ lists top issues](https://www.jjsingh.com/) in his campaign as codifying abortion access into the Virginia Constitution, lowering costs, implementing gun safety legislation and building a clean economy.\nSingh will face off Republican nominee Ram Venkatachalam in the Jan. 7 race to replace Del. Kannan Srinivasan (D-26) who tendered his resignation effective Jan. 7 after being nominated to run for the 32nd Senate special election.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.jjsingh.com/",
+        "https://jjsingh.com/",
+        "https://www.jjsingh.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "JJ Singh",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lakesha Gorham-McDurfee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kannan Srinivasan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ibraheem Samirah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chris Coons",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sam Nandi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Obama Administration’s Budget Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "Economic Development Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Loudoun County School Board",
+                "sentiment": "none"
+            },
+            {
+                "name": "Peace Corps",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:09:57.720+02:00",
+    "updated": "2024-11-24T06:10:14.336+02:00"
+}

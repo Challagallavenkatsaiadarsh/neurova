@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "7e5fb2f3486467d9d6f91aa49d59811a9a313ae7",
+        "url": "https://www.inkl.com/news/michael-chandler-reveals-what-donald-trump-told-him-after-ufc-309-loss",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "Michael Chandler reveals what Donald Trump told him after UFC 309 loss",
+        "title_full": "Michael Chandler reveals what Donald Trump told him after UFC 309 loss",
+        "published": "2024-11-23T05:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21226187/donald-trump-ufc-309-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 37287,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7e5fb2f3486467d9d6f91aa49d59811a9a313ae7",
+    "url": "https://www.inkl.com/news/michael-chandler-reveals-what-donald-trump-told-him-after-ufc-309-loss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T05:00:00.000+02:00",
+    "title": "Michael Chandler reveals what Donald Trump told him after UFC 309 loss",
+    "text": "Michael Chandler had quite the audience watching him cage side for his UFC return. This past Saturday, Donald Trump , soon to serve a second term as president of the U.S., was front row, watching the main card action of UFC 309 pay-per-view at Madison Square Garden in New York. Chandler (23-9 MMA, 2-4 UFC) competed in the co-main event in a highly anticipated rematch against Charles Oliveira (35-10 MMA, 23-10 UFC). Unfortunately for Chandler, he lost a unanimous decision , but that didn’t stop him from approaching Trump when the fight ended. “I shook his hand, and he said, ‘Awesome fight. You’re a warrior,'” Chandler recalled, speaking on Bussin with the Boys . “He whispered in my ear – and there’s a really cool shot of him whispering in my ear – and he was just like, ‘You’re one bad mofo,’ type of deal. It was pretty cool, and I was like, ‘Well, you are (a bad mofo). Thank you for saving our country.'” Chandler’s return at UFC 309 marked his first fight since November 2022. He sat on the sidelines waiting for a Conor McGregor fight that did not materialize, which prompted a pivot to the Oliveira rematch. With the loss, Chandler is 1-4 in his most recent five. He hopes for his next fight to be against McGregor in 2025. For more on the card, visit MMA Junkie’s event hub for https://mmajunkie.usatoday.com/tag/ufc-309.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.youtube.com/watch?v=p_9H_1VbExs",
+        "https://mmajunkie.usatoday.com/events/ufc-309-jones-vs-miocic",
+        "https://mmajunkie.usatoday.com/tag/donald-trump",
+        "https://mmajunkie.usatoday.com/tag/ufc-309.",
+        "https://mmajunkie.usatoday.com/2024/11/ufc-309-results-charles-oliveira-wins-stunner-michael-chandler-rematch",
+        "https://mmajunkie.usatoday.com/tag/michael-chandler",
+        "https://www.mmajunkie.usatoday.com/tag/michael-chandler",
+        "https://www.mmajunkie.usatoday.com/events/ufc-309-jones-vs-miocic",
+        "https://www.mmajunkie.usatoday.com/tag/donald-trump",
+        "https://www.mmajunkie.usatoday.com/tag/ufc-309.",
+        "https://www.mmajunkie.usatoday.com/2024/11/ufc-309-results-charles-oliveira-wins-stunner-michael-chandler-rematch",
+        "http://www.youtube.com/watch",
+        "http://youtube.com/watch?v=p_9H_1VbExs"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Michael Chandler",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Charles Oliveira",
+                "sentiment": "none"
+            },
+            {
+                "name": "Conor McGregor",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UFC",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Square Garden",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7e5fb2f3486467d9d6f91aa49d59811a9a313ae7",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:15:16.210+02:00",
+    "updated": "2024-11-23T05:15:16.210+02:00"
+}

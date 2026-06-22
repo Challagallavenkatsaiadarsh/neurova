@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "6935c743cfb2cccb9b9d1a2fb7f2ea4621050263",
+        "url": "https://www.japantimes.co.jp/environment/2024/11/24/cop29-deal-reached",
+        "site_full": "www.japantimes.co.jp",
+        "site": "japantimes.co.jp",
+        "site_section": "https://japantimes.co.jp",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan"
+        ],
+        "section_title": " The Japan Times - News On Japan, Business News, Opinion, Sports, Entertainment And More ",
+        "title": "COP29 ends with deal on climate finance after bitter fight",
+        "title_full": "COP29 ends with deal on climate finance after bitter fight",
+        "published": "2024-11-24T01:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JP",
+        "main_image": "https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/24/435902.JPG?v=3.1",
+        "performance_score": 0,
+        "domain_rank": 1006,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6935c743cfb2cccb9b9d1a2fb7f2ea4621050263",
+    "url": "https://www.japantimes.co.jp/environment/2024/11/24/cop29-deal-reached",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/author/int-no_author",
+    "published": "2024-11-24T01:08:00.000+02:00",
+    "title": "COP29 ends with deal on climate finance after bitter fight",
+    "text": "Nearly 200 countries agreed on Sunday to more than triple the amount of money available to help developing countries confront rapidly warming temperatures.\nBut the deal reached at the close of the two-week COP29 summit in Azerbaijan resulted from fractious and at times openly hostile negotiations, producing an agreement that even its supporters may see as insufficient and disappointing. The process of global climate cooperation will lurch forward from here under the weight of heavier existential questions.\nRich countries have pledged to provide at least $300 billion annually by 2035, through a wide variety of sources, including public finance as well as bilateral and multilateral deals. The agreement also calls on parties to work toward unleashing a total of $1.3 trillion a year, with most of it expected to come through private financing.\nDeveloped and developing countries entered the negotiations far apart on what was necessary yet realistic. At one point on Saturday, the talks even appeared to be on the brink of collapse, before the mood lifted late in the evening following numerous closed-door meetings.\nRich nations are grappling with a slew of fiscal and political constraints, including inflation, constrained budgets and rising populism. The election of Donald Trump and his threat to pull the U.S. out of the landmark Paris climate agreement also hung over the COP29 summit early on.\nUnder a compromise to get a deal over the line, rich nations eventually agreed to commit $50 billion more than what a draft agreement on Friday called for. They had also made any agreement contingent on reaffirming last year’s COP28 outcome in Dubai that included a vow to transition away from fossil fuels.\nA separate text calls on parties to \"contribute to the global efforts” toward that landmark agreement, without explicitly naming fossil fuels.\nThe promised funding, however, falls short of the trillions of dollars poor and vulnerable nations say they need to climate-proof their economies. They also want more of that money to come in the form of grants and other affordable financial support, since market-based loans risk deepening their debt burdens.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:34:06.290+02:00",
+    "updated": "2024-11-24T01:34:06.290+02:00"
+}

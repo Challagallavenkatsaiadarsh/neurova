@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "66a8709b08eb79e2244b9f83f296aa8100de6014",
+        "url": "https://patch.com/connecticut/stratford/stratford-superintendent-resigns-after-reinstatement-report",
+        "site_full": "patch.com",
+        "site": "patch.com",
+        "site_section": "https://patch.com/connecticut/stratford",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Stratford News, Breaking News in Stratford, CT",
+        "title": "Stratford Superintendent Resigns After Reinstatement: Report",
+        "title_full": "Stratford Superintendent Resigns After Reinstatement: Report",
+        "published": "2024-11-22T23:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://patch.com/img/cdn20/users/22791208/20241122/042152/styles/patch_image/public/newsalert___22162031612.jpg",
+        "performance_score": 0,
+        "domain_rank": 1048,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "66a8709b08eb79e2244b9f83f296aa8100de6014",
+    "url": "https://patch.com/connecticut/stratford/stratford-superintendent-resigns-after-reinstatement-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vincent Salzo",
+    "published": "2024-11-22T23:21:00.000+02:00",
+    "title": "Stratford Superintendent Resigns After Reinstatement: Report",
+    "text": "[Schools](/connecticut/stratford/schools)\nStratford Superintendent Resigns After Reinstatement: Report\nStratford Superintendent Uyi Osunde recently reached a settlement agreement in a discrimination lawsuit against the school board.\nSTRATFORD, CT — Stratford Superintendent of Schools Uyi Osunde has [resigned from the district](https://www.ctpost.com/news/education/article/stratford-superintendent-resigns-settling-19936452.php) after reaching a settlement agreement with the Board of Education in a discrimination lawsuit he filed in April, according to the Connecticut Post.\nThe Post reports Osunde chose to resign and “pursue other opportunities” after the board decided to reinstate him from his leave of absence.\nRead more at the Connecticut Post [here](https://www.ctpost.com/news/education/article/stratford-superintendent-resigns-settling-19936452.php).\nFind out what's happening in Stratfordwith free, real-time updates from Patch.\nSee also:\nFind out what's happening in Stratfordwith free, real-time updates from Patch.\nGet more local news delivered straight to your inbox.\n[Sign up for free Patch newsletters and alerts.](/connecticut/stratford/subscribe)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ctpost.com/news/education/article/stratford-superintendent-resigns-settling-19936452.php",
+        "https://ctpost.com/news/education/article/stratford-superintendent-resigns-settling-19936452.php"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Osunde",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Board of Education",
+                "sentiment": "none"
+            },
+            {
+                "name": "Connecticut Post",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Stratfordwith",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:36:12.470+02:00",
+    "updated": "2024-11-23T01:36:12.470+02:00"
+}

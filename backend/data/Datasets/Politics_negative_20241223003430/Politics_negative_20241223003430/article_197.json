@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "f1c6f75c09611dc25c4aa4c18dbb9f7a87809695",
+        "url": "https://www.alternet.org/gop-senators-tulsi-gabbard",
+        "site_full": "www.alternet.org",
+        "site": "alternet.org",
+        "site_section": "https://alternet.org/feeds/news-politics.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Alternet.org",
+        "title": "'Do we advise the president to look elsewhere?' GOP senators uneasy about Tulsi Gabbard",
+        "title_full": "'Do we advise the president to look elsewhere?' GOP senators uneasy about Tulsi Gabbard",
+        "published": "2024-11-22T23:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.alternet.org/media-library/image.jpg?id=29570478&width=1200&height=600&coordinates=0%2C106%2C0%2C107",
+        "performance_score": 0,
+        "domain_rank": 2626,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1c6f75c09611dc25c4aa4c18dbb9f7a87809695",
+    "url": "https://www.alternet.org/gop-senators-tulsi-gabbard",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carl Gibson",
+    "published": "2024-11-22T23:51:00.000+02:00",
+    "title": "'Do we advise the president to look elsewhere?' GOP senators uneasy about Tulsi Gabbard",
+    "text": "Frontpage news and politics Former Rep. Tulsi Gabbard (D-Hawaii), who President-elect Donald Trump has nominated to be the next Director of National Intelligence, is poised for an uphill confirmation battle – particularly in the Senate Intelligence Committee. The Daily Beast is reporting that the former Hawaii congresswoman's foreign policy stances have ruffled the feathers of several committee members, particularly in regard to Russian President Vladimir Putin's regime. Senate Republicans are pointing out that Gabbard has called for a \"full pardon\" for former Booz Allen Hamilton contractor Edward Snowden, who leaked classified National Security Agency documents to the Intercept in 2014 and later defected to Russia to avoid prosecution. “I start out saying, OK, this is an individual the president wants on his team,” said Sen. Mike Rounds (R-S.D.), who sits on the committee. “But now let’s talk about information that maybe the president didn’t have, or information that comes up, and at that stage do we advise the president to look elsewhere or do we offer our consent?” READ MORE: 'Email Putin all our war plans': Experts blast Trump for picking 'Russian spy' Gabbard as intel chief Sen. John Cornyn (R-Texas), who also sits on the committee, told Punchbowl News that while he doesn't doubt that Gabbard is a \"patriot,\" he's still unsure about putting her in charge of all U.S. intelligence agencies given her warmth toward Russia . And Sen. Susan Collins (R-Maine) — who is considered one of the all-important swing votes in the Senate Republican Conference, also expressed a lack of confidence in Gabbard's ability to pass muster. \"[Gabbard is] a nominee that illustrates the importance of a full background check, a public hearing, and the constitutional role of the Senate,\" Collins said. As a member of Congress, Gabbard was heavily criticized for taking an unauthorized secret trip to Syria to meet with dictator Bashar al-Assad, who was accused of using chemical weapons on rebel forces. Former Rep. Adam Kinzinger (R-Ill.) recently called her \" dangerous ,\" pointing out that putting sensitive intelligence in her hands could put the U.S. at risk with its adversaries overseas. Because there are only 53 Senate Republicans, Gabbard can only afford three GOP defections if she hopes to be confirmed. That may prove difficult if moderates like Sens. Lisa Murkowski (R-Alaska) and Thom Tillis (R-N.C.) object, along with other members like Collins and Cornyn. READ MORE: Ex-GOP congressman explains why Trump's Gabbard pick is 'perplexing and dangerous' Click here to read the Beast's report in its entirety (subscription required).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:24:53.127+02:00",
+    "updated": "2024-11-29T07:50:25.044+02:00"
+}

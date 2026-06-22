@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "e7c115aa5c1127ded21bdf21fd36b691ccba50c1",
+        "url": "https://www.nbcbayarea.com/news/sports/nfl/san-francisco-49ers/john-lynch-kyle-shanahan-criticism/3717758",
+        "site_full": "www.nbcbayarea.com",
+        "site": "nbcbayarea.com",
+        "site_section": "https://www.nbcbayarea.com",
+        "site_categories": [
+            "tech"
+        ],
+        "section_title": "NBC Bay Area—Local News and Weather",
+        "title": "Lynch passionately defends Shanahan from critics amid 49ers struggles",
+        "title_full": "Lynch passionately defends Shanahan from critics amid 49ers struggles",
+        "published": "2024-11-22T21:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 3470,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7c115aa5c1127ded21bdf21fd36b691ccba50c1",
+    "url": "https://www.nbcbayarea.com/news/sports/nfl/san-francisco-49ers/john-lynch-kyle-shanahan-criticism/3717758",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andy Lindquist",
+    "published": "2024-11-22T21:51:00.000+02:00",
+    "title": "Lynch passionately defends Shanahan from critics amid 49ers struggles",
+    "text": "John Lynch came to an impassioned defense of 49ers coach Kyle Shanahan on Friday, responding to criticism about Shanahan’s coaching during a challenging start to the 2024 NFL season.\n“I think Kyle Shanahan is a fantastic coach,” the 49ers GM said on KNBR’s “Murph & Markus” show. “I think he gives us an advantage each and every game we go out. Sometimes things just don’t come together and yeah we take that responsibility; I know I do, Kyle does.\n“It’s just not what we’d hoped for, it’s not what we expected from this team. But, you’ve got to deal with [it]. Kyle is tough-minded, he’s been around this business for a long time. What he’s solely focused on is fixing the issues that are ailing us. He works tirelessly. I’ve got nothing but belief in Kyle and what he brings to the table. I’m happy and proud to be working with him so we’re working our tails off to try to get this thing right.”\nBetween injuries and blown fourth-quarter leads, the 49ers have been mediocre this season, with a 5-5 record to show for it. Given the expectations at the start of the season, which included another long playoff run, fans are frustrated with San Francisco’s performance.\nIt’s not just Shanahan’s play-calling that has been the issue, though, as the defense has been unable to put teams away, with the 49ers losing four one-score games this year.\nWhile he has been known as an offensive wizard, Shanahan was without superstar running back Christian McCaffrey for most of the season, and the team lost wide receiver Brandon Aiyuk to a torn ACL early on. Given how critical both were during last season’s Super Bowl run, their absence has impacted the offense substantially.\nWith their playoff hopes barely alive, Lynch, Shanahan and the rest of the 49ers head to Lambeau Field to face the Green Bay Packers on Sunday in a pivotal showdown.\nA win would restore belief in the team making the postseason, while a loss would kill San Francisco’s playoff potential.\nNo matter what the outcome, Lynch will have Shanahan’s back.\nDownload and follow the 49ers Talk Podcast",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://player.simplecast.com/3dc8a3af-746d-43e5-8eff-3cd2fe0745ac?dark=false",
+        "https://omny.fm/shows/murph-markus-podcast/11-22-hour-2-murph-and-markus-live-from-hawaii-tal",
+        "https://49ers-talk-with-matt-maiocco.simplecast.com/episodes",
+        "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/overreactions-kyle-shanahan-loss-seahawks/1805436/",
+        "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/christian-mccaffrey-deebo-samuel-packers/1806764/",
+        "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/deommodore-lenoir-fourth-quarter-losses-mindset/1806014/",
+        "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/christian-mccaffrey-deebo-samuel-packers/1806764",
+        "https://player.simplecast.com/3dc8a3af-746d-43e5-8eff-3cd2fe0745ac",
+        "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/deommodore-lenoir-fourth-quarter-losses-mindset/1806014",
+        "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/overreactions-kyle-shanahan-loss-seahawks/1805436",
+        "https://nbcsportsbayarea.com/nfl/san-francisco-49ers/christian-mccaffrey-deebo-samuel-packers/1806764/",
+        "https://nbcsportsbayarea.com/nfl/san-francisco-49ers/overreactions-kyle-shanahan-loss-seahawks/1805436/",
+        "https://www.49ers-talk-with-matt-maiocco.simplecast.com/episodes",
+        "https://nbcsportsbayarea.com/nfl/san-francisco-49ers/deommodore-lenoir-fourth-quarter-losses-mindset/1806014/",
+        "https://www.player.simplecast.com/3dc8a3af-746d-43e5-8eff-3cd2fe0745ac?dark=false",
+        "https://www.omny.fm/shows/murph-markus-podcast/11-22-hour-2-murph-and-markus-live-from-hawaii-tal"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "e7c115aa5c1127ded21bdf21fd36b691ccba50c1",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:11:55.225+02:00",
+    "updated": "2024-11-23T01:11:55.225+02:00"
+}

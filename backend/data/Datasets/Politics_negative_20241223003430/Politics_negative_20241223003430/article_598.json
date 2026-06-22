@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "64ecdc27a5cff76d37cd1fd239810d55649167da",
+        "url": "https://www.ibtimes.com/texas-education-board-approves-controversial-bible-studies-program-will-pay-elementary-schools-3752352",
+        "site_full": "www.ibtimes.com",
+        "site": "ibtimes.com",
+        "site_section": "https://www.ibtimes.com/rss/sports/golf",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "International Business Times",
+        "title": "Texas Education Board Approves Controversial Bible Studies Program, Will Pay Elementary Schools to Teach It | IBTimes",
+        "title_full": "Texas Education Board Approves Controversial Bible Studies Program, Will Pay Elementary Schools to Teach It | IBTimes",
+        "published": "2024-11-23T00:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d.ibtimes.com/en/full/4417497/representational-image-bible.jpg",
+        "performance_score": 0,
+        "domain_rank": 1159,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "64ecdc27a5cff76d37cd1fd239810d55649167da",
+    "url": "https://www.ibtimes.com/texas-education-board-approves-controversial-bible-studies-program-will-pay-elementary-schools-3752352",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "M.B. Mack",
+    "published": "2024-11-23T00:58:00.000+02:00",
+    "title": "Texas Education Board Approves Controversial Bible Studies Program, Will Pay Elementary Schools to Teach It | IBTimes",
+    "text": "The Texas State Board of Education has approved a controversial Bible-infused curriculum for elementary schools, claiming they will pay them to teach it.In early 2023, the Texas Education Agency (TEA) introduced the Bluebonnet Learning curriculum, made to blend biblical references into lessons for K-5 students under the guise of cross-disciplinary learning, the Texas Tribune reported.The State Board of Education narrowly approved the curriculum in an 8-7 vote, giving school districts the option to adopt the curriculum in the 2025-26 school year, incentivized by $60 per student.The curriculum's approval comes after many efforts in Texas and other Republican-led states to insert religious content into public education.While supporters, including Texas Gov. Greg Abbott, claim the program fosters a deeper understanding of history, others strongly disagree. Critics, including the ACLU and religious freedom advocates, argue that it crosses the line into religious indoctrination.\"The Bluebonnet curriculum flagrantly disregards religious freedom, a cornerstone of our nation since its founding,\" Caro Achar, ACLU's engagement coordinator for free speech, told CNN.\"The same politicians censoring what students can read now want to impose state-sponsored religion onto our public schools. We urge districts to reject this optional curriculum and uphold a public school education that honors the religious diversity and constitutional rights of Texas students,\" Achar continued.The curriculum includes Bible stories with limited representation of other faiths. If the Bluebonnet Learning curriculum becomes widely accepted, it could reshape how religion is involved in public schools.Originally published by Latin Times",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Education",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnn.com/2024/11/22/us/texas-school-bible-curriculum-vote/index.html",
+        "https://www.latintimes.com/topics/texas",
+        "https://www.latintimes.com/texas-education-board-approves-controversial-bible-studies-program-will-pay-elementary-schools-566836",
+        "https://www.latintimes.com/texas-education-board-vote-bible-studies-public-schools-wave-faith-based-classroom-initiatives-566358",
+        "https://www.latintimes.com/topics/education",
+        "https://www.latintimes.com/oklahoma-education-department-launches-taxpayer-funded-religious-liberty-division-protect-565711",
+        "https://www.texastribune.org/2024/11/19/texas-sboe-bible-christianity-curriculum/",
+        "https://latintimes.com/oklahoma-education-department-launches-taxpayer-funded-religious-liberty-division-protect-565711",
+        "https://latintimes.com/topics/education",
+        "https://www.texastribune.org/2024/11/19/texas-sboe-bible-christianity-curriculum",
+        "https://latintimes.com/texas-education-board-approves-controversial-bible-studies-program-will-pay-elementary-schools-566836",
+        "https://texastribune.org/2024/11/19/texas-sboe-bible-christianity-curriculum/",
+        "https://latintimes.com/topics/texas",
+        "https://cnn.com/2024/11/22/us/texas-school-bible-curriculum-vote/index.html",
+        "https://latintimes.com/texas-education-board-vote-bible-studies-public-schools-wave-faith-based-classroom-initiatives-566358"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:08:31.373+02:00",
+    "updated": "2024-11-23T02:08:30.626+02:00"
+}

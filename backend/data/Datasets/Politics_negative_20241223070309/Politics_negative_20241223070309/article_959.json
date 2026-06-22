@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "32571e3fd130f0f2ec3882317502a80e6d78ee6f",
+        "url": "https://catholicreview.org/cardinal-warns-war-in-ukraine-could-spiral-out-of-control",
+        "site_full": "catholicreview.org",
+        "site": "catholicreview.org",
+        "site_section": "https://www.catholicreview.org",
+        "site_categories": [
+            "religion",
+            "catholicism"
+        ],
+        "section_title": "Homepage - Catholic Review",
+        "title": "Cardinal warns war in Ukraine could spiral out of control",
+        "title_full": "Cardinal warns war in Ukraine could spiral out of control",
+        "published": "2024-11-22T18:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 61041,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32571e3fd130f0f2ec3882317502a80e6d78ee6f",
+    "url": "https://catholicreview.org/cardinal-warns-war-in-ukraine-could-spiral-out-of-control",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carol Glatz",
+    "published": "2024-11-22T18:12:00.000+02:00",
+    "title": "Cardinal warns war in Ukraine could spiral out of control",
+    "text": "VATICAN CITY (CNS) \\u2014 The situation in Ukraine is very \\u201cworrisome\\u201d and could spiral out of control, said Cardinal Pietro Parolin, Vatican secretary of state.\n\\nRussian President Vladimir Putin has threatened that the conflict could spread after Ukraine fired U.S.-supplied longer-range missiles Nov. 19 and U.K.-supplied cruise missiles Nov. 20 into Russian territory.\n\\n\\u201cThese developments are very, very worrisome, because we don\\u2019t know where they could lead,\\u201d the cardinal told reporters when asked at a book presentation in Rome Nov. 22 about the latest developments, adding that his words also reflected the pope\\u2019s concern and position. Vatican News published his comments the same day.\n\\n \\n A damaged church is seen near a front line in Orikhiv in Ukraine\\u2019s Zaporizhzhia region, Oct. 9, 2024, following Russian military airstrikes. (OSV News photo/Reuters) \\n \\nWhen asked about the International Criminal Court at The Hague issuing arrest warrants against three leaders, including Israeli Prime Minister Benjamin Netanyahu, the cardinal said the Holy See has \\u201ctaken note of what has happened\\u201d and underlined that what \\u201cconcerns and interests us is that the war be ended soon.\\u201d\n\\nJudges at the court issued arrest warrants Nov. 21 for Netanyahu and Yoav Gallant, Israel\\u2019s former defence minister, and Mohammed Deif, military commander of Hamas, saying there were \\u201creasonable grounds\\u201d the men were criminally responsible for alleged war crimes and crimes against humanity during the ongoing war between Israel and Hamas.\n\\nIsrael has rejected the claims and Netanyahu condemned the court\\u2019s decision as \\u201cantisemitic.\\u201d Hamas has rejected the claims against Deif, yet praised the warrants for Netanyahu and Gallant as an \\u201cimportant historical precedent.\\u201d\n\\nWhen asked about claims of antisemitism, the cardinal said the the Holy See\\u2019s position on the phenomenon was clear: \\u201cWe have always condemned it, and we will continue to condemn it\\u201d and seek to create conditions necessary for \\u201ca serious condemnation and a serious fight against this phenomenon.\\u201d\n\\nSpeaking about the escalation of the war in Ukraine, the cardinal said, \\u201cLet\\u2019s stop now while there is time, because there is no way to know where this escalation will lead!\\u201d\n\\n\\u201cAt some point we will no longer know how to control any possible developments\\u201d in this conflict, he said, appealing to those in position of authority \\u201cto stop before it becomes irreparable.\\u201d\n\\nThe cardinal said the Vatican is continuing its efforts on prisoner exchanges and returning children to Ukraine who had been kidnapped and taken to Russia.\n\\nThese efforts are also useful \\u201cto prepare the ground a little bit toward negotiations,\\u201d he added.\n\\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pietro Parolin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Criminal Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vatican News",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Zaporizhzhia",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:50:50.302+02:00",
+    "updated": "2024-11-23T01:50:50.302+02:00"
+}

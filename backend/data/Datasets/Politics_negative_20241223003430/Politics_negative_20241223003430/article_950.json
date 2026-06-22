@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "4123ef40f0cd18d4ab7961e41604e4a35e37c0c8",
+        "url": "https://www.wyomingpublicmedia.org/politics-government/2024-11-22/school-board-in-powell-wants-wyoming-to-pass-transgender-bathroom-laws",
+        "site_full": "www.wyomingpublicmedia.org",
+        "site": "wyomingpublicmedia.org",
+        "site_section": "https://www.wyomingpublicmedia.org/archives-on-the-air",
+        "site_categories": [
+            "media",
+            "music",
+            "entertainment"
+        ],
+        "section_title": "Archives On The Air | Wyoming Public Media",
+        "title": "School board in Powell wants Wyoming to pass transgender bathroom laws",
+        "title_full": "School board in Powell wants Wyoming to pass transgender bathroom laws",
+        "published": "2024-11-23T00:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/09b1025/2147483647/strip/true/crop/400x210+0+45/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2Fd6%2F5254f30d40588c0ce3b50e7daa4c%2Felementary-school-bathroom-photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 36513,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4123ef40f0cd18d4ab7961e41604e4a35e37c0c8",
+    "url": "https://www.wyomingpublicmedia.org/politics-government/2024-11-22/school-board-in-powell-wants-wyoming-to-pass-transgender-bathroom-laws",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olivia Weitz",
+    "published": "2024-11-23T00:30:00.000+02:00",
+    "title": "School board in Powell wants Wyoming to pass transgender bathroom laws",
+    "text": "The school board in Powell wants Wyoming to pass transgender bathroom laws\nThe school board in Powell is pushing state lawmakers to create a statewide policy on which bathrooms transgender students can use.\nPark County School District #1 Board of Trustees [passed a resolution](https://drive.google.com/file/d/1JuTyPPbXE7_YzCWKp5CBOU6j2Nsavm-F/view?usp=drive_link) earlier this month that says they want Wyoming legislators to pursue a similar policy to what lawmakers in [Oklahoma passed](https://apnews.com/article/politics-oklahoma-b19f921843bfddc0a71b8332946674f7).\nThe policy would require students to use the bathroom based on their biological sex, not the gender they identify with. It would also require schools to provide a single occupancy restroom for transgender students.\nDistricts not in compliance with the policy would face a decrease in state funding.\nCarrie Peter’s daughter attends Powell High School. She said her daughter hasn’t run into a boy or a transgender person in the bathroom, but worries that she might.\n“She has gone to great lengths to find out how to avoid that situation,” she said. “She uses the restroom at certain times and stuff to be able to avoid that. But she definitely has made it clear that she's more alert and more fearful now, because basically the lack of policy could allow any male to just walk in there at any time.”\nJeny Gardner is a former teacher and parent of two Powell High School students. She worries that the rules would further stigmatize transgender students.\n“Instead of making bathrooms safer, which there are methods to make bathrooms safer, including supervision, it actually puts the responsibility on students who are already at risk and targets them more. And in our small communities, a lot of those students don't have safe spaces to go to,” she said.\nThe resolution passed by school board members says that the district will adopt a policy after one of two scenarios, whichever comes first: Wyoming passes legislation, or after a court rules on an appeal to the Oklahoma law.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Education"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://drive.google.com/file/d/1JuTyPPbXE7_YzCWKp5CBOU6j2Nsavm-F/view?usp=drive_link",
+        "https://apnews.com/article/politics-oklahoma-b19f921843bfddc0a71b8332946674f7",
+        "https://www.apnews.com/article/politics-oklahoma-b19f921843bfddc0a71b8332946674f7",
+        "https://drive.google.com/file/d/1JuTyPPbXE7_YzCWKp5CBOU6j2Nsavm-F/view",
+        "https://www.drive.google.com/file/d/1JuTyPPbXE7_YzCWKp5CBOU6j2Nsavm-F/view?usp=drive_link"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carrie Peter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Powell High School",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:49:43.534+02:00",
+    "updated": "2024-11-28T10:08:07.474+02:00"
+}

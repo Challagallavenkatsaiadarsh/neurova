@@ -1,0 +1,189 @@
+{
+    "thread": {
+        "uuid": "bc7767e8a12e9cc6e7f66d3f6cb26ea92dbcbc8c",
+        "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/maharashtra/21-women-among-288-winning-candidates-in-maharashtra-only-1-from-opposition-side/articleshow/115617395.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/jobs",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Jobs News: Employment News, Career Development &amp; Management, Company Hiring Policies &amp; News – The Economic Times",
+        "title": "21 women among 288 winning candidates in Maharashtra; only 1 from opposition side - The Economic Times",
+        "title_full": "21 women among 288 winning candidates in Maharashtra; only 1 from opposition side - The Economic Times",
+        "published": "2024-11-24T03:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-115617424,width-1200,height-630,imgsize-218308,overlay-economictimes/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bc7767e8a12e9cc6e7f66d3f6cb26ea92dbcbc8c",
+    "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/maharashtra/21-women-among-288-winning-candidates-in-maharashtra-only-1-from-opposition-side/articleshow/115617395.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-11-24T03:35:00.000+02:00",
+    "title": "21 women among 288 winning candidates in Maharashtra; only 1 from opposition side - The Economic Times",
+    "text": "Mumbai: As many as 21 women candidates have emerged winner in the elections to the 288-seat Maharashtra assembly, with only one of them from the opposition, according to the poll results. The BJP accounted for the highest number of 14 women candidates emerging victorious, including 10 who were re-elected: Shweta Mahale (Chikli constituency), Meghana Bordikar (Jintur), Devyani Farande (Nashik Central), Seema Hiray (Nashik West), Manda Mhatre (Belapur), Manisha Chaudhari (Dahisar), Vidya Thakur (Goregaon), Madhuri Misal (Parvati), Monica Rajale (Shevgaon) and Namita Mundada (Kaij). The four new women winners of the BJP are Shreejaya Chavan (Bhokar), Sulabha Gaikwad (Kalyan East), Sneha Pandit (Vasai) and Anuradha Chavan (Fulambari), as per the poll results announced by the Election Commission on Saturday. Manjula Gavit (Sakri) and Sanjana Jadhav (Kannad) were elected on the ruling Shiv Sena tickets. Sulbha Khodke (Amravati), Saroj Ahire (Deolali), Sana Malik (Anushaktinagar) and Aditi Tatkare (Shrivardhan) won on the ruling NCP tickets. Congress' Jyoti Gaikwad (Dhavari) will be the lone woman MLA from the opposition's side.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Manisha Chaudhari",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shreejaya Chavan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Meghana Bordikar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sulabha Gaikwad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anuradha Chavan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Devyani Farande",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sanjana Jadhav",
+                "sentiment": "none"
+            },
+            {
+                "name": "Namita Mundada",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jyoti Gaikwad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aditi Tatkare",
+                "sentiment": "none"
+            },
+            {
+                "name": "Manjula Gavit",
+                "sentiment": "none"
+            },
+            {
+                "name": "Monica Rajale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Madhuri Misal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sneha Pandit",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vidya Thakur",
+                "sentiment": "none"
+            },
+            {
+                "name": "Seema Hiray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Saroj Ahire",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sana Malik",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shiv Sena",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:21:53.246+02:00",
+    "updated": "2024-11-24T06:21:53.246+02:00"
+}

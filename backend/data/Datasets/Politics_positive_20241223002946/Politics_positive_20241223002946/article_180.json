@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "d978b4b69713c086a783c05a04ea9e2621ed1d7c",
+        "url": "https://www.portland.gov/bps/planning/odor-code/news/2024/11/22/city-council-votes-approve-odor-code-amendments",
+        "site_full": "www.portland.gov",
+        "site": "portland.gov",
+        "site_section": "https://www.portland.gov/bps/planning",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Long-range Planning | Portland.gov",
+        "title": "City Council votes to approve Odor Code Amendments | Portland.gov",
+        "title_full": "City Council votes to approve Odor Code Amendments | Portland.gov",
+        "published": "2024-11-22T17:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 13159,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d978b4b69713c086a783c05a04ea9e2621ed1d7c",
+    "url": "https://www.portland.gov/bps/planning/odor-code/news/2024/11/22/city-council-votes-approve-odor-code-amendments",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T17:37:00.000+02:00",
+    "title": "City Council votes to approve Odor Code Amendments | Portland.gov",
+    "text": "News Article\nOn Nov. 13, Portland City Council unanimously approved updates to the city’s Odor Code giving more flexibility to businesses like restaurants and nail salons, and creating more equitable and transparent enforcement.\nPublished\nOn [Nov. 13](https://www.portland.gov/bps/planning/odor-code/events/2024/11/13/city-council-second-reading-odor-code-update-project), the City Council passed [Ordinance No. 191961](https://www.portland.gov/council/documents/ordinance/passed/191961), adopting the Odor Code Update Project [Recommended Draft](https://efiles.portlandoregon.gov/record/17029123) and amending the City Code to amend and update off-site odor impacts regulations, during a second reading. The approved amendments will become effective on March 1, 2025.\nKey changes to the City's Odor Code include:\n- Moving order regulations from the zoning code (Title 33) to the property maintenance code (Title 29) to account for the fact that odor issues are better addressed during operations.\n- Exempting Retail Sales and Service Uses such as restaurants, coffee shops, bakeries and nail salons from odor regulations.\n- Setting new parameters for the enforcement of odor rules, including increasing the daily allowance for continuous odors from 15 to 30 minutes, and requiring five or more individual complaints from five or more residents living within 150 feet of the property.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Portland City Council",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:03:40.107+02:00",
+    "updated": "2024-11-28T02:24:55.721+02:00"
+}

@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "52ab8ddc7e3e80a4d18d9b03cebc9f6164c5bd9d",
+        "url": "https://www.wionews.com/world/cop29-nearly-200-countries-approve-300-billion-for-poor-nations-in-climate-deal-778749",
+        "site_full": "www.wionews.com",
+        "site": "wionews.com",
+        "site_section": "https://wionews.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News &amp; Analysis - Latest World News",
+        "title": "COP29: Nearly 200 countries approve $300 billion for poor nations in climate deal",
+        "title_full": "COP29: Nearly 200 countries approve $300 billion for poor nations in climate deal",
+        "published": "2024-11-24T06:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://cdn.wionews.com/sites/default/files/2024/11/24/467702-untitled-3.png",
+        "performance_score": 0,
+        "domain_rank": 5568,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52ab8ddc7e3e80a4d18d9b03cebc9f6164c5bd9d",
+    "url": "https://www.wionews.com/world/cop29-nearly-200-countries-approve-300-billion-for-poor-nations-in-climate-deal-778749",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wion",
+    "published": "2024-11-24T06:24:00.000+02:00",
+    "title": "COP29: Nearly 200 countries approve $300 billion for poor nations in climate deal",
+    "text": "Nearly 200 countries on Sunday (Nov 24) approved a bitterly negotiated climate deal that raises to at least $300 billion a year the amount wealthy historic polluters pay poorer countries to take action against global warming. After two weeks of exhausting negotiations in Azerbaijan that dragged well into overtime, COP29 president Mukhtar Babayev banged the gavel at 2.39 am local time. This deal's amount is higher than the $100 billion that is currently required under a previous agreement that runs until next year. But it falls well short of the $500 billion that some developing countries had demanded at the fraught negotiations in Baku, a report by the news agency AFP said. A look at the deal As per the deal, the money would come directly from a wide variety of sources including government budgets, private sector investment, and other financing. The deal cited \"alternative sources\": a reference to potential global taxes under discussion on the aviation and maritime industries, and the rich. Also watch | WION Climate Tracker: G20 fails to agree on climate The hope is that the money from developed countries would help boost private investment to reach an ambitious goal -- written into the deal -- of delivering at least $1.3 trillion per year by the next 10 years. The deal also stated that developed nations would be \"taking the lead\" in providing the $300 billion -- implying that others could join. India and other developing nations slam the deal India and other developing countries slammed the climate deal. \"It's a paltry sum,\" India's delegate (at COP29) Chandni Raina said on Sunday. This document is little more than an optical illusion. This, in our opinion, will not address the enormity of the challenge we all face,\" Raina added. Sierra Leone's climate minister Jiwoh Abdulai said the deal showed a \"lack of goodwill\" from rich countries to stand by the world's poorest as they confront rising seas and harsher droughts. Meanwhile, Nigeria's delegate Nkiruka Maduekwe put it more bluntly: \"This is an insult.\" (With inputs from agencies)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mukhtar Babayev",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "AFP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:49:57.832+02:00",
+    "updated": "2024-11-24T07:22:05.432+02:00"
+}

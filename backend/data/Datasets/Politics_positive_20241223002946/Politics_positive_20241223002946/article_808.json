@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "a32ed3c47ce2f97dae34ecd69ec4708146734773",
+        "url": "https://www.devdiscourse.com/article/politics/3167748-mahayuti-leads-as-maharashtra-vote-counting-commences",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://devdiscourse.com/south-asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "South Asia News: International Development News, Breaking News, India News",
+        "title": "Mahayuti Leads as Maharashtra Vote Counting Commences | Politics",
+        "title_full": "Mahayuti Leads as Maharashtra Vote Counting Commences | Politics",
+        "published": "2024-11-23T02:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/17_08_2024_12_32_36_011471.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a32ed3c47ce2f97dae34ecd69ec4708146734773",
+    "url": "https://www.devdiscourse.com/article/politics/3167748-mahayuti-leads-as-maharashtra-vote-counting-commences",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T02:19:00.000+02:00",
+    "title": "Mahayuti Leads as Maharashtra Vote Counting Commences | Politics",
+    "text": "Mahayuti Leads as Maharashtra Vote Counting Commences\nThe BJP-led Mahayuti alliance is leading in the Maharashtra state elections as vote counting begins. Competing against the Maha Vikas Aghadi, a total of 288 seats are in play. The results, crucial for both alliances, could decide political fortunes. Postal ballot counting has initially favored Mahayuti.\n- Country:\n- India\nThe ruling BJP-led Mahayuti alliance in Maharashtra has surged ahead in the state assembly elections, leading in 31 out of 288 seats as counting got underway Saturday morning. Its main rival, the Maha Vikas Aghadi, currently leads in 18 seats.\nInitially, the Mahayuti showed leadership in 26 constituencies with the early counting of postal ballots. Despite the absence of official confirmation from the Election Commission, TV reports indicate a steady Mahayuti advantage. Maharashtra Congress president Nana Patole led in Sakoli, while BJP's Vijaykumar Gavit was at the forefront in his constituency.\nThe comprehensive counting includes verification of postal ballots and Electronic Voting Machine (EVM) votes. Key players in the Mahayuti include BJP, Shiv Sena, and Ajit Pawar's NCP, while the Congress, Shiv Sena (UBT), and NCP (SP) represent the Maha Vikas Aghadi. The final voter turnout was 66.05%, marking an increase from the previous election cycle.\n(With inputs from agencies.)\nALSO READ\n[Amit Shah Predicts Defeat of Maha Vikas Aghadi in Maharashtra Elections](/article/politics/3149945-amit-shah-predicts-defeat-of-maha-vikas-aghadi-in-maharashtra-elections)[Maharashtra's Maha Vikas Aghadi Unveils Ambitious Manifesto Ahead of State Elections](/article/headlines/3152336-maharashtras-maha-vikas-aghadi-unveils-ambitious-manifesto-ahead-of-state-elections)[Opposition Maha Vikas Aghadi means corruption and scams of thousands of crores of rupees: PM Modi at election rally in Akola.](/article/Newsalert/3151132-opposition-maha-vikas-aghadi-means-corruption-and-scams-of-thousands-of-crores-of-rupees-pm-modi-at-election-rally-in-akol)[Congress reneged on pre-election promises made in states ruled by it now; Maha Vikas Aghadi has no credibility: Amit Shah in Mumbai.](/article/Newsalert/3151773-congress-reneged-on-pre-election-promises-made-in-states-ruled-by-it-now-maha-vikas-aghadi-has-no-credibility-amit-shah-in)[Amit Shah Criticizes Maha Vikas Aghadi's Appeasement Politics Ahead of Maharashtra Polls](/article/politics/3152181-amit-shah-criticizes-maha-vikas-aghadis-appeasement-politics-ahead-of-maharashtra-polls)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vijaykumar Gavit",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nana Patole",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maharashtra Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sakoli",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:58:10.109+02:00",
+    "updated": "2024-11-23T05:03:37.702+02:00"
+}

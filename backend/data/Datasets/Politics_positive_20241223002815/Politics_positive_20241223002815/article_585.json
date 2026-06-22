@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "a22adb265232faf2626fe2b5624a76debe15914b",
+        "url": "https://www.fbherald.com/news/state/trump-chooses-florida-prosecutor-as-attorney-general-nominee/article_e265a2c5-4247-5261-b92e-4639ed9b9dee.html",
+        "site_full": "www.fbherald.com",
+        "site": "fbherald.com",
+        "site_section": "https://www.fbherald.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "fbherald.com | Fort Bend's Daily Newspaper - Since 1892",
+        "title": "Trump chooses Florida prosecutor as attorney general nominee | News | fbherald.com",
+        "title_full": "Trump chooses Florida prosecutor as attorney general nominee | News | fbherald.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/fbherald.com/content/tncms/assets/v3/editorial/3/0c/30ce31f8-f519-5e0a-9d86-6db2953cf265/674125d5973eb.image.jpg?crop=1779%2C934%2C0%2C115&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 134688,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a22adb265232faf2626fe2b5624a76debe15914b",
+    "url": "https://www.fbherald.com/news/state/trump-chooses-florida-prosecutor-as-attorney-general-nominee/article_e265a2c5-4247-5261-b92e-4639ed9b9dee.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Tarinelli CQ-Roll Call",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Trump chooses Florida prosecutor as attorney general nominee | News | fbherald.com",
+    "text": "President-elect Donald Trump announced he will nominate Pam Bondi to be his next attorney general, in a social media post Thursday that touted the former Florida attorney general’s history as a prosecutor who “was very tough on Violent Criminals.”\nBondi, if confirmed, would oversee a sprawling Department of Justice responsible for federal criminal prosecution and a wide array of law enforcement. In the role, she could advocate for certain funding priorities, implement internal changes, and shift policy on topics like immigration, voting rights and antitrust enforcement.\n“As Florida’s first female Attorney General, she worked to stop the trafficking of deadly drugs, and reduce the tragedy of Fentanyl Overdose Deaths, which have destroyed many families across our Country,” Trump said in the post. “She did such an incredible job, that I asked her to serve on our Opioid and Drug Abuse Commission during my first Term — We saved many lives!”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Labor"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:28:53.815+02:00",
+    "updated": "2024-11-23T04:42:24.929+02:00"
+}

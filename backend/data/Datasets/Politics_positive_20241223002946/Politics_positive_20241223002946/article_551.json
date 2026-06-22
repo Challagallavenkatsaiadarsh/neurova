@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "384be33bc9ff91fac59fbb7a5c9f72f2e52de3f4",
+        "url": "https://indianexpress.com/article/cities/lucknow/up-govt-to-hold-roadshows-in-indian-cities-abroad-to-promote-maha-kumbh-9685414",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://indianexpress.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+        "title": "UP govt to hold roadshows in Indian cities, abroad to promote Maha Kumbh",
+        "title_full": "UP govt to hold roadshows in Indian cities, abroad to promote Maha Kumbh",
+        "published": "2024-11-23T00:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/09/kumbh.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "384be33bc9ff91fac59fbb7a5c9f72f2e52de3f4",
+    "url": "https://indianexpress.com/article/cities/lucknow/up-govt-to-hold-roadshows-in-indian-cities-abroad-to-promote-maha-kumbh-9685414",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@indianexpress",
+    "published": "2024-11-23T00:41:00.000+02:00",
+    "title": "UP govt to hold roadshows in Indian cities, abroad to promote Maha Kumbh",
+    "text": "The Uttar Pradesh Cabinet on Friday approved a proposal to hold “grand roadshows” in major cities across India and abroad to promote the Maha Kumbh-2025. In a meeting chaired by Chief Minister Yogi Adityanath, the Cabinet also approved several key proposals, including sanctioning the purchase of 220 vehicles for the Maha Kumbh preparations which are underway. The Maha Kumbh will take place in Prayagraj from January 13 to February 26. Addressing the media, Cabinet Minister AK Sharma said the roadshows, led by ministers, will be held to generate global awareness and participation in the event. In India, the roadshows will be held in cities such as New Delhi, Mumbai, Pune, Jaipur, Hyderabad, Thiruvananthapuram, Ahmedabad, Chennai, Kolkata, Bengaluru, Guwahati, Dehradun, Bhopal, Chandigarh, and Patna, he said. Abroad, the roadshows are planned in Nepal, Thailand, Indonesia, Mauritius, and other countries, the minister added. The Department of Urban Development will cover the costs, estimated at Rs 20-25 lakh per city, it is learnt. Industry bodies like the FICCI and CII will also partner in the initiative. Sharma also announced the Cabinet's approval for purchasing 220 vehicles to support the Mahakumbh preparations, with an allocated budget of Rs 27.48 crore. This includes 40 Mahindra Bolero Neos, 160 Bolero B6BSVI models, and 20 buses. Besides, the Cabinet approved the detailed project report (DPR) for the proposed extension of the Noida Metro's Aqua Line corridor from Sector 51 to Greater Noida Knowledge Park V, officials said. Meanwhile, during an event in Lucknow to distribute appointment letters to 701 forest guards, including 140 women, selected by the Uttar Pradesh Subordinate Services Selection Commission (UPSSSC), Adityanath said the challenge of global warming is the fallout of following the path of unplanned and unscientific development, he claimed. —PTI inputs",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.financialexpress.com/auto/new-cars/mahindra/",
+        "https://financialexpress.com/auto/new-cars/mahindra/",
+        "https://www.financialexpress.com/auto/new-cars/mahindra"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yogi Adityanath",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Uttar Pradesh Cabinet",
+                "sentiment": "none"
+            },
+            {
+                "name": "Express News Service",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ahmedabad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Prayagraj",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kolkata",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:18:21.264+02:00",
+    "updated": "2024-11-23T03:33:32.329+02:00"
+}

@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "bff2abd2ff9fa4516f7e8330bb4bfa0ee2b996d4",
+        "url": "https://www.thecanary.co/uk/news/2024/11/22/snares-scotland-ban",
+        "site_full": "www.thecanary.co",
+        "site": "thecanary.co",
+        "site_section": "https://www.thecanary.co",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Home - Canary",
+        "title": "Scotland once again ahead of Westminster, as snares set to be banned from Monday",
+        "title_full": "Scotland once again ahead of Westminster, as snares set to be banned from Monday",
+        "published": "2024-11-22T19:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 32112,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bff2abd2ff9fa4516f7e8330bb4bfa0ee2b996d4",
+    "url": "https://www.thecanary.co/uk/news/2024/11/22/snares-scotland-ban",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Canary",
+    "published": "2024-11-22T19:53:00.000+02:00",
+    "title": "Scotland once again ahead of Westminster, as snares set to be banned from Monday",
+    "text": "National animal welfare charity the League Against Cruel Sports has welcomed the ban on snares which comes into force in Scotland on Monday 25 November. It called on the UK government to deliver on its manifesto commitment and ban these barbaric traps in England as well.\nSnares: banned in Scotland – so why not England? The League has campaigned successfully with partners in recent years to get snares banned in both Scotland and Wales, leaving England and Northern Ireland as the only countries in the UK where they remain legal.\nWill Morton, head of public affairs at the League Against Cruel Sports, said:\nSnares are cruel and indiscriminate traps which have now thankfully been outlawed by both the Scottish and Welsh governments.\nWe welcomed the manifesto commitment by the Labour Party to improve animal welfare and ban snares and now look forward to the Government announcing new legislation to ban snares in England as a matter of priority.\nSnares are cruel wire traps which are used primarily by the shooting industry to kill wildlife on and around ‘game’ bird shoots to maintain artificially high stocks of grouse and non-native pheasants and red legged partridges simply so they can be shot.\nGovernment figures show up to 200,000 of these traps lie hidden in the English countryside at any one time, ready to tighten around the neck, torso or legs of their victims and causing immense suffering and pain before the animal is shot or faces a lingering death.\nThey trap indiscriminately and the same research from DEFRA show nearly three quarters of the animals caught are not the intended target species and include animals such as hares, badgers, otters and even people’s pets.\nThey must be consigned to history Both the Scottish and Welsh governments have rejected attempts by the shooting industry to rebrand snares as humane cable restraints, a term used to mask the cruelty of these devices.\nSnares are now being banned in Scotland as part of the Wildlife Management and Muirburn (Scotland) Act 2024.\nIt follows a ban on these brutal traps in Wales taking effect in October 2023 following the Agriculture (Wales) Act being passed.\nWill Morton added:\nConsigning these brutal traps to the history books will be a huge step forward for animal welfare and we urge the Government to make good on its promises.\nThe vast majority of the public will support moves to end the use of snares and the pain and suffering they inflict on wildlife.\nFeatured image via the Canary",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://sciencesearch.defra.gov.uk/ProjectDetails?ProjectId=14689",
+        "https://www.league.org.uk/what-we-do/shooting/snares/",
+        "https://www.league.org.uk/what-we-do/shooting/snares",
+        "https://league.org.uk/what-we-do/shooting/snares/",
+        "https://www.sciencesearch.defra.gov.uk/ProjectDetails?ProjectId=14689",
+        "https://sciencesearch.defra.gov.uk/ProjectDetails"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Will Morton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Labour Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Northern",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wales",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:49:45.493+02:00",
+    "updated": "2024-11-23T00:49:45.493+02:00"
+}

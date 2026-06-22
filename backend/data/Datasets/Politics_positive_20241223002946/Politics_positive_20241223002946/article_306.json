@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "19d57de38d5ee22b729dee4ece3f51bee764d0b2",
+        "url": "https://thepublicsradio.org/education/providence-finalizes-deal-with-state-over-funding-for-its-public-schools",
+        "site_full": "thepublicsradio.org",
+        "site": "thepublicsradio.org",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "music",
+            "entertainment"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Providence finalizes deal with state over funding for its public schools - TPR: The Public's Radio",
+        "title_full": "Providence finalizes deal with state over funding for its public schools - TPR: The Public's Radio",
+        "published": "2024-11-23T01:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://newspack-thepublicsradio.s3.amazonaws.com/uploads/2024/11/GZ8A1321-2.jpg",
+        "performance_score": 0,
+        "domain_rank": 83449,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "19d57de38d5ee22b729dee4ece3f51bee764d0b2",
+    "url": "https://thepublicsradio.org/education/providence-finalizes-deal-with-state-over-funding-for-its-public-schools",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olivia Ebertz",
+    "published": "2024-11-23T01:18:00.000+02:00",
+    "title": "Providence finalizes deal with state over funding for its public schools - TPR: The Public's Radio",
+    "text": "Under the terms of a deal announced Friday, the city must contribute an extra $15 million of funding for the 2024 and 2025 fiscal years. The city is also committing to $11.5 million more in fiscal year 2026 and additional funding after that. With the agreement in place, Providence Schools Superintendent Javier Montañez says unpopular program cuts are no longer on the table.\n“When it comes to the spring sports and it comes to the RIPTA bus passes, yes, we’re making sure that that’s going to continue,” Montañez said.\nThe two parties had been at odds over a state law called the Crowley Act, which stipulates that cities have to pay their fare share for their schools, even in the instance of a state takeover.\nProvidence Mayor Brett Smiley and the current Providence City Council disagreed that they owed more money under the Crowley Act, and took the state to court earlier this year. The judge ultimately decided Providence wasn’t paying its fair share to the school system.\nSmiley says Providence must now raise taxes at a higher than normal rate next year.\n“It will be matched with cuts and fiscal restraint and belt tightening in city government,” Smiley said. “We are going to share this burden.”\nSmiley said on Friday he was still deciding what sorts of cuts will need to be made to city government, and that those will likely come in next year’s budget.\nParent Susan Rohwer has a child in middle school and has been following the issue closely. She says it’s a bad look for the city to only agree to pay additional money for the schools after a judge said Providence needed to.\n“It’s been really demoralizing to watch leaders essentially needing to be court ordered to fulfill their legal obligation to invest in Providence Public Schools,” Rohwer said.\nThe state took over the Providence Public School District in 2019 because it had been severely underperforming. This summer, the state’s education commissioner, Angélica Infante-Green, said she believes the schools can be handed back to the city within three years.\nInfante-Green has said it has been difficult to measure students’ success due to the pandemic. Some metrics show that students are performing worse than prior to the takeover, while other metrics show they are performing better. State data show Providence students are overall about half as prepared when compared to the state average.\nInfante-Green has said she will hand control back to the city sooner than 2027 if the schools make progress in areas like math, reading and English. She says the state, the city and the schools are already having meetings about the process of returning the schools to local control.\n“We are where we are right now, and we’re moving and putting things in place,” Infante Green said.\nSmiley says he is eager to get the schools back into local control. As another part of the settlement, the state also agreed to a city audit of the school’s finances. Smiley says he expects that to take about a month.\nRelated",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Education"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Javier Montañez",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brett Smiley",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Providence City Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:49:11.855+02:00",
+    "updated": "2024-11-23T01:49:11.855+02:00"
+}

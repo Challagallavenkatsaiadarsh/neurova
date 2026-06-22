@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "a479525869aeb947099857d483c5604ea7d8e321",
+        "url": "https://www.sentinelassam.com/topheadlines/assam-cm-himanta-biswa-sarma-expresses-gratitude-to-people",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://www.sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "Assam: CM Himanta Biswa Sarma Expresses Gratitude to People",
+        "title_full": "Assam: CM Himanta Biswa Sarma Expresses Gratitude to People",
+        "published": "2024-11-24T00:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-24%2Fo91ej3je%2FHIMNA.png?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a479525869aeb947099857d483c5604ea7d8e321",
+    "url": "https://www.sentinelassam.com/topheadlines/assam-cm-himanta-biswa-sarma-expresses-gratitude-to-people",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-24T00:40:00.000+02:00",
+    "title": "Assam: CM Himanta Biswa Sarma Expresses Gratitude to People",
+    "text": "Staff Reporter\nGUWAHATI: Chief Minister Himanta Biswa Sarma expressed gratitude to the people of Assam for making all five bye-poll candidates of the BJP-led ruling alliance in the state winners.\nThe Chief Minister said, \"The NDA's 5/5 victory in the bye-election is a resounding testament to Assam's unwavering support for Prime Minister Narendra Modi's vision of good governance and development. My heartfelt thanks to the people for their steadfast support. We remain committed to building a viksit Assam for all. A big shout-out to our dedicated karyakartas, who took our message of development to every booth!\"\nThe Chief Minister further said, \"A special mention for Samaguri, a constituency with a 65 percent minority population, held by Congress for 25 years, is now won by the BJP. This historic victory reaffirms people's trust in our welfare agenda and their firm rejection of the opposition's divisive politics.\"\nOn the other hand, Congress MP Gaurav Gogoi said, \"Though we got defeated in Behali, we have gained in the number of votes than in previous elections. The slimmer margin of the win stands tantamount to this. We will lay stress on the North Bank now to strengthen the Congress. We thank the people of Behali for keeping us in their confidence.\"\nA leader of the opposition alliance, Akhil Gogoi, said, \"The internal squabbling and arrogance in the Congress smashed the opposition's unity. The BJP-led alliance has fully translated that advantage into a win.\"\nAPCC (Assam Pradesh Congress Committee) president Bhupen Borah said, \"Barring the Samaguri LAC, the anti-BJP votes in the remaining four LACs went in favour of the Congress. I will go door to door to unite the anti-BJP forces. This bye-election has taught the Congress a lot of lessons.\"\nAlso Read: Deeply Painful, Says CM Himanta Biswa Sarma on Jharkhand Results\nAlso Watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Himanta Biswa Sarma",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaurav Gogoi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Behali",
+                "sentiment": "none"
+            },
+            {
+                "name": "Assam",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:53:08.164+02:00",
+    "updated": "2024-11-24T05:53:08.164+02:00"
+}

@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "e2c4e62d17811416bd7c263bc2e1fed4c4158c4e",
+        "url": "https://eadaily.com/en/news/2024/11/22/berbok-returned-russia-to-the-family-of-european-nations",
+        "site_full": "eadaily.com",
+        "site": "eadaily.com",
+        "site_section": "https://eadaily.com/en",
+        "site_categories": [
+            "media",
+            "top_news_ru",
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "EADaily. All news",
+        "title": "Berbok returned Russia to the family of European nations — EADaily, November 22nd, 2024 — Politics, Russia",
+        "title_full": "Berbok returned Russia to the family of European nations — EADaily, November 22nd, 2024 — Politics, Russia",
+        "published": "2024-11-22T23:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "https://img2.eadaily.com/r650x400/o/986/dee17dcb90ff3a3f7b05890bac5af.jpeg",
+        "performance_score": 0,
+        "domain_rank": 16809,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e2c4e62d17811416bd7c263bc2e1fed4c4158c4e",
+    "url": "https://eadaily.com/en/news/2024/11/22/berbok-returned-russia-to-the-family-of-european-nations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T23:59:00.000+02:00",
+    "title": "Berbok returned Russia to the family of European nations — EADaily, November 22nd, 2024 — Politics, Russia",
+    "text": "Russia is part of the European family, but it undermines peace in Europe. This was announced today at a press conference within the framework of the 29th session of the Conference of the Parties to the UN Framework Convention on Climate Change (COP29) in German Foreign Minister Annalena Berbock told Baku.\n\"We are faced with a situation in which for a thousand days now on our European continent, Russia, which is also part of our European family, has been attacking our European peace order,\" Berbok said, quoted by RIA Novosti.\nIn addition, Berbok accused the Russian Federation of allegedly waging a hybrid war against other European countries, which manifests itself in the form of cyber attacks and sending packages with explosives.\nAs reported by [EADaily](https://eadaily.com/), today German Foreign Minister Annalena Berbok and her husband Daniel Holefleisch announced that they were [divorcing after 17 years of marriage](/ru/news/2024/11/22/v-baku-bez-kolca-annalena-berbok-razvoditsya-posle-17-let-braka). The corresponding statement is at the disposal of the Bild publication.\nToday, Burbok appeared at the COP29 summit in Baku without a wedding ring.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Annalena Berbok",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Daniel Holefleisch",
+                "sentiment": "none"
+            },
+            {
+                "name": "Annalena Berbock",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "RIA Novosti",
+                "sentiment": "none"
+            },
+            {
+                "name": "UN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:36:46.388+02:00",
+    "updated": "2024-11-23T00:36:46.388+02:00"
+}

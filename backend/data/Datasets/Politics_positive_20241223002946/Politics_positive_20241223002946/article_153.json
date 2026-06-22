@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "41efa13a76833fc271d448434aaf74b81fb72c38",
+        "url": "https://www.local10.com/news/local/2024/11/22/bye-bye-mdpd-rosie-cordero-stutz-talks-changes-to-county-policing-as-she-becomes-sheriff",
+        "site_full": "www.local10.com",
+        "site": "local10.com",
+        "site_section": "https://www.local10.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Local News | Miami News, Fort Lauderdale, Florida News | WPLG Local 10",
+        "title": "Bye, bye ‘MDPD’: Rosie Cordero-Stutz talks changes to county policing as she becomes sheriff",
+        "title_full": "Bye, bye ‘MDPD’: Rosie Cordero-Stutz talks changes to county policing as she becomes sheriff",
+        "published": "2024-11-23T00:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn5-fstl-tf.geniusplus.ai/AjXdVZMBhTdKR8QliH-9/1732312519256_1920x1080_thumbnail.jpg",
+        "performance_score": 0,
+        "domain_rank": 5289,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "41efa13a76833fc271d448434aaf74b81fb72c38",
+    "url": "https://www.local10.com/news/local/2024/11/22/bye-bye-mdpd-rosie-cordero-stutz-talks-changes-to-county-policing-as-she-becomes-sheriff",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Christina Vazquez",
+    "published": "2024-11-23T00:17:00.000+02:00",
+    "title": "Bye, bye ‘MDPD’: Rosie Cordero-Stutz talks changes to county policing as she becomes sheriff",
+    "text": "MIAMI-DADE COUNTY, Fla. – Miami-Dade County is on the verge of having its first elected sheriff in decades.\nLongtime county law enforcer Rosie Cordero-Stutz is set to take office on Jan. 7. After years of county policing being in the hands of the mayor, voters decided in 2018 to reinstate the office.\nAdditionally, Cordero-Stutz confirmed to Local 10 News that with the new office will come a new name: The Miami-Dade Police Department will become the Miami-Dade Sheriff’s Office.\nFrom patrol unit decals to uniforms and business cards, there will be a taxpayer cost to the transformation. Cordero-Stutz said she’s still tabulating the figures.\nProminently endorsed by President-elect Donald Trump, Local 10 News also asked if she plans to assist with his plans for mass deportations.\n“It is very important as the office of the sheriff and as our next sheriff, my job is the safety and security of our community and the enforcement of our laws in the state of Florida and upholding our constitutional laws,” she said. “Those are federal laws, and there are agencies that enforce those laws, so I don’t have any plans to being involved in enforcing those laws. We have a lot of good work to do in Miami-Dade county and that’s my responsibility, however, it is important to also know that if you are an illegal immigrant in this county and you are committing crime, you will be arrested and at some point after you face our judicial system turned over to the appropriate agency.”\nIn 2017, during Trump’s first term in office then Miami-Dade mayor, now a Trump-endorsing Congressman, Carlos Gimenez, issued a memo directing the corrections department to “honor all immigration detainer requests received from the Department of Homeland Security,” adding the county will “fully cooperate with the federal government” just one day after Trump threatened to cut federal dollars from so-called “sanctuary city” municipalities who didn’t fully comply with federal immigration enforcement officials.\nTrump, on Twitter at the time, commended Gimenez - “Miami-Dade Mayor Drops Sanctuary Policy,” Trump posted, adding “Right Decision. Strong!”\nLocal 10 News asked Cordero-Stutz asked if she would provide assistance on immigration enforcement to federal agencies if requested.\n“Like I said, I will continue to enforce what is my responsibility as a sheriff. We can’t always go into the ‘what ifs.’ We could go down that rabbit hole forever,” she said. “I think that as we are very clear as to what our own independent responsibilities are and everyone works in those lanes, we can all achieve the same mission, which is the safety of our community.”\nFor more information on the transition and upcoming changes, you can refer to the sheriff’s office Transition document here .\nCopyright 2024 by WPLG Local10.com - All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/realdonaldtrump/status/824767281146245120?s=61&t=WzG6lM9zhQB0p89ctAEo8g",
+        "https://documents.miamidade.gov/mayor/memos/02.22.22-Sheriffs-Office-Transition.pdf",
+        "https://x.com/realdonaldtrump/status/824767281146245120",
+        "https://www.documents.miamidade.gov/mayor/memos/02.22.22-Sheriffs-Office-Transition.pdf",
+        "https://www.x.com/realdonaldtrump/status/824767281146245120?s=61&t=WzG6lM9zhQB0p89ctAEo8g"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rosie Cordero-Stutz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Miami-Dade Police Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Miami-Dade County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:55:17.935+02:00",
+    "updated": "2024-11-23T00:55:17.935+02:00"
+}

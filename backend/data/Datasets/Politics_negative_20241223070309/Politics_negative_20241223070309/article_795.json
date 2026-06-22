@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "3f10fc55eef2b19dd3caec06116d2c000c431b72",
+        "url": "https://www.rebelnews.com/border_agents_catch_another_iranian_official_living_in_canada",
+        "site_full": "www.rebelnews.com",
+        "site": "rebelnews.com",
+        "site_section": "https://www.rebelnews.com/news.rss",
+        "site_categories": [
+            "religion"
+        ],
+        "section_title": "Latest - Rebel News AB Live Clone [vox3] clone",
+        "title": "Border agents catch another Iranian official living in Canada",
+        "title_full": "Border agents catch another Iranian official living in Canada",
+        "published": "2024-11-23T00:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://assets.nationbuilder.com/therebel/pages/118672/meta_images/original/Social_Image_Iran.jpg?1732312596",
+        "performance_score": 0,
+        "domain_rank": 32171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f10fc55eef2b19dd3caec06116d2c000c431b72",
+    "url": "https://www.rebelnews.com/border_agents_catch_another_iranian_official_living_in_canada",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Dhaliwal",
+    "published": "2024-11-23T00:32:00.000+02:00",
+    "title": "Border agents catch another Iranian official living in Canada",
+    "text": "Border agents catch another Iranian official living in Canada\nAs many as 700 people in Canada have suspected ties to the Iranian regime, with the feds deporting only one senior official.\nCanada has learned of another senior Iranian official found living in Canada, according to the Department of Immigration, though the name will not be publicly disclosed at this time.\n“We have taken significant measures to crack down on the murderous Iranian regime’s impact in Canada and to hold it to account,” Prime Minister Justin Trudeau told reporters on Friday.\nHe praised federal agencies for working to identify foreign actors “who are out there to destabilize our economy and our country and hurt Canadian families.”\nAnother alleged official received a deportation hearing with the Immigration and Refugee Board (IRB), as reported by Global News and confirmed by the Canada Border Services Agency (CBSA).\nIn November 2022, then-public safety minister Marco Mendicino designated Iran a “regime that has engaged in terrorism and systematic and gross human rights violations” under the Immigration and Refugee Protection Act (IRPA).\nIran, along with its proxies, also dubbed the “axis of resistance,” has been the architect of political violence and terrorism across the Middle East.\nThat announcement made tens of thousands of Iranian officials and Islamic Revolutionary Guard Corp (IRGC) members inadmissible to Canada, with border agents denying entry to dozens of foreigners.\nAs of last November 20, CBSA denied 78 individuals' entry into Canada, following a review of roughly 17,800 visa applications for potential inadmissibility.\nTehran notably sponsored the October 7 attacks in Israel by Hamas, which left 1,200 Israeli nationals dead, including several dual-Canadian citizens, and orchestrated a plot to kill Irwin Cotler, a former Liberal MP and outspoken critic of the regime.\nThe IRGC, a paramilitary organization backing Tehran, shot down Ukraine Airlines Flight 752 on January 8, 2020, with two surface-to-air missiles. The strike killed all 176 people on board, including 55 Canadian citizens.\nIt is also responsible for shocking atrocities against its citizenry, including the death of Mahsa Amini for allegedly not wearing the hijab.\nConcerned lawyers and Canadians of Persian descent called on the public for tips to uncover other Iranian spies currently in the country since as many as 700 people in Canada have suspected ties to the Iranian regime.\nThe appeal follows the Trudeau government finally designating the IRGC as a “terrorist entity” this past June. Authorities began deporting individuals in July, including 16 persons who allegedly held senior roles within Iran’s government.\nThat excludes two officials, Majid Iranmanesh and Sayed Salman Samani, who already received deportation orders, of which only one has been kicked out by immigration officials.\nThe identities of other officials, excluding Amin and Arash Yousefijam, remain undisclosed under the Privacy Act, https://globalnews.ca/news/10145085/senior-iranian-official-caught-toronto-seyed-salman-samani/ Global.\n“As a matter of practice, the IRB does not provide information on any cases that are not public,” the Immigration and Refugee Board told the publication.\n[Alex Dhaliwal](/journalist_alex_dhaliwal)\nCalgary Based Journalist\nAlex Dhaliwal is a Political Science graduate from the University of Calgary. He has actively written on relevant Canadian issues with several prominent interviews under his belt.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marco Mendicino",
+                "sentiment": "none"
+            },
+            {
+                "name": "Justin Trudeau",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Canada Border Services Agency",
+                "sentiment": "none"
+            },
+            {
+                "name": "Department of Immigration",
+                "sentiment": "none"
+            },
+            {
+                "name": "Refugee Board",
+                "sentiment": "none"
+            },
+            {
+                "name": "Global News",
+                "sentiment": "none"
+            },
+            {
+                "name": "CBSA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:27:58.209+02:00",
+    "updated": "2024-11-23T01:27:58.209+02:00"
+}

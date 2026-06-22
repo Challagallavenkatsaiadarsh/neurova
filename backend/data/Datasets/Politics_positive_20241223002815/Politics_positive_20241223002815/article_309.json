@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "888c2e6afab3e29cc5466c7940fc16b7f6f37b6c",
+        "url": "https://catholicreview.org/biden-awards-former-planned-parenthood-president-the-presidential-medal-of-freedom",
+        "site_full": "catholicreview.org",
+        "site": "catholicreview.org",
+        "site_section": "https://www.catholicreview.org",
+        "site_categories": [
+            "religion",
+            "catholicism"
+        ],
+        "section_title": "Homepage - Catholic Review",
+        "title": "Biden awards former Planned Parenthood president the Presidential Medal of Freedom",
+        "title_full": "Biden awards former Planned Parenthood president the Presidential Medal of Freedom",
+        "published": "2024-11-22T16:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 61041,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "888c2e6afab3e29cc5466c7940fc16b7f6f37b6c",
+    "url": "https://catholicreview.org/biden-awards-former-planned-parenthood-president-the-presidential-medal-of-freedom",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kate Scanlon",
+    "published": "2024-11-22T16:05:00.000+02:00",
+    "title": "Biden awards former Planned Parenthood president the Presidential Medal of Freedom",
+    "text": "WASHINGTON (OSV News) \\u2014 President Joe Biden awarded Cecile Richards, former Planned Parenthood president, the Presidential Medal of Freedom Nov. 20 in a private ceremony, the White House said.\n\\nRichards, who is also a progressive activist and the daughter of the late Texas Gov. Ann Richards, left Planned Parenthood, the nation\\u2019s largest abortion provider, in 2018 after 12 years at its helm. Earlier this year, Richards said she was diagnosed with glioblastoma, an aggressive form of brain cancer, and the same type of cancer behind the death of Biden\\u2019s son Beau.\n\\nIn a post on X, formerly Twitter, Biden said, \\u201cToday, I had the honor of awarding Cecile Richards the Presidential Medal of Freedom.\\u201d\n\\n\\u201cWith absolute courage, she fearlessly leads us forward to be the America we say we are \\u2014 a nation of freedom,\\u201d he said. \\u201cThrough her work to lift up the dignity of workers, defend and advance women\\u2019s reproductive rights and equality, and mobilize Americans to exercise their power to vote, she has carved an inspiring legacy.\\u201d\n\\nThe award is the nation\\u2019s highest civilian honor. Father Greg Boyle, a Jesuit priest who is the founder and director of Homeboy Industries, and former House Speaker Nancy Pelosi were among the 19 Americans to whom Biden gave the award earlier this year.\n\\nRichards replied in her own post, \\u201cSuch an honor representing abortion rights and the need for health care for all.\\u201d\n\\nBiden, who was previously the first Catholic vice president, and later became the second Catholic president in U.S. history, has been at odds with the U.S. bishops over his administration\\u2019s policies on abortion and gender identity. However, he has won some bishops\\u2019 praise on other policy areas, such as those on refugees and climate. His policies on immigration have drawn mixed responses from them.\n\\nThe Catholic Church teaches that all human life is sacred from conception to natural death, and therefore opposes direct abortion. After the U.S. Supreme Court\\u2019s 2022 ruling in Dobbs v. Jackson Women\\u2019s Health Organization, church officials in the United States have reiterated the church\\u2019s concern for both mother and child. They have called to strengthen available support for those living in poverty or other causes that can push women toward having an abortion.\n\\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Biden",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Cecile Richards",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ann Richards",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:49:50.123+02:00",
+    "updated": "2024-11-23T01:49:50.123+02:00"
+}

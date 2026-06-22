@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "2b211866861a0391a591064bf660dac80c4437b7",
+        "url": "https://www.abc10.com/article/news/local/fulton-el-camino-park-police-department-disbanded/103-d79f18fc-52c1-4f2a-8d50-b3f2ad4eb0aa",
+        "site_full": "www.abc10.com",
+        "site": "abc10.com",
+        "site_section": "https://events.abc10.com/local",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Sacramento Local News | Sacramento&#x27;s source for Local News, Sports, Weather | ABC10.com | abc10.com",
+        "title": "Fulton-El Camino Park Police Department to be disbanded",
+        "title_full": "Fulton-El Camino Park Police Department to be disbanded",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.abc10.com/assets/KXTV/images/e9550a5e-7606-41e0-9c29-17e8c25d8081/20241122T211457/e9550a5e-7606-41e0-9c29-17e8c25d8081_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 9746,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b211866861a0391a591064bf660dac80c4437b7",
+    "url": "https://www.abc10.com/article/news/local/fulton-el-camino-park-police-department-disbanded/103-d79f18fc-52c1-4f2a-8d50-b3f2ad4eb0aa",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andie Judson",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Fulton-El Camino Park Police Department to be disbanded",
+    "text": "A police department overseeing and protecting dozens of parks in Sacramento County will be disbanded. [The Fulton-El Camino Park District was at the center of a recent ABC10 investigation](/article/news/investigations/local-park-police-face-uncertain-future-leadership-rakes-high-salaries/103-12c85923-eeaf-4cca-b325-b3c855641c90). The reporting uncovered how the park district claims it can’t afford its police unit yet pays record-breaking salaries to members of its management. At a special meeting Thursday night, community members criticized how the district runs its department, saying they could’ve addressed them years ago, and voiced concern over the disbandment of the department as well as the meeting’s short notice. “They do more than just patrol parks. They work with our residents and alleviate fears. I am here this evening to implore you not to terminate the police services,” said Mike Heller, the general manager of the Rio Linda Park District. “I’m just appalled that there was no notice sent out sooner, and there wasn’t any time for anybody to find out about this,” said Charles Moore, the vice chair of the Rio Linda Park District. In a 4-1 vote, the board decided to disband the police department by terminating its final contracts with park districts. The Sacramento County Sheriff’s Office will still oversee the areas. Sources tell ABC10 it will be effective Dec. 31. Advocates for the park police are concerned as the sheriff’s office is currently short-staffed and responsible for overseeing the entire county. They worry park calls won’t be a priority, leading to an increase in crime. WATCH MORE ON ABC10: Local park police face uncertain future as leadership rakes in high salaries",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://youtu.be/ZYGbfQd8n8g",
+        "https://www.youtu.be/ZYGbfQd8n8g"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Heller",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Park District",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:14:24.080+02:00",
+    "updated": "2024-11-23T04:32:04.737+02:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "88f641c0ebb44965a3dad744baad3735a965faa8",
+        "url": "https://www.thestar.com.my/news/nation/2024/11/24/pm-anwar-to-strengthen-malaysia-south-korea-ties-during-official-visit",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Latest news clusters for en",
+        "title": "PM Anwar to strengthen Malaysia-South Korea ties during official visit",
+        "title_full": "PM Anwar to strengthen Malaysia-South Korea ties during official visit",
+        "published": "2024-11-24T07:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/24/3032798.jpg",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "88f641c0ebb44965a3dad744baad3735a965faa8",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/24/pm-anwar-to-strengthen-malaysia-south-korea-ties-during-official-visit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Star Online",
+    "published": "2024-11-24T07:01:00.000+02:00",
+    "title": "PM Anwar to strengthen Malaysia-South Korea ties during official visit",
+    "text": "PUTRAJAYA: Datuk Seri Anwar Ibrahim will undertake an official visit to South Korea from November 24 to 26 to further strengthen bilateral ties as the two nations prepare to celebrate 65 years of diplomatic relations in 2025.\nIn a statement, the Foreign Ministry said the Prime Minister’s first official visit to South Korea since assuming office in November 2022, was at the invitation of South Korean President Yoon Suk Yeol.\nThe ministry stated that during the visit, Anwar was scheduled to hold a bilateral meeting with Yoon at the Yongsan Presidential Office.\n\"Both leaders will take stock of Malaysia-South Korea bilateral relations that have significantly progressed, in scope and substance, since the establishment of diplomatic ties in 1960.\n\"They are also expected to discuss regional and international issues of mutual concern, and exchange views on Malaysia’s Chairmanship of ASEAN and South Korea’s Chairmanship of Asia-Pacific Economic Cooperation (Apec), in 2025,” the statement read.\nAccording to the Foreign Ministry, Anwar and Yoon will witness the exchange of three Memoranda of Understanding on Cooperation in the Field of Higher Education, Cooperation in the Field of Carbon Capture and Storage, and Cooperation in Cooperative Approaches (under Article 6, Paragraph 2 of the Paris Agreement).\nAnwar was also scheduled to attend the Malaysia-South Korea Business Forum and meet with captains of industry from major South Korean companies.\nAdditionally, the prime minister is set to deliver a special address titled \"Strategic Partners in a Complex World: Malaysia, Korea, and the Future of Asia” at the Seoul National University.\nHe will be accompanied by Foreign Minister Mohamad Hasan, Investment, Trade and Industry Minister Tengku Zafrul Abdul Aziz, Science, Technology and Innovation Minister Chang Li Kang, National Unity Minister Aaron Ago Dagang, and senior government officials.\nFrom January to September this year, Malaysia's trade with South Korea was valued at RM81.61bil (US$17.63bil). From 1980 to June 2024, a total of 392 manufacturing projects with South Korean participation have been implemented with total investment worth RM43.10bil (US$11.50bil).\nIn 2023, South Korea was Malaysia’s 8th largest trading partner with trade valued at RM111.07bil (US$24.35bil). Malaysia was South Korea’s third largest trading partner among Asean member states and 12th largest globally.\nMalaysia and South Korea will celebrate the 65th anniversary of the establishment of diplomatic relations in 2025.- Bernama\nOpen Modal × Tags / Keywords: Anwar Ibrahim , South Korea , Malaysia , Bilateral ties , Official visit\nFound a mistake in this article? Report it to us.\nWhat is the issue about? Spelling and grammatical error Factually incorrect Story is irrelevant This field is mandatory This field is mandatory Email (optional) Please enter valid email. Report issue Report issue Cancel Invalid captcha response. Please re-try again. Thank you for your report!\nRelated News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Datuk Seri Anwar Ibrahim",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Yoon Suk Yeol",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Yongsan Presidential Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "Foreign Ministry",
+                "sentiment": "none"
+            },
+            {
+                "name": "ASEAN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Apec",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PUTRAJAYA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Malaysia-South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:25:33.376+02:00",
+    "updated": "2024-11-24T07:52:23.634+02:00"
+}

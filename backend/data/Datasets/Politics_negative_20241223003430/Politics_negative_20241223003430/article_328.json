@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "479f305183eeb9181cc9ed0826e27f3f0b54e9c5",
+        "url": "https://www.newswest9.com/article/news/crime/former-valentine-isd-employee-pleads-guilty-stealing-federal-funds/513-a8be05af-ff7e-4257-a78a-e7440d114b67",
+        "site_full": "www.newswest9.com",
+        "site": "newswest9.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Former Valentine ISD employee pleads guilty for stealing federal funds",
+        "title_full": "Former Valentine ISD employee pleads guilty for stealing federal funds",
+        "published": "2024-11-22T23:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.newswest9.com/assets/KWES/images/37d33149-1b1b-4382-a01a-888dc88e35c0/37d33149-1b1b-4382-a01a-888dc88e35c0_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 38149,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "479f305183eeb9181cc9ed0826e27f3f0b54e9c5",
+    "url": "https://www.newswest9.com/article/news/crime/former-valentine-isd-employee-pleads-guilty-stealing-federal-funds/513-a8be05af-ff7e-4257-a78a-e7440d114b67",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Darrell Ponder",
+    "published": "2024-11-22T23:19:00.000+02:00",
+    "title": "Former Valentine ISD employee pleads guilty for stealing federal funds",
+    "text": "ALPINE, Texas — Forty-three-year-old Ernesto Villarreal Jr., of Marfa, has pled guilty to stealing federal funds, according to a news release from the United States Attorney's Office Western District of Texas.\nThe release stated Villarreal was employed as a business manager and served as the tax collector and assessor for Valentine ISD, in Valentine, Texas.\n\"Villarreal schemed to defraud Valentine ISD by using two ISD credit cards to make hundreds of unauthorized purchases, issuing over $10,000 in unauthorized checks to himself from Valentine ISD accounts,\" according to the news release.\nThe release also states that Villarreal issued over $20,000 in checks to cover personal expenses owed to a credit card company.\nVillarreal also changed current and former employees bank account information.\nAccording to the release, after changing this bank information, Villarreal distributed over $100,000 of fraudulent payments to those same current and former employees for work that never occurred. That money actually went directly to Mr. Villarreal's bank account.\nWith these newly acquired funds, Villarreal used these funds for hundreds of personal purchases including but not limited to travel, lodging, home improvement, hardware store purchases, his own cellphone bill, fuel, oil changes and other lifestyle purchases.\nIt is believed that Villareal caused $300,000 of losses to Valentine ISD.\nThe news release stated that Villarreal pled guilty to one count of theft concerning programs receiving federal funds and eight counts of wire fraud. The scheduled date of sentencing is Feb. 21, 2025.\nHe can face up to 10 years in prison for the theft count and up to 20 years in prison for each wire fraud count.\nRELATED: Former Valentine ISD employee arrested for allegedly stealing school funds\nClose Ad",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Villarreal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Marfa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:38:34.409+02:00",
+    "updated": "2024-11-28T08:44:51.488+02:00"
+}

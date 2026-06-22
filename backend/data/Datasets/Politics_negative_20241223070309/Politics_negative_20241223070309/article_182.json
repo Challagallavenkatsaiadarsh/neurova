@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "ec1fb37a73c1bd6f0416c314c2f8b0ae8370bec3",
+        "url": "https://www.breitbart.com/2024-election/2024/11/22/report-wapo-axes-senior-politics-editor-following-trumps-reelection",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "http://breitbart.com/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "title": "Report: WaPo Axes Senior Politics Editor Following Trump's Reelection",
+        "title_full": "Report: WaPo Axes Senior Politics Editor Following Trump's Reelection",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 2,
+        "participants_count": 3,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2024/11/GettyImages-1144039297-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1703,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ec1fb37a73c1bd6f0416c314c2f8b0ae8370bec3",
+    "url": "https://www.breitbart.com/2024-election/2024/11/22/report-wapo-axes-senior-politics-editor-following-trumps-reelection",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amy Furr",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Report: WaPo Axes Senior Politics Editor Following Trump's Reelection",
+    "text": "The Washington Post ‘s senior politics editor claims the newspaper removed him on Monday, and it remains unknown if he will stay with the publication.\nIn a reported email, Dan Eggen said he was “crushed” by the news, the New York Post reported Thursday.\nThe outlet continued:\n“I struggled with how to write this message since there is an element of begging to it that is not particularly attractive. But what the hey: I was informed Monday that I will be removed as senior politics editor at the end of the year. I will leave it to others to explain why,” the email said.\n…\nHis dismissal as politics editor comes as WaPo scrambles to come to grips with Donald Trump’s return to the White House.\nThe report comes after the Washington Post ‘s editor-at-large Robert Kagan resigned from his job in October once the newspaper said it would not endorse Vice President Kamala Harris (D) in the presidential election that Trump later won, per Breitbart News.\nBreitbart News reported on October 30 that the Washington Post lost 250,000 subscribers after its decision not to endorse a presidential candidate.\nThe paper’s owner, Jeff Bezos, wrote in an op-ed, “What presidential endorsements actually do is create a perception of bias. A perception of non-independence. Ending them is a principled decision, and it’s the right one.”\nBezos, who founded Amazon, later offered Trump a “big congratulations” in a social media post after Trump won reelection.\n“Big congratulations to our 45th and now 47th President on an extraordinary political comeback and decisive victory,” Bezos wrote.\n“No nation has bigger opportunities. Wishing @realDonaldTrump all success in leading and uniting the America we all love,” he added.\nThe Breitbart News piece also reported that “Bezos has several large contracts with the U.S. government.”\nIt is interesting to note that the recent New York Post article said Bezos “reportedly wants to hire more conservative opinion writers.”\n2024 Election Media Pre-Viral Donald Trump Jeff Bezos Jobs Kamala Harris Newspaper Washington Post",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://nypost.com/2024/11/21/media/washington-post-abruptly-ousts-politics-editor-dan-eggen-after-trump-win-report/",
+        "https://www.nypost.com/2024/11/21/media/washington-post-abruptly-ousts-politics-editor-dan-eggen-after-trump-win-report/",
+        "https://nypost.com/2024/11/21/media/washington-post-abruptly-ousts-politics-editor-dan-eggen-after-trump-win-report"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kamala Harris",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robert Kagan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Eggen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Washington Post",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Breitbart News",
+                "sentiment": "none"
+            },
+            {
+                "name": "New York Post",
+                "sentiment": "none"
+            },
+            {
+                "name": "WaPo",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ec1fb37a73c1bd6f0416c314c2f8b0ae8370bec3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:23:24.364+02:00",
+    "updated": "2024-11-23T00:23:24.364+02:00"
+}

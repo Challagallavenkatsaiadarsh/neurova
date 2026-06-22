@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "3abe9be4821fe3d9730244abc79699a81ce76431",
+        "url": "https://www.fox9.com/news/dfl-house-rep-tabke-declares-victor-scott-county-recount",
+        "site_full": "www.fox9.com",
+        "site": "fox9.com",
+        "site_section": "https://fox9.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | FOX 9 Minneapolis-St. Paul",
+        "title": "DFL House Rep. Tabke declares victory after Scott County recount | FOX 9 Minneapolis-St. Paul",
+        "title_full": "DFL House Rep. Tabke declares victory after Scott County recount | FOX 9 Minneapolis-St. Paul",
+        "published": "2024-11-23T01:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/11/1280/720/11_21_24-recount-scott-county-raw-rlw_00.11.36.18.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 8368,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3abe9be4821fe3d9730244abc79699a81ce76431",
+    "url": "https://www.fox9.com/news/dfl-house-rep-tabke-declares-victor-scott-county-recount",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX 9",
+    "published": "2024-11-23T01:10:00.000+02:00",
+    "title": "DFL House Rep. Tabke declares victory after Scott County recount | FOX 9 Minneapolis-St. Paul",
+    "text": "The Brief Incumbent Rep. Brad Tabke (DFL-Shakopee) declared victory the morning after a recount for Minnesota House District 54A. The result means Minnesota will have a tied state House in January. Rep. Tabke increased his lead by one more vote following the recount. SHAKOPEE, Minn. (FOX 9) - Incumbent Rep. Brad Tabke (DFL-Shakopee) released a statement declaring victory in the race for Minnesota House race 54A, which includes Shakopee and part of Scott County .\nREAD MORE: Recount confirms likely DFL win, tie in MN House What we know A ballot recount was held Thursday at the Scott County Government Center after Rep. Tabke initially led the race by just 14 votes.\nThe recount resulted in Rep. Tabke increasing his lead to 15 votes.\nScott County election officials recounted almost 22,000 ballots by hand and under scrutiny following the close results.\nThe DFL victory in House District 54A will preserve the even split between the parties when the legislature reconvenes in January.\nWhat they're saying Rep. Tabke released a statement Friday morning that partially read, \"With the results of the hand recount completed, I’m glad to see our victory confirmed. Over the last 15 days, many people in Scott County and Shakopee have worked hard to make sure every ballot was counted, and every voter’s voice was heard. I thank all of them for their work and dedication to keeping our elections fair and free.\"\n\"Representative Tabke sits at 10,980. Mr. Paul sits at 10,965 with four ballots outstanding — four challenges,\" said Scott County Election Chief Julie Hanson on Thursday.\nBackground Four challenged ballots are included in the preliminary results announced late Thursday afternoon, so the final numbers could still change, but not enough to swing a 15-vote race away from DFL incumbent Brad Tabke to Republican challenger Aaron Paul.\nTabke gained seven votes on Thursday while Paul gained six as judges counted ballots on which the voter may have incorrectly marked their choices.\nMeanwhile, there’s still some mystery about 20 people who checked in to vote but whose ballots don’t appear in the totals.\nREAD MORE: Mystery cloaks MN House race as recount approaches At this point, the county elections office has no explanation.\n\"What I can tell you is we are still looking into that,\" Hanson said. \"We are still investigating.\"\nThe county canvassing board meets on Monday to decide those challenges and confirm the totals.\nAfter that, GOP lawyers will decide whether the mystery is enough to file a lawsuit.\nThe Source An announcement from Rep. Tabke's office and past FOX 9 reporting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brad Tabke",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DFL House",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott County Government Center",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Scott County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:28:21.493+02:00",
+    "updated": "2024-11-28T03:32:47.533+02:00"
+}

@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "ab64cf798480a8472e09d2078d6369cbf5c60670",
+        "url": "https://www.newsbreak.com/tampa-bay-times-560300/3685891723140-florida-surgeon-general-opposes-fluoride-in-water-as-he-is-eyed-for-trump-admin",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/tampa-bay-times-560300",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Tampa Bay Times&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T21:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0f23Ua_0wxztdFd00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ab64cf798480a8472e09d2078d6369cbf5c60670",
+    "url": "https://www.newsbreak.com/tampa-bay-times-560300/3685891723140-florida-surgeon-general-opposes-fluoride-in-water-as-he-is-eyed-for-trump-admin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T21:18:00.000+02:00",
+    "title": "",
+    "text": "By Romy Ellenbogen ,\n2 hours ago After many of the nation's respected medical experts scoffed at Florida Surgeon General Dr. Joseph Ladapo's non-peer-reviewed study conducted by unnamed researchers, Ladapo went on Steve Bannon's talk show to make his case. Bannon is awaiting sentencing on contempt charges. Florida’s Surgeon General on Friday recommended against putting fluoride in the water, guidance that comes amid speculation he is being eyed for a position in President Donald Trump’s administration.\nTrump has already appointed his top health official, Robert F. Kennedy Jr., who has been an outspoken opponent of adding fluoride to drinking water.\nBut Florida’s Surgeon General Joseph Ladapo has been considered for either head of the Centers for Disease Control and Prevention, the nation’s Surgeon General or assistant secretary for health under Kennedy, according to Politico.\nGov. Ron DeSantis, who appointed Ladapo in 2021, has said he wanted to see Ladapo be the head of the Department of Health and Human Services. Like Kennedy, Ladapo has been skeptical of COVID-19 vaccines, going against the scientific majority’s view.\nLadapo said he was recommending against fluoride in the water because of the “neuropsychiatric risk associated with fluoride exposure” and cited the wide availability of fluoride through other means, like toothpastes, mouthwash and in-office dental applications.\n“It is clear more research is necessary to address safety and efficacy concerns regarding community water fluoridation,” Ladapo said in a statement. “The previously considered benefit of community water fluoridation does not outweigh the current known risks, especially for special populations like pregnant women and children.”\nMajor medical organizations in the U.S., including the American Dental Association, the American Academy of Pediatrics and the CDC, support adding fluoride to water. Dental groups say it reduces tooth decay and helps younger children develop healthy permanent teeth.\nRecent studies that show possible links between fluoride and some health concerns often involve fluoride consumed in excess or have thin evidence and require further study, according to medical and public health experts.\n70% of people in Florida are on community water systems that add fluoride, according to the Department of Health, which on Friday updated a page to list all of the statewide water systems participating.\nWater fluoridation in the United States has been happening since the 1940s, and was recommended by the federal public health service officially in 1962. As of 2022, about 72% of the U.S. population has water systems that are fluoridated.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=0f23Ua_0wxztdFd00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0f23Ua_0wxztdFd00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=0f23Ua_0wxztdFd00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0f23Ua_0wxztdFd00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Romy Ellenbogen",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joseph Ladapo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ron DeSantis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Steve Bannon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Centers for Disease Control and Prevention",
+                "sentiment": "none"
+            },
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:04:09.385+02:00",
+    "updated": "2024-11-23T00:04:09.385+02:00"
+}

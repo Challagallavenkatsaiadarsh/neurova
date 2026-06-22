@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "8658e66edc20b233c019092851da3ca153c9efcf",
+        "url": "https://www.schoolbusfleet.com/10231987/ny-city-improves-road-safety-with-required-telematics",
+        "site_full": "www.schoolbusfleet.com",
+        "site": "schoolbusfleet.com",
+        "site_section": "https://www.schoolbusfleet.com/rss",
+        "site_categories": [
+            "media",
+            "education"
+        ],
+        "section_title": "School Bus Fleet",
+        "title": "New York City Improves Road Safety with Required Telematics",
+        "title_full": "New York City Improves Road Safety with Required Telematics",
+        "published": "2024-11-23T03:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://fleetimages.bobitstudios.com/upload/school-bus-fleet/content/news/2024-11/20241122-nyc-school-bus-telematics-__-1200x630-s.jpg",
+        "performance_score": 0,
+        "domain_rank": 135592,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8658e66edc20b233c019092851da3ca153c9efcf",
+    "url": "https://www.schoolbusfleet.com/10231987/ny-city-improves-road-safety-with-required-telematics",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff and News Reports",
+    "published": "2024-11-23T03:52:00.000+02:00",
+    "title": "New York City Improves Road Safety with Required Telematics",
+    "text": "New York City Mayor Eric Adams recently issued Executive Order 39, which outlines a comprehensive approach to addressing truck and bus safety for the city’s fleet and contracted units. One of the required technologies agencies are adopting under Executive order 39 is telematics.\nWith the telematic technology, New York City’s fleet vehicles will be able to better monitor driver habits including driving speeds and seatbelt use. While the telematic requirements are just now expanding to all government vehicles in New York City, schools in the area were already required to utilize the technology on their vehicles.\nThe data that is being collected includes information on speed, breaking patterns, seatbelt use, and acceleration. With this data, the New York Department of Citywide Administrative Services will be able to produce a safer municipal fleet.\nA command center for the more than 29,000 city vehicles, including 10,000 school buses, has been established to manage the telematics.\nDrivers that are recorded going 25 miles above the speed limit will receive an email along with their supervisor. The speed threshold was chosen to identify behaviors that created a clear danger and liability. Since implemented, excessive speeding in city vehicles has been reduced by 70%.\nCommissioners with city vehicles also receive monthly reports on safety indicators such as hard breaking and seatbelt use. The reports contain a list of high and moderate risk drivers as well.\nThe city is focusing on outliers to ensure safety across the city. Drivers with excessive speeding issues or records of slamming on the breaks frequently receive training.\nAs part of the data-driven effort, New York City has partnered with Volpe to fit vehicles with additional safety features such as surround cameras, up-to-date mirrors, driver alert systems, and automatic emergency braking systems. Since this started, crashes are reported to be down 28%.\nThe program is also helping financially by helping employees prevent unjustified claims against them and by making the roads safer.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:16:11.026+02:00",
+    "updated": "2024-11-23T05:16:11.026+02:00"
+}

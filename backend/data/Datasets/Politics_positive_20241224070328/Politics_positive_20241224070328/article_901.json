@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "0291f2f52b4661f8f384814ae7e28de8f0525b72",
+        "url": "https://www.aa.com.tr/en/africa/somali-parliament-passes-election-legislation-for-universal-suffrage/3402516",
+        "site_full": "www.aa.com.tr",
+        "site": "aa.com.tr",
+        "site_section": "https://www.aa.com.tr/en/rss/default?cat=live",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news_tr",
+            "top_news"
+        ],
+        "section_title": "Anadolu Ajansı Güncel Haberler",
+        "title": "Somali parliament passes election legislation for universal suffrage",
+        "title_full": "Somali parliament passes election legislation for universal suffrage",
+        "published": "2024-11-24T04:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/24/thumbs_b_c_cebd8e1ec24b7560a8d5bb8bd662d9a0.jpg?v=081014",
+        "performance_score": 0,
+        "domain_rank": 1762,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0291f2f52b4661f8f384814ae7e28de8f0525b72",
+    "url": "https://www.aa.com.tr/en/africa/somali-parliament-passes-election-legislation-for-universal-suffrage/3402516",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T04:08:00.000+02:00",
+    "title": "Somali parliament passes election legislation for universal suffrage",
+    "text": "MOGADISHU, Somalia\nSomalia's parliament on Saturday passed a bill on election amendments, moving to universal suffrage after decades of clan-based voting system.\nThe law which allows a one-person-one-vote and replaces the complex indirect voting system currently in place, was voted by 169 lawmakers in favor, two against and one member abstaining.\nThe East African country has an indirect electoral system, where clan delegates select the members of national parliament, which then chooses the president.\nUnder the new system, the president will be elected directly. The next presidential election is scheduled for 2026.\nThe amendments have also created a multi-party system with three political parties.\nDespite opposition from Puntland and Juba states, and former presidents, President Hassan Sheikh Mohamud, elected by lawmakers in 2022, had announced in late October that political parties agreed on the framework for universal suffrage.\nAnadolu Agency website contains only a portion of the news stories offered to subscribers in the AA News Broadcasting System (HAS), and in summarized form. Please contact us for subscription options.\nUK, France, Germany, US welcome UN nuclear watchdog’s board resolution on Iran's Safeguards Agreements\nTens of thousands of homes without power as severe weather strikes England, Wales\nTurkish, Russian foreign ministers discuss bilateral relations over phone\nİstanbul Photo Awards provides extra motivation to document what is happening in world: Young Photographer Award winner",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Anadolu Agency",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Puntland",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:35:09.605+02:00",
+    "updated": "2024-11-24T07:35:09.605+02:00"
+}

@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "6b08c313746a060637c18c552ced130139c1b67e",
+        "url": "https://www.lokmattimes.com/international/indian-national-indicted-for-illegal-export-of-us-aviation-components-to-russia",
+        "site_full": "www.lokmattimes.com",
+        "site": "lokmattimes.com",
+        "site_section": "https://www.lokmattimes.com/latest-news",
+        "site_categories": [],
+        "section_title": "Latest News Headlines - Get Today's Breaking News Updates & Information related to India, World, Politics, Sports, Cricket, Business, Entertainment & Technology at Lokmat Times",
+        "title": "Indian national indicted for illegal export of US aviation components to Russia",
+        "title_full": "Indian national indicted for illegal export of US aviation components to Russia",
+        "published": "2024-11-22T23:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20241122234402_202411.jpg",
+        "performance_score": 0,
+        "domain_rank": 42238,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6b08c313746a060637c18c552ced130139c1b67e",
+    "url": "https://www.lokmattimes.com/international/indian-national-indicted-for-illegal-export-of-us-aviation-components-to-russia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/author/ani/",
+    "published": "2024-11-22T23:14:00.000+02:00",
+    "title": "Indian national indicted for illegal export of US aviation components to Russia",
+    "text": "Indian national indicted for illegal export of US aviation components to Russia\nBy [ANI](/author/ani/) | Published: November 23, 2024 05:14 AM2024-11-23T05:14:54+5:302024-11-23T05:15:03+5:30\nOregon [US], November 23 : In the District of Oregon, Sanjay Kaushik, a 57-year-old Indian national, has been indicted ...\nOregon [US], November 23 : In the District of Oregon, Sanjay Kaushik, a 57-year-old Indian national, has been indicted for conspiring to unlawfully export aviation components with dual civilian and military applications to Russian entities, violating the Export Control Reform Act, according to a press release by the US Department of Justice.\nThe charges include attempting to illegally export a navigation and flight control system from Oregon to Russia via India and making false statements regarding the export. Kaushik was arrested in Miami, Florida, on October 17, following a criminal complaint and a warrant issued by the District of Oregon.\nCourt documents reveal that Kaushik, along with co-conspirators, began plotting as early as March 2023after Russia's full-scale invasion of Ukraineto procure aerospace goods and technology from the US under false pretences. They claimed the goods were intended for Kaushik's Indian company, but their actual destination was Russian end users.\nIn one instance, Kaushik and his associates acquired an Attitude Heading Reference System (AHRS), a critical component for aircraft navigation and flight control, from an Oregon supplier, the press release stated.\nExporting such components to restricted countries, including Russia, requires a licence from the US Department of Commerce.\nTo obtain the licence, the conspirators falsely claimed that Kaushik's Indian company was the end user and that the AHRS would be used in a civilian helicopter. However, the component was intercepted before leaving the US.\nIf convicted, Kaushik faces severe penalties, including up to 20 years in prison and fines of USD 1 million per count. The final sentence will be determined by a federal district court judge, considering statutory factors and US Sentencing Guidelines.\nThe case was announced by Assistant Attorney General Matthew G. Olsen of the Justice Department's National Security Division, Assistant Secretary for Export Enforcement Matthew S. Axelrod of the Department of Commerce Bureau of Industry and Security (BIS), and US Attorney Natalie K. Wight for the District of Oregon.\nBIS Portland is leading the investigation, with the prosecution being handled by Assistant US Attorney Gregory R. Nyhus for the District of Oregon and Trial Attorneys Joshua E. Kurland and Dallas J. Kaplan from the National Security Division's Counterintelligence and Export Control Section, the press release stated.\nThis investigation is part of Task Force KleptoCapture, an interagency task force established on March 2, 2022, to enforce sanctions, export controls, and economic measures imposed in response to Russia's unprovoked invasion of Ukraine.\nThe task force employs the Justice Department's full range of tools to counter efforts aimed at undermining collective sanctions against Russian aggression.\nDisclaimer: This post has been auto-published from an agency feed without any modifications to the text and has not been reviewed by an editor\n[Open in app](https://www.lokmattimes.com/install_app.htm?utm_source=www.lokmattimes.com&utm_medium=open_in_app&launch_url=https://www.lokmattimes.com/international/indian-national-indicted-for-illegal-export-of-us-aviation-components-to-russia/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sanjay Kaushik",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "US Department of Justice",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "6b08c313746a060637c18c552ced130139c1b67e",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:54:25.212+02:00",
+    "updated": "2024-11-23T01:54:25.212+02:00"
+}

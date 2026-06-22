@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "c4ea730f6d9077db04392fb6c234f7d3eb9485f6",
+        "url": "https://thehill.com/policy/defense/5006548-former-defense-secretary-women-vital-in-combat",
+        "site_full": "thehill.com",
+        "site": "thehill.com",
+        "site_section": "https://www.breakn.news",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "top_news_au",
+            "top_news_us",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Breaking News and Headlines &#x2d; Sports, blog, weather, business",
+        "title": "Former Defense secretary: Women ‘vital’ in combat",
+        "title_full": "Former Defense secretary: Women ‘vital’ in combat",
+        "published": "2024-11-24T00:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 585,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 6,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c4ea730f6d9077db04392fb6c234f7d3eb9485f6",
+    "url": "https://thehill.com/policy/defense/5006548-former-defense-secretary-women-vital-in-combat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T00:20:00.000+02:00",
+    "title": "Former Defense secretary: Women ‘vital’ in combat",
+    "text": "\\n\nUSA TODAY \\u2013 For more and to sign up click here\n\\n\nJuliann Ventura\n\\n\n\\nFormer Defense Secretary William Cohen underscored the importance of having women in the military, including in combat roles, as President-elect Trump\\u2019s pick for Defense secretary has come under fire for suggesting women should be removed from certain military positions.\n\\n\\u201cWomen in combat today, they are vital to our defense, and it\\u2019s not as if we\\u2019re having Gladiator 2 types of confrontation, but rather, we have women who are high-performing aircraft pilots\\u2026 they\\u2019re sailing our ships, they\\u2019re flying our helicopters. They\\u2019re engaged in combat in every sense of the word,\\u201d Cohen, who served under the Clinton administration, told CNN\\u2019s Jim Sciutto on Saturday.\n\\nCohen added that he thinks Trump\\u2019s pick, Pete Hegseth, could face an uphill battle during the Senate confirmation hearing for the Defense secretary position over his remarks about pulling women out of combat roles.\n\\n\\u201cI think to pull them out would be something that would be of concern to the United States Senate during the confirmation,\\u201d Cohen added.\n\\nCohen also suggested that women should take on key roles related to cybersecurity within the military.\n\\n\\u201cWe need to have women assume critical areas of responsibility in our war-fighting capability. And the wars now are fought more on Apple computer boards than they are in terms of on the battlefield themselves [\\u2026] we\\u2019re fighting a different kind of war today, and women are critical to that.\\u201d\n\\nHegseth\\u2019s confirmation is also complicated by sexual assault allegations leveled against him, though many GOP senators are projecting optimism that he will be confirmed.\n\\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Juliann Ventura",
+                "sentiment": "negative"
+            },
+            {
+                "name": "William Cohen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pete Hegseth",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jim Sciutto",
+                "sentiment": "none"
+            },
+            {
+                "name": "Clinton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:37:10.933+02:00",
+    "updated": "2024-11-24T01:37:10.933+02:00"
+}

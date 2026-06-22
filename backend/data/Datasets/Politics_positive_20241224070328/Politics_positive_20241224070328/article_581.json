@@ -1,0 +1,145 @@
+{
+    "thread": {
+        "uuid": "25ec05bb8ef37c06c1a01ef5881a29baf8c9b080",
+        "url": "https://timesofindia.indiatimes.com/city/patna/bihar-bypolls-nda-hits-4-in-state-registers-clean-sweep/articleshow/115615762.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Bihar bypolls: NDA hits 4 in state, registers clean sweep",
+        "title_full": "Bihar bypolls: NDA hits 4 in state, registers clean sweep",
+        "published": "2024-11-24T04:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115615817,width-1070,height-580,imgsize-77334,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "25ec05bb8ef37c06c1a01ef5881a29baf8c9b080",
+    "url": "https://timesofindia.indiatimes.com/city/patna/bihar-bypolls-nda-hits-4-in-state-registers-clean-sweep/articleshow/115615762.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Madan Kumar",
+    "published": "2024-11-24T04:24:00.000+02:00",
+    "title": "Bihar bypolls: NDA hits 4 in state, registers clean sweep",
+    "text": "PATNA: Bihar's ruling National Democratic Alliance (NDA) swept the bypolls to four assembly constituencies on Saturday, retaining Imamganj and capturing Tarari, Ramgarh and Belaganj from the INDIA bloc. This triumph ahead of the 2025 assembly elections gives the NDA a major boost. Election strategist Prashant Kishor's party, Jan Suraaj, which contested its first election, faced a major setback, failing to win any seat and unable to save its deposits in three constituencies.Except for Imamganj, where Jan Suraaj's candidate Jitendra Paswan garnered over 22% of the votes, the party struggled in the other three constituencies. In Tarari, Ramgarh and Belaganj, Kishor's candidates secured less than 4% of the votes in Tarari and Ramgarh and 10.66% in Belaganj. The most significant blow for the RJD-led INDIA bloc came in Belaganj, a seat it had held since the 1990s, which was lost to CM Nitish Kumar's JD(U).Of the four seats, two went to the BJP, while JD(U) and HAM-S claimed one each. Vishal Prashant of the BJP won in Tarari, while Ashok Kumar Singh won in Ramgarh. JD(U)'s Manorama Devi triumphed in Belaganj and Deepa Kumari, daughter-in-law of Union Minister Jitan Ram Manjhi, secured the Imamganj seat, traditionally considered the stronghold of her family.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Manorama Devi tri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ashok Kumar Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vishal Prashant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Prashant Kishor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jitendra Paswan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nitish Kumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jan Suraaj",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Democratic Alliance",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Belaganj",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tarari",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:08:34.103+02:00",
+    "updated": "2024-12-01T17:27:46.506+02:00"
+}

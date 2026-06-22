@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "a9ed31cd2ae84576bc9975994a93542b2c87799d",
+        "url": "https://www.texastribune.org/2024/11/23/brooke-rollins-agriculture-secretary-trump",
+        "site_full": "www.texastribune.org",
+        "site": "texastribune.org",
+        "site_section": "https://feeds.texastribune.org/feeds/main/",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "The Texas Tribune",
+        "title": "Trump picks Texan Brooke Rollins to lead agriculture department",
+        "title_full": "Trump picks Texan Brooke Rollins to lead agriculture department",
+        "published": "2024-11-23T23:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://thumbnails.texastribune.org/eMjhHGBN0sUThl3tGxKn_4jNqVc=/1200x630/filters:quality(95):focal(0x0:8192x4532)/static.texastribune.org/media/files/5278df99870cefcb47bfc12be014f31e/Brooke%20Rollins%20America%20First%20REUTERS.JPG",
+        "performance_score": 0,
+        "domain_rank": 2470,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a9ed31cd2ae84576bc9975994a93542b2c87799d",
+    "url": "https://www.texastribune.org/2024/11/23/brooke-rollins-agriculture-secretary-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zach Despart",
+    "published": "2024-11-23T23:38:00.000+02:00",
+    "title": "Trump picks Texan Brooke Rollins to lead agriculture department",
+    "text": "Trump picks Texan Brooke Rollins to lead Agriculture Department\n[Sign up for The Brief](https://www.texastribune.org/newsletters/the-brief/?utm_medium=website&utm_source=trib-ads-owned&utm_campaign=trib-marketing&utm_term=inline-CTA-brief), The Texas Tribune’s daily newsletter that keeps readers up to speed on the most essential Texas news.\nPresident-elect Donald Trump on Saturday announced he would nominate Brooke Rollins to lead the Department of Agriculture, adding another Texan to his cabinet.\nRollins, who grew up in Glen Rose, is president of the America First Policy Institute, which was set up in 2021 to promote Trump’s policy initiatives after he was defeated for reelection. She previously was the CEO of the Texas Public Policy Foundation, a conservative think tank headquartered in Austin.\nRollins’ support of Trump dates back to his first campaign in 2016, when she served on his Economic Advisory Council. In a statement Saturday, Trump said that Rollins did an \"incredible job\" serving multiple policy roles in his first term.\nSeveral news organizations reported Friday that Trump intended to nominate Kelly Loeffler, who served briefly as a U.S. senator representing Georgia, for the role. But that turned out not to be true.\nTexas Agriculture Secretary Sid Miller had also been mentioned as a candidate for agriculture secretary, a position that oversees 106,000 federal employees and a budget of $213 billion.\nUSDA has tremendous sway over the nation’s food supply and the farmers who maintain it. The agency also administers benefits under the Supplemental Nutrition Assistance Program, also known as food stamps.\nTexas, despite being the most populous state controlled by Republicans, [had not been represented well](https://www.texastribune.org/2024/11/19/texas-florida-trump-republican-rivalry-paxton-gaetz/) in Trump’s early picks for senior roles in his administration.\nBut Rollins is the second Texan Trump has tapped for his cabinet in as many days. On Friday, he said his choice to lead the Department of Housing and Urban Development is [Scott Turner](https://www.texastribune.org/2024/11/22/scott-turner-nomination-housing-urban-development/), a former state Republican representative from Frisco.\nsent weekday mornings.\nTurner’s and Rollins’ positions both require Senate confirmation before becoming official.\nOther Texans selected for the new administration are U.S. Rep. John Ratcliffe for CIA director, former Hawaii U.S. Rep. Tulsi Gabbard, who now lives in Leander, for director of national intelligence, and businessman Elon Musk, whose primary residence is Cameron County, for an unpaid position leading the newly created Department of Government Efficiency.\nRobert Downen and Juan Salinas II contributed reporting.\nInformation about the authors\n[Learn about The Texas Tribune’s policies](/about/privacy-policy/), including our partnership with [The Trust Project](/about/#trust-project) to increase transparency in news.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kelly Loeffler",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Glen Rose",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas Public Policy Foundation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Department of Agriculture",
+                "sentiment": "none"
+            },
+            {
+                "name": "Economic Advisory Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:59:02.074+02:00",
+    "updated": "2024-11-29T06:30:48.119+02:00"
+}

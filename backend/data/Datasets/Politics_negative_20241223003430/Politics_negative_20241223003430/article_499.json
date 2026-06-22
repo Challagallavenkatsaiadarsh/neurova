@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "72061817750c464f102f36a1827933935307fbec",
+        "url": "https://www.jpost.com/israel-news/article-830329",
+        "site_full": "www.jpost.com",
+        "site": "jpost.com",
+        "site_section": "https://www.jpost.com/rss/rssfeedsisraelnews.aspx",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_ph",
+            "top_news_il",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news"
+        ],
+        "section_title": "JPost.com - Israel News",
+        "title": "Hamas denies rumors it would accept hostage deal without ceasefire - Israel News - The Jerusalem Post",
+        "title_full": "Hamas denies rumors it would accept hostage deal without ceasefire - Israel News - The Jerusalem Post",
+        "published": "2024-11-23T00:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/c_fill,g_faces:center,h_407,w_690/627809",
+        "performance_score": 0,
+        "domain_rank": 959,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "72061817750c464f102f36a1827933935307fbec",
+    "url": "https://www.jpost.com/israel-news/article-830329",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "jpost.com",
+    "published": "2024-11-23T00:18:00.000+02:00",
+    "title": "Hamas denies rumors it would accept hostage deal without ceasefire - Israel News - The Jerusalem Post",
+    "text": "Recent rumors indicating that Hamas might forgo a ceasefire in Gaza in order to reach a hostage deal were untrue, a Palestinian source close to the hostage deal negotiations told Israeli state broadcaster KAN on Friday.\nThe source said that Hamas would not sign any hostage deal that did not include \"guarantees of ending the war,\" the same source also said that a ceasefire in Lebanon might influence Hamas's view on the matter.\nמקור פלסטיני שמעורב במו\"מ הודה בשיחה עם ל- @eliorlevy : הפסקת אש בין ישראל לחיזבאללה עשויה להוביל לשינוי בעמדת חמאס ובתנאיו לעסקה #חדשותשישי pic.twitter.com/tlOHcMTBIv\n— כאן חדשות (@kann_news) November 22, 2024\nHamas also no longer believes that Hezbollah is committed to the war, according to the source.\nOther sources told KAN that a ceasefire in Lebanon would weaken Hamas's overall position in the negotiations. Former Hamas chief Khaled Meshaal speaks during an interview with Reuters in Doha, Qatar, October 5, 2024. (credit: REUTERS/IBRAHEEM ABU MUSTAFA) Previous rumors\nOn Thursday, security sources hinted that Hamas might be willing to allow a hostage deal without a ceasefire, saying, \"Hamas is under severe pressure; it has not surrendered, but it is probable that it is interested in an agreement.\"\nThe same source told KAN, \"We are close to a deal. Even if there is opposition in the government, the deal will go through. They accused the prime minister of not wanting a deal, but Hamas didn't want a deal. Now a deal is in Hamas's interest.\"\nA hostage deal could occur before Donald Trump takes office in January, according to the same source.\nThis would include a humanitarian pause and a 42-day ceasefire, during which as many hostages as possible would be returned.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/hashtag/%D7%97%D7%93%D7%A9%D7%95%D7%AA%D7%A9%D7%99%D7%A9%D7%99?src=hash&ref_src=twsrc%5Etfw",
+        "https://twitter.com/eliorlevy?ref_src=twsrc%5Etfw",
+        "https://twitter.com/kann_news/status/1860031514081153062?ref_src=twsrc%5Etfw",
+        "https://www.twitter.com/hashtag/%D7%97%D7%93%D7%A9%D7%95%D7%AA%D7%A9%D7%99%D7%A9%D7%99?src=hash&ref_src=twsrc%5Etfw",
+        "https://twitter.com/eliorlevy",
+        "https://twitter.com/kann_news/status/1860031514081153062",
+        "https://twitter.com/hashtag/%D7%97%D7%93%D7%A9%D7%95%D7%AA%D7%A9%D7%99%D7%A9%D7%99",
+        "https://www.twitter.com/eliorlevy?ref_src=twsrc%5Etfw",
+        "https://www.twitter.com/kann_news/status/1860031514081153062?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "72061817750c464f102f36a1827933935307fbec",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:55:22.533+02:00",
+    "updated": "2024-11-23T00:55:22.533+02:00"
+}

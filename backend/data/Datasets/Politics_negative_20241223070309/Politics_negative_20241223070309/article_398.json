@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "958c7d73d15fbb9c6cc3ee529274562a2778941e",
+        "url": "https://unn.ua/en/news/lukashenko-says-he-will-completely-cut-off-the-internet-in-belarus-in-case-of-unrest",
+        "site_full": "unn.ua",
+        "site": "unn.ua",
+        "site_section": "https://unn.com.ua/en",
+        "site_categories": [
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "Operational news of Ukraine and the World | Ukrainian National News UNN",
+        "title": "Lukashenko says he will completely cut off the Internet in Belarus in case of unrest",
+        "title_full": "Lukashenko says he will completely cut off the Internet in Belarus in case of unrest",
+        "published": "2024-11-22T23:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://unn.ua/img/2024/11/22/1732314459-2150-large.webp",
+        "performance_score": 0,
+        "domain_rank": 30765,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "958c7d73d15fbb9c6cc3ee529274562a2778941e",
+    "url": "https://unn.ua/en/news/lukashenko-says-he-will-completely-cut-off-the-internet-in-belarus-in-case-of-unrest",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olga Rozgon",
+    "published": "2024-11-22T23:28:00.000+02:00",
+    "title": "Lukashenko says he will completely cut off the Internet in Belarus in case of unrest",
+    "text": "Lukashenko says he will completely cut off the Internet in Belarus in case of unrest\nKyiv • UNN\nThe self-proclaimed president of Belarus has announced a possible complete shutdown of the Internet in the event of mass unrest during the upcoming elections. In 2020, similar restrictions were already applied with his personal authorization.\nIf mass unrest occurs during the upcoming elections in Belarus, access to the Internet will be blocked in the country. This is reported by the Belarusian media, UNN reports.\nIf it happens again, we will completely disconnect it. To be honest, it almost always happened with my permission, especially in the early stages.\"\nDetails\nAccording to him, four years ago, access to the Internet was cut off in Belarus, allegedly because of attempts by other states to interfere in the country's fate and incite mass unrest.\n\"I think they're going to turn the country upside down, and all this nonsense is going on over the Internet. What do you think, I'm going to watch and pray that you didn't send a message to someone if the country doesn't exist tomorrow?\" he said.\nLukashenko noted that his decisive actions allegedly prevented the outbreak of war in Belarus.\nI realized what we could come to. We would have had a war worse than the one in Ukraine. It would have been tougher,\n[Lukashenko reveals details of Russia's attack on Ukraine from the territory of BelarusOct 25 2024, 12:01 PM • 16574 views](/en/news/lukashenko-reveals-details-of-russias-attack-on-ukraine-from-the-territory-of-belarus)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lukashenko",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:45:55.662+02:00",
+    "updated": "2024-11-23T00:45:55.662+02:00"
+}

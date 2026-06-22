@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "40e96a38af93ce06feace3759976f7be984d2a45",
+        "url": "https://www.livemint.com/news/world/guessing-game-over-trump-s-treasury-pick-adds-to-us-bond-market-s-negative-mood-11732313966475.html",
+        "site_full": "www.livemint.com",
+        "site": "livemint.com",
+        "site_section": "https://livemint.com/technology",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_in",
+            "top_news_iq",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Technology News: Get the latest Tech News with updates and reviews on new Mobile Phones, Laptops, Gaming and other Gadgets ",
+        "title": "Guessing game over Trump’s Treasury pick adds to US bond market’s negative mood",
+        "title_full": "Guessing game over Trump’s Treasury pick adds to US bond market’s negative mood",
+        "published": "2024-11-22T21:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.livemint.com/img/2018/12/28/1600x900/News_-_world_1545994908237.jpg",
+        "performance_score": 0,
+        "domain_rank": 1340,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "40e96a38af93ce06feace3759976f7be984d2a45",
+    "url": "https://www.livemint.com/news/world/guessing-game-over-trump-s-treasury-pick-adds-to-us-bond-market-s-negative-mood-11732313966475.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@mint",
+    "published": "2024-11-22T21:49:00.000+02:00",
+    "title": "Guessing game over Trump’s Treasury pick adds to US bond market’s negative mood",
+    "text": "* Top three candidates are all ’’qualified adults,’ analysts say * Kevin Warsh leads bets for Treasury secretary role * Investors worry about Fed independence under Trump administration By Davide Barbuscia Nov 22 - Investors are hoping President-elect Donald Trump will name a Treasury secretary soon who will assuage their concerns about the Republican’s policy promises that have weighed on an already sagging U.S. government bond market. The benchmark U.S. 10-year yield, which moves inversely to bond prices, is hovering near a five-month high as traders fret about the potential for a rebound in inflation and increase in the federal budget deficit from Trump’s economic plans such as tax cuts and import tariffs. More recently, uncertainty over who will fill the Treasury role has added to investor concerns. The latest leg of the Treasury selloff is due to worries over “fiscal concerns, increased spending and Treasury secretary,” said George Catrambone, head of fixed income and trading at DWS. According to a Wall Street Journal report on Thursday, former investment banker Kevin Warsh, who served on the Federal Reserve Board, is one of Trump’s Treasury secretary candidates on the understanding that he could later become Fed chairman. That deepened uncertainty and fueled investors’ hopes that a resolution would be quick in coming. Other top candidates include investor Scott Bessent and Apollo Global Management Chief Executive Marc Rowan. Wagers on who will get the job have drawn over $5 million in bets on the Polymarket prediction platform with Warsh in the lead, followed closely by Bessent. The Treasury secretary oversees U.S. economic and tax policy, and Trump’s nominee will be tasked with carrying out his plans. As a result, the investment world, from global bond traders to U.S. corporate treasurers, is keenly interested in the individual’s economic views and the kind of counsel they will give Trump behind closed doors. Campe Goodman, Wellington Management Company fixed income portfolio manager, said yields would ease if Trump nominated a Treasury secretary who makes a point of addressing worries that key Trump policies will add to the budget deficit and inflation. “I think whoever gets is probably going to talk a little more fiscally responsible than the market expects,” he said. “I think he’ll want someone who talks somewhat responsibly.” Analysts at BMO Capital Markets said investor anxiety over the pick has been comparatively subdued because all three top contenders “fall into the category of qualified adults in the room” though the market prefers the question be settled quickly. Investors are also focused on the new administration’s position on Fed independence since central bank policy is a key factor in Treasury price moves. Trump in August said the president should have a \\\"say\\\" in Fed decisions, and according to media reports, his allies have drafted proposals to erode the Fed’s independence. \\\"I hope the Fed stays independent because that’s good for the bond market,” said Goodman. This article was generated from an automated news agency feed without modifications to text.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Warsh",
+                "sentiment": "negative"
+            },
+            {
+                "name": "George Catrambone",
+                "sentiment": "none"
+            },
+            {
+                "name": "Davide Barbuscia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wall Street Journal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fed",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:33:14.511+02:00",
+    "updated": "2024-11-23T00:36:48.191+02:00"
+}

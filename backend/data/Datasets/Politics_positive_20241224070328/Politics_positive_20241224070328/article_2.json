@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "a226b20fc15d752d452f68eb69299bd33332307d",
+        "url": "https://www.hindustantimes.com/india-news/the-rise-and-rise-of-bjp-in-maharashtra-101732398324085.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "The rise and rise of BJP in Maharashtra",
+        "title_full": "The rise and rise of BJP in Maharashtra",
+        "published": "2024-11-23T23:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/BJP-workers-celebrating-victory-in-the-city-on-Sat_1732389372650_1732398465594.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a226b20fc15d752d452f68eb69299bd33332307d",
+    "url": "https://www.hindustantimes.com/india-news/the-rise-and-rise-of-bjp-in-maharashtra-101732398324085.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Abhishek Jha",
+    "published": "2024-11-23T23:20:00.000+02:00",
+    "title": "The rise and rise of BJP in Maharashtra",
+    "text": "The Mahayuti alliance of the Bharatiya Janata Party (BJP), the Shiv Sena, and the Nationalist Congress Party (NCP) and some smaller allies has won 235 out of 288 seats in the Maharashtra elections, the biggest win in the state for any alliance or party since the 1972 election. While all the big parties in this alliance have won at least half the seats they contested, it is the BJP that has delivered the best performance among them. In fact, the BJP has delivered its own best performance in the state and for any single party since 1990. An HT analysis shows the party has achieved this by bringing its performance against regional parties at par with its performance against the Congress, something it had not achieved earlier.How good is the BJP’s performance in Maharashtra elections? The first statistic that shows a party’s standing in a state election is its seat share. The BJP has won 132 of 288 seats in the state, which gives a seat share of 45%, its best ever in the state. To be sure, the Congress had won simple majorities in Maharashtra elections on its own, but the last time that happened was in 1985. BJP’s seat share in this election is the largest for any party in Maharashtra assembly elections since 1990, when the Congress won 141 seats or a 49% seat share. (See chart 1)What makes the BJP’s record seat share in this election impressive, however, is that it has won these seats while contesting much fewer seats than in 2014 or 2019, its best results before 2024. The BJP had contested 260 seats in 2014 (when it did not partner with then united Shiv Sena) and won 122 seats, its best tally in the state before 2024. Similarly, it won just 105 seats in 2019 when contesting 164 seats (when it partnered with then united Shiv Sena). In this election, the BJP had to concede more seats to allies because it also needed to accommodate the NCP led by Ajit Pawar. Expectedly, while the BJP has improved its seat share by less than five percentage points compared to its second-best seat share, its strike rate is over 20 percentage points higher than its second-best strike rate. (See chart 2)How has the BJP improved its strike rate by such a big margin? A big reason for this is its performance against the regional and smaller parties. In every assembly election in Maharashtra that the BJP contested before 2024, its strike rate against non-Congress parties was lower than that against the Congress. This is the first election when the BJP’s strike against non-Congress parties is higher than that against the Congress. To be sure, this does not mean that the BJP has lost its edge against its national rival. The BJP’s strike rate against the Congress is also over 80%, and the highest ever. It is just that its strike rate against other parties is much higher.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:01:34.619+02:00",
+    "updated": "2024-11-24T00:19:34.405+02:00"
+}

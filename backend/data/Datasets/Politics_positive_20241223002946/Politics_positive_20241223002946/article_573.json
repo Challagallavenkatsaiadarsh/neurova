@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "425931a84a6d49ee5331678b7313cc0fa8583f41",
+        "url": "https://www.hindustantimes.com/cities/others/up-approves-4164-cr-seed-capital-for-urban-expansion-101732299320087.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "UP approves ₹4164 cr seed capital for urban expansion",
+        "title_full": "UP approves ₹4164 cr seed capital for urban expansion",
+        "published": "2024-11-22T19:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/22/1600x900/UP-finance-and-parliamentary-affairs-minister-Sure_1732299309999.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "425931a84a6d49ee5331678b7313cc0fa8583f41",
+    "url": "https://www.hindustantimes.com/cities/others/up-approves-4164-cr-seed-capital-for-urban-expansion-101732299320087.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-22T19:45:00.000+02:00",
+    "title": "UP approves ₹4164 cr seed capital for urban expansion",
+    "text": "UP approves ₹4164 cr seed capital for urban expansion\nState cabinet approved proposal to enable development authorities meet 50% of the land acquisition cost from the seed capital to be given to them for 20 years\nLUCKNOW The UP cabinet on Friday approved seed capital of ₹4164.16 crore under 14 government schemes to nine development authorities, including the LDA and the UP Housing Development Board, for urban expansion. This would help towards well planned development of urban areas and provide housing facilities to the urban population.\nChief minister Yogi Adityanath presided over the meeting of the state cabinet that approved the proposal to enable the development authorities meet 50% of the land acquisition cost from the seed capital to be given to them for 20 years.\nUP finance and parliamentary affairs minister Suresh Khanna said the state government had provided a budget of ₹3,000 crore in the annual budget for 2024-2025 for integrated and comprehensive development of new cities. The cabinet approved a seed capital of ₹4164.16 crore against this budget to nine development authorities, including LDA, UP Housing Development Board and development authorities of Saharanpur, Mathura-Vrindavan, Firozabad-Shikohabad, Moradabad, Khurja, Banda and Meerut. Out of this, the first instalment of ₹1285.00 crore for 2024-2025 had been approved, he added.\nMore villages in KDA area\nThe state cabinet approved a proposal for inclusion of 80 villages in the Kanpur Development Authority area under the provisions of Mukhyamantri Shahari Vistarikaran Yojana.\nExtra Neutral Alcohol under VAT\nThe cabinet decided to take the Extra Neutral Alcohol (ENA) out of the purview of the GST and place the same under VAT regime. He said the decision would keep more funds at the state government’s disposal.\nGuarantee Redemption Fund\nThe cabinet also decided to set up Guarantee Redemption Fund to provide money to pay loan instalments to the state government’s PSUs and cooperative institutions in case of default.\nUP finance minister Suresh Khanna said the fund would have an amount of ₹8,170 crore. He said a provision of ₹1,634 crore would be made in the annual budget every year for the fund. The fund had been set up on the recommendations of CAG, Kendriya Vitta Aayog, and the Reserve Bank of India. Various financial institutions gave advances of ₹163399.82 crore and the state government’s PSUs and cooperative institutions would be able to pay their dues from this fund in case of default, he added.\n₹919.90 cr for Green Energy Corridor-2\nThe government approved ₹919.90 crore for the Green Energy Corridor-2 in Bundelkhand.\nTo improve the power supply system in Chitrakoot, Banda, and nearby areas, arrangements were being made to evacuate energy generated from an 800 mw solar project, according to energy minister AK Sharma.\n“For this, a 400/220 kV substation in Chitrakoot (AIS) and its associated lines will be constructed. The total estimated cost of this substation and the lines is ₹619.90 crore. Once completed, the substation will enhance power supply in Chitrakoot, Banda, and other districts, promoting industrial, commercial, and residential activities in the region,” the minister said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yogi Adityanath",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suresh Khanna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Housing Development Board",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:24:02.873+02:00",
+    "updated": "2024-11-23T03:24:02.873+02:00"
+}

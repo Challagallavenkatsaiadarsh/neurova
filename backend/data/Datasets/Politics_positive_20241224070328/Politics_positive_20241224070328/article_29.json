@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "33fe599bdf578448b642fb43c2425c2a1908db61",
+        "url": "https://www.breitbart.com/politics/2024/11/23/sebastian-gorka-appointed-white-house-senior-counterterrorism-adviser-president-trump",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "http://breitbart.com/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "title": "Sebastian Gorka Appointed White House Senior Counterterrorism Adviser to President Trump",
+        "title_full": "Sebastian Gorka Appointed White House Senior Counterterrorism Adviser to President Trump",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 74,
+        "participants_count": 41,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2024/11/Sebastian-Gorka-640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1703,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "33fe599bdf578448b642fb43c2425c2a1908db61",
+    "url": "https://www.breitbart.com/politics/2024/11/23/sebastian-gorka-appointed-white-house-senior-counterterrorism-adviser-president-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kristina Wong",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Sebastian Gorka Appointed White House Senior Counterterrorism Adviser to President Trump",
+    "text": "President-Elect Donald Trump announced Saturday his appointment of Dr. Sebastian Gorka, former senior Trump administration official and host of the America First podcast, to the White House as Deputy Assistant to the President and Senior Director of Counterterrorism.\n“Since 2015, Dr. Gorka has been a tireless advocate for the America First Agenda and the MAGA Movement, serving previously as Strategist to the president in the first Trump Administration,” Trump said in his announcement.\nHe added:\nDr. Gorka is a legal immigrant to the United States, with more than 30 years of National Security experience. In 2015, he was one of my Advisors for the GOP Primary Debates on National Security. At the time, he held the Major General Matthew C. Horner Chair of Military Theory at the Marine University Foundation, and was a Guest Instructor at the JFK Special Warfare Center and School, Fort Bragg. Prior to that, he was Associate Dean for Congressional Affairs and Relations to the Special Operations Community at National Defense University, and Kokkalis Fellow at Harvard’s Kennedy School of Government. He is a Recipient of the DoD Joint Civilian Service Commendation awarded by USSOCOM for his work in Counterterrorism.\nIn addition, Gorka was the national security editor at Breitbart News .\nGorka said in a post on X, “ Honored beyond words to serve President @realDonaldTrump once again, in what will be the greatest Administration of the modern age.” #MakingAmericaGreatAgain\nFollow Breitbart News’s Kristina Wong on ”X” , Truth Social , or on Facebook .\nNational Security Politics Donald Trump Sebastian Gorka",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/hashtag/MakingAmericaGreatAgain?src=hashtag_click",
+        "https://x.com/realDonaldTrump",
+        "https://twitter.com/SebGorka/status/1860158735550939264",
+        "https://truthsocial.com/@kristinawong",
+        "https://www.facebook.com/kristinawongreporting",
+        "https://www.x.com/realDonaldTrump",
+        "https://www.twitter.com/SebGorka/status/1860158735550939264",
+        "https://www.x.com/hashtag/MakingAmericaGreatAgain?src=hashtag_click",
+        "https://www.truthsocial.com/@kristinawong",
+        "https://facebook.com/kristinawongreporting",
+        "https://x.com/hashtag/MakingAmericaGreatAgain"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sebastian Gorka",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matthew C. Horner",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Marine University Foundation",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Defense University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "America First Agenda",
+                "sentiment": "none"
+            },
+            {
+                "name": "MAGA Movement",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harvard",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fort Bragg",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "33fe599bdf578448b642fb43c2425c2a1908db61",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:15:48.788+02:00",
+    "updated": "2024-11-24T05:38:41.882+02:00"
+}

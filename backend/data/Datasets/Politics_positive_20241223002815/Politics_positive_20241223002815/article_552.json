@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "05be55a6cf73c0b113ea1fff5492870d2606b803",
+        "url": "https://ca.investing.com/news/world-news/us-judge-rejects-sec-request-to-sanction-elon-musk-3719868",
+        "site_full": "ca.investing.com",
+        "site": "investing.com",
+        "site_section": "https://ca.investing.com/news/world-news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "World News - Investing.com Canada",
+        "title": "US judge rejects SEC bid to sanction Elon Musk By Reuters",
+        "title_full": "US judge rejects SEC bid to sanction Elon Musk By Reuters",
+        "published": "2024-11-23T01:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i-invdn-com.investing.com/news/news_headline_open_108x81._800x533_L_1419519630.jpg",
+        "performance_score": 0,
+        "domain_rank": 1200,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "05be55a6cf73c0b113ea1fff5492870d2606b803",
+    "url": "https://ca.investing.com/news/world-news/us-judge-rejects-sec-request-to-sanction-elon-musk-3719868",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-11-23T01:52:00.000+02:00",
+    "title": "US judge rejects SEC bid to sanction Elon Musk By Reuters",
+    "text": "By Jonathan Stempel\n(Reuters) -A federal judge on Friday rejected the U.S. Securities and Exchange Commission's request to sanction Elon Musk after he failed to appear for court-ordered testimony for the regulator's probe into his $44 billion takeover of Twitter.\nU.S. District Judge Jacqueline Scott Corley in San Francisco said sanctions over Musk's Sept. 10 absence were unnecessary, after the world's richest person testified on Oct. 3 and agreed to pay the SEC's $2,923 of travel costs.\n\"Because the present circumstances forestall any occasion for meaningful relief that the court could grant, the SEC's request is moot,\" Corley wrote.\nThe SEC had sought a declaration that Musk violated a May 31 court order to provide testimony.\nIt said having only to repay travel costs would not deter many other people from ignoring court orders, \"much less someone of Musk's extraordinary means.\"\nMusk said he complied with the order by testifying on Oct. 3. He is worth $321.7 billion according to Forbes magazine.\nThe SEC did not immediately respond to a request for comment after business hours. Lawyers for Musk did not immediately respond to similar requests.\nMusk, whose businesses include electric car maker Tesla (NASDAQ: TSLA ) and rocket company SpaceX and who is the world's richest person, went to Florida's Cape Canaveral on Sept. 10 to oversee the launch of SpaceX's Polaris (TSX: PIF ) Dawn mission.\nThe SEC is investigating whether Musk violated securities laws in early 2022 by waiting at least 10 days too long to disclose he had begun accumulating Twitter stock.\nCritics and some investors have said this let him buy shares cheaply before he eventually disclosed a 9.2% Twitter stake, and shortly thereafter offered to buy the whole company.\nIn July, Musk said he misunderstood SEC disclosure rules and that \"all indications\" suggested he made a \"mistake.\"\nThe SEC also sued Musk in 2018 over his Twitter posts about taking Tesla private. He settled that lawsuit by paying a $20 million fine, agreeing to let Tesla lawyers review some posts in advance and stepping down as Tesla's chairman.\nThe case is SEC v Musk, U.S. District Court, Northern District of California, No. 23-mc-80253.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate Governance and CSR"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jonathan Stempel",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jacqueline Scott Corley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Musk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SEC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Forbes",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "05be55a6cf73c0b113ea1fff5492870d2606b803",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:18:49.074+02:00",
+    "updated": "2024-11-23T03:18:49.074+02:00"
+}

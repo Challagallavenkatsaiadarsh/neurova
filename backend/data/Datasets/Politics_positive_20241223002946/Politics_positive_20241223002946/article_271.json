@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "75639602683ac36aea22221fd2024f8746a7d0c9",
+        "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-corner-brook-pet-scanners-1.7390767",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.cbc.ca/news/canada/newfoundland-labrador",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Newfoundland &amp; Labrador - CBC News",
+        "title": "Newfoundland is getting new PET/CT scanners. Gerry Byrne says they'll lower wait times | CBC News",
+        "title_full": "Newfoundland is getting new PET/CT scanners. Gerry Byrne says they'll lower wait times | CBC News",
+        "published": "2024-11-22T23:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.5167215.1732296890!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/pet-ct-scanner.jpg",
+        "performance_score": 0,
+        "domain_rank": 342,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "75639602683ac36aea22221fd2024f8746a7d0c9",
+    "url": "https://www.cbc.ca/news/canada/newfoundland-labrador/st-johns-corner-brook-pet-scanners-1.7390767",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Kennedy",
+    "published": "2024-11-22T23:12:00.000+02:00",
+    "title": "Newfoundland is getting new PET/CT scanners. Gerry Byrne says they'll lower wait times | CBC News",
+    "text": "Newfoundland and Labrador is buying two new PET/CT scanners for hospitals in St. John's and Corner Brook. (CBC) The Newfoundland and Labrador government is adding new PET/CT scanners to hospitals in St. John's and Corner Brook to improve care for cancer, cardiac disease and stroke patients.\nThey'll land at the Health Sciences Centre and Western Memorial Regional Hospital — to compliment the one already in St. John's — and reduce wait times for patients, Corner Brook MHA Gerry Byrne said Friday.\n\"This PET scanner is very important. It is part of a commitment that we made,\" Byrne said.\nByrne said the scanners have not been bought yet, but they should cost about $4 million each. At least one of the new scanners should be in place in St. John's by early next year, said Byrne, adding staff recruitment is underway.\nThere's been $2 million held in a trust to buy the scanner for Corner Brook since 2021.\n\"This is really an anticipation of a high case load in the future, but we're taking actions right now,\" said Byrne.\nIncreased capacity Dr. Jeffery Flemming, clinical lead for nuclear medicine with Newfoundland and Labrador Health Services, said the addition of the new machines is for health care moving forward.\n\"We look at patient numbers, wait times. New programs are coming through in nuclear medicine all the time,\" he said. \"This all requires more capacity [and] more capacity. And you can try to do as much as you can with the one scanner you have. Eventually you need to improve your capacity.\"\nCorner Brook MHA Gerry Byrne, left, and Dr. Jeffery Flemming made the announcement in Corner Brook on Friday. (Colleen Connors/CBC) Flemming said work still needs to be done involving licensing from the Canadian Nuclear Safety Commission since using the scanners involves using nuclear isotopes. He said those isotopes would likely be created in St. John's via a cyclotron and transported to Corner Brook routinely.\nHowever, Flemming said, that licensing process could take two years, meaning a scanner won't be used in Corner Brook until that is completed.\nA PET/CT scanner was first promised to Corner Brook in 2014 by then Liberal premier Dwight Ball.\nJohn Haggie said N.L. didn't need another PET scanner. As election looms, Liberals pledge $2M for another one Corner Brook hospital advocate furious over broken PET scan promise In January 2021, then Health minister John Haggie told reporters a second PET-CT scanner wasn't necessary on account of only needing a handful of scans per day. He said a scanner would only ever be installed elsewhere if there was unmet demand that couldn't be handled in St. John's.\nShortly after, advocates for the Western Memorial Regional Hospital spoke out, saying Haggie had broken a government promise.\nHaggie called it a \"gesture to restore the trust and confidence of the people on the west coast.\"\nDownload our free CBC News app to sign up for push alerts for CBC Newfoundland and Labrador. Sign up for our daily headlines newsletter here . Click here to visit our landing page .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:35:08.346+02:00",
+    "updated": "2024-11-23T01:35:08.346+02:00"
+}

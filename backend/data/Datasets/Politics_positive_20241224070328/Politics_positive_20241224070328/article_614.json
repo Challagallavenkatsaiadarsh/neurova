@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "1efa8c0d1f3de6c1e63833558f1799eeb4159f18",
+        "url": "https://timesofindia.indiatimes.com/india/maharashtra-election-results-hometown-rolls-out-red-carpet-for-devendra-fadnavis/articleshow/115615773.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Times of India",
+        "title": "Maharashtra election results: Hometown rolls out red carpet for Devendra Fadnavis | India News - Times of India",
+        "title_full": "Maharashtra election results: Hometown rolls out red carpet for Devendra Fadnavis | India News - Times of India",
+        "published": "2024-11-24T04:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115615976,width-1070,height-580,imgsize-539503,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1efa8c0d1f3de6c1e63833558f1799eeb4159f18",
+    "url": "https://timesofindia.indiatimes.com/india/maharashtra-election-results-hometown-rolls-out-red-carpet-for-devendra-fadnavis/articleshow/115615773.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vaibhav Ganjapure",
+    "published": "2024-11-24T04:25:00.000+02:00",
+    "title": "Maharashtra election results: Hometown rolls out red carpet for Devendra Fadnavis | India News - Times of India",
+    "text": "NAGPUR: Maharashtra deputy CM Devendra Fadnavis was greeted with jubilant celebrations upon his arrival in hometown Nagpur Saturday evening, following BJP-led Mahayuti's emphatic victory in the assembly elections. Hundreds of party workers and supporters thronged his Dharampeth residence, waving flags and cheering for his leadership in securing BJP's best-ever tally of 133 seats in Maharashtra.Moved by the reception, 54-year-old Fadnavis credited the victory to \"public trust, divine blessings, and a united coalition effort\". \"This victory is extraordinary. When people and God shower blessings, it's always abundant - chappar phaad ke,\" he said.Fadnavis deflected questions about his potential return as CM, saying the decision would be made collectively by the alliance partners & BJP's parliamentary committee. He praised BJP state president Chandrashekar Bawankule, describing him as \"captain\" of the campaign and a key factor in the coalition's success.Taking aim at opposition MVA, he accused it of indulging in personal attacks and negative politics, which voters \"rejected outright\". He also highlighted opposition's relentless criticism of PM Narendra Modi, which he said backfired. \"MVA spread hatred against Modi, but people trust him and see the results of his work. This victory is a testament to that trust,\" Fadnavis said.Before heading home, Fadnavis visited Union minister Nitin Gadkari to seek his blessings and expressed gratitude to Vidarbha and Nagpur for their overwhelming support. \"This is just the beginning of a new chapter for Maharashtra,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Devendra Fadnavis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Chandrashekar Bawankule",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:18:25.069+02:00",
+    "updated": "2024-11-24T05:27:34.526+02:00"
+}

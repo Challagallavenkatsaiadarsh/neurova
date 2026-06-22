@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "f01f703176b7f0ccdbbb14cd17c30c7e3b29b76d",
+        "url": "https://www.lbc.co.uk/news/king-charles-all-smiles-as-he-meets-sir-elton-john-on-solo-royal-variety",
+        "site_full": "www.lbc.co.uk",
+        "site": "lbc.co.uk",
+        "site_section": "https://lbc.co.uk/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business, Money &amp; Finance News  | LBC ",
+        "title": "King Charles all smiles as he meets Sir Elton John on solo Royal Variety appearance",
+        "title_full": "King Charles all smiles as he meets Sir Elton John on solo Royal Variety appearance",
+        "published": "2024-11-22T23:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://images.lbc.co.uk/images/689343?width=1200&crop=16_9&signature=KcT4vr7e4gdqeSPKKYY9LKhsSqc=",
+        "performance_score": 0,
+        "domain_rank": 7981,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f01f703176b7f0ccdbbb14cd17c30c7e3b29b76d",
+    "url": "https://www.lbc.co.uk/news/king-charles-all-smiles-as-he-meets-sir-elton-john-on-solo-royal-variety",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Henry Moore",
+    "published": "2024-11-22T23:33:00.000+02:00",
+    "title": "King Charles all smiles as he meets Sir Elton John on solo Royal Variety appearance",
+    "text": "Richard Spurr 1am - 4am\nKing Charles all smiles as he meets Sir Elton John on solo Royal Variety appearance\n22 November 2024, 22:33\nKing Charles was all smiles as he met celebrities at the Royal Variety Show on Friday.\nListen to this article\nLoading audio...\nThe King attended the event without Queen Camilla, who continues to recover from a chest infection.\nAs he arrived at Royal Albert Hall for the annual show, Charles accepted flowers on behalf of the Queen.\nCharles received the posy of flowers meant for Camilla from eight-year-old Iris King-Taylor as he arrived at the event on Friday evening.\nRead more: [King Charles' coronation cost taxpayer £72 million, report reveals](https://www.lbc.co.uk/news/king-charles-coronation-cost-taxpayer-72-million-report-reveals/)\nThe flowers were picked from the gardens of the Royal Variety charity's nursing home Brinsworth House, in Twickenham.\nKing Charles beamed as he met Sir Elton John at the event.\nSir Elton, who is introducing his West End adaptation of The Devil Wears Prada starring Vanessa Williams, told the King: \"I'm very happy to be here.\"\nIt followed news that Camilla had to miss the performance because of a recent chest infection.\nDoctors advised the Queen to rest as she \"continues to experience some lingering post-viral symptoms\", according to a statement from Buckingham Palace.\nA Buckingham Palace spokesperson said: \"Following a recent chest infection, the Queen continues to experience some lingering post-viral symptoms, as a result of which doctors have advised that, after a busy week of engagements, Her Majesty should prioritise sufficient rest.\n\"With great regret, she has therefore withdrawn from attendance at tonight's Royal Variety Performance. His Majesty will attend as planned.\"\nA Royal source said the Queen was \"naturally disappointed to miss the evening's entertainments, and sends her sincere apologies to all those involved, but is a great believer that 'the show must go on\".\n\"She hopes to be back to full strength and regular public duties very soon.\"\nIt is understood Camilla will remain in London on Friday and will then travel Sandringham for the following week as planned.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Arts, Culture and Entertainment",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elton John",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nick Abbot",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vanessa Williams",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iris King-Taylor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Charles",
+                "sentiment": "none"
+            },
+            {
+                "name": "Camilla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Royal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hall",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:47:08.371+02:00",
+    "updated": "2024-11-28T05:04:47.481+02:00"
+}

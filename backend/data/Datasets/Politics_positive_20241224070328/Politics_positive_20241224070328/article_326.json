@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "b33989eb36e87165d94866c2496163cb1360a4a9",
+        "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/maharashtra/bjp-triumphs-in-maharashtra-india-bloc-secures-jharkhand-win/articleshow/115608159.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/magazines/panache/diabetes-risk-calculator",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Diabetes Risk Calculator",
+        "title": "BJP triumphs in Maharashtra; INDIA Bloc secures Jharkhand win - The Economic Times",
+        "title_full": "BJP triumphs in Maharashtra; INDIA Bloc secures Jharkhand win - The Economic Times",
+        "published": "2024-11-24T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-115608463,width-1200,height-630,imgsize-2720825,overlay-economictimes/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b33989eb36e87165d94866c2496163cb1360a4a9",
+    "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/maharashtra/bjp-triumphs-in-maharashtra-india-bloc-secures-jharkhand-win/articleshow/115608159.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-11-24T00:00:00.000+02:00",
+    "title": "BJP triumphs in Maharashtra; INDIA Bloc secures Jharkhand win - The Economic Times",
+    "text": "NEW DELHI | MUMBAI: The BJP-led Mahayuti alliance swept the key Maharashtra assembly election, retaining power by a record margin, continuing to reverse the setbacks the party faced in the Lok Sabha polls earlier in the year. However, in Jharkhand, chief minister Hemant Soren’s JMM-led INDIA bloc retained power.The Mahayuti grouping overcame the odds such as two-term anti-incumbency and caste tensions to beat the Maha Vikas Aghadi in the Maharashtra assembly polls and was set to win 230 out of 288 seats. The BJP and its allies hadn’t done well in Maharashtra and Haryana in the April-June general elections but have now won subsequent state elections in both, setting it up well for upcoming polls in Delhi and Bihar.In Jharkhand, the JMM coalition returned to power with a bigger margin than in 2019 under Hemant Soren, who became the first chief minister of the state to achieve that feat. The alliance was set to win 56 out of 81 seats with a 44% vote share. 115608481In Maharashtra, the BJP on its own has won or was leading in 132 seats, higher than the 105 it won in the 2019 poll, giving party leader and deputy CM Devendra Fadnavis a strong hand.'Unprecedented Result'“We have never had such a result in history — maybe earlier when the Congress was the only big party and when there were few opposition parties,” said deputy chief minister and NCP leader Ajit Pawar.Exit polls had given the edge to the Mahayuti but the margin of victory wasn’t expected to be this wide. The record number of women voters in Maharashtra had provided an inkling of what might be happening. The female voter turnout jumped to 65.21% from 59.26% in 2019, suggesting that the Ladki Bahin Yojana direct benefit transfer scheme for women introduced in July had a significant impact. Analysts said that this coupled with the RSS workers joining the political campaign and the BJP narrative on the ground led to a victory that even eclipsed the one in 2014 amid the Narendra Modi wave.“This time Maharashtra has broken all records,” Prime Minister Narendra Modi said in a speech at BJP headquarters. “This is the biggest victory for any party or pre-poll alliance in Maharashtra in the last 50 years. This is the third consecutive time that Maharashtra has blessed the alliance led by BJP.” Maharashtra is the sixth state in the country which has given a mandate to the BJP three times in a row, the PM said, while also hailing the by-poll results.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hemant Soren",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haryana",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b33989eb36e87165d94866c2496163cb1360a4a9",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:49:32.579+02:00",
+    "updated": "2024-11-29T10:38:55.150+02:00"
+}

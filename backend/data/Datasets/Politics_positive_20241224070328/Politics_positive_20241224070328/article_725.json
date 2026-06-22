@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "ff474a96c8d7914cb1c0d29aa47893987fff6051",
+        "url": "https://timesofindia.indiatimes.com/india/maharashtra-elections-eknath-shinde-credits-bahin-bhau-farmers-for-landslide-victory/articleshow/115617161.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Times of India",
+        "title": "Maharashtra elections: Eknath Shinde credits 'bahin, bhau, farmers' for landslide victory | India News - Times of India",
+        "title_full": "Maharashtra elections: Eknath Shinde credits 'bahin, bhau, farmers' for landslide victory | India News - Times of India",
+        "published": "2024-11-24T05:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115617249,width-1070,height-580,imgsize-780854,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ff474a96c8d7914cb1c0d29aa47893987fff6051",
+    "url": "https://timesofindia.indiatimes.com/india/maharashtra-elections-eknath-shinde-credits-bahin-bhau-farmers-for-landslide-victory/articleshow/115617161.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Team TOI",
+    "published": "2024-11-24T05:16:00.000+02:00",
+    "title": "Maharashtra elections: Eknath Shinde credits 'bahin, bhau, farmers' for landslide victory | India News - Times of India",
+    "text": "MUMBAI: Terming it a landslide victory, CM Eknath Shinde thanked his \"ladki bahin, ladka bhau and farmers\" for Mahayuti's stupendous performance in the assembly polls. The people's mandate only reinforced that his Shiv Sena and Ajit Pawar's NCP were the real inheritors of the respective party ideologies, he said.\"I will not go into (claims of) true or false. The people have shown that Shiv Sena, in alliance with BJP, is carrying forward Balasaheb Thackeray's ideology and it is the same for NCP,\" he said.On who would be the CM, the allies were at pains to point out that there was no dispute over the post. \"All three parties will sit together (and decide who will be CM)... We shall sit with our seniors and discuss,\" he said. Deputy CM Devendra Fadnavis said the leaders of the three parties would hold a discussion, adding that BJP's parliamentary board authorised the party president to hold these discussions with Shinde and Ajit Pawar.Addressing a joint press conference with Fadnavis and Ajit Pawar, Shinde said, \"We emphasised on development. Not a single decision that we took was kept on paper, every scheme was implemented. Congress gave assurances and then started asking money from the Centre. We did not extend our feet beyond the mattress. Whatever we have done is before the people,\" he said.Acknowledging PM Modi's role in scripting Mahayuti's win, Shinde said the state govt got huge support from the Centre. \"During Manmohan Singh's tenure as PM, we got Rs 2 lakh crore while PM Modi has given us Rs 10 lakh crore,\" he said. Pawar said the Ladki Bahin scheme became a gamechanger. \"Our scheme was ridiculed but when their manifesto came, it became clear the scheme works. We have to now bring in financial discipline but all of us have experience in govt and we shall do it.\"CM said govt ensured the beneficiaries of Ladki Bahin got the first instalments in their accounts. He said the Mahayuti govt took unprecedented decisions, removed speed breakers, and completed the Metro as well as the Metro car shed. \"They (MVA) paused work for 2.5 years... It is clear people do not want a Facebook govt. People have not forgotten that the 2019 govt, which should have been formed, was not allowed.\"On Sena (UBT) MP Sanjay Raut's demand to bring back ballot paper, Shinde said, \"When the decisions favour them, then it is alright, but when it goes against them, they question the machinery, EC and even SC.\" Fadnavis attributed the victory to the PM's slogan 'ek hain toh safe hain'.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Balasaheb Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Devendra Fadnavis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:02:19.063+02:00",
+    "updated": "2024-11-24T06:16:36.345+02:00"
+}

@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "15ae7e724d270435d079136f5d130dc1939d769e",
+        "url": "https://www.thedailybeast.com/donald-trump-selects-brooke-rollins-as-agriculture-secretary",
+        "site_full": "www.thedailybeast.com",
+        "site": "thedailybeast.com",
+        "site_section": "https://thedailybeast.com/arc/outboundfeeds/rss/articles",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "Donald Trump Selects Brooke Rollins As Agriculture Secretary",
+        "title_full": "Donald Trump Selects Brooke Rollins As Agriculture Secretary",
+        "published": "2024-11-24T02:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thedailybeast.com/resizer/v2/OKZC4EKLFVDYHJYSX3VS26HLOQ.jpg?smart=true&amp;auth=9767fc33b552f06f4b54288e7f83cce05217984708601c05786385313c5990ff&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 721,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15ae7e724d270435d079136f5d130dc1939d769e",
+    "url": "https://www.thedailybeast.com/donald-trump-selects-brooke-rollins-as-agriculture-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Clay Walker",
+    "published": "2024-11-24T02:05:00.000+02:00",
+    "title": "Donald Trump Selects Brooke Rollins As Agriculture Secretary",
+    "text": "Donald Trump Selects Brooke Rollins As Agriculture Secretary\nPresident-elect Donald Trump announced Saturday that he has chosen Brooke Rollins to be the newest United States Secretary of Agriculture. In a statement posted to Truth Social, Trump writes that Rollins previously served on his 2016 Economic Advisory Council and was the director of the Domestic Policy Council during his first term. Rollins, an attorney, got a degree in agricultural development from Texas A&M University and currently runs the America First Policy Institute, a nonprofit aiming to implement Trump’s policies. Also, in his post, Trump says, “Brooke will spearhead the effort to protect American farmers, who are truly the backbone of our country.” In her new role, Rollins will be tasked with running the USDA, a department with 100,000 employees that farmers depend on. In an Instagram post, Rollins thanked Trump for her appointment. “It will be the honor of my life to fight for America’s farmers and our Nation’s agricultural communities,” she wrote.\nADVERTISEMENT\nADVERTISEMENT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Economic Advisory Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Domestic Policy Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "USDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:54:20.098+02:00",
+    "updated": "2024-11-24T02:54:20.098+02:00"
+}

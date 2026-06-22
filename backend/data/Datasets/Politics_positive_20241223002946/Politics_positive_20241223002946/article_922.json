@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "458ec20c4e27740f1565a74d9d5b995113eb5146",
+        "url": "https://www.newsbytesapp.com/news/politics/maharashtra-election-results-nda-opens-with-massive-lead-over-mva/story",
+        "site_full": "www.newsbytesapp.com",
+        "site": "newsbytesapp.com",
+        "site_section": "https://www.newsbytesapp.com:443/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NewsBytes",
+        "title": "Maharashtra election results: NDA way ahead of MVA in early trends",
+        "title_full": "Maharashtra election results: NDA way ahead of MVA in early trends",
+        "published": "2024-11-23T02:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://i.cdn.newsbytesapp.com/images/l88220241123085900.jpeg",
+        "performance_score": 0,
+        "domain_rank": 26239,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "458ec20c4e27740f1565a74d9d5b995113eb5146",
+    "url": "https://www.newsbytesapp.com/news/politics/maharashtra-election-results-nda-opens-with-massive-lead-over-mva/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chanshimla Varah",
+    "published": "2024-11-23T02:59:00.000+02:00",
+    "title": "Maharashtra election results: NDA way ahead of MVA in early trends",
+    "text": "The Bharatiya Janata Party-led Mahayuti alliance has taken an early lead in the Maharashtra Assembly elections. The vote counting started on Saturday morning, and by 8:35am the Mahayuti was leading in 68 seats. The alliance includes factions of the Shiv Sena and Nationalist Congress Party (NCP) led by Eknath Shinde and Ajit Pawar. Their opposition Maha Vikas Aghadi (MVA)—comprising Congress and factions of Shiv Sena and NCP led by Uddhav Thackeray and Sharad Pawar—was ahead in only 17 seats. The Maharashtra Assembly has 288 seats, with the majority mark at 145. The election saw a single-phase voting on Wednesday, with a voter turnout of 65.1%—the highest since 2014. Senior BJP leader Devendra Fadnavis had interpreted the high turnout as public support for the current government, saying that an increase in voting percentage means it is in favor of the current government. Exit polls had mostly predicted a win for the Mahayuti alliance. Many of them, including Axis-My India, Peoples Pulse, Poll Diary and Today's Chanakya, predicted at least 175 seats for the BJP-led coalition. Only one exit poll predicted a narrow win for MVA. Dismissing the predictions, Shiv Sena (Thackeray) MP Sanjay Raut had called them inaccurate, citing wrong predictions in Haryana and Jammu and Kashmir polls to claim MVA would win.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maha Vikas Aghadi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Devendra Fadnavis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Uddhav Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sharad Pawar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MVA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Maharashtra Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shiv Sena",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:41:00.362+02:00",
+    "updated": "2024-11-23T07:46:16.047+02:00"
+}

@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "375321f5bf97c74ac62b58c968c91efe4f67394e",
+        "url": "https://pledgetimes.com/thousands-of-people-take-to-the-streets-of-barcelona-to-ask-for-a-reduction-in-rents-and-propose-a-payment-strike",
+        "site_full": "pledgetimes.com",
+        "site": "pledgetimes.com",
+        "site_section": "https://www.pledgetimes.com",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Pledge Times -",
+        "title": "Thousands of people take to the streets of Barcelona to ask for a reduction in rents and propose a payment strike",
+        "title_full": "Thousands of people take to the streets of Barcelona to ask for a reduction in rents and propose a payment strike",
+        "published": "2024-11-24T00:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 71730,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "375321f5bf97c74ac62b58c968c91efe4f67394e",
+    "url": "https://pledgetimes.com/thousands-of-people-take-to-the-streets-of-barcelona-to-ask-for-a-reduction-in-rents-and-propose-a-payment-strike",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin_l6ma5gus",
+    "published": "2024-11-24T00:51:00.000+02:00",
+    "title": "Thousands of people take to the streets of Barcelona to ask for a reduction in rents and propose a payment strike",
+    "text": "Thousands of people – 22,000, according to the Urban Guard; 126,000, according to the organizers, took to the streets in Barcelona this Saturday to demand a 50% price drop of rents and call on a rent strike if the housing situation does not improve.\nThe demonstration, which took place from 5:00 p.m. under the motto ‘S’ha finish!’ (It’s over!), is inspired by the one that took place in Madrid on October 13 and has had the support of more than 4,000 entities.\nThroughout the protest, protesters have raised slogans such as “We will not tolerate any more evictions,” “Neither speculators, nor banks, nor vulture funds” or “Housing, free and universal.”\nThe main demands of the protest are a 50% drop in rents promote indefinite contracts “to put an end to blackmail and insecurity at the end of each contract”, recover homes for residential use and prohibit speculative purchasing indicate from the Tenants Union, organizer of the march.\n“The housing situation is currently unsustainable,” they say in the manifesto, which accuses rentiers, banks and vulture funds to carry out a “profitable business at the expense of the popular classes. Also They reproach politicians for “empty promises” and cosmetic laws” that have allowed rents and mortgages to “rise uncontrollably.\nThe Barcelona protest had the motto ‘It’s over. We lower the rents.’ David Oller / Europa Press The spokesperson for the organizing union, Carme Arcarazo, stated at the beginning of the demonstration that “it cannot be that investors come to our cities and play with the floors like in Monopoly “he lamented.\nFor this reason, Arcarazo has announced that, starting this Sunday, the union “will walk towards a rent strike” : “If we unite, we have much more power than any politician or rentier,” he stressed.\nMoment of the demonstration to demand a reduction in rents and in defense of the right to housing, under the motto ‘S’ha finish’. EFE For his part, the spokesperson for the Tenants’ Union in Catalonia, Enric Aragonès, took advantage of a stop in front of Casa Orsola, between Calàbria and Consell de Cent streets, to show his rejection from the building’s balcony. against seasonal rentals .\n“When rentiers talk about legal insecurity, they do not talk about the tenants whom they They do not want to renew their contract to make seasonal rentals,” he claimed.\n#Thousands #people #streets #Barcelona #reduction #rents #propose #payment #strike",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://imagenes.20minutos.es/uploads/imagenes/2024/11/23/bajemos-los-alquileres.jpeg",
+        "https://imagenes.20minutos.es/uploads/imagenes/2024/11/23/manifestacion-por-el-derecho-a-la-vivienda.jpeg",
+        "https://www.imagenes.20minutos.es/uploads/imagenes/2024/11/23/bajemos-los-alquileres.jpeg",
+        "https://www.imagenes.20minutos.es/uploads/imagenes/2024/11/23/manifestacion-por-el-derecho-a-la-vivienda.jpeg"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Urban Guard",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:27:26.860+02:00",
+    "updated": "2024-11-24T01:27:26.860+02:00"
+}

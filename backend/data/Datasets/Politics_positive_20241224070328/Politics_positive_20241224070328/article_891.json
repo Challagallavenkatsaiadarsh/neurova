@@ -1,0 +1,134 @@
+{
+    "thread": {
+        "uuid": "8ef8a7b57add8d311d7691bfa7661148264213d0",
+        "url": "https://www.latestly.com/india/politics/assembly-elections-results-2024-mahayuti-sweeps-western-maharashtra-sugar-belt-bagging-53-of-70-seats-big-setback-for-maha-vikas-aghadi-6440807.html",
+        "site_full": "www.latestly.com",
+        "site": "latestly.com",
+        "site_section": "https://www.latestly.com",
+        "site_categories": [
+            "media",
+            "cricket",
+            "sports"
+        ],
+        "section_title": "Get Latest Information on News Related to India, World, Sports, Entertainment & Social Trends at LatestLY",
+        "title": "Assembly Elections Results 2024: Mahayuti Sweeps Western Maharashtra Sugar Belt, Bagging 53 of 70 Seats;",
+        "title_full": "Assembly Elections Results 2024: Mahayuti Sweeps Western Maharashtra Sugar Belt, Bagging 53 of 70 Seats;",
+        "published": "2024-11-24T04:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://st1.latestly.com/wp-content/uploads/2024/11/Maharashtra-Assembly-Elections-Results-2024_1-784x441.jpg",
+        "performance_score": 0,
+        "domain_rank": 11020,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8ef8a7b57add8d311d7691bfa7661148264213d0",
+    "url": "https://www.latestly.com/india/politics/assembly-elections-results-2024-mahayuti-sweeps-western-maharashtra-sugar-belt-bagging-53-of-70-seats-big-setback-for-maha-vikas-aghadi-6440807.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-11-24T04:52:00.000+02:00",
+    "title": "Assembly Elections Results 2024: Mahayuti Sweeps Western Maharashtra Sugar Belt, Bagging 53 of 70 Seats;",
+    "text": "The opposition Maha Vikas Aghadi (MVA) has suffered a significant rout in the sugarcane belt of western Maharashtra, as the ruling Mahayuti alliance bagged 53 of the 70 assembly seats in the region.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maha Vikas Aghadi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vishwajeet Kadam",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sangram Deshmukh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hemant Ogale",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maharashtra Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            },
+            {
+                "name": "MVA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Palus-Kadegaon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ahilyanagar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vidhan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sangli",
+                "sentiment": "none"
+            },
+            {
+                "name": "Polls",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "8ef8a7b57add8d311d7691bfa7661148264213d0",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:31:20.037+02:00",
+    "updated": "2024-11-24T08:35:11.167+02:00"
+}

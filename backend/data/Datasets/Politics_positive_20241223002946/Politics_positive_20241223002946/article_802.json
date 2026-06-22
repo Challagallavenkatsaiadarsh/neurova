@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "2d25e0c831e881de32f1108707aa7e435daf9595",
+        "url": "https://philstarlife.com/news-and-views/921682-sc-requires-lawyers-60-hours-pro-bono-work-every-3-years",
+        "site_full": "philstarlife.com",
+        "site": "philstarlife.com",
+        "site_section": "https://philstarlife.com",
+        "site_categories": [],
+        "section_title": " l!fe • The Philippine Star ",
+        "title": "Supreme Court requires lawyers to render 60 hours of pro bono work every 3 years • PhilSTAR Life",
+        "title_full": "Supreme Court requires lawyers to render 60 hours of pro bono work every 3 years • PhilSTAR Life",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://philstarlife.s3.ap-east-1.amazonaws.com/pslife_photos/YS%20Covers/%28SC%29-banner.jpg",
+        "performance_score": 0,
+        "domain_rank": 78299,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2d25e0c831e881de32f1108707aa7e435daf9595",
+    "url": "https://philstarlife.com/news-and-views/921682-sc-requires-lawyers-60-hours-pro-bono-work-every-3-years",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Supreme Court requires lawyers to render 60 hours of pro bono work every 3 years • PhilSTAR Life",
+    "text": "Supreme Court requires lawyers to render 60 hours of pro bono work every 3 years\nThe Supreme Court has mandated covered lawyers to render 60 hours of pro bono work in favor of indigent Filipinos every three years.\nThe [announcement](https://www.facebook.com/SupremeCourtPhilippines/posts/595861766438655) was made earlier this week, after the approval of The Rules on Unified Legal Aid Service (ULAS Rules) that will take effect on Feb. 3.\nUnder the ULAS Rules, any person who can’t afford adequate legal services may be a qualified beneficiary. They will first undergo an assessment by a covered lawyer following ULAS Board guidelines.\nOnce qualified, the beneficiary will receive free legal services, and any expenses from the rendering of the service will be covered by the Court through the ULAS Fund. Qualified beneficiaries are also exempt from payment of docket and other fees.\nThese free legal services can include representation in court, legal counseling, drafting of legal documents, developmental legal assistance, and participation in accredited legal outreach programs.\nLawyers are allowed to waive half of the required hours of pro bono services in exchange for financial contributions, which will go exclusively to the ULAS Fund.\nThe ULAS Rules also indicate penalties for noncompliant lawyers, including fines, being listed as a delinquent member of the Integrated Bar of the Philippines, and ineligibility for a Certificate of Good Standing from the Office of the Bar Confidant.\nMeanwhile, to encourage participation, the ULAS Rules may grant compliant lawyers with tax incentives and other benefits. The Rules may also widen the scope of accepted services in the future to help lawyers reach the required hours.\nExcluded are lawyers prohibited from private practice, those practicing law for at least 35 years or are 60 years of age, those suffering from certain disabilities, and new lawyers with respect to the compliance period at the time of their admission to the Bar.\nThe ULAS Rules were formulated for more than a year. Feedback was gathered in a four-leg regional consultation earlier this year; the ULAS Rules Technical Working Group collected the input of lawyers, court employees, and potential beneficiaries.\nAccording to a 2018 report by the World Justice Project, only 20% of Filipinos who experienced a legal problem were able to access help, with 72% seeking help from family or friends and only 15% from lawyers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/SupremeCourtPhilippines/posts/595861766438655",
+        "https://facebook.com/SupremeCourtPhilippines/posts/595861766438655"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "PhilSTAR Life Supreme Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "ULAS Board",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:54:19.923+02:00",
+    "updated": "2024-11-23T04:54:19.923+02:00"
+}

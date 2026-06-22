@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "4552d36c66d8915ec382b0aa43ff70d25f333b03",
+        "url": "https://www.inkl.com/news/president-elect-trump-selects-dr-janette-nesheiwat-as-surgeon-general",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "President-Elect Trump Selects Dr. Janette Nesheiwat As Surgeon General",
+        "title_full": "President-Elect Trump Selects Dr. Janette Nesheiwat As Surgeon General",
+        "published": "2024-11-23T02:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21225967/638348897039786189.JPG",
+        "performance_score": 0,
+        "domain_rank": 37287,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4552d36c66d8915ec382b0aa43ff70d25f333b03",
+    "url": "https://www.inkl.com/news/president-elect-trump-selects-dr-janette-nesheiwat-as-surgeon-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:53:00.000+02:00",
+    "title": "President-Elect Trump Selects Dr. Janette Nesheiwat As Surgeon General",
+    "text": "President-elect Donald Trump has announced his selection of Dr. Janette Nesheiwat to serve as the next surgeon general. In a statement released by the transition team, Trump praised Dr. Nesheiwat for her dedication to preventive medicine and public health. According to the statement, Dr. Nesheiwat is known for her advocacy for affordable and quality healthcare for all Americans. She is committed to empowering individuals to take control of their health and lead healthier lives. If confirmed by the Senate, Dr. Nesheiwat will be responsible for overseeing the nation's public health initiatives and providing guidance on health-related issues to the administration. Dr. Nesheiwat's background includes extensive experience in the medical field, with a focus on preventive care and wellness. She has a track record of working to improve access to healthcare services and promoting healthy lifestyle choices. As surgeon general, Dr. Nesheiwat will play a key role in shaping public health policy and promoting initiatives to improve the overall well-being of the American people. The announcement of Dr. Nesheiwat's nomination has been met with both praise and scrutiny from various stakeholders in the healthcare community. Supporters have lauded her commitment to preventive medicine, while critics have raised questions about her stance on certain healthcare issues. Overall, Dr. Janette Nesheiwat's nomination as surgeon general represents a significant development in the incoming administration's approach to public health and healthcare policy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.topnews.live///2023/09/01/live-blog/politics/donald-trump-live-updates/index.html",
+        "https://topnews.live///2023/09/01/live-blog/politics/donald-trump-live-updates/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:10:06.988+02:00",
+    "updated": "2024-11-23T03:10:06.988+02:00"
+}

@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "5fd19cb428230d6e17f90ecfef744d0a8ba21cfd",
+        "url": "https://timesofindia.indiatimes.com/india/up-bypolls-6-months-after-lok-sabha-debacle-yogi-adityanath-bounces-back-with-7/9-for-bjp/articleshow/115615763.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/sports/nfl",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "NFL News &amp; Rumors 2024: NFL Football Score, Team, Stats, Schedule &amp; Standings | Times of India",
+        "title": "UP bypolls: 6 months after Lok Sabha debacle, Yogi Adityanath bounces back with 7/9 for BJP | India News - Times of India",
+        "title_full": "UP bypolls: 6 months after Lok Sabha debacle, Yogi Adityanath bounces back with 7/9 for BJP | India News - Times of India",
+        "published": "2024-11-24T04:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115615996,width-1070,height-580,imgsize-2179884,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5fd19cb428230d6e17f90ecfef744d0a8ba21cfd",
+    "url": "https://timesofindia.indiatimes.com/india/up-bypolls-6-months-after-lok-sabha-debacle-yogi-adityanath-bounces-back-with-7/9-for-bjp/articleshow/115615763.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rajiv Srivastava",
+    "published": "2024-11-24T04:24:00.000+02:00",
+    "title": "UP bypolls: 6 months after Lok Sabha debacle, Yogi Adityanath bounces back with 7/9 for BJP | India News - Times of India",
+    "text": "LUCKNOW: Six months is all it took for CM Yogi Adityanath to script a bounce-back for BJP in UP with a spirited campaign that yielded Saturday seven out of nine seats at stake in assembly bypolls, easing the hurt of seeing the party's Lok Sabha tally in the state slip from 62 to 33.What made this victory sweeter was wresting Muslim-dominant Kundarki in Moradabad and Katehri in Ambedkarnagar from Akhilesh Yadav's Samajwadi Party (SP). The significance of these two wins can be gauged from the fact that BJP had won these seats only once each before - Kundarki in 1993 and Katehri in 1991.The other seats BJP won are Khair in Aligarh, Phulpur in Prayagraj, Majhawan in Mirzapur and Ghaziabad Sadar. NDA ally RLD maintained its hold on Meerapur in Muzaffarnagar. For SP, retaining Karhal, part of Akhilesh's pocket borough Mainpuri, and Sishamau in Kanpur was a small consolation for losing the other two.Yogi said BJP-led NDA's landslide in Maharashtra and UP indicated that people have put their stamp on PM Narendra Modi's slogan, \\\"Ek rahenge, safe rahenge\\\". If BJP losing Ayodhya in LS polls was seen as a moral defeat, the win in Kundarki would go down as a pleasant surprise.BJP's Ramvir Singh won the seat by 1.4 lakh votes. Such a big win, sources said, would not have been possible without Muslims voting for the BJP candidate. Yogi termed the victory \\\"a win for nationalism\\\". SP's victory in Karhal by a relatively lower margin of 14,000 votes compared to 67,000 in 2022, is seen as an erosion of support. Same is the case in Sishamau, where Akhilesh's party won by 8,000-odd votes compared to around 12,000 the last time.Yogi had hit the ground running for the bypolls right after LS setback. He not only appointed ministers to lead the campaign in each constituency, but also visited these places multiple times to drum up support. BJP's assembly tally rose from 255 in 2022 to 257, while SP's slipped from 111 to 107. SP party lost Rampur and Suar Tanda in the previous round of bypolls.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yogi Adityanath",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Samajwadi Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Ambedkarnagar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Prayagraj",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:23:32.453+02:00",
+    "updated": "2024-11-24T05:23:32.453+02:00"
+}

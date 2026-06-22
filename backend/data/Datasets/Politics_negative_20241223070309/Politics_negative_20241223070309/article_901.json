@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "2986592caf1a951d05b163f0b22194c1989c1108",
+        "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-confidential-voters-reward-9685367",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://indianexpress.com/shorts/explained",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+        "title": "Gujarat confidential: Voters\\u2019 Reward",
+        "title_full": "Gujarat confidential: Voters\\u2019 Reward",
+        "published": "2024-11-22T23:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/gujafat-aseembly-1_42bfd7.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2986592caf1a951d05b163f0b22194c1989c1108",
+    "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-confidential-voters-reward-9685367",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@indianexpress",
+    "published": "2024-11-22T23:02:00.000+02:00",
+    "title": "Gujarat confidential: Voters\\u2019 Reward",
+    "text": "Ahead of the voting day in Maharashtra, a textile trader from Surat had put out banners stating that he would ‘gift’ woman voters, who exercise their ballot before 11 am on November 20, sarees with their selfies printed on them. The women voters would have to send their selfies with the addresses to a mobile number he had publicised. He shared the banners with textile traders who had business relations with traders in Maharashtra, appealing them to share the message on social media platforms. According to Surat trader Rajeev Omar, he got responses from 569 women from 18 Maharashtra districts and is sending the customised sarees to them by courier. Omar told The Indian Express, “In next five days, all 569 women will receive sarees at their homes. We have a team of 25 people who are looking after this task. My aim was to create awareness about voting among women.” ‘Dramatisation’ of arrests The recent murder of BJP leader Ramesh Parmar’s son, Tapan, on the premises of SSG hospital in Vadodara has triggered a discussion on social media platforms about the law enforcement in the city. Advocate Shailesh Amin, who is also a member of a citizen action group, shared a letter written to Chief Minister Bhupendra Patel on a social media platform, evoking responses from several netizens. In the letter, Amin has raised the issue of the recent trend of police parading arrested accused while they are ‘limping’. Amin said that the “dramatisation” of arrests should be avoided. Instead, the government should run bulldozers over the dens of the accused involved in gambling, smuggling of narcotics and alcohol under the nose of the local police with “blind permit”, said the letter. Referring to images of Thursday’s reconstruction of crime scene of Tapan’s murder at the hospital, Amin said, “(The accused) was seen walking faster than the police team that escorted him to the SSG hospital for the reconstruction of the crime. Just two days later, we saw videos of him limping, unable to put his foot down on the ground purportedly due to ‘servicing’ by the police”. “It is better that the officers of the police, district and city administrations stop dancing to the tunes of the ruling party. They must put an end to this (practice of) misleading the public by dramatising the arrests of criminals, who are asked to pretend as if they cannot walk,” said Amin in the letter.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rajeev Omar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Express News Service",
+                "sentiment": "none"
+            },
+            {
+                "name": "Indian Express",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gujarat",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:40:24.297+02:00",
+    "updated": "2024-11-23T01:55:07.512+02:00"
+}

@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "817f438b6ee22976268528d20c93f053e2577bef",
+        "url": "https://gazettengr.com/foundation-celebrates-four-years-of-advocating-childrens-rights",
+        "site_full": "gazettengr.com",
+        "site": "gazettengr.com",
+        "site_section": "https://gazettengr.com",
+        "site_categories": [],
+        "section_title": "Peoples Gazette Nigeria - Truth, Courage or Nothing...",
+        "title": "Foundation celebrates four years of advocating children’s rights",
+        "title_full": "Foundation celebrates four years of advocating children’s rights",
+        "published": "2024-11-24T06:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://gazettengr.com/wp-content/uploads/cdz.png",
+        "performance_score": 0,
+        "domain_rank": 47227,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "817f438b6ee22976268528d20c93f053e2577bef",
+    "url": "https://gazettengr.com/foundation-celebrates-four-years-of-advocating-childrens-rights",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Agency of Nigeria",
+    "published": "2024-11-24T06:37:00.000+02:00",
+    "title": "Foundation celebrates four years of advocating children’s rights",
+    "text": "Ms Benson-Idoko said the foundation was established in 2020 with a mission of transforming the lives of vulnerable and internally displaced children.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Claire Benson-Idoko",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nedeevah Foundation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:14:11.258+02:00",
+    "updated": "2024-11-24T12:26:01.547+02:00"
+}

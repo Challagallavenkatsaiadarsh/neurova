@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "15d8b8eb2561997ccf875561ba3e3a33c8fc099e",
+        "url": "https://zeenews.india.com/india/yogi-adityanath-celebrates-outside-bjp-office-after-up-bypoll-results-2823908.html",
+        "site_full": "zeenews.india.com",
+        "site": "india.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_qa",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Yogi Adityanath Celebrates Outside BJP Office After UP Bypoll Results",
+        "title_full": "Yogi Adityanath Celebrates Outside BJP Office After UP Bypoll Results",
+        "published": "2024-11-24T02:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://english.cdn.zeenews.com/sites/default/files/2024/11/24/1588368-news-2024-11-24t080501.618.png",
+        "performance_score": 0,
+        "domain_rank": 2772,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15d8b8eb2561997ccf875561ba3e3a33c8fc099e",
+    "url": "https://zeenews.india.com/india/yogi-adityanath-celebrates-outside-bjp-office-after-up-bypoll-results-2823908.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2024-11-24T02:07:00.000+02:00",
+    "title": "Yogi Adityanath Celebrates Outside BJP Office After UP Bypoll Results",
+    "text": "Source: Zee News | Title: Yogi Adityanath Celebrates Outside BJP Office After UP Bypoll Results BJP won six assembly by-polls, and its ally Rashtriya Lok Dal (RJD) won one seat, while the Samajwadi Party was able to win just two seats out of nine contested. Read More | Source: Zee News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yogi Adityanath",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission of India",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samajwadi Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kerala",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:58:50.378+02:00",
+    "updated": "2024-11-24T20:09:39.262+02:00"
+}

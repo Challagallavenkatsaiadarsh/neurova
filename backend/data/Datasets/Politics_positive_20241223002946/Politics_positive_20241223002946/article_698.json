@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "3e4f1171ccc051d0dacfc6399b8d00e239e1531a",
+        "url": "https://www.tipranks.com/news/the-fly/rtx-awarded-439-08m-navy-contract-modification",
+        "site_full": "www.tipranks.com",
+        "site": "tipranks.com",
+        "site_section": "https://markets.businessinsider.com/news",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "stocks"
+        ],
+        "section_title": "News | Financial and Business News | Markets Insider",
+        "title": "RTX awarded $439.08M Navy contract modification",
+        "title_full": "RTX awarded $439.08M Navy contract modification",
+        "published": "2024-11-23T00:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://blog.tipranks.com/wp-content/uploads/2023/06/Industrials-9-750x406.jpg",
+        "performance_score": 0,
+        "domain_rank": 16357,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3e4f1171ccc051d0dacfc6399b8d00e239e1531a",
+    "url": "https://www.tipranks.com/news/the-fly/rtx-awarded-439-08m-navy-contract-modification",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "/news/author/thefly",
+    "published": "2024-11-23T00:30:00.000+02:00",
+    "title": "RTX awarded $439.08M Navy contract modification",
+    "text": "Raytheon was awarded a $439.08M firm-fixed-price modification to a previously awarded contract to exercise options for fiscal 2025 Evolved Seasparrow Missile Block II Guided Missile Assemblies. Work is expected to be completed by June 2029. FY25 weapons procurement in the amount of $221.56M; FY25 other customer funds in the amount of $195.9M and FY24 other customer funds in the amount of $21.62M will be obligated at time of award and will not expire at the end of the current fiscal year. The Naval Sea Systems Command is the contracting activity.\nDon't Miss our Black Friday Offers:\n- Unlock your investing potential with TipRanks Premium -\n[Now At 40% OFF!](https://lp.tipranks.com/black-friday-2024-premium2/?coupon=bfcm24p40&sku=3256820&llf=campaign-article-promo&timer=on&custom18=article) - Make smarter investments with\n[weekly expert stock picks from the Smart Investor Newsletter](https://lp.tipranks.com/black-friday-2024-smartinvestor/?coupon=bfcm24si40per&sku=3483380&llf=campaign-article-promo&timer=on&custom18=article)\nPublished first on [TheFly](https://thefly.com/) – the ultimate source for real-time, market-moving breaking financial news. [Try Now>>](https://thefly.com/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thefly.com/",
+        "https://www.thefly.com/",
+        "https://thefly.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Navy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Raytheon",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:16:17.632+02:00",
+    "updated": "2024-11-23T04:16:17.632+02:00"
+}

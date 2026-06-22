@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "32b892e4db2e8e7984bb4a9d948461b4374264f4",
+        "url": "https://www.thenews.com.pk/print/1254028-sikh-yatrees-return-home-today",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk/today",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Today's Newspaper - Latest News, Top Headlines, Breaking News - thenews.com.pk",
+        "title": "Sikh yatrees return home today",
+        "title_full": "Sikh yatrees return home today",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254028_051235_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32b892e4db2e8e7984bb4a9d948461b4374264f4",
+    "url": "https://www.thenews.com.pk/print/1254028-sikh-yatrees-return-home-today",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@APP",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Sikh yatrees return home today",
+    "text": "LAHORE : Sikh yatrees from India, who visited Pakistan to celebrate the 555th birthday of Baba Guru Nanak, will return home via the Wagah border crossing today (Saturday). During their stay, they performed religious rituals at Gurdwara Dera Sahib and expressed gratitude to the government of Pakistan for the hospitality and excellent facilities provided to them.\nOn Thursday and Friday, they performed rituals at Gurdwara Dera Sahib, visited historical sites like the Lahore Fort and Greater Iqbal Park, and enjoyed shopping in Anarkali Bazaar and Shah Alam Market.\nPolice personnel detain supporters the Pakistan Tehreek-e-Insaf during a protest in Lahore on October 5, 2024. —...\nInspector General Police Punjab Dr Usman Anwar addressing an event on December 17, 2023. —...\nParticipants pose for a group photo during the 7th international conference on 'Mental Health and Rehabilitation:...\nVC Punjab University Prof Dr Muhammad Ali Shah assumes charge as the VC of Government College University , Lahore,...\nDG Youth Affairs and Sports Punjab Khizar Afzaal sits in a meeting image released on November 4, 2024. —...\nDIG Muhammad Faisal Kamran seen in this image. — lahorepolice.punjab.gov.pk/file LAHORE : DIG Muhammad Faisal...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Baba Guru",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Muhammad Ali Shah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Usman Anwar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nanak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DG Youth Affairs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Greater Iqbal Park",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anarkali Bazaar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wagah",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:53:50.109+02:00",
+    "updated": "2024-11-23T04:53:50.109+02:00"
+}

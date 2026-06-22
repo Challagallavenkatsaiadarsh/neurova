@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "fb46829f3edd07da92d5f6f0e09142c817c4fb2b",
+        "url": "https://www.wsaz.com:443/2024/11/22/fort-gay-mayor-town-recorder-arrested",
+        "site_full": "www.wsaz.com",
+        "site": "wsaz.com",
+        "site_section": "https://wsaz.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WSAZ News | local, regional, national, international",
+        "title": "Fort Gay mayor, town recorder arrested",
+        "title_full": "Fort Gay mayor, town recorder arrested",
+        "published": "2024-11-22T22:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wsaz-prod.gtv-cdn.com/resizer/v2/UDX5NM4JTRHFPJXIFV5IBJX3R4.jpg?auth=c103649d2afd2669cadf41eb93c209ca8e5f961a63a63cb17e056fe2d23fd812&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 15013,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fb46829f3edd07da92d5f6f0e09142c817c4fb2b",
+    "url": "https://www.wsaz.com:443/2024/11/22/fort-gay-mayor-town-recorder-arrested",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@WSAZnews",
+    "published": "2024-11-22T22:13:00.000+02:00",
+    "title": "Fort Gay mayor, town recorder arrested",
+    "text": "Fort Gay mayor, town recorder arrested\nFORT GAY, W.Va. (WSAZ) - The mayor and town recorder in the town of Fort Gay were arrested Friday on numerous charges, including embezzlement of nearly $200,000 from town funds.\nJoetta Hatfield, the mayor of Fort Gay, and Sheila Bowen, the town recorder, were taken into custody and arraigned in Wayne County Magistrate Court Friday afternoon.\nHatfield and Bowen are both charged with multiple felonies including fraudulent schemes, embezzlement, falsifying accounts, money laundering and conspiracy.\nAccording to criminal complaints filed in Wayne County Magistrate Court, the charges stem from their work for the town of Fort Gay in incidents dating back to March 2019.\nThe complaint alleges that Bowen used various town of Fort Gay account numbers to pay her own American Electric Power bills -- as many as 15 times and totaling more than $8,500. The investigation also shows that Bowen paid her own AT&T bills with more than $16,000 in town funds.\n“Registers given to the Town Councilmembers were either altered or have payments omitted to conceal or disguise the nature, location, source, ownership, or control of the proceeds of the fraudulent activities of both Hatfield and Bowen,” the complaint states.\nThe complaint also said both women managed to embezzle nearly $95,000 each -- with more than 100 checks written to each of them.\n“These checks would then be signed by Hatfield and Bowen to fulfill the two-signature requirement of the checks,” the complaint states.\nBond was set at $25,000 for both women.\nHatfield and Bowen both posted bond.\nBoth women will appear back in court for a preliminary hearing.\nCopyright 2024 WSAZ. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joetta Hatfield",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sheila Bowen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wayne County Magistrate Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "American Electric Power",
+                "sentiment": "none"
+            },
+            {
+                "name": "AT&T",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:09:32.233+02:00",
+    "updated": "2024-11-23T00:09:32.233+02:00"
+}

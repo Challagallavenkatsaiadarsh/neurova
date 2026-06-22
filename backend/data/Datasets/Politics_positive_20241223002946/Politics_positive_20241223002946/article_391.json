@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "98d9ec671839d218c8c6d892e342a57a58b7b8f2",
+        "url": "https://www.dailyherald.com/20241122/submitted-content/elgin-deanery-council-of-catholic-women-installs-new-officers",
+        "site_full": "www.dailyherald.com",
+        "site": "dailyherald.com",
+        "site_section": "http://www.dailyherald.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Daily Herald - Suburban Chicago&#039;s Information Source",
+        "title": "Elgin Deanery Council of Catholic Women installs new officers",
+        "title_full": "Elgin Deanery Council of Catholic Women installs new officers",
+        "published": "2024-11-23T00:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=b4d76765-c251-5385-b91a-b85bdb21beb1&function=fit&type=preview",
+        "performance_score": 0,
+        "domain_rank": 3875,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98d9ec671839d218c8c6d892e342a57a58b7b8f2",
+    "url": "https://www.dailyherald.com/20241122/submitted-content/elgin-deanery-council-of-catholic-women-installs-new-officers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Submitted by Pat Szpekowski",
+    "published": "2024-11-23T00:49:00.000+02:00",
+    "title": "Elgin Deanery Council of Catholic Women installs new officers",
+    "text": "Elgin Deanery Council of Catholic Women installs new officers\nThe Elgin Deanery Council of Catholic Women held its annual Pre-Advent evening of prayer at St. Catherine of Siena Catholic Church in West Dundee on Nov. 19.\nThe evening included an installation ceremony of the 2025-26 officers, which include: Jeannine Hoffman of St. Catherine of Siena parish, president; Linda Meyer of St. Laurence parish in Elgin, vice president; Patricia Small of St. Catherine of Siena parish, secretary; and Marilyn Tynor of St. Catherine of Siena parish, treasurer.\nAfter the installation of officers, Father Matthew Camaioni, parochial vicar of St. Catherine of Siena parish and the council’s spiritual advisor, presented an inspirational talk on being a Catholic and preparing for the Advent season.\nThe Elgin Deanery Council of Catholic Women is a member of the Rockford Diocesan Council of Catholic Women with its purpose to promote friendships and better understanding among the women of the Elgin Deanery. It is composed of the nine parishes within the Elgin Deanery in Carpentersville, Elgin, Gilberts, St. Charles, and West Dundee. All women in these parishes are welcomed and encouraged to join the council, which meets six times a year. Its mission is to focus on projects to fulfill community needs.\nThe types of projects members are involved with include: providing Order of Christian Initiation of Adults gifts to all new candidates into the Catholic faith at all nine parishes; school supplies; toiletries to the women shelters; and hosting a “Sister’s Luncheon” for current and retired religious sisters.\nTo get details or get involved, contact Jeannine Hoffman at rnjvette@sbcglobal.net or Marilyn Tynor at mcty58@sbcglobal.net.\n[terms of service](/info/terms-of-service/#conduct), click the \"flag\" link in the lower-right corner of the comment box. To find our more, read our\n[FAQ](/info/comments/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Camaioni",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jeannine Hoffman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marilyn Tynor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Linda Meyer",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Elgin Deanery Council of Catholic Women",
+                "sentiment": "negative"
+            },
+            {
+                "name": "St. Catherine of Siena Catholic Church",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "St. Laurence",
+                "sentiment": "none"
+            },
+            {
+                "name": "West",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:27:03.476+02:00",
+    "updated": "2024-11-23T02:27:03.476+02:00"
+}

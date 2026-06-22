@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "e3948120625d22884f6f2900d322f7264adbf09e",
+        "url": "https://cbs6albany.com/news/local/congress-bill-seeks-medicare-coverage-for-new-cancer-detection-blood-tests-by-december",
+        "site_full": "cbs6albany.com",
+        "site": "cbs6albany.com",
+        "site_section": "https://cbs6albany.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Congress bill seeks Medicare coverage for new cancer detection blood tests by December",
+        "title_full": "Congress bill seeks Medicare coverage for new cancer detection blood tests by December",
+        "published": "2024-11-22T20:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cbs6albany.com/resources/media2/16x9/608/986/3x0/90/9ea66e13-4a28-4b7a-a404-8dad2ca9d5e9-bloodtest.JPG",
+        "performance_score": 0,
+        "domain_rank": 13231,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3948120625d22884f6f2900d322f7264adbf09e",
+    "url": "https://cbs6albany.com/news/local/congress-bill-seeks-medicare-coverage-for-new-cancer-detection-blood-tests-by-december",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Emma Quinn",
+    "published": "2024-11-22T20:01:00.000+02:00",
+    "title": "Congress bill seeks Medicare coverage for new cancer detection blood tests by December",
+    "text": "NEW YORK (WRGB) — NEW YORK (WRGB) — Each year half a million adults are diagnosed with late-stage cancer.\nThe FDA has approved cancer screening blood tests that can help detect cancer in adults, however, it's not covered by Medicare.\nMulti-cancer Early Detection tests can screen for a variety of cancers that don't currently have annual screenings such as pancreatic and ovarian cancer.\nA bill in Congress would mandate Medicare expands coverage for these blood test screenings.\nExperts at the [Prevent Cancer Foundation](https://preventcancer.org/) say education and lack of coverage options are part of why early screenings aren't done as often.\nRELATED: [NY State Urges Smokers to Quit for Lung Cancer Awareness Month](https://cbs6albany.com/news/local/ny-state-urges-smokers-to-quit-for-lung-cancer-awareness-month#)\nThe bill would impact elders and those in underserved and rural areas of the country; however, the bill must be passed by mid-December.\n“Having insurance coverage of a screening is incredibly important in ensuring access and ensuring equal access,” said Jody Hoyos, CEO of Prevent Cancer Foundation. “Any delays would mean delays for our population of people at highest risk for cancer in being able to detect the cancer early; and that's something you simply can't do.\"\nExperts say early detection allows for more treatment options, less intensive treatment, and ultimately better chances of survival.\nAccording to data from the NYS State Department of Health, from 2017 to 2021 over 116,000 New Yorkers were diagnosed with a form of cancer.\nIn that same period, over 33,000 people died from cancer diagnoses. The bill is sponsored by New York Congressional reps Paul Tonko, Elise Stefanik, Brandon Williams, and Joseph Morelle.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://preventcancer.org/",
+        "https://www.preventcancer.org/",
+        "https://preventcancer.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:24:24.261+02:00",
+    "updated": "2024-11-23T02:24:24.261+02:00"
+}

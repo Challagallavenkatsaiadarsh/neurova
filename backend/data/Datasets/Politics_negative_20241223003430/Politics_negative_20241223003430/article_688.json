@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "6096e0242a53b51d1ed1991e3fd856ced6e2ab53",
+        "url": "https://112.ua/en/v-zsu-sprostuvali-zaavi-pro-pivnicnokorejskih-vijskovih-na-harkivsini-47358",
+        "site_full": "112.ua",
+        "site": "112.ua",
+        "site_section": "https://112.ua/en",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News - fresh events in Ukraine and the world | 112.ua",
+        "title": "The Armed Forces of Ukraine refuted claims about North Korean soldiers in Kharkiv region",
+        "title_full": "The Armed Forces of Ukraine refuted claims about North Korean soldiers in Kharkiv region",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://112.ua/e/uploads/950x550_XpBIki9FJnRJ0nxle94YZ98iyxv5gpiRqH42vI0V.jpeg.png",
+        "performance_score": 0,
+        "domain_rank": 27938,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6096e0242a53b51d1ed1991e3fd856ced6e2ab53",
+    "url": "https://112.ua/en/v-zsu-sprostuvali-zaavi-pro-pivnicnokorejskih-vijskovih-na-harkivsini-47358",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Svyatenko Tamara",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "The Armed Forces of Ukraine refuted claims about North Korean soldiers in Kharkiv region",
+    "text": "The Armed Forces of Ukraine refuted claims about North Korean soldiers in Kharkiv region.\nThe Joint Tactical Group 'Kharkiv' officially refuted the presence of North Korean servicemen on its territory\nThe Joint Tactical Group 'Kharkiv' officially denied the information regarding the presence of North Korean servicemen in the Kharkiv region. The press service of the Joint Tactical Group 'Kharkiv' emphasized that the person who disseminated this information did not have the authority to comment on the operational situation.\nIt concerns the statement made by the commander of the consolidated unit of the 153rd separate mechanized brigade, Nazar Kіshak, which he made on November 21 during a telethon. At that[Time], the military claimed that there were North Korean soldiers in the Kharkiv direction, but he refused to specify their number.\nIt should be noted that earlier, on November 5, Defense Minister Umierov confirmed the fact of the first clashes between the Armed Forces of Ukraine and North Korean soldiers, describing them as 'small-scale battles.' President Zelensky reported on November 7 about the first losses of North Korean soldiers in battles in the Kursk region.\nAccording to FT, which the publication received from Ukrainian intelligence on November 16, North Korea transferred at least 50 artillery systems and 20 multiple launch rocket systems to the Russian side. [Bloomberg](https://www.bloomberg.com) reported on November 17 about the possibility of sending up to 100,000 North Korean troops to support Russia in the war against Ukraine, provided that cooperation between Pyongyang and Moscow deepens further.\nRead also\n[Russia allocated $7 billion for microelectronics, but could not purchase it due to sanctions](https://112.ua/en/u-rf-vidilili-na-mikroelektroniku-7-mlrd-ale-cerez-sankcii-ne-zmogli-ii-zakupiti-47357)[Richard Branson reminded the world of Russia's violations of the Budapest Memorandum](https://112.ua/en/ricard-brenson-nagadav-svitu-pro-porusenna-rosieu-budapestskogo-memorandumu-47360)[Czechia will provide Ukraine with half a million shells: minister named deadlines](https://112.ua/en/cehia-peredast-ukraini-pivmiljona-snaradiv-ministr-nazvav-termini-47365)[The GUR confirmed the existence of a Russian plan for the occupation of Ukraine and its division](https://112.ua/en/gur-pidtverdiv-isnuvanna-rosijskogo-planu-z-okupacii-ukraini-ta-ii-rozdilu-47352)[Housing prices: which apartments in Ukraine are rising the fastest](https://112.ua/en/cini-na-zitlo-aki-kvartiri-v-ukraini-dorozcaut-svidse-47354)[Rutte to discuss peace negotiation strategy regarding Ukraine with Trump](https://112.ua/en/rutte-obgovorit-z-trampom-strategiu-mirnih-peregovoriv-sodo-ukraini-47341)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bloomberg.com",
+        "https://bloomberg.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nazar Kіshak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zelensky",
+                "sentiment": "none"
+            },
+            {
+                "name": "Umierov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Joint Tactical Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kharkiv",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:20:50.170+02:00",
+    "updated": "2024-11-23T01:20:50.170+02:00"
+}

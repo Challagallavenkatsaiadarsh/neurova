@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "d6c1213c3f7be3583894bf3e42f7fbf83e2fe137",
+        "url": "https://zeenews.india.com/india/ncp-vs-ncp-battle-ajit-pawars-outfit-beats-rival-faction-in-29-seats-2823941.html",
+        "site_full": "zeenews.india.com",
+        "site": "india.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_qa",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "NCP Vs NCP Battle: Ajit Pawars Outfit Beats Rival Faction In 29 Seats",
+        "title_full": "NCP Vs NCP Battle: Ajit Pawars Outfit Beats Rival Faction In 29 Seats",
+        "published": "2024-11-24T04:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://english.cdn.zeenews.com/sites/default/files/2024/11/24/1588394-news-2024-11-24t105620.680.png",
+        "performance_score": 0,
+        "domain_rank": 2772,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d6c1213c3f7be3583894bf3e42f7fbf83e2fe137",
+    "url": "https://zeenews.india.com/india/ncp-vs-ncp-battle-ajit-pawars-outfit-beats-rival-faction-in-29-seats-2823941.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-11-24T04:57:00.000+02:00",
+    "title": "NCP Vs NCP Battle: Ajit Pawars Outfit Beats Rival Faction In 29 Seats",
+    "text": "Source: Zee News | Title: NCP Vs NCP Battle: Ajit Pawar`s Outfit Beats Rival Faction In 29 Seats The Ajit Pawar-led NCP has defeated the NCP (SP) headed by his uncle Sharad Pawar in 29 seats in the contest between the two rival factions in the Maharashtra assembly elections. Read More | Source: Zee News",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sharad Pawar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sharadchandra Pawar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:43:06.735+02:00",
+    "updated": "2024-11-24T20:09:40.090+02:00"
+}

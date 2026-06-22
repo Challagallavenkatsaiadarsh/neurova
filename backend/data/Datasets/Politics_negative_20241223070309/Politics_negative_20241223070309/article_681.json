@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "baa7a6a9a9577f4f7bf0d69c404bdbd2023b8911",
+        "url": "https://www.anews.com.tr/turkey/2024/11/23/turkish-foreign-ministry-concerned-about-population-movement-to-kirkuk-amid-census-in-iraq",
+        "site_full": "www.anews.com.tr",
+        "site": "anews.com.tr",
+        "site_section": "https://www.anews.com.tr",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "A News - Daily News, Breaking News, and The Latest News Titles",
+        "title": "Turkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq",
+        "title_full": "Turkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq",
+        "published": "2024-11-22T19:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ia.tmgrup.com.tr/9cba87/806/378/0/0/864/404?u=https://i.tmgrup.com.tr/anews/v1/2024/11/23/turkish-foreign-ministry-concerned-about-population-movement-to-kirkuk-amid-census-in-iraq-1732314610455.jpg",
+        "performance_score": 0,
+        "domain_rank": 94339,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "baa7a6a9a9577f4f7bf0d69c404bdbd2023b8911",
+    "url": "https://www.anews.com.tr/turkey/2024/11/23/turkish-foreign-ministry-concerned-about-population-movement-to-kirkuk-amid-census-in-iraq",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anadolu Agency",
+    "published": "2024-11-22T19:24:00.000+02:00",
+    "title": "Turkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq",
+    "text": "The Turkish Foreign Ministry expressed concern Friday about the population movement toward Iraq's northern Kirkuk province as a nationwide population census is underway.\nTürkiye is closely monitoring developments on the intensive movement of Kurdish people from the Kurdish Regional Government (KRG) to Kirkuk amid the census, Turkish Foreign Ministry spokesman Öncü Keçeli wrote on X.\n\"Although no data on ethnic origins has been collected in the said census, the intense population movement has understandably caused concern among Iraqi Turkmen and Arab communities,\" said Keçeli.\nHe emphasized that the irregularity could result in the inclusion of groups who are not originally from Kirkuk into the city's population through fait accompli and that it would clearly affect future elections.\n\"We expect Iraqi authorities to prevent our Turkmen kin, who have been subjected to countless massacres and atrocities over the past century, from being victimized once again due to these latest developments in the census,\" he said. \"Our primary expectation and sensitivity regarding Kirkuk is that the historical demographic structure of the province is not tampered with, and that the people of Kirkuk continue to live in a manner agreed upon by the original components of the province.\"\nIraq begun a nationwide census Wednesday, including the KRG, the first in 37 years.\nAlthough the census is normally done every 10 years, it has been delayed since the 2003 U.S. invasion of Iraq due to subsequent violence and upheaval.\nA two-day curfew was in place from Wednesday to facilitate the census.\nThe population count is expected to influence various issues such as the national budget, development projects and parliamentary and provincial council seats.\nThe census will be done electronically and will not include questions about ethnicity or sect.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Öncü Keçeli",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Foreign Ministry",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "baa7a6a9a9577f4f7bf0d69c404bdbd2023b8911",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:20:32.422+02:00",
+    "updated": "2024-11-23T01:20:32.422+02:00"
+}

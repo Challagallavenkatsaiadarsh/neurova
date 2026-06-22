@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "4cc684217bda51d4baccb17bd622a72d8caa315a",
+        "url": "https://www.inkl.com/news/trump-names-hedge-fund-manager-scott-bessent-as-treasury-chief",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "Trump Names Hedge Fund Manager Scott Bessent As Treasury Chief",
+        "title_full": "Trump Names Hedge Fund Manager Scott Bessent As Treasury Chief",
+        "published": "2024-11-23T02:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21225896/hedge-fund-manager-scott-bessent-has-reportedly-been-tapped-lead-us-treasury-new-administration.jpg",
+        "performance_score": 0,
+        "domain_rank": 37287,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4cc684217bda51d4baccb17bd622a72d8caa315a",
+    "url": "https://www.inkl.com/news/trump-names-hedge-fund-manager-scott-bessent-as-treasury-chief",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:12:00.000+02:00",
+    "title": "Trump Names Hedge Fund Manager Scott Bessent As Treasury Chief",
+    "text": "US President-elect Donald Trump on Friday named billionaire Scott Bessent as his Treasury secretary, choosing the hedge fund manager to help execute an agenda promising tax cuts and tariffs.\nBessent, who is chief executive officer of Key Square Group, has called for an extension of tax cuts from Trump's first term, wants to reassert American energy dominance, and believes it is necessary to deal with the budget deficit.\n\"Scott is widely respected as one of the world's foremost international investors and geopolitical and economic strategists,\" Trump said in a statement.\n\"He will help me usher in a new Golden Age for the United States, as we fortify our position as the world's leading economy,\" he said, adding Bessent would also help \"reinvigorate the private sector, and help curb the unsustainable path of federal debt.\"\nThe nomination of Bessent -- who recently served as an economic advisor to Trump -- would put him at the forefront of rolling out the president-elect's economic plan, from seeing tax cuts through Congress to managing ties with countries like China.\nThe position carries influence over both domestic and international policy.\nWith Trump promising sweeping tariffs on allies and adversaries alike, all eyes will be on how his new Treasury chief walks the line between supporting these efforts and fanning trade tensions that might roil the global economy.\nThe Treasury Department has oversight across a range of departments, from federal finances to bank supervision. The portfolio also oversees US sanctions.\nBessent has in recent times called for tax reform and deregulation to spur growth.\nIn a Wall Street Journal opinion piece, he said this would be key to \"restarting the American growth engine\" and helping keep prices in check.\nHe has also defended Trump's position on trade, saying on Trump ally Roger Stone's radio show that the president-elect wants free trade but \"we haven't had fair trade, we haven't had reciprocal trade.\"\nThis month, Bessent called tariffs \"a negotiating tool with our trading partners\" in an opinion piece for Fox News, adding that it was \"a means to finally stand up for Americans.\"\nBessent, who is from South Carolina, attended Yale University and served as chief investment officer of Soros Fund Management, the macroeconomic investment firm of billionaire George Soros.\nIn 2015, he raised capital, including $2 billion from Soros, to start his own hedge fund.\nIn his interview with Stone, Bessent said that he has known the Trump family for 30 years and was friends with the president-elect's brother.\n\"I was all-in for President Trump. I was one of the few Wall Street people backing him,\" he told Stone.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Key Square Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4cc684217bda51d4baccb17bd622a72d8caa315a",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:21:25.139+02:00",
+    "updated": "2024-11-23T02:21:58.392+02:00"
+}

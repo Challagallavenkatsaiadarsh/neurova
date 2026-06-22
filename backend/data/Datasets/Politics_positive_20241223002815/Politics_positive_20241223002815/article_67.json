@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "32c0c5e52b6dbd6f5b66a1de5245e7690c5dcd28",
+        "url": "https://www.thestar.com.my/news/world/2024/11/23/us-stocks-close-higher",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://thestar.com.my/news/latest",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Latest - News | The Star",
+        "title": "U.S. stocks close higher | The Star",
+        "title_full": "U.S. stocks close higher | The Star",
+        "published": "2024-11-22T23:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "32c0c5e52b6dbd6f5b66a1de5245e7690c5dcd28",
+    "url": "https://www.thestar.com.my/news/world/2024/11/23/us-stocks-close-higher",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kuai Bixiaoxin",
+    "published": "2024-11-22T23:15:00.000+02:00",
+    "title": "U.S. stocks close higher | The Star",
+    "text": "NEW YORK, Nov. 22 (Xinhua) -- U.S. stocks ended higher on Friday.\nThe Dow Jones Industrial Average rose 426.16 points, or 0.97 percent, to 44,296.51. The S&P 500 added 20.63 points, or 0.35 percent, to 5,969.34. The Nasdaq Composite Index increased 31.23 points, or 0.16 percent, to 19,003.65.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:30:15.093+02:00",
+    "updated": "2024-11-23T06:48:05.282+02:00"
+}

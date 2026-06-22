@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "b6bbea98cbd86972c024f7c875f946f950110ed4",
+        "url": "https://www.newsbreak.com/news/3686057375084-henry-co-clerk-donna-craig-honored-with-2-awards-at-county-officials-conference",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/murray-ky",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Murray, KY Local News and More | NewsBreak",
+        "title": "Henry Co. Clerk Donna Craig Honored With 2 Awards At County Officials Conference",
+        "title_full": "Henry Co. Clerk Donna Craig Honored With 2 Awards At County Officials Conference",
+        "published": "2024-11-22T23:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/3iHDhd_0wy9P6hZ00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b6bbea98cbd86972c024f7c875f946f950110ed4",
+    "url": "https://www.newsbreak.com/news/3686057375084-henry-co-clerk-donna-craig-honored-with-2-awards-at-county-officials-conference",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shannon McFarlin",
+    "published": "2024-11-22T23:33:00.000+02:00",
+    "title": "Henry Co. Clerk Donna Craig Honored With 2 Awards At County Officials Conference",
+    "text": "radionwtn.com 2 hours ago 2 hours ago Comments / YOU MAY ALSO LIKE Court erupts in applause as Tiffanie Lucas sentenced to life for killing sons & claiming she was ‘manipulated by WiFi’ The US Sun8 hours ago BBC10 hours ago Uncovering Florida16 days ago Herbie J Pilato8 days ago Sheriff allegedly guns down judge in his own chamber in execution caught on video; indictment returned Fox News7 hours ago Robert Russell Shaneyfelt12 days ago The Current GA29 days ago Explore Beaufort SC19 days ago Angry Ben3 hours ago Dianna Carney9 days ago Golden Gate Media12 days ago Dianna Carney1 day ago Arizona Luminaria6 days ago Dianna Carney1 day ago Mississippi News Group2 days ago The HD Post5 hours ago The HD Post10 days ago Jacksonville Today22 days ago Jacksonville Today24 days ago Arizona Luminaria9 days ago David Heitz12 days ago Military.com6 hours ago Explore Beaufort SC24 days ago Northern Kentucky Tribune21 days ago Dianna Carney11 days ago David Heitz26 days ago Dianna Carney9 days ago David Heitz27 days ago Dianna Carney3 days ago David Heitz15 days ago Get updates delivered to you daily. Free and customizable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donna Craig",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert Russell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dianna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:39:10.375+02:00",
+    "updated": "2024-11-23T01:39:10.375+02:00"
+}

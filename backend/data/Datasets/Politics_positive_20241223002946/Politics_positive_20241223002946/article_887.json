@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "f052fb5140b0e7682cbded8e094983aafabcea39",
+        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1246810",
+        "site_full": "www.daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://www.daijiworld.com/home",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+        "title": "1984 anti-Sikh riot victims hail PM Modi's govt on receiving job letter from Delhi L-G Saxena - Daijiworld.com",
+        "title_full": "1984 anti-Sikh riot victims hail PM Modi's govt on receiving job letter from Delhi L-G Saxena - Daijiworld.com",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "http://daijiworld.com/images/daijiSquareLogo.png",
+        "performance_score": 0,
+        "domain_rank": 24675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f052fb5140b0e7682cbded8e094983aafabcea39",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1246810",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "1984 anti-Sikh riot victims hail PM Modi's govt on receiving job letter from Delhi L-G Saxena - Daijiworld.com",
+    "text": "New Delhi, Nov 23 (IANS): The 1984 anti-Sikh riot victims living in the national capital, who received appointment letters from Delhi Lieutenant Governor (L-G) V.K. Saxena, have praised the Prime Minister Narendra Modi-led government on Friday and said that now they see the future of their children secure. L-G Saxena on Thursday visited a colony built in West Delhi's Tilak Vihar for the victims of the 1984 anti-Sikh riots and gave job appointment letters to about 50 people. Deepak Sethi, a local resident, who received the job letter, said that it has brought him a huge relief. He further added, \"The future of our children seems secure now. The previous governments had halted our work. We have been demanding jobs since 2006. Yesterday, 50 people received appointment letters.\" Harvinder Singh, another local resident who received the appointment letter from L-G Saxena, said that the file regarding appointment letters was passed in 2006, but only now the work has been done. He further added, \"There is a lot of relief. Now the future of the children is secure.\" Atma Singh Lubana, Vice-President of Delhi Sikh Gurdwara Management Committee (DSGMC), who has made a significant contribution in fighting for jobs for the 1984 anti-Sikh riot victims, said that about 500-600 more people are expected to get jobs, whose files are still pending. The L-G has directed the Divisional Commissioner and the Chief Secretary to set up a camp here next week and verify all the files regarding giving appointment letters to all the victims of the 1984 anti-Sikh riots. Those who have not received job letters will get them soon. Lubana said that in 2006, the then Congress government had shortlisted the names of 72 people for jobs, but \"cleverly\" did not give jobs to anyone. \"Some of the anti-Sikh riot victims were not recruited based on being illiterate while others were rejected based on old age. The Lieutenant Governor has removed all such conditions,\" the DSGMC Vice-President added. Regarding the changes that came after the formation of PM Modi's government, Lubana said that the 1984 riots accused Sajjan Kumar was sent to jail and a charge sheet has been filed against another prime accused Congress leader Jagdish Tytler. He also thanked the Central government, BJP President J.P. Nadda, and state party president Virendra Sachdeva for providing jobs to many 1984 riot victims in Delhi. Disclaimer: Please write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article. Please note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request. Hence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Modi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Harvinder Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Deepak Sethi",
+                "sentiment": "none"
+            },
+            {
+                "name": "V.K. Saxena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tilak Vihar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "West",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:28:03.767+02:00",
+    "updated": "2024-11-23T06:18:44.931+02:00"
+}

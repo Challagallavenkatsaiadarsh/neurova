@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "87fdfe3056e93d2bc6af35074f2d13ff87cfbc34",
+        "url": "https://www.newindianexpress.com/states/telangana/2024/Nov/23/caste-survey-covers-over-one-crore-households",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Caste survey covers over one crore households",
+        "title_full": "Caste survey covers over one crore households",
+        "published": "2024-11-22T22:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2Fi4c23auo%2FNew-Project-2024-11-23T070326.764.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "87fdfe3056e93d2bc6af35074f2d13ff87cfbc34",
+    "url": "https://www.newindianexpress.com/states/telangana/2024/Nov/23/caste-survey-covers-over-one-crore-households",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Manda Ravinder Reddy",
+    "published": "2024-11-22T22:34:00.000+02:00",
+    "title": "Caste survey covers over one crore households",
+    "text": "HYDERABAD: The ongoing caste survey reached one crore household milestone. The social, economic, educational, political and caste survey, which stated on November 6 in the state, covered 1,01,40,767 (87.1 per cent) households as on Friday.\nAccording to officials, the enumerators have covered 100 per cent of targeted households in Mulugu and Jangaon districts, 99.9 per cent in Nalgonda and Medak, 99 per cent in Yadadri-Bhuvanagiri, Jagtial and Gadwal districts. In Kamareddy district, 98.5 per cent of the survey has been completed and its around 98 per cent in Mancherial, Asifabad, Nizamabad and Sircilla districts.\nDue to high population density, the survey progress is slow in Greater Hyderabad, Medchal and Sangareddy districts, they added.\nOfficials also said that though the citizens initially expressed certain doubts and misconceptions, they cooperated with the enumerators and shared all details after Chief Minister A Revanth Reddy appealed to the people, stating that the caste survey would be useful for social empowerment and the upliftment of BC, SC, ST and weaker sections in the future. The government came to the conclusion that there were a total of 1,16,14,349 families in the state.\nThe survey found that out of the total 1,16,14,349 families, 64,41,183 are in rural areas and 51,73,166 in urban areas. A total of 87,807 enumerators are on duty to carry out this survey, 47,561 of them in rural areas and 40,246 in urban areas.\nA supervisor was appointed for every 10 enumerators.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Yadadri-Bhuvanagiri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mancherial",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kamareddy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greater",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mulugu",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:43:24.172+02:00",
+    "updated": "2024-11-23T03:43:24.172+02:00"
+}

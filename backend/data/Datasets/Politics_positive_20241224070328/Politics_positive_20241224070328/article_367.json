@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "442daa512fed7398a74a9bde929954d0a7c4667d",
+        "url": "http://island.lk/sri-lanka-banks-association-reiterates-support-to-new-govt",
+        "site_full": "island.lk",
+        "site": "island.lk",
+        "site_section": "https://www.island.lk",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Island - Daily English Language Newspaper in Sri Lanka",
+        "title": "Sri Lanka Banks’ Association reiterates support to new Govt.",
+        "title_full": "Sri Lanka Banks’ Association reiterates support to new Govt.",
+        "published": "2024-11-24T02:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "LK",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 35539,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "442daa512fed7398a74a9bde929954d0a7c4667d",
+    "url": "http://island.lk/sri-lanka-banks-association-reiterates-support-to-new-govt",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Thilina Walpola",
+    "published": "2024-11-24T02:10:00.000+02:00",
+    "title": "Sri Lanka Banks’ Association reiterates support to new Govt.",
+    "text": "The Sri Lanka Banks’ Association (SLBA) yesterday congratulated President Anura Kumara Dissanayake on his party’s resounding victory at the Parliamentary Election and pledged its support to the new Government in the challenging journey ahead.\nThe Association, which represents all licenced banks in Sri Lanka, also noted that its recent interactions with the Presidential Secretariat has given it confidence in the President’s inclusive approach to problem-solving.\nThe full text of the SLBA congratulatory message is as follows.\n“Please accept our heartfelt congratulations on your party’s resounding victory in the recent Parliamentary Election.\nThe people of Sri Lanka have placed their trust in you and your team, and we are confident that you will lead the nation towards prosperity with transparency and accountability.\nThe banking sector is committed to supporting your Government in the challenging journey ahead. We understand the importance of maintaining political and social stability, which is underpinned by a strong economy. As a lynchpin in this structure, the banking sector is fully committed to ensuring financial stability. Our recent interactions with the Presidential Secretariat have given us confidence in your inclusive approach to problem-solving.\nWe wish you, the Honourable Prime Minister, the new Cabinet, and all the newly elected Parliamentarians every success in your endeavours.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anura Kumara Dissanayake",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Presidential Secretariat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Association",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:06:45.006+02:00",
+    "updated": "2024-11-24T03:06:45.006+02:00"
+}

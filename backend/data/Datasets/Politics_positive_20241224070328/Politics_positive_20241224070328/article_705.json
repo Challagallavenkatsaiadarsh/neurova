@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "77e4f10206077402c9e2f24ac11fedd8a9195f89",
+        "url": "https://pakobserver.net/issi-pips-sign-mou-on-mutual-collaboration",
+        "site_full": "pakobserver.net",
+        "site": "pakobserver.net",
+        "site_section": "https://pakobserver.net",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Pakistan Observer - Latest News, Pakistan News, and World News",
+        "title": "ISSI, PIPS sign MoU on mutual collaboration",
+        "title_full": "ISSI, PIPS sign MoU on mutual collaboration",
+        "published": "2024-11-23T22:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://pakobserver.net/wp-content/uploads/2024/11/3-6.jpg",
+        "performance_score": 0,
+        "domain_rank": 36289,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "77e4f10206077402c9e2f24ac11fedd8a9195f89",
+    "url": "https://pakobserver.net/issi-pips-sign-mou-on-mutual-collaboration",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zubair Qureshi",
+    "published": "2024-11-23T22:22:00.000+02:00",
+    "title": "ISSI, PIPS sign MoU on mutual collaboration",
+    "text": "The Institute of Strategic Studies Islamabad (ISSI) and Pakistan Institute for Parliamentary Services (PIPS) have signed a comprehensive Memorandum of Understanding (MoU) for mutual collaboration.\nThis partnership aims to enhance collaborative efforts in providing credible research-based analysis to key decision-makers and policymakers in Pakistan.\nThe MoU was signed by Ambassador SohailMahmood, Director General, ISSI and Mr. Muhammad Rashid MafzoolZaka, Executive Director, PIPS. The ceremony was attended by senior representatives from the two Institutes.\nWithin the framework of this partnership, ISSI and PIPS will work together on a range of areas such as parliamentary affairs, legislation, governance, policy-making processes, foreign affairs, climate change, public health, Sustainable Development Goals (SDGs), National Action Plan, violent extremism, strategic communication, and other subjects relevant to development, prosperity, and foreign policy. By combining the strengths of both institutions, the partnership aims to contribute significantly to the discourse on governance and policy formulation in Pakistan.\nThe collaboration envisaged under this MoU is expected to facilitate knowledge-sharing and joint research initiatives that will help empower policymakers with informed insights on critical national issues. The two institutions also aim to more deeply engage the Next Generation (NextGen) by fostering youth-inclusive dialogue and amplifying their voices in the policy process.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Muhammad Rashid MafzoolZaka",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ISSI",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Pakistan Institute for Parliamentary Service",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:53:24.552+02:00",
+    "updated": "2024-11-24T05:53:24.552+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "40f49f9e4d20f8f98f14e5340d04c8c0da2e2fbd",
+        "url": "https://www.newsbreak.com/news-5-cleveland-wews-563665/3686209277234-legislation-to-stop-street-takeovers-headed-to-full-cleveland-city-council",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/news-5-cleveland-wews-563665",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "News 5 Cleveland WEWS&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T01:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/45s1B8_0wyJ2bqo00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "40f49f9e4d20f8f98f14e5340d04c8c0da2e2fbd",
+    "url": "https://www.newsbreak.com/news-5-cleveland-wews-563665/3686209277234-legislation-to-stop-street-takeovers-headed-to-full-cleveland-city-council",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T01:35:00.000+02:00",
+    "title": "",
+    "text": "By Tara Morgan ,\n9 hours ago Tougher legislation to stop street takeovers in Cleveland is on its way to the full city council.\nToday, the council safety committee approved a measure to amend the street racing ordinance. It would add stunt driving and street takeovers to the list of prohibited actions.\nCleveland would also be able to seize custom car parts, which is currently on the books in the city of Columbus.\nThat would include steering wheels, wheels, tires and mufflers, or any part of the vehicle or component that was adapted for use in street takeovers, stunt driving or racing.\n“This is an important piece with increased definitions which are important but also the components are important because this will allow us not only when we seize the vehicles we can seize parts of the vehicles that will essentially incapacitate them,” said Cleveland Law Director Mark Griffin.\nGriffin said as technology changes, criminals become more creative, and we have to get creative as well.\nIn late September, citywide takeovers in Cleveland spanned more than five hours, culminating in a takeover that shut down I-90. During that takeover, police officers were hit with Airsoft pellets, an off-duty Parma officer was assaulted, and a party bus was attacked by a masked mob.\nWhat Cleveland is learning from Columbus's success stopping street takeovers RELATED: Columbus arrested hundreds after massive street takeover. Why has Cleveland only arrested 3?\nDuring today’s safety committee meeting, Cleveland Police Chief Annie Todd says to date, they’ve made 10 felony arrests in the late September citywide takeovers and seized four guns and eight cars.\nPolice created a task force specifically to investigate street takeovers in Cleveland.\nCleveland's police chief says new task force investigating street takeovers RELATED: Cleveland's police chief says new task force investigating street takeovers\nChief Todd says since Sept. 28th, they haven’t seen city street takeovers. But there are still car meets happening in parking lots.\nPolice takeover details on weekends are still going on and have resulted in nine more arrests, according to Chief Todd.\nThe full council will take up the proposed legislation on Monday.\nCouncilman Mike Polensek, who chairs the safety committee, said during today’s meeting, “We’re not playing around, we’re beyond playing at this point.”\nWe Follow Through Want us to continue to follow through on a story? Let us know. First Name Last Name Email What story do you want us to follow through on? What questions do you have? Please include the headline and/or URL of the story you want us to follow through on. Provide any other information that may help us to follow through on the story Captcha",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.news5cleveland.com/news/local-news/what-cleveland-is-learning-from-columbuss-success-stopping-street-takeovers",
+        "https://www.news5cleveland.com/news/local-news/clevelands-police-chief-says-new-task-force-investigating-street-takeovers",
+        "https://img.particlenews.com/image.php?url=45s1B8_0wyJ2bqo00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=45s1B8_0wyJ2bqo00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=45s1B8_0wyJ2bqo00",
+        "https://www.img.particlenews.com/image.php?url=45s1B8_0wyJ2bqo00",
+        "https://news5cleveland.com/news/local-news/what-cleveland-is-learning-from-columbuss-success-stopping-street-takeovers",
+        "https://news5cleveland.com/news/local-news/clevelands-police-chief-says-new-task-force-investigating-street-takeovers"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tara Morgan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mark Griffin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:58:53.993+02:00",
+    "updated": "2024-11-23T11:07:40.569+02:00"
+}

@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "b349492802b3a225d526657ac9dc5ec8b3989cf0",
+        "url": "https://www.aa.com.tr/en/middle-east/turkish-foreign-ministry-concerned-about-population-movement-to-kirkuk-amid-census-in-iraq/3401763",
+        "site_full": "www.aa.com.tr",
+        "site": "aa.com.tr",
+        "site_section": "https://www.aa.com.tr/en/rss/default?cat=live",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news_tr",
+            "top_news"
+        ],
+        "section_title": "Anadolu Ajansı Güncel Haberler",
+        "title": "Turkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq",
+        "title_full": "Turkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq",
+        "published": "2024-11-22T21:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/23/thumbs_b_c_a10a285bfcec7aeafac9585c87af5a2c.jpg?v=015521",
+        "performance_score": 0,
+        "domain_rank": 1762,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b349492802b3a225d526657ac9dc5ec8b3989cf0",
+    "url": "https://www.aa.com.tr/en/middle-east/turkish-foreign-ministry-concerned-about-population-movement-to-kirkuk-amid-census-in-iraq/3401763",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T21:54:00.000+02:00",
+    "title": "Turkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq",
+    "text": "Türkİye,\nMiddle East\nTurkish Foreign Ministry concerned about population movement to Kirkuk amid census in Iraq\n‘Although census does not collect ethnic data, intense population movement raises concerns among Iraqi Turkmen, Arab communities,’ says spokesman\nANKARA\nThe Turkish Foreign Ministry expressed concern Friday about the population movement toward Iraq's northern Kirkuk province as a nationwide population census is underway.\nTürkiye is closely monitoring developments on the intensive movement of Kurdish people from the Kurdish Regional Government (KRG) to Kirkuk amid the census, Turkish Foreign Ministry spokesman Oncu Keceli wrote on X.\n\"Although no data on ethnic origins has been collected in the said census, the intense population movement has understandably caused concern among Iraqi Turkmen and Arab communities,\" said Keceli.\nHe emphasized that the irregularity could result in the inclusion of groups who are not originally from Kirkuk into the city's population through fait accompli and that it would clearly affect future elections.\n\"We expect Iraqi authorities to prevent our Turkmen kin, who have been subjected to countless massacres and atrocities over the past century, from being victimized once again due to these latest developments in the census,\" he said. \"Our primary expectation and sensitivity regarding Kirkuk is that the historical demographic structure of the province is not tampered with, and that the people of Kirkuk continue to live in a manner agreed upon by the original components of the province.”\nIraq begun a nationwide census Wednesday, including the KRG, the first in 37 years.\nAlthough the census is normally done every 10 years, it has been delayed since the 2003 US invasion of Iraq due to subsequent violence and upheaval.\nA two-day curfew was in place from Wednesday to facilitate the census.\nThe population count is expected to influence various issues such as the national budget, development projects and parliamentary and provincial council seats.\nThe census will be done electronically and will not include questions about ethnicity or sect.\nAnadolu Agency website contains only a portion of the news stories offered to subscribers in the AA News Broadcasting System (HAS), and in summarized form. Please contact us for subscription options.\nGlobal experts discuss financing energy transition at Istanbul Energy Forum\nUK premier discusses Russia-Ukraine war with NATO chief\nMpox continues to be international public health emergency, says WHO chief\nWHO chief expresses 'deep concern' after Israeli airstrikes on Gaza Strip",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Oncu Keceli",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Foreign Ministry",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:15:50.584+02:00",
+    "updated": "2024-11-23T01:15:50.584+02:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "19b2369d53d09291b841cf12871e63533781a605",
+        "url": "https://www.fox13news.com/news/matt-gaetz-says-he-wont-return-congress-next-year-after-withdrawing-name-attorney-general",
+        "site_full": "www.fox13news.com",
+        "site": "fox13news.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Matt Gaetz says he won't return to Congress next year after withdrawing name for attorney general | FOX 13 Tampa Bay",
+        "title_full": "Matt Gaetz says he won't return to Congress next year after withdrawing name for attorney general | FOX 13 Tampa Bay",
+        "published": "2024-11-22T20:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/06/1280/720/Matt-Geatz-probe-Main-Image.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 6962,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "19b2369d53d09291b841cf12871e63533781a605",
+    "url": "https://www.fox13news.com/news/matt-gaetz-says-he-wont-return-congress-next-year-after-withdrawing-name-attorney-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@FOX13news",
+    "published": "2024-11-22T20:39:00.000+02:00",
+    "title": "Matt Gaetz says he won't return to Congress next year after withdrawing name for attorney general | FOX 13 Tampa Bay",
+    "text": "Share WASHINGTON - Former Rep. Matt Gaetz said Friday that he will not be returning to Congress after withdrawing his name from consideration to be attorney general under President-elect Donald Trump amid growing allegations of sexual misconduct.\"I&apos;m still going to be in the fight, but it&apos;s going to be from a new perch. I do not intend to join the 119th Congress,\" Gaetz told conservative commentator Charlie Kirk, adding that he has \"some other goals in life that I&apos;m eager to pursue with my wife and my family.\"The announcement comes a day after Gaetz, a Florida Republican, stepped aside from the Cabinet nomination process amid growing fallout from federal and House Ethics investigations that cast doubt on his ability to be confirmed as the nation&apos;s chief federal law enforcement officer. The 42-year-old has vehemently denied the allegations against him. Congressman Matt Gaetz (R-FL) questions Special Counsel Robert Hur at a House Judiciary Committee hearing in Washington on March 12, 2024. (Photo by Nathan Posner/Anadolu via Getty Images) Gaetz&apos;s nomination as attorney general had stunned many career lawyers inside the Justice Department, but reflected Trump&apos;s desire to place a loyalist in a department he has marked for retribution following the criminal cases against him.Hours after Gaetz withdrew, Trump nominated Pam Bondi, the former Florida attorney general, who would come to the job with years of legal work under her belt and that other trait Trump prizes above all: loyalty.It&apos;s unclear what&apos;s next for Gaetz, who is no longer a member of the House. He surprised colleagues by resigning from Congress the same day that Trump nominated him for attorney general. PREVIOUS: Matt Gaetz withdraws from attorney general consideration Some speculated he could still be sworn into office for another two-year term on Jan. 3, given that he had just won reelection earlier this month.But Gaetz, who has been in state and national politics for 14 years, said he&apos;s done with Congress.\"I think that eight years is probably enough time in the United States Congress,\" he said. STAY CONNECTED WITH FOX 13 TAMPA BAY: All the news you need to know, every dayBy clicking Sign Up, I confirm that I have read and agree to the Privacy Policy and Terms of Service .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nathan Posner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Charlie Kirk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robert Hur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tampa Bay Share",
+                "sentiment": "negative"
+            },
+            {
+                "name": "House Judiciary Committee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cabinet",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:56:32.472+02:00",
+    "updated": "2024-11-23T00:56:32.472+02:00"
+}

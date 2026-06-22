@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "afd750483a934fdf0c199f2fff0d4e5be7535a87",
+        "url": "https://en.antaranews.com/news/335625/prabowo-promises-to-work-hard-to-boost-ri-uae-ties",
+        "site_full": "en.antaranews.com",
+        "site": "antaranews.com",
+        "site_section": "https://en.antaranews.com",
+        "site_categories": [
+            "media",
+            "top_news_id",
+            "top_news"
+        ],
+        "section_title": "Latest Indonesia News - ANTARA News",
+        "title": "Prabowo promises to work hard to boost RI-UAE ties - ANTARA News",
+        "title_full": "Prabowo promises to work hard to boost RI-UAE ties - ANTARA News",
+        "published": "2024-11-24T02:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.antaranews.com/cache/1200x800/2024/11/23/IMG-20241123-WA0057_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 6871,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "afd750483a934fdf0c199f2fff0d4e5be7535a87",
+    "url": "https://en.antaranews.com/news/335625/prabowo-promises-to-work-hard-to-boost-ri-uae-ties",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Livia Kristianti, Yashinta Difa",
+    "published": "2024-11-24T02:46:00.000+02:00",
+    "title": "Prabowo promises to work hard to boost RI-UAE ties - ANTARA News",
+    "text": "Prabowo promises to work hard to boost RI-UAE ties November 24, 2024 08:46 GMT+700\nPresident Prabowo Subianto writes a message in the guest book at the Qasr Al Watn Presidential Palace, Abu Dhabi, the UAE, on Saturday (November 23, 2024). (ANTARA/HO-Presidential Secretariat Press Bureau) Jakarta (ANTARA) - President Prabowo Subianto has vowed to work hard to strengthen bilateral relations between Indonesia and the United Arab Emirates (UAE).\nHe conveyed this promise in a written message during his state visit to UAE on Saturday (November 23), in which he also thanked the government and the people of the Arab country for their honor and warm welcome.\n\"I am entitled to work hard to enhance the cooperation and the friendship between the UAE and Indonesia,\" wrote Prabowo, who was welcomed by UAE President Mohamed bin Zayed Al Nahyan (MBZ) at the Qasr Al Watn Presidential Palace in Abu Dhabi.\nPrabowo was greeted with a state ceremony at Qasr Al Watn. Upon arriving at the gate of the presidential palace, his convoy was welcomed by cavalry and camels as well as traditional musicians, accompanied by a blast salute of 21 cannon blasts.\nAt the entrance to Qasr Al Watn, President Prabowo was greeted by President MBZ. The two shook hands and then walked past several children who welcomed the two leaders.\nAfterward, the national anthems of both countries were played and the two leaders were seen standing between the Indonesian and UAE flags.\nThe state welcoming ceremony ended with a luncheon hosted by President MBZ.\nAfter the welcome ceremony, Prabowo and MBZ held a bilateral meeting and witnessed the signing of several memorandums of understanding (MoUs) between the two countries.\nThe MoUs included cooperation in industry and advanced technology, energy, health, culture, tourism, mining and infrastructure, as well as government development and renewal.\nRelated news: Prabowo, MBZ hold bilateral meeting, witness MoU signings\nRelated news: President Prabowo invites King Charles III to Indonesia\nTranslator: Livia Kristianti, Yashinta Difa\nEditor: Tia Mutiasari\nCopyright © ANTARA 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Prabowo Subianto",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Mohamed bin Zayed Al Nahyan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ANTARA News Prabowo",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:02:58.475+02:00",
+    "updated": "2024-11-26T17:20:46.396+02:00"
+}

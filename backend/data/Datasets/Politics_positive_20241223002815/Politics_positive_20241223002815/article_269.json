@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "269082b62c94f4cbeb6bc44f18fe9574cfe55893",
+        "url": "https://www.thenews.com.pk/print/1254075-trump-taps-pam-bondi-for-attorney-general",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "Trump taps Pam Bondi for attorney general",
+        "title_full": "Trump taps Pam Bondi for attorney general",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254075_042026_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "269082b62c94f4cbeb6bc44f18fe9574cfe55893",
+    "url": "https://www.thenews.com.pk/print/1254075-trump-taps-pam-bondi-for-attorney-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@AFP",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "Trump taps Pam Bondi for attorney general",
+    "text": "WASHINGTON: US President-elect Donald Trump tapped Pam Bondi, a staunch ally who helped defend the ex-leader against impeachment, as US attorney general on Friday following firebrand Matt Gaetz´s withdrawal from the running. The nomination of Bondi, a former Florida attorney general who served as a surrogate during the 2024 campaign and pushed to de-legitimize vote counting in swing state Pennsylvania in 2020, could be seen as a useful tool for Trump in his attempt to settle personal grievances. “For too long, the partisan Department of Justice has been weaponized against me and other Republicans -- Not anymore,” Trump wrote on his Truth Social network in announcing Bondi´s nomination. Bondi, 59, was a member of Trump´s legal team during his first Senate impeachment trial, in which he was alleged to have pressured Ukrainian President Volodymyr Zelensky, using aid as leverage, to hand over political dirt on Biden. “Pam will refocus the DOJ to its intended purpose of fighting Crime, and Making America Safe Again,” Trump wrote, adding that she is “smart and tough, and is an AMERICA FIRST Fighter.” Trump has made several eye-catching selections for top roles, including Fox News host Pete Hegseth as defence secretary, vaccine skeptic Robert F. Kennedy Jr. as health secretary and billionaire Elon Musk to head a government cost-cutting unit. The exit of Gaetz, 42, was the first setback for Trump and Vice-president elect JD Vance in placing key allies in top positions, but his confirmation by the Senate was widely seen as doomed due to lack of support from fellow Republicans. US President-elect Donald Trump.— AFP/file NEW YORK: The judge in Donald Trump´s criminal hush money case ordered... Russian President Vladimir Putin conducts an exercise of Russia's strategic nuclear deterrence forces to train actions... Pantsir-S surface-to-air missile and anti-aircraft artillery systems move through Red Square in Moscow, Russia. —... The Iranian flag flutters in front of the International Atomic Energy Agency organisation's headquarters in Vienna,... Indian Prime Minister Narendra Modi listens as President Joe Biden, not pictured, delivers remarks during an event... A Taliban security personnel stands in Baraki Barak district of Logar Province. — AFP/fileKABUL: At least 10 people...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Volodymyr Zelensky",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Justice",
+                "sentiment": "none"
+            },
+            {
+                "name": "DOJ",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bondi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:34:50.934+02:00",
+    "updated": "2024-11-23T01:37:23.406+02:00"
+}

@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "1424447fd9d5578cb848327dcaaf627aa6f69f7b",
+        "url": "https://baltimorechronicle.com/glavnoe/2024/11/22/putin-gives-trump-new-signal-on-negotiations-source-says-what-kremlin-ready-to-do",
+        "site_full": "baltimorechronicle.com",
+        "site": "baltimorechronicle.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Putin Gives Trump New Signal on Negotiations: Source Says What Kremlin Ready to Do",
+        "title_full": "Putin Gives Trump New Signal on Negotiations: Source Says What Kremlin Ready to Do",
+        "published": "2024-11-23T02:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 125995,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1424447fd9d5578cb848327dcaaf627aa6f69f7b",
+    "url": "https://baltimorechronicle.com/glavnoe/2024/11/22/putin-gives-trump-new-signal-on-negotiations-source-says-what-kremlin-ready-to-do",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Назар Богудан",
+    "published": "2024-11-23T02:20:00.000+02:00",
+    "title": "Putin Gives Trump New Signal on Negotiations: Source Says What Kremlin Ready to Do",
+    "text": "Russian President Vladimir Putin expressed readiness to discuss the settlement of the conflict in Ukraine in a dialogue with former US President Donald Trump.\nThis was reported by URA-Inform with reference to Reuters.\nAs the above-mentioned agency's sources warn, the Russian side rules out any territorial concessions. The Kremlin insists that a peace agreement should be based on maintaining the existing front line and demands for Ukraine's neutral status.\nAccording to information from five sources familiar with the Kremlin's position, Moscow is ready to end hostilities if an agreement is reached on the borders dividing the Donetsk, Luhansk, Zaporizhia and Kherson regions.\nIn addition, the Kremlin allows for the possibility of withdrawing troops from certain areas, but only on the condition of guaranteed security for the Russian population in eastern Ukraine.\nRussia’s additional demands include Ukraine’s abandonment of NATO membership and a cap on its armed forces, which the Kremlin says will ensure the region’s strategic security and reduce the risk of a direct military clash with the West. Russia also insists on the return of Russian language rights to protect cultural and ethnic interests in Ukraine’s eastern regions.\nIf an agreement is reached, Putin will be able to portray it as a domestic victory, claiming that the protection of Russian speakers and Russia’s strategic interests in eastern Ukraine are assured.\nAccording to Russian officials, Crimea remains off the agenda because Russia does not plan to discuss the region in international talks. The Kremlin wants the final agreements to reaffirm strategic gains and solidify demarcation lines that Russia sees as necessary for national security.\nAgainst this backdrop, Zelensky made a sad admission about the 1991 borders.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ura-inform.com/akczent-ru/2024/11/22/putin-dal-novyj-signal-trampu-po-peregovoram-istochnik-skazal-na-chto-gotov-pojti-kreml/",
+        "https://www.ura-inform.com/akczent-ru/2024/11/22/putin-dal-novyj-signal-trampu-po-peregovoram-istochnik-skazal-na-chto-gotov-pojti-kreml/",
+        "https://ura-inform.com/akczent-ru/2024/11/22/putin-dal-novyj-signal-trampu-po-peregovoram-istochnik-skazal-na-chto-gotov-pojti-kreml"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            },
+            {
+                "name": "NATO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Zaporizhia",
+                "sentiment": "none"
+            },
+            {
+                "name": "Luhansk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kremlin",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:40:44.038+02:00",
+    "updated": "2024-11-23T02:58:46.112+02:00"
+}

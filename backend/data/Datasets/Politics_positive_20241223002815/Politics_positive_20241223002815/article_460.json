@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "46f8c9517e5360299a23c39ea7b15e76f2ccaecb",
+        "url": "https://news.webindia123.com/news/Articles/India/20241123/4258810.html",
+        "site_full": "news.webindia123.com",
+        "site": "webindia123.com",
+        "site_section": "https://webindia123.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest News,India news,bollywood news,career guidance,Education,business listings,travel,health,entertainment,videos,food,craft,automobile|webindia123.com ",
+        "title": "Anurag Thakur addresses public grievances in Hamirpur",
+        "title_full": "Anurag Thakur addresses public grievances in Hamirpur",
+        "published": "2024-11-23T02:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 20846,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "46f8c9517e5360299a23c39ea7b15e76f2ccaecb",
+    "url": "https://news.webindia123.com/news/Articles/India/20241123/4258810.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:41:00.000+02:00",
+    "title": "Anurag Thakur addresses public grievances in Hamirpur",
+    "text": "Hamirpur (Himachal Pradesh) | November 23, 2024 5:41:52 AM IST Bharatiya Janata Party (BJP) MP Anurag Thakur visited his constituency on Friday. Speaking to ANI, Anurag Thakur said he met local residents at his office to address their issues.\n\"I met the local people in my office in Hamirpur today to resolve their problems. Some issues will be raised with the concerned officials, for which I have invited them to the Disha Committee meeting so that these matters can be discussed in the presence of all relevant officials,\" the BJP MP stated.\nEarlier, after senior AAP leader Kailash Gahlot joined the BJP on Monday, Anurag Thakur criticised the Aam Aadmi Party (AAP), alleging it had surpassed the Congress in corruption, leading to its ministers leaving the party one by one.\n\"AAP made big promises to the public that it failed to fulfil. It could not live up to public expectations. Aam Aadmi Party is synonymous with corruption. There is hardly any party more corrupt than AAP in the country. Corruption began with Kejriwal and has gradually spread to its MLAs and ministers. Although the party is called the Aam Aadmi Party, it has nothing to do with the common man. AAP has broken even the Congress's record in corruption. This is why the Chief Minister and Deputy Chief Minister of the Aam Aadmi Party, embroiled in corruption, have resigned, and their ministers are leaving the party one after another,\" Thakur told reporters in Hamirpur.\nIn a significant setback for the Aam Aadmi Party ahead of the Delhi Assembly polls, senior leader Kailash Gahlot joined the BJP on Monday.\nGahlot, who resigned from AAP on Sunday citing concerns over the party's direction and internal challenges, joined the BJP in the presence of Union Minister Manohar Lal Khattar and other BJP leaders. (ANI)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anurag Thakur",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kailash Gahlot",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kejriwal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "46f8c9517e5360299a23c39ea7b15e76f2ccaecb",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:47:17.304+02:00",
+    "updated": "2024-11-23T02:47:17.304+02:00"
+}

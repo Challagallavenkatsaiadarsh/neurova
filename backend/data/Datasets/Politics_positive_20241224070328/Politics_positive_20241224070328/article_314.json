@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "59c5df5699eb0f49b6ad4694cedbe011e554bf8c",
+        "url": "https://heraldcourier.com/news/nation-world/government-politics/elections",
+        "site_full": "heraldcourier.com",
+        "site": "heraldcourier.com",
+        "site_section": "https://heraldcourier.com/news/nation-world/government-politics/elections",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Elections | heraldcourier.com",
+        "title": "Elections | heraldcourier.com",
+        "title_full": "Elections | heraldcourier.com",
+        "published": "2024-11-24T02:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/heraldcourier.com/content/tncms/custom/image/1535352e-c546-11ea-b9dc-173835b2f051.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 22720,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "59c5df5699eb0f49b6ad4694cedbe011e554bf8c",
+    "url": "https://heraldcourier.com/news/nation-world/government-politics/elections",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Bristol Herald Courier",
+    "published": "2024-11-24T02:07:00.000+02:00",
+    "title": "Elections | heraldcourier.com",
+    "text": "Women will for the first time make up a majority of state legislators in Colorado and New Mexico next year, but at least 13 states saw losses in female representation after the November election.\n[Bristol Herald Courier - Tricities](/), PO Box 609 Bristol, VA 24203",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kelly Ayotte",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elon Musk",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harris",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bristol Herald Courier",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:41:15.970+02:00",
+    "updated": "2024-11-29T04:49:12.773+02:00"
+}

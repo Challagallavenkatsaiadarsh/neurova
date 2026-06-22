@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "74dd78a989728c4fc09f5a076d03edba95ad3562",
+        "url": "https://extra.ie/2024/11/22/news/benjamin-netanyahu-ireland-tanaiste",
+        "site_full": "extra.ie",
+        "site": "extra.ie",
+        "site_section": "https://www.extra.ie",
+        "site_categories": [
+            "media",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Home - Top Irish news, sport, entertainment &amp; business",
+        "title": "Tanaiste says Ireland would arrest Benjamin Netanyahu after ICC arrest warrant",
+        "title_full": "Tanaiste says Ireland would arrest Benjamin Netanyahu after ICC arrest warrant",
+        "published": "2024-11-22T20:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 27105,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "74dd78a989728c4fc09f5a076d03edba95ad3562",
+    "url": "https://extra.ie/2024/11/22/news/benjamin-netanyahu-ireland-tanaiste",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Philip Downes",
+    "published": "2024-11-22T20:48:00.000+02:00",
+    "title": "Tanaiste says Ireland would arrest Benjamin Netanyahu after ICC arrest warrant",
+    "text": "The Tánaiste has said that Ireland would arrest the Israeli Prime Minister Benjamin Netanyahu, after a warrant was issued for his arrest.\nMr Netanyahu, his former Defence Chief Yoav Gallant, and Hamas leader Mohammed Diab Ibrahim Al-Masri, were all hit with arrest warrants by the International Criminal Courts for alleged crimes against humanity during the Hamas attack on October 7, and Israel’s response to the attack during the ongoing war in Gaza.\nThe decision to issue the warrant was derided by Israeli officials but called a ‘significant step’ by outgoing Taoiseach Simon Harris — with the outgoing Tánaiste Micheál Martin saying that Mr Netanyahu and Mr Al-Masri would be arrested if they were to enter Ireland, off the foot of the ICC warrant.\nThe Tánaiste has said that Ireland would arrest the Israeli Prime Minister Benjamin Netanyahu, after a warrant was issued for his arrest. Pic: Leah Farrell/RollingNews.ie ‘As far as I’m concerned, war crimes have been committed in Gaza,’ Mr Martin told Newstalk on Friday. ‘What’s happening in Northern Gaza at the moment is absolutely horrific. It is resulting in a forced expulsion of a population.’\nMr Martin said that Israel’s actions in Gaza are ‘genocidal’ and a ‘collective punishment of a people’ — adding ‘Ireland wants to have accountability through the International Courts.\n‘We’ve supported the ICJ and the advisory opinion on the occupation.’\nAn arrest warrant was issued for Mr Netanyahu, his former defence chief yoav Gallant, and Hamas leader Mohammed Diab Ibrahim Al-Masri by the International Court of Justice. Pic: Lior Mizrahi/Getty Images Despite fears that Ireland’s position on Palestine, including recognising a Palestinian state, would impact economic relations between Ireland and the US, Mr Martin hopes that President-elect Donald Trump will end the ongoing war.\n‘The war needs to end, the hostages need to be released and there needs to be a massive surge of humanitarian aid into Gaza,’ Mr Martin said. ‘We can respectfully make our points to different administrations, including the US.’\nIsrael rejected the court’s ‘antisemitic’ decision to issue arrest warrants for Mr Netanyahu and Mr Gallant, with Simon Harris saying in a statement that the arrest warrants are an ‘extremely significant step,’ and said that there are ‘reasonable grounds to believe that Mr Netanyahu and Mr Gallant each bear criminal responsibility for crimes perpetrated in the war in Gaza.’\nTaoiseach Simon Harris called the warrants ‘an extremely significant step.’ Pic: Brian Lawless/PA Wire ‘The decision of the International Criminal Court to issue arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former Defence Minister Yoav Gallant, as well as for Hamas leader Mohammed Deif, is an extremely significant step,’ Mr Harris said.\n‘The court points to reasonable grounds to believe that Mr Netanyahu and Mr Gallant each bear criminal responsibility for crimes perpetrated in the war in Gaza, including the war crime of starvation as a method of warfare, and the crimes against humanity of murder, persecution and other inhumane acts.’\n‘In the case of the leadership of Hamas, the court points to reasonable grounds that Mr Deif, along with Mr Ismail Haniyeh and Mr Yahya Sinwar, agreed to carry out the attacks of 7 October and that Mr Deif is responsible for crimes against humanity of murder; extermination; torture; and rape and other form of sexual violence; as well as the war crimes of murder, cruel treatment, torture; taking hostages; outrages upon personal dignity; and rape and other forms of sexual violence.\n‘These charges could not be more serious.\n‘The Government has long expressed its profound concern about the conduct of the war in Gaza and has stated clearly its belief that the rules of international law and international humanitarian law have not been upheld.’",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newstalk.com/news/ireland-would-arrest-benjamin-netanyahu-if-he-came-here-tanaiste-1785902",
+        "https://newstalk.com/news/ireland-would-arrest-benjamin-netanyahu-if-he-came-here-tanaiste-1785902"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mohammed Diab Ibrahim Al-Masri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tánaiste Micheál Martin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Taoiseach Simon Harris",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Leah Farrell",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ICC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hamas",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:51.800+02:00",
+    "updated": "2024-11-23T00:08:51.800+02:00"
+}

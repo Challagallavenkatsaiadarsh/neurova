@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "03decee7044d229bb80dc6f987c61c84e4746460",
+        "url": "https://www.barrons.com/news/main-points-of-the-300-billion-climate-deal-7e34e177?refsec=topics_afp-news",
+        "site_full": "www.barrons.com",
+        "site": "barrons.com",
+        "site_section": "https://www.barrons.com/news",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "AFP (Agence France-Press) | Barron's",
+        "title": "Main Points Of The $300 Billion Climate Deal | Barron's",
+        "title_full": "Main Points Of The $300 Billion Climate Deal | Barron's",
+        "published": "2024-11-24T05:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 1326,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "03decee7044d229bb80dc6f987c61c84e4746460",
+    "url": "https://www.barrons.com/news/main-points-of-the-300-billion-climate-deal-7e34e177?refsec=topics_afp-news",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP - Agence France Presse",
+    "published": "2024-11-24T05:18:00.000+02:00",
+    "title": "Main Points Of The $300 Billion Climate Deal | Barron's",
+    "text": "Text size The deal reached at UN climate talks in Azerbaijan ramps up the money that wealthy historic emitters will provide to help poorer nations transition to cleaner energy and adapt to global warming.\nHere are the main points of the agreement reached at COP29 in Baku:\nUnder a framework established by the UN in 1992, 23 developed countries -- and the European Union -- historically responsible for most planet-heating emissions are obliged to contribute to climate finance.\nThe Baku accord raises the amount of money that developed countries must provide to at least $300 billion per year by 2035.\nIt is higher than the $100 billion that is currently required under a previous agreement that runs until next year.\nBut it falls well short of the $500 billion that some developing countries had demanded at the fraught negotiations in Baku.\nThe deal states that the money will come directly from a \"wide variety of sources\" including government budgets, private sector investment, and other financing.\nIt also cites \"alternative sources\" -- a reference to potential global taxes under discussion on the aviation and maritime industries, and the rich.\nThe hope is that the money from developed countries will help boost private investment to reach an ambitious goal -- written into the deal -- of delivering at least $1.3 trillion per year by the next decade.\nThat is the amount that experts commissioned by the United Nations said was needed by 2035.\n\"With these funds and with this structure, we are confident we will reach the 1.3 trillion objective,\" EU climate commissioner Wopke Hoekstra told fellow COP29 delegates.\nThe United States and EU had pushed to broaden the donor base to include countries that are still listed as developing but have now become wealthy, such as China and Saudi Arabia.\nBut China, the world's second-biggest economy and top emitter of greenhouse gases, has steadfastly refused to change its status while recalling that it already provides bilateral aid.\nThe deal states that developed nations would be \"taking the lead\" in providing the $300 billion -- implying that others could join.\nThe text \"encourages\" developing countries to \"make contributions\" that would remain \"voluntary\".\nThere was one novelty: the climate finance that developing countries such as China provide via multilateral development banks will count towards the $300 billion goal.\n\"It is also a matter of fairness and of importance to us that all those with the ability to do so should contribute,\" Hoekstra said.\n\"Therefore it is good, given the size of the problem, that we enlarge the contributor base on a voluntary basis.\"\nThe negotiations were also the scene of disagreements within the developing world.\nThe Least Developed Countries (LDCs) bloc had asked that it receive $220 billion per year, while the Alliance of Small Island States (AOSIS) wanted $39 billion -- demands that were opposed by other developing nations.\nThe figures did not appear in the final deal.\nInstead, it calls for tripling other public funds they receive by 2030.\nThe next COP, in Brazil in 2025, is expected to issue a report on how to boost climate finance for these countries.\nbur-bl/ico/lth/fox",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "03decee7044d229bb80dc6f987c61c84e4746460",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:32:44.433+02:00",
+    "updated": "2024-11-24T05:32:44.433+02:00"
+}

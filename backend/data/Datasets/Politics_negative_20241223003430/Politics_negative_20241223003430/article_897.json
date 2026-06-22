@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "dc5fb31784f0b20dc7cb80b87c9e71c46e456679",
+        "url": "https://www.austinchronicle.com/daily/news/2024-11-22/cop29-as-another-trump-term-looms-a-not-so-rosy-outlook-for-climate-negotiations",
+        "site_full": "www.austinchronicle.com",
+        "site": "austinchronicle.com",
+        "site_section": "https://www.austinchronicle.com/news",
+        "site_categories": [
+            "music",
+            "entertainment"
+        ],
+        "section_title": "News - The Austin Chronicle",
+        "title": "COP29: As Another Trump Term Looms, a Not So Rosy Outlook for Climate Negotiations: In times of geopolitical tumult, civil society rises to the challenge - News - The Austin Chronicle",
+        "title_full": "COP29: As Another Trump Term Looms, a Not So Rosy Outlook for Climate Negotiations: In times of geopolitical tumult, civil society rises to the challenge - News - The Austin Chronicle",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.austinchronicle.com/imager/b/original/3213755/503b/DualLogo.TexasImpact_Chron.jpeg",
+        "performance_score": 0,
+        "domain_rank": 5684,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dc5fb31784f0b20dc7cb80b87c9e71c46e456679",
+    "url": "https://www.austinchronicle.com/daily/news/2024-11-22/cop29-as-another-trump-term-looms-a-not-so-rosy-outlook-for-climate-negotiations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "COP29: As Another Trump Term Looms, a Not So Rosy Outlook for Climate Negotiations: In times of geopolitical tumult, civil society rises to the challenge - News - The Austin Chronicle",
+    "text": "COP29: As Another Trump Term Looms, a Not So Rosy Outlook for Climate Negotiations\nIn times of geopolitical tumult, civil society rises to the challenge\n5:29PM, Fri. Nov. 22, 2024\nAs the world’s eyes turn to Azerbaijan for the United Nations Climate Change Conference (COP29), Austin-based Texas Impact/Texas Interfaith Power & Light is sending video dispatches from the conference to the Chronicle.\nBeaman Floyd and Christine Moffett discuss the status of the climate negotiations ongoing in Baku. Spoiler: It's not going well.\n[Follow Texas Impact/Texas Interfaith Power & Light's continuing coverage from COP29.](/cop29/)\nAbout Texas Impact\nTexas Impact exists to put faith into action. We equip faith leaders and their congregations with the information, opportunities, and outreach tools to educate their communities and engage with lawmakers on pressing public policy issues. We are an interfaith group that works together on issues that impact the most vulnerable people in our communities. We help people live out their faith in the public square, moving the faith community from charity to justice.\nGot something to say on the subject? [Send a letter to the editor](https://www.austinchronicle.com/gyrobase/Postmark).\nA note to readers: Bold and uncensored, The Austin Chronicle has been Austin’s independent news source for over 40 years, expressing the community’s political and environmental concerns and supporting its active cultural scene. Now more than ever, we need your support to continue supplying Austin with independent, free press. If real news is important to you, please consider making a donation of $5, $10 or whatever you can afford, to help keep our journalism on stands.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christine Moffett",
+                "sentiment": "none"
+            },
+            {
+                "name": "Beaman Floyd",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Texas Impact/Texas Interfaith Power & Light",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:39:53.911+02:00",
+    "updated": "2024-11-23T01:39:53.911+02:00"
+}

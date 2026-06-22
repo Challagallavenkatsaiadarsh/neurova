@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "c0531b2cc4be47b801665217f7e3239e9d8377d2",
+        "url": "https://origin.mid-day.com/news/india-news/article/nda-gains-substantial-traction-in-14-state-bypolls-23435023",
+        "site_full": "origin.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://origin.mid-day.com/lifestyle/food",
+        "site_categories": [
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Food News Today: Your Source for Delicious Food Insights and Tasteful Trends | Mid-Day",
+        "title": "NDA gains substantial traction in 14 state bypolls",
+        "title_full": "NDA gains substantial traction in 14 state bypolls",
+        "published": "2024-11-23T08:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.mid-day.com/images/images/2024/nov/Siddaramaiah-ii_d.jpg",
+        "performance_score": 0,
+        "domain_rank": 6468,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0531b2cc4be47b801665217f7e3239e9d8377d2",
+    "url": "https://origin.mid-day.com/news/india-news/article/nda-gains-substantial-traction-in-14-state-bypolls-23435023",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencies",
+    "published": "2024-11-23T08:07:00.000+02:00",
+    "title": "NDA gains substantial traction in 14 state bypolls",
+    "text": "A total of 48 Assembly seats went to the bypolls across 14 states on Saturday, with the NDA winning 28. In what political observers called the first face-off between the ruling BJP at the Centre and the Opposition INDIA bloc after the Lok Sabha polls earlier this year, the following states saw a tight electoral raceAssam, Bihar, Chhattisgarh, Gujarat, Karnataka, Kerala, MP, Meghalaya, Punjab, Rajasthan, Sikkim, Uttarakhand, UP and West Bengal. In the politically crucial state of Uttar Pradesh, the BJP and Rashtriya Lok Dal won in seven bypoll constituencies, while Akhilesh Yadavs SP won only Karhal and Sishamau. While the Congress was seen in choppy electoral waters once again after the Maharashtra debacle, Karnataka gave the Grand Old Party a reason to rejoice. Buoyed by ruling partys victory in all three Assembly constituencies in Karnataka, Chief Minister Siddaramaiah on Saturday said he won in the peoples court. Congresss Pathan Yasir Ahmed Khan won the Shiggaon seat by a margin of 13,448 votes, defeating BJPs Bharat Bommai, son of Basavaraj Bommai. In Channapatna, Congress candidate CP Yogeeswara defeated Janata Dal (Secular)s Nikhil Kumaraswamy, son of Union Minister and former CM, HD Kumaraswamy, by a margin of 25,413 votes. In the neighbouring state of Gujarat, BJP leader Swarupji Thakor defeated his nearest Congress rival, Gulabsinh Rajput, by 2,442 votes in the bypoll to the Vav Assembly constituency. Meanwhile, in Keralas Lok Sabha bypolls in Wayanad, Priyanka Gandhi Vadra secured over six lakh votes, defeating CPIs Sathyan Mokeri with a margin of over 4.1 lakh votes. In West Bengal, TMC swept the Assembly bypolls. The party managed to wrest the Madarihat constituency in Alipurduar district, which had gone to the BJP in the 2021 and 2016 elections. TMC also won Sitai, Haroa, Naihati, Taldangra, and Medinipur constituencies. Both The BJP and the Opposition parties have accused each other of poll malpractices. 28No of seats NDA won out of 48 Assembly constituencies",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pathan Yasir Ahmed Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Basavaraj Bommai",
+                "sentiment": "none"
+            },
+            {
+                "name": "Siddaramaiah",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rashtriya Lok Dal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chhattisgarh",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Bengal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karnataka",
+                "sentiment": "none"
+            },
+            {
+                "name": "Meghalaya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rajasthan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gujarat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sikkim",
+                "sentiment": "none"
+            },
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kerala",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:19:41.321+02:00",
+    "updated": "2024-11-24T05:19:41.321+02:00"
+}

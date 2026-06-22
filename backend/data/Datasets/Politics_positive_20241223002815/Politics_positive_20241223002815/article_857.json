@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "bef4e8ac52d63a367becd28fae14ce9de1486f45",
+        "url": "https://www.rediff.com/news/report/bjp-led-alliance-takes-early-lead-in-maharashtra-elections/20241123.htm",
+        "site_full": "www.rediff.com",
+        "site": "rediff.com",
+        "site_section": "http://www.rediff.com",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Rediff.com: News | Rediffmail | Stock Quotes | Rediff Gurus",
+        "title": "BJP-led alliance takes early lead in Maharashtra elections - Rediff.com India News",
+        "title_full": "BJP-led alliance takes early lead in Maharashtra elections - Rediff.com India News",
+        "published": "2024-11-23T02:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://im.rediff.com/news/2024/nov/23maharashtra-evms.jpg",
+        "performance_score": 0,
+        "domain_rank": 2852,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bef4e8ac52d63a367becd28fae14ce9de1486f45",
+    "url": "https://www.rediff.com/news/report/bjp-led-alliance-takes-early-lead-in-maharashtra-elections/20241123.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saisuresh",
+    "published": "2024-11-23T02:39:00.000+02:00",
+    "title": "BJP-led alliance takes early lead in Maharashtra elections - Rediff.com India News",
+    "text": "The ruling BJP-led Mahayuti alliance appeared set to retain power in Maharashtra, and was leading in 214 of the 288 assembly seats, as per the latest figures by the Election Commission.\nIMAGE: Shiv Sena workers celebrate the assembly election results, Mumbai November 23, 2024. Photograph: ANI Photo The opposition Maha Vikas Aghadi appeared stumbling, with its candidates leading in 49 seats, as per the early trends.\nAs per ECI figures, in the Mahayuti, BJP candidates were leading in 109 seats, Shiv Sena in 56 and NCP in 34 seats.\n In the MVA, Nationalist Congress Party (Sharadchandra Pawar) candidates were leading in 14 seats, Congress in 19 and Shiv Sena (Uddhav Balasaheb Thackeray) in 21 seats.\nMaharashtra Chief Minister Eknath Shinde and his deputies Devendra Fadnavis and Ajit Pawar were leading in their respective assembly constituencies in the first round of the counting of votes.\nThe counting of votes in the Maharashtra assembly elections began at 8 am Saturday, with all eyes on the outcome of the battle between the ruling BJP-led Mahayuti coalition and the Maha Vikas Aghadi (MVA) alliance.\nThe final turnout in the polls, held on November 20, was 66.05 per cent, up from 61.1 per cent in 2019.\nIn the ruling Mahayuti alliance, the BJP contested 149 assembly seats, Shiv Sena 81 seats, and the Ajit Pawar-led NCP fielded candidates in 59 constituencies.\nIn the MVA combine, the Congress fielded 101 candidates, Shiv Sena (UBT) 95, and NCP (SP) put up 86 candidates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nana Patole",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maharashtra Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sakoli",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:15:50.986+02:00",
+    "updated": "2024-11-28T08:37:44.350+02:00"
+}

@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "70209817698c82b0c33b6cd3321e0b0189813b23",
+        "url": "https://origin.mid-day.com/mumbai/mumbai-news/article/maharashtra-elections-2024-vote-split-helps-aaditya-thackeray-win-brings-amit-thackerays-downfall-23435012",
+        "site_full": "origin.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://origin.mid-day.com/sports/football",
+        "site_categories": [
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Football News Today: Live Scores, Results, and Highlights | Mid-day",
+        "title": "Maharashtra Elections 2024: Aaditya Thackeray Triumphs as Vote Split, While Amit Thackeray Faces Setback",
+        "title_full": "Maharashtra Elections 2024: Aaditya Thackeray Triumphs as Vote Split, While Amit Thackeray Faces Setback",
+        "published": "2024-11-23T07:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.mid-day.com/images/images/2024/nov/Aaditya-Thackeray_d.jpg",
+        "performance_score": 0,
+        "domain_rank": 6468,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "70209817698c82b0c33b6cd3321e0b0189813b23",
+    "url": "https://origin.mid-day.com/mumbai/mumbai-news/article/maharashtra-elections-2024-vote-split-helps-aaditya-thackeray-win-brings-amit-thackerays-downfall-23435012",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dipti Singh",
+    "published": "2024-11-23T07:57:00.000+02:00",
+    "title": "Maharashtra Elections 2024: Aaditya Thackeray Triumphs as Vote Split, While Amit Thackeray Faces Setback",
+    "text": "The Thackeray family, an enduring force in Maharashtras political landscape, witnessed a significant chapter in the 2024 state assembly elections as cousins Aaditya Thackeray and Amit Thackeray contested from neighbouring constituencies, Worli and Mahim, respectively. However, the electoral outcomeswith Aaditya retaining Worli, while Amit lost his poll debut in Mahimhighlighted the shifting dynamics within their political strongholds and the impact of factional rivalries. Ironically, while Aaditya benefited from his uncle Raj Thackerays tactical manoeuvres in Worli, Amit bore the brunt of Uddhav Thackerays strategy in Mahim. Aadityas second innings Aaditya, contesting for a second term from the Worli assembly constituency, emerged victorious against formidable opposition. The seat, which was the undivided Senas stronghold, saw a high-stakes, three-way contest involving Aaditya, Milind Deora from the CM Eknath Shinde-led Sena, and Sandeep Deshpande from MNS. Deora, a seasoned politician and former Union minister with significant influence in South Mumbai, was initially tipped to have an edge. However, Aaditya managed to retain the seat, securing 63,324 votes8,800 votes more than Deoras 54,523 votes. It appears that MNS decision to field Deshpandewho captured 19,367 votes and split the Marathi stronghold voteis what tipped the scales in Aadityas favour and helped him retain his seat. Amit out on maiden bid In Mahim, Amit faced a challenging three-way battle against Senas Sada Sarvankar and Mahesh Sawant from Sena (UBT). Despite a spirited campaign, Amit finished a distant third, securing 33,062 votes compared to Sawants winning tally of 50,213 and Sarvankars 48,897. The Mahim contest was marred by internal disagreements within the Mahayuti alliance. BJPs Mumbai President Ashish Shelar had initially proposed extending support to Amit, a move aimed at consolidating the Marathi vote base. However, Sarvankars decision to contest independently fractured the alliance, effectively paving the way for Sawants victory. Political observers noted that had Uddhav Thackeray refrained from fielding a candidate against Amithis cousin Raj Thackerays sonthe debutant contestant might have stood a better chance of clinching the seat. The narrow margin of 1,300 votes between Sawant and Sarvankar further highlighted how factional divisions and strategic missteps shaped the outcome. The results have triggered intense debate over the shifting loyalties and polarisation among Marathi and Hindu voters across the Thackeray-led factions and the MNS.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sandeep Deshpande",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aaditya Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amit Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Raj Thackerays",
+                "sentiment": "none"
+            },
+            {
+                "name": "Milind Deora",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Mahim",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            },
+            {
+                "name": "Worli",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:14:47.749+02:00",
+    "updated": "2024-11-24T04:14:47.749+02:00"
+}

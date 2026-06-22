@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "bf6e8915487dd90dd228975bc0688cff4d72eab4",
+        "url": "https://www.newsmax.com/newsfront/sarah-mcbride-trans-bathroom/2024/11/22/id/1189118",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://www.klif.com",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "KLIF 570 News &amp; Info | KLIF-AM",
+        "title": "Rep.-elect McBride: Bathroom Flap Shows 'Disrespect' | Newsmax.com",
+        "title_full": "Rep.-elect McBride: Bathroom Flap Shows 'Disrespect' | Newsmax.com",
+        "published": "2024-11-22T23:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a1973b71-dd6b-478b-832d-6db5cd31b568&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2382,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bf6e8915487dd90dd228975bc0688cff4d72eab4",
+    "url": "https://www.newsmax.com/newsfront/sarah-mcbride-trans-bathroom/2024/11/22/id/1189118",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mark Swanson",
+    "published": "2024-11-22T23:06:00.000+02:00",
+    "title": "Rep.-elect McBride: Bathroom Flap Shows 'Disrespect' | Newsmax.com",
+    "text": "By Mark Swanson | Friday, 22 November 2024 04:06 PM EST\nRep.-elect Sarah McBride, D-Del., said that her use of a bathroom on Capitol Hill was \"not an issue\" for her, calling it disrespectful that a handful of Republicans \"decided to manufacture a crisis\" in order to \"get headlines.\"\nMcBride, set to become the first transgender member of Congress, made the remarks in an interview with CBS News on Thursday.\n\"If anyone had thought to ask me about what I was planning on doing, I would've been happy to tell them,\" McBride said. \"But again, this is not an issue. And this has never been an issue in this complex.\"\nRep. Nancy Mace, R-S.C., introduced legislation on Monday aimed at limiting single-sex bathrooms to a person's biological sex, saying her bill was \"absolutely\" aimed at McBride, who was born a male.\nThe measure quickly gained traction, especially with other Republican women lawmakers, culminating with House Speaker Mike Johnson, R-La., announcing Wednesday that \"all single-sex facilities in the Capitol and House Office Buildings — such as restrooms, changing rooms, and locker rooms — are reserved for individuals of that biological sex.\"\nMcBride said she would abide by the rule — she didn't run for Congress \"to fight about bathrooms\" — but added she never intended to use multi-stall women's bathrooms.\n\"But, again, that is my choice here. I always knew that there would be an effort to politicize my use of a restroom,\" McBride told CBS News. \"Everything was fine, until some members of the small Republican Conference majority decided to get headlines and to manufacture a crisis.\n\"I would like my approach of respecting everyone to contrast with the disrespect that we are seeing right now.\"\nMark Swanson, a Newsmax writer and editor, has nearly three decades of experience covering news, culture and politics.\n© 2024 Newsmax. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\nInterest-Based Advertising | Do not sell or share my personal information\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah McBride",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mark Swanson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mike Johnson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nancy Mace",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "CBS News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:01:11.114+02:00",
+    "updated": "2024-11-23T01:01:11.114+02:00"
+}

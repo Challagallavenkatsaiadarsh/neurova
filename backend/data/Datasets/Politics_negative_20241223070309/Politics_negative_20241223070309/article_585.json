@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "91afac495401787258587826c3256f9c4ee16bf3",
+        "url": "https://baltimorechronicle.com/politika/2024/11/22/national-guard-officer-names-reason-for-intensification-of-russian-assaults-near-petrovka-in-pokrovsky-direction",
+        "site_full": "baltimorechronicle.com",
+        "site": "baltimorechronicle.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "National Guard officer names reason for intensification of Russian assaults near Petrovka in Pokrovsky direction",
+        "title_full": "National Guard officer names reason for intensification of Russian assaults near Petrovka in Pokrovsky direction",
+        "published": "2024-11-23T00:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "https://baltimorechronicle.com/wp-content/uploads/2024/11/794f2027f6d200f56e21253104338f2a.jpg",
+        "performance_score": 0,
+        "domain_rank": 125995,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "91afac495401787258587826c3256f9c4ee16bf3",
+    "url": "https://baltimorechronicle.com/politika/2024/11/22/national-guard-officer-names-reason-for-intensification-of-russian-assaults-near-petrovka-in-pokrovsky-direction",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Newman",
+    "published": "2024-11-23T00:50:00.000+02:00",
+    "title": "National Guard officer names reason for intensification of Russian assaults near Petrovka in Pokrovsky direction",
+    "text": "Vitaliy Litvin, an officer of the intelligence department of the 4th operational brigade “Rubezh” of the National Guard of Ukraine, explained the increase in Russian activity near Petrovka near Pokrovsk.\n11 0\nA National Guard officer reported on the air of the We are Ukraine TV channel that Russian The occupation forces in the Pokrovsk direction have intensified their assaults near the village of Petrovka over the past month, the NBN publication reports.\nAccording to him, there is a railway in the area of this settlement that goes to Pokrovsk. The invaders want to advance along this route, so they are constantly attacking in this direction. At the same time, the Russians want to reach the highway that also leads to Pokrovsk, in the area of the city of Selidovo.\nLitvin noted that Putin's army uses its FVP drones on fiber optics along such linear landmarks. The use of such UAVs by the occupiers is effective, since the electronic warfare equipment of the Ukrainian Defense Forces cannot counter them.\nAs reported, the 24th Separate Mechanized Brigade told how the troops of the aggressor country are storming Chasov Yar and whether they are managing to advance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vitaliy Litvin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Putin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Guard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Defense Forces",
+                "sentiment": "none"
+            },
+            {
+                "name": "NBN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Petrovka",
+                "sentiment": "none"
+            },
+            {
+                "name": "Selidovo",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:07:46.870+02:00",
+    "updated": "2024-11-23T10:41:28.448+02:00"
+}

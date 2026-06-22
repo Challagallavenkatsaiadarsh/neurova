@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "deeaed43d1777b5293b90b37d6a874029cdea998",
+        "url": "https://www.dailywire.com/news/trump-names-marty-makary-to-lead-food-and-drug-administration",
+        "site_full": "www.dailywire.com",
+        "site": "dailywire.com",
+        "site_section": "https://www.dailywire.com/feeds/rss.xml",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Daily Wire - Breaking News, Videos &amp; Podcasts",
+        "title": "Trump Names Marty Makary To Lead Food And Drug Administration",
+        "title_full": "Trump Names Marty Makary To Lead Food And Drug Administration",
+        "published": "2024-11-24T02:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dw-wp-production.imgix.net/2024/11/Marty-Makary.jpg?w=1200&amp;h=800&amp;ixlib=react-9.3.0",
+        "performance_score": 0,
+        "domain_rank": 4723,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "deeaed43d1777b5293b90b37d6a874029cdea998",
+    "url": "https://www.dailywire.com/news/trump-names-marty-makary-to-lead-food-and-drug-administration",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Saavedra",
+    "published": "2024-11-24T02:49:00.000+02:00",
+    "title": "Trump Names Marty Makary To Lead Food And Drug Administration",
+    "text": "President-elect\n[Donald Trump](https://www.dailywire.com/topic/donald-trump) announced late this week that he has selected Marty Makary MD, MPH, FACS, to lead the Food and Drug Administration (FDA).\n“FDA has lost the trust of Americans, and has lost sight of its primary goal as a regulator,” Trump said in a statement. “The Agency needs Dr. Marty Makary, a Highly Respected Johns Hopkins Surgical Oncologist and Health Policy Expert, to course-correct and refocus the Agency.”\nTrump noted that Makary will work under the leadership of Trump’s nominee for HHS Secretary, Robert F. Kennedy Jr., to “properly evaluate harmful chemicals poisoning our Nation’s food supply and drugs and biologics being given to our Nation’s youth, so that we can finally address the Childhood Chronic Disease Epidemic.”\nTrump’s nomination of Makary comes at the same time that he announced he was nominating\n[Dr. Janette Nesheiwat](https://www.dailywire.com/news/trump-taps-dr-janette-nesheiwat-for-u-s-surgeon-general) to serve as the next U.S. Surgeon General and former [Rep. Dave Weldon (R-FL)](https://www.dailywire.com/news/trump-names-former-florida-congressman-cdc-director), who is a medical doctor, to be the next Director of the Centers for Disease Control and Prevention (CDC).\nTrump said that Makary has been a pioneer in the fields of public health, cancer care, and surgery.\n[CHECK OUT THE DAILY WIRE HOLIDAY GIFT GUIDE](https://get.dailywire.com/gift-guide/)\n“A member of the prestigious National Academy of Medicine, Dr. Makary has devoted his career to improving Medical Quality and lowering Hospital and Drug Costs for all Americans,” Trump said. “In addition, Dr. Makary is an accomplished Professor at the Johns Hopkins School of Medicine and Johns Hopkins Carey Business School, and a leading advocate for Healthcare Transparency.”\n“He is the recipient of the Nobility in Science Award from the National Pancreas Foundation and numerous teaching awards,” he continued. “Dr. Makary currently leads the Evidence-Based Medicine and Public Policy Research Group at Johns Hopkins.”\nRelated:\n[Trump Taps Billionaire Hedge Fund Manager Scott Bessent For Treasury Secretary](https://www.dailywire.com/news/trump-taps-billionaire-hedge-fund-manager-scott-bessent-for-treasury-secretary)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marty Makary",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dave Weldon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Centers for Disease Control and Prevention",
+                "sentiment": "none"
+            },
+            {
+                "name": "FDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:10:29.843+02:00",
+    "updated": "2024-11-24T06:10:49.663+02:00"
+}

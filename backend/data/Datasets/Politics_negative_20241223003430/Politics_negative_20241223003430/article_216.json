@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "51c20c6100f00a889e810a9f4fd8d4dcb18dbaa5",
+        "url": "https://www.plansponsor.com/ebsa-criticized-for-sharing-retirement-plan-information-with-plaintiff-law-firm",
+        "site_full": "www.plansponsor.com",
+        "site": "plansponsor.com",
+        "site_section": "https://plansponsor.com/rss",
+        "site_categories": [
+            "investing",
+            "retirement_planning",
+            "finance"
+        ],
+        "section_title": "PLANSPONSOR",
+        "title": "EBSA Criticized for Sharing Retirement Plan Information With Plaintiff Law Firm",
+        "title_full": "EBSA Criticized for Sharing Retirement Plan Information With Plaintiff Law Firm",
+        "published": "2024-11-22T23:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 44976,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "51c20c6100f00a889e810a9f4fd8d4dcb18dbaa5",
+    "url": "https://www.plansponsor.com/ebsa-criticized-for-sharing-retirement-plan-information-with-plaintiff-law-firm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Remy Samuels",
+    "published": "2024-11-22T23:42:00.000+02:00",
+    "title": "EBSA Criticized for Sharing Retirement Plan Information With Plaintiff Law Firm",
+    "text": "Never miss a story — sign up for PLANSPONSOR newsletters to keep up on the latest retirement plan benefits news.\nHouse Republicans are seeking to uncover whether the Department of Labor has shared confidential plan information with other law firms while calling on the regulator to stop the practice.\nU.S. House Committee on Education and the Workforce Chair Virginia Foxx, R-North Carolina, revealed in a letter written to the Department of Labor’s inspector general on Thursday that the DOL shared confidential retirement plan information involving at least six employee benefit pension plans with a plaintiffs’ attorney. The representative went on to question whether such information-sharing is appropriate and called for the DOL to stop the practice.\nAn investigation by the inspector general revealed that the Employee Benefits Security Administration shared the confidential information with at least one law firm, Cohen Milstein Sellers and Toll PLLC, which is known for pursuing class action lawsuits involving benefit plans, to use in a lawsuit against a fiduciary of the plans.\nNever miss a story — sign up for PLANSPONSOR newsletters to keep up on the latest retirement plan benefits news.\nThe House committee requested that the office of the inspector general investigate the practice, including whether the DOL shared information with other firms, and publish a public report.\nSpecifically, the committee requested the OIG to examine the number of instances in which the DOL has shared information gleaned from EBSA investigations with outside law firms before any lawsuit related to the investigation had been filed. The committee also asked the OIG to investigate which law firms have received assistance from the DOL and the criteria the DOL uses to select which law firms with which it will share information.\nThe lawsuit in which confidential information was shared was Harrison v. Envision Management Holding Inc. Board of Directors et al., filed in U.S. District Court for the District of Colorado, in which Envision Management was accused of breaching its fiduciary duties for mismanaging its employee stock ownership plan.\nAccording to Foxx’s letter, the information-sharing agreement is documented as a “common interest agreement” between the DOL and the law firm dated April 21, 2023. However, the agreement does not disclose when the information was shared.\nFoxx argued that EBSA appears to be working with plaintiffs’ attorneys by “conducting a fishing expedition” under the guise of an EBSA investigation and then supplying confidential information to the attorneys for use in private litigation against the plan fiduciaries.\nThe Colorado district court stated that allowing such information-sharing could “set a dangerous precedent” and would allow a government agency to weaponize private litigation against some targets before “confirming the target should be a target.”\nFoxx wrote that subjects of DOL investigations and lawsuits have “long suspected” that the DOL has shared information with attorneys, but she wrote that this case appears to be the first time such a “cozy relationship” has come to light.\n“A ‘common interest agreement’ pursuant to which DOL, in the midst of an open and ongoing investigation, secretly shares confidential information with a class action law firm is contrary to the public policy of encouraging plan fiduciaries to cooperate with EBSA investigations and to sponsor employee benefit plans voluntarily, eroding the public’s trust in DOL as a regulator,” Foxx argued.\nThe plaintiffs in the lawsuit, however, argued the common interest agreement is “facially valid”—that is, the burden of proof falls on an opponent to prove it otherwise—and that courts routinely uphold a common interest privilege between the DOL and private plaintiffs, even when there is no explicitly written common interest agreement. The DOL also argued that the Employee Retirement Income Security Act authorizes the agency to share materials from investigations with “any person actually affected by any matter which is the subject of an investigation.”\nU.S. District Judge Maritza Dominguez Braswell, who is overseeing the lawsuit, stated in a September order, which addressed an objection about the information not being shared equally with both sides, that courts do not routinely uphold common interest privilege between the DOL and private plaintiffs. Braswell ruled that there is no common legal interest between the DOL and the plaintiffs in this case and that the DOL cannot rely on the common interest agreement, so the shared materials must be disclosed.\nA DOL spokesperson did not immediately respond to a request for comment.\nA spokesperson from Cohen Milstein said, “As federal courts have repeatedly recognized, ERISA relies upon a dual private and public system for litigation because federal law grants the DOL and retirement participants the same claim and provides the exact same relief. Against this backdrop, common interest agreements between DOL and the private sector are common, legal and have been entered into by different administrations for decades. The only issue before the federal court is a discovery dispute concerning DOL’s work product.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:27:04.929+02:00",
+    "updated": "2024-11-28T06:48:40.855+02:00"
+}

@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "b95aa2153a8431bf2d15f553591bf7275c06436f",
+        "url": "https://patch.com/california/berkeley/former-warriors-exec-bob-myers-appointed-uc-board-regents",
+        "site_full": "patch.com",
+        "site": "patch.com",
+        "site_section": "https://patch.com/california/berkeley/calendar",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Berkeley Events Calendar for November 22, 2024 - Berkeley, CA Patch",
+        "title": "Former Warriors Exec Bob Myers Appointed To UC Board Of Regents",
+        "title_full": "Former Warriors Exec Bob Myers Appointed To UC Board Of Regents",
+        "published": "2024-11-22T23:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://patch.com/img/cdn20/users/23493685/20241122/115522/styles/patch_image/public/bob-myers-1___22115432828.jpg",
+        "performance_score": 0,
+        "domain_rank": 1048,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b95aa2153a8431bf2d15f553591bf7275c06436f",
+    "url": "https://patch.com/california/berkeley/former-warriors-exec-bob-myers-appointed-uc-board-regents",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS San Francisco",
+    "published": "2024-11-22T23:55:00.000+02:00",
+    "title": "Former Warriors Exec Bob Myers Appointed To UC Board Of Regents",
+    "text": "[Politics & Government](/california/berkeley/politics)\nFormer Warriors Exec Bob Myers Appointed To UC Board Of Regents\nUC board chair Janet Reilly and UC president Michael Drake welcomed Myers as UC's newest regent in a statement Thursday.\nCBS Bay Area\nNovember 22, 2024\nFind out what's happening in Berkeleywith free, real-time updates from Patch.\nFormer Golden State Warriors basketball executive Bob Myers was appointed to the University of California Board of Regents on Thursday, UC officials announced.\nGov. Gavin Newsom made the appointment of Myers as a regent, which serves a 12-year term on the board that makes policy decisions for UC and its campuses.\nFind out what's happening in Berkeleywith free, real-time updates from Patch.\nMyers, a graduate from UCLA, was a sports agent before being hired by the Warriors in 2011 and was eventually general manager and president of basketball operations during the tenure when the team won four National Basketball Association championships. Myers [retired from the Warriors in 2023](https://www.cbsnews.com/sanfrancisco/news/bob-myers-steps-down-golden-state-warriors-gm-dynasty-president/) and has been an ESPN studio host and analyst.\nCBS Local Digital Media personalizes the global reach of CBS-owned and operated television and radio stations with a local perspective.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cbsnews.com/sanfrancisco/news/bob-myers-steps-down-golden-state-warriors-gm-dynasty-president/",
+        "https://cbsnews.com/sanfrancisco/news/bob-myers-steps-down-golden-state-warriors-gm-dynasty-president/",
+        "https://www.cbsnews.com/sanfrancisco/news/bob-myers-steps-down-golden-state-warriors-gm-dynasty-president"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bob Myers",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Drake",
+                "sentiment": "none"
+            },
+            {
+                "name": "Janet Reilly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gavin Newsom",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UC Board Of Regents",
+                "sentiment": "negative"
+            },
+            {
+                "name": "University of California Board of Regents",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Basketball Association",
+                "sentiment": "none"
+            },
+            {
+                "name": "UCLA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Berkeleywith",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:51:05.340+02:00",
+    "updated": "2024-11-23T00:51:05.340+02:00"
+}

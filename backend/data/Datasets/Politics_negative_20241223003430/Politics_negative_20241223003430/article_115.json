@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "522e614cc520c1d1e4ff23e536cdae5929ac0b6f",
+        "url": "https://www.si.com/betting/49ers-packers-odds-make-big-move-with-brock-purdy-expected-to-miss-week-12",
+        "site_full": "www.si.com",
+        "site": "si.com",
+        "site_section": "https://www.si.com/betting",
+        "site_categories": [
+            "sports"
+        ],
+        "section_title": "Best Betting Picks and Predictions Today - Sports Illustrated | SI.com",
+        "title": "49ers-Packers Odds Make Big Move With Brock Purdy Expected to Miss Week 12",
+        "title_full": "49ers-Packers Odds Make Big Move With Brock Purdy Expected to Miss Week 12",
+        "published": "2024-11-22T23:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_4697,h_2642,x_0,y_132/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/si/01jdaw5jts9y4dbpgrky.jpg",
+        "performance_score": 0,
+        "domain_rank": 1275,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "522e614cc520c1d1e4ff23e536cdae5929ac0b6f",
+    "url": "https://www.si.com/betting/49ers-packers-odds-make-big-move-with-brock-purdy-expected-to-miss-week-12",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Peter Dewey",
+    "published": "2024-11-22T23:35:00.000+02:00",
+    "title": "49ers-Packers Odds Make Big Move With Brock Purdy Expected to Miss Week 12",
+    "text": "49ers-Packers Odds Make Big Move With Brock Purdy Expected to Miss Week 12\nSan Francisco 49ers quarterback Brock Purdy missed Friday's practice with a shoulder injury, and he's listed as \"out\" for Week 12 against the Green Bay Packers on the [team's official injury report](https://www.nfl.com/injuries/).\nIf Purdy ultimately doesn't go against the Packers, Brandon Allen appears to be first in line to start for the 49ers with Josh Dobbs as his backup.\nAt 5-5, the 49ers can't afford too many more losses if they want to make the playoffs, but the odds for this game aren't moving in their favor.\nAfter the Packers were favored by 2.5 points earlier this week, this line has now jumped to Green Bay [-3.5 at DraftKings Sportsbook](https://bit.ly/SI-Web-DraftKings), a sign that Purdy will not suit up on Sunday. The total currently sits at 45.5 points.\nAccording to NFL.com, the 49ers have a 15 percent chance to make the playoffs if they lose in Week 12 and a 46 percent chance if they win. Oddsmakers at DraftKings currently have the 49ers at +200 to make the playoffs -- an implied probability of 33.33 percent.\nMore NFL Stories\nOdds refresh periodically and are subject to change.\nIf you or someone you know has a gambling problem and wants help, call 1-800-GAMBLER.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nfl.com/injuries/",
+        "https://bit.ly/SI-Web-DraftKings",
+        "https://nfl.com/injuries/",
+        "https://www.bit.ly/SI-Web-DraftKings",
+        "https://www.nfl.com/injuries"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brandon Allen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brock Purdy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Josh Dobbs",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "DraftKings Sportsbook",
+                "sentiment": "none"
+            },
+            {
+                "name": "Green Bay Packers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:14:55.413+02:00",
+    "updated": "2024-11-23T00:14:55.413+02:00"
+}

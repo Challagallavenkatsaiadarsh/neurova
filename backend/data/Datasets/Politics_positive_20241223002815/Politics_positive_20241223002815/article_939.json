@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "10dca46279243ea2d2a9966fd07ef86b1e1ef0d7",
+        "url": "https://www.dawn.com/news/1874251/political-gimmick",
+        "site_full": "www.dawn.com",
+        "site": "dawn.com",
+        "site_section": "https://dawn.com/opinion",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "Opinion - DAWN.COM",
+        "title": "Political gimmick",
+        "title_full": "Political gimmick",
+        "published": "2024-11-23T05:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://www.dawn.com/_img/social-default.jpg",
+        "performance_score": 0,
+        "domain_rank": 3117,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "10dca46279243ea2d2a9966fd07ef86b1e1ef0d7",
+    "url": "https://www.dawn.com/news/1874251/political-gimmick",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "From the Newspaper",
+    "published": "2024-11-23T05:19:00.000+02:00",
+    "title": "Political gimmick",
+    "text": "I FELT a gush of happiness when I heard that a three-month winter electricity relief package was being offered by the government, which would provide a relief of Rs26.7 per unit to the domestic consumers.\nUnfortunately, my happiness soon vanished as I delved deeper into the details of the package, which were enough to make one’s head spin.\nAs far as I can understand, one has to find the old bills of 2022, 2023 and 2024 in the garbage (if they are still there) to note down the units consumed in the month of December, January and February in each of those years.\nIf successful, one has to add up to 50 per cent of units consumed in 2024, 30pc in 2023, and 20pc in 2022 to work out the benchmark for each month. One would enjoy the reduced rate of 25pc units consumed above the benchmark in the respective months.\nLet us say my consumption is 300 units in each February. Applying the gover-\nnment formula, my benchmark would be 150+90+60 units. It comes out to be 300 units, which is my average consumption during winter.\nIs it a gimmick of calculation or coincidence? Now one has to consume 25pc units above the benchmark, i.e., up to 75 units, to get the accounced relief.\nI wonder why one would use units above the average consumption. All I need now is a hard place to bang my head against.\nMalik ul Quddoos\nKarachi\nPublished in Dawn, November 23th, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:46:36.803+02:00",
+    "updated": "2024-11-28T10:04:07.270+02:00"
+}

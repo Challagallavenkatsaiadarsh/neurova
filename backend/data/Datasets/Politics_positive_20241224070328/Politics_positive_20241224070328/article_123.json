@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "f839d894401e12cb751b0eb2d9a1a6bc93ca63e9",
+        "url": "https://www.arabnews.pk/node/2580506/middle-east",
+        "site_full": "www.arabnews.pk",
+        "site": "arabnews.pk",
+        "site_section": "https://arabnews.pk/node/2579927/middle-east",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "As truce talks progress, Lebanon’s army cornered by politics, funding | Arab News PK",
+        "title": "Jordan slashes EV tax rates to boost green transition",
+        "title_full": "Jordan slashes EV tax rates to boost green transition",
+        "published": "2024-11-23T22:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SA",
+        "main_image": "https://www.arabnews.pk/sites/default/files/styles/660x371_watermarkpakistan/public/main-image/2024/11/23/4547994-1014950345.jpg?itok=ojFm6Yg1",
+        "performance_score": 0,
+        "domain_rank": 64240,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f839d894401e12cb751b0eb2d9a1a6bc93ca63e9",
+    "url": "https://www.arabnews.pk/node/2580506/middle-east",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Arab News",
+    "published": "2024-11-23T22:15:00.000+02:00",
+    "title": "Jordan slashes EV tax rates to boost green transition",
+    "text": "AMMAN: The Jordanian government on Saturday announced a reduction in special taxes on electric vehicles (EVs) until the end of 2024, in a move aimed at easing financial burdens on citizens and importers while encouraging the adoption of eco-friendly transportation.\nUnder the decision, fully electric vehicles with a customs value between JD10,000 ($14,100) and JD25,000 will be taxed at 20 percent, down from 40 percent, Jordan News Agency reported.\nFor plug-in hybrid EVs exceeding JD25,000, the tax rate will be reduced to 27.5 percent, compared to the previous 55 percent.\nThe policy, effective immediately and set to expire on Dec. 31, also includes provisions for retroactive refunds.\nOwners who cleared EVs under the previous tax regime before this announcement will be eligible for reimbursement of the difference.\nThe decision, made during a Saturday cabinet session led by Prime Minister Jaafar Hassan, followed a two-month review involving experts and stakeholders.\nIt addresses concerns about EVs already stored in bonded warehouses or free zones before the decision was implemented.\n“The government sought logical solutions to ease the burden on citizens and importers while enabling them to complete clearance procedures,” officials stated.\nTo further promote accessibility, the government confirmed that EVs with a customs value below JD10,000 remain fully exempt from taxes, aiming to make electric mobility affordable for middle-income families.\nThe reduction underscores Jordan's commitment to sustainable transport while balancing economic pressures on its citizens. However, the government emphasized that the exemption was non-renewable, marking the end of tax relief on Dec. 31.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jaafar Hassan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jordan News Agency",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f839d894401e12cb751b0eb2d9a1a6bc93ca63e9",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:00:51.730+02:00",
+    "updated": "2024-11-24T01:00:51.730+02:00"
+}

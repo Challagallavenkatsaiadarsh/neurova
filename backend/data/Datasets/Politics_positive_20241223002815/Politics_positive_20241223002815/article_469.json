@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "df5b8ba38fc474ae9f118cc4a8b9ac2486e37fad",
+        "url": "https://radiojamaicanewsonline.com/local/pnp-wins-two-divisional-by-elections-jlp-gets-constituency-wins",
+        "site_full": "radiojamaicanewsonline.com",
+        "site": "radiojamaicanewsonline.com",
+        "site_section": "http://radiojamaicanewsonline.com/business",
+        "site_categories": [
+            "health",
+            "cold_and_flu"
+        ],
+        "section_title": "Business | RJR News - Jamaican News Online",
+        "title": "PNP Wins Two Divisional By-elections; JLP Gets Constituency Wins | RJR News - Jamaican News Online",
+        "title_full": "PNP Wins Two Divisional By-elections; JLP Gets Constituency Wins | RJR News - Jamaican News Online",
+        "published": "2024-11-23T02:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JM",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 132550,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "df5b8ba38fc474ae9f118cc4a8b9ac2486e37fad",
+    "url": "https://radiojamaicanewsonline.com/local/pnp-wins-two-divisional-by-elections-jlp-gets-constituency-wins",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:29:00.000+02:00",
+    "title": "PNP Wins Two Divisional By-elections; JLP Gets Constituency Wins | RJR News - Jamaican News Online",
+    "text": "Preliminary results from the Electoral Office of Jamaica (EOJ) show the People's National Party has won the divisional by-elections in Aenon Town, Clarendon and Morant Bay, St. Thomas. In Aenon Town, the PNP's Delroy Dawson received 1,646 to stave off the challenge of the Jamaica Labour Party's Suzette Barton, who received 1,592. All 29 ballot boxes have been counted. There was a voter turnout of 46.8 per cent. The PNP's win means the Clarendon Municipal Corporation is now split evenly with the PNP and JLP both having 11 councillors. In the Morant Bay division, the PNP's Rosemarie Shaw won with 2,096 votes to the JLP's Winston Downie, who amassed 1,978 votes. All 39 ballot boxes have been counted, and there was a voter turnout of 37 per cent. As it relates to the constituency by-elections, according to the preliminary count, the JLP's Duane Smith has garnered 1,863 votes to independent candidate Carl Marshall's 111 in the St. Andrew North Western constituency. All 111 ballot boxes have been counted. There was a voter turnout of 6 per cent. In Trelawny Southern, after all boxes were counted, the JLP's Marisa Dalrymple-Philibert won with 4,146 votes. Independent candidate Lloyd Gillings received 1,434 votes. Voter turnout in that constituency was 20.3 per cent.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marisa Dalrymple-Philibert",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lloyd Gillings",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suzette Barton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Winston Downie",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rosemarie Shaw",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carl Marshall",
+                "sentiment": "none"
+            },
+            {
+                "name": "Delroy Dawson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Duane Smith",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "People's National Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jamaica Labour Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "PNP",
+                "sentiment": "none"
+            },
+            {
+                "name": "JLP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aenon Town",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:50:18.481+02:00",
+    "updated": "2024-11-23T06:15:20.878+02:00"
+}

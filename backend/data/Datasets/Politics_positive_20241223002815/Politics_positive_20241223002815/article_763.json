@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "90c392dbd9274fbef29d43cb5d3bb68cac8b159d",
+        "url": "https://daijiworld.com/news/newsDisplay?newsID=1246787",
+        "site_full": "daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://daijiworld.com/home",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+        "title": "NDA will form govts in Maha & J'khand, win three seats in K'taka bypolls: Basavaraj Bommai - Daijiworld.com",
+        "title_full": "NDA will form govts in Maha & J'khand, win three seats in K'taka bypolls: Basavaraj Bommai - Daijiworld.com",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/NDAwillform23112024_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 24675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "90c392dbd9274fbef29d43cb5d3bb68cac8b159d",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1246787",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "NDA will form govts in Maha & J'khand, win three seats in K'taka bypolls: Basavaraj Bommai - Daijiworld.com",
+    "text": "Hubballi, Nov 23 (IANS): Former Chief Minister Basavaraj Bommai has expressed confidence that the NDA will form governments in Maharashtra and Jharkhand, and win all three seats in the Karnataka bypolls.\nSpeaking to the media in Hubballi on Friday, Bommai dismissed Congress' claims that the Exit Polls would be reversed and they would win the elections.\nHe said, \"Congress is forced to make these claims until the results are announced tomorrow.\"\n\"I am not basing my statements on Exit Polls but rather on the response from people on the ground. In Maharashtra and Jharkhand, the NDA will form the government. I am confident of this,\" he added.\nThe former Chief Minister said that the support witnessed during the campaign would translate into votes.\n\"Bharat Bommai (his son) will win by a huge margin from the Shiggaon Assembly seat in Karnataka. The BJP will win two seats, while the JD(S) will secure one seat. The NDA will emerge victorious in all three constituencies in the by-elections held in the state,\" he asserted.\nKarnataka Home Minister G. Parameshwara dismissed Bommai's statements, asserting that the Congress-led coalition would win all three by-election seats in Karnataka.\nHe said, \"The results will surprise everyone. I was sent to Maharashtra as an observer, and I am confident that the Maha Vikas Aghadi (MVA), comprising six political parties, will come to power. The INDIA bloc will emerge victorious.\"\nParameshwara criticised Exit Polls, saying they are not always accurate.\n\"Two Exit Polls have predicted a win for us, giving 162 seats to the MVA, while the opposition has 128 seats. Exit Polls are subjective, and each party will interpret them in its favour,\" he added.\n\"Based on discussions with community members and party workers at the grassroots level, the ground reality shows that people are fed up with the corrupt current (BJP) government. They are ready to vote for the Maha Vikas Aghadi in Maharashtra,\" Parameshwara concluded.\nDisclaimer:\nPlease write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article.\nPlease note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request.\nHence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Basavaraj Bommai",
+                "sentiment": "negative"
+            },
+            {
+                "name": "G. Parameshwara",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharat Bommai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karnataka",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hubballi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:43:09.922+02:00",
+    "updated": "2024-11-23T04:43:09.922+02:00"
+}

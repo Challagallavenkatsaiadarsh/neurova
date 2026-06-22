@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "40c2ef8b51a204fa8de63de9ecf36bb747254d86",
+        "url": "https://www.newindianexpress.com/states/karnataka/2024/Nov/24/bypoll-results-siddaramaiah-says-people-gave-a-fitting-reply-to-sinners",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Bypoll results: Siddaramaiah says people gave a fitting reply to 'sinners'",
+        "title_full": "Bypoll results: Siddaramaiah says people gave a fitting reply to 'sinners'",
+        "published": "2024-11-23T23:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2Fs4csthd5%2FP_3878634822.jpg?rect=0%2C88%2C807%2C424&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "40c2ef8b51a204fa8de63de9ecf36bb747254d86",
+    "url": "https://www.newindianexpress.com/states/karnataka/2024/Nov/24/bypoll-results-siddaramaiah-says-people-gave-a-fitting-reply-to-sinners",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-23T23:46:00.000+02:00",
+    "title": "Bypoll results: Siddaramaiah says people gave a fitting reply to 'sinners'",
+    "text": "BENGALURU: Chief Minister Siddaramaiah on Saturday said that there was a proposal before his government seeking quota for Muslims while awarding contracts to execute development works, but a decision in this regard has not been taken.\nAddressing reporters after results of bypolls were declared, he alleged that BJP raked up the Waqf issue with an aim to target the minority community for political gains. “BJP’s manifesto for 2014 LS polls promised that encroachments on Waqf properties will be cleared. Even former CM Basavaraj Bommai spoke in favour of it.\nNow, by raising the issue BJP showed its double standards. But I have instructed officials to withdraw notices issued to farmers to ensure that their land is not taken away. LoP R Ashoka called us sinners. But bypoll results indicated who are sinners. People gave them a fitting reply,” he said.\nOn Bommai’s allegation that Congress won because of its money power, Siddaramaiah said, “How come BJP won 125 of the 149 seats it contested in Maharashtra? Was it through money? Bommai made the allegation because of his son’s defeat.”\nReferring to NDA’s padayatra from Bengaluru to Mysuru against his (Siddaramaiah’s) family over the MUDA issue, he said it did not help that alliance. In fact, the NDA candidate lost in Channapatna. He criticised PM Modi for allegedly trying to mislead voters in Maharashtra and Jharkhand stating that the Congress government in Karnataka did not implement the five guarantees and terming them a wrong financial programme.\n“HD Deve Gowda gave a call to hurt my pride and stated that his intention is to remove the Congress government. I pity him for making such remarks being a former PM. Gowda made such remarks despite my long association with him. The Gowda family has made it a habit to shed tears in front of the people during elections. The family members should have shed tears for Prajwal Revanna’s victims in Hassan,” the CM said.\nPOLITICS OF LIVELIHOOD, NOT POLITICS OF EMOTION WORKS, SAYS DK SHIVAKUMAR\nDyCM DK Shivakumar said the bypoll results are an indicator of things to come in the 2028 Assembly elections. “We will come back to power in 2028. I am saying this responsibly as the president of KPCC. We will fulfil the aspirations of the people once again,” he said. He termed it as a victory for development and guarantee schemes.\n“It is time the Opposition stops its false propaganda. Politics of emotion doesn’t work and the people have given the verdict that they want politics of livelihood,” the DyCM told media persons. He said the Rs 56,000 crore spent on guarantees works out to about Rs 250 crore per Assembly segment. “Isn’t that economically empowering the poor and the middle class? ” he said.\nShivakumar said he won’t call the loss in Channapatna Nikhil’s defeat. His father Kumaraswamy became a CM from this constituency and this verdict is people’s verdict for the legacy he has left behind, he said. He said the Opposition leaders must stop levelling false allegations against the CM. “It is proven that people don’t accept spreading lies. The by-elections took place in Old Mysuru Region, Kalyana Karnataka region, and Kittur Karnataka region. The sentiment is clear,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Siddaramaiah",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Basavaraj Bommai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:07:44.347+02:00",
+    "updated": "2024-11-24T05:07:44.347+02:00"
+}

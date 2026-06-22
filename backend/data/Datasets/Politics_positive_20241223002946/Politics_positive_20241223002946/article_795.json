@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "b1b2f87251e7e678b4f7d74e2b0f457dcc944b13",
+        "url": "https://www.thenews.com.pk/print/1254017-pak-us-relations-lcci-chief-sees-key-advancements-in-trump-tenure",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk/today",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Today's Newspaper - Latest News, Top Headlines, Breaking News - thenews.com.pk",
+        "title": "Pak-US relations: LCCI chief sees key advancements in Trump tenure",
+        "title_full": "Pak-US relations: LCCI chief sees key advancements in Trump tenure",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254017_042206_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b1b2f87251e7e678b4f7d74e2b0f457dcc944b13",
+    "url": "https://www.thenews.com.pk/print/1254017-pak-us-relations-lcci-chief-sees-key-advancements-in-trump-tenure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Asif Mehmood Butt",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Pak-US relations: LCCI chief sees key advancements in Trump tenure",
+    "text": "LAHORE : Lahore Chamber of Commerce and Industry (LCCI) President Mian Abuzar Shad has expressed high hopes for significant advancements in Pakistan-US relations during the Trump administration. While talking to the Jang and The News, Shad outlined a vision for enhanced cooperation in trade, investment, and security, emphasising the immense potential both countries have to unlock through strategic collaboration. Speaking about the current state of bilateral trade, Shad noted that the annual trade volume between Pakistan and the US stands at approximately $6.5 billion, a solid foundation for further growth. He pointed out that the US remains Pakistan's largest and most critical export market, with Pakistani exports to the US exceeding $5 billion in 2023. \"The trade figures reflect a positive trajectory, but there is much more potential to harness,\" he said. He emphasised the importance of deepening cooperation in key sectors such as technology transfer, agriculture, and renewable energy. He highlighted that foreign direct investment (FDI) from US reached $1.5 billion in 2023, underscoring the need for continued policy reforms to attract further investment and create new business opportunities in Pakistan. Shad also drew attention to Pakistan's pivotal role in the global fight against terrorism, noting that the country has sacrificed over 80,000 lives and incurred nearly $150 billion in economic damages. He urged the international community, including the Trump administration, to recognise Pakistan’s contributions to regional stability. While trade is a cornerstone of any bilateral relationship, Shad stressed that trust-building in the security and diplomatic spheres is equally essential. He proposed initiatives such as granting duty-free access to US markets for Pakistani products as a means to foster deeper trust and enhance economic cooperation. The LCCI President reiterated the Chamber's commitment to strengthening ties between the business communities of both nations. He suggested organising trade delegations, joint conferences, and investment roadshows as part of a broader strategy to promote mutual understanding and explore new avenues for collaboration. Abuzar Shad said by focusing on shared interests and working together in areas like trade, investment, and security, both countries can not only strengthen their relationship but also contribute to global stability and progress. Police personnel detain supporters the Pakistan Tehreek-e-Insaf during a protest in Lahore on October 5, 2024. —... Inspector General Police Punjab Dr Usman Anwar addressing an event on December 17, 2023. —... Participants pose for a group photo during the 7th international conference on 'Mental Health and Rehabilitation:... VC Punjab University Prof Dr Muhammad Ali Shah assumes charge as the VC of Government College University , Lahore,... DG Youth Affairs and Sports Punjab Khizar Afzaal sits in a meeting image released on November 4, 2024. —... DIG Muhammad Faisal Kamran seen in this image. — lahorepolice.punjab.gov.pk/file LAHORE : DIG Muhammad Faisal...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mian Abuzar Shad",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "LCCI",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:52:56.776+02:00",
+    "updated": "2024-11-23T07:33:17.770+02:00"
+}

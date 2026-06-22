@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "34413077be783bb286f6d3ab032192faded5ff3d",
+        "url": "https://www.kentreporter.com/northwest/federal-way-ukranian-community-rallies-on-1000th-day-of-war",
+        "site_full": "www.kentreporter.com",
+        "site": "kentreporter.com",
+        "site_section": "https://www.kentreporter.com/feed/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Kent Reporter",
+        "title": "Federal Way Ukranian community rallies on 1,000th day of war",
+        "title_full": "Federal Way Ukranian community rallies on 1,000th day of war",
+        "published": "2024-11-22T23:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.kentreporter.com/wp-content/uploads/2024/11/37981601_web1_ukrainefedway-KEN-241122-rally_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 41741,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "34413077be783bb286f6d3ab032192faded5ff3d",
+    "url": "https://www.kentreporter.com/northwest/federal-way-ukranian-community-rallies-on-1000th-day-of-war",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joshua Solorzano",
+    "published": "2024-11-22T23:46:00.000+02:00",
+    "title": "Federal Way Ukranian community rallies on 1,000th day of war",
+    "text": "Members of the Federal Way Ukrainian community held a rally to raise awareness about the war in their home country.\nThe rally was Nov. 19 at the intersection of South 320th Street and Pacific Highway South, commemorating the 1,000th day of the Ukraine-Russia war. The rally also honored the war’s victims and prisoners of war.\nLocal resident Vitaliy Piekhotin said a specific organization did not hold the rally, but rather, it was just Ukrainian Federal Way residents who wanted to bring awareness to the war and let people know it is still happening. Specifically, Piekhotin said the rally was for Roman Martiyan, a Ukrainian soldier who is currently a prisoner of war.\nRussia invaded Ukraine on Feb. 24, 2022, in what has been described as the largest and deadliest conflict in Europe since World War II.\n“It’s the 1,000th day of the Russian war against Ukraine today, and we in the Ukrainian community of the city of Federal Way, we gather for victims of war, for prisoners of war, for fallen heroes,” Piekhotin said. “This event is dedicated for specifically for one person who is in captivity, in Russian captivity. His name is Roman, and we’re going to have a banner, huge banner with his photos, like when he’s in civilian clothes and when he’s in army clothes. His brother is a military chaplain, and he came all the way over from Ukraine right now.”\nPiekhotin said that Roman Martiyan’s brother, Dmitry Martiyan, spoke at the rally. Piekhotin said Dmitry Martiyan is trying to reach out to organizations like the Red Cross that do prisoner exchanges because the government is not doing much right now to bring back prisoners of war. Piekhotin said there is a saying that, “Saving one soul is saving the world.”\nPiekhotin said he is with the Slavic Gospel Church of Federal Way, and they’ve volunteered various times in Ukraine to help people. He said they’ve even been able to buy and ship two ambulances to Ukraine. However, right now, they’re focusing on raising awareness about prisoners of war, specifically awareness about Dmitry Martiyan.\nTo finish the rally, Piekhotin said the Ukrainian community prayed for Ukraine.\nTalk to us\nPlease share your story tips by emailing [editor@kentreporter.com](mailto:editor@kentreporter.com).\nTo share your opinion for publication, submit a letter through our website [https://www.kentreporter.com/submit-letter/](https://www.kentreporter.com/submit-letter/). Include your name,\naddress and daytime phone number. (We’ll only publish your name and hometown.) Please keep letters to 300 words or less.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vitaliy Piekhotin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:14:37.396+02:00",
+    "updated": "2024-11-28T05:17:06.308+02:00"
+}

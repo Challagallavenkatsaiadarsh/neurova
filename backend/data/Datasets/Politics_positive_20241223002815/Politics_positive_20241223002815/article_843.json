@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "812049dcaefb919193f0d8104f7043b01e8cb163",
+        "url": "https://www.pprune.org/passengers-slf-self-loading-freight/662671-historic-ruling.html",
+        "site_full": "www.pprune.org",
+        "site": "pprune.org",
+        "site_section": "https://www.pprune.org/external.php?type=RSS2",
+        "site_categories": [
+            "hobbies_and_interests"
+        ],
+        "section_title": "PPRuNe Forums",
+        "title": "An Historic Ruling",
+        "title_full": "An Historic Ruling",
+        "published": "2024-11-23T01:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 29363,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "812049dcaefb919193f0d8104f7043b01e8cb163",
+    "url": "https://www.pprune.org/passengers-slf-self-loading-freight/662671-historic-ruling.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "meleagertoo",
+    "published": "2024-11-23T01:30:00.000+02:00",
+    "title": "An Historic Ruling",
+    "text": "From the BBC\nSpain fines budget airlines including Ryanair 179m\nhttps://www.bbc.co.uk/news/articles/c8jy2dpv722o\nAbout time too...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:12:02.023+02:00",
+    "updated": "2024-11-23T07:47:59.612+02:00"
+}

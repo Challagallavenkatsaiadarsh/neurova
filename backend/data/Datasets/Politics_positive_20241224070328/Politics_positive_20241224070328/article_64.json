@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "0f9352f32c2baba1751c9a1738f17aae8db0b109",
+        "url": "https://spectrumlocalnews.com/nys/jamestown/news/2024/11/23/rep--sean-ryan-announces-campaign-for-buffalo-mayor",
+        "site_full": "spectrumlocalnews.com",
+        "site": "spectrumlocalnews.com",
+        "site_section": "https://spectrumlocalnews.com/services/contentfeed.nys%7Cjamestown%7Cpolitics.hero.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Politics | Jamestown New York | Spectrum News",
+        "title": "Sen. Sean Ryan announces campaign for Buffalo mayor",
+        "title_full": "Sen. Sean Ryan announces campaign for Buffalo mayor",
+        "published": "2024-11-23T20:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s7d2.scene7.com/is/image/TWCNews/ap-sean-ryan",
+        "performance_score": 0,
+        "domain_rank": 5182,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0f9352f32c2baba1751c9a1738f17aae8db0b109",
+    "url": "https://spectrumlocalnews.com/nys/jamestown/news/2024/11/23/rep--sean-ryan-announces-campaign-for-buffalo-mayor",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brian Campbell",
+    "published": "2024-11-23T20:47:00.000+02:00",
+    "title": "Sen. Sean Ryan announces campaign for Buffalo mayor",
+    "text": "New York state Sen. Sean Ryan officially announced his campaign for mayor of Buffalo Saturday. He announced his candidacy for mayor before a rally at Asbury Hall on Delaware Avenue.\nIn a new campaign video , Ryan said Buffalo “deserves better” and listed affordable housing, funding for schools and childcare, fighting discrimination and waterfront development as some of the key issues he will be campaigning for.\n“I'm running for mayor because Buffalo deserves better. I know it because I grew up as the son of a teacher and a firefighter who worked hard to keep their neighbors safe and educate the next generation. They inspired me to work for our city in different ways – building quality affordable housing, fighting discrimination and winning funding for schools and childcare and transforming our waterfront,” Ryan said.\nRyan has represented Buffalo in the state legislature since first winning a special election for the New York State Assembly in 2011.\n“After 20 years of neglect, you can see the cracks starting to show,\" Ryan continued. \"We can’t seem to get our side streets plowed or potholes filled. Our children are poisoned by lead. Senior services are hanging on by a thread. Nearly a decade without fluoride in our water – and they never told us. The incompetence of city leadership at times has been shocking. And City Hall has ignored the crises of poverty, segregation, and a shortage of affordable homes. It’s demoralizing for everyone working towards a better Buffalo.”\nActing Buffalo Mayor Chris Scanlon was recently ceremoniously sworn in as the 63rd mayor of Buffalo. Scanlon has been serving as acting mayor for a little more than a month after long-time Mayor Byron Brown stepped down to take over as the new head of Western Regional OTB.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/RyanforBuffalo/status/1860289197963133282",
+        "https://www.x.com/RyanforBuffalo/status/1860289197963133282"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:38:58.351+02:00",
+    "updated": "2024-11-24T00:38:58.351+02:00"
+}

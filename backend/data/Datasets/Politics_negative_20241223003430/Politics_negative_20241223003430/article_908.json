@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "485cfb495272647988e1d37cfa268f6ad6ffecde",
+        "url": "https://www.tribuneindia.com/news/ludhiana/nine-arrested-with-430-gm-of-heroin",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/ludhiana",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "LUDHIANA | News Headlines: Top News Today & Breaking News | Tribune India",
+        "title": "Nine arrested with 430 gm of heroin - The Tribune",
+        "title_full": "Nine arrested with 430 gm of heroin - The Tribune",
+        "published": "2024-11-23T01:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/673974363aaa2-heroin1-new.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "485cfb495272647988e1d37cfa268f6ad6ffecde",
+    "url": "https://www.tribuneindia.com/news/ludhiana/nine-arrested-with-430-gm-of-heroin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2024-11-23T01:05:00.000+02:00",
+    "title": "Nine arrested with 430 gm of heroin - The Tribune",
+    "text": "Nine arrested with 430 gm of heroin\nThe crime wing of the Ludhiana police claimed to have arrested nine persons and seized 430 gm of heroin from their possession in separate incidents.\nADCP (Crime) Amandeep Singh Brar in a statement issued stated that on November 20, a police team arrested Abhishek Thapar, Gopi, alias Sunny, and Shubham Bains, residents of Ambedkar Colony, and seized 165 gm of heroin from their possession. On the same day, another police team arrested Badal Rana, Chand and Reena, all residents of the colony, and seized 160 gm of heroin from their possession.\nBrar said in another incident, the police nabbed Rahul, Lucky and Neetu, who were also residents of the colony, and seized 105 gm of heroin from their possession.\n“The suspects have been indulging in a drug business for a long time. Now, their questioning is on to inquire about other big smugglers and they would also be nabbed in coming days. Even properties amassed by them with the help of drug money would also be verified and the same would be attached in the cases,” the ADCP said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amandeep Singh Brar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abhishek Thapar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Badal Rana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gopi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ambedkar Colony",
+                "sentiment": "none"
+            },
+            {
+                "name": "ADCP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:41:37.554+02:00",
+    "updated": "2024-11-23T01:41:37.554+02:00"
+}

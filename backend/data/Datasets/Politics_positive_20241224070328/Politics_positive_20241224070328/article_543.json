@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "8485b04b2f456988ab3dff21fe06b85afa4e8705",
+        "url": "https://www.nation.com.pk/24-Nov-2024/three-khwarij-terrorists-killed-in-kp-operations-ispr",
+        "site_full": "www.nation.com.pk",
+        "site": "nation.com.pk",
+        "site_section": "https://www.nation.com.pk/18-nov-2024/hunger-crisis-to-increase-in-south-sudan-warns-un",
+        "site_categories": [
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Hunger crisis to increase in South Sudan, warns UN",
+        "title": "Three Khwarij terrorists killed in KP operations: ISPR",
+        "title_full": "Three Khwarij terrorists killed in KP operations: ISPR",
+        "published": "2024-11-24T04:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://www.nation.com.pk/print_images/large/2024-11-24/three-khwarij-terrorists-killed-in-kp-operations-ispr-1732415071-5680.jpg",
+        "performance_score": 0,
+        "domain_rank": 11559,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8485b04b2f456988ab3dff21fe06b85afa4e8705",
+    "url": "https://www.nation.com.pk/24-Nov-2024/three-khwarij-terrorists-killed-in-kp-operations-ispr",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NEWS WIRE",
+    "published": "2024-11-24T04:24:00.000+02:00",
+    "title": "Three Khwarij terrorists killed in KP operations: ISPR",
+    "text": "RAWALPINDI - The Security Forces killed three Khwarij terrorists while three others injured in two separate engagements in Khyber Pakhtunkhwa (KPK). “An intelligence based operation was conducted by Security Forces in general area Bara, Khyber District. During the conduct of operation, own troops effectively engaged the khwarij location, resultantly two Khwarij, Haqyar Afridi@ Khyberay and Gulla Jan, were sent to hell,” said an Inter Services Public Relations news release. In another incident, movement of group of khwarij, who were trying to infiltrate through Pakistan-Afghanistan border, was picked up by the security forces in South Waziristan District. Own troops effectively engaged and thwarted their attempt to infiltrate. Resultantly, one kharji was sent to hell, while three khwarij got injured, it further said. “Pakistan has consistently been asking Interim Afghan Government to ensure effective border management on their side of the border. Interim Afghan Government is expected to fulfil its obligations and deny the use of Afghan soil by Khwarij for perpetuating acts of terrorism against Pakistan,” the news release further said. Security Forces of Pakistan are determined and remain committed to secure its border and eliminate the menace of terrorism from the country. President Asif Ali Zardari and Prime Minister Shehbaz Sharif on Saturday paid tribute to the security forces for conducting successful operations near the Pakistan-Afghanistan border in South Waziristan and district Khyber. The president and the prime minister, in separate statements, lauded the security forces for killing two Khawarij in Khyber, one in South Waziristan and arresting three others. President Zardari expressed his resolve to thwart any attempt of the terrorists to disrupt peace and security in Pakistan, reaffirming the commitment to continue operations until elimination of the menace of terrorism. PM Shehbaz said the entire nation stood with the brave soldiers of the security forces in war against terrorism. He said the government was committed to eliminate terrorism and Khawarij from the country.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Haqyar Afridi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Inter Services Public Relations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "South Waziristan District",
+                "sentiment": "none"
+            },
+            {
+                "name": "Khyber District",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:44:17.563+02:00",
+    "updated": "2024-11-24T08:03:23.732+02:00"
+}

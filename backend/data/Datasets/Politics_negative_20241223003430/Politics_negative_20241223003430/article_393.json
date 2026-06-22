@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "b00ae1d01418431747ad991e2f33fdd1ab45adb6",
+        "url": "https://www.ibtimes.com/israeli-ambassador-un-claims-no-starvation-gaza-despite-un-agency-warning-imminent-famine-3752344",
+        "site_full": "www.ibtimes.com",
+        "site": "ibtimes.com",
+        "site_section": "https://www.ibtimes.com/rss/technology/science",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "International Business Times",
+        "title": "Israeli Ambassador to UN Claims 'No Starvation in Gaza' Despite UN Agency Warning of 'Imminent Famine' | IBTimes",
+        "title_full": "Israeli Ambassador to UN Claims 'No Starvation in Gaza' Despite UN Agency Warning of 'Imminent Famine' | IBTimes",
+        "published": "2024-11-23T00:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d.ibtimes.com/en/full/4563953/gaza-famine-11222024-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 1159,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b00ae1d01418431747ad991e2f33fdd1ab45adb6",
+    "url": "https://www.ibtimes.com/israeli-ambassador-un-claims-no-starvation-gaza-despite-un-agency-warning-imminent-famine-3752344",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Taylor Odisho",
+    "published": "2024-11-23T00:32:00.000+02:00",
+    "title": "Israeli Ambassador to UN Claims 'No Starvation in Gaza' Despite UN Agency Warning of 'Imminent Famine' | IBTimes",
+    "text": "Israel's ambassador to the United Nations Danny Danon claimed Palestinians in Gaza are not being starved despite multiple aid groups warning famine is imminent.\"There is no starvation in Gaza,\" Danon said during a news segment on Sky News Thursday, the same day the International Criminal Court issued an arrest warrant for Israel's Prime Minister Benjamin Netanyahu and its former Minister of Defense Yoav Gallant for alleged war crimes and crimes against humanity.Danon's statement contradicts multiple reports, including ones created by the United Nations and its United Nations Relief and Works Agency for Palestine Refugees.An average of 37 humanitarian trucks entered the Gaza Strip in October, the lowest daily average since Israel began allowing air trucks to enter the war zone the third week of October 2023, according to the International Rescue Committee (IRC).Israeli forces then allowed 69 trucks per day the first week of November, but just one of those trucks was allowed into Northern Gaza.\"Even when humanitarian aid is allowed in, movement within the Gaza Strip is severely restricted, with bombardment and intense fighting constantly ongoing and missions frequently denied or not facilitated by the Israeli Authorities,\" the report continued.In addition to not allowing aid to reach Palestinians, the Food and Agriculture Organization of the United Nations (FAO) found that most animals in the area, including cows, goat, sheep, and birds, have died, and Israeli forces have slaughtered almost all of the calves and destroyed most of the agriculture.\"All this represents critical impediments to rehabilitating local food systems, perpetuating people's reliance on increasingly shrinking humanitarian aid,\" the report added.On Nov. 17, the International Rescue Committee reiterated that Israeli forces are blocking aid, warning \"the situation in Northern Gaza is now beyond a crisis point.\"\"The Famine Review Committee (FRC) is warning that famine is likely imminent, if not already underway, in parts of northern Gaza,\" the IRC's Country Director for the Occupied Palestinian Territory Bart Witteveen wrote. \"The escalating crisis is primarily driven by the obstruction of humanitarian aid.\"Israel is starving Palestinians in Northern Gaza to force them out of the area for several reasons, according to reporting by Aljazeera, to divide the Gaza Strip, \"thereby dismantling the physical infrastructure of Palestinian governance,\" and because it is \"important to Israel from a security perspective.\"Originally published by Latin Times",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.latintimes.com/topics/gaza",
+        "https://www.aljazeera.com/opinions/2024/10/16/the-israeli-generals-plan-for-northern-gaza-is-unlikely-to-succeed",
+        "https://www.latintimes.com/international-court-issues-arrest-warrants-netanyahu-gallant-hamas-commander-over-alleged-war-566597",
+        "https://www.rescue.org/press-release/irc-reacts-latest-ipc-alert-famine-imminent-parts-gaza",
+        "https://www.latintimes.com/israeli-ambassador-un-claims-no-starvation-gaza-despite-un-agency-warning-imminent-famine-566858",
+        "https://www.latintimes.com/topics/israel",
+        "https://www.unrwa.org/resources/reports/unrwa-situation-report-147-situation-gaza-strip-and-west-bank-including-east-jerusalem",
+        "https://www.latintimes.com/topics/palestinians",
+        "https://rescue.org/press-release/irc-reacts-latest-ipc-alert-famine-imminent-parts-gaza",
+        "https://latintimes.com/topics/israel",
+        "https://latintimes.com/international-court-issues-arrest-warrants-netanyahu-gallant-hamas-commander-over-alleged-war-566597",
+        "https://unrwa.org/resources/reports/unrwa-situation-report-147-situation-gaza-strip-and-west-bank-including-east-jerusalem",
+        "https://aljazeera.com/opinions/2024/10/16/the-israeli-generals-plan-for-northern-gaza-is-unlikely-to-succeed",
+        "https://latintimes.com/israeli-ambassador-un-claims-no-starvation-gaza-despite-un-agency-warning-imminent-famine-566858",
+        "https://latintimes.com/topics/gaza",
+        "https://latintimes.com/topics/palestinians"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Danny Danon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Nations Relief and Works Agency",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "International Rescue Committee",
+                "sentiment": "none"
+            },
+            {
+                "name": "International Criminal Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza Strip",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b00ae1d01418431747ad991e2f33fdd1ab45adb6",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:45:21.313+02:00",
+    "updated": "2024-11-23T02:07:28.055+02:00"
+}

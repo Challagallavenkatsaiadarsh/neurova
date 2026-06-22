@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "3df0cfe1b0cefd793286407debdb48e47f601ff7",
+        "url": "https://www.devdiscourse.com/article/politics/3168986-maharashtra-elections-ajit-pawars-ncp-triumphs-over-sharad-pawars-faction",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Maharashtra Elections: Ajit Pawar's NCP Triumphs Over Sharad Pawar's Faction | Politics",
+        "title_full": "Maharashtra Elections: Ajit Pawar's NCP Triumphs Over Sharad Pawar's Faction | Politics",
+        "published": "2024-11-24T02:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_11_58_16_5328163.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3df0cfe1b0cefd793286407debdb48e47f601ff7",
+    "url": "https://www.devdiscourse.com/article/politics/3168986-maharashtra-elections-ajit-pawars-ncp-triumphs-over-sharad-pawars-faction",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-24T02:38:00.000+02:00",
+    "title": "Maharashtra Elections: Ajit Pawar's NCP Triumphs Over Sharad Pawar's Faction | Politics",
+    "text": "Maharashtra Elections: Ajit Pawar's NCP Triumphs Over Sharad Pawar's Faction\nIn a significant political showdown in Maharashtra, Ajit Pawar's faction of the Nationalist Congress Party (NCP) secured a decisive victory over the rival NCP (SP) led by Sharad Pawar, winning 41 out of 59 contested seats. The intra-family rivalry has been at the forefront, with notable defeats for Sharad Pawar's endorsed candidates.\n- Country:\n- India\nThe Maharashtra assembly elections witnessed a significant political face-off between two factions of the Nationalist Congress Party (NCP). Ajit Pawar's faction, representing the ruling Mahayuti alliance, emerged victorious, claiming 41 of the 59 seats it contested, as announced by the Election Commission on Saturday.\nSharad Pawar's NCP (Sharadchandra Pawar) managed to secure only six seats, despite fielding 86 candidates. This intra-family competition further strained relations, with Ajit Pawar defeating his nephew, endorsed by Sharad Pawar, in a critical family stronghold.\nThe victory was underscored by prominent intra-party and familial contests across various constituencies, with Ajit Pawar securing significant wins in key areas. The results suggest a shift in voter preference, as Sharad Pawar's appeal to reject Ajit Pawar's 'traitors' was largely ignored.\n(With inputs from agencies.)\n- READ MORE ON:\n-\n[Maharashtra](/news?tag=Maharashtra) -\n[elections](/news?tag=elections) -\n[NCP](/news?tag=NCP) -\n[Ajit Pawar](/news?tag=Ajit+Pawar) -\n[Sharad Pawar](/news?tag=Sharad+Pawar) -\n[Mahayuti](/news?tag=Mahayuti) -\n[political](/news?tag=political) -\n[victory](/news?tag=victory) -\n[intra-family](/news?tag=intra-family) -\n[contest](/news?tag=contest)\nALSO READ\n[Bolivia's New Political Dawn: Morales Barred from Election Run](/article/politics/3151009-bolivias-new-political-dawn-morales-barred-from-election-run)[Tax Raids Unveil Political Ties in Jharkhand](/article/law-order/3151070-tax-raids-unveil-political-ties-in-jharkhand)[Turbulent Headlines: From Pakistan to Political Showdowns](/article/politics/3151144-turbulent-headlines-from-pakistan-to-political-showdowns)[Hemant Soren says infiltration BJP’s political agenda, I say it is Jharkhand CM’s vote bank: Home Minister Amit Shah at Palamu rally.](/article/Newsalert/3151139-hemant-soren-says-infiltration-bjps-political-agenda-i-say-it-is-jharkhand-cms-vote-bank-home-minister-amit-shah-at-palamu)[I have come to seek your blessings for Mahayuti (grand alliance) in Nov 20 Maharashtra assembly polls: PM Modi at rally in Akola.](/article/Newsalert/3151126-i-have-come-to-seek-your-blessings-for-mahayuti-grand-alliance-in-nov-20-maharashtra-assembly-polls-pm-modi-at-rally-in-ak)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sharad Pawar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sharadchandra Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:14:00.669+02:00",
+    "updated": "2024-11-24T05:14:00.669+02:00"
+}

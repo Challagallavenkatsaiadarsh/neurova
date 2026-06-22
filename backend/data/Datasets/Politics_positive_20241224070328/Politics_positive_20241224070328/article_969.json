@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "bdf3d6099cfed63fe326c5271ad30e5e94f3619f",
+        "url": "https://www.gulf-times.com/article/695210/international/300-billion-climate-deal-reached-at-cop29",
+        "site_full": "www.gulf-times.com",
+        "site": "gulf-times.com",
+        "site_section": "https://gulf-times.com",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": " Gulf Times - Homepage ",
+        "title": "$300 billion climate deal reached at COP29",
+        "title_full": "$300 billion climate deal reached at COP29",
+        "published": "2024-11-24T04:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "QA",
+        "main_image": "https://www.gulf-times.com/gulftimes/uploads/images/2024/11/24/thumbs/300x300/251043.jpg",
+        "performance_score": 0,
+        "domain_rank": 11290,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bdf3d6099cfed63fe326c5271ad30e5e94f3619f",
+    "url": "https://www.gulf-times.com/article/695210/international/300-billion-climate-deal-reached-at-cop29",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "QNA?Baku",
+    "published": "2024-11-24T04:42:00.000+02:00",
+    "title": "$300 billion climate deal reached at COP29",
+    "text": "Countries participating at the 2024 United Nations Climate Change Conference (COP29) in Baku have adopted a $300 billion a year global finance target to help poorer nations cope with impacts of climate change.The agreement, clinched in overtime at the two-week conference in Azerbaijan's capital, was meant to provide momentum for international efforts to curb global warming in a year destined to be the hottest on record.United Nations climate chief Simon Stiell acknowledged the difficult negotiations that led to the agreement but hailed the outcome as an insurance policy for humanity against global warming.It has been a difficult journey, but we've delivered a deal, Stiell said. This deal will keep the clean energy boom growing and protect billions of lives.The agreement would provide $300 billion annually by 2035, boosting rich countries' previous commitment to provide $100 billion per year in climate finance by 2020. That earlier goal was met two years late, in 2022, and expires in 2025.The deal also lays the groundwork for next year's climate summit, to be held in the Amazon rainforest of Brazil, where countries are meant to map out the next decade of climate action.Countries also agreed on rules for a global market to buy and sell carbon credits that proponents say could mobilise billions more dollars into new projects to fight global warming, from reforestation to deployment of clean energy technologies.Negotiations had been due to finish on Friday but ran into overtime as representatives from nearly 200 countries struggled to reach consensus.The showdown over financing for developing countries comes in a year scientists predict will be the hottest on record. Climate woes are stacking up, with widespread flooding killing thousands across Africa, deadly landslides burying villages in Asia, and drought in South America shrinking rivers.Developed countries have not been spared. Torrential rain triggered floods in Valencia, Spain, last month that left more than 200 dead, and the US so far this year has registered 24 billion-dollar disasters - just four fewer than last year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Simon Stiell",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "bdf3d6099cfed63fe326c5271ad30e5e94f3619f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:10:37.929+02:00",
+    "updated": "2024-11-24T11:38:47.482+02:00"
+}

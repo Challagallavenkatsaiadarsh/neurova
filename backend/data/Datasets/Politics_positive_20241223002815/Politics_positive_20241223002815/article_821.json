@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "4ca2541dc43022b615e302a55f733015a2922247",
+        "url": "http://www.chinaview.cn/20241123/a883738b5e804f30a6ba891d283567ae/c.html",
+        "site_full": "www.chinaview.cn",
+        "site": "chinaview.cn",
+        "site_section": "http://www.chinaview.cn",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Xinhua – China, World, Business, Sports, Photos and Video | English.news.cn",
+        "title": "Nicaragua's legislature approves constitutional reform on joint presidency-Xinhua",
+        "title_full": "Nicaragua's legislature approves constitutional reform on joint presidency-Xinhua",
+        "published": "2024-11-23T04:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 81868,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4ca2541dc43022b615e302a55f733015a2922247",
+    "url": "http://www.chinaview.cn/20241123/a883738b5e804f30a6ba891d283567ae/c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T04:54:00.000+02:00",
+    "title": "Nicaragua's legislature approves constitutional reform on joint presidency-Xinhua",
+    "text": "MANAGUA, Nov. 22 (Xinhua) -- Nicaragua's National Assembly on Friday approved president Daniel Ortega's urgent proposal for a general constitutional reform, which encompasses major political and social changes, including the establishment of a joint presidency.\nFollowing the approval, the legislature began reviewing the reform article by article. Since it involves constitutional amendments, the reform requires a second consecutive legislature's approval, which is scheduled for January 2025.\nAccording to Nicaraguan authorities, the reform aims to strengthen the rights of the Nicaraguan people through \"direct democratic participation\" and to consolidate stability, peace and work as the foundation for collective well-being.\nVice President Rosario Murillo said that the reform addresses the needs of a nation that deserves security, peace and guaranteed rights, ensuring that the people are the rightful owners of their history and land.\nOne of the prominent changes in the proposed reform is the joint composition of the Presidency of the Republic, consisting of a co-president and a co-presidentess, as well as the extension of the presidential term from five to six years. ■",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Daniel Orteg",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rosario Murillo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Xinhua",
+                "sentiment": "negative"
+            },
+            {
+                "name": "National Assembly",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4ca2541dc43022b615e302a55f733015a2922247",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:03:21.416+02:00",
+    "updated": "2024-11-23T05:03:21.416+02:00"
+}

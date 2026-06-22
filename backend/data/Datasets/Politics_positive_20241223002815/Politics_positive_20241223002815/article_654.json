@@ -1,0 +1,143 @@
+{
+    "thread": {
+        "uuid": "3d03bdfc296cceaf9b6a03c639051436876d2fa9",
+        "url": "https://economictimes.indiatimes.com/news/india/pm-modi-honoured-with-global-peace-award-as-indian-american-minorities-unite-under-aiam-in-washington/articleshow/115584670.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "PM Modi honoured with Global Peace Award as Indian American minorities unite under AIAM in Washington - The Economic Times",
+        "title_full": "PM Modi honoured with Global Peace Award as Indian American minorities unite under AIAM in Washington - The Economic Times",
+        "published": "2024-11-23T01:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-115584693,width-1200,height-630,imgsize-1579251,overlay-economictimes/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3d03bdfc296cceaf9b6a03c639051436876d2fa9",
+    "url": "https://economictimes.indiatimes.com/news/india/pm-modi-honoured-with-global-peace-award-as-indian-american-minorities-unite-under-aiam-in-washington/articleshow/115584670.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2024-11-23T01:21:00.000+02:00",
+    "title": "PM Modi honoured with Global Peace Award as Indian American minorities unite under AIAM in Washington - The Economic Times",
+    "text": "The Association of Indian American Minorities (AIAM), a newly formed non-governmental organisation, was launched on Friday at Sligo Seventh-day Adventist Church, Maryland.The initiative aims to unite and promote the welfare of minority communities within the Indian American diaspora in the United States.During the event, Prime Minister Narendra Modi was honoured (in absentia) with the Dr Martin Luther King Jr Global Peace Award for Minority Upliftment. The award was jointly presented by Washington Adventist University and AIAM, recognising his efforts towards inclusive development and minority welfare.Renowned Sikh philanthropist Jasdip Singh was appointed as the Founder and Chairman of AIAM, supported by a seven-member Board of Directors representing diverse Indian minority communities. These members include Baljinder Singh and Dr Sukhpal Dhanoa (Sikhs), Pawan Bezwada and Elisha Pulivarti (Christians), Dipak Thakker (Hindu), Juned Qazi (Muslim), and Nissim Reuben (Indian Jewish).Addressing the gathering, AIAM Chairman Jasdip Singh emphasised the organisation's role in advancing PM Modi's vision of a Viksit Bharat by 2047. Under PM Modi's leadership, India has embraced an all-inclusive approach, ensuring equal opportunities for every citizen, irrespective of religion, caste, or sect, he said.Satnam Singh Sandhu, Member of Parliament and convener of the Indian Minorities Federation, highlighted India's transformation under PM Modi. He lauded the Sabka Saath, Sabka Vikas approach, stating that it has eradicated the culture of appeasement and created an atmosphere of communal harmony and equal opportunity.Members of the Indian minority diaspora praised PM Modi for upholding India's constitutional commitment to secularism and fostering global recognition for the nation. They also condemned attempts to create communal divides, asserting that minorities in India now resist false narratives aimed at disrupting the country's unity and progress.AIAM is set to play a crucial role in fostering unity among Indian Americans and amplifying their contributions to the multicultural fabric of the United States. (ANI)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://whatsapp.com/channel/0029Va54SU83rZZYg2XcdM0K",
+        "https://www.whatsapp.com/channel/0029Va54SU83rZZYg2XcdM0K"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Elisha Pulivarti",
+                "sentiment": "none"
+            },
+            {
+                "name": "Baljinder Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sukhpal Dhanoa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pawan Bezwada",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nissim Reuben",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dipak Thakker",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jasdip Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Juned Qazi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "AIAM",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Washington Adventist University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:58:45.164+02:00",
+    "updated": "2024-11-23T04:10:00.748+02:00"
+}

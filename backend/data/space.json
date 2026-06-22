@@ -1,0 +1,12 @@
+{
+  "mars": {
+    "description": "The fourth planet from the Sun.",
+    "missions": ["Perseverance", "Curiosity", "Opportunity"],
+    "status": "Explored by various rovers"
+  },
+  "iss": {
+    "full_name": "International Space Station",
+    "orbiting_height": "408 km",
+    "purpose": "Microgravity research"
+  }
+}

@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "487ef75a503eb5cc6732c89970dfaea1df03bd72",
+        "url": "https://www.afr.com/policy/foreign-affairs/trump-s-foreign-policy-hand-is-stronger-than-you-might-think-20241124-p5kt36",
+        "site_full": "www.afr.com",
+        "site": "afr.com",
+        "site_section": "https://www.afr.com/latest",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_au",
+            "top_news"
+        ],
+        "section_title": "Latest | The Australian Financial Review | AFR",
+        "title": "Donald Trump’s foreign policy hand is stronger than you might think",
+        "title_full": "Donald Trump’s foreign policy hand is stronger than you might think",
+        "published": "2024-11-23T18:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://static.ffx.io/images/$zoom_0.7771%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/7936fd6343502c446587d34385150a45a3293ed0",
+        "performance_score": 0,
+        "domain_rank": 1994,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "487ef75a503eb5cc6732c89970dfaea1df03bd72",
+    "url": "https://www.afr.com/policy/foreign-affairs/trump-s-foreign-policy-hand-is-stronger-than-you-might-think-20241124-p5kt36",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Curran",
+    "published": "2024-11-23T18:48:00.000+02:00",
+    "title": "Donald Trump’s foreign policy hand is stronger than you might think",
+    "text": "Opinion\nTrump’s foreign policy hand is stronger than you might think\nFears of American isolationism ignore that the president-elect’s international relations capabilities might be better than many think once he takes office.\n[James Curran](/by/james-curran-p4yvj2)International editor\nUS President Joe Biden and UK Prime Minister Keir Starmer have upped the ante in Ukraine by allowing Kyiv to strike inside Russia with British-made Storm Shadow and American-supplied long-range ATACMS missiles.\nThe move is clearly designed to place maximum pressure on Vladimir Putin before Donald Trump becomes president again. And it sends more than a literal shot across the bows due to the presence of North Korean forces on the frontlines – itself an escalatory move by Moscow and Pyongyang.\n[James Curran](/by/james-curran-p4yvj2)is The Australian Financial Review’s international editor and professor of modern history at Sydney University.\nSubscribe to gift this article\nGift 5 articles to anyone you choose each month when you subscribe.\n[Subscribe now](https://subscribe.afr.com/?promote_channel=HI_AGFT_GNL_GIFTCTA&utm_source=ArticleGifting&utm_medium=HouseInventory&utm_campaign=General&utm_content=GiftCTA)\nAlready a subscriber?\nIntroducing your Newsfeed\nFollow the topics, people and companies that matter to you.\n[Find out more](/newsfeed/about)\nRead More\nLatest In Foreign affairs & security\nFetching latest articles",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Keir Starmer",
+                "sentiment": "none"
+            },
+            {
+                "name": "James Curran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Sydney University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pyongyang",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:55:59.194+02:00",
+    "updated": "2024-11-24T06:10:48.007+02:00"
+}

@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "abc944c0ba2adb09898ee263a8164f5cd90ab609",
+        "url": "https://www.rawstory.com/scott-bessent",
+        "site_full": "www.rawstory.com",
+        "site": "rawstory.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_ca",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "'Home run': Republican pleased as Trump reportedly offers key role to Wall Street insider",
+        "title_full": "'Home run': Republican pleased as Trump reportedly offers key role to Wall Street insider",
+        "published": "2024-11-23T01:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.rawstory.com/media-library/republican-presidential-nominee-and-former-u-s-president-donald-trump-speaks-as-lara-trump-tiffany-trump-and-her-husband-micha.jpg?id=54843498&width=1200&height=600&coordinates=0%2C645%2C0%2C645",
+        "performance_score": 0,
+        "domain_rank": 3144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "abc944c0ba2adb09898ee263a8164f5cd90ab609",
+    "url": "https://www.rawstory.com/scott-bessent",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Erik De La Garza",
+    "published": "2024-11-23T01:30:00.000+02:00",
+    "title": "'Home run': Republican pleased as Trump reportedly offers key role to Wall Street insider",
+    "text": "President-elect Donald Trump has offered hedge fund executive Scott Bessent to head the Treasury Department, CNN reported. The reporting on Trump’s transition team came Friday afternoon days after the incoming president named Wall Street executive Howard Lutnick as Commerce secretary. The news seemed to please Republicans. ALSO READ: A giant middle finger from a tiny craven man “I think he’s got the right skill set and experience to do the job,” longtime GOP strategist Scott Jennings said on CNN. “I don’t know how you can be critical of Bessent for Treasury if you follow the financial markets closely. This is a home run pick.” Jennings added that he thinks both Republicans and the financial world will be happy with the selection of Bessent. The report comes a day after https://www.rawstory.com/trump-news/ reportedly talked with Kevin Warsh at Mar-a-Lago about Warsh taking the job. The Wall Street Journal characterized Warsh as the \"front-runner\" with plans to possibly later have him lead the Federal Reserve once Jerome Powell’s term as chair ends in 2026.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsj.com/politics/policy/trump-considers-warsh-serving-as-treasury-secretaryand-then-fed-chair-827207e0",
+        "https://wsj.com/politics/policy/trump-considers-warsh-serving-as-treasury-secretaryand-then-fed-chair-827207e0"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Howard Lutnick",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scott Jennings",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jerome Powell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kevin Warsh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mar-a-Lago",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNN",
+                "sentiment": "none"
+            },
+            {
+                "name": "GOP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:40:09.149+02:00",
+    "updated": "2024-11-23T02:40:09.149+02:00"
+}

@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "7fb6c5c53c6d39daa8a1d4cf3d37dce500f24ede",
+        "url": "https://flipboard.com/@spacecom/nasa-accelerates-artemis-program-moon-missions-for-spacex-and-blue-origin-qar090du2lccgfdl",
+        "site_full": "flipboard.com",
+        "site": "flipboard.com",
+        "site_section": "https://flipboard.com/@spacecom",
+        "site_categories": [
+            "family_and_parenting",
+            "eldercare"
+        ],
+        "section_title": "Space.com (@Spacecom) on Flipboard",
+        "title": "NASA Accelerates Artemis Program: Moon Missions for SpaceX and Blue Origin",
+        "title_full": "NASA Accelerates Artemis Program: Moon Missions for SpaceX and Blue Origin",
+        "published": "2024-11-22T20:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://ic-cdn.flipboard.com/futurecdn.net/14027d143ffe3caafcbe4a13b2092ec0895fb386/_medium.jpeg",
+        "performance_score": 0,
+        "domain_rank": 1218,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7fb6c5c53c6d39daa8a1d4cf3d37dce500f24ede",
+    "url": "https://flipboard.com/@spacecom/nasa-accelerates-artemis-program-moon-missions-for-spacex-and-blue-origin-qar090du2lccgfdl",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Space.com",
+    "published": "2024-11-22T20:54:00.000+02:00",
+    "title": "NASA Accelerates Artemis Program: Moon Missions for SpaceX and Blue Origin",
+    "text": "NASA wants a lunar habitat on the surface of the moon in less than ten years. NASA is keeping its foot on the gas for the space agency's Artemis …\nNASA Accelerates Artemis Program: Moon Missions for SpaceX and Blue Origin\nNASA is keeping its foot on the gas for the space agency's Artemis program, announcing plans to assign demonstration missions for the two vehicles it has picked to land astronauts on the moon. Both SpaceX and Blue Origin were awarded contracts for NASA's Human Landing System, and have been in the process of designing their respective vehicles for returning astronauts to the surface of the moon.\nSpaceX Starship launches banana to space, skips giant rocket catch on 6th test flight (video, photos)\nThere was no \"chopsticks\" booster catch this time, unfortunately. The biggest and most powerful rocket ever built now has a half-dozen launches under …\nMany more liftoffs are coming. The biggest and most powerful rocket ever built now has six test flights under its belt — and it's just getting started. …\n\"Starship, because it's the biggest rocket ever built, is also one of the dirtiest.\" When the 165-foot-tall (50 meters) SpaceX Starship upper stage …\n'These will be uncrewed to test the reliability of landing intact on Mars. If those landings go well, then the first crewed flights to Mars will be …",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Science and Technology",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "NASA",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:07:36.074+02:00",
+    "updated": "2024-11-23T03:07:36.074+02:00"
+}

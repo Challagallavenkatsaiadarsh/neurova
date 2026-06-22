@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "873224ff057dad776c9e2d7626cad6b97ed82be1",
+        "url": "https://www.devdiscourse.com/article/politics/3167700-trumps-pick-for-labor-secretary-lori-chavez-deremer",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Trump's Pick for Labor Secretary: Lori Chavez-DeRemer | Politics",
+        "title_full": "Trump's Pick for Labor Secretary: Lori Chavez-DeRemer | Politics",
+        "published": "2024-11-23T00:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_40_2945094.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "873224ff057dad776c9e2d7626cad6b97ed82be1",
+    "url": "https://www.devdiscourse.com/article/politics/3167700-trumps-pick-for-labor-secretary-lori-chavez-deremer",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T00:16:00.000+02:00",
+    "title": "Trump's Pick for Labor Secretary: Lori Chavez-DeRemer | Politics",
+    "text": "Trump's Pick for Labor Secretary: Lori Chavez-DeRemer\nDonald Trump, U.S. President-elect, has selected Congresswoman Lori Chavez-DeRemer from Oregon as his labor secretary. Trump praised her dedication to enhancing the U.S. workforce. Chavez-DeRemer was elected in 2022 but recently lost her congressional seat to Democrat Janelle Bynum.\nPresident-elect Donald Trump announced on Friday his selection of Congresswoman Lori Chavez-DeRemer from Oregon to be the next labor secretary. In his statement, Trump lauded Chavez-DeRemer for her persistent efforts in collaborating with business and labor sectors to strengthen the U.S. workforce.\nTrump expressed enthusiasm about partnering with Chavez-DeRemer to develop significant opportunities for American workers, stressing the importance of expanding training programs, increasing wages, and restoring manufacturing jobs.\nChavez-DeRemer, who began serving in Congress in 2022, experienced a setback earlier this month when she lost her seat to Democrat Janelle Bynum.\n(With inputs from agencies.)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lori Chavez-DeRemer\nDonald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Janelle Bynum",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:50:03.554+02:00",
+    "updated": "2024-11-23T02:50:03.554+02:00"
+}

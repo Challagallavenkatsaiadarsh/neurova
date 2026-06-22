@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "b43a5509a25c6a16cce04fd46769aaaab0799db7",
+        "url": "https://www.fox2detroit.com/news/detroit-police-under-investigation-after-officers-found-working-inactive-licenses",
+        "site_full": "www.fox2detroit.com",
+        "site": "fox2detroit.com",
+        "site_section": "https://www.fox2detroit.com/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "FOX 2 Detroit",
+        "title": "Detroit police under investigation after officers found working on inactive licenses | FOX 2 Detroit",
+        "title_full": "Detroit police under investigation after officers found working on inactive licenses | FOX 2 Detroit",
+        "published": "2024-11-23T00:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox2detroit.com/www.fox2detroit.com/content/uploads/2024/11/1280/720/snapshot-90.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 7240,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b43a5509a25c6a16cce04fd46769aaaab0799db7",
+    "url": "https://www.fox2detroit.com/news/detroit-police-under-investigation-after-officers-found-working-inactive-licenses",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brandon Hudson and Brendan Vrabel",
+    "published": "2024-11-23T00:50:00.000+02:00",
+    "title": "Detroit police under investigation after officers found working on inactive licenses | FOX 2 Detroit",
+    "text": "DETROIT (FOX 2) - As the Detroit Police Department (DPD) prepares for one of its biggest events of the year downtown for the annual Christmas Tree Lighting, the department will have fewer feet on the streets.\nAn internal audit revealed more than 30 officers worked on inactive licenses, meaning they couldn’t properly perform their duties, like make arrests if needed. Now, questions linger about how this happened.\nDetroit police say their officers were not aware of this problem. This is not an indictment of their day-to-day work. Meanwhile, news like this impacts the transparency of the department and its relationship with the community.\nIn a statement, Detroit police said:\n\"…this appears to be the result of a failure to submit required paperwork to the State of Michigan. The DPD can confirm that all officers have undergone appropriate training and that Human Resources is working toward updating each member’s respective file.\"\nThose officers are currently working desk duty until the matter is resolved.\nWayne County prosecutor Kym Worthy is also investigating. She said:\n\"I have received some preliminary information from Chief Bettison. Once we have all the information, we will begin the next steps.\"\nDetroit Board of Police Commissioner Daryl Woods found out about the inactive licenses during a meeting on Thursday. He called the news alarming because it shows a lack of transparency.\n\"I am very, very happy that prosecutor Worthy has all of those names, and she’s doing a deep dive into that situation and investigating all types of possible scenarios,\" Woods said. \"We’re not going to rush off of judgment on this issue, but we want some answers, and we want them, like, yesterday.\"\n\"Are you, at the very least, content that these officers have been pulled off the street, and they’re working in administrative duties?\" asked FOX 2&apos;s Brandon Hudson.\n\"I’m very content that they’re pulled off the streets, but I’m distraught that they are.\" \"These officers, you’re talking about 17 police cars, 34 officers who could be out on the streets serving and protecting the citizens of the city of Detroit, and we need to get them out there quick.\"\nWoods said to stay tuned to the next board of police commissioners meeting where they are going to address this issue and hopefully have more answers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:27:54.186+02:00",
+    "updated": "2024-11-23T01:27:54.186+02:00"
+}

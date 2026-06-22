@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "5056914306b9e35209f23d2b368b53c640c2fff6",
+        "url": "https://www.tribuneindia.com/news/haryana/hc-upholds-amendment-to-haryana-municipal-act",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/haryana",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Haryana News Today | Tribune India: Latest Updates & Headlines",
+        "title": "HC upholds amendment to Haryana Municipal Act - The Tribune",
+        "title_full": "HC upholds amendment to Haryana Municipal Act - The Tribune",
+        "published": "2024-11-22T23:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/10/67123f6ef1f60-Pic1.jpeg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5056914306b9e35209f23d2b368b53c640c2fff6",
+    "url": "https://www.tribuneindia.com/news/haryana/hc-upholds-amendment-to-haryana-municipal-act",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saurabh Malik",
+    "published": "2024-11-22T23:00:00.000+02:00",
+    "title": "HC upholds amendment to Haryana Municipal Act - The Tribune",
+    "text": "HC upholds amendment to Haryana Municipal Act\nIn a significant ruling, the Punjab and Haryana High Court has upheld the validity of the Haryana Municipal (Amendment) Act, 2018, and the Haryana Municipal (Second Amendment) Act, 2019, which empowered the State Election Commission (SEC) to remove municipal presidents and members on grounds of statutory disqualification.\nDismissing a writ petition challenging the provisions, the Bench of Justice Sureshwar Thakur and Justice Sudeepti Sharma court reaffirmed the legislative competence of the Haryana State Legislative Assembly to enact such laws under the constitutional framework.\nThe petitioner, an elected president of a municipal committee, had sought to declare the amendments null and void, arguing they violated constitutional provisions, including Article 243V, and the Supreme Court's decision in the case of 'NP Ponnuswami versus the Returning Officer'. The petitioner further challenged a show-cause notice issued by the SEC, claiming procedural violations and non-adherence to the principle of natural justice.\nThe Bench ruled that the amendments were constitutionally valid and fell squarely within the legislative competence of the State Assembly. Article 243V explicitly allowed state legislatures to create laws prescribing disqualifications for municipal members and designate an authority to decide such matters. The court emphasised that the SEC's empowerment to decide on disqualifications was in harmony with this constitutional mandate.\nThe judgment further clarified that the constitutional framework permitted the States to create multiple statutory remedies for addressing electoral disputes. The Bench was of the opinion that dual remedies provided under the amended Act and Rule 85 of the Haryana Municipal Election Rules, 1978, were complementary rather than conflicting. The court noted that such provisions did not violate any constitutional bar.\nThe Bench took note of the petitioner’s argument that the SEC's reliance on an inquiry report prepared by a Deputy Commissioner without allowing him to participate violated the principle of audi alteram partem, or natural justice. The court rejected the contention, holding that the show-cause notice had merged into the SEC’s final decision, which was already under challenge in a separate writ petition. Any grievances about procedural lapses, the court said, would be addressed in that case.\nThe court’s decision is significant as it upholds the SEC’s jurisdiction to adjudicate disqualifications under the amended Act, emphasising that legislative measures aimed at maintaining democratic integrity must be respected. \"The impugned legislation is made with the completest wisdom of fullest legislative empowerment,\" the judgment stated.\nThe ruling reinforces...\n*Constitutional principle that once elections are concluded, disputes regarding disqualifications must be decided through designated statutory mechanisms rather than judicial interference\n*State legislatures have the authority to create bodies and mechanisms to address such electoral issues within their jurisdiction",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sudeepti Sharma",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Haryana State Legislative Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "SEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:51:52.180+02:00",
+    "updated": "2024-11-23T01:51:52.180+02:00"
+}

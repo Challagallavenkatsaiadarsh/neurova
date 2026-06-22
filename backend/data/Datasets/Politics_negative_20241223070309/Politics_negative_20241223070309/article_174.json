@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "d434a857b372bd45de0aeeb16a3be55361a38c43",
+        "url": "https://www.oklahoman.com/story/opinion/letters/2024/11/22/ryan-walters-oklahoma-education-secretary-nomination-trump-what-next/76483638007",
+        "site_full": "www.oklahoman.com",
+        "site": "oklahoman.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Some say Ryan Walters was passed over by Trump. What's next? | Opinion",
+        "title_full": "Some say Ryan Walters was passed over by Trump. What's next? | Opinion",
+        "published": "2024-11-22T23:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/11/06/NOKL/76084134007-1-bt-9345.jpg?auto=webp&crop=4836,2721,x0,y252&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 5234,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d434a857b372bd45de0aeeb16a3be55361a38c43",
+    "url": "https://www.oklahoman.com/story/opinion/letters/2024/11/22/ryan-walters-oklahoma-education-secretary-nomination-trump-what-next/76483638007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", The Oklahoman",
+    "published": "2024-11-22T23:27:00.000+02:00",
+    "title": "Some say Ryan Walters was passed over by Trump. What's next? | Opinion",
+    "text": "Share your thoughts on what Ryan Walters should do after losing Education Secretary bid | Opinion The Oklahoman We've all had disappointing moments in our lives.\nOne of those moments very likely happened to Ryan Walters last week when President-elect Donald Trump announced he would nominate the former administrator of the Small Business Administration, Linda McMahon, to be U.S. education secretary.\nAlthough Walters never openly and specifically campaigned for the job, he was among a handful of potential candidates being mentioned for it. The closest he came to expressing an interest was during an interview with Fox News , when he told host Trace Gallagher, “It’s an honor to be considered.” The comment came just after Walters had compared Trump to one of the world's admired political leaders, Winston Churchill.\nWalters expressed no disappointment over not landing the top federal education job. In fact, he wrote on the social media site X, “Congratulations @Linda_McMahon! It’s time to get to work dismantling the US Department of Education. Fantastic addition to @realDonaldTrump team!”\nBut in the two weeks since Trump's election victory, Walters amped up the rhetoric while making an unusual number of national media appearances for a state superintendent from a small state ― and one that under Walters ranks almost dead last in most measures of educational success.\nDuring that time, Walters has appeared on shows on national television programs talking up what he perceives to be the Trump education agenda. He announced a new Office of Religious Liberty and Patriotism inside the taxpayer-funded agency he leads, the Oklahoma State Department of Education. He ordered Oklahoma school districts to show to students and share with parents a video of him touting the office, then leading a prayer for Trump. And he announced he plans to create an education advisory committee to oversee what he expects to be federal public education policy changes made once Trump tales office in January.\nGiven all that, it seems fair to think that Walters might be wondering, \"what do I do now?\nWe're asking our readers to help out. Answer the question below and give Ryan Walters your best advice. We'll share your thoughts in a story soon.\nWhat would you advise Ryan Walters to do now?\nFacebook\nTwitter\nEmail",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://poll.fm/14675985",
+        "https://x.com/RyanWaltersSupt/status/1858954482609988053",
+        "https://www.facebook.com/dialog/feed?app_id=${window.ga_data.site.facebook.appid}&redirect_uri=${window.location.href}&link=${url}&name=${encodeURIComponent(headline)}`);",
+        "https://x.com/RyanWaltersSupt/status/1859057607916343501",
+        "https://twitter.com/intent/tweet?text=${text}",
+        "https://thehill.com/homenews/education/4985739-trump-education-secretary-ryan-walters-tiffany-justice-betsy-devos/",
+        "https://www.facebook.com/dialog/feed",
+        "https://www.poll.fm/14675985",
+        "https://www.x.com/RyanWaltersSupt/status/1859057607916343501",
+        "https://twitter.com/intent/tweet",
+        "https://thehill.com/homenews/education/4985739-trump-education-secretary-ryan-walters-tiffany-justice-betsy-devos",
+        "https://www.x.com/RyanWaltersSupt/status/1858954482609988053",
+        "https://facebook.com/dialog/feed?app_id=${window.ga_data.site.facebook.appid}&redirect_uri=${window.location.href}&link=${url}&name=${encodeURIComponent(headline)}`);",
+        "https://www.twitter.com/intent/tweet?text=${text}",
+        "https://www.thehill.com/homenews/education/4985739-trump-education-secretary-ryan-walters-tiffany-justice-betsy-devos/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ryan Walters",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Winston Churchill",
+                "sentiment": "none"
+            },
+            {
+                "name": "Linda McMahon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gallagher",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Small Business Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "US Department of Education",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:21:37.537+02:00",
+    "updated": "2024-11-23T00:21:37.537+02:00"
+}

@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "af4c1874f051a3c8c804c58c1daadaf12c32cc29",
+        "url": "https://www.thestar.com.my/news/nation/2024/11/24/pm-no-let-up-in-graft-fight",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.thestar.com.my/news/nation",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Nation - News | The Star",
+        "title": "PM: No let up in graft fight | The Star",
+        "title_full": "PM: No let up in graft fight | The Star",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/24/3032655.jpg",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 0,
+                "shares": 13
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "af4c1874f051a3c8c804c58c1daadaf12c32cc29",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/24/pm-no-let-up-in-graft-fight",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TEH ATHIRA YUSOF and CHARLES RAMENDRAN newsdesk@thestar.com.my",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "PM: No let up in graft fight | The Star",
+    "text": "KUALA LUMPUR: As the Madani government reaches its two-year mark, the Prime Minister has vowed to double down on its fight against corruption.\nDatuk Seri Anwar Ibrahim said the country’s corruption level has significantly reduced compared to the past as the Madani government has dedicated itself to eradicating such practices.\nHe voiced his disappointment with “certain groups” that used the rhetoric of race and religion to justify not taking appropriate action against the scourge of corruption, which has become nearly systemic in the country.\n“We must eliminate it. But don’t think it is easy, as we’ve witnessed recently with those defending the ultra-wealthy hoarding wealth while the public suffers.\n“Sometimes, I’m puzzled as to how a supposed champion of race and religion can defend corrupt individuals,” Anwar said yesterday during a town hall session held to mark two years of Madani government.\nAnwar, who is also the Finance Minister, said the government would not allow for misappropriation or abuse of power in administrating the country.\n“Do not manipulate issues that could cause harm.\n“Practices that harm the nation, such as hoarding the country’s wealth, cannot be allowed,” he said.\n“If there are weaknesses, we acknowledge them and we strive to improve.”\nAnwar said the government wants to put an end to graft practices, citing as an example that all funds should be obtained through transparent procedures.\nHe spoke of the need for firm leadership and a strong political will.\nAnwar also commended enforcement agencies such as the police, the Malaysian Anti-Corruption Commission and the Inland Revenue Board for their diligent work.\nAs for criticism against the ruling administration, he said the government would continue to be answerable to all issues that emerged and would not hide from problems.\nAs an example, he said the government had provided answers in Parliament on issues such as travel details related to official trips overseas.\n“We will not cover up. We will provide an explanation,” he said.\nOn Thursday, Anwar told the Dewan Rakyat that companies involved in these trips would bear a significant portion of the travel costs.\n“They paid for their flight expenses, which means they covered about 75% of our overseas travel costs,” he was quoted as saying.\nCommunications Minister Fahmi Fadzil subsequently said the government saved almost RM1mil by using a privately chartered flight for the Prime Minister’s recent official visits abroad.\nYesterday, Anwar also acknowledged that he is still getting allowances in his capacity as the Tambun MP.\nDismissing accusations by his critics that he is trying to be better than the prophet by rejecting his salary as the country’s Prime Minister and Finance Minister, he said: “When I said that I did not take my salary, I was mocked. What if I start accepting my salary again next year? It will be odd.”\nHe said that his wife Datuk Seri Dr Wan Azizah Wan Ismail had also received her allowances as she is Bandar Tun Razak MP.\n“When we combined (the allowances), it is okay. I am not poor,” he quipped.\nHe said that criticism against him for not accepting his salary was a case of “petty politics being played”.\nOn Nov 5, PAS president Tan Sri Abdul Hadi Awang told Dewan Rakyat that the move by “an individual” to reject his salary as prime minister implied that he was attempting to appear more virtuous than Prophet Muhammad.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Datuk Seri Anwar Ibrahim",
+                "sentiment": "none"
+            },
+            {
+                "name": "Madani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:32:23.091+02:00",
+    "updated": "2024-11-24T06:32:23.091+02:00"
+}

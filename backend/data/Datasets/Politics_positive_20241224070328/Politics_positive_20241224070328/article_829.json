@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "552fa8d737e8641615f13745e184517e44be2daf",
+        "url": "https://indianexpress.com/article/world/india-counted-640-million-votes-in-1-day-us-still-counting-elon-musk-9687202",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "http://indianexpress.com/feed/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "The Indian Express",
+        "title": "Here’s what Elon Musk had to say about the Maharashtra and Jharkhand Assembly elections",
+        "title_full": "Here’s what Elon Musk had to say about the Maharashtra and Jharkhand Assembly elections",
+        "published": "2024-11-24T01:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/Untitled-design-4-9.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "552fa8d737e8641615f13745e184517e44be2daf",
+    "url": "https://indianexpress.com/article/world/india-counted-640-million-votes-in-1-day-us-still-counting-elon-musk-9687202",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@indianexpress",
+    "published": "2024-11-24T01:46:00.000+02:00",
+    "title": "Here’s what Elon Musk had to say about the Maharashtra and Jharkhand Assembly elections",
+    "text": "The world's richest person Elon Musk has praised India’s electoral system where the counting of votes got completed in 24 hours, while taking a potshot at the counting system in the United States as the election is yet to be called in California. Musk responded to a post on X which had a news article posted with the title, ‘How India counted 640 million votes in a day’ and the caption read “Meanwhile in India, where cheating isn’t the primary goal of their elections.\" Taking a swipe at the US electoral system, Musk, who is the owner of X said “India counted 640 million votes in 1 day. California is still counting votes.” India counted 640 million votes in 1 day. California is still counting votes 🤦‍♂️ — Elon Musk (@elonmusk) November 24, 2024 In response to another post which read, “India counted 640 million votes in a single day. California is still counting 15 million votes…18 days later,” Musk said “Tragic”. Even after almost 20 days since the 2024 US presidential elections results were announced, the counting in California state is still underway and the poll has not been officially called and some reports suggest that around 3,00,000 ballots are yet to be counted. Tragic — Elon Musk (@elonmusk) November 24, 2024 Why has California Not Declared Results Yet? California, which boasts a population of around 39 million, is the most populous state in the United States. And according to statistics, close to 16 million people participated in this year’s electoral process. The election officials have clearly stated that it could take weeks to call the election like it happened in 2020. California’s ballot process majorly centers on mail-in voting, which requires more time and effort to process as compared to in-person voting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elon Musk",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jharkhand Assembly",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:03:30.449+02:00",
+    "updated": "2024-11-24T07:08:08.733+02:00"
+}

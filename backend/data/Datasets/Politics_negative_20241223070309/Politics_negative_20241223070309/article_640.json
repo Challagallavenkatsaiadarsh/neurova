@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "1b2f9c2486328416ce9a88ae5bbec6fb09b730ee",
+        "url": "https://lemmy.ml/post/22792097",
+        "site_full": "lemmy.ml",
+        "site": "lemmy.ml",
+        "site_section": "https://lemmy.ml/feeds/local.xml?sort=Active",
+        "site_categories": [],
+        "section_title": "Lemmy - Local",
+        "title": "AOC votes to back Israel lobby's bogus \"anti-Semitism\" definition",
+        "title_full": "AOC votes to back Israel lobby's bogus \"anti-Semitism\" definition",
+        "published": "2024-11-22T22:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MX",
+        "main_image": "https://lemmy.ml/api/v3/image_proxy?url=https%3A%2F%2Felectronicintifada.net%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Foriginal_800w%2Fpublic%2F2024-11%2F241121_-_aoc_0.jpg%3Fitok%3DRwb1u_Rw",
+        "performance_score": 0,
+        "domain_rank": 50789,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b2f9c2486328416ce9a88ae5bbec6fb09b730ee",
+    "url": "https://lemmy.ml/post/22792097",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "https://lemmy.ml/u/pete_link",
+    "published": "2024-11-22T22:44:00.000+02:00",
+    "title": "AOC votes to back Israel lobby's bogus \"anti-Semitism\" definition",
+    "text": "[log in](/login)or # to comment.\nI vote for AOC resigning for voting to protect the rail corporation from the union strike.\nAOC scabbing for the rail industry two years ago was the nail in the coffin.\n- Kshama Sawant, Dec. 2022:\nRail Workers Betrayed By Biden & The “Squad” - Freddie deBoer, Jul. 2023:\nAOC Is Just a Regular Old Democrat Now\n- Kshama Sawant, Dec. 2022:\nOf course she does. All American politicians are Israeli puppets. It’s always been strange to me that this is the case. However, I’ve also never seen an example that goes against the grain. Even Sanders is all about decreasing weapons sent, not stopping.\nThey’re National Security puppets, and NatSec needs Israel.\noh brother lmao\nSocial democracy is objectively the regular wing of fascism.\nThe Squad is looking dumb right now, especially after one of their champions having lost the election. This matter further proves that.\nlol now you guys are turning on AOC too\nInteresting article, thanks for the link. Wasn’t up to date with who is liked around these parts anymore. Is it just Bernie now?\nAOC has turned on the left a while ago. She is an establishment figure.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kshama Sawant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bernie",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "AOC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:14:56.904+02:00",
+    "updated": "2024-11-23T01:14:56.904+02:00"
+}

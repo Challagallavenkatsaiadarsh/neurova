@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "610c5eee9786194fd01f03e48f9d1f6acf579099",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/dera-baba-nanak-akali-backing-helps-gurdeep-breach-congress-bastion-101732390396607.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Dera Baba Nanak: Akali backing helps Gurdeep breach Congress bastion",
+        "title_full": "Dera Baba Nanak: Akali backing helps Gurdeep breach Congress bastion",
+        "published": "2024-11-23T21:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/Aam-Aadmi-Party--AAP--s-Gurdeep-Singh-Randhawa_1732390392937.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "610c5eee9786194fd01f03e48f9d1f6acf579099",
+    "url": "https://www.hindustantimes.com/cities/chandigarh-news/dera-baba-nanak-akali-backing-helps-gurdeep-breach-congress-bastion-101732390396607.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T21:03:00.000+02:00",
+    "title": "Dera Baba Nanak: Akali backing helps Gurdeep breach Congress bastion",
+    "text": "Dera Baba Nanak: Akali backing helps Gurdeep breach Congress bastion\nGurdeep secured 59,104 votes, while Congress’ nominee got 53,405 votes in a neck-and-neck fight. Shiromani Akali Dal (SAD) turncoat and BJP nominee Ravikaran Singh Kahlon could only garner 6,505 votes and finished in third place.\nRuling Aam Aadmi Party (AAP)’s Gurdeep Singh Randhawa breached the bastion of Congress heavyweight and Gurdaspur MP Sukhjinder Singh Randhawa by defeating his wife Jatinder Kaur by 5,699 votes in the bypoll of Dera Baba Nanak assembly segment.\nGurdeep secured 59,104 votes, while Congress’ nominee got 53,405 votes in a neck-and-neck fight. Shiromani Akali Dal (SAD) turncoat and BJP nominee Ravikaran Singh Kahlon could only garner 6,505 votes and finished in third place.\nIn the 2022 assembly polls, Gurdeep, halqa in-charge of the constituency, had finished third, behind winner Sukhjinder and Ravikaran Singh Khalon, who fought on SAD tickets. Gurdeep had polled 31,742 votes (22%) as Sukhjinder pipped Kahlon by 466 votes. After being elected as MP from the Gurdaspur constituency in the recently held Lok Sabha elections, Sukhjinder tendered his resignation necessitating the bypoll rural constituency.\nPoll experts assumed that the Congress’ nominee had the upper hand as Jatinder Kaur and her son Udayvir Singh Randhawa had been active in local politics. Gurdeep Randhawa ended the dominance of this taksali (old) Congress family backed by support from the incumbent AAP government in the state and Akali Dal cadre loyal to former minister Sucha Singh Langah.\nGurdeep had AAP national convener Arvind Kejriwal campaign for him while CM Bhagwant Mann visited this constituency twice and addressed the rallies.\nThe Shiromani Akali Dal (SAD) which opted out of the contest has a considerable cadre in this Sikh-dominated segment. Support of its workers was crucial in this bypoll and days ahead of polling, Gurdeep managed to secure the backing of Langah supporters giving him a decisive edge.\nLukewarm response to the BJP also benefitted Gurdeep. Kahlon, who lost the 2022 elections as a SAD nominee by a thin margin, failed to gain traction with the electorate.\n“I was hopeful that God would shower his grace on me and he did it. I am thankful to all sections including SAD workers, which contributed to my victory. Thanks to the support of the people, a normal worker could defeat a big leader of Congress. My fight has always remained against dynastic politics and arrogance. Today, the Dera Baba Nanak people have defeated both,” said Gurdeep, after securing victory.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dera Baba Nanak",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sukhjinder Singh Randhawa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ravikaran Singh Khalon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gurdeep Singh Randhawa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ravikaran Singh Kahlon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jatinder Kaur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:23:58.044+02:00",
+    "updated": "2024-11-24T04:23:58.044+02:00"
+}

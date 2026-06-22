@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "a6fff0f33844a5e3ba12f86ffd3de22da482e3c7",
+        "url": "https://cbs4local.com/news/local/poll-do-you-agree-with-texass-decision-to-include-a-bible-curriculum-in-schools",
+        "site_full": "cbs4local.com",
+        "site": "cbs4local.com",
+        "site_section": "https://cbs4local.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Poll: Do you agree with Texas's decision to include a Bible curriculum in schools?",
+        "title_full": "Poll: Do you agree with Texas's decision to include a Bible curriculum in schools?",
+        "published": "2024-11-22T22:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cbs4local.com/resources/media/c0491feb-4f51-4822-89d4-22ebeb3c17fd-large16x9_bible.png",
+        "performance_score": 0,
+        "domain_rank": 85773,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a6fff0f33844a5e3ba12f86ffd3de22da482e3c7",
+    "url": "https://cbs4local.com/news/local/poll-do-you-agree-with-texass-decision-to-include-a-bible-curriculum-in-schools",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff",
+    "published": "2024-11-22T22:07:00.000+02:00",
+    "title": "Poll: Do you agree with Texas's decision to include a Bible curriculum in schools?",
+    "text": "EL PASO, Texas (KFOX14/CBS4) — A majority of the Texas State Board of Education gave final approval Friday for a Bible curriculum to be implemented in schools. Eight of the 15 board members voted to approve Bluebonnet Learning, the elementary school curriculum proposed by the Texas Education Agency earlier this year. RELATED:[ State Board of Education approves Bible-infused curriculum](/news/local/link-relcanonical-hrefhttpswwwtexastribuneorg20241119texas-sboe-bible-christianity-curriculum-11-22-2024#?src=link) Texas school districts have the freedom to choose their own lesson plans, so the choice to adopt the materials will remain with them. However, the state will offer an incentive of $60 per student to districts that adopt the lessons, which could appeal to some as schools struggle financially after several years without a significant raise in state funding. Do you agree with Texas's decision to include a Bible curriculum in schools? Vote in our poll below: [Sign up](/sign-up) to receive the top interesting stories from in and around our community once daily in your inbox.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Education",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://embed.tagboard.com%22;%3C/script%3E%3Cdiv%20class=%22tagboard-embed%22%20tgb-embed-id=%2214478%22%3E%3C/div%3E%3Cscript%20src=%22https://static.tagboard.com/embedssets/js/embed.js%22%3E%3C/script%3E%3C/div%3E",
+        "https://www.embed.tagboard.com%22;%3C/script%3E%3Cdiv%20class=%22tagboard-embed%22%20tgb-embed-id=%2214478%22%3E%3C/div%3E%3Cscript%20src=%22https://www.static.tagboard.com/embedssets/js/embed.js%22%3E%3C/script%3E%3C/div%3E"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Texas State Board of Education",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Texas Education Agency",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bluebonnet Learning",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:59:09.301+02:00",
+    "updated": "2024-11-23T07:01:51.345+02:00"
+}

@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "a04acf0c93815b6b5e1009e894cda3b7c7adc02a",
+        "url": "https://www.rebelnews.com/caf_vaccine_mandate_lawsuit_dismissed_plaintiffs_say_fight_isn_t_over",
+        "site_full": "www.rebelnews.com",
+        "site": "rebelnews.com",
+        "site_section": "https://www.rebelnews.com/news.rss",
+        "site_categories": [
+            "religion"
+        ],
+        "section_title": "Latest - Rebel News AB Live Clone [vox3] clone",
+        "title": "CAF vaccine mandate lawsuit dismissed — plaintiffs say fight isn’t over",
+        "title_full": "CAF vaccine mandate lawsuit dismissed — plaintiffs say fight isn’t over",
+        "published": "2024-11-23T00:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://assets.nationbuilder.com/therebel/pages/118673/meta_images/original/Drea-CAF-vaccine-1200x638_%281%29.jpg?1732312987",
+        "performance_score": 0,
+        "domain_rank": 32171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a04acf0c93815b6b5e1009e894cda3b7c7adc02a",
+    "url": "https://www.rebelnews.com/caf_vaccine_mandate_lawsuit_dismissed_plaintiffs_say_fight_isn_t_over",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Drea Humphrey",
+    "published": "2024-11-23T00:22:00.000+02:00",
+    "title": "CAF vaccine mandate lawsuit dismissed — plaintiffs say fight isn’t over",
+    "text": "CAF vaccine mandate lawsuit dismissed — plaintiffs say fight isn’t over\nAfter the federal court loss, counsel and plaintiff join Rebel News to discuss what comes next in their Canadian Armed Forces vaccine mandate fight.\nOn November 13, the Federal Court dealt a significant blow to media freedom and bodily autonomy by dismissing the case of over 330 present and former members of the Canadian Armed Forces (CAF) who allege that their superiors abused their power, authority, and infringed upon their rights when implementing a cohesive COVID-19 vaccine mandate.\nAlberta-based Justice Catherine A. Coughlan, who sided with the Government of Canada’s motion to strike, criticized the case as being \"vexatious,\" failing to \"plead material facts,\" and containing assertions that \"constitute abuse of process.\"\nThe judge also labeled the plaintiffs' description of COVID-19 jabs as \"experimental gene therapy\" as an example of the “inflammatory” language throughout the pleadings.\nThe case has been dismissed without allowance to amend, and leaves the plaintiffs collectively on the hook for $5,040 in costs to be paid jointly.\nIn today's report, counsel for the plaintiffs, Christine Christiansian with Valour Law, and James Formosa, one of the 330 plaintiffs she represents, join Rebel News to discuss the judge’s reasoning and inform the public that an appeal is likely on the way.\n[Drea Humphrey](/journalist_drea_humphrey)\nB.C. Bureau Chief\nBased in British Columbia, Drea Humphrey reports on Western Canada for Rebel News. Drea’s reporting is not afraid to challenge political correctness, or ask the tough questions that mainstream media tends to avoid.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Catherine A. Coughlan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "CAF",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:27:59.573+02:00",
+    "updated": "2024-11-23T01:27:59.573+02:00"
+}

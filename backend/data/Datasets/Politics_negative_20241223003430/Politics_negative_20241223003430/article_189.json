@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "710946c51dcc97b92fafc450dd5d18861d702c88",
+        "url": "https://www.channelnewsasia.com/commentary/adani-group-us-bribery-charges-green-energy-narendra-modi-rahul-gandhi-4764601",
+        "site_full": "www.channelnewsasia.com",
+        "site": "channelnewsasia.com",
+        "site_section": "https://www.channelnewsasia.com",
+        "site_categories": [
+            "society",
+            "tech",
+            "top_news_ph",
+            "top_news_th",
+            "top_news_id",
+            "top_news_sg",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Breaking News and Analysis on Asia and the World | Real-Time Coverage out of Asia and Singapore - CNA",
+        "title": "Commentary: US bribery case against Indian tycoon Adani is bad news for Modi - CNA",
+        "title_full": "Commentary: US bribery case against Indian tycoon Adani is bad news for Modi - CNA",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "SG",
+        "main_image": "https://onecms-res.cloudinary.com/image/upload/s--mSccldy3--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/6908dc91df3ee6e73edcda044d075bc779191e68.jpg?itok=gaHxj9H4",
+        "performance_score": 0,
+        "domain_rank": 1656,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 6
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "710946c51dcc97b92fafc450dd5d18861d702c88",
+    "url": "https://www.channelnewsasia.com/commentary/adani-group-us-bribery-charges-green-energy-narendra-modi-rahul-gandhi-4764601",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andy Mukherjee",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "Commentary: US bribery case against Indian tycoon Adani is bad news for Modi - CNA",
+    "text": "HONG KONG: The United States Justice Department’s criminal charges against Gautam Adani pose the biggest threat yet to the Asian tycoon’s US$169 billion empire. More importantly, though, it’s also a missed opportunity for India’s opposition, an unexpected gift to president-elect Donald Trump, and an all-around embarrassment for Prime Minister Narendra Modi.\nThe 54-page indictment alleges that Adani Green Energy’s mega 2020 order from Solar Energy Corporation of India had a problem - there were no takers for the expensive power, which jeopardised the lucrative contract.\nThat, the DOJ says, gave rise to a corrupt scheme “to pay over US$250 million in bribes to Indian government officials, to lie to investors and banks to raise billions of dollars, and to obstruct justice”.\nThe case is against group chairman Gautam Adani, his nephew Sagar, who is executive director of the green energy business, and six other individuals. The conglomerate denied the allegations as baseless and said it’s fully compliant with all laws.\n“All possible legal recourse will be sought,” the group said in a statement.\nTOO LATE TO SWAY MAHARASHTRA ELECTION The news about the court filing came hours after the end of assembly elections in the western state of Maharashtra, home to India’s financial capital Mumbai.\nOpposition leader Rahul Gandhi had made crony capitalism - especially Adani’s proximity to Modi - the central piece of his campaign, particularly in the Maharashtra poll. Which is what makes the timing of these charges unfortunate for him.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.linkedin.com/company/channel-newsasia/",
+        "https://itunes.apple.com/us/app/channel-newsasia/id520773971?mt=8",
+        "https://www.youtube.com/user/channelnewsasia",
+        "https://play.google.com/store/apps/details?id=com.channelnewsasia",
+        "https://www.youtube.com/embed/nhxVrITTaS8?autoplay=0&start=0&rel=0",
+        "https://www.facebook.com/ChannelNewsAsia",
+        "https://appgallery.huawei.com/#/app/C101326503?appId=C101326503&source=appshare&subsource=C101326503",
+        "https://www.twitter.com/Channelnewsasia",
+        "https://www.cna.id/",
+        "https://www.youtube.com/embed/nhxVrITTaS8",
+        "https://play.google.com/store/apps/details",
+        "https://appgallery.huawei.com/#/app/C101326503",
+        "https://www.appgallery.huawei.com/#/app/C101326503?appId=C101326503&source=appshare&subsource=C101326503",
+        "https://itunes.apple.com/us/app/channel-newsasia/id520773971",
+        "https://www.play.google.com/store/apps/details?id=com.channelnewsasia",
+        "https://linkedin.com/company/channel-newsasia/",
+        "https://www.itunes.apple.com/us/app/channel-newsasia/id520773971?mt=8",
+        "https://cna.id/",
+        "https://www.linkedin.com/company/channel-newsasia",
+        "https://youtube.com/user/channelnewsasia",
+        "https://twitter.com/Channelnewsasia",
+        "https://facebook.com/ChannelNewsAsia",
+        "https://youtube.com/embed/nhxVrITTaS8?autoplay=0&start=0&rel=0",
+        "https://www.cna.id"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adani",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Events & Partnerships Branded Content Business Blueprint Health",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "East",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:23:44.460+02:00",
+    "updated": "2024-12-11T17:48:02.928+02:00"
+}

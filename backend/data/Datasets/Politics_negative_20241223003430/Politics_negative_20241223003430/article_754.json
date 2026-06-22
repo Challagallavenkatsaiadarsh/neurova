@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "58704fb4d7c81d445d6a30eee709ddae5419f46b",
+        "url": "https://thefacts.com/news/sweeny-council-approves-removing-city-hall-drive-thru-drawer/article_ea47ad38-8e84-5d9b-b946-d90670ed4a66.html",
+        "site_full": "thefacts.com",
+        "site": "thefacts.com",
+        "site_section": "http://thefacts.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "thefacts.com - RSS Results in news of type article",
+        "title": "Sweeny council approves removing City Hall drive-thru drawer",
+        "title_full": "Sweeny council approves removing City Hall drive-thru drawer",
+        "published": "2024-11-23T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/thefacts.com/content/tncms/custom/image/ec547444-62f8-11e5-829b-7f8741774b92.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 69578,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "58704fb4d7c81d445d6a30eee709ddae5419f46b",
+    "url": "https://thefacts.com/news/sweeny-council-approves-removing-city-hall-drive-thru-drawer/article_ea47ad38-8e84-5d9b-b946-d90670ed4a66.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "LINDSEY KINANE lindsey.kinane@thefacts.com",
+    "published": "2024-11-23T01:00:00.000+02:00",
+    "title": "Sweeny council approves removing City Hall drive-thru drawer",
+    "text": "SWEENY — The drive-thru drawer at Sweeny City Hall will no longer be an option for residents because the parts needed to repair it have been discontinued.\nIt would cost the city about $8,000 to replace the drawer, not including investments in the wall, a cost Sweeny City Council balked at paying. Council chose instead to have the drawer removed during its meeting Nov. 19.\n“This has been a subject of communication the serval times that I’ve heard is the drive-thru drawer is out of commission,” Interim City Manager David Jordan said.\nThough the drive-thru drawer will be permanently closed, payments are accepted online, by mail, in person or in the night depository.\nIn other business, the council approved submitting a letter of intent to apply to the State Fiscal Year 2025 Drinking Water State Revolving Fund with the Texas Water Development Board.\nThe fund is used to help fix a city’s water infrastructure, such as drinking water and wastewater lines and facilities, Mayor Dusty Hopkins said.\nWith the letter, the city can move forward with enough time to review its capital improvement plan for potential costs. The review will need to be completed by January so the city can reapply.\nThis item is a continuation of previous City Manager Lindsay Koskiniemi’s efforts to obtain more than $39 million from the fund.\n“Prior to her leaving, the city had not ranked high enough to move to the next process in this,” Jordan said.\nThe city recently received notification it is qualified to move forward due to input and the amount of available funding.\n“In order to move forward after our letter of intent, there will be some engineering incurred,” Jordan said. “There will be some bond counsel incurred.”\nMoney awarded by the fund comes with loan forgiveness of 80 percent of costs.\n“We don’t have the money officially, but can’t just keep kicking the can and not pursuing grants and loans and things like that, especially that have forgiveness,” Councilman Reese Cook said.\nCouncil also approved establishing a Charter Review Committee. The panel of council members will consider updates to the charter, which is the city’s governing document.\nAny proposed changes to the charter would be put to voters in the May 2026 general election.\nCouncilman Neal Bess suggested adding a public committee alongside a council committee.\n“The citizens are the ones that’s gonna vote on it, so if the people can’t get ahold of one of the council people, they can get ahold of the citizens,” Bess said.\nAll five council members will review the charter and then have a meeting by the end of March to review markups by the end of March. Afterward, they will take applications to create a citizens committee to review the charter the council committee marked up, they said.\nThe citizens committee will have about six months to review the charter and make recommendations to the council before it has to go to Brazoria County to be placed on the ballot.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dusty Hopkins",
+                "sentiment": "none"
+            },
+            {
+                "name": "David Jordan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Texas Water Development Board",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sweeny City Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sweeny City Hall",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:25:18.645+02:00",
+    "updated": "2024-11-29T15:06:06.663+02:00"
+}

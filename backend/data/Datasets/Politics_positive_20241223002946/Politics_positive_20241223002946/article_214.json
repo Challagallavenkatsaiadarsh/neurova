@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "7a95a022e0e3ded0e59563509f06d178d03d10ba",
+        "url": "https://www.aa.com.tr/en/asia-pacific/southeast-asian-blocs-defense-chiefs-renew-support-for-5-point-consensus-on-myanmar/3401767",
+        "site_full": "www.aa.com.tr",
+        "site": "aa.com.tr",
+        "site_section": "https://www.aa.com.tr/en/rss/default?cat=live",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news_tr",
+            "top_news"
+        ],
+        "section_title": "Anadolu Ajansı Güncel Haberler",
+        "title": "Southeast Asian bloc's defense chiefs renew support for 5-Point consensus on Myanmar",
+        "title_full": "Southeast Asian bloc's defense chiefs renew support for 5-Point consensus on Myanmar",
+        "published": "2024-11-22T22:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/23/thumbs_b_c_386fd95d7f41b21b632aaa9ae41e4da3.jpg?v=020834",
+        "performance_score": 0,
+        "domain_rank": 1762,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7a95a022e0e3ded0e59563509f06d178d03d10ba",
+    "url": "https://www.aa.com.tr/en/asia-pacific/southeast-asian-blocs-defense-chiefs-renew-support-for-5-point-consensus-on-myanmar/3401767",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T22:07:00.000+02:00",
+    "title": "Southeast Asian bloc's defense chiefs renew support for 5-Point consensus on Myanmar",
+    "text": "Asia - Pacific\nSoutheast Asian bloc's defense chiefs renew support for 5-Point consensus on Myanmar\n3-day annual meeting of ASEAN defense chiefs concludes in Laos\nANKARA\nThe defense chiefs of Southeast Asians nations renewed their support Friday for the Five-Point Consensus on Myanmar, urging a peaceful solution to the conflict in the Buddhist-majority nation.\nDefense ministers from the Association of Southeast Asian Nations (ASEAN) have been meeting in the Laotian capital of Vientiane since Wednesday for an annual summit where they held bloc-level meetings with counterparts from China, the US and other nations.\nSoon after the February 2021 coup launched by the Myanmar's military, known as the Tatmadaw, ASEAN issued a Five-Point Consensus plan, or the 5PCs, when Brunei was at the helm of the regional bloc, to normalize the political situation.\nIt includes building trust and confidence to engender a dialogue among all parties concerned, end violence and alleviate the suffering of residents.\nThe military takeover triggered mass protests in Myanmar, with the junta's forces killing 5,909 victims while 27,612 have been arrested since February 2021, according to the Assistance Association for Political Prisoners, a local monitoring group.\nThe internal strife, however, has exacerbated with rebel groups forming a \"Brotherhood Alliance\" in northern Myanmar, bordering China, against the junta.\nThe alliance maintains control over several areas in the region.\nRecently media reports claimed that China placed Myanmar National Democratic Alliance Army (MNDAA) commander Peng Daxun under house arrest in the southern province of Yunnan.\nBeijing refuted the reports, however, and said Daxun entered China for medical care and was \"still under treatment.\"\nThe MNDAA is part of the Brotherhood Alliance, which includes the Ta'ang National Liberation Army and the Arakan Army.\nThe alliance previously entered a China-mediated cease-fire with the junta, known as the Haigeng agreement, which broke down following clashes in northern Shan State.\n*Writing by Islamuddin Sajid\nAnadolu Agency website contains only a portion of the news stories offered to subscribers in the AA News Broadcasting System (HAS), and in summarized form. Please contact us for subscription options.\nRelated topics\nASEAN\nASEAN defense ministers\nBrotherhood Alliance\nChina\nMyanmar\nMyanmar National Democratic Alliance Army\nPeng Daxun\nGlobal experts discuss financing energy transition at Istanbul Energy Forum\nUK premier discusses Russia-Ukraine war with NATO chief\nMpox continues to be international public health emergency, says WHO chief\nWHO chief expresses 'deep concern' after Israeli airstrikes on Gaza Strip",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Association of Southeast Asian Nations",
+                "sentiment": "none"
+            },
+            {
+                "name": "ASEAN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Laos",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:15:44.972+02:00",
+    "updated": "2024-11-23T01:15:44.972+02:00"
+}

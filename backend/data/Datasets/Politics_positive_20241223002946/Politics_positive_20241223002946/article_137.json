@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "10b158dc1d5d6a9894db40594ff4c9af2b660d4a",
+        "url": "https://www.uawire.org:443/ukraine-seeks-advanced-us-missile-defense-systems-to-counter-intercontinental-ballistic-missiles",
+        "site_full": "www.uawire.org",
+        "site": "uawire.org",
+        "site_section": "http://www.uawire.org/rss?projection=32",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "All News",
+        "title": "Ukraine seeks advanced US missile defense systems to counter intercontinental ballistic missiles",
+        "title_full": "Ukraine seeks advanced US missile defense systems to counter intercontinental ballistic missiles",
+        "published": "2024-11-22T20:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AF",
+        "main_image": "https://uawmedia.uawire.org/media/Default/Images/THAADmissiledefense.jpg",
+        "performance_score": 0,
+        "domain_rank": 114338,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "10b158dc1d5d6a9894db40594ff4c9af2b660d4a",
+    "url": "https://www.uawire.org:443/ukraine-seeks-advanced-us-missile-defense-systems-to-counter-intercontinental-ballistic-missiles",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@uawire",
+    "published": "2024-11-22T20:00:00.000+02:00",
+    "title": "Ukraine seeks advanced US missile defense systems to counter intercontinental ballistic missiles",
+    "text": "Ukraine seeks advanced US missile defense systems to counter intercontinental ballistic missiles\nAccording to the Ukrainian General Staff, the Patriot system might not be adequate for this purpose. Hence, Ukraine is in discussions with the United States about acquiring appropriate defense mechanisms, reports Ukraine revealed this information to Ukrinform, citing sources in the Ukrainian Armed Forces.\nA source, requesting anonymity, said: “Ukraine lacks the tools to shoot down ICBMs, but the Americans have them. Ukraine intends to ask the US to transfer such weapons,\" indicating potential moves towards either upgrading the Patriot systems or acquiring the multifunctional American missile defense system Aegis, which is designed to protect against short- and medium-range ballistic missiles.\nThe source also mentioned that the test launch of experimental missiles by the Russians is a demonstration tactic, intended to intimidate and show resolve. Previously, Defense Express suggested that to intercept such Russian missiles, Ukraine should request the Terminal High Altitude Area Defense (THAAD) from the US, similar to the system used to shield Israel recently, as the Patriot was initially created to intercept short-range ballistic missiles\nAdditionally, according to military analysts, only THAAD systems can intercept RS-26 \"Rubezh\" ICBMs.\nOn November 22, Kirill Budanov, the head of Ukraine’s Main Intelligence Directorate, asserted that Russia employed a long-range ballistic missile system \"Kedr\" for strikes on Dnipro and that it can carry a nuclear warhead. The missile used was devoid of a nuclear warhead and instead carried six clusters of submunitions.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Defense Express",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukrinform",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:59.580+02:00",
+    "updated": "2024-11-23T00:50:59.580+02:00"
+}

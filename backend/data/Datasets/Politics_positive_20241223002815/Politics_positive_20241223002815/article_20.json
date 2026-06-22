@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "84280e1c9dbf51dde5b12432320c49847375ad44",
+        "url": "https://patch.com/new-jersey/princeton/princeton-gets-state-grant-harrison-street-improvement-project",
+        "site_full": "patch.com",
+        "site": "patch.com",
+        "site_section": "https://patch.com/new-jersey/princeton",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Princeton News, Breaking News in Princeton, NJ",
+        "title": "Princeton Gets State Grant For Harrison Street Improvement Project",
+        "title_full": "Princeton Gets State Grant For Harrison Street Improvement Project",
+        "published": "2024-11-22T22:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://patch.com/img/cdn20/shutterstock/24423246/20241122/110836/styles/patch_image/public/shutterstock-1594277557___22110823495.jpg",
+        "performance_score": 0,
+        "domain_rank": 1048,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 20
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "84280e1c9dbf51dde5b12432320c49847375ad44",
+    "url": "https://patch.com/new-jersey/princeton/princeton-gets-state-grant-harrison-street-improvement-project",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Salvadore",
+    "published": "2024-11-22T22:23:00.000+02:00",
+    "title": "Princeton Gets State Grant For Harrison Street Improvement Project",
+    "text": "[Politics & Government](/new-jersey/princeton/politics)\nPrinceton Gets State Grant For Harrison Street Improvement Project\n$150 million was given to 540 cities and towns across the state for infrastructure improvements.\nPRINCETON, NJ – Several towns in Mercer County, including Princeton, have received Municipal Aid grants from the state for infrastructure improvements across town.\nPrinceton got $818,256 for the North Harrison Street Improvements Project.\nThe purpose of the project is to enhance motorists, bicyclists, and pedestrian safety and reduce crashes.\nFind out what's happening in Princetonwith free, real-time updates from Patch.\n“The recently announced Municipal Aid Grant from NJDOT for the North Harrison Street Improvements Project is welcome news,\" Council President Mia Sacks said. \"The improvements are designed to facilitate traffic calming, and to enhance bike and pedestrian safety, in keeping with Princeton’s Complete Streets and Vision Zero goals.”\nIn total, Mercer County received $6,534,779 from the state for infrastructure projects, earmarked for pedestrian safety and road projects.\nFind out what's happening in Princetonwith free, real-time updates from Patch.\nMore than 41 percent of the funding, $61.9 million, is going to 176 municipalities with Complete Streets policies. Another $22.2 million is being awarded to 56 communities where the project meets equity criteria to benefit low-income and minority populations, Gov. Phil Murphy’s office said.\n“Municipal Aid allows our communities to undertake transportation projects that significantly improve the quality of life for New Jersey residents,” Murphy said.\n“Under our Administration’s stewardship, the State is doing its part to help municipalities improve local infrastructure, so we have a safe and efficient transportation system throughout the state.\"\nThe Municipal Aid grant program received 595 applications from 540 different municipalities with a total of $375 million was requested.\nThese project applications were evaluated and rated on their merits by NJDOT staff and reviewed by an independent panel of state municipal engineers.\nEvery municipality that applied for funding, all 540 municipalities, received a grant, totaling $150 million, Murphy’s office said.\n“Thanks to the Murphy Administration’s ongoing commitment to improving New Jersey’s infrastructure, communities have the resources they need to improve local roads and bridges,” NJDOT Commissioner Fran O’Connor said. “Every one of the 540 municipalities who applied for Municipal Aid received a grant, which will make travel smoother and safer on all of our roads.”\nUnder the Municipal Aid grant program, each county is apportioned a share of the total funding based on population and the number of local centerline miles. Municipalities compete for portions of their county’s share.\nNJDOT provides 75 percent of the grant amount when a town awards a contract and the remaining 25 percent upon completion of the project. Of the $150 million, $10 million is allotted for municipalities qualifying for Urban Aid as defined under state law, with the amounts determined by the Department of Community Affairs.\nHave a correction or a news tip? Email [sarah.salvadore@patch.com](mailto:sarah.salvadore@patch.com)\nGet more local news delivered straight to your inbox.\n[Sign up for free Patch newsletters and alerts.](/new-jersey/princeton/subscribe)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Harrison Stre",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mia Sacks",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Princeton",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Princetonwith",
+                "sentiment": "none"
+            },
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:11:27.021+02:00",
+    "updated": "2024-11-23T00:11:27.021+02:00"
+}

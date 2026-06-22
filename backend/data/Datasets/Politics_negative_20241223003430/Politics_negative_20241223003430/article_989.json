@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "3754a4607291be021a47d539881c5318a5844761",
+        "url": "https://tribune.com.pk/story/2511334/governance-lapses-faulted-for-case-burden",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://tribune.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "International News, Latest News, Breaking News  | The Express Tribune",
+        "title": "Governance lapses faulted for case burden",
+        "title_full": "Governance lapses faulted for case burden",
+        "published": "2024-11-22T22:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.tribune.com.pk/media/images/Supreme-Court-of-Pakistan1710864672-0/Supreme-Court-of-Pakistan1710864672-0.jpg",
+        "performance_score": 0,
+        "domain_rank": 4084,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3754a4607291be021a47d539881c5318a5844761",
+    "url": "https://tribune.com.pk/story/2511334/governance-lapses-faulted-for-case-burden",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JEHANZEB ABBASI",
+    "published": "2024-11-22T22:42:00.000+02:00",
+    "title": "Governance lapses faulted for case burden",
+    "text": "The Constitutional Bench of the Supreme Court on Friday observed that several cases were filed in courts because of bad governance, and sought to discourage the use of the term \"minority\" for non-Muslim citizens of the country.\nThe six-member bench, led by Justice Aminuddin Khan, took a number of cases of public importance, ranging from rehabilitation of the 2005 earthquake victims to felling of forest trees to issues related to school education.\nDuring the hearing on the resettlement of 2005 earthquake victims, Justice Khan inquired about the delays in rehabilitating the victims and completing development projects in areas stricken by the tragedy.\nSitting on the bench, Justice Hassan Rizvi said that 19 years had passed since the devastating earthquake in K-P and AJK. He asked what the authorities had done so far for the rehabilitation of the victims.\nAlso on the bench, Justice Jamal Mandokhail questioned the allocation of forest land for constructing houses for earthquake victims.\nJustice Naeem Akhtar Afghan remarked that the victims faced difficulties because of bad governance. \"Due to bad governance, cases come to the courts. If the government departments do their job, cases would not have come to the courts,\" he remarked.\nJustice Muhammad Ali Mazhar asked how many houses had been built for the victims so far. Justice Aminuddin Khan sought a comprehensive report about how much funds were received for the victims and how much was spent.\nIn the deforestation case, the bench sought reports from the federal and provincial governments detailing the extent of forest land occupied, the area vacated, measures taken to halt deforestation, and efforts underway to expand forest cover.\nJustice Mandokhel said that farmhouses and housing societies were being built behind the Margalla Hills. He said that a big mafia was behind deforestation and encroachment on forest land, which was happening in connivance with government officials.\nThe bench heard a constitutional petition regarding provision of education to children which could give them skills that helped them in life.\nIn a separate case, the bench sought report from the federal government on the cut-off date and cost of the Nai Gaj Dam project.\nMeanwhile, the bench dismissed a petition demanding election of minority representatives by the voters from the minorities. Justice Mandokhail remarked the use of word \"minority\" was not correct. Instead, they should be called non-Muslims.\nPanama Papers scandal\nThe Supreme Court's constitutional bench will take up many important cases during the next week.\nAs per roster issued on Friday, a five-member constitutional bench headed by Justice Amin ud din and comprising Justice Jamal Khan Mandokhel, Justice Muhammad Ali Mazhar, Justice Hasan Azhar Rizvi and Justice Musarrat Hilali will hear the cases from Nov 25 to Nov 29.\nThe bench will take up many important cases, including Panama Papers scandal, restoration of student unions, suo motu on harassment of journalists, minority rights, restoration of gurdwaras, implementation of Urdu as the official language, uninterrupted gas supply to industries, a ban on houbara bustard hunting, deforestation, voting rights for overseas Pakistanis and others.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our\n[Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jamal Mandokhail",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aminuddin Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hassan Rizvi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Constitutional Bench of the Supreme Court",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:54:19.898+02:00",
+    "updated": "2024-11-23T01:54:19.898+02:00"
+}

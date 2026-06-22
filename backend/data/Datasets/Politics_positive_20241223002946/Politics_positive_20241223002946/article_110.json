@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "3aeb3d6a493dac895465fffb46d1e15cbc9b3f1d",
+        "url": "https://www.cnbc.com/2024/11/22/the-trump-trade-showed-its-resilience-this-week.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://cnbc.com/markets",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_tw",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_kr",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs",
+        "title": "The Trump trade showed its resilience this week",
+        "title_full": "The Trump trade showed its resilience this week",
+        "published": "2024-11-22T23:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/108062281-17315114892024-11-13t152402z_1504069896_rc2f4bai5ugl_rtrmadp_0_usa-trump-congress.jpeg?v=1731511537&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 142,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3aeb3d6a493dac895465fffb46d1e15cbc9b3f1d",
+    "url": "https://www.cnbc.com/2024/11/22/the-trump-trade-showed-its-resilience-this-week.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brian Evans",
+    "published": "2024-11-22T23:55:00.000+02:00",
+    "title": "The Trump trade showed its resilience this week",
+    "text": "Published Fri, Nov 22 2024 4:55 PM EST Updated Fri, Nov 22 2024 5:01 PM EST Brian Evans @BrianSyndicates WATCH LIVE Small-cap stocks were one of the biggest winners on Wall Street this week, serving as a prime example that the Trump trade is alive and well after a brief pause . The iShares Russell 2000 ETF (IWM) , which tracks the small-cap index, advanced more than 4% on the week. That compares with gains of about 1.7% for both the S & P 500 and the Nasdaq Composite during the period. The Dow Jones Industrial Average climbed nearly 2% during the week. Investors have viewed a second Donald Trump presidency as bullish for small-cap names given the policies he champions, such as steep tariffs on imports. Small caps were not the only components of the Trump trade that had strong gains this week. Bitcoin , the largest cryptocurrency by market capitalization, as well as shares of Tesla , Trump Media & Technology Group , Halliburton , U.S. Steel and the dollar index were all higher on the week. The question is now whether the trend can continue after losing a bit of steam last week. According to Tom Fitzpatrick, managing director at R.J. O'Brien & Associates, all signs point toward the Trump trade staying strong. \"I think this can continue into the Fed meeting, consistent with [both] the 2016 and 2020 election paths,\" Fitzpatrick told CNBC on Friday. \"[It's] all on the back of the 'Red Sweep.' January may be different but it's hard to fade these moves right now.\" Bitcoin Bitcoin has surged to all-time highs in the roughly two weeks since Trump won the U.S. presidential election, surpassing $99,000 for the first time on Thursday and hovering just below the key level of $100,000. Cryptocurrency investors view Trump's return to the White House as bullish for the asset class, given both his comments suggesting building a U.S. stockpile of bitcoin as well as the upcoming exit of Securities and Exchange Commission chair and crypto skeptic Gary Gensler on Jan. 20. Tesla, other stock components of the Trump trade Electric vehicle stock Tesla advanced nearly 10% this week. The company has been one of the more outsized beneficiaries of Trump's win at the polls, given CEO Elon Musk 's close relationship with the president-elect. Trump also named Musk as the co-head of the newly minted Department of Government Efficiency alongside Vivek Ramaswamy. Trump Media & Technology Group, which operates the Truth Social app and is majority owned by the president-elect, climbed almost 10% this week. Elsewhere, shares of U.S. Steel and Halliburton jumped nearly 9% and 7.6%, respectively, on the week. Trump's proposals could be a boon for U.S. Steel, especially if his plan for a tariff of at least 60% on Chinese imports comes to fruition. Halliburton's rise is somewhat in line with how the energy sector performed in 2016 when Trump was first elected, according to Jay Woods, chief global strategist at Freedom Capital Markets. Energy investors seem to be taking Trump at his word, given his promise to \" drill, baby, drill. \" \"Shares have been beaten down and this sector has a little more room to run. That doesn't mean that this is going to end well,\" Woods said. \"I believe energy still has a lot to prove and the Trump trade didn't work out as well as investors thought it supposed to over his first term.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/BrianSyndicates",
+        "https://www.twitter.com/BrianSyndicates"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:43:59.685+02:00",
+    "updated": "2024-11-28T03:47:47.710+02:00"
+}

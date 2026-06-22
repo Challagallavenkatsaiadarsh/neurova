@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "cef170c2e880292587f604f812ae9fe5b9ee3ff2",
+        "url": "https://wtov9.com/news/local/wetzel-county-board-votes-to-consolidate-schools-despite-public-opposition",
+        "site_full": "wtov9.com",
+        "site": "wtov9.com",
+        "site_section": "https://wtov9.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Wetzel County Board votes to consolidate schools despite public opposition",
+        "title_full": "Wetzel County Board votes to consolidate schools despite public opposition",
+        "published": "2024-11-22T20:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wtov9.com/resources/media2/16x9/744/986/0x2/90/f9aaa37d-dcf9-4764-b8cb-043d3c8fe807-WETZELBOEFORJIMMY.jpg",
+        "performance_score": 0,
+        "domain_rank": 45254,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cef170c2e880292587f604f812ae9fe5b9ee3ff2",
+    "url": "https://wtov9.com/news/local/wetzel-county-board-votes-to-consolidate-schools-despite-public-opposition",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "OLIVIA ZINN",
+    "published": "2024-11-22T20:24:00.000+02:00",
+    "title": "Wetzel County Board votes to consolidate schools despite public opposition",
+    "text": "The Wetzel County Board of Education voted to consolidate schools on Friday morning.\nThe closure of Paden City was passed, 4-1, for students to move to Magnolia High School.\nHundred consolidating with Valley passed 3-2.\n\"Historically, schools have had to close for declining population, and we want to make sure we best serve our kids with the curriculum and activities that we provide to them,\" Wetzel County Schools Superintendent Cassandra Porter said.\nJimmy Glasscock was the only board member in opposition to both school closures.\nHe says transportation to and from Valley is a major concern with the number of tanker trucks on the newly revised bus routes.\n\"It is wrong to put our kids on a bus across Barker Hill with the dangerous roads,\" he said.\nWetzel County Schools Chief Personnel Officer Ben McPherson explained what’s next:\n\"We have to submit our impact statement, which is available publicly, documents of all of the comments that were made in the public hearings, transcripts of those and any submitted things from the public.\"\nDespite the various public hearings, some residents feel their voices were not heard. Some told the board it is killing the county.\n\"This is not the will of the people,\" Paden City Resident Rodney Williams said. “Ninety-five to-97 percent of the speeches given at the public hearings were against this plan.\n\"The easy way out is consolidation, and sadly, that's what the elected board did today. They took the easy way out, and I’m very disappointed in them.\"\nPlans to repurpose Hundred High School are in the works. There is no word on the future of Paden City's facility.\nThe proposal will be sent to the West Virginia Department of Education for final approval.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Education",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cassandra Porter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jimmy Glasscock",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ben McPherson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Wetzel County Board of Education",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Magnolia High School",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Paden City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hill",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:09:20.653+02:00",
+    "updated": "2024-11-23T00:09:20.653+02:00"
+}

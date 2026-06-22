@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "81636d2e9cc957cf366e7f1f4fcb4c0d50c95840",
+        "url": "https://www.govexec.com/management/2024/11/senator-previews-what-closing-down-education-department-would-actually-look/401264/?oref=ge-category-lander-featured-river",
+        "site_full": "www.govexec.com",
+        "site": "govexec.com",
+        "site_section": "https://www.govexec.com/federal-news",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Federal News -- Breaking Reports and Analysis for Government Employees - Government Executive",
+        "title": "Senator previews what closing down the Education Department would actually look like",
+        "title_full": "Senator previews what closing down the Education Department would actually look like",
+        "published": "2024-11-22T23:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.govexec.com/media/img/cd/2024/11/22/112224_Getty_GovExec_MikeRoundsEdu/open-graph.jpg",
+        "performance_score": 0,
+        "domain_rank": 7028,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "81636d2e9cc957cf366e7f1f4fcb4c0d50c95840",
+    "url": "https://www.govexec.com/management/2024/11/senator-previews-what-closing-down-education-department-would-actually-look/401264/?oref=ge-category-lander-featured-river",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eric Katz",
+    "published": "2024-11-22T23:23:00.000+02:00",
+    "title": "Senator previews what closing down the Education Department would actually look like",
+    "text": "Senator previews what closing down the Education Department would actually look like\nMany of the department’s core functions would transfer to other agencies.\nPresident-elect Trump has pledged to eliminate the Education Department, though a blueprint put forward on Thursday by one of his Senate allies envisions less of a complete annihilation and more of a restructuring of its functions to other agencies.\nSen. Mike Rounds, R-S.D., introduced the Returning Education to Our States Act ([S. 5384](https://www.rounds.senate.gov/imo/media/doc/returning_education_to_our_states_act.pdf)) to eliminate Education and “redistribute all critical functions under other departments.” Rounds said the department has moved beyond its founding mission of advising schools on best practices and has grown into an \"oversized bureaucracy.\" He criticized Education for requiring states and districts to adopt certain policies before receiving some of its grant funds.\n“The federal Department of Education has never educated a single student, and it’s long past time to end this bureaucratic department that causes more harm than good,” Rounds said. “Local school boards and state departments of education know best what their students need, not unelected bureaucrats in Washington, D.C.”\nUnder his plan, Education programs would be spread across the departments of Interior, Treasury, Health and Human Services, Labor and State. Initiatives supporting Native Americans would go to Interior, various loan and the Pell Grant programs would transfer to Treasury, programs supporting special education and disabled children would move to HHS, efforts to fund vocational and career programs would shift to Labor and the Fulbright-Hays Program would fall under State. Not all of Education would receive a reassignment: programs involving teacher preparation, initiatives for economically disadvantaged students, work-study and many others do not appear to receive a home under the bill.\nThe measure did not spell out what would happen to impacted employees and his office did not respond to a request for clarification. Education, with its 4,200 employees, has the smallest workforce of any federal department.\nRounds said he has worked for years to eliminate the department and was pleased that Trump has promised to take on the effort. The senator said he was excited to work with the forthcoming Republican majorities in both chambers of Congress to “make this a reality.”\n“This legislation is a roadmap to eliminating the federal Department of Education by practically rehoming these federal programs in the departments where they belong, which will be critical as we move into next year,” Rounds said.\nTrump has nominated Linda McMahon, who led the Small Business Administration in his first term and serves as the co-chair of the president-elect’s transition team, to serve as Education secretary. He did not specifically mention eliminating Education in his announcement but did say McMahon would spearhead efforts to “send education back to the states.”\nMcMahon, who served for two years on the Connecticut State Board of Education, has on social media praised apprenticeship programs and Trump said she would push for more opportunities for students to pursue education at non-public schools.\nEducation has been in the crosshairs of numerous politicians since its creation in 1980. President Reagan pledged to eliminate it, as have Republican lawmakers ever since in numerous failed bills. Trump’s Education secretary in his first term, Betsy DeVos, said after her tenure the agency she led “should not exist.”\nAs president, Trump [proposed merging](https://www.govexec.com/management/2018/10/these-are-15-trump-reorganization-proposals-agencies-can-advance-without-congress/152078/) the departments of Education and Labor into the Department of Education and the Workforce, but Congress never took up the suggestion. He repeatedly sought to eliminate 19 mostly small, independent agencies, but Congress [ignored those proposals](https://www.govexec.com/management/2018/03/19-agencies-trump-tried-kill-arent-going-away/146898/). Efforts by administrations of both parties to dissolve agencies have been [unsuccessful for decades](https://www.govexec.com/feature/reimagining-government/#is-that-really-necessary). Trump appears to have backup plans even if he cannot eliminate the department entirely.\n“On day one, we will begin to find and remove the radicals, zealots and Marxists who have infiltrated the federal Department of Education, and that also includes others, and you know who you are,” Trump said during his campaign. “Because we are not going to allow anyone to hurt our children.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Education",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.rounds.senate.gov/imo/media/doc/returning_education_to_our_states_act.pdf",
+        "https://rounds.senate.gov/imo/media/doc/returning_education_to_our_states_act.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Education Department",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Education",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:22:52.906+02:00",
+    "updated": "2024-11-23T00:22:52.906+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "ee236518c9e05c2c8481d07ecd2f0090036e7e28",
+        "url": "https://www.theepochtimes.com/us/trump-team-hasnt-signed-transition-of-power-agreements-white-house-press-secretary-5764601",
+        "site_full": "www.theepochtimes.com",
+        "site": "theepochtimes.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "Trump Team Hasn’t Signed Transition of Power Agreements: White House Press Secretary",
+        "title_full": "Trump Team Hasn’t Signed Transition of Power Agreements: White House Press Secretary",
+        "published": "2024-11-22T23:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.theepochtimes.com/assets/uploads/2024/08/14/id5705872-08142024-DSC00915-KJP-1080x720.jpg",
+        "performance_score": 0,
+        "domain_rank": 1635,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ee236518c9e05c2c8481d07ecd2f0090036e7e28",
+    "url": "https://www.theepochtimes.com/us/trump-team-hasnt-signed-transition-of-power-agreements-white-house-press-secretary-5764601",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Epoch Times",
+    "published": "2024-11-22T23:46:00.000+02:00",
+    "title": "Trump Team Hasn’t Signed Transition of Power Agreements: White House Press Secretary",
+    "text": "President-elect Donald Trump’s transition team has not yet entered agreements with the outgoing Biden administration and a federal agency responsible for services, the White House said. White House press secretary Karine Jean-Pierre told reporters on Thursday that the two teams “continue to stay in touch” and that the “Trump–Vance transition team has not yet entered into the agreements with the White House and the General Service Administration [GSA].” “President [Joe] Biden met with the president-elect to show that transition of power and obviously offering any assistance needed to make sure that happens in a way that is peaceful, obviously, and efficient,” she said, referring to the Trump–Biden meeting after the election. transcript . “And in those conversation[s], we certainly are stressing that the White House and the administration stand ready to provide assistance and that access to services and information certainly outlined in the GSA, and the White House memorandum of agreement. So, those conversations continue. And we want this to go smoothly,” she said. White House chief of staff Jeff Zients has also reached out to the transition team co-chairs and said the administration wants to “work together in making sure that they have what they need,” Jean-Pierre said. Earlier this month, Trump transition spokesman Brian Hughes said the team’s “lawyers continue to constructively engage with” lawyers and officials from Biden’s outgoing administration and promised updates “once a decision is made.” No signed agreements between the Trump transition team and the Biden administration means that the government cannot provide security clearances and briefings for the incoming presidential administration, while the FBI also cannot screen Trump’s selections for his Cabinet. According to the GSA in a Nov. 6 statement, the agreements between the two parties also mean that IT equipment, office supplies and space, mail management systems, vehicles, and payment for compensation can be provided. Confirmation hearings for Trump’s Cabinet choices will start as soon as the new Congress is convened on Jan. 3, 2025, Senate Republican leaders have said, possibly allowing them to vote on Trump’s nominees as soon as Inauguration Day. During the transition period, the new administration uses the time before taking office to begin working to fill 4,000 government positions with political appointees, or people who are specifically tapped for their jobs by Trump’s team. That includes everyone from the secretary of state and other heads of Cabinet departments to those selected to serve part-time on boards and commissions. Around 1,200 of those presidential appointments require Senate confirmation—which should be easier with the Senate shifting to Republican control in January. The president-elect has been rapidly announcing his selections for the incoming Cabinet. Trump’s team has yet to comment on Jean-Pierre’s comment about the status of the transition. The Epoch Times contacted the Trump campaign for comment but didn’t receive a reply by publication time. A Department of Justice spokesperson said discussions were ongoing with the Trump transition team.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Karine Jean-Pierre",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "General Service Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "White House",
+                "sentiment": "none"
+            },
+            {
+                "name": "GSA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:06.941+02:00",
+    "updated": "2024-11-23T00:16:20.465+02:00"
+}

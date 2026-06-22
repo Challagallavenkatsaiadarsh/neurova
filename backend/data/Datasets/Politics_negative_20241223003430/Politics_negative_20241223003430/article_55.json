@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "55824163172526e2c5165521daa12fff5cec7086",
+        "url": "https://www.anews.com.tr/middle-east/2024/11/22/who-chief-expresses-deep-concern-after-israeli-airstrikes-on-gaza-strip",
+        "site_full": "www.anews.com.tr",
+        "site": "anews.com.tr",
+        "site_section": "https://www.anews.com.tr/rss/AnaSayfa.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "ANEWS",
+        "title": "WHO chief expresses 'deep concern' after Israeli airstrikes on Gaza Strip",
+        "title_full": "WHO chief expresses 'deep concern' after Israeli airstrikes on Gaza Strip",
+        "published": "2024-11-22T23:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ia.tmgrup.com.tr/de4f5b/806/378/0/0/864/404?u=https://i.tmgrup.com.tr/anews/v1/2024/11/23/who-chief-expresses-deep-concern-after-israeli-airstrikes-on-gaza-strip-1732309767399.jpg",
+        "performance_score": 0,
+        "domain_rank": 94339,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55824163172526e2c5165521daa12fff5cec7086",
+    "url": "https://www.anews.com.tr/middle-east/2024/11/22/who-chief-expresses-deep-concern-after-israeli-airstrikes-on-gaza-strip",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anadolu Agency",
+    "published": "2024-11-22T23:10:00.000+02:00",
+    "title": "WHO chief expresses 'deep concern' after Israeli airstrikes on Gaza Strip",
+    "text": "WHO Director-General Tedros Adhanom Ghebreyesus expressed on Friday \"deep concern\" over the drone attack on Kamal Adwan Hospital in northern Gaza, which occurred last night.\nThe \"WHO is deeply concerned about the safety and well-being of 80 patients, including 8 in the intensive care unit, and staff inside the hospital,\" he said on X.\n\"The attack caused damage to the electricity generator on which the entire hospital relies, leaving the oxygen system out of service,\" he added.\n\"The water tank also sustained damage, and currently, there is no water available at the hospital,\" he stressed.\nDue to the ongoing conflict and severely restricted access, Tedros said, adding: \"The hospital is unable to repair it.\"\nHe also emphasized the grave situation, saying \"four hospital staff and two patient companions sustained injuries during the attack.\"\n\"We urge an immediate end to hostilities in the vicinity of the hospital and sustained access for humanitarian missions to provide lifesaving support,\" he said.\nOverall, Israel has killed more than 44,000 people in Gaza since the Oct. 7, 2023 Hamas attacks.\nThe International Criminal Court on Thursday issued arrest warrants for Israeli Prime Minister Benjamin Netanyahu and former Defense Minister Gallant for committing alleged war crimes and crimes against humanity in Gaza.\nIsrael also faces a genocide case at the International Court of Justice for its actions Gaza.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tedros",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hamas",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza Strip",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:21.797+02:00",
+    "updated": "2024-11-23T00:08:21.797+02:00"
+}

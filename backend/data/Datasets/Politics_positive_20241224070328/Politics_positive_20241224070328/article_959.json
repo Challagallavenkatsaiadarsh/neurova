@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "701ce2f47a683a4a404665f2e68a5fa8cf8c9a55",
+        "url": "https://sundayguardianlive.com/legally-speaking/crackdown-on-illegal-borewells-in-delhi",
+        "site_full": "sundayguardianlive.com",
+        "site": "sundayguardianlive.com",
+        "site_section": "https://www.sundayguardianlive.com",
+        "site_categories": [],
+        "section_title": "Today News Headlines |Breaking News India, World News, Sports News |The Sunday Guardian Live",
+        "title": "Crackdown on illegal borewells in Delhi",
+        "title_full": "Crackdown on illegal borewells in Delhi",
+        "published": "2024-11-24T02:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 38636,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "701ce2f47a683a4a404665f2e68a5fa8cf8c9a55",
+    "url": "https://sundayguardianlive.com/legally-speaking/crackdown-on-illegal-borewells-in-delhi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Correspondent",
+    "published": "2024-11-24T02:17:00.000+02:00",
+    "title": "Crackdown on illegal borewells in Delhi",
+    "text": "New Delhi: Authorities in Delhi have on Saturday informed the National Green Tribunal that the operation to seal illegal borewells in hotels and guesthouses in the Paharganj area will continue.\nThe NGT previously requested reports from the Delhi Pollution Control Committee, Delhi Jal Board, and the district magistrate of central Delhi regarding illegal groundwater extraction by 536 establishments in the area.\nDuring last month’s hearing, the tribunal noted that many of these hotels and guesthouses were functioning after notifying their borewells under a Voluntary Disclosure Scheme (VDS). However, the NGT raised concerns, stating that no authority had a copy of the VDS, nor did anyone know who had framed it. The tribunal suggested that the chief secretary of the Delhi government investigate the matter.\nThe tribunal also asked for an update on actions to seal the borewells of hotels that failed to pay environmental damage charges or lacked the necessary permissions.\nIn a status report submitted by the Karol Bagh subdivisional magistrate, the DJB revealed that 30 hotels were not complying with the tribunal’s directives. The DPCC provided information about 21 hotels that had made partial payments for environmental damages.\nA task force comprising officials from the revenue department, Delhi Police, DPCC, DJB, and BSES was formed to seal the illegal borewells.\nThe report from November 12 mentioned that the team had inspected 10 hotels, sealing one borewell while eight others had paid the required charges and promised to follow the regulations. On November 12, the DJB sent another letter listing 78 hotels in Paharganj that had not complied with the NGT’s orders.\nThe drive to seal illegal borewells will continue until all violators are penalized.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Green Tribunal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Delhi Pollution Control Committee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Delhi Jal Board",
+                "sentiment": "none"
+            },
+            {
+                "name": "VDS",
+                "sentiment": "none"
+            },
+            {
+                "name": "NGT",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Paharganj",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:05:16.131+02:00",
+    "updated": "2024-11-24T08:05:16.131+02:00"
+}

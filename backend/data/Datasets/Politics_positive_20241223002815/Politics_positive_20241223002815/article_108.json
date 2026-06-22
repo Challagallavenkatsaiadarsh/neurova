@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "4230feefdd055b4d7e5d0588fdf12d27ad4f12d2",
+        "url": "https://boyle.house.gov/media-center/press-releases/reps-boyle-auchincloss-and-lawler-introduce-bipartisan-resolution",
+        "site_full": "boyle.house.gov",
+        "site": "house.gov",
+        "site_section": "https://boyle.house.gov/",
+        "site_categories": [],
+        "section_title": "Congressman Brendan Boyle | Representing the 2nd District of Pennsylvania",
+        "title": "Reps. Boyle, Auchincloss, and Lawler Introduce Bipartisan Resolution to Designate November 2024 as Lung Cancer Awareness Month | Congressman Brendan Boyle",
+        "title_full": "Reps. Boyle, Auchincloss, and Lawler Introduce Bipartisan Resolution to Designate November 2024 as Lung Cancer Awareness Month | Congressman Brendan Boyle",
+        "published": "2024-11-22T22:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 443,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4230feefdd055b4d7e5d0588fdf12d27ad4f12d2",
+    "url": "https://boyle.house.gov/media-center/press-releases/reps-boyle-auchincloss-and-lawler-introduce-bipartisan-resolution",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "boyle.house.gov",
+    "published": "2024-11-22T22:09:00.000+02:00",
+    "title": "Reps. Boyle, Auchincloss, and Lawler Introduce Bipartisan Resolution to Designate November 2024 as Lung Cancer Awareness Month | Congressman Brendan Boyle",
+    "text": "WASHINGTON, DC – Representatives Brendan F. Boyle (D-PA), Jake Auchincloss (D-MA), and Mike Lawler (R-NY) introduced a bipartisan resolution in the U.S. House of Representatives to designate November 2024 as Lung Cancer Awareness Month. The initiative aims to draw attention to the importance of prevention, early detection, and research to combat lung cancer, which remains the leading cause of cancer-related deaths in the United States. The resolution is led in the Senate by Senator Tina Smith (D-MN).\n\"Lung cancer impacts families and communities across the country. This resolution is an important step in raising awareness, encouraging preventative measures, and supporting groundbreaking research to save lives,\" said Congressman Boyle. \"By coming together, we can ensure more Americans have access to the tools and resources needed to combat this devastating disease.\"\n“Lung-cancer screening saves lives. The difference between early and late detection of a tumor is often a matter of life and death,” said Congressman Auchincloss. “Washington needs to do more to advance awareness of screening and to support research and clinical care.”\n“Lung cancer is the deadliest and one of the most common forms of cancer,” said Congressman Lawler. “We simply must do more to raise awareness and combat this deadly disease. That’s why I’m joining Congressman Brendan Boyle in introducing a bipartisan resolution recognizing November as National Lung Cancer Awareness Month. One life lost to lung cancer is too many. Together, we can build a future where the devastation of lung cancer is no more.”\nThe resolution highlights the urgent need to increase public awareness campaigns, expand access to screening programs, and invest in life-saving research through federal agencies like the National Institutes of Health (NIH).\nYou can see the resolution text here .\n###\nIssues : Health Care",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brendan Boyle",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Mike Lawler",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Brendan F. Boyle",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Jake Auchincloss",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Tina Smith",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4230feefdd055b4d7e5d0588fdf12d27ad4f12d2",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:43:26.982+02:00",
+    "updated": "2024-11-23T00:43:26.982+02:00"
+}

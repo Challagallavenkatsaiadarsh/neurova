@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "15dcbee95500163f7143b373f82c549ef9e382ad",
+        "url": "https://www.thestar.com.my/news/world/2024/11/23/us-private-sector-activity-picks-up-pace-as-firms-look-forward-to-new-gov039t-survey",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://thestar.com.my/news/latest",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Latest - News | The Star",
+        "title": "U.S. private-sector activity picks up pace as firms look forward to new gov't: survey | The Star",
+        "title_full": "U.S. private-sector activity picks up pace as firms look forward to new gov't: survey | The Star",
+        "published": "2024-11-22T23:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15dcbee95500163f7143b373f82c549ef9e382ad",
+    "url": "https://www.thestar.com.my/news/world/2024/11/23/us-private-sector-activity-picks-up-pace-as-firms-look-forward-to-new-gov039t-survey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xia Lin",
+    "published": "2024-11-22T23:40:00.000+02:00",
+    "title": "U.S. private-sector activity picks up pace as firms look forward to new gov't: survey | The Star",
+    "text": "NEW YORK, Nov. 22 (Xinhua) -- The S&P Global Flash U.S. Composite PMI, which gauges activity in the manufacturing and services sectors, rose to 55.3 in November from 54.1 in October, according to the surveys published on Friday. That accelerates a previously climbing trend and suggests activity is expanding at its fastest rate in some two and a half years.\nThis showed that \"U.S. economic activity continued to grow robustly this month as confidence among U.S. businesses surged following the election of Donald Trump to the White House,\" reported The Wall Street Journal on Friday about the data.\nDemand increased sharply over the month and companies set out a brighter view of their output as interest rates fall and expectations mount of more supportive business policies from Trump's administration when it moves into the White House in January, said the report.\nThe services sector continued to be the sole engine of growth, but the manufacturing industry contracted at its slowest rate in four months, suggesting a recovery could be on the cards in the months ahead. Manufacturing sentiment reached its most positive point for more than two and a half years, the surveys showed.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:30:14.749+02:00",
+    "updated": "2024-11-23T06:48:01.083+02:00"
+}

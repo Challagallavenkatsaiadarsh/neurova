@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "409831da4a8ab44dc92da1cd06aba8a82f9b3ee5",
+        "url": "https://www.kctv5.com:443/2024/11/22/kansas-city-launches-reach-program-aimed-helping-non-violent-crimes",
+        "site_full": "www.kctv5.com",
+        "site": "kctv5.com",
+        "site_section": "https://kctv5.com/homepage",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "KCTV | Kansas Local News, Weather, Sports | Fairway, KS",
+        "title": "Kansas City launches REACH program aimed at helping non-violent crimes",
+        "title_full": "Kansas City launches REACH program aimed at helping non-violent crimes",
+        "published": "2024-11-23T00:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-kctv-prod.gtv-cdn.com/resizer/v2/C5UP6YRYOJHMVDQOKGHGDQ73RA.jpg?auth=82b85f04081d89cd969118ce3781df33d651b2ed6d12f9ca3e3fb38dc5e039ca&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 11130,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "409831da4a8ab44dc92da1cd06aba8a82f9b3ee5",
+    "url": "https://www.kctv5.com:443/2024/11/22/kansas-city-launches-reach-program-aimed-helping-non-violent-crimes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jonah Kahn",
+    "published": "2024-11-23T00:21:00.000+02:00",
+    "title": "Kansas City launches REACH program aimed at helping non-violent crimes",
+    "text": "KANSAS CITY, Mo. (KCTV) - Kansas City launched the REACH program on November 22.\nIt currently serves residents in the Prospect Avenue Corridor and will eventually expand to the whole city.\nREACH stands for Responding with Empathetic Alternatives and Community Health. It is a sympathetic public health program focused on addressing non-violent crime. The goal is to offer help and support to individuals in accessing necessary resources.\nREAD ALSO : Kansas Governor grants 2 more pardons just before the holidays The initiative is to help residents who struggle with substance use, mental health issues and extreme poverty, but the criminal justice system will not be involved.\nInstead of treating these scenarios as crimes, it provides people with the help they need for a better life.\nREACH can be involved if you, or someone you know, is at risk of arrest, older than 18 and experience extreme poverty, unmet mental health issues or homelessness.\nYou can call REACH at 816-513-6010, email REACH at reach@kcmo.org or submit a response here .\nCopyright 2024 KCTV. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cognitoforms.com/KansasCity2/REACHOut",
+        "https://cognitoforms.com/KansasCity2/REACHOut"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:40:58.441+02:00",
+    "updated": "2024-11-23T00:40:58.441+02:00"
+}

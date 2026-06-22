@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "910dedf58b90d93c6605c6b993b8005a44fd36d0",
+        "url": "https://independent.ng/ondo-apc-chieftain-congratulates-aiyedatiwa-2",
+        "site_full": "independent.ng",
+        "site": "independent.ng",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Ondo: APC Chieftain Congratulates Aiyedatiwa",
+        "title_full": "Ondo: APC Chieftain Congratulates Aiyedatiwa",
+        "published": "2024-11-24T07:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 53350,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "910dedf58b90d93c6605c6b993b8005a44fd36d0",
+    "url": "https://independent.ng/ondo-apc-chieftain-congratulates-aiyedatiwa-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Raji Adebayo",
+    "published": "2024-11-24T07:36:00.000+02:00",
+    "title": "Ondo: APC Chieftain Congratulates Aiyedatiwa",
+    "text": "IBADAN – A chieftain of the All Progressives Congress (APC) in Ondo State, Hon Jimoh Akeem, has said that the victory of Governor Lucky Aiyedatiwa in the Saturday’s governorship election in the state was victory for the entire people of the state.\nHon Akeem, in a congratulatory message, said the people of Ondo State had made a good choice by electing Aiyedatiwa as the governor.\nHe said that Aiyedatiwa’s victory would bring about unprecedented development in the state as the governor’s developmental strides since assumption of office had turned the state around.\nAkeem, a former Senior Legislative Assistant to the former Speaker of the House of Representatives, Hon Femi Gbajabiamila, hailed the Independent National Electoral Commission (INEC) for the credible manner at which the election was conducted.\nHe said the election was free, fair and devoid of manipulations often attributed to elections in Nigeria.\n“It’s worth noting that Ondo State has a history of electoral tensions, making this peaceful outcome significant. The state’s ability to conduct a peaceful election marks a positive development in its democratic experience,” he said.\nHe urged the people of the state to give all necessary support to Governor Aiyedatiwa for him to perform optimally.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hon Jimoh Akeem",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hon Femi Gbajabiamila",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lucky Aiyedatiwa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hon Akeem",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Independent National Electoral Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "House of Representatives",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ondo State",
+                "sentiment": "none"
+            },
+            {
+                "name": "INEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:45:01.520+02:00",
+    "updated": "2024-11-24T12:16:50.973+02:00"
+}

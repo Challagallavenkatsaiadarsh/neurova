@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "6d65b2b0b39183bfa60f98fc3d64a5bcab3d9541",
+        "url": "https://justthenews.com/government/congress/new-york-dem-blasts-hochul-new-joe-biden-amid-concerns-gop-could-unseat-her",
+        "site_full": "justthenews.com",
+        "site": "justthenews.com",
+        "site_section": "https://justthenews.com/misty-severi",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Misty Severi | Just The News",
+        "title": "New York Dem blasts Hochul as the \\u0027new Joe Biden\\u0027 amid concerns the GOP could unseat her in 2026",
+        "title_full": "New York Dem blasts Hochul as the \\u0027new Joe Biden\\u0027 amid concerns the GOP could unseat her in 2026",
+        "published": "2024-11-22T23:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2024-11/GettyImages-2155932614.jpg?h=a5ec6753&amp;itok=7UQG79tl",
+        "performance_score": 0,
+        "domain_rank": 14208,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d65b2b0b39183bfa60f98fc3d64a5bcab3d9541",
+    "url": "https://justthenews.com/government/congress/new-york-dem-blasts-hochul-new-joe-biden-amid-concerns-gop-could-unseat-her",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Misty Severi",
+    "published": "2024-11-22T23:15:00.000+02:00",
+    "title": "New York Dem blasts Hochul as the \\u0027new Joe Biden\\u0027 amid concerns the GOP could unseat her in 2026",
+    "text": "New York Dem blasts Hochul as the 'new Joe Biden' amid concerns the GOP could unseat her in 2026\n\"Waiting until it’s too late gave us a Republican President in 2024 and could give us a Republican Governor in 2026,\" Torres said. \"Let’s avoid repeating history and avoid sleepwalking toward impending disaster and defeat.\"\nNew York Democratic state Rep. Ritchie Torres on Friday warned that the state's Democratic Gov. Kathy Hochul is a weaker candidate for reelection in 2026 than people currently believe, comparing her to President Joe Biden.\nTorres, who has admitted that he is considering challenging her for the nomination, said Biden waited too long to drop from the presidential race earlier this year, which resulted in President-elect Donald Trump defeating Vice President Kamala Harris. He said the same could happen in New York.\nBiden did not drop out of the presidential race until this summer, despite concerns about his mental fitness for office.\n\"Kathy Hochul is the new Joe Biden,\" the New York congressman [wrote on X](https://x.com/RitchieTorres/status/1859989584467128710). \"She may be in denial about the depth of her vulnerabilities as a Democratic nominee. A Democratic incumbent who is less popular in New York than Donald Trump is in grave danger of losing to a Republican in 2026–an outcome not seen in 30 years.\n\"Waiting until it’s too late gave us a Republican President in 2024 and could give us a Republican Governor in 2026,\" he continued. \"Let’s avoid repeating history and avoid sleepwalking toward impending disaster and defeat. 'Those who fail to learn from history are doomed to repeat it.'\"\nThe lawmaker [told Spectrum News New York](https://nystateofpolitics.com/state-of-politics/new-york/politics/2024/11/20/a-leadership-crisis---rep--torres-doesn-t-rule-out-bid-for-n-y--governor) on Thursday that he was open to the idea of challenging Hochul, but that he had not made a final decision on the matter.\nHe also claimed there is a “leadership crisis in America, and nowhere is it more profound than in New York,\" and that Trump's ability to secure 30% of the vote in New York City is the equivalent of a “vote of no confidence in the leadership of New York state.\"\nMisty Severi is an evening news reporter for Just The News. You can [follow her on X](https://twitter.com/MistySeveri) for more coverage.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/MistySeveri",
+        "https://nystateofpolitics.com/state-of-politics/new-york/politics/2024/11/20/a-leadership-crisis---rep--torres-doesn-t-rule-out-bid-for-n-y--governor",
+        "https://x.com/RitchieTorres/status/1859989584467128710",
+        "https://www.nystateofpolitics.com/state-of-politics/new-york/politics/2024/11/20/a-leadership-crisis---rep--torres-doesn-t-rule-out-bid-for-n-y--governor",
+        "https://www.twitter.com/MistySeveri",
+        "https://www.x.com/RitchieTorres/status/1859989584467128710"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Biden",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kathy Hochul",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ritchie Torres",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kamala Harris",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "GOP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:39:47.819+02:00",
+    "updated": "2024-11-23T00:39:47.819+02:00"
+}

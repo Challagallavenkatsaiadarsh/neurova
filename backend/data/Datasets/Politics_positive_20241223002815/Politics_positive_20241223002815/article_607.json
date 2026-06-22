@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "00b5c7a8e3d76ed77f6da9eacf2f459b9882bf99",
+        "url": "http://global.chinadaily.com.cn/a/202411/23/WS6740d59aa310f1265a1cf290.html",
+        "site_full": "global.chinadaily.com.cn",
+        "site": "chinadaily.com.cn",
+        "site_section": "http://global.chinadaily.com.cn/world/5c231ad6a310d91214051000",
+        "site_categories": [
+            "travel"
+        ],
+        "section_title": "China-US - Chinadaily.com.cn",
+        "title": "Embassy hosts Flavors of China culinary event - Chinadaily.com.cn",
+        "title_full": "Embassy hosts Flavors of China culinary event - Chinadaily.com.cn",
+        "published": "2024-11-22T21:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 606,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "00b5c7a8e3d76ed77f6da9eacf2f459b9882bf99",
+    "url": "http://global.chinadaily.com.cn/a/202411/23/WS6740d59aa310f1265a1cf290.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "邢奕",
+    "published": "2024-11-22T21:03:00.000+02:00",
+    "title": "Embassy hosts Flavors of China culinary event - Chinadaily.com.cn",
+    "text": "Minister Jing Quan from China's embassy in Washington delivered remarks at the event. [photo provided to chinadaily.com.cn] More than 150 guests from local communities in the United States attended Flavors of China: From South to North in Washington DC on Wednesday, where they embarked on a culinary journey that explored the cultural heritage of China.\nThe event was hosted by China's embassy in Washington in partnership with \"Things to Do DC\".\nMinister Jing Quan from the embassy attended the event and delivered remarks, giving a vivid introduction of the culinary features of southern and northern China, and noting the long history of rich and diverse local Chinese cuisines that coexist and thrive together, embodying the heart of the Chinese culture: \"harmony through diversity\" and \"harmonious coexistence\".\nGuests tasted signature dishes from southern and northern China, observed the making of traditional Chinese desserts, enjoyed Chinese folk music and face-changing art, and viewed art exhibits.\nAttendees spoke highly of Chinese cuisine, the nation's art and architecture, and marveled at the unique charm of Chinese culture, with many saying they hoped to explore the culture more fully in the future.\n[photo provided to chinadaily.com.cn]",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jing Quan",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "00b5c7a8e3d76ed77f6da9eacf2f459b9882bf99",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:36:59.256+02:00",
+    "updated": "2024-11-23T03:36:59.256+02:00"
+}

@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "1d7d47fb589d9cc34942eb200821134aa99c6cb7",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/punjab-bypolls-win-semi-final-before-delhi-polls-says-kejriwal-101732390880806.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Punjab bypolls win ‘semi-final’ before Delhi polls, says Kejriwal",
+        "title_full": "Punjab bypolls win ‘semi-final’ before Delhi polls, says Kejriwal",
+        "published": "2024-11-23T21:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/-From-left--AAP-s-Punjab-chief-Aman-Arora--Rajya-S_1732390872908.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1d7d47fb589d9cc34942eb200821134aa99c6cb7",
+    "url": "https://www.hindustantimes.com/cities/chandigarh-news/punjab-bypolls-win-semi-final-before-delhi-polls-says-kejriwal-101732390880806.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T21:11:00.000+02:00",
+    "title": "Punjab bypolls win ‘semi-final’ before Delhi polls, says Kejriwal",
+    "text": "AAP national convener Arvind Kejriwal on Saturday termed his party’s win in three out of four seats in the Punjab bypolls a ‘semi-final’, asserting that the party is on course for another historic mandate in Delhi.Kejriwal, a former chief minister of Delhi, said the people of Punjab have chosen the Aam Aadmi Party (AAP) for the second time which shows that it is doing good work.“Over the past decade, we have established the Delhi model of governance that focuses on making life easier for the common man,” he said.The AAP national convener also took to social media platform X and said, “The people of Punjab have once again expressed their faith in the ideology of the Aam Aadmi Party and the work of our government by giving us three out of four seats in the by-elections. A heartfelt thank you to the people of Punjab and many congratulations to everyone.”Punjab chief minister Bhagwant Mann, referring to the AAP’s election symbol ‘broom’, said the party, which “used to clean homes and shops with a broom”, was now cleaning “all of India” under Kejriwal’s leadership.“Many congratulations to Punjabis for the spectacular victory in the byelections. Under the leadership of Arvind Kejriwal, Aam Aadmi Party is touching new heights day by day across the country. We are working day and night without any discrimination and honestly for the progress and prosperity of Punjab,” Mann said.Every promise made to the people of Punjab during the byelections will be fulfilled on a priority basis, he added.Delhi Chief Minister Atishi also extended her wishes on X and said, “Congratulations to all the workers on the grand victory of AAP in the Punjab by-elections.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Arvind Kejriwal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bhagwant Mann",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:23:44.757+02:00",
+    "updated": "2024-11-24T05:23:44.757+02:00"
+}

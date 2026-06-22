@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "4f73e0d22aacb3738db44127a95b3deadb51a00d",
+        "url": "https://www.wcbu.org/local-news/2024-11-22/peoria-mayoral-candidate-withdraws-from-race-after-allegation-of-forged-petition-signatures-lodged",
+        "site_full": "www.wcbu.org",
+        "site": "wcbu.org",
+        "site_section": "https://www.wcbu.org/local-news",
+        "site_categories": [],
+        "section_title": "Local News | WCBU Peoria",
+        "title": "Peoria mayoral candidate withdraws from race after allegation of forged petition signatures lodged",
+        "title_full": "Peoria mayoral candidate withdraws from race after allegation of forged petition signatures lodged",
+        "published": "2024-11-22T19:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/9a84f53/2147483647/strip/true/crop/1179x619+0+73/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa5%2F10%2F00ef4e1f47028774188118e8ac7d%2F241030-jake-ryan.jpg",
+        "performance_score": 0,
+        "domain_rank": 62188,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4f73e0d22aacb3738db44127a95b3deadb51a00d",
+    "url": "https://www.wcbu.org/local-news/2024-11-22/peoria-mayoral-candidate-withdraws-from-race-after-allegation-of-forged-petition-signatures-lodged",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@bounty682",
+    "published": "2024-11-22T19:37:00.000+02:00",
+    "title": "Peoria mayoral candidate withdraws from race after allegation of forged petition signatures lodged",
+    "text": "Peoria mayoral candidate withdraws from race after allegation of forged petition signatures lodged\nA Peoria mayoral candidate has dropped out of the race after a challenger claimed signatures on his nominating papers were forged.\n[Jake Ryan](https://www.wcbu.org/local-news/2024-10-29/young-newcomer-jake-ryan-joins-four-way-peoria-mayoral-campaign), a 23-year-old self-described \"entrepreneurial consultant,\" withdrew from the contest four days after objector Brian Barkley filed a complaint with the Peoria County Election Commission. The case never went before the election board.\nBarkley included 11 affidavits from people listed on Ryan's petitions who swore they hadn't actually signed them. Barkley also requested the election commission review the other signatures on the papers to determine if Ryan had actually reached the signature threshold to appear on the ballot.\nRyan did not immediately return WCBU's requests for comment on Friday. It remains to be seen if the Peoria County State's Attorney's Office will pursue charges for [mutilation of election materials](https://www.ilga.gov/legislation/ilcs/ilcs4.asp?DocName=001000050HArt%2E+29&ActID=170&ChapterID=3&SeqStart=97800000&SeqEnd=99850000), a Class 4 felony that includes forgeries.\nA mayoral primary remains scheduled for Feb. 25, with incumbent Rita Ali facing councilmen Chuck Grayeb and John Kelly.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ilga.gov/legislation/ilcs/ilcs4.asp?DocName=001000050HArt%2E+29&ActID=170&ChapterID=3&SeqStart=97800000&SeqEnd=99850000",
+        "https://www.ilga.gov/legislation/ilcs/ilcs4.asp",
+        "https://ilga.gov/legislation/ilcs/ilcs4.asp?DocName=001000050HArt%2E+29&ActID=170&ChapterID=3&SeqStart=97800000&SeqEnd=99850000"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:41:53.463+02:00",
+    "updated": "2024-11-23T00:41:53.463+02:00"
+}

@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "299c7851b351190eb68c46f4023a863fa03e2ca5",
+        "url": "https://legalnewsline.com/stories/666071119-court-allows-redistribution-of-407k-from-city-after-tax-overpayment",
+        "site_full": "legalnewsline.com",
+        "site": "legalnewsline.com",
+        "site_section": "https://legalnewsline.com/stories.rss",
+        "site_categories": [
+            "law_government_and_politics",
+            "legal_issues"
+        ],
+        "section_title": "Legal Newsline",
+        "title": "Court allows redistribution of $407K from city after tax overpayment",
+        "title_full": "Court allows redistribution of $407K from city after tax overpayment",
+        "published": "2024-11-22T14:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/bb/96/19584973/webp_i5z83h9j6076d4awyefxned09ysu.webp",
+        "performance_score": 0,
+        "domain_rank": 43431,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "299c7851b351190eb68c46f4023a863fa03e2ca5",
+    "url": "https://legalnewsline.com/stories/666071119-court-allows-redistribution-of-407k-from-city-after-tax-overpayment",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Legal Newsline",
+    "published": "2024-11-22T14:38:00.000+02:00",
+    "title": "Court allows redistribution of $407K from city after tax overpayment",
+    "text": "The Supreme Court of Ohio has ruled that Franklin County can redistribute over $407,000 collected from the city of Obetz due to property tax overpayments. However, the county is not permitted to withhold additional funds to correct the discrepancy, as decided in a 5-2 ruling. The decision stems from a lawsuit filed by Obetz against the Franklin County auditor and treasurer. The dispute involved an error where Obetz collected more property taxes than allowed under a tax-increment-financing (TIF) arrangement for a Goodyear Tire and Rubber Company warehouse. Franklin County officials maintained that state law permitted them to deduct property taxes paid to Obetz until the error was rectified. Justice Michael P. Donnelly, writing for the majority, stated that while Obetz could prevent future withholdings through a Supreme Court order, it could not recover payments already distributed to other entities like Hamilton Local School District and Columbus Metropolitan Library. Chief Justice Sharon L. Kennedy and Justices R. Patrick DeWine, Jennifer Brunner, and Joseph T. Deters concurred with Justice Donnelly’s opinion. Justice Patrick F. Fischer dissented without a written opinion. Justice Melody Stewart dissented on procedural grounds, suggesting that Obetz's true intent was to obtain a \"prohibitory injunction\" rather than a writ of mandamus, which she argued should have been sought in Franklin County Common Pleas Court first. The legal conflict began when Obetz attempted to extend its TIF arrangement beyond its intended duration without state approval. The city challenged this decision but lost in May 2021 when the Supreme Court ruled that the property was not exempt for certain tax years. In response to this ruling, Franklin County sought repayment of TIF funds distributed during those years. Negotiations between Obetz and the county failed, leading to further withholding of funds by the county auditor in March 2023. Obetz requested three actions from the Supreme Court: return of $212,000 paid back as part of negotiations, payment of $194,944 withheld property taxes for 2022, and prevention of future fund withholdings by Franklin County. Justice Donnelly explained that for Obetz to receive a writ of mandamus, it needed clear legal rights to reclaim withheld money and stop future collections by proving no adequate remedy existed other than seeking a Supreme Court order. The court concluded that while Obetz demonstrated it could prevent future withholdings via mandamus, it failed to show legal authority requiring repayment or halting current redistributions made by Franklin County. Justice Stewart agreed with denying repayment but suggested pursuing declaratory judgment at common pleas court for prohibitory injunctions instead.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael P. Donnelly",
+                "sentiment": "none"
+            },
+            {
+                "name": "R. Patrick DeWine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sharon L. Kennedy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jennifer Brunner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joseph T. Deters",
+                "sentiment": "none"
+            },
+            {
+                "name": "Obetz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Obetz",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:30:16.557+02:00",
+    "updated": "2024-11-23T04:24:37.403+02:00"
+}

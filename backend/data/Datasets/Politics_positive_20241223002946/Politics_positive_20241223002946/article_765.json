@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "43f528b1ef5f4ca5b7d193058637759d332fe6e0",
+        "url": "https://legalnewsline.com/stories/666071332-michigan-launches-task-force-on-missing-or-murdered-indigenous-people",
+        "site_full": "legalnewsline.com",
+        "site": "legalnewsline.com",
+        "site_section": "https://legalnewsline.com",
+        "site_categories": [
+            "law_government_and_politics",
+            "legal_issues"
+        ],
+        "section_title": "Legal Newsline",
+        "title": "Michigan launches task force on missing or murdered indigenous people",
+        "title_full": "Michigan launches task force on missing or murdered indigenous people",
+        "published": "2024-11-22T15:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s3.amazonaws.com/jnswire/jns-media/26/19/19585170/webp_ra75x9fr0nmpiokrw1l42h2b8497.webp",
+        "performance_score": 0,
+        "domain_rank": 43431,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "43f528b1ef5f4ca5b7d193058637759d332fe6e0",
+    "url": "https://legalnewsline.com/stories/666071332-michigan-launches-task-force-on-missing-or-murdered-indigenous-people",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Legal Newsline",
+    "published": "2024-11-22T15:33:00.000+02:00",
+    "title": "Michigan launches task force on missing or murdered indigenous people",
+    "text": "Michigan Attorney General Dana Nessel has announced the creation of the Missing or Murdered Indigenous People (MMIP) Task Force. This initiative aims to address the high rates of violence against Indigenous people in Michigan. The task force is an interagency collaboration that includes tribal, federal, state, and local prosecutors, law enforcement officers, victim advocates, and human services specialists.\nAttorney General Nessel stated, “The MMIP Task Force marks a critical first step in combatting abuse and violence against Indigenous people in Michigan.” She emphasized the importance of working with a broad coalition to build safer communities and seek justice for affected families.\nResearch indicates that nearly 85 percent of Indigenous women experience violence during their lifetime. The MMIP Task Force will focus on improving investigations and prosecutions related to these cases while identifying best practices. It will also aim to develop a holistic approach to prevention and support for victims.\nThe Department of Attorney General held its first MMIP Task Force meeting in September 2024. Participants included tribal leaders, state and federal agencies, and advocacy groups who discussed raising awareness and developing solutions specific to Michigan's needs. Another meeting is scheduled for December 2024.\nTo assist with information gathering, a tip line has been established by the Attorney General's office. This complements existing federal and tribal resources aimed at addressing these issues.\nU.S. Attorney for the Western District of Michigan Mark Totten expressed gratitude towards Attorney General Nessel’s leadership: “We are 100% committed to working with our federal, state, local, Tribal and other partners to swiftly investigate these cases.”\nCol. James F. Grady II from the Michigan State Police highlighted their commitment: “The MSP supports the efforts of the MMIP Task Force...to improve collaboration and communication in investigation.”\nMatthew Wesaw from the Pokagon Band of Potawatomi Indians noted their involvement: “Too many...live with the devastation of having prematurely lost a loved one due to violence.”\nJames Williams Jr., Tribal Chairman of Lac Vieux Desert Band emphasized his hopes for change: “My hope is that this task force will help develop...a robust multi-jurisdictional response.”\nVirginia Sprague-Vanderband from Gun Lake Tribe acknowledged their participation: \"This grassroots cause which began as MMIW...are important to our tribal community.\"\nDorie Rios from Nottawaseppi Huron Band praised AG Nessel’s efforts: \"For too long this issue has been largely ignored...\"\nAustin Lowes from Sault Ste. Marie Tribe applauded AG Nessel’s work: \"I applaud Attorney General Nessel for working to address this issue...\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dana Nessel",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "43f528b1ef5f4ca5b7d193058637759d332fe6e0",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:44:32.758+02:00",
+    "updated": "2024-11-23T04:44:32.758+02:00"
+}

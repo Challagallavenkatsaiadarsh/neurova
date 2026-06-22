@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "300504a03c7148a57370a1d88393740361d51bee",
+        "url": "https://cryptonews.net/news/legal/30125327",
+        "site_full": "cryptonews.net",
+        "site": "cryptonews.net",
+        "site_section": "https://cryptonews.net/rss.xml",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+        "title": "Trump’s Election Sparks Push for Crypto Reforms and Tokenized Collateral",
+        "title_full": "Trump’s Election Sparks Push for Crypto Reforms and Tokenized Collateral",
+        "published": "2024-11-24T00:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "https://cnews24.ru/uploads/90b/90be40755a970d6e8f38ae38dbdd741534e8ad0a.jpg",
+        "performance_score": 0,
+        "domain_rank": 55532,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "300504a03c7148a57370a1d88393740361d51bee",
+    "url": "https://cryptonews.net/news/legal/30125327",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T00:27:00.000+02:00",
+    "title": "Trump’s Election Sparks Push for Crypto Reforms and Tokenized Collateral",
+    "text": "- SEC Commissioner Mark Uyeda advocates for “safe harbors” to allow crypto innovation while ensuring compliance within a clear regulatory framework.\n- The CFTC committee recommends using tokenized funds, like money-market tokens, as collateral for derivatives trading to enhance efficiency and transparency.\n- With Trump’s election, regulators emphasize collaboration between the SEC, Congress, and federal agencies to create cohesive policies supporting the U.S. crypto market.\nThe victory of Donald Trump as the new U.S. President has reignited efforts to reform cryptocurrency regulations. The key focus is establishing regulatory sandboxes, and tokenized funds compatibility with traditional financial systems. Regulators, such as SEC Commissioner Mark Uyeda, have expressed optimism about shaping the new U.S. administration into a leading crypto market globally.\nRegulatory Sandboxes and Clarity in Jurisdiction\nIn a recent interview, SEC Commissioner Mark Uyeda called for clear regulations and modern, innovative frameworks that could stand above the cryptocurrency space. He also declared that lack of guidance is hindering innovations and compliance within the sector.\n🚨NEW: This morning in an interview with the inimitable Stuart Varney, Republican @SECGov Commissioner Mark Uyeda called for safe harbors and regulatory sandboxes to allow for innovation in the #crypto industry.\n— Eleanor Terrett (@EleanorTerrett) November 22, 2024\nThis is the first time Uyeda has publicly called for these ideas. pic.twitter.com/WlDMk4EFaC\nRegulatory sandboxes that would permit firms to test novel products in a controlled environment were a key feature of Uyeda’s proposals. He called for “safe harbors” to accommodate innovation while l complying with the SEC’s jurisdiction. Uyeda also stressed the cooperation required among the SEC, Congress, and other federal agencies to establish a unified approach to regulating digital assets.\nWith Gary Gensler stepping down as SEC Chair in January, Uyeda was asked about his potential appointment to the role. He refrained from expressing interest, stating the decision rests with the President.\nCFTC Committee Endorses Tokenized Funds as Collateral\nParallel to SEC reform discussions, the Commodity Futures Trading Commission (CFTC) is advancing the integration of blockchain technology in traditional finance. The CFTC’s Global Markets Advisory Committee on November 22 recommended the adoption of tokenized funds, such as money-market fund tokens, as collateral for derivatives trading.\nThis recommendation of the committee underlined the potential of DLT to add efficiency and transparency to collateral management. The proposed framework allows registered firms to use tokenized non-cash assets while adhering to existing margin requirements set by the CFTC and other regulators. Although non-binding, these recommendations may significantly influence future policy due to the advisory committee’s expertise.\nBlackRock and Franklin Templeton, two prominent financial institutions, have already launched tokenized money-market funds, showcasing the practical applications of this approach. The adoption of these assets as collateral could streamline operations for derivatives clearing organizations and market participants.\nImplications for Crypto Market Reform\nThe renewed focus on regulatory reforms reflects a shift toward integrating blockchain technology into the broader financial ecosystem. Uyeda’s advocacy for regulatory sandboxes and the CFTC’s move to incorporate tokenized funds signifies a strategic approach to fostering innovation while maintaining regulatory oversight.\nWith Trump’s administration signaling support for the crypto industry, upcoming policy decisions could redefine the United States’ position in the global crypto market. As these initiatives progress, stakeholders await formal guidance from regulators like the SEC and CFTC to align with the evolving landscape of digital finance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Uyeda",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SEC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "CFTC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:47:27.034+02:00",
+    "updated": "2024-11-24T02:47:27.034+02:00"
+}

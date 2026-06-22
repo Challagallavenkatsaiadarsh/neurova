@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "8c5c289876df083eceeab18865a8970e22384859",
+        "url": "https://www.ndtv.com/india-news/nda-decimates-opposition-in-maharashtra-jharkhand-stays-with-india-7092066",
+        "site_full": "www.ndtv.com",
+        "site": "ndtv.com",
+        "site_section": "https://www.ndtv.com",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_gb",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "LIVE Election Results 2024 | Maharashtra Election Results | Jharkhand Election Results - NDTV.com",
+        "title": "NDA Decimates Opposition In Maharashtra, Jharkhand Stays With INDIA",
+        "title_full": "NDA Decimates Opposition In Maharashtra, Jharkhand Stays With INDIA",
+        "published": "2024-11-24T02:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://c.ndtvimg.com/2024-11/8hod4g9_bjp-celebration_625x300_24_November_24.jpeg",
+        "performance_score": 0,
+        "domain_rank": 851,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c5c289876df083eceeab18865a8970e22384859",
+    "url": "https://www.ndtv.com/india-news/nda-decimates-opposition-in-maharashtra-jharkhand-stays-with-india-7092066",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chandrajit Mitra",
+    "published": "2024-11-24T02:02:00.000+02:00",
+    "title": "NDA Decimates Opposition In Maharashtra, Jharkhand Stays With INDIA",
+    "text": "Mahayuti - an alliance of the BJP and the Shiv Sena and NCP factions led by Eknath Shinde and Ajit Pawar - swept the Maharashtra polls, winning 235 of the total 288 seats. The BJP got the largest share - 132, followed by Sena (57) and NCP (41). The Maha Vikas Aghadi - comprising Congress and the Shiv Sena and NCP factions led by Uddhav Thackeray and Sharad Pawar, together won 49 seats, less than half of the BJP's solo tally. Sena (UBT) was the highest scorer in the opposition camp with 20 seats while the Congress ended with 16. Sharad Pawar's NCP won just 10 seats, the worst ever performance by the veteran politician. Having lost their party's name and symbol to mutinies by their trusted aides, this was a prestige battle for both Mr Thackeray and Mr Pawar and the crushing defeat now raises a question mark on their political future. The defeat is followed by another blow for the opposition bloc - Maharashtra assembly may not have a Leader of Opposition this time. A party with 10 percent of 288 or 29 seats can claim the post, but none in the MVA have reached the mark. The dilemma now for the Mahayuti will be to choose a leader for the top post. Both Eknath Shinde and Devendra Fadnavis - the two top contenders for the Chief Minister's post - have asserted that they will consult all allies and take a decision together. In Jharkhand, the INDIA bloc won 56 out of 81 seats while the NDA ended with 24. Chief Minister Hemant Soren's Jharkhand Mukti Morcha bagged the highest number of seats - 34 - while Congress won 16, Rashtriya Janata Dal 4, and CPI(ML)(L) 2. For the Congress, the bright spot was Priyanka Gandhi Vadra's debut from Wayanad, which was vacated by Rahul Gandhi as he moved to his mother's Rae Bareli seat. She won the Kerala seat by a whopping 4 lakh votes, a bigger margin than her brother. The Congress also won the other parliamentary bypoll in Maharashtra's Nanded. The assembly by-elections saw the NDA win 20 out of the total 48 seats. The saffron alliance performed well in Assam, Rajasthan, and Bihar, and dealt a setback to Samajwadi Party in Uttar Pradesh. The Congress won three seats in Karnataka while Trinamool swept all six in Bengal. Prime Minister Narendra Modi addressed party workers at the BJP headquarters last evening and congratulated the Mahayuti alliance for the historic mandate. His speech included a message of unity that has been part of the Maharashtra campaign discourse - \"ek hain toh safe hai (united we are safe)\".",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Uddhav Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sharad Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shiv Sena",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "MVA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "8c5c289876df083eceeab18865a8970e22384859",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:45:27.412+02:00",
+    "updated": "2024-11-29T07:50:31.036+02:00"
+}

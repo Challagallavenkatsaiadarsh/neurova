@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "9bb1f4394cca0fbd449d6936f521c1548cdc04e6",
+        "url": "https://www.archyworldys.com/peruvians-will-be-able-to-enter-japan-without-a-visa",
+        "site_full": "www.archyworldys.com",
+        "site": "archyworldys.com",
+        "site_section": "https://www.archyworldys.com",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Home - Archyworldys",
+        "title": "Peruvians will be able to enter Japan without a visa",
+        "title_full": "Peruvians will be able to enter Japan without a visa",
+        "published": "2024-11-24T02:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "JO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 90413,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9bb1f4394cca0fbd449d6936f521c1548cdc04e6",
+    "url": "https://www.archyworldys.com/peruvians-will-be-able-to-enter-japan-without-a-visa",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "archyworldyscom",
+    "published": "2024-11-24T02:44:00.000+02:00",
+    "title": "Peruvians will be able to enter Japan without a visa",
+    "text": "The Deputy Minister of Foreign Trade, Teresa Mesa, announced that the exemption of some taxes will be implemented as part of a pilot plan that will last three years. The Asia-Pacific Economic Cooperation (APEC) Forum 2024. concluded with important agreements between the participating economies, highlighting in particular the agreement between Peru and Japan for visa exemption .\nFrom the Ministry of Foreign Trade and Tourism ( Mincetur ) It has been confirmed that this agreement will facilitate travel and strengthen trade and cultural ties between the two countries. The measure will benefit both entrepreneurs and citizens, allowing for a more fluid exchange and promoting new opportunities for collaboration.\nRead more Protests against Boluarte overshadow APEC 2024\nThis agreement reflects the commitment of both nations to strengthen regional cooperation and promote a more open environment for trade and tourism, key elements for economic development and integration in the Asia-Pacific region.\nTeresa Mera Gómez, Deputy Minister of Foreign Trade, announced that for the next three years Peruvians will not need a visa to enter the Land of the Rising Sun; However, the measure does not apply to all citizens.\n“(The agreement will benefit) diplomats, businessmen and, sorry, but there is another category that I can’t remember at the moment” said the representative of the Peruvian government before one of the most important events of the year.\nVisa requirements Peruvian citizens must have a visa issued by the Japanese embassy to visit the Asian country.\nValid Peruvian passport. If you have obtained a visa or have been to Japan, present your previous passport. Application for entry visa to Japan Recent photograph, frontal, passport size Flight (ship/cruise) itinerary you intend to use, with dates of entry and exit into the country Identity document (DNI or immigration card) Program of activities with indication of accommodation and contact details Documents demonstrating financial solvency to cover travel expenses Sunat report on income and withholdings for the last year, fifth category income and certificate on withholdings for the last year issued by the employer or similar documents If you are a freelancer or have your own business, submit the latest annual income tax payment declaration and/or bank account transaction showing the current balance.\n(function(d, s, id) {\nvar js, fjs = d.getElementsByTagName(s)[0];\nif (d.getElementById(id)) return;\njs = d.createElement(s);\njs.id = id;\njs.src = ”\nfjs.parentNode.insertBefore(js, fjs);\n}(document, ‘script’, ‘facebook-jssdk’));\n#Peruvians #enter #Japan #visa",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://elchino.pe/tres-personas-imputadas-por-la-muerte-de-liam-payne/",
+        "https://www.elchino.pe/tres-personas-imputadas-por-la-muerte-de-liam-payne/",
+        "https://elchino.pe/tres-personas-imputadas-por-la-muerte-de-liam-payne"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Teresa Mesa",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Teresa Mera Gómez",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ministry of Foreign Trade and Tourism",
+                "sentiment": "none"
+            },
+            {
+                "name": "APEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Asia-Pacific",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:32:41.894+02:00",
+    "updated": "2024-11-24T05:32:41.894+02:00"
+}

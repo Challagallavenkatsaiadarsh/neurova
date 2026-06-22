@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "ef06ddc46a716cc62f50cdce29048337faa09bf4",
+        "url": "https://www.dvidshub.net/image/8768568/luke-afb-leadership-recognizes-chief-master-sgt-selects",
+        "site_full": "www.dvidshub.net",
+        "site": "dvidshub.net",
+        "site_section": "https://dvidshub.net/rss/image",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "DVIDS RSS Feed: Image",
+        "title": "Luke AFB leadership recognizes chief master sgt. selects",
+        "title_full": "Luke AFB leadership recognizes chief master sgt. selects",
+        "published": "2024-11-23T00:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2411/8768568/1000w_q95.jpg",
+        "performance_score": 0,
+        "domain_rank": 5037,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ef06ddc46a716cc62f50cdce29048337faa09bf4",
+    "url": "https://www.dvidshub.net/image/8768568/luke-afb-leadership-recognizes-chief-master-sgt-selects",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Senior Airman Mason Hargrove",
+    "published": "2024-11-23T00:28:00.000+02:00",
+    "title": "Luke AFB leadership recognizes chief master sgt. selects",
+    "text": "U.S. Air Force Senior Master Sgt. Brian Williams, 56th Security Forces Squadron superintendent, hugs Chief Master Sgt. Jason Shaffer, 56th Fighter Wing command chief, after it was announced that Williams was selected for promotion to chief master sergeant, Nov. 5, 2024, at Luke Air Force Base, Arizona. Attaining the rank of chief master sergeant is the pinnacle of the enlisted Airman’s rank structure. Chief master sergeants play a vital role in guiding non-commissioned officers and junior enlisted members while providing senior leaders and unit commanders with seasoned advice and strategic insights. (U.S. Air Force photo by Senior Airman Mason Hargrove)\nDate Taken: | 11.05.2024 |\nDate Posted: | 11.22.2024 17:28 |\nPhoto ID: | 8768568 |\nVIRIN: | 241105-F-RL243-1004 |\nResolution: | 8082x5051 |\nSize: | 3.2 MB |\nLocation: | LUKE AFB, ARIZONA, US |\nWeb Views: | 6 |\nDownloads: | 0 |\nThis work, Luke AFB leadership recognizes chief master sgt. selects, by [SrA Mason Hargrove](/portfolio/1732170/mason-hargrove), identified by DVIDS, must comply with the restrictions shown on https://www.dvidshub.net/about/copyright.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brian Williams",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mason Hargrove",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jason Shaffer",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U.S. Air Force",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:04:34.214+02:00",
+    "updated": "2024-11-23T01:04:34.214+02:00"
+}

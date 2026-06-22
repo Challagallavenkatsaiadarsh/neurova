@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "c1606b3dfea234e591d7088cf05b9e5d6835821a",
+        "url": "https://www.startribune.com/scandia-park-deal-falls-apart-as-county-says-its-not-a-good-fit/601185533",
+        "site_full": "www.startribune.com",
+        "site": "startribune.com",
+        "site_section": "https://startribune.com/suspect-told-police-theres-a-dead-body-upstairs/601180114",
+        "site_categories": [
+            "under_construction",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Southwest Minnesota man charged in killing of his girlfriend",
+        "title": "Washington County declines to move forward with Scandia land gift",
+        "title_full": "Washington County declines to move forward with Scandia land gift",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://arc.stimg.co/startribunemedia/4OGX3ECRHVEMZKWMR4OMNDIAMA.jpg?&amp;w=1200&amp;ar=1.91:1&amp;fit=crop",
+        "performance_score": 0,
+        "domain_rank": 1173,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c1606b3dfea234e591d7088cf05b9e5d6835821a",
+    "url": "https://www.startribune.com/scandia-park-deal-falls-apart-as-county-says-its-not-a-good-fit/601185533",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt McKinney",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "Washington County declines to move forward with Scandia land gift",
+    "text": "An unusual land deal that would have created a new public park in Scandia has instead collapsed after county officials said it’s not a good fit.\nScandia park deal falls apart as county says it’s not a good fit\nWashington County Board rejects park deal; land still protected by conservation easement.\nThe late Joyce Heinisch [left a gift of 300 acres ](https://www.startribune.com/woman-gifts-park-land-to-washington-county-with-a-catch/600368810)for the creation of a new county park, but the bequest from the estate of the Joyce Heinisch Revocable Trust asked that the donation, if accepted, not be finalized until Heinisch’s daughter and granddaughter live out their lives first.\nThey live adjacent to the property. The terms meant that any park opening could be decades from now, part of why the County Board made the decision to walk away from the deal at its Tuesday meeting.\n“In the end it didn’t fit for us,” said Sharon Price, senior right-of-way specialist for Washington County.\nThe land, along the border of Washington and Chisago counties and County Road 3, is already protected under a conservation easement from the Minnesota Land Trust. The easement limits the use of the parcel to passive recreation. It prohibits any development including park bathrooms, pavilions, playgrounds or paved parking.\nThe possible liabilities of caring for the land or cleaning up trash that might get dumped there was also a concern, Price said.\nThe combination of the existing easement, the limitations on what the county could do with the lan, and the liabilities the deal would place on Washington County were unworkable, Price said.\nHeinsich, a school nurse and farmer who managed 280 head of beef cows, died in 2023. Her husband, Roger, preceded her in death. They put the easement on the property in 2011, said Andrew Moe, the Minnesota Land Trust’s director of conservation stewardship.\nThe easement runs in perpetuity and was designed to protect the conservation values of the parcel, which includes grassland, forest and some wetlands, Moe said. The land will never be made available for development, he said.\nWashington County Board rejects park deal; land still protected by conservation easement.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joyce Heinisch",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Scandia",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Joyce Heinisch Revocable Trust",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington County Board",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chisago",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:29:20.956+02:00",
+    "updated": "2024-11-23T00:29:20.956+02:00"
+}

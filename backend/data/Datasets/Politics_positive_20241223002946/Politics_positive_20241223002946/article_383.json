@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "e8db3c401b8ad930dde22c81d06aa72fb36739f4",
+        "url": "https://kstp.com/kstp-news/top-news/students-with-local-organization-to-address-issues-push-for-action-at-state-capitol",
+        "site_full": "kstp.com",
+        "site": "kstp.com",
+        "site_section": "https://kstp.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "KSTP.com 5 Eyewitness News",
+        "title": "Students with local organization to address issues, push for action at State Capitol",
+        "title_full": "Students with local organization to address issues, push for action at State Capitol",
+        "published": "2024-11-23T02:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://kstp.com/wp-content/uploads/2024/11/CENTER-FOR-SCHOOL-CHANGE_PKG_00.00.26.38.jpg",
+        "performance_score": 0,
+        "domain_rank": 7371,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e8db3c401b8ad930dde22c81d06aa72fb36739f4",
+    "url": "https://kstp.com/kstp-news/top-news/students-with-local-organization-to-address-issues-push-for-action-at-state-capitol",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brittney Ermon KSTP",
+    "published": "2024-11-23T02:06:00.000+02:00",
+    "title": "Students with local organization to address issues, push for action at State Capitol",
+    "text": "Students with local organization to address issues, push for action at State Capitol",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Education"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kelvin Williams",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "State Capitol",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:21:21.925+02:00",
+    "updated": "2024-11-23T03:14:05.021+02:00"
+}

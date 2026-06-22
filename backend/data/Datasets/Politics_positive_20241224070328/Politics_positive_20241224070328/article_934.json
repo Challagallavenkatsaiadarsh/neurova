@@ -1,0 +1,122 @@
+{
+    "thread": {
+        "uuid": "8b20df107849840bcd8997603d3f0c3116f3e767",
+        "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-administration-jay-bhattacharya-us-national-institutes-of-health-director-2639149-2024-11-24",
+        "site_full": "www.indiatoday.in",
+        "site": "indiatoday.in",
+        "site_section": "https://www.indiatoday.in",
+        "site_categories": [
+            "religion",
+            "media",
+            "catholicism",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_kw",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News, Election Results 2024, Breaking News Today, Entertainment, Politics, Cricket - IndiaToday",
+        "title": "Kolkata-born Jay Bhattacharya emerges as Trump's top pick to lead US health agency",
+        "title_full": "Kolkata-born Jay Bhattacharya emerges as Trump's top pick to lead US health agency",
+        "published": "2024-11-24T05:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202411/jay-bhattacharya--a-stanford-trained-physician-pictured-at-right-in-2023--has-proposed-reducing-the-243059498-16x9_0.jpeg?VersionId=cu4dVphs1So8hANXtmr__a_Ugq5GyBd_",
+        "performance_score": 0,
+        "domain_rank": 1773,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8b20df107849840bcd8997603d3f0c3116f3e767",
+    "url": "https://www.indiatoday.in/world/us-news/story/donald-trump-administration-jay-bhattacharya-us-national-institutes-of-health-director-2639149-2024-11-24",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@indiatoday",
+    "published": "2024-11-24T05:15:00.000+02:00",
+    "title": "Kolkata-born Jay Bhattacharya emerges as Trump's top pick to lead US health agency",
+    "text": "Jay Bhattacharya is now the presumptive favourite to be selected by President-elect Donald Trump as the next director of the National Institutes of Health (NIH), the Washington Post reported on Saturday, citing three people familiar with the matter.The Stanford-trained physician and economist met with Robert F. Kennedy Jr, Trump's pick to lead the Department of Health and Human Services (HHS), this week and impressed him with his ideas to overhaul NIH, the report said.Trump's transition team did not immediately respond to a Reuters request for comment.Bhattacharya has called for shifting the agency's focus toward funding more innovative research and reducing the influence of some of its longest-serving career officials, the report added.Trump picked Kennedy earlier this month to lead the Department of Health and Human Services, the United States' top health agency which oversees NIH and other health agencies. Published By: Akhilesh NagariPublished On: Nov 24, 2024Must Watch",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jay Bhattacharya",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Institutes of Health",
+                "sentiment": "none"
+            },
+            {
+                "name": "US Health Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington Post",
+                "sentiment": "none"
+            },
+            {
+                "name": "NIH",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kolkata",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:52:12.002+02:00",
+    "updated": "2024-11-24T11:12:50.414+02:00"
+}

@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "963949de62b25a52036eeb8c93b920585eb20cfb",
+        "url": "https://www.fraserinstitute.org/article/global-fossil-fuel-use-rising-despite-un-proclamations",
+        "site_full": "www.fraserinstitute.org",
+        "site": "fraserinstitute.org",
+        "site_section": "https://fraserinstitute.org/rss.xml",
+        "site_categories": [
+            "canada",
+            "media",
+            "travel"
+        ],
+        "section_title": "Fraser Institute",
+        "title": "Global fossil fuel use rising despite UN proclamations",
+        "title_full": "Global fossil fuel use rising despite UN proclamations",
+        "published": "2024-11-22T22:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.fraserinstitute.org/sites/default/files/field/image/planet-earth-800.jpg",
+        "performance_score": 0,
+        "domain_rank": 11784,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "963949de62b25a52036eeb8c93b920585eb20cfb",
+    "url": "https://www.fraserinstitute.org/article/global-fossil-fuel-use-rising-despite-un-proclamations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "beng",
+    "published": "2024-11-22T22:30:00.000+02:00",
+    "title": "Global fossil fuel use rising despite UN proclamations",
+    "text": "Global fossil fuel use rising despite UN proclamations\nAt the Conference of the Parties (COP29) in Azerbaijan, António Guterres, the United Nations Secretary-General, last week called for a global net-zero carbon footprint by 2050, which requires a “fossil fuel phase-out” and “deep decarbonization across the entire value chain.”\nYet despite the trillions of dollars already spent globally pursuing this target—and the additional trillions projected as necessary to “end the era of fossil fuels”—the world’s dependence on fossil fuels has remained largely unchanged.\nSo, how realistic is a “net-zero” emissions world—which means either eliminating fossil fuel generation or offsetting carbon emissions with activities such as planting trees—by 2050?\nThe journey began in 1995 when the UN hosted the first COP conference in Berlin, launching a global effort to drive energy transition and decarbonization. That year, global investment in renewable energy reached US$7 billion, according to some estimates. Since then, an extraordinary amount of money and resources have been allocated to the transition away from fossil fuels.\nAccording to the International Energy Agency, between 2015 and 2023 alone, governments and industry worldwide spent US$12.3 trillion (inflation-adjusted) on clean energy. For context, that’s over six times the value of the entire Canadian economy in 2023.\nDespite this spending, between 1995 and 2023, global fossil fuel consumption increased by 62 per cent, with oil consumption rising by 38 per cent, coal by 66 per cent and natural gas by 90 per cent.\nAnd during that same 28-year period, despite the trillions spent on energy alternatives, the share of global energy provided by fossil fuels declined by only four percentage points, from 85.6 per cent to 81.5 per cent.\nThis should come as no surprise. Major energy transitions are slow and take centuries, not decades. According to a recent study by renowned scholar Vaclav Smil, the first global energy transition—from traditional biomass fuels (including wood and charcoal) to fossil fuels—started more than two centuries ago and remains incomplete. Nearly three billion people in the developing world still depend on charcoal, straw and dried dung for cooking and heating, accounting for about 7 per cent of the world’s energy supply (as of 2020).\nMoreover, coal only surpassed wood as the main energy source worldwide around 1900. It took more than 150 years from oil’s first commercial extraction for oil to reach 25 per cent of all fossil fuels consumed worldwide. Natural gas didn’t reach this threshold until the end of the 20th century, after 130 years of industry development.\nNow, consider the current push by governments to force an energy transition via regulation and spending. In Canada, the Trudeau government has set a target to fully decarbonize electricity generation by 2035 so all electricity is derived from renewable power sources such as wind and solar. But merely replacing Canada’s existing fossil fuel-based electricity with clean energy sources within the next decade would require building the equivalent of 23 major hydro projects (like British Columbia’s Site C) or 2.3 large-scale nuclear power plants (like Ontario’s Bruce Power). The planning and construction of significant electricity generation infrastructure in Canada is a complex and time-consuming process, often plagued by delays, regulatory hurdles and substantial cost overruns.\nThe Site C project took around 43 years from initial feasibility studies in 1971 to securing environmental certification in 2014. Construction began on the Peace River in northern B.C. in 2015, with completion expected in 2025 at a cost of at least $16 billion. Similarly, Ontario’s Bruce Power plant took nearly two decades to complete, with billions in cost overruns. Given these immense practical, financial and regulatory challenges, achieving the government’s 2035 target is highly improbable.\nAs politicians gather at high-profile conferences and set ambitious targets for a swift energy transition, global reliance on fossil fuels has continued to increase. As things stand, achieving net-zero by 2050 appears neither realistic nor feasible.\nAuthors:\nSubscribe to the Fraser Institute\nGet the latest news from the Fraser Institute on the latest research studies, news and events.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "António Guterres",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:18:04.020+02:00",
+    "updated": "2024-11-23T00:18:04.020+02:00"
+}

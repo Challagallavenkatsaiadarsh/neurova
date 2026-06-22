@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "65c328dd9a3b193b4613a8059a720d8be2700cd6",
+        "url": "https://www.dawn.com/news/1874358/on-anti-muslim-campaign-bjp-sweeps-maharashtra",
+        "site_full": "www.dawn.com",
+        "site": "dawn.com",
+        "site_section": "https://www.dawn.com/feeds/home",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "The Dawn News - Home",
+        "title": "On anti-Muslim campaign, BJP sweeps Maharashtra",
+        "title_full": "On anti-Muslim campaign, BJP sweeps Maharashtra",
+        "published": "2024-11-23T23:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.dawn.com/large/2024/11/240822266982d97.jpg?r=082237",
+        "performance_score": 0,
+        "domain_rank": 3117,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65c328dd9a3b193b4613a8059a720d8be2700cd6",
+    "url": "https://www.dawn.com/news/1874358/on-anti-muslim-campaign-bjp-sweeps-maharashtra",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (Our Correspondent)",
+    "published": "2024-11-23T23:46:00.000+02:00",
+    "title": "On anti-Muslim campaign, BJP sweeps Maharashtra",
+    "text": "NEW DELHI: The Bharatiya Janata Party (BJP) swept the Maharashtra state polls on Saturday, and while Prime Minister Narendra Modi called it a victory “for development and good governance”, he led the field in setting the stage for a vicious polarisation to target Muslims.\n“Ek hain to safe hain,” the prime minister repeatedly told the voters in what is being described as among the most vicious communal campaigns staged by the BJP and its rightwing allies. The phrase translates as “We are safe if we stay united,” implying that other parties would unleash Muslim hegemony on India. It was echoed stridently by the Uttar Pradesh chief minister Yogi Aditytanath, roped into the campaign for his bilious hatred of liberals.\n“Bateinge to kateinge,” railed the saffron-robed politician, the dog-whistle implying that the voters would be chopped if they didn’t supported the BJP.\nBut the recurring theme of the campaign was reflected in the audiovisual ad with a clip showing Muslims raiding a Hindu home and occupying it with expressions of glee.\nThe clip was ordered to be taken down by the election commission, but it apparently continued to be used to work on the electorate. The BJP’s deputy chief minister Devendra Fadnavis who campaigned against Pakistan to woo voters is expected to claim the post of chief minister of India’s second most vote-rich state, whose capital Mumbai is the country’s financial hub.\nA part of the campaign focused on BJP’s alleged nepotism in handing him the development of Dharavi in Mumbai’s heart.\nFormer chief minister Udhav Thackeray had won global accolades for his handling of the Covid-19 emergency in the heavily populated slum. Adani also would be having interest in the state of Jharkhand from where he plies a coal-based power transmission to Bangladesh. However, the predominantly tribal Jharkhand voters defeated the BJP where it had again waged a communal battle by targeting Muslims.\nTV anchor Karan Thapar discussed the Maharashtra and Jharkhand campaigns, where he saw how “conscious and deliberate attempts were made in speeches and advertisements to demonise and vilify the Muslim community”.\nHe interviewed veteran blogger and a widely read author of short stories, Avay Shukla, who said: “We’ve become a Muslim-hating country” and India faces “an existential crisis”.\nIn the interview for The Wire, Mr Shukla, a former senior bureaucrat, said the prime minister’s speeches were “not dog whistles but commands to take action along these lines”.\nThe verdict once again proved pollsters wrong. They gave the BJP-backed alliance in Maharashtra a nominal victory. The results are astounding for the Congress-backed alliance, which was hovering at a paltry 46 seats in the 288 Maharashtra assembly. The BJP and its allies were heading for a sweep with 236.\nIn Jharkhand’s 81-member assembly, the Congress backed alliance was close to winning 56 seats against the BJP’s 24.\nThe battles in other states where several by-polls were held produced an even result. Congress won all three in Karnataka, and Mamata Banerjee’s TMC took all seven seats in the fray in West Bengal. Priyanka Gandhi sailed through the Wayanad parliamentary seat in Kerala, but the party lost its Lok Sabha seat in Nanded in Maharashtra to the BJP.\nPublished in Dawn, November 24th, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yogi Aditytanath",
+                "sentiment": "none"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "65c328dd9a3b193b4613a8059a720d8be2700cd6",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:49:54.341+02:00",
+    "updated": "2024-11-29T14:41:32.585+02:00"
+}

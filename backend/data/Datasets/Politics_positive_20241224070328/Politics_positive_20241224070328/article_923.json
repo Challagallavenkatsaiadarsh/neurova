@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "8bd1067764529ff0673ec7680d8b0501f0c8deba",
+        "url": "https://www.sentinelassam.com/more-news/national-news/after-poll-victory-chief-minister-hemant-soren-promises-abua-raj-in-jharkhand",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "After poll victory, Chief Minister Hemant Soren promises ‘Abua Raj’ in Jharkhand",
+        "title_full": "After poll victory, Chief Minister Hemant Soren promises ‘Abua Raj’ in Jharkhand",
+        "published": "2024-11-24T02:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-24%2F2hbdm96f%2Fjharkhand-election-results-2024-live-updates-vote-counting-jharkhand-assembly-election-results-bjp-jmm-india-nda-hemant-soren-champai-soren-eci-latest-news-22nd-november.webp?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8bd1067764529ff0673ec7680d8b0501f0c8deba",
+    "url": "https://www.sentinelassam.com/more-news/national-news/after-poll-victory-chief-minister-hemant-soren-promises-abua-raj-in-jharkhand",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-24T02:40:00.000+02:00",
+    "title": "After poll victory, Chief Minister Hemant Soren promises ‘Abua Raj’ in Jharkhand",
+    "text": "Ranchi: Jharkhand Chief Minister Hemant Soren thanked the people of the state following a decisive victory for his party and allies in the Assembly elections.\nSpeaking to the media on Saturday evening, Soren declared, “We are going to create the history of ‘Abua Raj, Abua Sarkar’ (Our rule, our government) in Jharkhand.”\nHe said, “This was a landmark election. People would never have seen such an election in the state’s democratic journey. We have successfully passed the test of democracy,” adding that the people have enthusiastically embraced the democratic process.\nSoren also thanked Prime Minister Narendra Modi for his congratulatory message and praised the active participation of women and youth in the elections. He also acknowledged the efforts of all candidates who contested the polls, emphasising their role in strengthening democracy.\nCongress’ Jharkhand in-charge and national general secretary, Ghulam Ahmad Mir, also present on the occasion, commended the political maturity of the state’s electorate. “On the one hand, our alliance put forward achievements of five years to the voters and its vision for the future, on the other, the opposition failed to convince the voters about their agenda with a total lack of any tangible groundwork,” he said. (IANS)\nAlso Read: MP Raghav Chadha lauds Aam Aadmi Party’s victory in Punjab\nAlso Watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hemant Soren",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abua Sarkar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:46:17.405+02:00",
+    "updated": "2024-11-24T07:46:17.405+02:00"
+}

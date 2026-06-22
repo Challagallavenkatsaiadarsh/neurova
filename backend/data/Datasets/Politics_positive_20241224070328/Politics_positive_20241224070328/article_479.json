@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "8c32df71d77fd461875b063836e826b722852c66",
+        "url": "https://en.qdnd.vn/military/intl-relations-and-cooperation/vietnamese-border-guard-unit-honored-with-lao-defense-ministry-s-noble-order-572346",
+        "site_full": "en.qdnd.vn",
+        "site": "qdnd.vn",
+        "site_section": "https://military.einnews.com/rss",
+        "site_categories": [
+            "media",
+            "top_news_vn",
+            "top_news"
+        ],
+        "section_title": "Military News",
+        "title": "Vietnamese border guard unit honored with Lao Defense Ministry’s noble order",
+        "title_full": "Vietnamese border guard unit honored with Lao Defense Ministry’s noble order",
+        "published": "2024-11-23T11:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "VN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 40033,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c32df71d77fd461875b063836e826b722852c66",
+    "url": "https://en.qdnd.vn/military/intl-relations-and-cooperation/vietnamese-border-guard-unit-honored-with-lao-defense-ministry-s-noble-order-572346",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T11:19:00.000+02:00",
+    "title": "Vietnamese border guard unit honored with Lao Defense Ministry’s noble order",
+    "text": "At the event, authorized by the Minister of National Defense of Laos, Colonel Phansi Sonemixay, Political Commissar of the Houaphanh provincial Military Command, announced the decision and handed over the noble order to the Thanh Hoa provincial Border Guard Command.\nThe order awarding was a testament to the solidarity, faithfulness and steadfastness between the two parties, states, people, and militaries of Vietnam and Laos in general and between the Border Guard Command of Thanh Hoa province and the Military Command of Houaphanh province in particular.\nOver the past years, under the leadership of the two parties, states, party committees and authorities of Thanh Hoa and Houaphanh provinces, the two sides have constantly and comprehensively developed their relationship and collaboration in an intensive manner. Outcomes were seen in border management and protection, the sister ties between border posts and border protection forces; border village cluster building; cross-border crime prevention and control; prevention against illegal entry and exit, free migration; search, collection and repatriation of remains of fallen Vietnamese volunteer troops and advisors from Laos.\nTranslated by Song Anh\nType the code from the image",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Phansi Sonemixay",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Thanh Hoa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Lao Defense Ministry",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Border Guard Command",
+                "sentiment": "none"
+            },
+            {
+                "name": "Military Command",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Houaphanh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Laos",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:18:12.207+02:00",
+    "updated": "2024-11-24T04:18:12.207+02:00"
+}

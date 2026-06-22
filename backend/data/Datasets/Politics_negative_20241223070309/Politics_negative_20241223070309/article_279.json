@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "500b6a8392061095e371933728fb80b2897ec6f6",
+        "url": "https://freerepublic.com/focus/f-chat/4280270/posts",
+        "site_full": "freerepublic.com",
+        "site": "freerepublic.com",
+        "site_section": "https://freerepublic.com/tag/*/feed.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest Articles",
+        "title": "Blue city prosecutor attacked in own home by illegal immigrant with Tren de Aragua gang ties: police",
+        "title_full": "Blue city prosecutor attacked in own home by illegal immigrant with Tren de Aragua gang ties: police",
+        "published": "2024-11-22T09:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 4310,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "500b6a8392061095e371933728fb80b2897ec6f6",
+    "url": "https://freerepublic.com/focus/f-chat/4280270/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Morgana",
+    "published": "2024-11-22T09:04:00.000+02:00",
+    "title": "Blue city prosecutor attacked in own home by illegal immigrant with Tren de Aragua gang ties: police",
+    "text": "They almost caught him with his pants down.\nAn illegal immigrant from Venezuela with suspected ties to the Tren de Aragua gang has been arrested outside a New York City migrant shelter after allegedly breaking into a Manhattan prosecutor's apartment, pleasuring himself and robbing her, according to a new report.\nBrandon Simosa, 25, followed the unidentified 38-year-old woman into her apartment building near the intersection of 44th Street and Ninth Avenue around 2 a.m. Sunday, according to the NYPD.\nOnce inside, he demanded cash and stole credit cards and a cellphone from her purse. Then, he allegedly \"performed a lewd act in front of the female\" and ran away, police said.\nThe suspect is an illegal immigrant with suspected ties to the infamous Venezuelan prison gang, and the victim works for Manhattan District Attorney Alvin Bragg, the New York Post reported.\nThe \"lewd act\" was him allegedly masturbating in her hallway before he took off, only to be arrested outside the Row, according to the paper.\nThe Row is a former luxe hotel that city officials turned into a migrant shelter to help house tens of thousands of illegals who flooded into the Big Apple under the Biden-Harris administration.\nPolice grabbed him around 6:30 p.m. Tuesday. Although he was hanging around the shelter, he was listed as homeless.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brandon Simosa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alvin Bragg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "New York Post",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:32:49.792+02:00",
+    "updated": "2024-11-23T00:32:49.792+02:00"
+}

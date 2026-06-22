@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "a85fd360b7c5b124e01a091fbd159d092663186a",
+        "url": "https://www.firstpost.com/india/jharkhand-assembly-elections-bjp-got-more-votes-so-how-did-hemant-sorens-jmm-take-the-cake-13838178.html",
+        "site_full": "www.firstpost.com",
+        "site": "firstpost.com",
+        "site_section": "http://www.firstpost.com",
+        "site_categories": [
+            "media",
+            "cricket",
+            "sports",
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "FIRSTPOST: LIVE updates, Latest News, Breaking News, World News, Sports News, Bollywood News, Business, Entertainment, Tech, Political News and more Firstpost",
+        "title": "Jharkhand Assembly elections: BJP got more votes, so how did Hemant Soren's JMM take the cake?",
+        "title_full": "Jharkhand Assembly elections: BJP got more votes, so how did Hemant Soren's JMM take the cake?",
+        "published": "2024-11-24T03:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.firstpost.com/uploads/2024/11/BJP-symbol-2024-11-90ada9f27add2d0dc363a8996610c817-1200x675.jpg?im=FitAndFill=(1200,675)",
+        "performance_score": 0,
+        "domain_rank": 2188,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a85fd360b7c5b124e01a091fbd159d092663186a",
+    "url": "https://www.firstpost.com/india/jharkhand-assembly-elections-bjp-got-more-votes-so-how-did-hemant-sorens-jmm-take-the-cake-13838178.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shreya Mundhra",
+    "published": "2024-11-24T03:00:00.000+02:00",
+    "title": "Jharkhand Assembly elections: BJP got more votes, so how did Hemant Soren's JMM take the cake?",
+    "text": "The Jan Mukti Morcha-led INDIA coalition stormed to power for the second time in a row in Jharkhand.\\nPer the Assembly election results declared on Saturday (November 23), JMM emerged as the single-largest party with 34 seats. BJP won 21 seats out of the 81 that were up for grabs.\\nThat means that JMM managed to secure almost 42 per cent of the seats in the Jharkhand Assembly. For BJP, that number is nearly 26 per cent.\\nAdvertisement But here\\u0026rsquo;s the interesting part: JMM\\u0026rsquo;s voter share was lesser than BJP\\u0026rsquo;s. While the Hemant Soren-led party managed to get 23.44 per cent of the total votes polled, the saffron party bagged a considerably higher 33.18 per cent share.\\nThe takeaway is that BJP got the biggest voter share of all the parties that were in the fray in Jharkhand, but JMM received the highest number of seats.\\nSo, what explains this discrepancy?\\nTo understand, it\\u0026rsquo;s important to first look at this map of all the constituencies in Jharkhand and which party they voted for.\\nThis map of Jharkhand shows which constituency was won by which party. Image source: ECI/Firstpost Even at first glance, the belt where BJP won– where the support they enjoy is the strongest– is clearly visible.\\n\\u0026lsquo;Wasted votes\\u0026rsquo; in high margins of victory Based on Firstpost\\u0026rsquo;s calculations of the winning margin numbers on ECI\\u0026rsquo;s website, it turns out that the 21 BJP candidates who won, on average, had a margin of victory of over 22,000 votes. This added to BJP\\u0026rsquo;s voter share, but not to its seat count.\\nThat\\u0026rsquo;s because of the nature of the \\u0026ldquo;first-past-the-post\\u0026rdquo; (FPTP) electoral system used in India. In this system, the candidate who secures the most votes in a constituency wins the seat, regardless of the margin of victory.\\nThe thousands of votes that the BJP won in the seats it grabbed but did not actually need to win, were actually \\u0026lsquo;wasted votes\\u0026rsquo;. If they were distributed across different constituencies where BJP candidates were runners up, these votes could have translated into seats– but they didn\\u0026rsquo;t.\\nThe contribution of runner up candidates The other reason for BJP\\u0026rsquo;s high voter share and comparatively lower seat count were the runners up constituencies.\\nThere were 45 seats in which BJP candidates came in second. The FPTP system is one where winner takes all. For instance, if there are 100 voters for a seat and three candidates A, B, and C. If A wins 40 votes, while B gets 38 votes, and C wins 22 votes, A wins the seat.\\nAdvertisement In this system, A becomes the representative of 100 per cent of the constituency, despite getting only 40 per cent of the votes.\\nThe votes that the candidate who comes in second garners (in this instance, B) are \\u0026ldquo;wasted votes\\u0026rdquo;, as they don\\u0026rsquo;t translate into seats or affect representation.\\nSo, in the case of the BJP in Jharkhand in the 2024 Assembly elections, the votes the runners up accumulated added to the vote share, but did not materialise into seats.\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hemant Soren",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jharkhand Assembly",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "JMM",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:49:14.488+02:00",
+    "updated": "2024-11-24T08:51:54.378+02:00"
+}

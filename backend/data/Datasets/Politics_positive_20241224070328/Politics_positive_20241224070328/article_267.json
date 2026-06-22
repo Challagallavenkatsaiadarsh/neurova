@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "b798d989f4831eeb74f87b807a16ff5a858d013b",
+        "url": "https://www.tribuneindia.com/news/india/bypolls-nda-gains-in-up-bihar-raj-tmc-reigns-in-west-bengal",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/india",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Latest India News, Breaking News Headlines & Live Updates | Tribune India",
+        "title": "Bypolls: NDA gains in UP, Bihar, Raj & Assam; TMC reigns in West Bengal - The Tribune",
+        "title_full": "Bypolls: NDA gains in UP, Bihar, Raj & Assam; TMC reigns in West Bengal - The Tribune",
+        "published": "2024-11-24T01:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/67421c91ea9e2-1-1-23111-PTI11_23_2024_000107B-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b798d989f4831eeb74f87b807a16ff5a858d013b",
+    "url": "https://www.tribuneindia.com/news/india/bypolls-nda-gains-in-up-bihar-raj-tmc-reigns-in-west-bengal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2024-11-24T01:54:00.000+02:00",
+    "title": "Bypolls: NDA gains in UP, Bihar, Raj & Assam; TMC reigns in West Bengal - The Tribune",
+    "text": "Bypolls: NDA gains in UP, Bihar, Raj & Assam; TMC reigns in West Bengal\nThe juggernaut of the BJP-led NDA, which triumphed in three of the four east and north-eastern states that went for Assembly byelections on Saturday, was halted yet again in Bengal where Mamata Banerjee’s TMC registered a six-on-six clean sweep.\nIn all, the NDA won 26 of the 46 Assembly seats. The BJP alone bagged 20 of these seats, registering wins in UP’s Kundarki and Gujarat’s Vav for the first time. The BJP earlier had 11 of these 46 seats and today posted a gain of nine segments.\nIn the Lok Sabha byelections, the Congress retained Nanded and Wayanad. Its strength in the Lok Sabha remains the same (99). The NDA swept all five Assam seats and all four Bihar seats. The BJP won one seat each in Chhattisgarh and Gujarat. In UP, the NDA bagged seven of nine seats. In Rajasthan, of seven seats, the BJP won five.\nThe BJP also won Uttarakhand’s Kedarnath seat and in Madhya Pradesh, it won one (Budhni which former CM Shivraj Singh Chouhan vacated after winning the Lok Sabha poll), while the Congress took the other.\nThe BJP is now in a better position to attain a majority in Rajya Sabha.\nAmong Opposition parties, the Congress won all three Assembly byelections in Karnataka, the TMC won all six seats in West Bengal despite a massive RG Kar agitation. NDA ally SKM won both Sikkim segments and in Punjab, ruling AAP took three and the fourth went to the Congress. The Congress won the Wayanad Lok Sabha bypoll where Priyanka Gandhi Vadra clocked a massive win.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shivraj Singh Chouhan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mamata Banerjee",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "TMC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Bengal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chhattisgarh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rajasthan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gujarat",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:16:12.301+02:00",
+    "updated": "2024-11-24T02:16:12.301+02:00"
+}

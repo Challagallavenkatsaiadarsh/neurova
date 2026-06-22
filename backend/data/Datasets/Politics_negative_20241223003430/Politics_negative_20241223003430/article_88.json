@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "8be80f6d8e82a8db504bd6738cf3aa804b40ceea",
+        "url": "https://english.news.cn/20241123/c0d972763af2452b9b109ceb8ac2aa85/c.html",
+        "site_full": "english.news.cn",
+        "site": "news.cn",
+        "site_section": "https://english.news.cn/list/latestnews.htm",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest news | English.news.cn",
+        "title": "Turkish gov't replaces 2 elected mayors over \"terrorist\" charges-Xinhua",
+        "title_full": "Turkish gov't replaces 2 elected mayors over \"terrorist\" charges-Xinhua",
+        "published": "2024-11-22T21:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 984,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8be80f6d8e82a8db504bd6738cf3aa804b40ceea",
+    "url": "https://english.news.cn/20241123/c0d972763af2452b9b109ceb8ac2aa85/c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xinhua",
+    "published": "2024-11-22T21:02:00.000+02:00",
+    "title": "Turkish gov't replaces 2 elected mayors over \"terrorist\" charges-Xinhua",
+    "text": "Turkish government on Friday replaced two democratically elected mayors in the eastern province of Tunceli following a court ruling. According to a statement from the Turkish Interior Ministry, Tunceli City Mayor Cevdet Konak and Ovacik District Mayor Mustafa Sarigul were removed from office after being sentenced to six years and three months in prison on charges of \"being a member of a terrorist organization.\" Cevdet Konak, representing the Peoples' Equality and Democracy (DEM) Party, and Mustafa Sarigul, from the Republican People's Party, were elected in local elections in March. In their place, Tunceli Provincial Governor Bulent Tekbiyikoglu has been appointed as the acting mayor of Tunceli City, while Huseyin Samil Sozen, district governor of Ovacik, has been assigned as the acting mayor of Ovacik. These appointments mark another instance where the government replaced elected mayors in the past few weeks. The Turkish government removed three pro-Kurdish mayors from office in southeastern cities in early November, citing terrorism-related convictions and charges, and appointed trustees to replace them. The three mayors, all from the pro-Kurdish DEM Party, were removed from their roles in Mardin Metropolitan Municipality, Batman Municipality, and Halfeti District Municipality in Sanliurfa due to alleged connections to \"membership in an armed terrorist organization.\" The DEM, which holds 57 seats in the parliament, has seen several mayors replaced previously over similar accusations. A week earlier, a mayor from the opposition Republican People's Party was arrested on charges of affiliation with the outlawed Kurdistan Workers' Party (PKK). The Turkish government links the DEM to the PKK, which is listed as a terrorist organization by Türkiye, the United States, and the European Union, and has rebelled against the Turkish government for decades. ■",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/user/ChinaViewTV",
+        "https://www.facebook.com/XinhuaNewsAgency/",
+        "https://twitter.com/XHNews",
+        "https://youtube.com/user/ChinaViewTV",
+        "https://www.twitter.com/XHNews",
+        "https://facebook.com/XinhuaNewsAgency/",
+        "https://www.facebook.com/XinhuaNewsAgency"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Huseyin Samil Sozen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bulent Tekbiyikoglu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mustafa Sarigul",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cevdet Konak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Xinhua",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Republican People's Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Interior Ministry",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Tunceli City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ovacik",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "8be80f6d8e82a8db504bd6738cf3aa804b40ceea",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:10:58.515+02:00",
+    "updated": "2024-11-23T01:07:04.085+02:00"
+}

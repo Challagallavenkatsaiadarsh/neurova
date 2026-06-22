@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "c270b2dd3237f16ff19a70818ed67b20a9dd10ef",
+        "url": "https://waateanews.com/2024/11/24/safety-screens-installed",
+        "site_full": "waateanews.com",
+        "site": "waateanews.com",
+        "site_section": "https://www.waateanews.com",
+        "site_categories": [],
+        "section_title": "Waatea News: Māori Radio Station &#8211; Keep up to date with the latest Māori news from around regional Aotearoa. Listen to Waatea live, Auckland&#039;s only Māori radio on 603am or online here.",
+        "title": "Safety screens installed",
+        "title_full": "Safety screens installed",
+        "published": "2024-11-24T00:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NZ",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 93565,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c270b2dd3237f16ff19a70818ed67b20a9dd10ef",
+    "url": "https://waateanews.com/2024/11/24/safety-screens-installed",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matthew Tukaki",
+    "published": "2024-11-24T00:54:00.000+02:00",
+    "title": "Safety screens installed",
+    "text": "Mayor of Auckland Wayne Brown today unveiled the first batch of driver safety screens being installed on Auckland’s bus fleet alongside Ritchies Transport Chief Executive Michele Kernahan and Auckland Transport Chief Executive Dean Kimpton. Mayor Wayne Brown says he prioritised funds for the safety screen rollout in recognition of the important frontline role our bus drivers play in keeping Auckland moving. “We’ve all been appalled by the recent cowardly attacks on bus drivers who are just trying to do their job for the public,” Mayor Brown said. “This is an investment in their security and is a recognition that their work matters. “I’m very pleased we are now starting to see buses retrofitted with these screens hitting the road. It shouldn’t be necessary – but, sadly, it is. “We need to look after our drivers and keep them safe. These screens will make a huge difference. “The bus drivers have been consulted on the design of these screens and the model that is being rolled out is something that incorporates their feedback. Tramways Union President Gary Froggatt has shown great leadership here and I want to acknowledge his important role.” Auckland Transport Chief Executive Dean Kimpton says the safety screens unveiled today with Ritchies showcased the level of protection and reassurance drivers across Auckland would soon experience. “Our teams at Auckland Transport have been working closely with Ritchies on this early rollout of 50 driver protection screens for buses based at their Takanini and Albany depots,” Mr Kimpton said. “By next June we will have driver safety screens installed on more than 300 buses across Auckland, thanks to the investment from Auckland Council and bus operators like Ritchies. “With the Government co-funding announced this morning we will be able to further accelerate the rollout and install screens on 80% of the buses used on AT’s network by July 2026. “The safety of our bus drivers and passengers is a huge priority for Auckland Transport and we’re pleased to be making real progress towards a safer network for all.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michele Kernahan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gary Froggatt",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wayne Brown",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:23:13.681+02:00",
+    "updated": "2024-11-24T03:58:18.916+02:00"
+}

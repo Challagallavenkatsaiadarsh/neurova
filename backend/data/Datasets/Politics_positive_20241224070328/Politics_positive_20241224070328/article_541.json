@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "67f6223724cc0def02ab490ad1cd3714a3d55d14",
+        "url": "https://www.newindianexpress.com/states/karnataka/2024/Nov/24/pathan-ends-bjps-luck-not-a-debut-to-remember-for-bharatin-shiggaon",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://newindianexpress.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "newindianexpress",
+        "title": "Pathan ends BJP’s luck; not a debut to remember for Bharat in Shiggaon",
+        "title_full": "Pathan ends BJP’s luck; not a debut to remember for Bharat in Shiggaon",
+        "published": "2024-11-23T23:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-10-25%2F8js7mxjc%2FNew-Project-2024-10-25T081718.650.jpg?rect=0%2C0%2C1280%2C672&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "67f6223724cc0def02ab490ad1cd3714a3d55d14",
+    "url": "https://www.newindianexpress.com/states/karnataka/2024/Nov/24/pathan-ends-bjps-luck-not-a-debut-to-remember-for-bharatin-shiggaon",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Pramodkumar Vaidya",
+    "published": "2024-11-23T23:23:00.000+02:00",
+    "title": "Pathan ends BJP’s luck; not a debut to remember for Bharat in Shiggaon",
+    "text": "HUBBALLI: By winning the Shiggaon Assembly constituency, the Congress has put an end to the BJP’s winning streak in a seat that has been a Bommai stronghold since 2008. The last time the Congress won the seat was in 1994. The Congress’ last-minute pick, Yasir Ahmed Khan Pathan, defeated Bharat Bommai, son of Haveri MP and former CM Basavaraj Bommai, by 13,448 votes. While Pathan polled 1,00,756 votes (52.41%), Bharat secured 87,308 votes (45.41%).\nThis bitter defeat has come as a shock to the BJP and more to Basavaraj Bommai. The bypoll to the constituency was necessitated following the election of Basavaraj Bommai to the Lok Sabha from Haveri in May.\nThough the victory came as a surprise for many, even for those in the Congress. the party started to lay the groundwork for Saturday’s victory from this year’s Lok Sabha polls itself.\nThe Congress candidate had gained a lead of over 8,500 votes against the BJP candidate from the Shiggaon Assembly segment, which is part of the Dharwad Lok Sabha constituency. Despite losing the Dharwad seat, the Congress started to build on the momentum it had gained and fielded a Muslim candidate. Shiggaon has a sizable Muslim population.\nThe Congress deployed eight cabinet ministers to campaign for Pathan. Chief Minister Siddaramaiah himself campaigned extensively for three days, and his deputy, DK Shivakumar, who is also the state Congress chief, addressed a series of rallies and party workers’ meetings.\nPolitical pundits opine that in addition to a well-planned strategy, the Congress spoiled the efforts of the BJP to polarise voters using the Waqf land issue. A section of Muslims who voted for Bommai in the past switched their loyalties and voted for Pathan. Also, Siddaramaiah’s Ahinda factor helped Pathan to an extent, say experts.\nAfter the victory, Pathan attributed his success to Congress leaders, particularly Siddaramaiah and Shivakumar, and promised to work as per the expectations of the people of the constituency. Bharat, however, said that he would introspect and try to find out where he went wrong after holding discussions with senior BJP leaders.\nMeanwhile, Basavaraj Bommai said that he would humbly accept the people’s verdict and congratulated Pathan. He also hoped that development in the constituency would not stop. He accused the Congress of winning by using money power.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yasir Ahmed Khan Pathan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Basavaraj Bommai",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharat Bommai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Dharwad Lok",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:43:32.457+02:00",
+    "updated": "2024-11-24T04:43:32.457+02:00"
+}

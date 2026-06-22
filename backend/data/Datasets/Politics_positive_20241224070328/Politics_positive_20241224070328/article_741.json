@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "a0d2979dcbd9605c371d2d1a085456654409cd7c",
+        "url": "https://www.tribuneindia.com/news/punjab/chabbewal-sees-son-rise-ishank-logs-emphatic-win",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/punjab",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Punjab News (ਪੰਜਾਬ ਖ਼ਬਰਾਂ): Latest News, Breaking News & Updates- Tribune India",
+        "title": "Chabbewal sees son rise, Ishank logs emphatic win - The Tribune",
+        "title_full": "Chabbewal sees son rise, Ishank logs emphatic win - The Tribune",
+        "published": "2024-11-24T01:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/674222e8ec8f2-12311255CD-_231124_MS1_JLD_-DR_-ISHANK-CHABBEWAL-CANDIDATE.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0d2979dcbd9605c371d2d1a085456654409cd7c",
+    "url": "https://www.tribuneindia.com/news/punjab/chabbewal-sees-son-rise-ishank-logs-emphatic-win",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deepkamal Kaur",
+    "published": "2024-11-24T01:50:00.000+02:00",
+    "title": "Chabbewal sees son rise, Ishank logs emphatic win - The Tribune",
+    "text": "By winning the Chabbewal Assembly bypoll, Dr Ishank Kumar has followed in the footsteps of his father and Hoshiarpur MP Dr Raj Kumar Chabbewal.\nLike his father, he is pursuing career in medicine as well as politics. He is also pursuing postgraduation in radiology. Today, he got elected as Chabbewal MLA. His father occupied this seat from 2017 to early this year.\nDr Ishank Kumar won by 28,690 votes, thus becoming the second youngest MLA in the present Punjab Vidhan Sabha. He polled 51,904 votes, followed by Congress’ Ranjit Kumar and BJP’s Sohan Singh Thandal. Ishank got 61 per cent vote share with his winning margin being 28,690 votes, which was way more than the total votes bagged by the first runner-up.\n“I joined politics at the age of 45, but my son has started off at 31. He is still to appear for his final semester examination of MD in Chennai and had not even joined the scanning centres that I am running in Punjab. He did not have to be trained in politics as he had seen me work. Earlier, he used to help me in elections, there was a role reversal this time. He was in the front and I was providing him the support,” said an elated father.\nThe MP father had been maintaining that by electing Dr Ishank Kumar, Chabbewal residents would get the “double engine” needed for development of the area.\n“Today’s victory has given me and our voters double power to carry forward the development works,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ishank Kumar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Raj Kumar Chabbewal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ranjit Kumar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Punjab Vidhan",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:16:05.507+02:00",
+    "updated": "2024-11-24T06:16:05.507+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "215b70228cde8618f1f41fe94337bc4dde4183bb",
+        "url": "https://www.tribuneindia.com/news/haryana/bjp-will-win-mc-elections-too-claims-party-state-head",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/haryana",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Haryana News Today | Tribune India: Latest Updates & Headlines",
+        "title": "BJP will win MC elections too, claims party state head - The Tribune",
+        "title_full": "BJP will win MC elections too, claims party state head - The Tribune",
+        "published": "2024-11-22T23:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/6740c1b75d6ac-12111243CD-_PHOTO_BADOLI21.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "215b70228cde8618f1f41fe94337bc4dde4183bb",
+    "url": "https://www.tribuneindia.com/news/haryana/bjp-will-win-mc-elections-too-claims-party-state-head",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Shiv Kumar Sharma",
+    "published": "2024-11-22T23:05:00.000+02:00",
+    "title": "BJP will win MC elections too, claims party state head - The Tribune",
+    "text": "BJP will win MC elections too, claims party state head\nBJP state president Pandit Mohan Lal Badoli said the elections of the municipal corporations (MCs) would be held soon and the party would win these with a clear majority.\nHe said the BJP won the Assembly elections on the basis of public welfare works and now it would also win the MC elections.\n“The BJP is ready for the election of the civic bodies and other civic bodies in the state,” said Badoli, who reached Maharaja Agrasen College, Jagadhri, in Yamunanagar district on Thursday evening for the party membership campaign, where he was given a grand welcome by party leaders and workers.\n“The BJP workers are engaged in strengthening the party in the entire state; soon we will achieve the target set for the membership campaign,” said Badoli.\nHe said the purpose of the membership campaign was to strengthen the organisation as much as possible for public welfare works.\n“The public burst the balloon of Congress's lies in the Assembly elections and now Congress' lies will not work in any election,” said Badoli.\nHe further said that through the membership drive, workers were not only strengthening the organisation, but were also helping people in getting the benefits of schemes by informing them about the historical work being done by the government.\n“In 2019, as many as 33 lakh primary members were made in the BJP, but this time, the target is to make 50 lakh primary members in Haryana. The workers have been given the target of adding 250 new members in the party at every booth,” said Badoli.\nHe said the Congress did not have a leader and it should choose the Leader of Opposition from among the independent or INLD MLAs.\nSenior party leader advocate Vedpal, Cabinet Minister Shyam Singh Rana, former Cabinet Minister Kanwarpal Gujjar, Yamunanagar MLA Ghanshyam Dass Arora, district President of the BJP Rajesh Sapra, former Mayor Madan Chauhan, BJP State Vice President Banto Kataria, Rakesh Tyagi, Nischal Chaudhary and other party leaders were present.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pandit Mohan Lal Badoli",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tribune BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Maharaja Agrasen College",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:50:10.264+02:00",
+    "updated": "2024-11-23T01:50:10.264+02:00"
+}

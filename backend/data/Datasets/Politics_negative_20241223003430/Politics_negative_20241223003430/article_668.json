@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "5b02fd16f436b0b266e26ab50ea4eaa165221d57",
+        "url": "https://timesofindia.indiatimes.com/city/shimla/controversy-surrounds-long-serving-mosque-president-in-himachal-pradesh/articleshow/115581145.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/city/shimla",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Shimla News: Latest Headlines, Breaking News &amp; शिमला समाचार - Times of India",
+        "title": "Controversy Surrounds Long-Serving Mosque President in Himachal Pradesh | Shimla News - Times of India",
+        "title_full": "Controversy Surrounds Long-Serving Mosque President in Himachal Pradesh | Shimla News - Times of India",
+        "published": "2024-11-23T00:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5b02fd16f436b0b266e26ab50ea4eaa165221d57",
+    "url": "https://timesofindia.indiatimes.com/city/shimla/controversy-surrounds-long-serving-mosque-president-in-himachal-pradesh/articleshow/115581145.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TNN",
+    "published": "2024-11-23T00:16:00.000+02:00",
+    "title": "Controversy Surrounds Long-Serving Mosque President in Himachal Pradesh | Shimla News - Times of India",
+    "text": "Shimla: The Himachal Pradesh Waqf Board on Friday submitted before the Shimla district court that Latif Mohammad was nominated as the president of the disputed Sanjauli mosque’s committee in 2006 and continues to hold the post.The court on Nov 18 had directed the board to clear its stand through an affidavit that under what authority Mohammad and others had consented before the municipal commissioner’s court to demolish the top three floors of the mosque allegedly constructed beyond the permissible limit.After the board presented a 2006 document pertaining to the nomination of Mohammad as Sanjauli mosque committee’s president, All Himachal Muslim Organisation (AHMO) council Vishwa Bhushan questioned how Mohammad could continue for so long on the post as the Waqf Act provides five-year tenure to a mosque committee. TNNWe also published the following articles recentlyAsad slams alacrity by courts to survey mosques over temple claimsAIMIM leader Asaduddin Owaisi has criticized a court order for a survey of the Shahi Jama Masjid in Uttar Pradesh, claiming it emboldens Hindutva groups to target mosques.115499612Uttar Pradesh: Security beefed up outside Sambhal's Shahi Masjid Mosque ahead of Friday prayersFollowing a court-ordered survey of the Shahi Jama Masjid in Sambhal, prompted by claims of it being a former temple, security measures have been heightened to maintain peace. Police presence has been reinforced, and community leaders urge worshippers to offer Friday prayers in their local mosques to avoid large gatherings.115557799Karnataka high court suspends Waqf Boards power to issue marriage certificatesThe Karnataka High Court has temporarily halted a government order that allowed the Karnataka State Waqf Board to issue marriage certificates to Muslims. The court found a strong initial case against the order, questioning the board's authority to issue such certificates.115540800",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Asaduddin Owaisi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vishwa Bhushan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohammad",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Himachal Pradesh Waqf Board",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Uttar Pradesh",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:18:23.827+02:00",
+    "updated": "2024-11-23T01:18:23.827+02:00"
+}

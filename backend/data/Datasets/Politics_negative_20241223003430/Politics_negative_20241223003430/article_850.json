@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "5e4abe30e103ee7e337e59f885f6572f503ce3bf",
+        "url": "https://www.thenews.com.pk/print/1254068-record-281-aid-workers-killed-in-2024-says-un",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "Record 281 aid workers killed in 2024, says UN",
+        "title_full": "Record 281 aid workers killed in 2024, says UN",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254068_041113_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5e4abe30e103ee7e337e59f885f6572f503ce3bf",
+    "url": "https://www.thenews.com.pk/print/1254068-record-281-aid-workers-killed-in-2024-says-un",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@AFP",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "Record 281 aid workers killed in 2024, says UN",
+    "text": "GENEVA: A staggering 281 aid workers have been killed around the world so far this year, making 2024 the deadliest year for humanitarians, the UN aid chief said on Friday. “Humanitarian workers are being killed at an unprecedented rate, their courage and humanity being met with bullets and bombs,” said Tom Fletcher, the United Nations´ new under-secretary-general for humanitarian affairs and emergency relief coordinator. With more than a month left to go of 2024, the “grim milestone was reached”, he said, after 280 humanitarians were killed across 33 countries during all of 2023. US President-elect Donald Trump.— AFP/file NEW YORK: The judge in Donald Trump´s criminal hush money case ordered... Russian President Vladimir Putin conducts an exercise of Russia's strategic nuclear deterrence forces to train actions... Pantsir-S surface-to-air missile and anti-aircraft artillery systems move through Red Square in Moscow, Russia. —... The Iranian flag flutters in front of the International Atomic Energy Agency organisation's headquarters in Vienna,... Indian Prime Minister Narendra Modi listens as President Joe Biden, not pictured, delivers remarks during an event... A Taliban security personnel stands in Baraki Barak district of Logar Province. — AFP/fileKABUL: At least 10 people...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:34:20.545+02:00",
+    "updated": "2024-11-23T01:37:45.844+02:00"
+}

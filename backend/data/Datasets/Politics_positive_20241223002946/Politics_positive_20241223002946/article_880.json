@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "87542c07213f46128ca709987294a061837f1bdc",
+        "url": "https://www.tribuneindia.com/news/patiala/after-aap-leaders-public-outrage-work-to-fix-pipeline-snag-begins-2",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "News Headlines: Top News Today & Breaking News | Tribune India",
+        "title": "After AAP leader’s public outrage, work to fix pipeline snag begins - The Tribune",
+        "title_full": "After AAP leader’s public outrage, work to fix pipeline snag begins - The Tribune",
+        "published": "2024-11-23T02:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/674147752ebc6-pat1.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "87542c07213f46128ca709987294a061837f1bdc",
+    "url": "https://www.tribuneindia.com/news/patiala/after-aap-leaders-public-outrage-work-to-fix-pipeline-snag-begins-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2024-11-23T02:39:00.000+02:00",
+    "title": "After AAP leader’s public outrage, work to fix pipeline snag begins - The Tribune",
+    "text": "After AAP leader’s public outrage, work to fix pipeline snag begins\nA day after Aam Aadmi Party (AAP) leader Major (retired) RPS Malhotra sparked controversy by accusing the municipal corporation employees of laxity and poor workmanship, during the ‘Aap Di Sarkar Apde Dwar’ programme held in the factory area, the civic body swung into action and started work to fix the sang in the faulty pipeline, which was leading to waterlogging. The event was attended by Health Minister Dr Balbir Singh.\nMalhotra had raised concerns over waterlogging in the area and alleged that a faulty pipeline installed by the civic body had exacerbated the problem. He claimed that despite repeated complaints, the issue had remained unresolved for over six months.\n“The residents have been raising this problem repeatedly, but the civic body staff have failed to address it. Even after flagging the matter to the SDO and JE concerned, no action has been taken,” Malhotra said during the event.\nResidents supported Malhotra’s complaints, highlighting the persistent inconvenience caused by the waterlogging.\nMalhotra had earlier raised the issue of a broken road in Tripuri, on which repair work was initiated.\n“People voted for AAP because they were fed up of the rampant corruption in government departments. Our government has cut out corruption from government offices,” said Malhotra.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Balbir Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Malhotra",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:24:15.936+02:00",
+    "updated": "2024-11-23T05:24:15.936+02:00"
+}

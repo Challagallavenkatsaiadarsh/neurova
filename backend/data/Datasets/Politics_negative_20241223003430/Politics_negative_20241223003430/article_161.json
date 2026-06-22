@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "99b72e8dfe74dd6fa3eef6c38e01c0f7630b2cd3",
+        "url": "https://democraticunderground.com/10143345083",
+        "site_full": "democraticunderground.com",
+        "site": "democraticunderground.com",
+        "site_section": "https://democraticunderground.com/index.php",
+        "site_categories": [],
+        "section_title": "Democratic Underground: Forums for U.S. Liberals and Democrats",
+        "title": "Gaetz joins Cameo, charging hundreds for personalized video messages",
+        "title_full": "Gaetz joins Cameo, charging hundreds for personalized video messages",
+        "published": "2024-11-23T00:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.democraticunderground.com/imgs/du100x100.gif",
+        "performance_score": 0,
+        "domain_rank": 10738,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "99b72e8dfe74dd6fa3eef6c38e01c0f7630b2cd3",
+    "url": "https://democraticunderground.com/10143345083",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:03:00.000+02:00",
+    "title": "Gaetz joins Cameo, charging hundreds for personalized video messages",
+    "text": "Source: PoliticoMatt Gaetz is following in the footsteps of another Republican who left Congress under a cloud of controversy by joining Cameo. A day after withdrawing from consideration as Donald Trumps attorney general and hours after the now-former Florida representative said in an interview that he would not return for the next Congress Gaetz created an account on the app where celebrities and other public figures can charge hundreds of dollars or more for personalized video messages. I served in Congress. Trump nominated me to be US Attorney General (that didnt work out). Once I fired the House Speaker, reads the profile for the Former Florida Congressman thats charging upwards of $500 a video. Semafor first reported Gaetzs account. Gaetz follows his one-time colleague, former Rep. George Santos (R-N.Y.) who was expelled from Congress late last year after a scathing ethics report into his conduct in attempting to cash in on his fame on Cameo. Santos, who lists himself as a Former congressional icon, charges upwards of $250 for his videos.Read more: https://www.politico.com/live-updates/2024/11/22/congress/gaetz-joins-cameo-00191352 Fucking traitor asshole.and a pedophile.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.politico.com/live-updates/2024/11/22/congress/gaetz-joins-cameo-00191352",
+        "https://politico.com/live-updates/2024/11/22/congress/gaetz-joins-cameo-00191352"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "PoliticoMatt Gaetz",
+                "sentiment": "negative"
+            },
+            {
+                "name": "George Santos",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:19:28.171+02:00",
+    "updated": "2024-11-23T00:19:28.171+02:00"
+}

@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "bf36e6687b33fef74da05966574bc00cfadd6e92",
+        "url": "https://brobible.com/culture/article/grimes-says-elon-musk-unrecognizable",
+        "site_full": "brobible.com",
+        "site": "brobible.com",
+        "site_section": "https://www.brobible.com",
+        "site_categories": [],
+        "section_title": "BroBible | The Latest Sports, Entertainment &amp; Culture News",
+        "title": "Grimes Says Elon Musk Has Become ‘Unrecognizable’ While Sharing Update On How Bad Life’s Been Lately",
+        "title_full": "Grimes Says Elon Musk Has Become ‘Unrecognizable’ While Sharing Update On How Bad Life’s Been Lately",
+        "published": "2024-11-22T21:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 10247,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bf36e6687b33fef74da05966574bc00cfadd6e92",
+    "url": "https://brobible.com/culture/article/grimes-says-elon-musk-unrecognizable",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cass Anderson",
+    "published": "2024-11-22T21:39:00.000+02:00",
+    "title": "Grimes Says Elon Musk Has Become ‘Unrecognizable’ While Sharing Update On How Bad Life’s Been Lately",
+    "text": "Elon Musk's ex Grimes, the mother of three of his children, recently spoke out about what she's been going through and how Elon has changed.\" /",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/Grimezsz/status/1859148117083304060",
+        "https://www.theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter",
+        "https://www.twitter.com/Grimezsz/status/1859148117083304060",
+        "https://theverge.com/2023/2/14/23600358/elon-musk-tweets-algorithm-changes-twitter"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Grimes",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "bf36e6687b33fef74da05966574bc00cfadd6e92",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:23:50.426+02:00",
+    "updated": "2024-11-24T05:17:17.299+02:00"
+}

@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "67db43d970f21b9b17b4589ee6db39490a062c96",
+        "url": "https://thelibertarianrepublic.com/gary-johnson-got-fewer-electors-libertarian-wasnt-even-running",
+        "site_full": "thelibertarianrepublic.com",
+        "site": "thelibertarianrepublic.com",
+        "site_section": "https://thelibertarianrepublic.com/comments/feed",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media"
+        ],
+        "section_title": "\n\tComments for The Libertarian Republic\t",
+        "title": "Comment on Gary Johnson Got Fewer Electors Than A Libertarian Who Wasn’t Even Running by sagame",
+        "title_full": "Comment on Gary Johnson Got Fewer Electors Than A Libertarian Who Wasn’t Even Running by sagame",
+        "published": "2024-11-23T00:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://thelibertarianrepublic.com/wp-content/uploads/2018/01/CNN-Fox-News-News-site-The-Libertarian-Republic.png",
+        "performance_score": 0,
+        "domain_rank": 66704,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "67db43d970f21b9b17b4589ee6db39490a062c96",
+    "url": "https://thelibertarianrepublic.com/gary-johnson-got-fewer-electors-libertarian-wasnt-even-running",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "sagame",
+    "published": "2024-11-23T00:16:00.000+02:00",
+    "title": "Comment on Gary Johnson Got Fewer Electors Than A Libertarian Who Wasn’t Even Running by sagame",
+    "text": "By Andrew Follett\nA faithless elector in Texas voted Monday for the libertarian former Rep. Ron Paul, which is one more electoral vote than Libertarian presidential candidate Gary Johnson received.\nPaul was not a candidate in the presidential election and did not receive enough popular votes in the 2016 election to be worth counting by any news service. Paul ran primary campaigns for the Republican nomination in 1988, 2008, and 2012.\nFormer New Mexico Gov. Gary Johnson was the Libertarian Party’s candidate in 2016, receiving 4,488,912 votes, or 3.28 percent of the total, nation wide. Johnson didn’t get a plurality of the votes in a single state, and therefore did not receive any electoral votes. Johnson did receive a record popular vote high for the Libertarian Party, getting more than double his 2012 vote total of 1,275,971#Elections_to_federal_office).\nTwo out of Texas 38 electoral became faithless, voting for Paul and Ohio Gov. John Kasich instead of Republican candidate Donald Trump. However, this do enough to keep Trump from becoming president-elect of the U.S. The faithless electors mean that Trump finished with a total of 304 electoral votes, instead of his election night tally of 306. This is far more than the 270 electoral votes required to become President-elect. Trump lost fewer voters than his Democratic opponent former Secretary of State Hillary Clinton, who lost four electoral votes due to faithless electors in Washington.\nTexas’ electors vote by secret ballot, so it cannot be conclusively known which of its 38 electors were faithless. However, elector Christopher Suprun stated prior to the vote that he was planning to vote for Kasich instead of Trump.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ron Paul",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Andrew Follett",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gary Johnson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "John Kasich",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Libertarian Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:32:45.409+02:00",
+    "updated": "2024-11-23T00:32:45.409+02:00"
+}

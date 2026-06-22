@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "375775e8f7bd0aa7db34a5456ebff7aab8071b7c",
+        "url": "https://texasscorecard.com/podcasts/11-22-24-free-tuition",
+        "site_full": "texasscorecard.com",
+        "site": "texasscorecard.com",
+        "site_section": "https://texasscorecard.com/feed/",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Texas Scorecard",
+        "title": "11/22/24 Free Tuition???",
+        "title_full": "11/22/24 Free Tuition???",
+        "published": "2024-11-23T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://texasscorecard.com/wp-content/uploads/2024/11/final-dhthumbnail-11-22-24-shepherd.jpg",
+        "performance_score": 0,
+        "domain_rank": 62067,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "375775e8f7bd0aa7db34a5456ebff7aab8071b7c",
+    "url": "https://texasscorecard.com/podcasts/11-22-24-free-tuition",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daily Headlines",
+    "published": "2024-11-23T01:00:00.000+02:00",
+    "title": "11/22/24 Free Tuition???",
+    "text": "– UT System Regents Approve Free Tuition for Families Making $100K or Less\n– Report Reveals Deep Flaws in Texas Ethics Commission\n– Houston Mayor Whitmire Proposes New Plan to Combat Homelessness\n– UT System Regents Approve Free Tuition for Families Making $100K or Less\n– Report Reveals Deep Flaws in Texas Ethics Commission\n– Houston Mayor Whitmire Proposes New Plan to Combat Homelessness\n– UT System Regents Approve Free Tuition for Families Making $100K or Less – Report Reveals Deep Flaws in Texas Ethics Commission – Houston Mayor Whitmire Proposes New Plan to […]\n– Abbott Directs State Funds Away from China – Paxton Sues Dallas over Marijuana Measure – State Board of Education Votes to Keep Biblical References in New Educational Materials\n– Gov. Abbott Announces Executive Order to Protect Texas’ Infrastructure From China – Fraudulent Texts Spark Controversy in Speaker Race – Gov. Abbott Accepts Mexico’s Offer to Send Water to […]\n– Measure to Create Texas Border Law Enforcement Agency Filed in Texas Senate – Gov. Abbott Issues Executive Order to Safeguard Texas from Foreign Threats – Houston Man Indicted for […]\nNo ads. No paywalls. No government grants. No corporate masters.\nJust real news for real Texans.\nSupport Texas Scorecard to keep it that way!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Education",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abbott",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:46:41.159+02:00",
+    "updated": "2024-11-23T01:46:41.159+02:00"
+}

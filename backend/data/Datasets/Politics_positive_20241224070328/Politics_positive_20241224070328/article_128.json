@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "e032e7b759f3d55e7af2b65a5f348b4b7c7e1a77",
+        "url": "https://www.cbc.ca/news/canada/ottawa/catherine-mckenney-to-run-for-ontario-ndp-in-ottawa-centre-1.7391750?cmp=rss",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Catherine McKenney to run for Ontario NDP in Ottawa Centre | CBC News",
+        "title_full": "Catherine McKenney to run for Ontario NDP in Ottawa Centre | CBC News",
+        "published": "2024-11-23T23:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.7391895.1732399318!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/catherine-mckenney-marit-stiles-ontario-ndp-candidate-nomination.jpg",
+        "performance_score": 0,
+        "domain_rank": 342,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e032e7b759f3d55e7af2b65a5f348b4b7c7e1a77",
+    "url": "https://www.cbc.ca/news/canada/ottawa/catherine-mckenney-to-run-for-ontario-ndp-in-ottawa-centre-1.7391750?cmp=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T23:54:00.000+02:00",
+    "title": "Catherine McKenney to run for Ontario NDP in Ottawa Centre | CBC News",
+    "text": "Catherine McKenney to run for Ontario NDP in Ottawa Centre McKenney, who served as Somerset ward councillor from 2014 until 2022 before launching an unsuccessful mayoral bid, will now seek a seat at Queen's Park for the NDP. Former 2-term city councillor ran unsuccessfully for mayor in 2022 CBC News · Posted: Nov 23, 2024 4:54 PM EST | Last Updated: 5 minutes ago Former Somerset ward councillor Catherine McKenney, left, poses for a photo with Ontario NDP leader Marit Stiles at Centretown United Church on Saturday. McKenney was nominated Saturday as the party's candidate for the riding of Ottawa Centre in the next provincial election. (Faith Greco/CBC)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbc.radio-canada.ca/en/vision/governance/journalistic-standards-and-practices",
+        "https://www.cbc.radio-canada.ca/en/vision/governance/journalistic-standards-and-practices"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Catherine McKenney",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Marit Stiles",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ontario NDP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Centre",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:03:56.679+02:00",
+    "updated": "2024-11-24T03:04:12.505+02:00"
+}

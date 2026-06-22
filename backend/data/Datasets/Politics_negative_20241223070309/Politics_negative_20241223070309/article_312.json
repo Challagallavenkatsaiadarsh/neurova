@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "5c0845679064dea2cc57fff9756636dfb8296b4b",
+        "url": "https://www.mediaite.com/sports/dana-white-done-with-disgusting-politics-after-using-ufc-to-help-elect-trump-i-want-nothing-to-do-with-this-sht",
+        "site_full": "www.mediaite.com",
+        "site": "mediaite.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_cl",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "Dana White Done with Politics After Using UFC to Help Trump",
+        "title_full": "Dana White Done with Politics After Using UFC to Help Trump",
+        "published": "2024-11-23T00:18:00.000+02:00",
+        "replies_count": 12,
+        "participants_count": 13,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.mediaite.com/wp-content/uploads/2022/03/Untitled-design-9.png",
+        "performance_score": 0,
+        "domain_rank": 3566,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5c0845679064dea2cc57fff9756636dfb8296b4b",
+    "url": "https://www.mediaite.com/sports/dana-white-done-with-disgusting-politics-after-using-ufc-to-help-elect-trump-i-want-nothing-to-do-with-this-sht",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kipp Jones",
+    "published": "2024-11-23T00:18:00.000+02:00",
+    "title": "Dana White Done with Politics After Using UFC to Help Trump",
+    "text": "UFC CEO Dana White told The New Yorker this week that he is walking away from politics after successfully using his MMA organization and its high-profile boosters to elevate President-elect Donald Trump to a second term.\nWhite, a prominent face at Trump events and a longtime friend of the former and future president, described politics as “disgusting” during an interview with the outlet’s Sam Eagan that was published on Tuesday.\nTrump appeared at UFC 309 last Saturday inside New York’s Madison Square Garden alongside White, Elon Musk , and many other MAGA stars .\nEagan spoke to the MMA promoter and wrote at length about his relationship with Trump – and Trump’s relationship with mixed martial arts fans:\nWhen Trump launched his first Presidential campaign in 2015, White was one of the first public figures to endorse him. And during and after his first term, Trump was able to look to the U.F.C. as a sort of safe space., In October, 2019, Trump was roundly booed at a World Series game in Washington, D.C. The next week, he went to a U.F.C. event at M.S.G. “Every time when he was getting hammered at his worst, we’d walk into that arena and the place erupts and goes crazy,” White told me. “It shows other people, Oh, wait. Everybody doesn’t hate Donald Trump like the media is telling us.”\n[…]\nDuring Trump’s 2024 campaign, White played a pivotal role in brokering relationships between Trump and certain hosts among the canon of “bro-casts”: Lewan and his co-host, Will Compton, Theo Von, Adin Ross, Andrew Schulz, the Nelk Boys, and, of course, Rogan.\nWhite explained that the goal was to mobilize members of the younger generation that typically don’t vote. Young men, one of the most unreliable demographics in politics, make up a large part of U.F.C.’s audience. “You’re getting conversations in these podcasts, and you yourself, as a young kid, get to really see who Donald Trump is,” White explained. “Not the bullshit you hear from the far-left media.” During Trump’s victory speech, he invited White onstage, and White specifically thanked Von, Ross, the Nelk Boys, and other podcasters for their help.\nWhite also spoke of the July attempted assassination of Trump in Butler, Pennsylvania, and told Eagan he views him as a “badass.”\n“Donald Trump is tougher and more badass than anybody,” he said. “You can only pray that you’re a quarter of the man that Donald Trump was when a guy tried to take seven shots at his head with a high powered rifle with a fucking scope on it.”\nThe UFC CEO also declared that 2024 would be the final time he would use his company to help a political candidate.\n“I’m never fucking doing this again,” White told Eagan. “I want nothing to do with this shit. It’s gross. It’s disgusting. I want nothing to do with politics.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newyorker.com/news/the-lede/donald-trumps-ufc-victory-party",
+        "https://newyorker.com/news/the-lede/donald-trumps-ufc-victory-party"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dana White",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sam Eagan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MMA",
+                "sentiment": "none"
+            },
+            {
+                "name": "UFC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Square Garden",
+                "sentiment": "none"
+            },
+            {
+                "name": "D.C",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:36:42.288+02:00",
+    "updated": "2024-11-23T09:56:00.879+02:00"
+}

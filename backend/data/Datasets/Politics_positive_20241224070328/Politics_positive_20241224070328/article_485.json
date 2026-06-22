@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "858a236df2151af78f788e5263428759ef936419",
+        "url": "https://www.wctv.tv/2024/11/24/franklin-jr-famu-storms-past-bethune-cookman-win-fourth-straight-florida-classic",
+        "site_full": "www.wctv.tv",
+        "site": "wctv.tv",
+        "site_section": "http://www.wctv.tv/homepage",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WCTV | News, Weather and Sports | Tallahassee, FL",
+        "title": "Franklin Jr., FAMU storms past Bethune-Cookman to win fourth straight Florida Classic",
+        "title_full": "Franklin Jr., FAMU storms past Bethune-Cookman to win fourth straight Florida Classic",
+        "published": "2024-11-24T03:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wctv-prod.gtv-cdn.com/resizer/v2/77KGNNQ5QVCK7HK26OBMOVFHC4.jpg?auth=98fab12716443cbb78e5d086c5884c5c39e9ce2365df033f4ae2938b4ab75bbc&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 19387,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "858a236df2151af78f788e5263428759ef936419",
+    "url": "https://www.wctv.tv/2024/11/24/franklin-jr-famu-storms-past-bethune-cookman-win-fourth-straight-florida-classic",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Kelly",
+    "published": "2024-11-24T03:23:00.000+02:00",
+    "title": "Franklin Jr., FAMU storms past Bethune-Cookman to win fourth straight Florida Classic",
+    "text": "Franklin Jr., FAMU storms past Bethune-Cookman to win fourth straight Florida Classic\nORLANDO, Fla. (WCTV) - The Florida A&M Rattlers struck early, often and when it mattered most against their arch-rivals from Daytona Beach on Saturday, making just enough plays to outlast the Bethune-Cookman Wildcats 41-38 in FAMU’s fourth straight victory in the series.\nThe Rattlers would jump to a quick 7-0 lead following a 17 yard touchdown rush from Thad Franklin Jr., but B-CU would strike back quickly following a Maleek Huggins punt return TD to tie the game at seven.\nFAMU would notch on a field goal to end the quarter and then open the scoring in the second as Daniel Richardson found Jamari Gassett for a 12 yard TD to give the designated road team a 17-7 advantage.\nThe rest of the quarter however belonged to the Wildcats, scoring 14 unanswered and taking a 21-17 advantage into halftime.\nAfter a Bethune field goal extended the Rattler deficit to seven points, Franklin Jr. would find the end zone yet again from two yards out to tie the game at 24. A Cameron Gillis field goal gave FAMU a 27-24 lead into the fourth.\nFrom there a wild fourth quarter ensued with the two bitter rivals trading scores starting with Franklin Jr.’s third and longest of the night from 70 yards after a missed B-CU field goal. Kelvin Dean would bring across what would eventually be the winning score, rushing to the end zone from 11 yards out.\nJames Colzie’s squad will host Alabama A&M on Friday at Bragg Memorial Stadium to finish the 2024 season.\nTo stay up to date on all the latest news as it develops, follow WCTV on [Facebook](https://www.facebook.com/WCTV.tv/) and [X](https://twitter.com/WCTV) ([Twitter](https://twitter.com/WCTV)).\nHave a news tip or see an error that needs correction? [Write us here](mailto:news@wctv.tv?subject=Correction%20Needed). Please include the article’s headline in your message.\nKeep up with all the biggest headlines on the WCTV News app. Click [here](https://wctv.tv/2023/04/18/wctv-news-app) to download it now.\nCopyright 2024 WCTV. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/WCTV.tv/",
+        "https://twitter.com/WCTV",
+        "https://www.facebook.com/WCTV.tv",
+        "https://www.twitter.com/WCTV",
+        "https://facebook.com/WCTV.tv/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Thad Franklin Jr.",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Daniel Richardson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cameron Gillis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jamari Gassett",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FAMU",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bethune-Cookman Wildcats",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "858a236df2151af78f788e5263428759ef936419",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:20:45.920+02:00",
+    "updated": "2024-11-29T06:22:53.267+02:00"
+}

@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "528b23e477a779f54aa36ed317197b057db8b440",
+        "url": "https://www.tribuneindia.com/news/himachal/unite-for-employees-welfare-federation-leader",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/himachal",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Himachal News (ਹਿਮਾਚਲ ਖ਼ਬਰਾਂ): Latest Updates, Politics, & Tourism",
+        "title": "Unite for employees welfare: Federation leader - The Tribune",
+        "title_full": "Unite for employees welfare: Federation leader - The Tribune",
+        "published": "2024-11-22T23:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/10/67123f6ef1f60-Pic1.jpeg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "528b23e477a779f54aa36ed317197b057db8b440",
+    "url": "https://www.tribuneindia.com/news/himachal/unite-for-employees-welfare-federation-leader",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Correspondent",
+    "published": "2024-11-22T23:10:00.000+02:00",
+    "title": "Unite for employees welfare: Federation leader - The Tribune",
+    "text": "Unite for employees' welfare: Federation leader\nThe Himachal Pradesh Non Gazetted Officers (NGO) Federation had become weak, divided and was not working towards the welfare of the employees of the state government, said Tara Singh, senior vice-president of the Una district unit of the federation.\nIn a press release issued here, the employee union leader said the federation, constituted on November 20, 1966, was made with the objective to organise and unite the state government employees under one forum and to work towards their welfare, besides putting forward the genuine demands of the employees to the government.\nTara Singh said it was sad that due to the vested interests of some employee leaders, parallel bodies had come up within the organisation weakening the structure. He said it was time to introspect and unite in the interest of the employees. He said in the present circumstances, state level meetings of the NGO Federation were not being held and consequently, decisions regarding the demand charters to the government were not being taken.\nTara Singh called upon the leaders of the NGO Federation to sit together, iron out differences and unitedly frame resolutions regarding their demands and call a meeting of the joint consultative committee to raise the demands of different employee cadres which were still pending.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tara Singh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Himachal Pradesh Non",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:45:16.408+02:00",
+    "updated": "2024-11-23T01:45:16.408+02:00"
+}

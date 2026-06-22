@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "0584b568b381648e7553a3b59e36af2fc2678adc",
+        "url": "https://www.kptv.com:443/2024/11/22/oregon-gov-says-she-will-step-if-st-helens-district-doesnt-swiftly-address-sex-abuse-scandal",
+        "site_full": "www.kptv.com",
+        "site": "kptv.com",
+        "site_section": "https://kptv.com/sports",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Sports",
+        "title": "Oregon Gov. says she will step in if St. Helens district doesn’t swiftly address sex abuse scandal",
+        "title_full": "Oregon Gov. says she will step in if St. Helens district doesn’t swiftly address sex abuse scandal",
+        "published": "2024-11-22T23:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-kptv-prod.gtv-cdn.com/resizer/v2/A55F2OISBZGRNG2NZUJPTSUUS4.png?auth=6a810611b1a4e731540ed287ea1e2362b1363fb202bfe3b1294f387173cb8ec5&amp;width=1200&amp;height=600&amp;smart=false&amp;focal=1112%2C637",
+        "performance_score": 0,
+        "domain_rank": 10308,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0584b568b381648e7553a3b59e36af2fc2678adc",
+    "url": "https://www.kptv.com:443/2024/11/22/oregon-gov-says-she-will-step-if-st-helens-district-doesnt-swiftly-address-sex-abuse-scandal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX 12 Staff",
+    "published": "2024-11-22T23:40:00.000+02:00",
+    "title": "Oregon Gov. says she will step in if St. Helens district doesn’t swiftly address sex abuse scandal",
+    "text": "ST. HELENS Ore. (KPTV) - Oregon Governor Tina Kotek sent a letter to the city of St. Helens on Friday, vowing to step in and take control if the school district doesn’t swiftly address the sex abuse scandal that has rocked the small community in recent weeks.\n“My duty as your Governor, and the superintendent of public education, is to ensure the safety and well-being of all students that enter our schools, each and every day. I am taking this issue very seriously and I offer my sincere condolences for the current situation that your community is facing, including the trust broken by the lack of transparency and immediate response to the allegations by district leadership,” wrote Kotek. “My team has been working with the Oregon Department of Education, education partners, and our congressional delegation to support the district. I understand that an acting superintendent will be appointed swiftly. If this expectation is not met within 14 days, I am prepared to escalate the state’s engagement with the district and make a recommendation for an interim superintendent.”\nPREVIOUS COVERAGE:\nSt. Helens police detectives are investigating a middle school teacher for alleged “criminal activity” involving students, they announced Thursday. One St. Helens High School teacher and one former teacher have been arrested and face sex abuse charges involving students.\nPlus, a St. Helens Middle School teacher is under investigation for criminal conduct involving students, St. Helens police said in a statement Thursday.\nPREVIOUS COVERAGE:\nSt. Helens High School students returned to class Tuesday in the wake of a teacher sex abuse scandal. Two other high school employees are also under investigation by the state Department of Human Services for allegations, and ODHS also announced that Superintendent Scot Stockwell and St. Helens High School principal Katy Wagner are both under investigation for alleged failure to report potential child abuse.\nThe chair of the St. Helens School Board, Ryan Scholl, also stepped down last week.\nCopyright 2024 KPTV-KPDX. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20241120/673d2e594b7d490447ef9aec/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4",
+        "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20241122/67401f7a403b82535d2f2a8a/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4",
+        "https://www.d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20241122/67401f7a403b82535d2f2a8a/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4",
+        "https://www.d1l66zlxaqpl1u.cloudfront.net/wp-gray/kptv/20241120/673d2e594b7d490447ef9aec/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tina Kotek",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oregon Department of Education",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "St. Helens",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:28:25.901+02:00",
+    "updated": "2024-11-23T00:28:25.901+02:00"
+}

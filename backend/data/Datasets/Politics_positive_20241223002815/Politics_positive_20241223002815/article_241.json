@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "e7ec2b57c6be105f09c14c55e6bb35c753261e27",
+        "url": "https://www.fijivillage.com/feature/Fiji-welcomes-RFNS-Timo-from-Australia-8rx5f4",
+        "site_full": "www.fijivillage.com",
+        "site": "fijivillage.com",
+        "site_section": "https://www.fijivillage.com/feature/deportation-proceeding-underway-for-adult-stars-bonnie-blue-and-annie-knight-fx548r",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Deportation proceeding underway for adult stars Bonnie Blue and Annie Knight",
+        "title": "Fiji welcomes RFNS Timo from Australia",
+        "title_full": "Fiji welcomes RFNS Timo from Australia",
+        "published": "2024-11-22T22:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://www.fijivillage.com/news_images/20395282706740eefe2e025acf0bc6.jpg",
+        "performance_score": 0,
+        "domain_rank": 89316,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7ec2b57c6be105f09c14c55e6bb35c753261e27",
+    "url": "https://www.fijivillage.com/feature/Fiji-welcomes-RFNS-Timo-from-Australia-8rx5f4",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "fijivillage",
+    "published": "2024-11-22T22:52:00.000+02:00",
+    "title": "Fiji welcomes RFNS Timo from Australia",
+    "text": "Following the decommissioning of RFNS Puamau, Fiji has welcomed the Guardian-class patrol boat RFNS Timo, another gift from Australia.\nThe $18 million Navy vessel RFNS Puamau, which was also donated by Australia, was damaged beyond repair after running aground on a reef in Lau in June, just a month after its commissioning.\nMinister for Defence Pio Tikoduadua says this remarkable addition to Fiji's maritime fleet strengthens the nation’s ability to safeguard its waters, protecting its natural resources, and upholding regional security.\nHe says this donation stands as a testament to the enduring partnership and shared commitment between Fiji and Australia.\nTikoduadua expressed gratitude to the Australian Vuvale for their invaluable support, adding that together, they are navigating towards a future of strengthened ties and mutual progress.\nThis is the third Guardian-class patrol boat delivered to Fiji, following the commissioning of RFNS Savenaca in 2020.\nStay tuned for the latest news on our radio stations",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pio Tikoduadua",
+                "sentiment": "none"
+            },
+            {
+                "name": "Timo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Navy",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lau",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:23:00.227+02:00",
+    "updated": "2024-11-23T01:23:00.227+02:00"
+}

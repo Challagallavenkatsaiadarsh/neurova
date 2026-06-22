@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "7db35dc6e19aef63aa91a9a08983de6f535415ed",
+        "url": "https://www.irishexaminer.com/sport/soccer/arid-41522507.html",
+        "site_full": "www.irishexaminer.com",
+        "site": "irishexaminer.com",
+        "site_section": "https://www.irishexaminer.com/maintopics/conor-mcgregor_topic-5084510.html",
+        "site_categories": [
+            "tech",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "#Conor McGregor",
+        "title": "Pep Guardiola: 75 per cent of Premier League clubs want Man City relegated",
+        "title_full": "Pep Guardiola: 75 per cent of Premier League clubs want Man City relegated",
+        "published": "2024-11-23T00:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://www.irishexaminer.com/cms_media/module_img/8782/4391027_6_seoimageog_SOCCER_20Man_20City_20_2020053284.jpg",
+        "performance_score": 0,
+        "domain_rank": 3394,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7db35dc6e19aef63aa91a9a08983de6f535415ed",
+    "url": "https://www.irishexaminer.com/sport/soccer/arid-41522507.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andy Hampson, PA",
+    "published": "2024-11-23T00:30:00.000+02:00",
+    "title": "Pep Guardiola: 75 per cent of Premier League clubs want Man City relegated",
+    "text": "Pep Guardiola claims three-quarters of the Premier League want to see Manchester City relegated over financial irregularities. But the City boss has vowed to stay on and lift the club back to the top even if they are sent all the way down to the National League. Guardiola ended speculation over his immediate future this week by extending his contract, which had been due to expire at the end of the season, through to the summer of 2027. That has given the club some stability at a time of great uncertainty as they fight 115 charges related to alleged breaches of the Premier League’s financial regulations. City have denied all wrongdoing but their punishment if found guilty could be severe, with demotion even a possibility. Guardiola has strongly defended the club in the past and is happy to continue doing so. The Spaniard said: “I don’t enjoy it, I prefer not to be in that position, but once it’s there I love it because, when you believe in your club, and the people there – I believe what they say to me and the reasons why. “I cannot say yet because we’re awaiting the sentence in February or March – I don’t know when – but at the same time, I like it. “I read something about the situation and how you need to be relegated immediately. Seventy-five per cent of the clubs want it, because I know what they do behind the scenes and this sort of stuff. “I said when all the clubs accused us of doing something wrong, (and people asked) what happens if we are relegated, (I said) I will be here. “Next year, I don’t know the position of the Conference they are going to (put) us, (but) we are going to come up and come up and come back to the Premier League. I knew it then and I feel it now.” The immediate priority for Guardiola, who said his contract negotiations were completed in “just two hours”, is to arrest a run of four successive defeats in all competitions. Yet, ahead of their return to action against Tottenham at the Etihad Stadium on Saturday, the champions continue to grapple with a lengthy injury list. Mateo Kovacic is their latest casualty after sustaining a knock on international duty that could keep him out for up to a month. On the positive side, defenders Nathan Ake, John Stones and Manuel Akanji could feature and Jack Grealish is also closing in on a return after a month out. Much to Guardiola’s frustration, Grealish was called up by England for their recent Nations League games, although he later withdrew. Guardiola said: “I want the best for Jack and I want the best for Jack with the national team but the doctor said to me that he was not ready to play. “I know (England) want him but they have 200 players to select from and Jack was not fit. He had to recover from many things.” Kyle Walker played for England against both Greece and the Republic of Ireland despite limited game time since suffering injury in the October international break. Guardiola said: “If he is fit I like him to play in the national team. It is not a problem, don’t misunderstand me. “Kyle has a dream to make 100 caps for the national team. Do I want to cancel this dream? Absolutely not. “But if you are not fit, if you cannot play here, you cannot play for the national team. It is quite obvious.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Guardiola",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "7db35dc6e19aef63aa91a9a08983de6f535415ed",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:42:35.596+02:00",
+    "updated": "2024-11-23T01:11:55.291+02:00"
+}

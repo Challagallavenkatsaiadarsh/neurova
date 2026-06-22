@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "0fe384376540312c66614a3194f9e4d55cf5ac01",
+        "url": "https://www.aha.org/news/headline/2024-11-22-aha-others-urge-congress-act-alternative-payment-models-avoid-physician-payment-cut",
+        "site_full": "www.aha.org",
+        "site": "aha.org",
+        "site_section": "https://aha.org/advocacy-agenda",
+        "site_categories": [
+            "health"
+        ],
+        "section_title": "AHA Advocacy Agenda 2024 | AHA",
+        "title": "AHA, others urge Congress to act on alternative payment models, avoid physician payment cut | AHA News",
+        "title_full": "AHA, others urge Congress to act on alternative payment models, avoid physician payment cut | AHA News",
+        "published": "2024-11-22T22:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.aha.org/sites/default/files/2018-04/AHA%20proposed%20rule%20comment.jpg",
+        "performance_score": 0,
+        "domain_rank": 5354,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0fe384376540312c66614a3194f9e4d55cf5ac01",
+    "url": "https://www.aha.org/news/headline/2024-11-22-aha-others-urge-congress-act-alternative-payment-models-avoid-physician-payment-cut",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "hnesich_drupal",
+    "published": "2024-11-22T22:01:00.000+02:00",
+    "title": "AHA, others urge Congress to act on alternative payment models, avoid physician payment cut | AHA News",
+    "text": "AHA, others urge Congress to act on alternative payment models, avoid physician payment cut\nThe AHA and 22 other organizations Nov. 22 [urged](https://www.aha.org/2024-11-22-aha-others-urge-congress-extend-medicare-advanced-alternative-payment-model-end-year-legislative-package?utm_source=newsletter&utm_medium=email&utm_campaign=aha-today) Congress to pass an end-of-year health care package that includes action on alternative payment models and a scheduled physician payment cut. The organizations requested an extension of Medicare’s Advanced Alternative Payment Model incentive payments, ensure that APM qualifying thresholds remain attainable and replacement of a scheduled cut to Medicare physician payments with an update reflective of inflationary pressures.\n\"These payment reforms have generated more than $28 billion in gross savings for Medicare over the past decade,\" the organizations wrote. \"The Centers for Medicare & Medicaid Services (CMS) recently released results showing that the Medicare Shared Savings Program and [Accountable Care Organization] REACH Model, the largest APMs in Medicare, generated $2.8 billion in net savings for the Medicare program in 2023, while improving patient access and quality.\"\nThe organizations said continuance of the incentives and alleviating cuts to physician payment will ensure beneficiaries’ continued access to high quality, patient-centered care.\nRelated News Articles\n[Senate report scrutinizes Medicare Advantage prior authorization denials for post-acute care services](/news/headline/2024-10-17-senate-report-scrutinizes-medicare-advantage-prior-authorization-denials-post-acute-care-services)\n[AHA letter to president urges Administration to take immediate action to address IV solution supply shortage as a result of Helene](/news/headline/2024-10-07-aha-letter-president-urges-administration-take-immediate-action-address-iv-solution-supply-shortage)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Health",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Centers for Medicare & Medicaid Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:20:06.446+02:00",
+    "updated": "2024-11-28T04:28:24.254+02:00"
+}

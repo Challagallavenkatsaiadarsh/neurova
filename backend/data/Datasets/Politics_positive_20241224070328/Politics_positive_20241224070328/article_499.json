@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "707c97938d3e1a805f9d9436067053336af213e7",
+        "url": "https://thecountersignal.com/dreeshen-unveils-revolutionary-passenger-rail-plan",
+        "site_full": "thecountersignal.com",
+        "site": "thecountersignal.com",
+        "site_section": "https://thecountersignal.com",
+        "site_categories": [],
+        "section_title": "The Counter Signal | Alternative News and Media",
+        "title": "Dreeshen unveils revolutionary passenger rail plan",
+        "title_full": "Dreeshen unveils revolutionary passenger rail plan",
+        "published": "2024-11-24T02:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://thecountersignal.com/wp-content/uploads/2024/11/1-59.jpg",
+        "performance_score": 0,
+        "domain_rank": 103665,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "707c97938d3e1a805f9d9436067053336af213e7",
+    "url": "https://thecountersignal.com/dreeshen-unveils-revolutionary-passenger-rail-plan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TCS Wire",
+    "published": "2024-11-24T02:37:00.000+02:00",
+    "title": "Dreeshen unveils revolutionary passenger rail plan",
+    "text": "Alberta’s Transportation Minister Devin Dreeshen announced on Friday a 15-year visionary plan that could redefine travel within the province.\nDubbed the Passenger Rail Master Plan, the project seeks to weave Alberta’s communities closer together through an extensive rail network.\n“Premier[ @ABDanielleSmith](https://x.com/ABDanielleSmith) and I are leading Alberta into a future where our transportation network is modern, reliable, and works for all,” Dreeshen stated.\nThe plan outlines several key initiatives:\nThe first is the introduction of commuter rail systems, designed to link Calgary and Edmonton with their international airports and surrounding suburban areas. Proposals for a high-speed rail between Calgary and Edmonton, featuring a stop in Red Deer, would transform travel between Alberta’s two biggest cities.\nOn top of providing commuters a new option, the rail would also alleviate traffic congestion amid Alberta’s population boom.\nBeyond urban connectivity, the plan also eyes the tourism sector, envisioning the environmentally-friendly rail lines stretching towards the Rocky Mountain parks like Banff and Jasper.\nThe plan also seeks to increase accessibility and boost economic development by connecting more remote areas like Fort McMurray and Grande Prairie to the main rail network.\nThe development of this network will be overseen by a new Crown corporation, modeled after Ontario’s Metrolinx, to ensure integrated planning and operation.\nDreeshen emphasized the government’s commitment to public engagement, with an online [survey](https://www.alberta.ca/passenger-rail) open for input until December 20, 2024, ensuring the plan reflects the needs and desires of Albertans.\nThe timeline projects the completion of the master plan by summer 2025, setting the stage for construction to begin as early as 2027, pending further studies and approvals.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/ABDanielleSmith",
+        "https://www.alberta.ca/passenger-rail",
+        "https://www.x.com/ABDanielleSmith",
+        "https://alberta.ca/passenger-rail"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Devin Dreeshen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:25:45.307+02:00",
+    "updated": "2024-11-24T04:25:45.307+02:00"
+}

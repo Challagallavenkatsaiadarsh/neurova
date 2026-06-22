@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "4f1f47ab19c9ff56dda4ddbbb38ecd7066eba177",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/very-confident-atmosphere-is-in-favour-of-india-bloc-ashok-gehlot-on-maharashtra-jharkhand-polls/articleshow/115585309.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Times of India",
+        "title": "Ashok Gehlot on Maharashtra, Jharkhand polls: 'Very confident; atmosphere is in favour of INDIA bloc' | Jaipur News - Times of India",
+        "title_full": "Ashok Gehlot on Maharashtra, Jharkhand polls: 'Very confident; atmosphere is in favour of INDIA bloc' | Jaipur News - Times of India",
+        "published": "2024-11-23T04:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115585467,width-1070,height-580,imgsize-23792,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4f1f47ab19c9ff56dda4ddbbb38ecd7066eba177",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/very-confident-atmosphere-is-in-favour-of-india-bloc-ashok-gehlot-on-maharashtra-jharkhand-polls/articleshow/115585309.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TOI City Desk",
+    "published": "2024-11-23T04:07:00.000+02:00",
+    "title": "Ashok Gehlot on Maharashtra, Jharkhand polls: 'Very confident; atmosphere is in favour of INDIA bloc' | Jaipur News - Times of India",
+    "text": "JAIPUR: Congress leader Ashok Gehlot expressed strong confidence in the INDIA bloc's performance in the Maharashtra and Jharkhand assembly elections. He dismissed exit polls predicting victory for the BJP-led NDA.Also See: Election Results 2024 “If the exit polls are speaking against us, they were in our favour in Haryana. When the results start coming, we will know the situation. We are fully confident that the people have given their blessings to the India block. INDIA Bloc fought the elections together and the atmosphere is in our favour,” Gehlot stated. He criticized the BJP for what he called a pattern of creating \\\"an environment of unrest\\\" and polarization. Vote counting for both states, along with several by-elections, is scheduled to begin at 8 am today. The Maharashtra elections saw a three-way contest between the BJP-Shiv Sena-NCP alliance (Mahayuti), the Congress-Shiv Sena (UBT)-NCP (SP) alliance (MVA), and other smaller parties. Voter turnout in Maharashtra was significantly higher than in 2019, reaching 66.05%.Jharkhand completed its single-phase election on November 13th, with the INDIA bloc constituents (JMM, Congress, RJD, and CPI(ML)) facing off against the BJP, AJSU, JD(U), and LJP. By-elections in nine assembly seats in Uttar Pradesh and a total of 48 assembly and two Lok Sabha seats across 15 states were also held. This included Congress leader Priyanka Gandhi Vadra's electoral debut in Wayanad, Kerala.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashok Gehlot",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jaipur News - Times",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haryana",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:54:13.734+02:00",
+    "updated": "2024-11-23T04:54:13.734+02:00"
+}

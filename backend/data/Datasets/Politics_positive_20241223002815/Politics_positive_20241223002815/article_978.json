@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "e2b735fbec9cfb2aa0b9919d4811d0a1e6a170ed",
+        "url": "https://www.thestatesman.com/bengal/si-meghnad-mondal-promoted-as-oc-of-andal-ps-1503367914.html",
+        "site_full": "www.thestatesman.com",
+        "site": "thestatesman.com",
+        "site_section": "https://thestatesman.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest News, India News, Breaking News, Today&#039;s News Headlines Online | The Statesman",
+        "title": "SI Meghnad Mondal promoted as OC of Andal PS",
+        "title_full": "SI Meghnad Mondal promoted as OC of Andal PS",
+        "published": "2024-11-23T03:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 13679,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e2b735fbec9cfb2aa0b9919d4811d0a1e6a170ed",
+    "url": "https://www.thestatesman.com/bengal/si-meghnad-mondal-promoted-as-oc-of-andal-ps-1503367914.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SNS",
+    "published": "2024-11-23T03:28:00.000+02:00",
+    "title": "SI Meghnad Mondal promoted as OC of Andal PS",
+    "text": "Sub-inspector Meghnad Mondal of Sripur police outpost in Jamuria has been rewarded and promoted as the new officer in-charge of Andal police station. Cancelling the earlier order of SI Manoranjan Mondal as the OC of Andal police station today, a fresh order has been issued by Sunil Kumar Choudhury, CP of Asansol Durgapur Police Commissionerate (ADPC).\nEarlier, SI Manoranjan Mondal, OC of Barabani Police Station had been transferred as the new OC of Andal police station. It should be mentioned that last night SI Manoranjan Mondal was suspended for unprofessional approach and dereliction of duty by the CP of ADPC.\nIncidentally, SI Meghnad Mondal has shot to fame for his act of bravery after he prevented a daring dacoity at a jewellery showroom in Raniganj a few months ago. He fought alone with a number of heavily armed interstate dacoits and fired from close range, injuring the mastermind.\nDue to his heroic effort the entire gang was detected and most of the members were arrested and the looted jewellery seized.\nIt is believed that he was elevated as the OC of Andal police station for his act of bravery.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Meghnad Mondal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sunil Kumar Choudhury",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Barabani Police Station",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:03:13.023+02:00",
+    "updated": "2024-11-23T06:03:13.023+02:00"
+}

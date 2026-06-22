@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "ab24d5a27431ff4f343231555def411cc9a438b2",
+        "url": "https://www.sentinelassam.com/topheadlines/ministry-of-road-transport-and-highways-allocates-rs-2150-crore-for-national-highways-works-in-ne",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "Ministry of Road Transport and Highways allocates Rs 2,150 crore for National Highways works in NE",
+        "title_full": "Ministry of Road Transport and Highways allocates Rs 2,150 crore for National Highways works in NE",
+        "published": "2024-11-22T23:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-23%2Ftd9s6vxn%2Fsentinelassam-english2024-10-307601hjrfMinistry-of-Road-Transport-Highways.avif?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ab24d5a27431ff4f343231555def411cc9a438b2",
+    "url": "https://www.sentinelassam.com/topheadlines/ministry-of-road-transport-and-highways-allocates-rs-2150-crore-for-national-highways-works-in-ne",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-22T23:04:00.000+02:00",
+    "title": "Ministry of Road Transport and Highways allocates Rs 2,150 crore for National Highways works in NE",
+    "text": "Staff Reporter\nGuwahati: The Ministry of Road Transport and Highways (MoRTH) allocated Rs 2,150 crore to the NE states for incurring expenditure on the National Highways (original) works during the current financial year 2024-25. Of the total allocation of Rs 2,150 crore, a sum of Rs 180 crore is earmarked for the state of Assam.\nThis was revealed in a letter issued by MoRTH to its principal chief controller of accounts on November 18, 2024.\nAccording to the letter, the allocation of funds for Arunachal Pradesh is Rs 1,650 crore, Rs 180 crore for Assam, Rs 15 crore for Manipur, Rs 35 crore for Meghalaya, Rs 35 crore for Mizoram, Rs 174 crore for Nagaland, Rs 50 crore for Sikkim, and Rs 15 crore for Tripura. Some funds are from MoRTH’s Gross Budgetary Support (GBS), and some funds are derived from the Central Road Infrastructure Fund (CRIF). When funds are allocated by MoRTH to the states for the development of National Highways (Original), the state PWD’s NH division gets the funds for the development of NHs under their jurisdiction.\nMoreover, the letter said, while entertaining the claims on the basis of allocation referred to, it should be ensured that: (i) Expenditure is incurred only on sanctioned works on National Highways only; (ii) No claim is entertained for expenditure incurred on any sanctioned works in excess of the sanctioned cost beyond permissible limits; and (iii) No expenditure is admitted on work/portion of the work where it might have been specifically advised not to incur any expenditure pending receipt/approval of certain issues/points, etc.\nAlso Read: AI-powered voice analysis may evolutionize diagnosis of Parkinson’s disease\nAlso Watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ministry of Road Transport",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CRIF",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Meghalaya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nagaland",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mizoram",
+                "sentiment": "none"
+            },
+            {
+                "name": "Manipur",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tripura",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sikkim",
+                "sentiment": "none"
+            },
+            {
+                "name": "Assam",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:28:10.430+02:00",
+    "updated": "2024-11-23T04:28:10.430+02:00"
+}

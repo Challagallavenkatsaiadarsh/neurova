@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "ac33e3b3c3dc64294a2f03675ad9326ddbad6bed",
+        "url": "https://tylerpaper.com/news/national/volodymyr-zelensky-called-the-strike-final-proof-that-russia-definitely-does-not-want-peace/image_59d4587c-a2d5-515a-867f-4415f7191266.html",
+        "site_full": "tylerpaper.com",
+        "site": "tylerpaper.com",
+        "site_section": "https://tylerpaper.com/search",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Search | tylerpaper.com",
+        "title": "Volodymyr Zelensky called the strike 'final proof that Russia definitely does not want peace' | National | tylerpaper.com",
+        "title_full": "Volodymyr Zelensky called the strike 'final proof that Russia definitely does not want peace' | National | tylerpaper.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/5/9d/59d4587c-a2d5-515a-867f-4415f7191266/673fb12eef7f5.image.jpg?crop=361%2C361%2C75%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 21394,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ac33e3b3c3dc64294a2f03675ad9326ddbad6bed",
+    "url": "https://tylerpaper.com/news/national/volodymyr-zelensky-called-the-strike-final-proof-that-russia-definitely-does-not-want-peace/image_59d4587c-a2d5-515a-867f-4415f7191266.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Attila KISBENEDEK",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Volodymyr Zelensky called the strike 'final proof that Russia definitely does not want peace' | National | tylerpaper.com",
+    "text": "Volodymyr Zelensky called the strike 'final proof that Russia definitely does not want peace' - Attila KISBENEDEK - Updated Tags As featured on Russian President Vladimir Putin said Thursday that the conflict in Ukraine had characteristics of a \"global\" war and did not rule out strikes on Western countries. Trending Topics - ['They deserve it': Hispanic achievements take center stage at Tyler HBA luncheon](/news/business/they-deserve-it-hispanic-achievements-take-center-stage-at-tyler-hba-luncheon/article_72bc6b5c-a860-11ef-ae83-9b3c16d3c15b.html) - [UT system moves to allow free tuition for qualifying students](/news/education/ut-system-moves-to-allow-free-tuition-for-qualifying-students/article_1b81af9e-a786-11ef-98bb-1f5dc5ab3b52.html) - [Susan Kay Blalock](/obituaries/susan-kay-blalock/article_bb7f022b-58e3-592d-bacb-7452690565e9.html) - [How will the new UT Promise Plus expansion work? Eltife explains tuition-free program.](/news/education/how-will-the-new-ut-promise-plus-expansion-work-eltife-explains-tuition-free-program/article_08a3ce9a-a7b1-11ef-b29b-43448534f582.html) - [Vigil in downtown Tyler honors victims, survivors of domestic violence](/news/local/vigil-in-downtown-tyler-honors-victims-survivors-of-domestic-violence/article_e270fad6-a84b-11ef-8c6d-2322af133c50.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr Zelensky",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Susan Kay Blalock",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eltife",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:12:10.165+02:00",
+    "updated": "2024-11-23T00:12:10.165+02:00"
+}

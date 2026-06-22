@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "78df1615182843444bd7a925bc57a743d311e1b4",
+        "url": "https://www.ktvu.com/news/oakland-mayor-bas-declares-victory-complicating-interim-mayor-selection",
+        "site_full": "www.ktvu.com",
+        "site": "ktvu.com",
+        "site_section": "https://www.ktvu.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | KTVU FOX 2",
+        "title": "Oakland mayor: Bas declares victory, complicating interim mayor selection",
+        "title_full": "Oakland mayor: Bas declares victory, complicating interim mayor selection",
+        "published": "2024-11-23T22:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/11/1280/720/nikki-bas.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 5375,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "78df1615182843444bd7a925bc57a743d311e1b4",
+    "url": "https://www.ktvu.com/news/oakland-mayor-bas-declares-victory-complicating-interim-mayor-selection",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tori Gaines",
+    "published": "2024-11-23T22:21:00.000+02:00",
+    "title": "Oakland mayor: Bas declares victory, complicating interim mayor selection",
+    "text": "Oakland mayor: Bas declares supervisor victory, complicating interim mayor selection\nThe Oakland City Council President who was set to serve as the city's interim mayor declared victory in her election for county supervisor on Friday. Here's what could happen next.\nThe [historic recall of Oakland Mayor Sheng Thao](https://www.ktvu.com/news/oakland-mayor-sheng-thao-alameda-county-da-pamela-price-successfully-recalled) will soon leave a gaping hole in the city's leadership. Oakland City Council President Nikki Fortunato Bas was thought to be first in line to serve as the city's interim mayor, due to city by-laws.\nHowever, Bas ran for a the District 5 City Alameda County Supervisor position in November. While the slowly-rolling-in vote counts didn't spell out a big chance for a Bas win, she posted to her social media pages that her opponent, Emeryville City Councilmember John Bauters, had called to concede the race.\nThe final tally showed a razor-thin separation between the two candidates, with Bas taking in 71,136 votes and Bauters garnering 70,721 votes.\nWho will step in as Oakland's interim-mayor?\nIt has been previously reported that Oakland City Councilmember of District 1, and President Pro Tem, Dan Kalb, would be next in line to serve as interim mayor.\nAfter the recall vote counts are certified, which is expected to happen in mid-December, a special election will need to be held within 120 days to determine who will then fill the city's top job.\nRumors have been swirling that District 12Congresswoman Barbara Lee may seek the mayor's chair in the upcoming special election. She has not yet confirmed.\nIt's worth noting that Lee spoke out against both Thao's recall and the recall of Alameda County District Attorney Pamela Price.\n\"I was against the recall early on. This is a moment when we have to look to ourselves and understand what the dynamics are as it relates to elected officials. What democracy really means, and people have a right to vote for whomever they want to vote or ballot initiative or recall or not, but again the people have spoken,\" Lee said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nikki Fortunato Bas",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "John Bauters",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Kalb",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Oakland City Council",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:53:57.602+02:00",
+    "updated": "2024-12-01T03:49:34.056+02:00"
+}

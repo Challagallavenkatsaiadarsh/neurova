@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "63fcf39b2b3f9f09185c285c98c95a5dd4b372a7",
+        "url": "https://thelibertarianrepublic.com/former-cia-director-says-military-may-disobey-orders-from-trump",
+        "site_full": "thelibertarianrepublic.com",
+        "site": "thelibertarianrepublic.com",
+        "site_section": "https://thelibertarianrepublic.com/comments/feed",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media"
+        ],
+        "section_title": "\n\tComments for The Libertarian Republic\t",
+        "title": "Comment on Former CIA Director Says Military May Disobey Orders From Trump by cardetailing",
+        "title_full": "Comment on Former CIA Director Says Military May Disobey Orders From Trump by cardetailing",
+        "published": "2024-11-23T01:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://thelibertarianrepublic.com/wp-content/uploads/2018/01/CNN-Fox-News-News-site-The-Libertarian-Republic.png",
+        "performance_score": 0,
+        "domain_rank": 66704,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "63fcf39b2b3f9f09185c285c98c95a5dd4b372a7",
+    "url": "https://thelibertarianrepublic.com/former-cia-director-says-military-may-disobey-orders-from-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "cardetailing",
+    "published": "2024-11-23T01:06:00.000+02:00",
+    "title": "Comment on Former CIA Director Says Military May Disobey Orders From Trump by cardetailing",
+    "text": "Jonah Bennett\nFormer CIA Director Michael Hayden said that if Donald Trump takes over as president, the military may flat-out refuse to follow orders from Trump.\nThose orders are based on certain campaign pledges Trump has made during his campaign tours, Hayden said Friday on HBO’s “Real Time with Bill Maher,” Politico reports. Hayden ran the CIA from 1999 to 2005.\nSpecifically, Hayden pointed to Trump’s pledges to bring back waterboarding and to implement collective punishment, namely by killing family members of Islamic State terrorists. Some commentators have suggested that targeting family members of terrorists is currently forbidden by the Geneva Convention.\nTrump insisted to an audience in South Carolina that “torture works.” He has also said that he plans to introduce interrogation techniques that are far worse than waterboarding.\nThose pledges might inspire the military to rebel.\n“Let me give you a punchline: If he were to order that once in government, the American armed forces would refuse to act,” Hayden said in response to a question from Bill Maher on Trump’s proposal of collective punishment.\n“You cannot—you are not committed, you are not required, in fact you’re required to not follow an unlawful order,” Hayden added. “That would be in violation of all the international laws of armed conflict.”\nMaher then took the discussion to the next level by suggesting that supporting Trump would essentially lead to a coup.\n“You’ve given us a great reason not to support Trump. There would be a coup in this country,” Maher said.\nHayden didn’t follow him and quickly backed off, saying that he was definitely not sure about a resulting coup.\nBut Maher kept on that line of thought, saying, “I think it’s a coup that you said it,” Maher said.\nFollow Jonah Bennett on Twitter\nSend tips to .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jonah Bennett",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Hayden",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bill Maher",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CIA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Islamic State",
+                "sentiment": "none"
+            },
+            {
+                "name": "HBO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:18:29.143+02:00",
+    "updated": "2024-11-23T01:18:29.143+02:00"
+}

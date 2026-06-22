@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "fc9431a1e95214e2fb3cff542b316d9d03b4ddef",
+        "url": "https://timesofoman.com//article/152342-guyana-president-ali-praises-pm-modis-leadership",
+        "site_full": "timesofoman.com",
+        "site": "timesofoman.com",
+        "site_section": "https://m.timesofoman.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Times of Oman",
+        "title": "Guyana President Ali praises PM Modi's leadership",
+        "title_full": "Guyana President Ali praises PM Modi's leadership",
+        "published": "2024-11-23T06:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "OM",
+        "main_image": "https://shabiba.eu-central-1.linodeobjects.com/2024/11/1732350233-1732350233-k6whdi33h6f3.jpg",
+        "performance_score": 0,
+        "domain_rank": 23994,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fc9431a1e95214e2fb3cff542b316d9d03b4ddef",
+    "url": "https://timesofoman.com//article/152342-guyana-president-ali-praises-pm-modis-leadership",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Times of Oman",
+    "published": "2024-11-23T06:23:00.000+02:00",
+    "title": "Guyana President Ali praises PM Modi's leadership",
+    "text": "Georgetown: Speaking at an Indian community event in Georgetown, Guyana's President Mohamed Irfaan Ali praised Prime Minister Narendra Modi for his exemplary leadership and transformative impact on India's global stature.\nAddressing the gathering, President Ali said, \"...Prime Minister Narendra Modi, India is a shining light in your leadership. It is no secret that the strength of your leadership, the passion and compassion of your leadership and the deliberateness of your leadership have placed India in a different light and realm around the globe. You have brought incredible respect. But more importantly, you have brought a level of dignity and pride to India that is unmatched, and we congratulate you on that.\"\nPresident Ali underscored India's growing influence in the world under PM Modi's leadership, noting, \"Today, many developing countries and developed countries look to India for example, look to India for technology, look to India for research and development. That speaks volumes. It speaks about transformation. It speaks about a changed society and a society that is firmly rooted as a global leader, and we look forward to your continued leadership at a political level.\"\nIn a heartfelt acknowledgement of PM Modi's visit, President Ali expressed his gratitude for the time spent in Guyana, stating, \"My dear friend and brother, PM Narendra Modi, we had you for more than two days, but still, people cannot have enough of you. It is all because of your hard work, humility and the way you have led. This is not departure; this after today is saying, safe flight back home and we hope for your early return to our beautiful shores.\"\nPM Modi's visit to Guyana, the first by an Indian Prime Minister in over five decades, marked the third and final leg of his three-nation tour.\nDuring the historic visit, PM Modi co-chaired the 2nd India-CARICOM Summit alongside Caribbean leaders, further strengthening India's partnerships in the region.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ali",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:55:55.839+02:00",
+    "updated": "2024-11-24T05:55:55.839+02:00"
+}

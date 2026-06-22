@@ -1,0 +1,133 @@
+{
+    "thread": {
+        "uuid": "417713a5455ea92a831af236641850aeb9d6d9ac",
+        "url": "https://www.hindustantimes.com/india-news/election-results-live-maharashtra-jharkhand-assembly-polls-winners-list-updates-latest-news-today-101732408927751.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Election results live: Fadnavis leads Maharashtra CM race as BJP tops tally",
+        "title_full": "Election results live: Fadnavis leads Maharashtra CM race as BJP tops tally",
+        "published": "2024-11-24T02:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/24/550x309/PTI11-23-2024-000464A-0_1732409678587_1732409788135.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "417713a5455ea92a831af236641850aeb9d6d9ac",
+    "url": "https://www.hindustantimes.com/india-news/election-results-live-maharashtra-jharkhand-assembly-polls-winners-list-updates-latest-news-today-101732408927751.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-24T02:38:00.000+02:00",
+    "title": "Election results live: Fadnavis leads Maharashtra CM race as BJP tops tally",
+    "text": "Election results live: In a historic mandate, the BJP-led Mahayuti alliance secured a landslide victory in Maharashtra, leaving the opposition Maha Vikas Aghadi stunned.Meanwhile, the JMM-led alliance made history in Jharkhand by securing a convincing win, becoming the first incumbent alliance in the state to return to power after completing a full term.Maharashtra held single-phase assembly elections on November 20, while Jharkhand conducted two-phase polls on November 13 and 20.Bypolls resultThe Election Commission also announced results for by-polls in 48 assembly seats across 13 states. BJP and allies won the majority, including key victories in Uttar Pradesh, Bihar, and Rajasthan. Congress secured both Lok Sabha seats in Wayanad (Kerala) and Nanded (Maharashtra) and seven assembly seats, including three in Karnataka. TMC swept all six seats in West Bengal.Key higlights of November 23 election results• For the first time, an incumbent government completing five years retained power in Jharkhand.• BJP won 132 out of 148 seats it contested, with allies Shiv Sena and NCP also achieving high strike rates.• All Mahayuti ministers contesting in Maharashtra won their seats.• After the Wayanad bypoll win, Priyanka Gandhi joins Sonia Gandhi (Rajya Sabha, Rajasthan) and Rahul Gandhi (Rae Bareli, Lok Sabha) in Parliament.• Most candidates of Prashant Kishor's Jan Suraaj lost their deposits, except in one seat.What is the final results of Jharkhand and Maharashtra elections?Jharkhand Assembly (81 seats)Jharkhand Mukti Morcha (JMM): 34 seatsJMM Allies:Congress: 16 seatsRJD: 4 seatsCPI-ML: 2 seatsBJP: 21 seatsBJP Allies:AJSU: 1 seatLok Janshakti Party (Ram Vilas): 1 seatJD-U: 1 seatMaharashtra Assembly (288 seats)Mahayuti:BJP: 132 seatsShiv Sena (Eknath Shinde faction): 57 seatsNCP (Ajit Pawar faction): 41 seatsMaha Vikas Aghadi (MVA):Shiv Sena (UBT, Uddhav Thackeray faction): 20 seatsCongress: 16 seatsNCP (Sharad Pawar faction): 10 seats",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maha Vikas Aghadi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            },
+            {
+                "name": "TMC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Bengal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karnataka",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rajasthan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wayanad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kerala",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:25:08.250+02:00",
+    "updated": "2024-11-24T04:10:05.061+02:00"
+}

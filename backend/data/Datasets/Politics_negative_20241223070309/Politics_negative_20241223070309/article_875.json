@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "41ab8bebe9ed0bd05b42f3af61986cfe7085d46c",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/baba-siddique-murder-case-key-accused-gill-used-labourer-s-hotspot-to-contact-conspirators-101732303130760.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Baba Siddique murder case: Key accused Gill used labourer’s hotspot to contact conspirators",
+        "title_full": "Baba Siddique murder case: Key accused Gill used labourer’s hotspot to contact conspirators",
+        "published": "2024-11-22T20:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/22/1600x900/-p-Baba-Siddique-murder-case--Key-accused-Gill-use_1732303126749_1732303213695.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "41ab8bebe9ed0bd05b42f3af61986cfe7085d46c",
+    "url": "https://www.hindustantimes.com/cities/chandigarh-news/baba-siddique-murder-case-key-accused-gill-used-labourer-s-hotspot-to-contact-conspirators-101732303130760.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-22T20:48:00.000+02:00",
+    "title": "Baba Siddique murder case: Key accused Gill used labourer’s hotspot to contact conspirators",
+    "text": "Mumbai Police investigation into the Baba Siddiqui murder case has revealed that prime suspect Akashdeep Gill, arrested in Punjab, used a labourer’s mobile hotspot to communicate with key conspirators, including mastermind Anmol Bishnoi, police said on Friday.Gill was identified as the logistics coordinator in the murder plot orchestrated by gangster Anmol Bishnoi.“During investigation, Gill revealed how he communicated with key conspirators using a labourer’s mobile hotspot. This method was employed to evade police detection. Gill admitted to using the hotspot of a labourer named Balwinder, allowing him to appear offline and avoid tracking. We are searching for Gill’s mobile phone which may have vital evidence related to the case,” an official of the crime branch said.NCP leader Baba Siddique was shot dead by three assailants near his son MLA Zeeshan Siddique’s office in Mumbai’s Nirmal Nagar on October 12.On November 12, Shiva Kumar, the main accused and shooter in Baba Siddiqui murder case, along with four other accused, were sent to police custody till November 19.Shiva Kumar and four other accused were arrested by a joint team of Uttar Pradesh Special Task Force (STF) and the Mumbai Crime Branch from Nanpara area of Uttar Pradesh’s Bahraich on November 10.Read more: Baba Siddique murder case: Man who provided financial support to suspects arrestedThe police have also arrested Salman Vohra and Akashdeep Singh in connection with the murder. Vohra has been accused of financing the murder.A gang led by jailed gangster Lawrence Bishnoi has claimed responsibility for the murder.A senior officer of the crime branch said that the investigation revealed that after the murder of Baba Siddiqui, a big leader of Pune was also on the radar of the Bishnoi gang.According to sources, Shubham Lonkar, the mastermind and wanted accused in the NCP leader’s murder had allegedly planned to kill Aftab Poonawala, the accused arrested in the murder of Shraddha Walker. Lonkar, allegedly associated with Lawrence Bishnoi gang, planned for a month in 2022 to kill Poonawala in Delhi’s Saket court.Aftab is currently lodged in Delhi’s Tihar Jail. (ANI)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Baba Siddique",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Akashdeep Gill",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Baba Siddiqui",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anmol Bishnoi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:38:09.762+02:00",
+    "updated": "2024-11-23T03:03:51.566+02:00"
+}

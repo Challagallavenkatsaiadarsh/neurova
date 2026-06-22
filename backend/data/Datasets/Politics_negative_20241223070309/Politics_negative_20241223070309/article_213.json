@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "e4d1d4c8aaf8fbd465d37a935feed07895f609ef",
+        "url": "https://www.scmp.com/news/world/europe/article/3287817/mixed-martial-arts-star-connor-mcgregor-sexually-assaulted-woman-2018-jury-finds",
+        "site_full": "www.scmp.com",
+        "site": "scmp.com",
+        "site_section": "https://scmp.com",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_hk",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Breaking China, Asia, HK News, Opinions and Insights | South China Morning Post",
+        "title": "Mixed martial arts star Connor McGregor sexually assaulted woman in 2018, jury finds | South China Morning Post",
+        "title_full": "Mixed martial arts star Connor McGregor sexually assaulted woman in 2018, jury finds | South China Morning Post",
+        "published": "2024-11-23T00:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/11/23/5d59a8c3-ae0e-44ce-970a-ac27b69689bf_3cd5a4f1.jpg?itok=RSJuOB4S&amp;v=1732313358",
+        "performance_score": 0,
+        "domain_rank": 582,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 5
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e4d1d4c8aaf8fbd465d37a935feed07895f609ef",
+    "url": "https://www.scmp.com/news/world/europe/article/3287817/mixed-martial-arts-star-connor-mcgregor-sexually-assaulted-woman-2018-jury-finds",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-11-23T00:09:00.000+02:00",
+    "title": "Mixed martial arts star Connor McGregor sexually assaulted woman in 2018, jury finds | South China Morning Post",
+    "text": "Irish mixed martial arts fighter Conor McGregor sexually assaulted a woman at a party in Dublin in 2018 and must pay her nearly €250,000 (US$259,950) in damages, a jury decided on Friday.\\nThe jury of eight women and four men reached its verdict in the civil trial at Ireland’s high court after six hours and 10 minutes of deliberation.\\nThe plaintiff, Nikita Hand, alleged that McGregor sexually assaulted her on December 9, 2018, and that another man, James Lawrence, did the same, the court heard during two weeks of evidence.\\nThe jury found that Lawrence did not assault Hand. McGregor left the court through a large scrum of reporters without commenting and later posted on social media that he planned to appeal the decision.\\nMcGregor, 36, denied the allegation and said he had “fully consensual sex” with Hand. He also denied causing bruising to the plaintiff.\\n\\nHand’s lawyer told the jury that when she was referred to a sexual assault treatment unit the day after the alleged assault, a doctor was so concerned that he directed that photographs be taken of her injuries.\\nHand said that she and a friend made contact with McGregor, who she knew, after a work Christmas party. She said they were driven by McGregor to a party in a penthouse room of a south Dublin hotel where drugs and alcohol were consumed.\\nShe said McGregor took her to a bedroom in the penthouse and sexually assaulted her.\\nSpeaking outside the court, Hand said she was overwhelmed by the support she had received and that she felt vindicated.\\n“To all the victims of sexual assault, I hope my story is a reminder that no matter how afraid you might be, speak up, you have a voice and keep on fighting for justice,” she said.\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Connor McGregor",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Conor McGregor",
+                "sentiment": "negative"
+            },
+            {
+                "name": "James Lawrence",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:26:53.193+02:00",
+    "updated": "2024-11-23T00:43:59.533+02:00"
+}

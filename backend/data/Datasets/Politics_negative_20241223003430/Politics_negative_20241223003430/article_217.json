@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "15959a05892fab0f19b81a66181c48b4e83f4a26",
+        "url": "https://www.ictj.org/latest-news/israeli-strikes-kill-47-people-eastern-lebanon-official-says",
+        "site_full": "www.ictj.org",
+        "site": "ictj.org",
+        "site_section": "https://ictj.org/rss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "International Center for Transitional Justice",
+        "title": "Israeli Strikes Kill 47 People in Eastern Lebanon, Official Says",
+        "title_full": "Israeli Strikes Kill 47 People in Eastern Lebanon, Official Says",
+        "published": "2024-11-22T21:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.ictj.org/modules/custom/ictj_core/images/ictj_social_preview_en.png",
+        "performance_score": 0,
+        "domain_rank": 51786,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "15959a05892fab0f19b81a66181c48b4e83f4a26",
+    "url": "https://www.ictj.org/latest-news/israeli-strikes-kill-47-people-eastern-lebanon-official-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CommsIntern",
+    "published": "2024-11-22T21:20:00.000+02:00",
+    "title": "Israeli Strikes Kill 47 People in Eastern Lebanon, Official Says",
+    "text": "Israeli strikes killed at least 47 people in eastern Lebanon on Thursday, a Lebanese official said, pressing the campaign against the Iran-backed Hezbollah group as a U.S. mediator sought to advance ceasefire talks in Israel.\nU.S. mediator Amos Hochstein, who said a ceasefire was \"within our grasp\" during a visit to Lebanon on Tuesday, met Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz. There were no immediate statements.\nThe casualty toll since October 2023 stands at 3,583 people killed in Lebanon, the Lebanese health ministry says, most of them killed during the Israeli offensive since September. The figures do not distinguish between combatants and civilians. The ministry said 25 fatalities were reported on Wednesday.\nHezbollah strikes have killed more than 100 people in northern Israel and the Israeli-occupied Golan Heights. They include more than 70 soldiers killed in strikes in northern Israel and the Golan Heights and in combat in southern Lebanon, according to Israel.\nRead more here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:27:09.086+02:00",
+    "updated": "2024-11-23T00:27:09.086+02:00"
+}

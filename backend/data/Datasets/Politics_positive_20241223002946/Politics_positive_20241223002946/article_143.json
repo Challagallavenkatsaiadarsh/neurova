@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "0844e8f4248a18ab75106114375fda0b211cca04",
+        "url": "https://www.eurointegration.com.ua/eng/news/2024/11/22/7199040",
+        "site_full": "www.eurointegration.com.ua",
+        "site": "eurointegration.com.ua",
+        "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest news clusters for en",
+        "title": "Ukraine receives NASAMS air defence systems promised by Canada – media",
+        "title_full": "Ukraine receives NASAMS air defence systems promised by Canada – media",
+        "published": "2024-11-22T18:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://img.eurointegration.com.ua/images/doc/1/5/15a4c92-nasams-1-gagadget-com-52abe4aad7d21a0fc2a2019f15b30f80-1300x820-771d2e24967a42b14dffed53767021fd-1200x675.jpg",
+        "performance_score": 0,
+        "domain_rank": 17722,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0844e8f4248a18ab75106114375fda0b211cca04",
+    "url": "https://www.eurointegration.com.ua/eng/news/2024/11/22/7199040",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "European Pravda",
+    "published": "2024-11-22T18:52:00.000+02:00",
+    "title": "Ukraine receives NASAMS air defence systems promised by Canada – media",
+    "text": "Friday, 22 November 2024 The NASAMS air defence system, which Canada ordered from the United States over two years ago, has arrived in Ukraine.\nAs reported by CBC, Canadian Defence Minister Bill Blair informed legislators during his speech in the Canadian Parliament that the NASAMS system, for which Ottawa spent over US$300 million, is now in the hands of Ukrainians.\n\"I can't give you more information on that because of operational security, but we have been able to deliver at long last – and I think it's going to make a difference because it will enable them to protect communities,\" the Canadian defence minister said.\nOttawa revealed intentions to deploy the NASAMS air defence system to Ukraine in January 2023. Advertisement:\nThe idea was for Canada to pay the US government the whole cost of the system, while the US would enter into an arrangement to sell equipment directly to Ukraine.\nIt was in early November, however, that Canadian Prime Minister Justin Trudeau informed President Volodymyr Zelenskyy that the NASAMS system was on its way to Ukraine.\nEarlier, it was revealed that the Canadian government had allocated CAD 763 million (over US$545 million) in its draft budget for 2025 for military assistance to Ukraine. If you notice an error, select the required text and press Ctrl + Enter to report it to the editors. Advertisement:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cbc.ca/news/politics/nasam-air-defence-system-delivered-to-ukraine-1.7390064",
+        "https://cbc.ca/news/politics/nasam-air-defence-system-delivered-to-ukraine-1.7390064"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Volodymyr Zelenskyy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Justin Trudeau",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bill Blair",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Parliament",
+                "sentiment": "none"
+            },
+            {
+                "name": "CBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:52:24.894+02:00",
+    "updated": "2024-11-23T01:51:46.788+02:00"
+}

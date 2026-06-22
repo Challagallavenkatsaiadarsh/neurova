@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "350cccfaa569eab93231e204ecfd2e86d04e0117",
+        "url": "https://thesun.my/sport/ocm-congratulates-mohamad-norza-on-appointment-as-bam-honorary-life-president-DC13333330",
+        "site_full": "thesun.my",
+        "site": "thesun.my",
+        "site_section": "https://www.thesun.my/rss/home",
+        "site_categories": [],
+        "section_title": "Highlights",
+        "title": "OCM congratulates Mohamad Norza on appointment as BAM Honorary Life President",
+        "title_full": "OCM congratulates Mohamad Norza on appointment as BAM Honorary Life President",
+        "published": "2024-11-24T06:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://thesun.my/binrepository/480x334/0c42/480d250/none/11808/XAQX/pk05-23062024-hari-olimpik-2024_4754972_20241124121621.jpg",
+        "performance_score": 0,
+        "domain_rank": 22297,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "350cccfaa569eab93231e204ecfd2e86d04e0117",
+    "url": "https://thesun.my/sport/ocm-congratulates-mohamad-norza-on-appointment-as-bam-honorary-life-president-DC13333330",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "bernama",
+    "published": "2024-11-24T06:16:00.000+02:00",
+    "title": "OCM congratulates Mohamad Norza on appointment as BAM Honorary Life President",
+    "text": "THE Olympic Council of Malaysia (OCM) has extended its congratulations to its former president Tan Sri Mohamad Norza Zakaria on his appointment as the Honorary Life President of the Badminton Association of Malaysia (BAM).\nThe prestigious recognition was announced by BAM acting president, Datuk Subramaniam Veruthasalam during a press conference held yesterday following the BAM Council Meeting at Akademi Badminton Malaysia, Bukit Kiara here.\nOCM deputy president Tan Sri Hamidin Mohd Amin lauded Mohamad Norza’s transformative contributions to Malaysian badminton both as deputy president and later as president of BAM for over a decade.\n“Under his leadership, he spearheaded the construction of the state-of-the-art Akademi Badminton Malaysia, revitalised BAM’s administration, and enhanced its governance. He also significantly boosted its financial sustainability by securing multi-million-ringgit sponsorship deals.\n“Even after stepping down as BAM president, Mohamad Norza continued his legacy by initiating the establishment of the Asian High Performance Badminton Centre,” he said in statement today.\nHamidin said Mohamad Norza played a pivotal role in establishing the Asian High Performance Badminton Centre, recognised by the Olympic Council of Asia (OCA), marking one of his first major contributions since his election as OCA Vice President on Sept 8.\nMohamad Norza stepped down as BAM president on Aug 24, after seven years of dedicated service.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mohamad Norza",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Datuk Subramaniam Veruthasalam",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tan Sri Hamidin Mohd Amin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "OCM",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Akademi Badminton",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "350cccfaa569eab93231e204ecfd2e86d04e0117",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:13:32.660+02:00",
+    "updated": "2024-11-24T07:13:32.660+02:00"
+}

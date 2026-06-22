@@ -1,0 +1,141 @@
+{
+    "thread": {
+        "uuid": "b506183c06ff2043c3a4b3b8b8dae0a9582e0c07",
+        "url": "https://indianexpress.com/article/cities/delhi/greater-noida-police-busts-fake-passport-racket-7-arrested-9685312",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Greater Noida police busts fake passport racket, 7 arrested",
+        "title_full": "Greater Noida police busts fake passport racket, 7 arrested",
+        "published": "2024-11-22T21:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/arrest_dbfa9d.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b506183c06ff2043c3a4b3b8b8dae0a9582e0c07",
+    "url": "https://indianexpress.com/article/cities/delhi/greater-noida-police-busts-fake-passport-racket-7-arrested-9685312",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Neetika Jha",
+    "published": "2024-11-22T21:40:00.000+02:00",
+    "title": "Greater Noida police busts fake passport racket, 7 arrested",
+    "text": "With the arrest of seven men on Friday, the Greater Noida Police claimed to have busted a syndicate that ran a fake passport racket. The police identified the accused as Sachin Jauhari (25), S Vinod Kumar (25), Sanjid Dey (19), Sandeep Kumar (35), Birendra Garg (42), Veerendra Saxena (34) and Durgesh Kumar (44). Central Noida Deputy Commissioner of Police Shakti Mohan Awasthy said, “The matter came to light when the Bisrakh police went to verify passport applications of S Vinod Kumar and Sanjid Dey, originally from Andaman and Nicobar Islands.” The police team found neither stayed at the address they had given while applying for passport, he added. The two men were traced to a shop owned by Sachin Jauhari at Mahagun Mart, located in Gaur City 2's Mahagun Mywoods residential society. \"The police found that Jauhari ran a shop that helped in making fake passports. When questioned, Kumar and Dey said they were employed as sales promoters at a Hong Kong-based company that also has an office at Gaur City in Greater Noida West. They needed to attend a company event in Dubai for which they needed to get passports made,” said Awasthy. He added that a colleague of Kumar and Dey allegedly told them to get in touch with Jauhari, “who created fake address and rent agreement for the two and charged Rs 15,000 each for the same”. Jauhari allegedly told the police that he had been operating for over two years and has got around 100 passports made bypassing police verification. \"He has applied for more than 500 passports over the years. We have recovered 14 duplicate copies of notaries of various departments, fake rent agreements, 10 stamp papers, five cellphones and an laptop from him,\" Awasthy said. \"Jauhari operated with the help of Sandeep kumar, who ran a similar business in Ghaziabad. They were assisted by the other accused,” he added. An FIR has been lodged under sections 341(1)(2) (counterfeiting), 61(criminal conspiracy), 3 (5)(criminal act) of Bhartiya Nyaya Sanhita and the Passports Act.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Veerendra Saxena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sachin Jauhari",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sandeep Kumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Birendra Garg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Durgesh Kumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohan Awasthy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vinod Kumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sanjid Dey",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Greater Noida Police",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mahagun Mart",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Greater Noida West",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nicobar Islands",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaur City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Andaman",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:19:48.723+02:00",
+    "updated": "2024-11-23T00:19:48.723+02:00"
+}

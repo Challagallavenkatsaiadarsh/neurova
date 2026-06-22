@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "3812e8e638be8fba112216efe66de2e47b746d11",
+        "url": "https://gettotext.com/kenya-coalitions-conclusion-in-brandenburg-woidke-faces-backlash",
+        "site_full": "gettotext.com",
+        "site": "gettotext.com",
+        "site_section": "https://gettotext.com/rss",
+        "site_categories": [],
+        "section_title": "",
+        "title": "Kenya Coalition’s Conclusion in Brandenburg: Woidke Faces Backlash",
+        "title_full": "Kenya Coalition’s Conclusion in Brandenburg: Woidke Faces Backlash",
+        "published": "2024-11-22T21:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "DE",
+        "main_image": "https://gettotext.com/wp-content/uploads/2024/11/image_20241122123842.jpg",
+        "performance_score": 0,
+        "domain_rank": 89906,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3812e8e638be8fba112216efe66de2e47b746d11",
+    "url": "https://gettotext.com/kenya-coalitions-conclusion-in-brandenburg-woidke-faces-backlash",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Oliver Adey",
+    "published": "2024-11-22T21:07:00.000+02:00",
+    "title": "Kenya Coalition’s Conclusion in Brandenburg: Woidke Faces Backlash",
+    "text": "Brandenburg’s state government has collapsed due to a dispute over hospital reform, triggered by Prime Minister Dietmar Woidke’s dismissal of Health Minister Ursula Nonnemacher. This led to the resignation of Environment Minister Axel Vogel and intensified criticism from Vice Chancellor Robert Habeck, who condemned the lack of respectful political discourse. As the coalition struggles, discussions are underway for a new government involving SPD and the Sahra Wagenknecht alliance amidst a caretaker administration.\nBrandenburg Government Faces Collapse Over Hospital Reform Dispute\nThe Brandenburg state government has crumbled amid a contentious debate surrounding hospital reform, leading to significant political fallout. Prime Minister Dietmar Woidke’s decision to dismiss Health Minister Ursula Nonnemacher of the Green Party has plunged the coalition into turmoil, prompting reactions from key political figures, including Vice Chancellor Robert Habeck, who termed the event ‘incomprehensible.’\nKey Political Moves and Reactions\nThe abrupt dismissal of Nonnemacher, followed by the resignation of Environment Minister Axel Vogel, marks the disintegration of the Brandenburg Kenya coalition just before their term concludes. The conflict began with disagreements between Nonnemacher and Woidke regarding the hospital reform, culminating in Woidke’s controversial action before the crucial Bundesrat vote.\nHabeck criticized Woidke’s conduct, emphasizing the importance of maintaining respectful interactions despite political disagreements. He expressed concern that such actions could signal a shift toward alliances with more extreme political factions. Federal Health Minister Karl Lauterbach praised Nonnemacher’s dedication to ensuring quality emergency care in Brandenburg, acknowledging her efforts in the face of her dismissal.\nNonnemacher herself labeled the incident a ‘low point in political culture.’ Reports indicate that tensions escalated during a coalition meeting prior to the Bundesrat session, as she resisted calls to invoke a mediation committee for the hospital reform. In a dramatic turn of events, Woidke’s decision to dismiss her shortly before the vote effectively quashed Brandenburg’s chance to abstain from the state chamber vote, a move previously agreed upon by the coalition.\nIn a tense atmosphere, Nonnemacher received her dismissal papers just moments before the critical vote in Berlin. She expressed her dismay, stating, ‘I cannot let myself be danced around on the nose.’ Following her removal, Vogel’s resignation was described as a direct consequence of Woidke’s treatment of Nonnemacher, signaling a breakdown in collaboration within the coalition.\nWoidke defended his actions, arguing that divergent voting behavior threatened the validity of Brandenburg’s votes. He aimed to invoke the mediation committee to address legislative disagreements, despite Nonnemacher’s strong opposition, warning against undermining two years of negotiation efforts.\nAs the political landscape shifts, the coalition comprised of SPD, CDU, and Greens remains in a caretaker role until a new government is established. The SPD and the Sahra Wagenknecht alliance are reportedly in advanced discussions to form a new coalition, navigating the complexities of Brandenburg’s evolving political framework.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ursula Nonnemacher",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sahra Wagenknecht",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dietmar Woidke",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robert Habeck",
+                "sentiment": "none"
+            },
+            {
+                "name": "Axel Vogel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Green Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "SPD",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:17:21.159+02:00",
+    "updated": "2024-11-23T00:17:21.159+02:00"
+}

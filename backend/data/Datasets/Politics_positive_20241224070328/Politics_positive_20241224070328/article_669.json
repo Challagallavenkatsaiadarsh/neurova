@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "8a51e75cb253a83d968e4d925d3916a8257357dc",
+        "url": "http://www.uniindia.com/nda-alliance-sweeps-bypolls-in-assam/east/news/3331237.html",
+        "site_full": "www.uniindia.com",
+        "site": "uniindia.com",
+        "site_section": "http://www.uniindia.net/feed.aspx?lang_id=1",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "United News Of India",
+        "title": "NDA alliance sweeps bypolls in Assam",
+        "title_full": "NDA alliance sweeps bypolls in Assam",
+        "published": "2024-11-24T05:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.uniindia.com/cms/gall_content/2024/11/2024_11$largeimg24_Nov_2024_081457750.jpg",
+        "performance_score": 0,
+        "domain_rank": 27943,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8a51e75cb253a83d968e4d925d3916a8257357dc",
+    "url": "http://www.uniindia.com/nda-alliance-sweeps-bypolls-in-assam/east/news/3331237.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Uniindia News Service",
+    "published": "2024-11-24T05:14:00.000+02:00",
+    "title": "NDA alliance sweeps bypolls in Assam",
+    "text": "States » EastPosted at: Nov 24 2024 8:14AM NDA alliance sweeps bypolls in AssamGuwahati, Nov 23 (UNI) The Bharatiya Janata Party (BJP)-led National Democratic Alliance (NDA) registered a sweeping victory in Assam's by-elections, winning all five contested seats, an official said. The Bharatiya Janata Party (BJP) won the Samaguri assembly seat, breaking the Congress party’s decades-long hold on the constituency. Diplu Ranjan Sarmah defeated his opponent Tanzil Hussain of the Congress, son of former minister and the constituency’s five-time MLA Rakibul Hussain, by 24,501 votes. He polled 81,321 votes while Tanzil Hussain secured 56,820 votes. After the announcement of the results, Diplu Ranjan Sarma expressed gratitude to the people of Samaguri for placing their trust in him. BJP’s Nihar Ranjan Das won from Dholai constituency by a margin of 9,098 votes over his nearest rival Dhrubajyoti Purkayastha of the Congress. The Asom Gana Parishad (AGP) retained Bongaigaon seat as its candidate Diptimayee Choudhury defeated her nearest rival Brajenjit Singha of the Congress by a margin of 35,164 votes. The United People’s Party Liberal (UPPL) Nirmal Kumar Brahma won the Sidli constituency by a margin of 37,016 against his nearest rival Shuddho Kumar Basumatary of BPF. The Bharatiya Janata Party (BJP) retained Behali seat with its candidate Diganta Ghatowal polling 50,947 votes, while Jayanta Bora of the Congress secured 41,896 votes. UNI XC GNKTags: #NDA alliance sweeps bypolls in Assam",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dhrubajyoti Purkayastha",
+                "sentiment": "none"
+            },
+            {
+                "name": "Diptimayee Choudhury",
+                "sentiment": "none"
+            },
+            {
+                "name": "Diplu Ranjan Sarma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tanzil Hussain",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ranjan Das",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "National Democratic Alliance",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asom Gana Parishad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Assam",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:46:15.162+02:00",
+    "updated": "2024-11-24T05:46:15.162+02:00"
+}

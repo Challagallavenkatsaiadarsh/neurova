@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "cc1d901ae465d3612ce2ece0a0a8bc3ca44cb9ea",
+        "url": "https://www.wdrb.com/news/metro-council-to-decide-on-expanded-down-payment-assistance-for-low-income-buyers-in-louisville/article_2b67ce8e-a91b-11ef-a205-7fb7f20cdbaf.html",
+        "site_full": "www.wdrb.com",
+        "site": "wdrb.com",
+        "site_section": "http://www.wdrb.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "www.wdrb.com - RSS Results in news of type article",
+        "title": "Metro Council to decide on expanded down payment assistance for low-income buyers in Louisville",
+        "title_full": "Metro Council to decide on expanded down payment assistance for low-income buyers in Louisville",
+        "published": "2024-11-22T23:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/9/99/9998088c-a91c-11ef-b2ec-9fb1be960a87/6740fe01455f4.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 9357,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cc1d901ae465d3612ce2ece0a0a8bc3ca44cb9ea",
+    "url": "https://www.wdrb.com/news/metro-council-to-decide-on-expanded-down-payment-assistance-for-low-income-buyers-in-louisville/article_2b67ce8e-a91b-11ef-a205-7fb7f20cdbaf.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephan Johnson",
+    "published": "2024-11-22T23:46:00.000+02:00",
+    "title": "Metro Council to decide on expanded down payment assistance for low-income buyers in Louisville",
+    "text": "LOUISVILLE, Ky. (WDRB) -- The city of Louisville wants to make buying a home more affordable.\nThis is part of $10 million interest the city has earned. Mayor Craig Greenberg wants to direct a portion of the money to be used for down payment assistance, which low income homebuyers could use but Metro Council will have the final say.\nEyvonne Davis is looking for a new home.\n\"Yes, it's gonna be my dream home, looking for a three-bedroom, one bath, maybe two,\" Davis said.\nBut she's a single parent and could use a little help so she applied for Metro Louisville's Down Payment Assistance Program.\n\"It's just with that $10,000 down payment,\" Davis said. \"that helps a lot with the mortgage cost each month, and that's really helpful for a single mother.\"\nThis week, Mayor Greenberg announced a budget surplus after some changes made in investment strategies.\n\"I am proud to announce that for the last fiscal year, Louisville Metro Government has a budget surplus of over $16 million,\" he said.\nGreenberg is recommending the money be used for fire engine and firehouse upgrades, surveillance cameras, public works vehicles and more than a million dollars for down payment assistance.\n\"The down payment assistance program, we call it DPA, provides a down payment and closing cost assistance for low income homeowners who are trying to purchase a house,\" said Laura Grabowski, the director of the Office of Housing and Community Development.\nGrabowski said the average amount of assistance they provide is somewhere around $30,000 to $35,000.\n\"The average home price that we're looking at is around $193,000 so even though there are not that many houses in that price range on the market. It's certainly a perfect starter home,\" Grabowski said.\n\"Absolutely, it would definitely help me,\" Davis said.\nFor now, it is just a recommendation but Davis said even her children are excited and helping find a home.\n\"My kids want to be in Central or Atherton so that's Old Louisville or the Russell neighborhood,\" Davis said.\nMetro Council is expected to vote on the recommendations by the end of the year.\nRelated Stories:\n[Delta Dental donates $1 million to Louisville home ownership program](https://www.wdrb.com/community/delta-dental-donates-1-million-to-louisville-home-ownership-program/article_008774d0-43a9-11ef-9d20-13a884002d7d.html)[Louisville programs aim to help homeowners, buyers](https://www.wdrb.com/news/louisville-programs-aim-to-help-homeowners-buyers/article_76f1dbda-3402-11ef-aa50-771984876a69.html)[Louisville program helps homeowners combat redlining with renovation funds](https://www.wdrb.com/news/business/louisville-program-helps-homeowners-combat-redlining-with-renovation-funds/article_b31a8846-326d-11ef-b6cb-cfb65e086545.html)[Louisville program plans to provide 200 families $50,000 each to improve homes in previously redlined areas](https://www.wdrb.com/news/louisville-program-plans-to-provide-200-families-50-000-each-to-improve-homes-in-previously/article_6a06b560-e2ca-11ed-a282-2bb3e68d79af.html)\nCopyright 2024 WDRB Media. All Rights Reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Craig Greenberg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eyvonne Davis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Metro Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Louisville Metro Government",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:05:12.060+02:00",
+    "updated": "2024-11-23T05:35:54.347+02:00"
+}

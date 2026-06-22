@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "86ecb8185060073813c5c8862d43f6c8dbc27955",
+        "url": "https://www.independent.ie/regionals/wexford/new-ross-news/wexford-county-council-to-seek-funding-for-fully-approved-new-ross-skatepark/a1157473963.html",
+        "site_full": "www.independent.ie",
+        "site": "independent.ie",
+        "site_section": "https://independent.ie/life/health-wellbeing/mental-health",
+        "site_categories": [
+            "media",
+            "rugby",
+            "sports",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Mental Health - The Irish Independent - Irish Independent",
+        "title": "Wexford County Council to seek funding for fully approved New Ross skatepark",
+        "title_full": "Wexford County Council to seek funding for fully approved New Ross skatepark",
+        "published": "2024-11-24T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://focus.independent.ie/thumbor/2HC98GjF0Q9hvYL3O_U4j6kskkQ=/0x31:3145x2127/629x0/prod-mh-ireland/9aed0d44-2627-43c4-bfeb-18a26e112b63/477cdd6c-c9ea-446d-80c8-702ebe3e5a26/9aed0d44-2627-43c4-bfeb-18a26e112b63.jpg",
+        "performance_score": 0,
+        "domain_rank": 1670,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "86ecb8185060073813c5c8862d43f6c8dbc27955",
+    "url": "https://www.independent.ie/regionals/wexford/new-ross-news/wexford-county-council-to-seek-funding-for-fully-approved-new-ross-skatepark/a1157473963.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jessica O'Connor",
+    "published": "2024-11-24T07:00:00.000+02:00",
+    "title": "Wexford County Council to seek funding for fully approved New Ross skatepark",
+    "text": "Wexford County Council to seek funding for fully approved New Ross skatepark\nPlanning has been approved for the addition of a skatepark in New Ross.\nThe skatepark will be located in Rosbercon, alongside the Greenway, which had final stages of the planning confirmed at the latest New Ross Municipal District Council meeting on Wednesday, November 13.\nIt was acknowledged by District Manager, Alan Fitzhenry, that “this was the final step in getting the project “shovel ready”. He also gave his “sincere thanks to those involved from the Special Projects department for their work on this to date.”\nThis allows for the council to seek funding for the skatepark “when available.”\nAdding to the comments, local Cllr Michael Sheehan has also welcomed the passage of planning: “I have been advocating this great project for many years and we are through all the legal processes now, clearing the way for funding and construction next.\n“This park will be an amazing asset to the town and bring a whole fresh perspective to the greenway adding a valuable attraction to the area,” he said.\nCllr Sheehan concluded by saying how this will benefit the youth of New Ross: “Young people have a strong voice in our town and a critical say in how it shapes. This is one project that shows what's possible when we all work together with one goal; the betterment of our community.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alan Fitzhenry",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "New Ross skatepark Wexford County Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "New Ross Municipal District Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Rosbercon",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:01:35.775+02:00",
+    "updated": "2024-11-24T08:01:35.775+02:00"
+}

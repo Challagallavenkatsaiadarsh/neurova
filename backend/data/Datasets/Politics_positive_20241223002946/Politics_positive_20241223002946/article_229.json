@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "bb19daf32688b9a15ebe2a463e74e26ffa006265",
+        "url": "https://www.wvtf.org/news/2024-11-22/uva-launches-national-security-data-and-policy-institute",
+        "site_full": "www.wvtf.org",
+        "site": "wvtf.org",
+        "site_section": "https://www.wvtf.org/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | WVTF",
+        "title": "UVA launches National Security Data and Policy Institute",
+        "title_full": "UVA launches National Security Data and Policy Institute",
+        "published": "2024-11-23T00:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/a2e4cc0/2147483647/strip/true/crop/640x336+0+23/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F3b%2F4358544d4d7089203bc4a109416f%2Fribbon-cutting.jpg",
+        "performance_score": 0,
+        "domain_rank": 44694,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bb19daf32688b9a15ebe2a463e74e26ffa006265",
+    "url": "https://www.wvtf.org/news/2024-11-22/uva-launches-national-security-data-and-policy-institute",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sandy Hausman",
+    "published": "2024-11-23T00:01:00.000+02:00",
+    "title": "UVA launches National Security Data and Policy Institute",
+    "text": "UVA launches National Security Data and Policy Institute\nThe National Security Data and Policy Institute is supposed to identify possible security threats and predict future dangers. Virginia’s senior Senator says the biggest hack in U.S. history makes the case for more cybersecurity.\n“The Chinese have infiltrated most all of our telecom, and we’ve not been able to get them out,\" he says. \"That means if they can identify you, they can listen to your voice conversation, they can see your text messages. They can know who you called and where you were when you made those calls. Our telecom industry, and that’s the business I came from, is so interested in getting speed – how quick your call gets done – that they have unfortunately sacrificed security.”\nThe new institute will employ six people, but it will partner with faculty at the Batten School of Leadership and Public Policy, UVA’s new School of Data Science and other professors on campus.\nSenator Mark Warner also spoke about Donald Trump’s plan to put a man with no high-level government experience in charge of the Department of Defense.\n“Running the Pentagon is the equivalent of running Walmart. Would you want somebody to run that operation that’s got no management experience?\" he asks. \"The American public needs to see these people before they take these roles, and frankly, these are serious jobs that need serious people.”\nAnd he predicted some Republicans would cooperate with Democrats in pushing back against a number of Trump appointments.\n“The tenor of some of these candidates – boy oh boy – we’ve got serious questions that need to be answered, and I think you’ll see a greater level of cooperation than folks expect.”\nHe raised doubts about whether the new administration would actually cut thousands of federal jobs.\n“The President-elect wants to keep defense intact, Medicare intact, social security intact yet cut trillions of dollars. The math doesn’t work.”\nWarner said threats from Trump and his allies would likely mean some of the most talented people will leave government jobs for the private sector where they can make more money.\nThis report, provided by [Virginia Public Radio](https://virginiapublicradio.org/), was made possible with support from the [Virginia Education Association](https://www.veanea.org/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:20:01.573+02:00",
+    "updated": "2024-11-28T04:46:55.030+02:00"
+}

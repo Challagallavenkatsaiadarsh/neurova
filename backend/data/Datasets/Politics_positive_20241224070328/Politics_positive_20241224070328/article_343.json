@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "ec42f45a3e0a7f5f5c956b820b1437285bd42bf3",
+        "url": "https://punchng.com/fg-appoints-331-directors-in-federal-civil-service",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "https://punchng.com/tinubu-pledges-to-alleviate-nigerians-sufferings",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Tinubu pledges to alleviate Nigerians’ sufferings",
+        "title": "FG appoints 331 directors in federal civil service",
+        "title_full": "FG appoints 331 directors in federal civil service",
+        "published": "2024-11-24T02:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.punchng.com/wp-content/uploads/2018/11/07202106/Federal-Secretariat-Abuja.jpg",
+        "performance_score": 0,
+        "domain_rank": 6171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ec42f45a3e0a7f5f5c956b820b1437285bd42bf3",
+    "url": "https://punchng.com/fg-appoints-331-directors-in-federal-civil-service",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deborah Tolu-Kolawole",
+    "published": "2024-11-24T02:16:00.000+02:00",
+    "title": "FG appoints 331 directors in federal civil service",
+    "text": "No fewer than 331 senior civil servants have been promoted in the federal civil service, Sunday PUNCH gathered. The 331 new directors were among the 697 candidates who sat the oral interview on Monday, November 4, 2024. In May 2024, the Federal Civil Service Commission put out a notice for the year 2024 promotion/evaluation process\nRead More",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tunji Olaopa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Federal Civil Service Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ec42f45a3e0a7f5f5c956b820b1437285bd42bf3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:56:43.811+02:00",
+    "updated": "2024-11-24T12:25:55.877+02:00"
+}

@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "52b0bd13cc6240fd3b3f76cb735c0de00df52c30",
+        "url": "https://americanmilitarynews.com/2024/11/after-narrow-vote-ohio-accepts-17-million-increase-from-feds-for-refugee-aid",
+        "site_full": "americanmilitarynews.com",
+        "site": "americanmilitarynews.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "media",
+            "jobs",
+            "us_military"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "After narrow vote, Ohio accepts $17 million increase from feds for refugee aid",
+        "title_full": "After narrow vote, Ohio accepts $17 million increase from feds for refugee aid",
+        "published": "2024-11-24T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://americanmilitarynews.com/wp-content/uploads/BIZ-AUTO-CONGRESS-AM-RADIO-GET-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 20925,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52b0bd13cc6240fd3b3f76cb735c0de00df52c30",
+    "url": "https://americanmilitarynews.com/2024/11/after-narrow-vote-ohio-accepts-17-million-increase-from-feds-for-refugee-aid",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jake Zuckerman - cleveland.com",
+    "published": "2024-11-24T00:00:00.000+02:00",
+    "title": "After narrow vote, Ohio accepts $17 million increase from feds for refugee aid",
+    "text": "A panel of state lawmakers on Monday narrowly approved a $17 million increase in refugee services funded by the federal government, with several Republicans taking the rare step of airing formal objections to receiving the federal funds.\nNow funded at about $41 million for the year, the money provides cash assistance, support services, English language training, transportation to education and employment, and medical screenings programs for newly arrived refugees. Congress recently provided states more funds for these programs in legislation passed in response to the Russian invasion of Ukraine and the Taliban’s takeover of Afghanistan after the U.S. military withdrawal.\nThe funds are available to refugees, Special Immigrant Visa holders (including [thousands of translators who worked with U.S. forces in Iraq and Afghanistan](https://www.military.com/daily-news/2024/03/20/12000-more-visas-afghans-who-helped-us-military-included-new-funding-deal.html)), Afghan and Ukrainian humanitarian parolees, Cuban and Haitian entrants, asylum seekers, and foreign-born victims of human trafficking.\n“With the myriad of visas that you rattled off that people come here because of, we are dreaming if we think they’re coming here just for a better life,” said state Sen. Shane Wilkin, one of three Republicans to object to receiving the federal money.\nRachel Johanson, policy director for the Ohio Department of Jobs and Family Services, couldn’t provide lawmakers a precise estimate for how many refugees have been resettled in Ohio. The federal government estimated 4,100 came in the last fiscal year and 4,600 are projected for this year, but the actual figure is difficult to pin down as immigrants’ legal classification can change or they move within states.\nThree Republicans on the panel objected to receiving the funds. The measure still passed 4-3, but it marked a rare moment for the typically unanimous Controlling Board, which reviews certain state contracts and distributes federal funds.\nGOP Reps. Jean Schmidt and Jay Edwards both objected as well. Schmidt did so after repeatedly claiming cities like Lockland, in Hamilton County, are “overwhelmed,” citing [media reports](https://www.fox19.com/2024/10/30/mayor-small-ohio-village-asks-federal-government-help-immigrants-pour/) of a surge of refugees from the West African nation of Mauritania into the small town. Wilkin, in explaining his objection, noted that he recently visited the southern border in Arizona, although the immigrants entitled to the federal funds at issue came to the U.S. through legal ports of entry and not illegally over the border.\nJohanson said to some of the skeptical lawmakers that the money supports programs that can prevent refugees from becoming public burdens. She gave specifics like English-language training or transportation to work.\nState and local officials have said an influx of legal Haitian migrants have strained local resources in Springfield, Ohio. The small town has seen a spike among those living and working in the region under Temporary Protected Status. During the presidential campaign, President-elect Donald Trump and his vice-presidential running mate, U.S. Sen. JD Vance of Ohio, broadcast false rumors about Haitian migrants stealing and eating their neighbor’s pets as they sought to make immigration a central focus of their campaign. Gov. Mike DeWine has defended migrants in Springfield, saying their addition to the work force has helped businesses in the area.\n___\n© 2024 Advance Local Media LLC\nDistributed by [Tribune Content Agency, LLC](https://www.tribunecontentagency.com/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.military.com/daily-news/2024/03/20/12000-more-visas-afghans-who-helped-us-military-included-new-funding-deal.html",
+        "https://www.tribunecontentagency.com/",
+        "https://www.fox19.com/2024/10/30/mayor-small-ohio-village-asks-federal-government-help-immigrants-pour/",
+        "https://www.fox19.com/2024/10/30/mayor-small-ohio-village-asks-federal-government-help-immigrants-pour",
+        "https://tribunecontentagency.com/",
+        "https://fox19.com/2024/10/30/mayor-small-ohio-village-asks-federal-government-help-immigrants-pour/",
+        "https://www.tribunecontentagency.com",
+        "https://military.com/daily-news/2024/03/20/12000-more-visas-afghans-who-helped-us-military-included-new-funding-deal.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "Taliban",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "52b0bd13cc6240fd3b3f76cb735c0de00df52c30",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:31:04.109+02:00",
+    "updated": "2024-11-29T04:57:54.561+02:00"
+}

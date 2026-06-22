@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "b267c746b34eabb83a4a7380dfdcb15711a60922",
+        "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3494617",
+        "site_full": "www.arcamax.com",
+        "site": "arcamax.com",
+        "site_section": "https://arcamax.com/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "",
+        "title": "Gov. Wes Moore says Piedmont Reliability Project must 'put people first'",
+        "title_full": "Gov. Wes Moore says Piedmont Reliability Project must 'put people first'",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://resources.arcamax.com/newspics/315/31572/3157280.gif",
+        "performance_score": 0,
+        "domain_rank": 34144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b267c746b34eabb83a4a7380dfdcb15711a60922",
+    "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3494617",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ArcaMax Publishing, Inc.",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Gov. Wes Moore says Piedmont Reliability Project must 'put people first'",
+    "text": "Gov. Wes Moore says Piedmont Reliability Project must 'put people first'\nPublished in [News & Features](/currentnews/newsheadlines/)\nBALTIMORE — After facing criticism for not standing with concerned citizens in Baltimore, Carroll and Frederick counties over the controversial Maryland Piedmont Reliability Project, Gov. Wes Moore announced plans Friday to take a more proactive approach with the power companies behind the initiative.\nMoore plans to meet with leadership from PJM Interconnection and the Public Service Enterprise Group, the companies in charge of this project, to discuss “serious reservations” about how this process has been conducted thus far.\nHundreds of property owners opposed to the massive project have attended public hearings in those three counties. Officials with New Jersey-based Public Service Enterprise Group, which was contracted by PJM for the development, have faced backlash from citizens. Many residents fear the project would utilize eminent domain to seize property along the installation route to feed data centers in Northern Virginia.\nMoore, a Democrat, echoed their concerns Friday.\n“As I have said from the start, I share grave concerns about how the study area for this project was determined, the lack of community involvement in the planning process, and the lack of effective communication about the impacts of this project,” he said in a news release. “The single most important factor remains wholly unclear: the project’s comprehensive benefit to Marylanders.”\nDel. Nino Mangione, a Baltimore County Republican, hosted a town hall meeting Tuesday night in Parkton where residents could voice concerns and learn about their rights regarding the project — a proposed 70-mile, high-voltage transmission line set to cut through Carroll, Frederick and Baltimore counties.\nMangionen has also been critical of Moore, who has said he doesn’t understand the anger directed at him. Mangione implored Moore to side with Maryland residents on the issue.\n“The only person not standing with Maryland right now is Governor Moore,” Mangione said. “We need him to step forward and be a leader here. We need him to know that his constituents are under threat by an out-of-state company. We need him to be bold, strong and forceful in his opposition to help us with the project.”\nIn October, Moore, along with the governors of Illinois, Delaware and New Jersey, sent a letter to PJM asking them “to embrace, without delay, opportunities to work collaboratively on transmission planning.”\n“Together, we recognize that energy and economic development goals are not mutually exclusive and that progress depends upon true partnership to achieve growth,” Moore said.\nThe power line could be fully operational by June 2027 if there are no setbacks. The Maryland Public Service Commission has the authority to decide if the project can move forward and has created an email address — piedmontcomments.psc@maryland.gov — where residents can provide feedback.\nDespite the controversy, Moore reiterated the state’s need for sustainable and cost-effective energy.\n“But the approach must be one that puts people first,” he said.\n©2024 Baltimore Sun. Visit baltimoresun.com. Distributed by Tribune Content Agency, LLC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Wes Moore",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Carroll",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maryland Piedmont Reliability Project",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Public Service Enterprise Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "PJM Interconnection",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:37:27.904+02:00",
+    "updated": "2024-11-23T02:37:27.904+02:00"
+}

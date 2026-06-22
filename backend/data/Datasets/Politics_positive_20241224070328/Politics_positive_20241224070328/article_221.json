@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "128996e61eb3ad88313252576913d2ba004a1571",
+        "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3495504",
+        "site_full": "www.arcamax.com",
+        "site": "arcamax.com",
+        "site_section": "https://www.arcamax.com/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "",
+        "title": "Trump chooses ex-aide Brooke Rollins for agriculture chief",
+        "title_full": "Trump chooses ex-aide Brooke Rollins for agriculture chief",
+        "published": "2024-11-23T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://resources.arcamax.com/newspics/315/31581/3158184.gif",
+        "performance_score": 0,
+        "domain_rank": 34144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "128996e61eb3ad88313252576913d2ba004a1571",
+    "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3495504",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ArcaMax Publishing, Inc.",
+    "published": "2024-11-23T07:00:00.000+02:00",
+    "title": "Trump chooses ex-aide Brooke Rollins for agriculture chief",
+    "text": "WASHINGTON — President-elect Donald Trump selected Brooke Rollins, who heads a policy institute created to promote his agenda, as his nominee for U.S. secretary of agriculture.\nRollins’ commitment to supporting farmers, food self-sufficiency and the restoration of agriculture-dependent American small towns “is second to none,” Trump said Saturday in a statement.\nRollins is president of the America First Policy Institute, which she founded in 2021 to lay the groundwork for Trump’s eventual return to the White House. Its tasks included creating how-to guides for incoming staffers and policy recommendations from people who served during the first Trump administration.\nThe institute’s chair is Linda McMahon, a longtime Republican donor and head of the Small Business Administration during Trump’s prior term whom he chose on Tuesday to lead the Department of Education.\nBy picking Rollins, who grew up in a small town in Texas, Trump turned to an adviser who served in his first administration.\n“Brooke was on my 2016 Economic Advisory Council, and did an incredible job during my First Term as the Director of the Domestic Policy Council, Director of the Office of American Innovation, and Assistant to the President for Strategic Initiatives,” the president-elect said.\nThe Agriculture Department’s role goes beyond farm policy — it also manages food stamps, school lunches and other nutrition programs, and it’s responsible for forest conservation, food inspections and rural development.\nProject 2025, the Heritage Foundation’s manifesto for conservative policy seen by many as a guidebook for the incoming administration, called the department’s mission “overly broad.”\n That blueprint calls for reducing farm subsidies, slashing environmental regulations and cutting spending on nutrition programs, which would move to the Department of Health and Human Services. Trump has distanced himself from Heritage’s work, but hasn’t put forward a detailed agriculture policy of his own.\nTrump cited Rollins’s experience, including her agriculture studies at Texas A&M University and her family’s farming background. She “will spearhead the effort to protect American Farmers,” he said.\nAgriculture is likely to be swept up in other Trump priorities, including the threat of higher tariffs that could prompt foreign retaliation against U.S. farm exports. Trump papered over the issue in his last presidency by raiding billions in leftover funds from a crop insurance program.\nThe next secretary will also have to shepherd a long-stalled farm bill through Congress after the 2018 reauthorization, which expired last year, received a short-term extension.\nRollins’ name emerged after CNN reported Friday that Trump was expected to select Kelly Loeffler, a former senator from Georgia and prominent donor.\nHis ultimate choice was a reminder that no nominee is final until announced by Trump — as evidenced by the contest for Treasury secretary, which spilled into public view and ended up with the president-elect picking hedge fund executive Scott Bessent, who beat out rivals in a dramatic competition after starting off as the front-runner.\n©2024 Bloomberg L.P. Visit bloomberg.com. Distributed by Tribune Content Agency, LLC.\nShare",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Linda McMahon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Small Business Administration",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:52:02.457+02:00",
+    "updated": "2024-11-24T02:13:40.226+02:00"
+}

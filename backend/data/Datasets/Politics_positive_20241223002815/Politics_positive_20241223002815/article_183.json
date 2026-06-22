@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "cdc322db2d5a167328e5b9727ae88c21fdacb6ec",
+        "url": "https://www.ibtimes.com/elon-musk-drops-infamous-reply-after-don-jr-suggests-he-buy-msnbc-3752349",
+        "site_full": "www.ibtimes.com",
+        "site": "ibtimes.com",
+        "site_section": "https://www.ibtimes.com/rss/technology/games",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "International Business Times",
+        "title": "Elon Musk Drops Infamous Reply After Don Jr. Suggests He Buy MSNBC | IBTimes",
+        "title_full": "Elon Musk Drops Infamous Reply After Don Jr. Suggests He Buy MSNBC | IBTimes",
+        "published": "2024-11-23T00:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d.ibtimes.com/en/full/4561502/elon-musk-listens-us-president-elect-donald-trump-speaks-during-meeting-house-republicans.jpg",
+        "performance_score": 0,
+        "domain_rank": 1159,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cdc322db2d5a167328e5b9727ae88c21fdacb6ec",
+    "url": "https://www.ibtimes.com/elon-musk-drops-infamous-reply-after-don-jr-suggests-he-buy-msnbc-3752349",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "M.B. Mack",
+    "published": "2024-11-23T00:57:00.000+02:00",
+    "title": "Elon Musk Drops Infamous Reply After Don Jr. Suggests He Buy MSNBC | IBTimes",
+    "text": "Elon Musk took social media by storm after jokingly responding to Donald Trump Jr.'s suggestion that he consider buying MSNBC.Rumors recently surfaced suggesting MSNBC might be sold following reports of layoffs at CNN and restructuring at Comcast\\/NBC Universal.The speculation caught Donald Trump Jr.'s attention, who then floated the idea to Musk in a post on X.On Friday, November 17, Trump Jr. tagged Musk in a post calling the idea \"the funniest ever,\" to which Musk replied with a simple: \"How much does it cost?\"The lighthearted exchange went viral, with Musk later commenting that the \"most entertaining outcome is most likely.\"X users immediately recalled Musk's history of unexpected acquisitions like his $44 billion purchase of Twitter in 2022.When he shared on Twitter that he loved it, a commenter suggested he buy the platform. To that, Musk similarly asked \"How much is it?\"While Comcast has made no official announcement regarding the sale of MSNBC, Musk's response has reignited conversations about his influence on social media and businesses.Originally published by Latin Times",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://economictimes.indiatimes.com/news/international/us/massive-layoffs-coming-soon-cnn-to-sack-hundreds-including-top-stars-due-to-dismal-election-ratings/articleshow/115260756.cms?from=mdr",
+        "https://www.latintimes.com/topics/donald-trump-jr",
+        "https://www.latintimes.com/elon-musk-drops-infamous-reply-after-don-jr-suggests-he-buy-msnbc-566843",
+        "https://www.latintimes.com/topics/elon-musk",
+        "https://latintimes.com/topics/elon-musk",
+        "https://economictimes.indiatimes.com/news/international/us/massive-layoffs-coming-soon-cnn-to-sack-hundreds-including-top-stars-due-to-dismal-election-ratings/articleshow/115260756.cms",
+        "https://www.economictimes.indiatimes.com/news/international/us/massive-layoffs-coming-soon-cnn-to-sack-hundreds-including-top-stars-due-to-dismal-election-ratings/articleshow/115260756.cms?from=mdr",
+        "https://latintimes.com/elon-musk-drops-infamous-reply-after-don-jr-suggests-he-buy-msnbc-566843",
+        "https://latintimes.com/topics/donald-trump-jr"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump Jr.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Musk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Comcast",
+                "sentiment": "none"
+            },
+            {
+                "name": "MSNBC",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:05:03.254+02:00",
+    "updated": "2024-11-23T02:07:16.691+02:00"
+}

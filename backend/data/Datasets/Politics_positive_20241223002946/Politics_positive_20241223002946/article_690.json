@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "a233b275de00279083367b65cd32d201d3e75220",
+        "url": "https://www.arcamax.com/politics/politicalnews/s-3494712",
+        "site_full": "www.arcamax.com",
+        "site": "arcamax.com",
+        "site_section": "http://www.arcamax.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | ArcaMax Publishing",
+        "title": "Trump picks Rep. Chavez-DeRemer for Labor | Political News | ArcaMax Publishing",
+        "title_full": "Trump picks Rep. Chavez-DeRemer for Labor | Political News | ArcaMax Publishing",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://resources.arcamax.com/newspics/315/31573/3157376.gif",
+        "performance_score": 0,
+        "domain_rank": 34144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a233b275de00279083367b65cd32d201d3e75220",
+    "url": "https://www.arcamax.com/politics/politicalnews/s-3494712",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ArcaMax Publishing, Inc.",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Trump picks Rep. Chavez-DeRemer for Labor | Political News | ArcaMax Publishing",
+    "text": "Trump picks Rep. Chavez-DeRemer for Labor\nPublished in [Political News](/politics/politicalnews/)\nWASHINGTON — President-elect Donald Trump said he will nominate Rep. Lori Chavez-DeRemer to be secretary of the Department of Labor.\n“Together, we will achieve historic cooperation between Business and Labor that will restore the American Dream for Working Families,” Trump said in a statement. “Lori’s strong support from both the Business and Labor communities will ensure that the Labor Department can unite Americans of all backgrounds behind our Agenda for unprecedented National Success – Making America Richer, Wealthier, Stronger and more Prosperous than ever before!”\nChavez-DeRemer, R-Ore., is a first-term lawmaker who lost her reelection bid to Democrat Janelle Bynum, currently a state representative. Chavez-DeRemer was the first Republican since 1997 to represent the 5th District, which includes part of Portland, the eastern Willamette Valley and encompasses Bend. She conceded a close race to Bynum on Nov. 14.\nShe garnered support from labor unions during the campaign, including the United Food and Commercial Workers and Teamsters Local 37, according to a story Tuesday in Willamette Week.\n“Perhaps most importantly to a president who prizes loyalty, Chavez-DeRemer imperiled her own reelection chances by endorsing Trump — a bold move in the 5th Congressional District, where Democrats hold a 5-point voter registration advantage,” the paper reported.\nTeamsters President Sean O’Brien told House Republican leaders in a Tuesday meeting that Chavez-DeRemer “would be an excellent choice for Labor Secretary,” Teamsters spokesperson Kara Deniz wrote in an email.\nThe Teamsters are backing Chavez-DeRemer in part because she is a co-sponsor of a bill that would facilitate the formation of labor unions. She was one of three Republicans to sign on to the legislation.\n“She has been a strong advocate for workers and co-sponsored the PRO Act,” Deniz said. “While there is never a guarantee any candidate for the position will agree with us on every topic, she is forthright and she will listen.”\nChavez-DeRemer’s Capitol Hill experience most directly related to the Labor Department is her service on the House Education and the Workforce Committee. She is a member of the subcommittees on Health, Employment, Labor and Pensions; and Higher Education and Workforce Development.\nShe sponsored several pieces of labor legislation, including a bill that would amend a workforce development law to strengthen technical assistance and support for communities impacted by substance abuse.\nA member of the House Agriculture Committee, Chavez-DeRemer also sponsored a bill that would establish an Agriculture Department program for forestry workforce development.\nChavez-DeRemer stressed her independence in her Democratic-leaning district.\n“We can’t be one sided – in this divided country, and in this divided Congress, the only way to get good policy done is to work across the aisle,” Chavez-DeRemer said in a June 3 Instagram post.\n©2024 CQ-Roll Call, Inc., All Rights Reserved. Visit cqrollcall.com. Distributed by Tribune Content Agency, LLC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/share?url=https://www.arcamax.com/politics/politicalnews/s-3494712&hashtags=ArcaMax",
+        "https://plus.google.com/share?url=https://www.arcamax.com/politics/politicalnews/s-3494712",
+        "https://plus.google.com/share",
+        "https://plus.google.com/share?url=https://arcamax.com/politics/politicalnews/s-3494712",
+        "https://twitter.com/share",
+        "https://twitter.com/share?url=https://arcamax.com/politics/politicalnews/s-3494712&hashtags=ArcaMax"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lori Chavez-DeRemer",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Janelle Bynum",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Food and Commercial Workers",
+                "sentiment": "none"
+            },
+            {
+                "name": "Department of Labor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Labor Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Willamette",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:11:47.088+02:00",
+    "updated": "2024-11-23T04:24:38.073+02:00"
+}

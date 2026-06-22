@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "a0de968e0994062f38bc8392cac36742ef39f7e6",
+        "url": "https://turnto10.com/news/nation-world/fbi-shakeup-could-be-on-the-horizon-doj-attorney-general-trump-pam-bondi-jd-vance-national-security-politics-christopher-wray-congress",
+        "site_full": "turnto10.com",
+        "site": "turnto10.com",
+        "site_section": "http://turnto10.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "FBI shakeup could be on the horizon",
+        "title_full": "FBI shakeup could be on the horizon",
+        "published": "2024-11-22T22:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://turnto10.com/resources/media2/16x9/6943/986/0x362/90/d8342167-65f7-40c9-9a02-f8d4abbd432e-AP24310022615157.jpg",
+        "performance_score": 0,
+        "domain_rank": 13643,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0de968e0994062f38bc8392cac36742ef39f7e6",
+    "url": "https://turnto10.com/news/nation-world/fbi-shakeup-could-be-on-the-horizon-doj-attorney-general-trump-pam-bondi-jd-vance-national-security-politics-christopher-wray-congress",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MATT GALKA | The National News Desk",
+    "published": "2024-11-22T22:28:00.000+02:00",
+    "title": "FBI shakeup could be on the horizon",
+    "text": "WASHINGTON (TNND) — President-elect Donald Trump has promised an overhaul of the Justice Department when he returns to the White House.\nPam Bondi is now Trump’s latest pick to be the next Attorney General. The former Florida AG was named after Trump’s first pick, Matt Gaetz , taking his name out of the running while dealing with a series of scandals and investigations.\nTrump has long promised to shake up the country’s top law enforcement divisions.\nVOTE | Do you think the FBI has been politically weaponized?\n“We will clean out all of the corrupt actors in our National Security and Intelligence apparatus, and there are plenty of them. The departments and agencies that have been weaponized will be completely overhauled,\" Trump said in one of his campaign videos posted in 2023.\nTrump and his allies have pointed to the President-elect’s legal troubles as evidence of a corrupt system that he vows to upend.\n“The DOJ and the FBI has been politicized. There's no question about it. We've seen what they've done to President Trump. We've seen the attacks that they continue to go after him with the DOJ is 100 percent weaponized,\" said Sen. Markwayne Mullin, R-Okla., during an appearance on NBC's Meet the Press.\nThere’s speculation Trump will also look for a new leader of the FBI. Trump appointed current FBI Director Christopher Wray in 2017, but he’s become a frequent target of Republicans during his tenure.\nA now-deleted post on X from Vice President-elect JD Vance indicated Vance was meeting with Trump this past week “to interview multiple positions for our government, including FBI Director.”\nWray and DHS Secretary Alejandro Mayorkas were set to attend public Congressional hearings this week on national security threats. However, they were postponed over an apparent disagreement between officials and lawmakers about whether the hearings should be held in public. The decision drew bipartisan criticism.\n“The FBI has sort of been front and center whether it’s the censorship industrial complex that’s existed, or going after Catholics, or investigating, quite frankly, parents that showed up to school board meetings under the auspices of the Patriot Act, the Department of Justice has really gone astray and it’s time for Christopher Wray to go, as well,\" Sen. Eric Schmitt, R-Mo., said this week.\nWray’s full term would run until 2027 if Trump wants to keep him. It seems like a long shot at this point after Trump has previously called for Wray to resign and accused him of lying to Congress when he vouched for President Joe Biden’s mental acuity earlier this year.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Justice Department",
+                "sentiment": "negative"
+            },
+            {
+                "name": "FBI",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Florida AG",
+                "sentiment": "none"
+            },
+            {
+                "name": "DOJ",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a0de968e0994062f38bc8392cac36742ef39f7e6",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:31:00.743+02:00",
+    "updated": "2024-11-23T01:07:16.885+02:00"
+}

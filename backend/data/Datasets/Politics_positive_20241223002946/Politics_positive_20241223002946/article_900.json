@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "361d72bc1b7f7a84f101d6a1a10e85d2e9dfb28f",
+        "url": "https://www.newsbreak.com/newsnation-2045693/3686382781028-trump-selects-former-florida-rep-dave-weldon-to-lead-cdc",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/newsnation-2045693",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NewsNation&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/1Zn8ls_0wyU3UaH00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "361d72bc1b7f7a84f101d6a1a10e85d2e9dfb28f",
+    "url": "https://www.newsbreak.com/newsnation-2045693/3686382781028-trump-selects-former-florida-rep-dave-weldon-to-lead-cdc",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T04:00:00.000+02:00",
+    "title": "",
+    "text": "By Juliann Ventura The Hill ,\n1 hours ago\nPresident-elect Donald Trump tapped former Florida Rep. Dave Weldon (R) to serve as the director for the Centers for Disease Control and Prevention (CDC) during his upcoming administration.\n“I am thrilled to announce that former Congressman, Dr. Dave Weldon, is nominated to serve as Director of the Centers for Disease Control and Prevention (CDC),” Trump said in a press release, which he posted on Truth Social on Friday evening.\nWeldon, a medical doctor and Army veteran, was a seven-term lawmaker until 2008. While in Congress, Weldon served on several committees, including Appropriations, Health and Human Services, Education and Labor, and Science. He returned to practicing medicine and working as a consultant after not seeking reelection.\n“The current Health of America is critical, and CDC will play a big role in helping to ensure Americans have the tools and resources they need to understand the underlying causes of disease, and the solutions to cure these diseases,” Trump said in the release.\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to NewsNation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1Zn8ls_0wyU3UaH00",
+        "https://www.newsnationnow.com/politics/donald-trump-new-administration/",
+        "https://www.newsnationnow.com",
+        "https://img.particlenews.com/image.php?url=1Zn8ls_0wyU3UaH00",
+        "https://www.newsnationnow.com/politics/donald-trump-new-administration",
+        "https://newsnationnow.com",
+        "https://www.img.particlenews.com/image.php?url=1Zn8ls_0wyU3UaH00",
+        "https://img.particlenews.com/image.php",
+        "https://newsnationnow.com/politics/donald-trump-new-administration/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1Zn8ls_0wyU3UaH00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dave Weldon",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Centers for Disease Control and Prevention",
+                "sentiment": "none"
+            },
+            {
+                "name": "Health and Human Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Education and Labor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nexstar Media, Inc",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "Army",
+                "sentiment": "none"
+            },
+            {
+                "name": "CDC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:31:19.367+02:00",
+    "updated": "2024-11-23T05:31:19.367+02:00"
+}

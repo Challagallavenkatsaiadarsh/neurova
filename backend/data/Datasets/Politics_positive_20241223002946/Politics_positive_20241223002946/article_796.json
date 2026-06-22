@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "9ea5614f71c137eeb6ebd7192c0305181afd0b56",
+        "url": "https://www.thenews.com.pk/print/1254020-lhc-orders-schools-to-provide-transport-to-students-after-winter-break",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk/today",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Today's Newspaper - Latest News, Top Headlines, Breaking News - thenews.com.pk",
+        "title": "LHC orders schools to provide transport to students after winter break",
+        "title_full": "LHC orders schools to provide transport to students after winter break",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254020_044519_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9ea5614f71c137eeb6ebd7192c0305181afd0b56",
+    "url": "https://www.thenews.com.pk/print/1254020-lhc-orders-schools-to-provide-transport-to-students-after-winter-break",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@APP",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "LHC orders schools to provide transport to students after winter break",
+    "text": "LAHORE : The Lahore High Court (LHC) on Friday ordered all schools to provide pick-and-drop transport services for students after the winter holidays.Justice Shahid Karim issued the orders while hearing petitions filed by Haroon Farooq and others against ineffective measures to control smog. The proceedings were attended by Deputy Attorney General Asad Ali Bajwa, the DG of Ministry of Climate Change, and a member of the Environment Commission, who presented a report on the implementation of court orders. During the proceedings, the court emphasised that students should use transportation arranged by the schools. \"Schools that do not adhere to this directive will face closure, and no school should inform parents that it does not hold responsibility for students,\" the court stated. The court ordered the transport authorities to develop a vehicle fitness policy within 15 days, mandating vehicle inspections every three months. \"The transport dept should issue fitness certificates and maintain a comprehensive database of all public and private buses,\" the court ordered.Police personnel detain supporters the Pakistan Tehreek-e-Insaf during a protest in Lahore on October 5, 2024. —...Inspector General Police Punjab Dr Usman Anwar addressing an event on December 17, 2023. —...Participants pose for a group photo during the 7th international conference on 'Mental Health and Rehabilitation:...VC Punjab University Prof Dr Muhammad Ali Shah assumes charge as the VC of Government College University , Lahore,...DG Youth Affairs and Sports Punjab Khizar Afzaal sits in a meeting image released on November 4, 2024. —...DIG Muhammad Faisal Kamran seen in this image. — lahorepolice.punjab.gov.pk/file LAHORE : DIG Muhammad Faisal...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Asad Ali Bajwa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haroon Farooq",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shahid Karim",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Lahore High Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "LHC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "DG of Ministry of Climate Change",
+                "sentiment": "none"
+            },
+            {
+                "name": "Environment Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:53:04.408+02:00",
+    "updated": "2024-11-23T07:32:58.499+02:00"
+}

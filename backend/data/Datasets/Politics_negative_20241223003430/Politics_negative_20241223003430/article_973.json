@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "c353fdd0a23375c39f968713f31388309f77e5d6",
+        "url": "https://punchng.com/corruption-monster-plaguing-nigeria-obasanjo",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "https://punchng.com/pdp-slams-tinubu-over-gcon-conferment-on-indian-pm",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "PDP slams Tinubu over GCON conferment on Indian PM",
+        "title": "Corruption, monster plaguing Nigeria – Obasanjo",
+        "title_full": "Corruption, monster plaguing Nigeria – Obasanjo",
+        "published": "2024-11-23T01:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.punchng.com/wp-content/uploads/2024/03/27002608/Obasanjo.png",
+        "performance_score": 0,
+        "domain_rank": 6171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c353fdd0a23375c39f968713f31388309f77e5d6",
+    "url": "https://punchng.com/corruption-monster-plaguing-nigeria-obasanjo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ademola Adegbite",
+    "published": "2024-11-23T01:43:00.000+02:00",
+    "title": "Corruption, monster plaguing Nigeria – Obasanjo",
+    "text": "Corruption is a great monster that is still battling with us in the country. It’s not that ICPC and Ayoola had not done their job, or that even I, who appointed him, had not done what I could have done; it was the pressure of this great cancer of corruption.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:53:30.361+02:00",
+    "updated": "2024-11-23T05:14:25.913+02:00"
+}

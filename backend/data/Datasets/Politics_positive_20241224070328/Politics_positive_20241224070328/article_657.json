@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "d092f519b0a90c86f2aa714cd46602284e1e492b",
+        "url": "https://www.standardmedia.co.ke/opinion/article/2001506937/nelson-amenya-is-hero-of-adani-collapse-you-like-it-or-not",
+        "site_full": "www.standardmedia.co.ke",
+        "site": "standardmedia.co.ke",
+        "site_section": "https://www.standardmedia.co.ke/central",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Standard - Kenya &amp; World News | Latest and Breaking news\n",
+        "title": "Nelson Amenya is hero of Adani collapse, you like it or not",
+        "title_full": "Nelson Amenya is hero of Adani collapse, you like it or not",
+        "published": "2024-11-24T05:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KE",
+        "main_image": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/JpB4w5HzvlLxBHvaJNbxJUHIFrjqCRjatqFdPuHE.jpg",
+        "performance_score": 0,
+        "domain_rank": 7694,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d092f519b0a90c86f2aa714cd46602284e1e492b",
+    "url": "https://www.standardmedia.co.ke/opinion/article/2001506937/nelson-amenya-is-hero-of-adani-collapse-you-like-it-or-not",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mike Nyagwoka",
+    "published": "2024-11-24T05:14:00.000+02:00",
+    "title": "Nelson Amenya is hero of Adani collapse, you like it or not",
+    "text": "Up until June this year, not many people knew Nelson Amenya, the whistleblower who has now brought down the Adani tower of scandalous deals.\nYet, his relentless zeal and push exposed the intricate web of deceit and disregard of legal processes involving the Indian company. While we welcome the decision by the government to cancel all deals involving Adani, we must also admit it is highly hypocritical.\nThe decision was taken under the pretext of new information from partner investigative agencies. This was another way of saying if Adani CEO Gautam Adani had not been indicted in the US state of New York, the government would not have found a reason to do so. But everything about Adani has been laid bare since June, when Amenya first posted the allegations.\nA simple search on Google reveals this is a company that had negative reporting even within India, where it originates from. The allegations range from stock manipulation, bribery, fraud, and environmental abuse.\nThere is really no reason to believe President William Ruto did not know what his officers were orchestrating and the nature of the company they were dealing with.\nIf that were the case, he would have long recognised Amenya as a hero from the first day he exposed the secret dealings. Even the mere thought that a government could consider leasing the country’s premier entry point to a foreign entity for 30 years was already suspect.\nDoing it so secretly that it had to take a leak for Kenyans to be aware rounds it off as one long con game. When Amenya was supposed to be getting flowers, he was instead getting stones and being trailed like a fugitive. As late as just a few days ago, Amenya claimed to be under the radar of DCI officers investigating his bank accounts in Kenya. In September, Amenya spoke to a local journalist while hiding, expressing fears for his life after receiving death threats. Amenya has active cases in court just because he chose to speak out against underhand deals that threaten the economic stability of the country.\nYou cannot believe that all this is happening while the whole world is actually celebrating him. In India, media outlets are scrambling for a word from him as he gets special mention all the way in the US.\nHowever, now that the government has agreed that Adani isn’t worth investing in Kenya, it must initiate further investigations on allegations of bribery. Any government official that disregarded the law and accepted an enticement of any nature so as to give Adani a through pass must also be indicted, just like Gautam Adani.\nThe government must go further and acknowledge Amenya as a hero with a befitting national award. Nelson Amenya has proven once again that a single citizen’s voice does matter. Just imagine where we would be if he had cowed in fear. I bet there are many more Kenyans who know things they can’t dare speak about, yet their lone voice could be our saving grace. Let Amenya inspire a generation that speaks out.\nThe writer is a communications consultant. [[email protected]](/cdn-cgi/l/email-protection)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nelson Amenya",
+                "sentiment": "negative"
+            },
+            {
+                "name": "William Ruto",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gautam Adani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:35:03.268+02:00",
+    "updated": "2024-11-24T05:35:03.268+02:00"
+}

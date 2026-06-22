@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "837479bea263f4569ba2bacfa8d1039d3ec76771",
+        "url": "https://www.officeholidays.com/holidays/albania/alphabet-day",
+        "site_full": "www.officeholidays.com",
+        "site": "officeholidays.com",
+        "site_section": "https://www.officeholidays.com/rss/all_holidays",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Upcoming holidays",
+        "title": "Nov 22, Albania: Alphabet Day",
+        "title_full": "Nov 22, Albania: Alphabet Day",
+        "published": "2024-11-22T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.officeholidays.com/images/935x475c/albania-flag-02.jpg",
+        "performance_score": 0,
+        "domain_rank": 31667,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "837479bea263f4569ba2bacfa8d1039d3ec76771",
+    "url": "https://www.officeholidays.com/holidays/albania/alphabet-day",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@officeholidays",
+    "published": "2024-11-22T06:00:00.000+02:00",
+    "title": "Nov 22, Albania: Alphabet Day",
+    "text": "In November 2023, Prime Minister Edi Rama, in his speech at the Diaspora Summit in Tirana, said that November 22nd, Alphabet Day, will be a national holiday in Albania, as it is for Albanians in North Macedonia.\nRama advised the President of Kosovo, Vjosa Omani, to suggest the same to her Prime Minister in Kosovo.\n\"It is the strength of one man, Arbën Xhaferri, who had the vision for Alphabet Day, November 22, to be a day known as a national holiday for Albanians in North Macedonia, and I think now is the day that Alphabet Day, which unites us all, to be a national holiday in Albania as well. And I definitely believe that the president of Kosovo will give this suggestion to his prime minister. I listen to the president for myself\", said Rama.\nAn official holiday for the administration has been added. The Minister of Foreign Affairs, Ilgi Hasani, in a media conference after the government meeting, announced that the Council of Ministers will propose to the Parliament that November 22 be declared as Alphabet Day.\nMinister Hasani stated that November 22nd has special symbolism and specifies the greatest unifying moment of Albanians.\n\"An amendment to the law on national holidays and memorial days will be approved. The Council of Ministers is proposing to the Parliament the addition of the alphabet day as one of our national holidays. It is a day with special symbolism.\nNovember 22nd specifies the greatest unifying moment of the Albanians, who are scattered in all the countries of the Balkans, and unites their language,\" said Foreign Minister Igli Hasani.\nAlbanian Alphabet Day commemorates the anniversary of the Congress of Manastir, held in the city of Manastir from November 14 to 22, 1908. The goal of this congress was standardizing the Albanian alphabet and eliminating the representation of the language by a combination of six different alphabets and a number of their sub-variants.\nThe Congress adopted the current Albanian alphabet, consisting of 29 consonants and 7 vowels. 9 letters of the alphabet are digraphs and 2 more are represented with diacritics. The letter W is used only in the borrowed words.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Edi Rama",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Arbën Xhaferri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ilgi Hasani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Parliament",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "North",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:24:29.542+02:00",
+    "updated": "2024-11-23T02:24:29.542+02:00"
+}

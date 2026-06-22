@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "59b5994fece46e84f21eefb62c7ca93bd8604250",
+        "url": "https://english.almayadeen.net/news/politics/hezbollah-publishes-footage-of-operation-on-haifa-technical",
+        "site_full": "english.almayadeen.net",
+        "site": "almayadeen.net",
+        "site_section": "https://english.almayadeen.net",
+        "site_categories": [
+            "top_news_iq",
+            "top_news_ma",
+            "top_news_eg",
+            "top_news"
+        ],
+        "section_title": "Home Page  |  Al Mayadeen English",
+        "title": "Hezbollah publishes footage of operation on Haifa Technical Base | Al Mayadeen English",
+        "title_full": "Hezbollah publishes footage of operation on Haifa Technical Base | Al Mayadeen English",
+        "published": "2024-11-22T23:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://alpha-en-media.almayadeen.net/media/image/2024/11/22/eed01447-76e3-4632-b9df-5f2b49509c65.png?width=1000",
+        "performance_score": 0,
+        "domain_rank": 12555,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "59b5994fece46e84f21eefb62c7ca93bd8604250",
+    "url": "https://english.almayadeen.net/news/politics/hezbollah-publishes-footage-of-operation-on-haifa-technical",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Al Mayadeen English",
+    "published": "2024-11-22T23:35:00.000+02:00",
+    "title": "Hezbollah publishes footage of operation on Haifa Technical Base | Al Mayadeen English",
+    "text": "Hezbollah publishes footage of operation on Haifa Technical Base\nThe Haifa Technical Base was targeted on Friday, at 2:15 am with a barrage of rockets according to the Islamic Resistance in Lebanon.\nThe [Military Media of the Islamic Resistance in Lebanon](https://english.almayadeen.net/news/politics/hezbollah-intercepts-invading-israeli-forces--bombs-numerous) - Hezbollah published footage of an operation targeting the Haifa Technical Base, located in easternmost Haifa, 35 kilometers from the Lebanese-Palestinian border, using Nasr-2 rockets.\nFootage of the Islamic Resistance targeting the Haifa Technical Base east of occupied\n— Al Mayadeen English (@MayadeenEnglish)[#Haifa]with 'Nasr 2' missiles.[pic.twitter.com/QJ0YOZpSPt][November 22, 2024]\nThe Nasr-2 rocket filmed had the Quran verse \"And we placed a barrier before them and a barrier behind them, and we covered them, so they cannot see,\" written on it. The rockets were launched in the dead of night, as footage showed.\nScenes of the rockets traveling overhead, taken by Israeli settlers, were also included in the video, as well as clips of interception attempts.\n[The Haifa Technical Base](https://english.almayadeen.net/news/politics/why-did-hezbollah-target-the-israeli-malam--haifa-techinical) was targeted on Friday, at 2:15 am, with a barrage of rockets, according to the Islamic Resistance in Lebanon. It is considered a major center for Israeli military research and development.\nThe base focuses on developing advanced technologies in security. This includes missile systems, aviation technology, military communications systems, artificial intelligence, and other advanced technologies.\nTroops serving in the base collaborate with Israeli weapons manufacturers, such as Rafael and Elbit, to develop defense solutions that meet the needs of the Israeli regime's military.\nRead more: [Rockets rain on Haifa, cause widespread damage and casualties](https://english.almayadeen.net/news/politics/rockets-rain-on-haifa--cause-widespread-damage-and-casualtie)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:15:52.445+02:00",
+    "updated": "2024-11-23T00:15:52.445+02:00"
+}

@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "7cc4d17531877460cf7264de6d6aad24ecabbc5b",
+        "url": "https://punchng.com/fg-targets-n8-7tn-revenue-from-customs",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "http://www.punchng.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Punch Newspapers - Latest News",
+        "title": "FG targets N8.7tn revenue from Customs",
+        "title_full": "FG targets N8.7tn revenue from Customs",
+        "published": "2024-11-24T02:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.punchng.com/wp-content/uploads/2024/07/25095636/national-security-customs-e1721897796904.jpg",
+        "performance_score": 0,
+        "domain_rank": 6171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7cc4d17531877460cf7264de6d6aad24ecabbc5b",
+    "url": "https://punchng.com/fg-targets-n8-7tn-revenue-from-customs",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tope Omogbolagun",
+    "published": "2024-11-24T02:06:00.000+02:00",
+    "title": "FG targets N8.7tn revenue from Customs",
+    "text": "Also, 2024 budget performance between January to August showed that Customs collections recorded N969.89bn out of N1.02tn which is 95%…",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Customs",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:39:35.074+02:00",
+    "updated": "2024-11-24T04:26:30.369+02:00"
+}

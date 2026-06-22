@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "f4af764ce0c735c00e0a06725c64d77e4f63610c",
+        "url": "https://www.freepressjournal.in/indore/indore-campaign-to-make-ayushman-cards-to-be-given-new-thrust",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "https://www.freepressjournal.in/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Free Press Journal",
+        "title": "Indore: Campaign To Make Ayushman Cards To Be Given New Thrust",
+        "title_full": "Indore: Campaign To Make Ayushman Cards To Be Given New Thrust",
+        "published": "2024-11-24T00:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2022-10/a612dbce-5f72-4cf3-b15d-761e21c462e7/Ayushman_bharat.jpg",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4af764ce0c735c00e0a06725c64d77e4f63610c",
+    "url": "https://www.freepressjournal.in/indore/indore-campaign-to-make-ayushman-cards-to-be-given-new-thrust",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Reporter",
+    "published": "2024-11-24T00:05:00.000+02:00",
+    "title": "Indore: Campaign To Make Ayushman Cards To Be Given New Thrust",
+    "text": "Camps will be organized ward-wise with the cooperation of public representatives. Target is to make Ayushman cards of about three lakh senior citizens in Indore district. Help of ASHA workers is also being taken in this work. They would be given Rs 5 for making one card.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tulsiram Silawat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shankar Lalwani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ramesh Mendola",
+                "sentiment": "none"
+            },
+            {
+                "name": "Siddharth Jain",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reena Malviya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asheesh Singh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shivam Verma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Manoj Patel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Golu Shukla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:12:38.954+02:00",
+    "updated": "2024-11-24T08:01:12.287+02:00"
+}

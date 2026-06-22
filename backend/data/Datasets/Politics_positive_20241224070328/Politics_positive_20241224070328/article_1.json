@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "aeeca276b68099577256f59c19f7e0351d9b60dd",
+        "url": "https://www.salon.com/2024/11/23/texas-greenlights-bible-based-curriculum-for-use-in-public-schools",
+        "site_full": "www.salon.com",
+        "site": "salon.com",
+        "site_section": "https://www.salon.com/2023/07/28/misinformation-about-chestfeeding-is-swirling-online-heres-what-that-actually-means/feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Salon.com",
+        "title": "Texas greenlights Bible-based curriculum for use in public schools",
+        "title_full": "Texas greenlights Bible-based curriculum for use in public schools",
+        "published": "2024-11-23T23:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2021/06/bible-cross-christianity-0624211.jpg",
+        "performance_score": 0,
+        "domain_rank": 738,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aeeca276b68099577256f59c19f7e0351d9b60dd",
+    "url": "https://www.salon.com/2024/11/23/texas-greenlights-bible-based-curriculum-for-use-in-public-schools",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Griffin Eckstein",
+    "published": "2024-11-23T23:30:00.000+02:00",
+    "title": "Texas greenlights Bible-based curriculum for use in public schools",
+    "text": "The Texas State Board of Education approved a new curriculum that will incorporate stories from the Bible into elementary school education. In an eight-to-seven vote on Tuesday , the board approved the state-written “Bluebonnet” curriculum, which infuses Bible stories into language arts materials for students in kindergarten through fifth grade. All four Democrats on the board were joined by three Republicans in voting unsuccessfully against the curriculum. Texas schools will have the option to pick the curriculum in the coming school year, which critics argue violates First Amendment protections against a state establishment of religion. School districts that adopt the Bible-based curriculum will qualify for extra funding of up to $40 per student per year as a result of a 2023 state law incentivizing the use of material approved by the state board. Governor Greg Abbott installed a Republican to the board ahead of the vote. That seat is due to be filled by Democrat Tiffany Clark in January. Clark ran unopposed for the seat that was vacated by Democrat Aicha Davis. Appointee Leslie Recine was the deciding vote in the approval of the curriculum. A prominent teachers’ union in the state said the material approved by the “last-minute political appointee” violated the Establishment Clause of the U.S. Constitution. “At a moment of profound political division, this curriculum is a concerted effort to 'other' and exclude students of differing cultures and religions through state-sponsored instructional materials,” the American Federation of Teachers' Texas chapter shared in a statement . “It is the latest evidence that Christian nationalists have bought their way into every governing body of the state, including the SBOE.” Proponents of the curriculum argue that the religious passages provide important context for American history. Those boosters include Gov. Abbott , who earlier this year claimed that Bluebonnet would allow “students to better understand the connection of history, art, community, literature and religion on pivotal events.” Similar arguments have been employed in Oklahoma, a laboratory of ideas for desecularizing public schools . Superintendent Ryan Walters has ordered state schools to teach the Bible and recently went on an oddly specific hunt to find Trump-endorsed Bibles . Read more about Christianity",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tiffany Clark",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greg Abbott",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aicha Davis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Leslie Rec",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Texas State Board of Education",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:01:17.590+02:00",
+    "updated": "2024-11-24T00:55:18.862+02:00"
+}

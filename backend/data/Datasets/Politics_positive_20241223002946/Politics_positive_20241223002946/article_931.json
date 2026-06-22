@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "75a655345a750de1bd897ebc365a3e16116e6de1",
+        "url": "https://thedailyguardian.com/trump-picks-scott-bessent-as-treasury-secretary",
+        "site_full": "thedailyguardian.com",
+        "site": "thedailyguardian.com",
+        "site_section": "https://thedailyguardian.com/feed/",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Latest News Today:Breaking News|Entertainment News|Business News|Politics News|Sports News|English news-TheDailyGuardian",
+        "title": "Trump Picks Scott Bessent as Treasury Secretary",
+        "title_full": "Trump Picks Scott Bessent as Treasury Secretary",
+        "published": "2024-11-23T00:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://thedailyguardian.com/wp-content/uploads/2024/11/108060598-1731101381076-108060598-1731101306613-gettyimages-2155831262-SCOTT_BESSENT_INTERVIEW.webp",
+        "performance_score": 0,
+        "domain_rank": 54919,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "75a655345a750de1bd897ebc365a3e16116e6de1",
+    "url": "https://thedailyguardian.com/trump-picks-scott-bessent-as-treasury-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@TheDailyGuardian",
+    "published": "2024-11-23T00:23:00.000+02:00",
+    "title": "Trump Picks Scott Bessent as Treasury Secretary",
+    "text": "[+](javascipt:void(0);)\nDonald Trump has selected Scott Bessent, a prominent hedge fund investor and former Yale University lecturer, as his nominee for treasury secretary, according to a statement released Friday. The treasury role, among the most powerful in Washington, wields significant influence over the U.S. economy and global financial markets.\nThis decision marks another step in assembling Trump’s administration for his second term, a process that has largely prioritized personal loyalty and political alignment over conventional experience or expertise.\nBessent, 62, is known for advocating tax reforms and deregulation aimed at boosting bank lending and energy production. In a recent Wall Street Journal op-ed, he attributed the stock market rally following Trump’s election to investor optimism about higher growth, reduced volatility, and a reinvigorated economy.\nThe treasury secretary oversees a wide array of responsibilities, including managing the nation’s $28.6 trillion debt, collecting taxes, handling financial regulation, and implementing market crisis measures. Additionally, the role involves steering U.S. financial sanctions policy, guiding institutions like the IMF and World Bank, and reviewing foreign investments in the U.S.\nBessent’s tenure would likely focus on Trump’s trade policies, including implementing aggressive tariffs that have sparked concern internationally. He will also face the challenge of managing a ballooning federal deficit, projected to grow by nearly $8 trillion over the next decade due to Trump’s tax cut plans and proposed new breaks. Bessent believes that Trump’s agenda could spur economic growth, increasing revenues and stabilizing market confidence.\nAnother key area is the U.S.’s role in the G7’s support for Ukraine against Russia’s invasion, a priority under current Secretary Janet Yellen. However, Trump’s intent to end the war swiftly and reduce U.S. financial support for Ukraine raises questions about whether this policy will continue.\nOn climate issues, Bessent’s approach is expected to diverge from Yellen’s. While she prioritized clean energy investments and integrating climate risks into financial regulations, Trump’s focus remains on bolstering fossil fuel production and eliminating clean energy subsidies from the Inflation Reduction Act.\nBessent follows a line of prominent financial leaders in the role, including Robert Rubin, Hank Paulson, Steven Mnuchin, and current Treasury Secretary Janet Yellen, the first woman to hold the position.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Yale University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:43:48.416+02:00",
+    "updated": "2024-11-23T05:43:48.416+02:00"
+}

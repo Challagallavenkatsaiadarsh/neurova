@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "c1eb1a6b0da2b759fc39846c23702c36f782aadf",
+        "url": "https://sundayguardianlive.com/news/eknath-shinde-is-maharastras-new-senapati",
+        "site_full": "sundayguardianlive.com",
+        "site": "sundayguardianlive.com",
+        "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+        "site_categories": [],
+        "section_title": "Latest news clusters for en",
+        "title": "Eknath Shinde is Maharastra’s new Senapati",
+        "title_full": "Eknath Shinde is Maharastra’s new Senapati",
+        "published": "2024-11-23T20:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://sundayguardianlive.com/wp-content/uploads/2024/11/Eknath-is-the-new-Senapati-by-Saurabh.jpg",
+        "performance_score": 0,
+        "domain_rank": 38636,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c1eb1a6b0da2b759fc39846c23702c36f782aadf",
+    "url": "https://sundayguardianlive.com/news/eknath-shinde-is-maharastras-new-senapati",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Saurabh Sharma",
+    "published": "2024-11-23T20:32:00.000+02:00",
+    "title": "Eknath Shinde is Maharastra’s new Senapati",
+    "text": "Shinde’s victory solidifies his control of Shiv Sena, outpacing the Uddhav faction in Maharashtra elections. New Delhi: The Maha Vikas Aghadi’s (MVA) massive defeat in Maharashtra Assembly Elections is expected to rest the heaviest on the shoulders of former Chief Minister Uddhav Thackeray who not only lost a major political battle but also lost the battle over the control of the real Shiv Sena.\nChief Minister Eknath Shinde, who broke the real Shiv Sena back in 2022, accusing Uddhav Thackeray of turning away from the ideology laid down by his father late Balasaheb Thackeray for power, emerged as the real boss of ‘Shiv Sena’.\nLabelled as ‘gaddar’ by the Uddhav faction, Shinde secured 56 out of the 81 seats it contested with a strike rate of almost 69% and seems to have settled the debate over who controls the party.\nOn the other hand, the Shiv Sena (UBT) won just 20 out of the 90 seats it contested. It is worthy to note here that in the Lok Sabha elections as well, Shinde’s Sena outperformed the Uddhav Thackeray-led Sena.\nThe Shinde Sena had won seven out of the 15 seats it contested, achieving a success rate of nearly 47% as compared to Uddhav faction which won nine of the 21 seats, a strike rate of 42%.\nIn the last two-and-a-half years, Shinde was being labelled as ‘chor’, ‘gaddar’ and what not by Uddhav faction but the outcome of the Maharashtra Assembly elections has shown who the real Shiv Sena is.\nThis is a result of Shinde’s clear positioning of himself as a grassroots leader supported by Shiv Sainiks.\n“His determination, calming nature and his administrative skills are a key factor behind his success. Even his son Shrikant Shinde is extremely bright. Senior Shinde kept the party intact and never gave up hope. He is extremely hard-working and that is visible in the outcome”, said Deputy Chief Minister of Uttar Pradesh and Rajya Sabha member Dr Dinesh Sharma, who worked as the Lok Sabha election in charge of Maharashtra and worked closely with Shinde.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Balasaheb Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Uddhav Thackeray",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Shiv Sena",
+                "sentiment": "none"
+            },
+            {
+                "name": "UBT",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:47:58.237+02:00",
+    "updated": "2024-11-25T10:21:33.566+02:00"
+}

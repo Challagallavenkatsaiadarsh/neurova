@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "d6e1b681d9d4e8501d42f571b58240138fa65553",
+        "url": "https://www.thestatesman.com/bengal/madarihat-tmc-snatches-win-from-bjp-riding-on-better-people-connect-1503368279.html",
+        "site_full": "www.thestatesman.com",
+        "site": "thestatesman.com",
+        "site_section": "https://thestatesman.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest News, India News, Breaking News, Today&#039;s News Headlines Online | The Statesman",
+        "title": "Madarihat: TMC snatches win from BJP riding on better people-connect",
+        "title_full": "Madarihat: TMC snatches win from BJP riding on better people-connect",
+        "published": "2024-11-24T07:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 13679,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d6e1b681d9d4e8501d42f571b58240138fa65553",
+    "url": "https://www.thestatesman.com/bengal/madarihat-tmc-snatches-win-from-bjp-riding-on-better-people-connect-1503368279.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SNS",
+    "published": "2024-11-24T07:11:00.000+02:00",
+    "title": "Madarihat: TMC snatches win from BJP riding on better people-connect",
+    "text": "The Bharatiya Janata Party (BJP) has failed to retain its Madarihat Assembly segment in Alipurduar during the recent bypoll. For the first time, the Trinamul Congress (TMC) captured the seat, with TMC candidate Jayprakash Toppo defeating his nearest rival, BJP’s Rahul Lohar, by a margin of 28,168 votes.\nHistorically, this Assembly segment was under the control of the Left until the BJP gained dominance. Manoj Tigga, the BJP’s Alipurduar district president, had won the seat twice as an MLA. However, despite his standing as an MP from Alipurduar, Mr Tigga was unable to prevent the loss in this bypoll.\nSignificantly, former MP from Alipurduar and ex-Union minister of state for minority affairs, John Barla, commented on the result, saying: “The same result will repeat in 2026. Both the district president and state president are responsible for this outcome. The district president did not consult me on any matters. His ‘go-alone’ policy is the sole reason for this result in the tea garden areas.”\nInterestingly, the BJP leadership has refrained from blaming John Barla for the disappointing bypoll outcome.\nBJP candidate Rahul Lohar remarked, “John-da was occupied with his wife, who is seriously ill, in Siliguri during the election period. The Trinamul Congress and its associates went to extreme lengths to prevent me from working. They took control of the area, obstructed me from overseeing the elections, and drove out several polling agents.”\nAlipurduar MP Manoj Tigga echoed Mr Lohar’s concerns, stating: “The BJP contested the bypoll alone, while the TMC fought with the backing of the police and administration. We accept the mandate and will begin reviewing the situation for 2026. The people of Madarihat have supported us for many years, and we are confident they will stand with us again in 2026.”\nOn the other hand, TMC leader Sourav Chakraborty expressed optimism, saying: “The result in Madarihat signals a change in north Bengal. The TMC is on its way to coming to power in 2026 by defeating the BJP. In the last parliamentary elections, the BJP misled people, preventing the TMC from recovering the Lok Sabha seat.”\nIn the 2024 Parliamentary elections, the BJP had managed a lead of nearly 11,000 votes in Madarihat, underscoring the shifting political dynamics in the region.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jayprakash Toppo",
+                "sentiment": "none"
+            },
+            {
+                "name": "John Barla",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tigga",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Trinamul Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "TMC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Alipurduar",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:34:18.457+02:00",
+    "updated": "2024-11-24T07:34:18.457+02:00"
+}

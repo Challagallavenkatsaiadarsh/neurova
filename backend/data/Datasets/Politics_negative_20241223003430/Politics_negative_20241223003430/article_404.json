@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "7a21ac815d1bf36f8b5e3fddfa4505724b51f3c4",
+        "url": "https://www.sun-sentinel.com/2024/11/22/desantis-quickly-sets-special-election-to-fill-gaetzs-republican-seat-unlike-delay-for-a-democratic-seat",
+        "site_full": "www.sun-sentinel.com",
+        "site": "sun-sentinel.com",
+        "site_section": "https://www.sun-sentinel.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Sun Sentinel &#8211; Sun Sentinel: Your source for South Florida breaking news, sports, business, entertainment, weather and traffic",
+        "title": "DeSantis quickly sets special election to fill Gaetz’s Republican seat — unlike delay for a Democratic seat",
+        "title_full": "DeSantis quickly sets special election to fill Gaetz’s Republican seat — unlike delay for a Democratic seat",
+        "published": "2024-11-23T00:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2091,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7a21ac815d1bf36f8b5e3fddfa4505724b51f3c4",
+    "url": "https://www.sun-sentinel.com/2024/11/22/desantis-quickly-sets-special-election-to-fill-gaetzs-republican-seat-unlike-delay-for-a-democratic-seat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anthony Man",
+    "published": "2024-11-23T00:04:00.000+02:00",
+    "title": "DeSantis quickly sets special election to fill Gaetz’s Republican seat — unlike delay for a Democratic seat",
+    "text": "Subscribe to continue reading this article. Already subscribed? To login in, click here. Originally Published: November 22, 2024 at 5:04 PM EST Share this: Click to share on Facebook (Opens in new window) Click to share on X (Opens in new window)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ron DeSantis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Walton County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Escambia",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:46:33.206+02:00",
+    "updated": "2024-11-23T06:02:15.320+02:00"
+}

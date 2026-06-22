@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "201f1a40f4d561381f343a7552d9bc3c7942337c",
+        "url": "http://www.uniindia.com/omar-inaugurates-public-services-and-outreach-office-in-srinagar/north/news/3330298.html",
+        "site_full": "www.uniindia.com",
+        "site": "uniindia.com",
+        "site_section": "http://www.uniindia.net/feed.aspx?lang_id=1",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "United News Of India",
+        "title": "Omar Inaugurates Public Services and Outreach Office in Srinagar",
+        "title_full": "Omar Inaugurates Public Services and Outreach Office in Srinagar",
+        "published": "2024-11-22T21:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 27943,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "201f1a40f4d561381f343a7552d9bc3c7942337c",
+    "url": "http://www.uniindia.com/omar-inaugurates-public-services-and-outreach-office-in-srinagar/north/news/3330298.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Uniindia News Service",
+    "published": "2024-11-22T21:49:00.000+02:00",
+    "title": "Omar Inaugurates Public Services and Outreach Office in Srinagar",
+    "text": "States » NorthPosted at: Nov 23 2024 12:49AM Omar Inaugurates Public Services and Outreach Office in SrinagarSrinagar, Nov 22 (UNI) Jammu and Kashmir Chief Minister Omar Abdullah inaugurated “Raabta” - the CM’s Public Services and Outreach Office here on Friday.The “Raabta’or connection, public service and outreach office is a significant step toward transparent, citizen-centric governance, the government claimed..The office, designed as a single-window platform, aims to ensure efficient grievance redressal and informed decision-making through data-driven monitoring and strategic communication.The grievance redressal system under the office will serve as a bridge between citizens and the government, combining robust digital systems with on-ground engagement to ensure timely service delivery and responsive governance.During his maiden visit, the Chief Minister toured the facility, reviewed its operations, and interacted with officers.Commending the initiative, the Chief Minister emphasised the importance of citizen engagement and directed officers to ensure timely grievance resolution and proactive communication with the public.The Chief Minister was informed that the office will adopt a hybrid communication approach, including an online grievance portal, dedicated helpline, and periodic in-person interactive sessions to cater to all citizens effectively.The innovative initiative underscores the government’s dedication to fostering public trust and ensuring a seamless interface between the administration and citizens. UNI QAB SSPTags: #Omar Inaugurates Public Services and Outreach Office in Srinagar",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Omar Abdullah",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Omar Inaugurates Public Services and Outreach Office",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kashmir",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:37:35.059+02:00",
+    "updated": "2024-11-23T04:37:35.059+02:00"
+}

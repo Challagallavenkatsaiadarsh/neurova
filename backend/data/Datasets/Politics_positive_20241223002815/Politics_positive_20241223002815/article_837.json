@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "dfb97b32a72d31ae89aeb91c7f0b8aab428a483c",
+        "url": "https://www.bernama.com/en/news.php/?id=2366642",
+        "site_full": "www.bernama.com",
+        "site": "bernama.com",
+        "site_section": "http://bernama.com/en/rssfeed.php",
+        "site_categories": [
+            "social",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "BERNAMA - English Version",
+        "title": "General : 2TM Programme: KPKT Booth Gives Information On Licensed Moneylenders, Affordable Homes",
+        "title_full": "General : 2TM Programme: KPKT Booth Gives Information On Licensed Moneylenders, Affordable Homes",
+        "published": "2024-11-23T04:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.bernama.com/storage/photos/ad12c447c6be297f5edcd61d74c92895674143be9aefd-medium",
+        "performance_score": 0,
+        "domain_rank": 14583,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dfb97b32a72d31ae89aeb91c7f0b8aab428a483c",
+    "url": "https://www.bernama.com/en/news.php/?id=2366642",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BERNAMA",
+    "published": "2024-11-23T04:53:00.000+02:00",
+    "title": "General : 2TM Programme: KPKT Booth Gives Information On Licensed Moneylenders, Affordable Homes",
+    "text": "KUALA LUMPUR, Nov 22 (Bernama) -- Affordable home ownership and licensed money lending services were among the popular questions raised by visitors to the Ministry of Housing and Local Government (KPKT) booth at the Two-Year MADANI Government (2TM) programme held at Kuala Lumpur Convention Centre (KLCC), starting today until Sunday.\nKPKT Strategic and International Planning Division principal assistant secretary Norafizah Ismail said members of the public who visited KPKT booth were interested in obtaining clearer information on the matter.\n\"Through the service counter, we provide an opportunity for the public who want to know the criteria for owning a first home as well as the qualifications required to apply for a home under PR1MA and Syarikat Perumahan Negara Berhad (SPNB).\n\"Some visitors only know about the existence of licensed loans or also known as community credit companies after seeing the promotion at this booth, and this is a new input for them,\" she said when met by Bernama.\nTouching on the achievements of KPKT during the two years under the MADANI government, Norafizah said that among them, 2,634 illegal landfills had been successfully closed as of October.\nIn addition, she said the ministry had also recorded success in implementing the Urban Community Economic Empowerment (PEKB) programme with 672 participants from the B40 group having been successfully trained.\nShe said the stratified housing maintenance programme had also been successfully carried out under the ministry, involving an allocation of more than RM140 million with 376,911 users benefiting from 350 projects to be implemented and 208 have been completed as of October.\nRegarding the aspirations for next year, she said the ministry is determined to ensure that the housing sector grows and remains affordable so that every citizen can have their own dream home in line with the motto 'Rumahku, Syurgaku'.\n\"The aspirations include affordable housing, amendments to the law involving the Urban Renewal Act and social services, local authorities related to the system (traffic lights and anti-corruption) and including solid waste and community well-being,\" she said.\n-- BERNAMA\nBERNAMA provides up-to-date authentic and comprehensive news and information which are disseminated via BERNAMA Wires; www.bernama.com; BERNAMA TV on Astro 502, unifi TV 631 and MYTV 121 channels and BERNAMA Radio on FM93.9 (Klang Valley), FM107.5 (Johor Bahru), FM107.9 (Kota Kinabalu) and FM100.9 (Kuching) frequencies.\nFollow us on social media :\nFacebook : @bernamaofficial, @bernamatv, @bernamaradio\nTwitter : @bernama.com, @BernamaTV, @bernamaradio\nInstagram : @bernamaofficial, @bernamatvofficial, @bernamaradioofficial\nTikTok : @bernamaofficial",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Norafizah Ismail",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KPKT Strategic and International Planning Division",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ministry of Housing and Local Government",
+                "sentiment": "none"
+            },
+            {
+                "name": "Syarikat Perumahan Negara Berhad",
+                "sentiment": "none"
+            },
+            {
+                "name": "KLCC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Convention Centre",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:07:49.454+02:00",
+    "updated": "2024-11-23T05:07:49.454+02:00"
+}

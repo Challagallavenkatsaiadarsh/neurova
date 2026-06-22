@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "49999503a2f764fdc6778ba5b0caa635d4e3e6cc",
+        "url": "https://www.countypress.co.uk/news/24745515.possible-demolition-isle-wight-storage-building",
+        "site_full": "www.countypress.co.uk",
+        "site": "countypress.co.uk",
+        "site_section": "https://countypress.co.uk",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Isle of Wight News &amp; Weather | Isle of Wight County Press",
+        "title": "Possible demolition of Isle of Wight storage building",
+        "title_full": "Possible demolition of Isle of Wight storage building",
+        "published": "2024-11-22T23:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://www.countypress.co.uk/resources/images/18800496.jpg/?type=og-image",
+        "performance_score": 0,
+        "domain_rank": 96215,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "49999503a2f764fdc6778ba5b0caa635d4e3e6cc",
+    "url": "https://www.countypress.co.uk/news/24745515.possible-demolition-isle-wight-storage-building",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rufus Pickles",
+    "published": "2024-11-22T23:41:00.000+02:00",
+    "title": "Possible demolition of Isle of Wight storage building",
+    "text": "A car and motorbike storage space in an Isle of Wight seaside village could be demolished and replaced with an artist's studio and newly built garage.\nMr and Mrs Rivlin, the owners of the current 'low quality' building in Seaview known as The Garage, have applied for planning permission to undertake demolition and building works at the Circular Road site.\nThe proposed development would have a 'contemporary aesthetic' and includes rooftop solar panels according to a Design and Access Statement submitted on behalf of the couple by the architectural design practice, The Goddard Partnership Limited.\nThe document says it will use high quality materials.\nRead more: Barn could be built on edge of Isle of Wight National Landscape\nIt also states: \"The application proposes to replace the existing low quality building with a newly built garage and personal art studio.\n\"The Seaview Conservation Area Appraisal identifies that many of the\nlocal buildings are in good condition and retain their original appearance.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://publicnoticeportal.uk/",
+        "https://www.publicnoticeportal.uk/",
+        "https://publicnoticeportal.uk"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mrs Rivlin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Circular Road",
+                "sentiment": "none"
+            },
+            {
+                "name": "Seaview",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:13:13.556+02:00",
+    "updated": "2024-11-23T00:20:31.210+02:00"
+}

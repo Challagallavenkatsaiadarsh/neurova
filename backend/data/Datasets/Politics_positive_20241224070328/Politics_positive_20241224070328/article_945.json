@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "4c02adcb327cc89d90b4b1270a4d1048d93d9651",
+        "url": "https://broncoswire.usatoday.com/2024/11/23/broncos-great-john-elway-predicts-team-will-make-nfl-playoffs/?itm_source=parsely-api",
+        "site_full": "broncoswire.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "https://broncoswire.usatoday.com",
+        "site_categories": [
+            "football",
+            "sports",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_dk",
+            "top_news_th",
+            "top_news_fi",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Denver Broncos News, Rumors, Scores, Schedule, Stats and Roster | Broncos Wire",
+        "title": "Denver Broncos: John Elway chimes in on team’s NFL playoff chances",
+        "title_full": "Denver Broncos: John Elway chimes in on team’s NFL playoff chances",
+        "published": "2024-11-23T14:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://broncoswire.usatoday.com/wp-content/uploads/sites/68/2024/11/Broncos-NFL-playoffs.jpg?w=1024&#038;h=576&#038;crop=1",
+        "performance_score": 0,
+        "domain_rank": 153,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4c02adcb327cc89d90b4b1270a4d1048d93d9651",
+    "url": "https://broncoswire.usatoday.com/2024/11/23/broncos-great-john-elway-predicts-team-will-make-nfl-playoffs/?itm_source=parsely-api",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brandon Walker",
+    "published": "2024-11-23T14:30:00.000+02:00",
+    "title": "Denver Broncos: John Elway chimes in on team’s NFL playoff chances",
+    "text": "The Denver Broncos are 6-5 with six games remaining this season and team legend John Elway believes they will snap an eight-year playoff drought this fall.\n“Yeah, I do,” Elway said during an interview with Broncos Wire about Dupuytren’s contracture and his treatment . “I think I think they’re starting to hit stride. I think, obviously the disappointing loss in Kansas City just goes to show you that they can play; they’re two-time defending world champions.\n“And so, in Kansas City to play the way (Denver) played, I think they’re continuing to get better and better each week, especially offensively and defensively. They’ve been great (on defense) all year.\n“So if they can — there’s so many variables, as you know, we got to stay healthy — and if we can stay healthy and have that ball bounce our way, there’s no question that they’re a playoff team and hopefully they continue to improve like they have.”\nJohn Elway spoke with Broncos Wire in a three-part interview this week. Elway discussed Dupuytren’s contracture in Part 1 and rookie quarterback Bo Nix in Part 2 . Elway won three Super Bowls in Denver — two as a quarterback and a third as an executive. He stepped down from his role with the Broncos following the 2022 season.\nGallery These 25 celebrities are Broncos fans View 24 photos",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Elway",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bo Nix",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NFL",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Denver Broncos",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Broncos Wire",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:57:44.589+02:00",
+    "updated": "2024-11-24T07:57:44.589+02:00"
+}

@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "a0b83026e54659cd9fb4477d5dc10a9fa30889fa",
+        "url": "https://www.wxow.com/news/trump-chooses-rep-lori-chavez-deremer-as-his-pick-for-labor-secretary/article_2988a717-18a0-56ad-933b-65c266e06b4b.html",
+        "site_full": "www.wxow.com",
+        "site": "wxow.com",
+        "site_section": "http://www.wxow.com/search/?f=rss&t=article&c=&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.wxow.com - RSS Results of type article",
+        "title": "Trump chooses Rep. Lori Chavez-DeRemer as his pick for Labor secretary",
+        "title_full": "Trump chooses Rep. Lori Chavez-DeRemer as his pick for Labor secretary",
+        "published": "2024-11-23T02:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/wxow.com/content/tncms/custom/image/7f3437b0-165b-11ec-a31e-1f820cff0bbb.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 48415,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a0b83026e54659cd9fb4477d5dc10a9fa30889fa",
+    "url": "https://www.wxow.com/news/trump-chooses-rep-lori-chavez-deremer-as-his-pick-for-labor-secretary/article_2988a717-18a0-56ad-933b-65c266e06b4b.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kaitlan Collins and Katie Lobosco, CNN",
+    "published": "2024-11-23T02:33:00.000+02:00",
+    "title": "Trump chooses Rep. Lori Chavez-DeRemer as his pick for Labor secretary",
+    "text": "(CNN) — President-elect Donald Trump on Friday announced Republican Rep. Lori Chavez-DeRemer of Oregon as his pick to serve as the next secretary of the Department of Labor.\n“Lori’s strong support from both the Business and Labor communities will ensure that the Labor Department can unite Americans of all backgrounds behind our Agenda for unprecedented National Success - Making America Richer, Wealthier, Stronger and more Prosperous than ever before!” Trump said in a statement.\nChavez-DeRemer [lost reelection](https://www.cnn.com/election/2024/results/oregon/us-house-district-5) to Oregon’s 5th District earlier this month.\nUnder the new Trump administration, the Department of Labor is likely to take on a more business-friendly agenda, given the president-elect’s larger goal of cutting bureaucratic red tape. The agency oversees, among other things, worker-protection programs, enforces labor standards and ensures compliance of overtime laws.\nDeRemer was first elected to the House in 2022, helping Republican women [set a record in Congress](https://www.cnn.com/2023/01/14/politics/republican-women-congress/index.html) at the time and becoming one of the [first two Latinas to represent Oregon](https://www.cnn.com/2023/01/02/politics/118th-congress-history-makers/index.html). The former mayor of Happy Valley, in suburban Portland, she and her husband founded an anesthesia management company.\nPresident Joe Biden’s Department of Labor was first headed by [Marty Walsh](https://www.cnn.com/2021/03/22/politics/marty-walsh-confirmation-vote/index.html), a former union boss and mayor of Boston. [Julie Su](https://www.cnn.com/2023/04/20/politics/who-is-julie-su-labor/index.html), a civil rights lawyer, has served as acting secretary of the department since Walsh left in 2023 to take on a role at the National Hockey League Players’ Association.\nDuring Trump’s first term, [Alexander Acosta](https://www.cnn.com/2017/02/16/politics/donald-trump-white-house-announcement/index.html) served as labor secretary for the first two years. He was named when Trump’s first pick, Andy Puzder, the then-CEO of the company that owns the Hardee’s and Carl’s Jr. fast food chains, withdrew his nomination after facing challenges to his Senate confirmation.\nAcosta, a previous member of the National Labor Relations Board, [resigned after facing criticism](https://www.cnn.com/2019/07/12/politics/alex-acosta-donald-trump-labor-secretary/index.html) about his role negotiating the 2008 plea deal with Jeffrey Epstein as the US attorney in Miami. Acosta was replaced as labor secretary by [Eugene Scalia](https://www.cnn.com/2019/07/18/politics/gene-scalia-secretary-of-labor/index.html), the son of the late Supreme Court Justice Antonin Scalia, who served during the remainder of Trump’s first term.\nThis is a developing story and will be updated.\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lori Chavez-DeRemer",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lori",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Labor",
+                "sentiment": "none"
+            },
+            {
+                "name": "Labor Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a0b83026e54659cd9fb4477d5dc10a9fa30889fa",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:09:55.497+02:00",
+    "updated": "2024-11-29T18:49:19.182+02:00"
+}

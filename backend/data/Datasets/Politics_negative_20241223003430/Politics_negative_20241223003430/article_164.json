@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "2a504676f851e664df34e09f2011b67e43c149f1",
+        "url": "https://www.newsbreak.com/knx-1070-news-radio-560915/3685844664436-wilmington-residents-concerned-about-vincent-thomas-bridge-closure",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/knx-1070-news-radio-560915",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "KNX 1070 News Radio&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T20:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/1RYrik_0wxwuQh400?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2a504676f851e664df34e09f2011b67e43c149f1",
+    "url": "https://www.newsbreak.com/knx-1070-news-radio-560915/3685844664436-wilmington-residents-concerned-about-vincent-thomas-bridge-closure",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T20:40:00.000+02:00",
+    "title": "",
+    "text": "By Knx News 97 1 Fm ,\n3 hours ago\nWilmington residents are growing concerned about the traffic that will be diverted through their community when the Vincent Thomas Bridge closes for a planned maintenance project in 2026.\nThe project to replace the 60-year-old bridge’s deck is expected to close the thoroughfare for between 16 months and 3 years. During a meeting with residents on Thursday night, Ken Young, Caltrans’ district traffic manager, said that traffic – including heavy trucks – will be redirected through the Wilmington area, including on Pacific Coast Highway, Anaheim St., and Harry Bridges Blvd.\nLongtime Wilmington resident Gary Herrera has doubts about the safety of using surface streets for all of that traffic unless there are major repairs to the roads.\n“But it does not solve the issues of the traffic in the community and the trucks going through the community,” he told KNX News’ Pete Demetrou.\nFumi Ariano said the detours are too close to three area schools where congestion is already a problem.\n“There's already parents that are stressed out trying to drop off their kids,” Ariano said. “They're in a hurry. There's no crossing guards to ensure safety for kids crossing.”\nWant to get caught up on what's happening in SoCal every weekday afternoon? Click to follow The L.A. Local wherever you get podcasts.\nYoung said the detours aren’t set in stone yet.\n“We are very conscientious about neighborhoods, businesses in schools, so we would prefer to stay away from that,” he said.\nCaltrans will be holding at least two other meetings with community members before next March to get input on the plan.\nFollow KNX News 97.1 FM\nTwitter | Facebook | Instagram | TikTok",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/knxnews",
+        "https://www.instagram.com/knxnews",
+        "https://img.particlenews.com/image.php?url=1RYrik_0wxwuQh400",
+        "https://twitter.com/KNXnews",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1RYrik_0wxwuQh400",
+        "https://link.chtbl.com/fHPneL-D",
+        "https://www.tiktok.com/@knxnews",
+        "https://player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7084606_2024-11-22-183606&withPlaylist=false",
+        "https://player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7083276_2024-11-21-233116&withPlaylist=false",
+        "https://facebook.com/knxnews",
+        "https://instagram.com/knxnews",
+        "https://www.player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7084606_2024-11-22-183606&withPlaylist=false",
+        "https://www.player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7083276_2024-11-21-233116&withPlaylist=false",
+        "https://player.amperwavepodcasting.com",
+        "https://tiktok.com/@knxnews",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1RYrik_0wxwuQh400",
+        "https://www.link.chtbl.com/fHPneL-D",
+        "https://www.twitter.com/KNXnews",
+        "https://www.img.particlenews.com/image.php?url=1RYrik_0wxwuQh400"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pete Demetrou",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gary Herrera",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fumi Ariano",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ken Young",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KNX News",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pacific Coast Highway",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:19:42.164+02:00",
+    "updated": "2024-11-23T00:19:42.164+02:00"
+}

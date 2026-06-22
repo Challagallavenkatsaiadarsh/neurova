@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "7fa97e72289de1e0218fcbfb0cae4189feb83da0",
+        "url": "https://www.pennlive.com/opinion/2024/11/remembering-president-john-f-kennedy-and-his-sacrifice-for-american-democracy-column.html",
+        "site_full": "www.pennlive.com",
+        "site": "pennlive.com",
+        "site_section": "https://www.pennlive.com/arc/outboundfeeds/rss/?outputType=xml",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "Remembering President John F. Kennedy and his sacrifice for American democracy | Column - pennlive.com",
+        "title_full": "Remembering President John F. Kennedy and his sacrifice for American democracy | Column - pennlive.com",
+        "published": "2024-11-24T01:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.pennlive.com/resizer/v2/VL6XGUU6MZFNJAKTQIHYHKU7WM.JPG?auth=779253b1eaf49b8fef2c4c3c4453f049683fbc67f78b349b4c2863ad3d5e0a8b&amp;width=1280&amp;quality=90",
+        "performance_score": 0,
+        "domain_rank": 3210,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7fa97e72289de1e0218fcbfb0cae4189feb83da0",
+    "url": "https://www.pennlive.com/opinion/2024/11/remembering-president-john-f-kennedy-and-his-sacrifice-for-american-democracy-column.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Guest Editorial",
+    "published": "2024-11-24T01:40:00.000+02:00",
+    "title": "Remembering President John F. Kennedy and his sacrifice for American democracy | Column - pennlive.com",
+    "text": "Sixty-one years ago this month, John F. Kennedy was shot in a motorcade in Dallas, Texas. Two generations have passed since that event shook America out of its innocence and most of our citizens were not even alive at that time. Still, some of us can still visualize Walter Cronkite removing his glasses and announcing to a stunned world that the president was dead.\nMy personal experience with the moment happened at a Catholic grade school in Johnstown, Pa. At about 2:00 p.m., the nuns who walked us through our daily lessons suddenly converged in the hallway to hold a conference in whispered tones. When Sister Athanasius returned to her desk, she gave us the news: “The president has been shot.” The only thing to do was to get on our knees and pray the rosary.\nIf you purchase a product or register for an account through a link on our site, we may receive compensation. By using this site, you consent to our User Agreement and agree that your clicks, interactions, and personal information may be collected, recorded, and/or stored by us and social media and other third-party partners in accordance with our Privacy Policy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.advancelocal.com/advancelocalUserAgreement/privacy-policy.html",
+        "https://www.advancelocal.com/advancelocalUserAgreement/user-agreement.html",
+        "https://advancelocal.com/advancelocalUserAgreement/user-agreement.html",
+        "https://advancelocal.com/advancelocalUserAgreement/privacy-policy.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John F. Kennedy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Walter Cronkite",
+                "sentiment": "none"
+            },
+            {
+                "name": "Athanasius",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:02:36.149+02:00",
+    "updated": "2024-11-24T02:02:36.149+02:00"
+}

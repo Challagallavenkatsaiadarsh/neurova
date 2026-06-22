@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "5dd1a11501c144ef0fd0677bc3b11a0de99e3ed9",
+        "url": "https://nextshark.com/adena-ishii-first-asian-mayor-berkeley",
+        "site_full": "nextshark.com",
+        "site": "nextshark.com",
+        "site_section": "https://nextshark.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NextShark.com - Asian American News",
+        "title": "Political newcomer Adena Ishii is Berkeley’s first Asian American mayor",
+        "title_full": "Political newcomer Adena Ishii is Berkeley’s first Asian American mayor",
+        "published": "2024-11-23T00:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://data.nextshark.com/wp-content/uploads/2024/11/ADENA-ISHII.jpg",
+        "performance_score": 0,
+        "domain_rank": 14983,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5dd1a11501c144ef0fd0677bc3b11a0de99e3ed9",
+    "url": "https://nextshark.com/adena-ishii-first-asian-mayor-berkeley",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Carl Samson",
+    "published": "2024-11-23T00:32:00.000+02:00",
+    "title": "Political newcomer Adena Ishii is Berkeley’s first Asian American mayor",
+    "text": "Political newcomer Adena Ishii is Berkeley’s first Asian American mayor\nBy\n[Carl Samson](/author/carlsamson)Adena Ishii has been elected as the first Asian American and first woman of color to serve as mayor of Berkeley, California, narrowly defeating City Council veteran Sophie Hahn in a historic and tightly contested race.\n- Results: Ishii, a 36-year-old political newcomer, won 51% of the vote in a ranked-choice election,\n[edging out](https://www.kqed.org/news/12015247/adena-ishii-a-city-hall-outsider-wins-berkeley-mayors-race)Hahn by just 1,039 votes. Despite Hahn’s strong endorsements and fundraising advantage, Ishii’s grassroots campaign resonated with voters seeking change amidst frustrations over City Council infighting. Ishii, whose team knocked on[over 20,000 doors](https://www.ktvu.com/news/adena-ishii-victory-berkeley-mayor-election), said she felt “overwhelmed, grateful and so honored” to be mayor of[Berkeley](/tag/berkeley). She pledged to prioritize housing, homelessness, public safety and infrastructure while emphasizing a collaborative approach to governance. Hahn, who led in early returns but fell behind in subsequent updates, conceded gracefully, stating, “Adena ran a vigorous campaign offering a change to the city’s status quo.” - About Ishii: A descendant of Japanese Americans incarcerated during\n[World War II](/tag/world-war-ii), Ishii was shaped by her family’s experiences and her own challenges, including her father’s early-onset[dementia](/tag/dementia)and surviving domestic violence. Ishii[moved](https://www.adenaishii.com/about)to Berkeley 15 years ago, earning degrees from UC Berkeley’s Haas School of Business and Santa Clara University School of Law. Her career includes leadership roles such as president of the League of Women Voters and advocacy for affordable housing and education equity. Ishii sees her election as a breakthrough for representation. “It’s very exciting to think that we are going to have little girls in Berkeley who can say there’s a mayor who looks like them,” she told[Berkeleyside](https://www.berkeleyside.org/2024/11/20/berkeley-mayor-race-adena-ishii-update-sophie-hahn). As she prepares for her swearing-in on Dec. 5, Ishii is assembling a strong advisory team to address Berkeley’s pressing issues and embrace the steep learning curve of leading a city navigating complex challenges.\nShare this Article\nShare this Article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.kqed.org/news/12015247/adena-ishii-a-city-hall-outsider-wins-berkeley-mayors-race",
+        "https://www.berkeleyside.org/2024/11/20/berkeley-mayor-race-adena-ishii-update-sophie-hahn",
+        "https://www.ktvu.com/news/adena-ishii-victory-berkeley-mayor-election",
+        "https://www.adenaishii.com/about",
+        "https://berkeleyside.org/2024/11/20/berkeley-mayor-race-adena-ishii-update-sophie-hahn",
+        "https://ktvu.com/news/adena-ishii-victory-berkeley-mayor-election",
+        "https://kqed.org/news/12015247/adena-ishii-a-city-hall-outsider-wins-berkeley-mayors-race",
+        "https://adenaishii.com/about"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Carl Samson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Adena Ishii",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sophie Hahn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "City Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:46:25.599+02:00",
+    "updated": "2024-11-23T01:46:25.599+02:00"
+}

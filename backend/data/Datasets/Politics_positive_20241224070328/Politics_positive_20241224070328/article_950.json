@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "c21bca79b0d6e0d5136d184941a81d6627ecd356",
+        "url": "https://nunatsiaq.com/stories/article/ottawa-apologizes-for-dog-slaughter-gives-makivvik-45-million",
+        "site_full": "nunatsiaq.com",
+        "site": "nunatsiaq.com",
+        "site_section": "https://www.nunatsiaq.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Homepage",
+        "title": "Ottawa apologizes for dog slaughter, gives Makivvik $45 million",
+        "title_full": "Ottawa apologizes for dog slaughter, gives Makivvik $45 million",
+        "published": "2024-11-24T00:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 61970,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c21bca79b0d6e0d5136d184941a81d6627ecd356",
+    "url": "https://nunatsiaq.com/stories/article/ottawa-apologizes-for-dog-slaughter-gives-makivvik-45-million",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Corey Larocque",
+    "published": "2024-11-24T00:04:00.000+02:00",
+    "title": "Ottawa apologizes for dog slaughter, gives Makivvik $45 million",
+    "text": "The federal government will give Makivvik Corp. $45 million as part of its apology for what it called the “unjustified killing” of sled dogs in Nunavik in the 1950s and 1960s.\nCrown-Indigenous Relations Minister Gary Anandasangaree was in Kangiqsujuaq on Saturday, where he delivered a formal apology on behalf of the federal government.\n“Today, the Government of Canada accepted responsibility for its role in a terrible historic injustice and expressed its deep regret and sincere apology for the harms inflicted by the slaughter of qimmiit in Nunavik,” Anandasangaree was quoted as saying in a government news release issued after the apology ceremony began at the Kangiqsujuaq community centre.\nMore than 1,000 dogs were fatally shot by employees of the Hudson’s Bay Co., and other authorities in the mid-1950s and late 1960s, according to Inuit Tapiriit Kanatami, the national organization representing Inuit in Canada.\nThe dog slaughter caused food and economic insecurity and the loss of traditional ways for Inuit in Nunavik, government news release said.\n“Dog teams were an integral part of our history and day-to-day lives. Dogs were not only our workhorse but part of our family,” Makivvik vice-president Adamie Delisle Alaku said during the ceremony.\nThe federal government’s apology, along with $45 million to support cultural revitalization, is a “a step toward healing,” says Makivvik Corp. president Pita Aatami during a ceremony in Kangiqsujuaq on Saturday. (Screenshot courtesy of Makivvik Corp.)\nIn addition to the formal apology, the government is providing money to Makivvik to support programs that will promote healing and cultural revitalization, the government news release said.\nMakivvik president Pita Aatami said Inuit have worked “tirelessly for this acknowledgement and apology” for decades.\n“While we cannot undo the pain and loss caused by these actions, the funding announced today is a step toward healing for our communities,” said Aatami, who heads the organization responsible for protecting the rights and interests of 13,000 Inuit in Nunavik.\nHe called the federal funding “a step toward healing” for Nunavik’s communities, adding it will address “the deep traumas of the past” and make sure the federal government is a partner in the healing process — something Makivvik has had to carry on its own for too long.\nNunatsiaq News is following this developing story and will have more information later on Saturday and Sunday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gary Anandasangaree",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Makivvik Corp.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hudson’s Bay Co.",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kangiqsujuaq",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nunavik",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:00:59.804+02:00",
+    "updated": "2024-11-24T08:00:59.804+02:00"
+}

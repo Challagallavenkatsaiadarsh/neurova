@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "28351351742c7bbd5e19ec8cdba05c25f7632384",
+        "url": "https://www.kunc.org/politics/2024-11-22/colorados-palestinian-and-iranian-american-lawmakers-launch-first-of-its-kind-caucus",
+        "site_full": "www.kunc.org",
+        "site": "kunc.org",
+        "site_section": "http://www.kunc.org",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "KUNC News | KUNC",
+        "title": "Colorado’s Palestinian- and Iranian-American lawmakers launch first-of-its-kind caucus",
+        "title_full": "Colorado’s Palestinian- and Iranian-American lawmakers launch first-of-its-kind caucus",
+        "published": "2024-11-22T23:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/8f34a13/2147483647/strip/true/crop/6000x3150+0+502/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6a%2F13%2F7f2fac8b4a759c58c5181a73f954%2Fap24024847761520.jpg",
+        "performance_score": 0,
+        "domain_rank": 32630,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "28351351742c7bbd5e19ec8cdba05c25f7632384",
+    "url": "https://www.kunc.org/politics/2024-11-22/colorados-palestinian-and-iranian-american-lawmakers-launch-first-of-its-kind-caucus",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lucas Brady Woods",
+    "published": "2024-11-22T23:57:00.000+02:00",
+    "title": "Colorado’s Palestinian- and Iranian-American lawmakers launch first-of-its-kind caucus",
+    "text": "Colorado’s Palestinian- and Iranian-American lawmakers launch first-of-its-kind caucus\nDemocrats in the state legislature are launching for the first time a caucus for lawmakers who are Muslim or from the Middle East, North Africa or South Asia, also known as MENASA communities, to give voice to those underrepresented Coloradans.\nThe joint Muslim-MENASA Caucus will be led by Rep. Iman Jodeh of Aurora and Rep.-elect Yara Zokaie of Fort Collins. Jodeh is Colorado’s first Muslim and Palestinian-American state lawmaker, and Zokaie will be the legislature’s first lawmaker of Iranian descent when she takes office next year.\nGet top headlines and KUNC reporting directly to your mailbox each week when you subscribe to In The NoCo.\nNoting that the Trump administration banned travel from Muslim-majority countries in 2017, Jodeh said forming a caucus will help defend against possible discriminatory actions.\n“We're trying to be proactive about making sure that people with that [MENASA] heritage feel like they are, in fact, protected,\" Jodeh said.\nJodeh said protections from discriminatory federal policies could take the form of specific legislation or partnerships with local advocacy groups and other affinity caucuses like the legislature’s Black Caucus.\nThe Muslim-MENASA caucus has already partnered with [East Meets West](https://www.eastmeetswestco.org/), a non-partisan, non-secular, not-for-profit organization that advocates for MENASA artists, leaders, and companies.\nThe purpose of a joint Muslim-MENASA caucus is to have a space for Muslim lawmakers and those from the variety of religious and cultural groups from the MENASA region.\n“People from the MENASA region are often forced to identify by religion, and unfortunately, that's often defaulted as Muslim,” Jodeh said. “There are Baha'i, there are Hindu, there are Zoroastrian, there are smaller sects of Christianity. Having such a diverse population speaks to not only the need, but the urgency of having a MENASA caucus.”\nJodeh and Zokaie both said Coloradans from the MENASA region haven’t had enough representation in state government.\n“I've heard from Iranians around the entire state who are happy to have some representation, and who have felt like their voices have not been heard,” Zokaie said. “And I think that that goes for all folks from the MENASA region.”\nZokaie said having an official caucus will make it more effective to advocate for Colorado’s Muslim and MENASA communities at the statehouse because it provides a unified voice that’s more powerful than advocacy from individual lawmakers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.eastmeetswestco.org/",
+        "https://www.eastmeetswestco.org",
+        "https://eastmeetswestco.org/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yara Zokaie",
+                "sentiment": "none"
+            },
+            {
+                "name": "Iman Jodeh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "North Africa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:23:49.783+02:00",
+    "updated": "2024-11-23T01:23:49.783+02:00"
+}

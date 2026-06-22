@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "f851dbb3eabcaf74b28a8b57cb6ea55b9796c9ca",
+        "url": "https://mrctv.org/videos/hostin-calls-bondi-election-denier-she-denied-trumps-2016-win",
+        "site_full": "mrctv.org",
+        "site": "mrctv.org",
+        "site_section": "https://mrctv.org/videos",
+        "site_categories": [],
+        "section_title": "Videos | MRCTV",
+        "title": "Hostin Calls Bondi an 'Election Denier,' But She Denied Trump's 2016 Win | MRCTV",
+        "title_full": "Hostin Calls Bondi an 'Election Denier,' But She Denied Trump's 2016 Win | MRCTV",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6847,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f851dbb3eabcaf74b28a8b57cb6ea55b9796c9ca",
+    "url": "https://mrctv.org/videos/hostin-calls-bondi-election-denier-she-denied-trumps-2016-win",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Hostin Calls Bondi an 'Election Denier,' But She Denied Trump's 2016 Win | MRCTV",
+    "text": "Oh how quickly folks in the liberal media forget their own misdeeds when it’s time to fling mud at the other side. That hypocrisy was again on full display during the Friday edition of ABC’s The View, when cloudy co-host Sunny Hostin lashed out at U.S. Attorney General nominee Pam Bondi. Hostin called Bondi an “election denier” when Trump was her client in 2020, that’s despite the fact that for six years, Hostin had maintained that President-elect Trump was an “illegitimate president” after his 2016 victory.\n“I agree with you, Alyssa [Farah Griffin], [Matt Gaetz] would have been a very dangerous pick for the Department of Justice. But his new pick, Trump's new pick, Pam Bondi. I believe she's a dangerous pick, as well,” Hostin proclaimed. “She supported Trump's false election claims. She was involved the efforts to overturn the results.”\nHer evidence? Video of Bondi defending Trump’s candidacy the first two days after the election when many states had not finalized their vote counts. “We are thrilled to have won Pennsylvania with 87 percent of the vote in and we're up almost 400,000 votes. So we're thrilled,” Bondi said in a soundbite The View played from November 4, the day after the election. The other soundbite was from November 5.\n(...)\n***[The complete post](https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2024/11/22/hostin-calls-bondi-election-denier-she-denied-trumps-2016) is on NewsBusters***",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.newsbusters.org/blogs/nb/nicholas-fondacaro/2024/11/22/hostin-calls-bondi-election-denier-she-denied-trumps-2016",
+        "https://newsbusters.org/blogs/nb/nicholas-fondacaro/2024/11/22/hostin-calls-bondi-election-denier-she-denied-trumps-2016"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Farah Griffin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alyssa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ABC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bondi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:40:13.561+02:00",
+    "updated": "2024-11-23T01:40:13.561+02:00"
+}

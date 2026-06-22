@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "4ab60844f2ecd25af8db6dbd5ce4f7205fe51ae5",
+        "url": "https://www.wmnf.org/florida-immigrants-are-fearful-after-trump-promises-largest-deportation-program-in-history",
+        "site_full": "www.wmnf.org",
+        "site": "wmnf.org",
+        "site_section": "https://www.wmnf.org",
+        "site_categories": [
+            "music",
+            "",
+            "entertainment"
+        ],
+        "section_title": "WMNF 88.5 FM Tampa - Community Conscious Radio",
+        "title": "Florida immigrants are fearful after Trump promises ‘largest deportation program in history’",
+        "title_full": "Florida immigrants are fearful after Trump promises ‘largest deportation program in history’",
+        "published": "2024-11-22T21:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 54748,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4ab60844f2ecd25af8db6dbd5ce4f7205fe51ae5",
+    "url": "https://www.wmnf.org/florida-immigrants-are-fearful-after-trump-promises-largest-deportation-program-in-history",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chris Young",
+    "published": "2024-11-22T21:07:00.000+02:00",
+    "title": "Florida immigrants are fearful after Trump promises ‘largest deportation program in history’",
+    "text": "Listen:\nPresident-elect Donald Trump says he will enforce the largest deportation program in history once he takes office. T his comes as immigrants are already fearful in Florida.\nTrump made the promise while campaigning in Texas.\n“Immediately upon taking the oath of office, I will launch the largest deportation program in American History,” Trump said.\nAnd he doubled down after Election Day.\nIn a post on social media platform Truth Social , Trump says he will use the military to enforce the mass deportation.\nThe remark prompted the American Civil Liberties Union to fight back. The ACLU says the policy is “inhumane” and wants Congress to cut funding for immigration enforcement.\nBut immigrants were already fearful in Florida – a November survey from the University of South Florida says the recent Florida anti-immigration law led to “notable” psychological distress among non-U-S citizens.\nAriel Sepulveda, organizing director with Florida Immigrant Coalition, says the distress has amplified since the election.\n“Understandably, there’s a lot of anxiety. There’s a lot of fear. There’s a lot of ‘what do we do next?’” Sepulveda said.\nSepulveda talked to a woman scared of what might happen if her temporary immigration status is rescinded.\n“To feel that fear, and to feel it very real around the corner, is just tragic to see somebody who is such a leader in the community, who fears that her status would be taken away from her.” Sepulveda said.\nBut Sepulveda says people have options available.\n“Community is everything. Check-in with your folks, and not just checking in with your folks- but connecting to organizations on the ground like ourselves, who can help you with those legal resources,” Sepulveda said.\nFlorida has the third largest unauthorized immigrant population, behind Texas and California.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.c-span.org/video/?539507-1/president-trump-campaigns-austin-texas",
+        "https://truthsocial.com/@realDonaldTrump/posts/113503150672865350",
+        "https://www.usf.edu/arts-sciences/centers/iwrc/documents/report-sb-1718-final-nov2024.pdf",
+        "https://action.aclu.org/send-message/stop-mass-deportations?initms_aff=nat&initms_chan=eml&utm_medium=eml&initms=adv-na-sail-gradead-nat-241118_messageaction-immigration-2024election-trump47&utm_source=sail&utm_campaign=trump47&utm_content=adv-na-sail-gradead-nat-241118_messageaction-immigration-2024election-trump47&af=3CVCkI%2BeZxZplU6cWGdlbYMJx9RCrj0h1zUqRAFw%2FCiJqHM6ey%2FOtA5BW%2BzQ11%2FMHQxXBQqiBezqeRgkU51mo7%2ByAWWnOlxbMoAvAY%2BatIE%3D&gs=2S0HNICAbmtrqPM4MuEhLoyoTst%2BFzjD3IuvTxPYP",
+        "https://www.c-span.org/video/",
+        "https://action.aclu.org/send-message/stop-mass-deportations",
+        "https://c-span.org/video/?539507-1/president-trump-campaigns-austin-texas",
+        "https://www.action.aclu.org/send-message/stop-mass-deportations?initms_aff=nat&initms_chan=eml&utm_medium=eml&initms=adv-na-sail-gradead-nat-241118_messageaction-immigration-2024election-trump47&utm_source=sail&utm_campaign=trump47&utm_content=adv-na-sail-gradead-nat-241118_messageaction-immigration-2024election-trump47&af=3CVCkI%2BeZxZplU6cWGdlbYMJx9RCrj0h1zUqRAFw%2FCiJqHM6ey%2FOtA5BW%2BzQ11%2FMHQxXBQqiBezqeRgkU51mo7%2ByAWWnOlxbMoAvAY%2BatIE%3D&gs=2S0HNICAbmtrqPM4MuEhLoyoTst%2BFzjD3IuvTxPYP",
+        "https://www.truthsocial.com/@realDonaldTrump/posts/113503150672865350",
+        "https://usf.edu/arts-sciences/centers/iwrc/documents/report-sb-1718-final-nov2024.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ariel Sepulveda",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "American Civil Liberties Union",
+                "sentiment": "none"
+            },
+            {
+                "name": "University of South Florida",
+                "sentiment": "none"
+            },
+            {
+                "name": "Florida Immigrant Coalition",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "ACLU",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:13:52.692+02:00",
+    "updated": "2024-11-23T00:13:52.692+02:00"
+}

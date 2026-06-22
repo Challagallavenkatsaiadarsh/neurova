@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "d24ee5c761e0610d35f4392789c29abe9630fb40",
+        "url": "https://americanmilitarynews.com/2024/11/trump-offered-1400-acres-by-texas-official-for-deportation-operations",
+        "site_full": "americanmilitarynews.com",
+        "site": "americanmilitarynews.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "media",
+            "jobs",
+            "us_military"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "Trump offered 1,400 acres by Texas official for deportation operations",
+        "title_full": "Trump offered 1,400 acres by Texas official for deportation operations",
+        "published": "2024-11-23T00:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://americanmilitarynews.com/wp-content/uploads/181214-F-ZZ999-001-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 20925,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d24ee5c761e0610d35f4392789c29abe9630fb40",
+    "url": "https://americanmilitarynews.com/2024/11/trump-offered-1400-acres-by-texas-official-for-deportation-operations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Timothy Frudd",
+    "published": "2024-11-23T00:02:00.000+02:00",
+    "title": "Trump offered 1,400 acres by Texas official for deportation operations",
+    "text": "U.S Soldiers with 541st Engineer Company, Special Purpose Marine Air-Ground Task Force 7. (Sgt. Asia J. Sorenson/U.S. Marine Corps) November 22, 2024 Timothy Frudd\nFacebook\nTwitter\nLinkedin\nEmail\nTexas Land Commissioner Dawn Buckingham sent a letter to President-elect Donald Trump on Tuesday, offering him 1,402 acres of land in Starr County near the southern border between the United States and Mexico to serve as a base of operations for the president-elect’s anticipated mass deportation operation.\nAccording to Fox News, Buckingham’s offer to Trump comes after the state purchased 1,402 acres in Starr County from a ranch owner in October. The property is located in the Rio Grande Valley sector near the southern border and has been used for human trafficking and drug smuggling, according to officials. At the time, the state purchased the land to help with the construction of additional border wall security.\nIn her letter to the president-elect, Buckingham said her state office is “fully prepared to enter into an agreement with the Department of Homeland Security, Immigration and Customs Enforcement, or the United States Border Patrol to allow a facility to be built for the processing, detention, and coordination of the largest deportation of violent criminals in the nation’s history.”\nDuring an interview with Fox News on Tuesday, Buckingham said, “What I care about is that we have safe communities, and there is no doubt that we are losing too many of our children to these violent criminals that are coming across the border.”\nREAD MORE: Trump confirms plan to use ‘military assets’ to deport illegal immigrants\nThe Texas land commissioner explained that she is “100% on board” with Trump’s plans to remove dangerous illegal immigrants from the United States and indicated that Texas is “more than happy to offer our resources to facilitate those deportations of these violent criminals.”\nBuckingham told Fox News that following Trump’s landslide in the 2024 presidential election, she discussed ways to use the recently purchased land with her team and ultimately decided to offer it to the Trump administration.\n“Right now, it’s essentially farmland, so it’s flat, it’s easy to build on. We could very easily put a detention center on there, a holding place as we get these criminals out of our country,” Buckingham told Fox News. “It’s accessible to international airports as well as a major crossing over the river. And so we’re just happy to get help, do anything we can to get these violent criminals off of our soil.”\nBuckingham also suggested that Trump’s win in the 2024 election was a “resounding referendum on the fact that Americans want safe communities.” The Texas land commissioner explained that Americans want people to immigrate to the country “legally” and that the Biden-Harris administration’s open border policies “have failed every American citizen.”\nSubscribe to our newsletter and breaking news alerts * indicates required Email Address * First Name",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/politics/border-state-offers-trump-massive-plot-land-aid-mass-deportation-operation?utm_source=wakeupright.us&utm_medium=newsletter&utm_campaign=wake-up-right-november-20-2024&_bhlid=3bc1f956bee6aa33ce0af27ec3217f8d810f2dbc",
+        "https://www.foxnews.com/politics/border-state-offers-trump-massive-plot-land-aid-mass-deportation-operation",
+        "https://foxnews.com/politics/border-state-offers-trump-massive-plot-land-aid-mass-deportation-operation?utm_source=wakeupright.us&utm_medium=newsletter&utm_campaign=wake-up-right-november-20-2024&_bhlid=3bc1f956bee6aa33ce0af27ec3217f8d810f2dbc"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dawn Buckingham",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Homeland Security",
+                "sentiment": "none"
+            },
+            {
+                "name": "Customs Enforcement",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Starr County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:16:27.950+02:00",
+    "updated": "2024-11-23T00:24:11.277+02:00"
+}

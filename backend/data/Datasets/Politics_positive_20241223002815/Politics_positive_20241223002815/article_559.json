@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "f2002525c2cde40c7ddd4f79079835737fe9156d",
+        "url": "https://wsvn.com/news/politics/trump-names-billionaire-scott-bessent-as-treasury-secretary-pick",
+        "site_full": "wsvn.com",
+        "site": "wsvn.com",
+        "site_section": "http://emm.newsbrief.eu/rss/rss?type=rtn&language=en&duplicates=false",
+        "site_categories": [
+            "media",
+            "tech"
+        ],
+        "section_title": "Latest news clusters for en",
+        "title": "Trump names billionaire Scott Bessent as Treasury secretary pick",
+        "title_full": "Trump names billionaire Scott Bessent as Treasury secretary pick",
+        "published": "2024-11-23T02:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wsvn.com/wp-content/uploads/sites/2/2024/11/241122_Scott_Bessent.png",
+        "performance_score": 0,
+        "domain_rank": 7822,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2002525c2cde40c7ddd4f79079835737fe9156d",
+    "url": "https://wsvn.com/news/politics/trump-names-billionaire-scott-bessent-as-treasury-secretary-pick",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wsvn",
+    "published": "2024-11-23T02:09:00.000+02:00",
+    "title": "Trump names billionaire Scott Bessent as Treasury secretary pick",
+    "text": "(CNN) — President-elect Donald Trump named billionaire Scott Bessent as his pick to serve as the next secretary of the Department of the Treasury.\n“Scott has long been a strong advocate of the America First Agenda. On the eve of our Great Country’s 250th Anniversary, he will help me usher in a new Golden Age for the United States, as we fortify our position as the World’s leading Economy, Center of Innovation and Entrepreneurialism, Destination for Capital, while always, and without question, maintaining the U.S. Dollar as the Reserve Currency of the World,” Trump said in a statement announcing the pick Friday, confirming CNN’s earlier reporting.\n“Unlike in past Administrations, we will ensure that no Americans will be left behind in the next and Greatest Economic Boom, and Scott will lead that effort for me, and the Great People of the United States of America.”\nBessent, 62, advised Trump on economic policy on the campaign trail and is the founder of hedge fund Key Square Capital Management. Before that, he was the chief investment officer at Soros Fund Management, a hedge fund started by Democratic megadonor George Soros. He gained prominence at the firm for leading efforts to bet against the British pound and Japanese yen that netted the firm billions of dollars in profits.\nA key Cabinet player, the US Treasury secretary advises the president on economic and fiscal matters, including spending and taxes. The role is seen as the top financial job in any administration and has become a trophy position for many well-heeled Wall Street donors.\nIf confirmed by the Senate, Bessent’s early days on the job could be even more challenging than usual as he’ll have to face pressure to address the federal debt limit and Trump campaign promises.\nSince Trump’s electoral victory, the US dollar has jumped, reaching a one-year high. The rally “is a vote of confidence in US leadership internationally and in the dollar as the world’s reserve currency,” Bessent said in a November 10 opinion piece he penned for The Wall Street Journal. Similar rallies in financial markets, he said, were signs investors “expect the Trump agenda to foster noninflationary growth that will drive private investment.”\nHe went on to advocate for Trump to pursue policies involving deregulation and tax cuts as well as “addressing the debt burden,” which he attributed to “four years of reckless spending.”\nIn the piece, however, Bessent made no mention of tariffs. Trump as a candidate pledged to impose 60% tariffs on goods from China, as well as 10% tariffs on goods from other countries.\nIn recent interviews with the Financial Times and CNBC, Bessent signaled support for a more gradual approach to tariffs aimed at containing potentially inflationary blowback that could arise from imposing such levies.\nTrump had expected to announce his pick for Treasury a week ago, but jockeying among his top contenders for the role – Bessent and Howard Lutnick – led him to expand his pool of prospects. Earlier this week, the president-elect picked Lutnick, the CEO of Cantor Fitzgerald and the co-chair of his transition, for the role of Commerce secretary.\nAs CNN previously reported, Trump had been nearing a decision to name Bessent earlier this month, with allies saying Trump liked his billionaire bona fides and the fact that he converted to the MAGA movement after working for Soros. Compared to Lutnick’s more aggressive campaign for the role, Bessent led a more understated quest for the position. But he called Elon Musk last weekend to try to win over the tech billionaire before he attended a United Fighting Championship with Trump. Musk, however, had come out in support of Lutnick on X, calling Bessent “a business-as-usual choice.”\nThe role will be especially important in the coming Trump administration considering the president-elect’s campaign promises to impose an across-the-board tariff of either 10% or 20% on every import coming into the US, as well as a tariff upward of 60% on all Chinese imports.\nThe incoming secretary will have to deal quickly with making sure the nation doesn’t default on its obligations once the debt ceiling returns in early January, unless Congress addresses the cap before that. The secretary also will work with Trump and congressional Republicans to extend the more than $4 trillion in Tax Cuts and Jobs Act provisions that expire at the end of 2025.\nAll that’s in addition to the secretary’s regular duties overseeing the Treasury Department, which pays trillions of dollars in bills, collects taxes, sells US debt securities to investors and serves as a regulator of the banking and finance industries. The secretary also serves as the nation’s finance minister on the global stage.\nDuring his first term, Trump chose Steven Mnuchin, a financier and Hollywood producer who stayed in the administration all four years. Mnuchin, who had no government experience before taking the Treasury post, had also served as finance chairman of Trump’s 2016 presidential campaign.\nThe former secretary worked on and helped implement the 2017 tax cuts law and some of the key COVID-19 pandemic relief measures, including the stimulus checks that were distributed to millions of Americans, among other initiatives.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe",
+        "https://wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Soros Fund Management",
+                "sentiment": "none"
+            },
+            {
+                "name": "America First Agenda",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:19:47.653+02:00",
+    "updated": "2024-11-23T12:47:18.570+02:00"
+}

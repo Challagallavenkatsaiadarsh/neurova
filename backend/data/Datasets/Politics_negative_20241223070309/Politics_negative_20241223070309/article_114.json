@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "65362c8eb47c8a69686f25509fe0ce91b354ba44",
+        "url": "https://newsukraine.rbc.ua/news/us-prepares-for-possible-cyberattack-from-1732310731.html",
+        "site_full": "newsukraine.rbc.ua",
+        "site": "rbc.ua",
+        "site_section": "https://newsukraine.rbc.ua/news",
+        "site_categories": [
+            "top_news_ua",
+            "top_news_pl",
+            "top_news_il",
+            "top_news_cz",
+            "top_news_sk",
+            "top_news"
+        ],
+        "section_title": "Ukraine latest news today - breaking news, live updates | RBC-Ukraine",
+        "title": "US prepares for possible cyberattack from China – Reuters",
+        "title_full": "US prepares for possible cyberattack from China – Reuters",
+        "published": "2024-11-22T22:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://newsukraine.rbc.ua/static/img/1/3/13_28091942ed2abfb2668ebafd3f9dc1c9_650x410.jpg",
+        "performance_score": 0,
+        "domain_rank": 8713,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65362c8eb47c8a69686f25509fe0ce91b354ba44",
+    "url": "https://newsukraine.rbc.ua/news/us-prepares-for-possible-cyberattack-from-1732310731.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RBC-Ukraine",
+    "published": "2024-11-22T22:45:00.000+02:00",
+    "title": "US prepares for possible cyberattack from China – Reuters",
+    "text": "US prepares for possible cyberattack from China – Reuters\nThe United States is preparing for a potential cyberattack from China, particularly targeting critical infrastructure networks, according to Reuters.\nAccording to the agency, executive director of US Cyber Command, Morgan Adamski, stated that China-linked cyber operations are currently aimed at gaining an advantage in the event of a large-scale conflict with the United States.\nSpecifically, US officials have been warned that Chinese hackers have compromised IT networks and taken steps to carry out destructive attacks if a conflict arises.\nAdamski added that the US government has \"executed globally synchronized activities, both offensively and defensively minded, that are laser-focused on degrading and disrupting PRC cyber operations worldwide\". Public examples of these actions include exposing operations, imposing sanctions, accusations, law enforcement activities, and cybersecurity consultations involving multiple countries.\nHowever, China denies any cyber operations targeting American organizations.\nEarlier, RBC-Ukraine reported that [Chinese hackers had breached Verizon's system](https://newsukraine.rbc.ua/news/chinese-hackers-attack-phones-linked-to-harris-1729905464.html). After that, their attacks targeted the phones of people from Harris' campaign. At the time, the media reported that the hackers who hacked into Verizon's system targeted the phones of people associated with the campaign of Democratic presidential candidate Kamala Harris.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:14:37.516+02:00",
+    "updated": "2024-11-23T00:14:37.516+02:00"
+}

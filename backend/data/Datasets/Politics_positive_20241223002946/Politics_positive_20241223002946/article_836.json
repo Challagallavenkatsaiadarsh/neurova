@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "9aa548f96685474f2c8be7e930ff558395434b56",
+        "url": "https://www.thefiscaltimes.com/2024/11/23/Trump-Taps-Hedge-Fund-Mogul-Scott-Bessent-Treasury-Secretary",
+        "site_full": "www.thefiscaltimes.com",
+        "site": "thefiscaltimes.com",
+        "site_section": "https://thefiscaltimes.com/home",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media"
+        ],
+        "section_title": "Featured | The Fiscal Times",
+        "title": "Trump Taps Hedge Fund Mogul Scott Bessent for Treasury Secretary | The Fiscal Times",
+        "title_full": "Trump Taps Hedge Fund Mogul Scott Bessent for Treasury Secretary | The Fiscal Times",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.thefiscaltimes.com/sites/default/files/ef0d49a6-e813-4b61-9454-41f7383d916c.jpeg",
+        "performance_score": 0,
+        "domain_rank": 14112,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9aa548f96685474f2c8be7e930ff558395434b56",
+    "url": "https://www.thefiscaltimes.com/2024/11/23/Trump-Taps-Hedge-Fund-Mogul-Scott-Bessent-Treasury-Secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@yuvalrosenberg",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Trump Taps Hedge Fund Mogul Scott Bessent for Treasury Secretary | The Fiscal Times",
+    "text": "President-elect Donald Trump has chosen wealthy hedge fund manager Scott Bessent to be his Treasury secretary.\nThe 62-year-old Bessent has become a key economic adviser to Trump, who regularly touted his support on the campaign trail. Bessent “has defended Trump’s economic proposals in the midst of opposition from some on Wall Street, who worry that the president-elect’s pledge to impose sweeping tariffs will trigger trade wars and ultimately lead to higher prices for American consumers,” The Wall Street Journal [notes](https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?mod=breakingnews).\nBessent in the founder and CEO of Key Square Group, a Connecticut-based hedge fund manager, but he rose to prominence in financial circles while working with George Soros, the noted investor and Democratic donor. Bessent worked for Soros Fund Management in two stints, from 1991 to 2000, and again as chief investment officer from 2011 to 2015.\nBessent launched his Key Square Group in 2016, and he said recently that he hasn’t spoken to Soros in years. “As a money manager, Scott Bessent's years of inconsistent performance have contributed to a nearly 90% decline in his hedge fund's assets,” Reuters [reports](https://www.reuters.com/business/finance/fund-manager-bessent-scores-trump-victory-hopes-bigger-win-2024-11-22/), adding that Bessent has done well so far this year, thanks in part to optimism about what a Trump win might mean for markets. And Bessent’s bet on Trump has now paid off doubly, with the Treasury job.\nBessent was a leading early contender for that position, but some Trump allies advocated for other candidates, and the president-elect reportedly considered several candidates, including former Federal Reserve Governor Kevin Warsh, Tennessee Sen. Bill Hagerty and Marc Rowan, a private equity billionaire.\nAs the jockeying for the Treasury Department job intensified, billionaire “first buddy” Elon Musk posted a criticism of Bessent on his social media platform, X. He [wrote](https://x.com/elonmusk/status/1857819784865362211) that Bessent would be a “business-as-usual choice” and that another contender, Trump transition co-chair Howard Lutnick, was a better pick because he “will actually enact change.” Trump wound up choosing Lutnick to lead the Commerce Department.\nTrump on Friday praised Bessent as “a strong advocate of the America First Agenda” who would help strengthen the U.S. economy, keep the dollar as the world’s reserve currency and usher in “a new Golden Age.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/elonmusk/status/1857819784865362211",
+        "https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?mod=breakingnews",
+        "https://www.reuters.com/business/finance/fund-manager-bessent-scores-trump-victory-hopes-bigger-win-2024-11-22/",
+        "https://wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?mod=breakingnews",
+        "https://www.x.com/elonmusk/status/1857819784865362211",
+        "https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a",
+        "https://reuters.com/business/finance/fund-manager-bessent-scores-trump-victory-hopes-bigger-win-2024-11-22/",
+        "https://www.reuters.com/business/finance/fund-manager-bessent-scores-trump-victory-hopes-bigger-win-2024-11-22"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "George Soros",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Treasury",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Soros Fund Management",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wall Street Journal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Key Square Group",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:07:32.163+02:00",
+    "updated": "2024-11-23T05:07:32.163+02:00"
+}

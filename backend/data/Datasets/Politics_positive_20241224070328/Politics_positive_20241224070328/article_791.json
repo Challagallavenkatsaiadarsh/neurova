@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "93b33b4c176df80a5a087b848b52afc7611bbe28",
+        "url": "https://en.apa.az/cop29/un-secretary-general-an-agreement-at-cop29-was-absolutely-essential-to-keep-the-15-degree-limit-alive-454034",
+        "site_full": "en.apa.az",
+        "site": "apa.az",
+        "site_section": "https://en.apa.az/art",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "APA.AZ- Latest news from Azerbaijan and the world",
+        "title": "UN Secretary General: An agreement at COP29 was absolutely essential to keep the 1.5 degree limit alive",
+        "title_full": "UN Secretary General: An agreement at COP29 was absolutely essential to keep the 1.5 degree limit alive",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AZ",
+        "main_image": "https://en.apa.az/storage/news/2024/november/24/resize/6742ab8027f3c6742ab8027f3d17324225286742ab8027f3a6742ab8027f3b.jpg",
+        "performance_score": 0,
+        "domain_rank": 26552,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "93b33b4c176df80a5a087b848b52afc7611bbe28",
+    "url": "https://en.apa.az/cop29/un-secretary-general-an-agreement-at-cop29-was-absolutely-essential-to-keep-the-15-degree-limit-alive-454034",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Apa.az",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "UN Secretary General: An agreement at COP29 was absolutely essential to keep the 1.5 degree limit alive",
+    "text": "UN Secretary-General António Guterres delivered COP29 closing statement, APA reports. The statement reads: \"COP29 comes at the close of a brutal year – a year seared by record temperatures, and scarred by climate disaster, all as emissions continue to rise. Finance has been priority number one. Developing countries swamped by debt, pummelled by disasters, and left behind in the renewables revolution, are in desperate need of funds. An agreement at COP29 was absolutely essential to keep the 1.5 degree limit alive. And countries have delivered. I had hoped for a more ambitious outcome – on both finance and mitigation – to meet the great challenge we face. But this agreement provides a base on which to build. It must be honoured in full and on time. Commitments must quickly become cash. All countries must come together to ensure the top-end of this new goal is met. COP29 also builds on progress made last year on emissions reductions and accelerating the energy transition. And it reaches agreement on carbon markets. This was a complex negotiation in an uncertain and divided geopolitical landscape. I commend everyone who worked hard to build consensus. You have shown that multilateralism – centred on the Paris Agreement – can find a path through the most difficult issues. I appeal to governments to see this agreement as a foundation – and build on it. First, countries must deliver new economy-wide national climate action plans – or NDCs – aligned with 1.5 degrees, well ahead of COP30 – as promised. The G20 countries, the biggest emitters, must lead. These new plans must cover all emissions and the whole economy, accelerate fossil fuel phase out, and contribute to the energy transition goals agreed at COP28 – seizing the benefits of cheap, clean renewables. The end of the fossil fuel age is an economic inevitability. New national plans must accelerate the shift, and help to ensure it comes with justice. Second, we need swift action to deliver on commitments made in the Pact for the Future. Particularly on effective action on debt; increasing concessional finance and improving access; and substantially increasing the lending capacity of the Multilateral Development Banks, with adequate recapitalization. I thank the government of Azerbaijan for their hospitality – and COP29 President Mukhtar Babayev, and his team, for their hard work. I am grateful to UNFCCC Executive Secretary Simon Stiell and his colleagues for their superb support – and of course the United Nations team. And I commend all the delegates, young people, and civil society representatives who came to Baku to push parties for maximum ambition and justice. I end with a message directly to them. Keep it up. The United Nations is with you. Our fight continues. And we will never give up.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "António Guterres",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:43:05.232+02:00",
+    "updated": "2024-11-24T10:40:12.525+02:00"
+}

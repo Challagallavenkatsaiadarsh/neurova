@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "478471507f1cd1dafa310035fd5ba4943f12e0aa",
+        "url": "https://www.wmbfnews.com:443/2024/11/22/sheriff-robeson-county-teens-killer-tried-escape-before-after-plea-hearing",
+        "site_full": "www.wmbfnews.com",
+        "site": "wmbfnews.com",
+        "site_section": "https://wmbfnews.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WMBF | Myrtle Beach, Florence",
+        "title": "Sheriff: Hania Aguilar’s killer tried to escape before, after plea hearing",
+        "title_full": "Sheriff: Hania Aguilar’s killer tried to escape before, after plea hearing",
+        "published": "2024-11-22T21:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wmbf-prod.gtv-cdn.com/resizer/v2/ULEPFNCTMJFS5AWSIZ22U62CWU.png?auth=7c0f1d6a0f6fd39188751159588ccdeed560ddc7986189446a6ace09a31ae8a4&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 18514,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "478471507f1cd1dafa310035fd5ba4943f12e0aa",
+    "url": "https://www.wmbfnews.com:443/2024/11/22/sheriff-robeson-county-teens-killer-tried-escape-before-after-plea-hearing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wmbfnews",
+    "published": "2024-11-22T21:01:00.000+02:00",
+    "title": "Sheriff: Hania Aguilar’s killer tried to escape before, after plea hearing",
+    "text": "Sheriff: Hania Aguilar’s killer tried to escape before, after plea hearing\nROBESON COUNTY, N.C. (WMBF) – The man who admitted to kidnapping and killing a 13-year-old Robeson County girl tried to escape before and after his plea hearing, according to the Robeson County sheriff.\nMichael McLellan pleaded guilty Friday to first-degree murder in the death of 13-year-old Hania Aguilar back in November 2018.\nCONTINUING COVERAGE | [Man pleads guilty to killing Hania Aguilar, gets life in prison](https://www.wmbfnews.com/2024/11/22/man-pleads-guilty-killing-hania-aguilar-gets-life-prison/)\nSheriff Burnis Wilkins said McLellan tried to escape while he was headed to the Robeson County Courthouse and also while he was being transported back to Central Prison in Raleigh.\nWilkins said two transport vehicles and several transport officers were sent to Central Prison because they were concerned McLellan would try to escape.\nWilkins explained that while the transport team was on I-40, they noticed McLellan was moving too much in the back seat, so they pulled over.\nWhen the officers opened the back door, McLellan had his leg irons removed and he had a homemade key that was stuck in a black bock that covers the handcuffs, according to Wilkins.\nWilkins said that’s when McLellan held up his hands and said, “You got me.”\nWhen the transport team arrived at the Robeson County Courthouse, McLellan’s inmate clothes and the suit he wore into the courtroom were searched. His clothes and the suit were also run through an X-ray machine to check for any other possible homemade keys, but nothing was found.\nWilkins said the Robeson County Courthouse does not have a full body scanner, so they could not run McLellan through any scanners.\nThe sheriff said the second attempt happened while the transport officers were on I-40 in Johnson County, heading back to Central Prison.\nOnce again, Wilkins said the officers noticed McLellan making some movement.\nHe said that before the officer could stop the vehicle, McLellan had completely removed the black box and handcuffs and his hands were free.\nWilkins explained that there is an airflow hole that goes between the plexiglass and the inmate, and McLellan put his hand in the airflow and unlatched the gun from an officer’s holster and got the gun.\nA first sergeant slammed on the brakes to stop the car, and the patrol car behind them ran into the back of the transport car, according to the sheriff. He said some damage was done to the cars.\nWhen the vehicles had stopped, the officer and McClellan started fighting for the gun, and during that time a detention officer pepper sprayed McClellan in the face, according to Wilkins.\nThe sheriff said that’s when McLellan stopped, leaned back and said “You got me,” again.\nThe North Carolina Highway Patrol and the Johnson County Sheriff’s Office were also able to get to the scene to help the officers.\nThe Johnson County Sheriff’s Office assisted in transporting McLellan back to Central Prison following the second escape attempt.\nWilkins said his team has contacted Central Prison regarding the homemade keys that McLellan used. He said the keys were made of some kind of aluminum or thin mental.\nIt’s not clear at this time how McLellan was able to get out of Central Prison with the two homemade keys.\nCopyright 2024 WMBF. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hania Aguilar",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Michael McLellan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Burnis Wilkins",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Central Prison",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robeson County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:33:05.553+02:00",
+    "updated": "2024-11-23T00:33:05.553+02:00"
+}

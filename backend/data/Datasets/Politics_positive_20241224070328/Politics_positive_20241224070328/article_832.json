@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "2cbe536826cc2b8fa58a891c3ee1cd10cd99d4b4",
+        "url": "https://daijiworld.com/news/newsDisplay?newsID=1247136",
+        "site_full": "daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://daijiworld.com/home",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+        "title": "Elon Musk hails India for counting '640 million votes in 1 day', takes jibe at US electoral process - Daijiworld.com",
+        "title_full": "Elon Musk hails India for counting '640 million votes in 1 day', takes jibe at US electoral process - Daijiworld.com",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/ElonMusk24112024_1.jpg",
+        "performance_score": 0,
+        "domain_rank": 24675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2cbe536826cc2b8fa58a891c3ee1cd10cd99d4b4",
+    "url": "https://daijiworld.com/news/newsDisplay?newsID=1247136",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Elon Musk hails India for counting '640 million votes in 1 day', takes jibe at US electoral process - Daijiworld.com",
+    "text": "Washington, Nov 24 (IANS): Tesla CEO Elon Musk has applauded the Indian electoral system after vote counting for two state Assembly elections and by-elections were concluded in a single day, while also taking a jibe at the process in the US where the poll is yet to be called in California.\n\"India counted 640 million votes in 1 day. California is still counting votes,\" wrote Musk on X, while sharing a screenshot of an article on Indian election vote counting.\nMusk was responding to an X post that shared a news article with the Headline \"How India Counted 640 Million Votes in a Day\".\nThe post was captioned \"Meanwhile in India, where cheating isn't the primary goal of their elections\".\nMusk responded to another post on X which said, \"India counted 640 million votes in a single day. California is still counting 15 million votes…18 days later.\"\nOver two weeks have passed, however, California is yet to count over 300,000 ballots, reports said.\nIt's been weeks now since Donald Trump was declared the winner of the US elections and the President-elect of the US.\nCalifornia is the most populous state in the US with nearly 39 million residents. It saw the participation of at least 16 million voters in the November 5 polls. However, it has been among the slowest states to tally and report election results in recent years. The delay is primarily because of its vast size and predominance of mail-in voting.\nAccording to election officials, it could take weeks to call the poll, as was the case in the 2020 presidential election.\nCalifornia's elections largely rely on mail-in voting which requires more time and effort to process as compared to in-person voting.\nEach mail-in ballot has to undergo individual validation and processing, a process that takes longer than simply scanning ballots at polling stations.\nEarlier on October 17, Musk had hailed the Indian government’s decision to allocate spectrum for satellite broadband administratively rather than through the auction route.\n\"Much appreciated. We will do our best to serve the people of India with Starlink,\" Musk wrote on X, as he scored a win over Indian billionaire Mukesh Ambani and Sunil Bharti Mittal who had been batting for the auction of spectrum to ensure a \"level-playing field\".\nMusk was reacting to Telecom Minister Jyotiraditya Scindia's announcement that India would follow the global trend of administrative allocation of spectrum (airwaves) for satellite broadband and sidestep the auction route.\nDisclaimer:\nPlease write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article.\nPlease note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request.\nHence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IANS",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:04:25.614+02:00",
+    "updated": "2024-11-24T07:04:25.614+02:00"
+}

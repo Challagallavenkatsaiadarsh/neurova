@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "9eb34a13e217fe3855920f9e12878090ad19dc23",
+        "url": "https://www.cbc.ca/news/canada/new-brunswick/fredericton-holly-jolly-craft-market-postal-strike-1.7391091?cmp=rss",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://solarflares.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Solar Flares News Today - EIN Presswire",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T23:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.7391269.1732309665!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/kate-hunter.jpg",
+        "performance_score": 0,
+        "domain_rank": 342,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9eb34a13e217fe3855920f9e12878090ad19dc23",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/fredericton-holly-jolly-craft-market-postal-strike-1.7391091?cmp=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "courier-journal.com",
+    "published": "2024-11-22T23:08:00.000+02:00",
+    "title": "",
+    "text": "Maritime craft sellers look to local market as postal strike continues As the Canada Post Strike continues, among those impacted are crafters who sell their wares online shopping sites like Etsy. Even without mail service, you can still find holiday presents, organizer says CBC News · Posted: Nov 22, 2024 4:12 PM EST | Last Updated: 5 hours ago Etsy sellers might miss out on sales because of postal strike\n6 hours ago Duration 0:51 The organizer of the Holly Jolly Christmas market at UNB’s Currie Center in Fredericton this weekend says her vendors are worried the strike will affect their sales.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://cbc.radio-canada.ca/en/vision/governance/journalistic-standards-and-practices",
+        "https://www.cbc.radio-canada.ca/en/vision/governance/journalistic-standards-and-practices"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:02:37.002+02:00",
+    "updated": "2024-11-23T04:01:49.523+02:00"
+}

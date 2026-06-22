@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "a574fc1250d650e69b06d9fd1733818e4aafaea6",
+        "url": "https://www.pakistantoday.com.pk/2024/11/22/china-to-continue-working-with-morocco-to-support-each-others-core-interests-xi-jinping",
+        "site_full": "www.pakistantoday.com.pk",
+        "site": "pakistantoday.com.pk",
+        "site_section": "https://www.pakistantoday.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Pakistan Today | Latest News from Pakistan",
+        "title": "China to continue working with Morocco to support each other’s core interests: Xi Jinping",
+        "title_full": "China to continue working with Morocco to support each other’s core interests: Xi Jinping",
+        "published": "2024-11-22T18:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 15619,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a574fc1250d650e69b06d9fd1733818e4aafaea6",
+    "url": "https://www.pakistantoday.com.pk/2024/11/22/china-to-continue-working-with-morocco-to-support-each-others-core-interests-xi-jinping",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ePakistanToday",
+    "published": "2024-11-22T18:34:00.000+02:00",
+    "title": "China to continue working with Morocco to support each other’s core interests: Xi Jinping",
+    "text": "CASABLANCA: Chinese President Xi Jinping said on Thursday that China is ready to continue working with Morocco to firmly support each other on issues concerning their respective core interests, and push for greater development of China-Morocco strategic partnership.\nXi made the remarks when meeting with Moroccan Crown Prince Moulay Hassan during a technical stop in Casablanca after wrapping up his state visit to Brazil.\nDuring their meeting, Xi conveyed his warm regards and best wishes to King Mohammed VI. He pointed out that China and Morocco have witnessed sound development in their relations, with fruitful practical cooperation and increasingly vibrant exchanges in various fields. In 2016, Xi said, King Mohammed VI paid a state visit to China, during which they held productive talks, bringing China-Morocco relations to a new level.\nXi reaffirmed China’s support for Morocco in safeguarding its national security and stability and expressed a commitment to mutual support on key issues of shared interest. China is ready to work with Morocco to implement the outcomes of the 2024 Summit of the Forum on China-Africa Cooperation and the 10th Ministerial Conference of the China-Arab States Cooperation Forum and deepen collaboration under the Belt and Road Initiative, Xi said.\nXi also emphasized the importance of expanding cultural exchanges to strengthen the foundation of goodwill between the two peoples, advancing the China-Morocco strategic partnership.\nThe crown prince conveyed King Mohammed VI’s sincere greetings to Xi and extended gratitude for China’s support during the COVID-19 pandemic. The crown prince affirmed Morocco’s dedication to further strengthening ties with China through enhanced high-level exchanges and deeper cooperation across various sectors.\nNoting the growing popularity of Chinese language and culture in Morocco, the crown prince expressed his hope to enhance cultural exchanges between the two nations. He also emphasized the alignment of their positions on many issues, saying Morocco is willing to firmly support safeguarding national sovereignty, security and stability.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://api.cgtn.com/app",
+        "https://www.api.cgtn.com/app"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Xi Jinping",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Moulay Hassan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohammed VI",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:44:49.605+02:00",
+    "updated": "2024-11-23T04:44:49.605+02:00"
+}

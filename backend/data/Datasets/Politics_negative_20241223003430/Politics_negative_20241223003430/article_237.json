@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "71950bd43547e6293c3cbfd270d5f8474a2df148",
+        "url": "https://www.rawstory.com/trump-wall-street-journal-2669985891",
+        "site_full": "www.rawstory.com",
+        "site": "rawstory.com",
+        "site_section": "https://rawstory.com/feeds/us-news.rss",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_ca",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Raw Story - Celebrating 20 Years of Independent Journalism",
+        "title": "Wall Street Journal scolds Trump: Quit chasing 'MAGA Twitter insurgents'",
+        "title_full": "Wall Street Journal scolds Trump: Quit chasing 'MAGA Twitter insurgents'",
+        "published": "2024-11-22T23:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.rawstory.com/media-library/tesla-ceo-and-x-owner-elon-musk-speaks-as-republican-presidential-nominee-and-former-u-s-president-donald-trump-reacts-during-a.jpg?id=53809992&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+        "performance_score": 0,
+        "domain_rank": 3144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "71950bd43547e6293c3cbfd270d5f8474a2df148",
+    "url": "https://www.rawstory.com/trump-wall-street-journal-2669985891",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kathleen Culliton",
+    "published": "2024-11-22T23:52:00.000+02:00",
+    "title": "Wall Street Journal scolds Trump: Quit chasing 'MAGA Twitter insurgents'",
+    "text": "Kathleen Culliton November 22, 2024 4:52PM ET",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:28:55.023+02:00",
+    "updated": "2024-11-23T01:06:12.663+02:00"
+}

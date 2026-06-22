@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "488c09830edf5bc5541334fe319f7a3ad0100448",
+        "url": "https://united24media.com/latest-news/canada-delivers-nasams-air-defense-system-to-ukraine-after-two-year-pledge-3949",
+        "site_full": "united24media.com",
+        "site": "united24media.com",
+        "site_section": "https://united24media.com",
+        "site_categories": [],
+        "section_title": "UNITED24 Media",
+        "title": "Canada Delivers NASAMS Air Defense System to Ukraine After Two-Year Pledge",
+        "title_full": "Canada Delivers NASAMS Air Defense System to Ukraine After Two-Year Pledge",
+        "published": "2024-11-23T01:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://storage.united24media.com/og/4/14/145fdb6dafc2195b9c7cab9343e77144.webp",
+        "performance_score": 0,
+        "domain_rank": 149614,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "488c09830edf5bc5541334fe319f7a3ad0100448",
+    "url": "https://united24media.com/latest-news/canada-delivers-nasams-air-defense-system-to-ukraine-after-two-year-pledge-3949",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Liubava Petriv",
+    "published": "2024-11-23T01:36:00.000+02:00",
+    "title": "Canada Delivers NASAMS Air Defense System to Ukraine After Two-Year Pledge",
+    "text": "- Category\n[Latest news](https://united24media.com/latest-news)\nCanada Delivers NASAMS Air Defense System to Ukraine After Two-Year Pledge\nCanadian Defense Minister Bill Blair has confirmed that the National Advanced Surface-to-Air Missile Systems (NASAMS), promised by Canada nearly two years ago, have arrived in Ukraine, [reported](https://www.cbc.ca/news/politics/nasam-air-defence-system-delivered-to-ukraine-1.7390064) by CBC News on November 21.\n“I can’t give you more information on that because of operational security, but we have been able to deliver at long last — and I think it’s going to make a difference because it will enable them to protect communities,” Blair told the House defense committee.\nThe government attempted to expedite the delivery by aligning with a larger purchase already being made by the US government. The $406-million purchase was initially announced in January 2023.\nHowever, as the Department of National Defence informed CBC News in September, the federal government did not transfer the necessary funds to Washington to pay for the system and initiate the process until March 2023, [according](https://www.cbc.ca/news/politics/nasam-air-defence-system-delivered-to-ukraine-1.7390064) to CBC.\nOn November 4, Ukrainian President Volodymyr Zelenskyy[ held](https://united24media.com/latest-news/canada-delivers-first-ordered-nasams-air-defense-system-to-ukraine-3503) a phone call with Canadian Prime Minister Justin Trudeau, during which Trudeau confirmed Canada’s shipment of its first NASAMS system to Ukraine.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cbc.ca/news/politics/nasam-air-defence-system-delivered-to-ukraine-1.7390064",
+        "https://cbc.ca/news/politics/nasam-air-defence-system-delivered-to-ukraine-1.7390064"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill Blair",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of National Defence",
+                "sentiment": "none"
+            },
+            {
+                "name": "CBC News",
+                "sentiment": "none"
+            },
+            {
+                "name": "House",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:01:04.702+02:00",
+    "updated": "2024-11-23T04:01:04.702+02:00"
+}

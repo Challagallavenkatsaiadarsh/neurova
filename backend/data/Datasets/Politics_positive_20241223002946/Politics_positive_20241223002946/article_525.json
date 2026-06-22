@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "e78ac5f0365aacbe898a1fdce2f0358fcedce969",
+        "url": "https://www.newsbreak.com/wftv-channel-9-orlando-523005/3686172198663-cold-weather-shelters-open-in-deland",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/port-orange-fl",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Port Orange, FL Local News and More | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T01:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2bDms0_0wyGhJo300?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e78ac5f0365aacbe898a1fdce2f0358fcedce969",
+    "url": "https://www.newsbreak.com/wftv-channel-9-orlando-523005/3686172198663-cold-weather-shelters-open-in-deland",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T01:03:00.000+02:00",
+    "title": "",
+    "text": "By Angel Green ,\n2 hours ago Temperatures in parts of Central Florida will drop into the 30s tonight and the community is coming together to embrace those in need like a warm hug.\n▶ WATCH CHANNEL 9 EYEWITNESS NEWS Florida is taking on the cold weather season as we inch closer to December and Western Volusia County officials are making sure that the community has a warm place for those in need.\nRead: Strong front brings colder, drier air to Central Florida\nThe Neighborhood Center’s The Bridge, located at 421 S. Palmetto Ave. in DeLand will open their doors at 6:30 p.m. for persons without stable housing or heating accommodations. Guests are allowed to remain through the chilly night until the sun shines the following morning until approximately 8 a.m.\nRead: Woman faces issues with Social Security benefits after vocal cord surgery\nThe Bridge will also be serving a complimentary breakfast for all to enjoy before departure time.\nFor more information, contact the Neighborhood Center at 386-734-8120, ext. 601.\nClick here to download our free news, weather and smart TV apps. And click here to stream Channel 9 Eyewitness News live.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wftv.com/news/local/woman-faces-issues-with-social-security-benefits-after-vocal-cord-surgery/6OPQ4R4YOJARZLOQT3MDREFFTA/",
+        "https://www.wftv.com/news/local/strong-front-brings-colder-drier-air-central-florida/AIZTRZRII5BIJN7GUYHHP3XDF4/",
+        "https://www.wftv.com/video/",
+        "https://www.wftv.com/mobile-apps",
+        "https://wftvapps.com/",
+        "https://wftv.com/video/",
+        "https://wftv.com/mobile-apps",
+        "https://wftv.com/news/local/woman-faces-issues-with-social-security-benefits-after-vocal-cord-surgery/6OPQ4R4YOJARZLOQT3MDREFFTA/",
+        "https://www.wftvapps.com/",
+        "https://wftvapps.com",
+        "https://wftv.com/news/local/strong-front-brings-colder-drier-air-central-florida/AIZTRZRII5BIJN7GUYHHP3XDF4/",
+        "https://www.wftv.com/news/local/strong-front-brings-colder-drier-air-central-florida/AIZTRZRII5BIJN7GUYHHP3XDF4",
+        "https://www.wftv.com/news/local/woman-faces-issues-with-social-security-benefits-after-vocal-cord-surgery/6OPQ4R4YOJARZLOQT3MDREFFTA",
+        "https://www.wftv.com/video"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "The Neighborhood Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ave.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:08:39.749+02:00",
+    "updated": "2024-11-23T03:08:39.749+02:00"
+}

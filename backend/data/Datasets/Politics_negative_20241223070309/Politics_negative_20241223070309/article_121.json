@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "6a041a897e616ef9aad0d032c37dd133e7fa9586",
+        "url": "https://images.thedailystar.net/news/bangladesh/news/shockingly-insufficient-3759461",
+        "site_full": "images.thedailystar.net",
+        "site": "thedailystar.net",
+        "site_section": "https://images.thedailystar.net/todays-news",
+        "site_categories": [],
+        "section_title": "Today's News of The Daily Star at a Glance",
+        "title": "‘Shockingly insufficient’",
+        "title_full": "‘Shockingly insufficient’",
+        "published": "2024-11-22T20:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "BD",
+        "main_image": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2024/11/23/rizwana.jpg",
+        "performance_score": 0,
+        "domain_rank": 5236,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6a041a897e616ef9aad0d032c37dd133e7fa9586",
+    "url": "https://images.thedailystar.net/news/bangladesh/news/shockingly-insufficient-3759461",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@dailystarnews",
+    "published": "2024-11-22T20:00:00.000+02:00",
+    "title": "‘Shockingly insufficient’",
+    "text": "‘Shockingly insufficient’\nSyeda Rizwana Hasan, adviser to the environment ministry, yesterday criticised the $250 billion annual climate aid to poorer countries proposed at COP29 as \"shockingly insufficient\".\nWealthy nations yesterday offered the money to help poorer nations hit the hardest by global warming, but faced immediate calls from several groups of nations to give more as UN climate negotiations in Azerbaijan extended into overtime.\nRizwana also expressed her \"profound\" disappointment with the latest text on the New Collective Quantified Goal (NCQG) for climate finance, published by the COP29 presidency.\nIn a statement, she criticised the text as a \"very disappointing package\", noting its failure to meet the critical needs of the Least Developed Countries (LDCs) and Small Island Developing States (SIDS).\n\"The proposed decision to allocate $250 billion per year for all developing countries is shockingly insufficient,\" she said, emphasising that the amount is neither provisioned nor designated as grants.\nFurthermore, the text fails to allocate any dedicated funds to the most vulnerable 45 LDCs.\nThe adviser highlighted the inadequacy of COP29 outcomes in addressing climate finance challenges, despite this conference being explicitly focused on the issue.\n\"The package has failed to provide the minimum required justification for an NCQG that should uplift the most vulnerable nations. It offers nothing concrete for LDCs and SIDS, leaving them exposed to escalating climate risks,\" she said.\nRizwana urged LDCs to resist this package, asserting that it \"will make little difference in reality\" without substantive revisions. She called on all stakeholders to advocate for a more ambitious, fair, and actionable climate finance framework that prioritises the needs of the world's most vulnerable communities.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Syeda Rizwana Hasan",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:15:49.378+02:00",
+    "updated": "2024-11-23T00:15:49.378+02:00"
+}

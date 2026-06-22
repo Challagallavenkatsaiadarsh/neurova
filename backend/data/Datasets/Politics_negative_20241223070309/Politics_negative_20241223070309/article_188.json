@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "7f14cb7a3668d47b241ccf6d057227858de82bae",
+        "url": "https://www.dailykos.com/stories/2024/11/22/2288084/-MSNBC-has-hit-rock-bottom?pm_campaign=front_page&pm_source=latest_community&pm_medium=web",
+        "site_full": "www.dailykos.com",
+        "site": "dailykos.com",
+        "site_section": "https://www.dailykos.com",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\n      Daily Kos\n    ",
+        "title": "MSNBC has hit rock bottom",
+        "title_full": "MSNBC has hit rock bottom",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.prod.dailykos.com/images/1371092/story_image/msnbc.png?1732283071",
+        "performance_score": 0,
+        "domain_rank": 2482,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7f14cb7a3668d47b241ccf6d057227858de82bae",
+    "url": "https://www.dailykos.com/stories/2024/11/22/2288084/-MSNBC-has-hit-rock-bottom?pm_campaign=front_page&pm_source=latest_community&pm_medium=web",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "MSNBC has hit rock bottom",
+    "text": "Does anybody at MSNBC even listen to their own shows?\nWe just went through a brutal election season and MSNBC, pretty much 24/7, made the case ( endlessly) that nothing less than DEMOCRACY was on the line.\nWhile doing so, they managed to miss the actual temperature of the electorate, but so did almost everybody else. That’s a different subject for another day.\nBut now, what are they up to at MSNBC?\nYou might think that the imminent end of democracy and constitutional governance they anticipated and forecasted would be the main, perhaps the ONLY topic they’d be interested in.\nBut you would be wrong.\nThey are parsing politics once again, as if we’re just in another chaotic political period.\nLawrence O’Donnell actually said that perhaps Mitch McConnell is the guy who will turn back Trump’s worse impulses legislatively. O’Donnell ( who I will refer to henceforth here as “OD”) also said that there appear to be Republican senators who are positioned to thwart Trump’s agenda.\nOD needs to retire. He is an embarrassment now, trying to “poli-sci” the coming Trump term into politics as usual.\nThe slow motion coup has hit warp speed and OD is strolling down memory lane.\nTrump and the cabal of mini-minds, fueled by mega-money and a bought SCOTUS, has no intention of serving as president. He’s serving as Trump and if you don’t know that now, you’ll know it soon enough.\nMSNBC has hit rock-bottom if they actually think we didn’t hear them the last year and a half. Maybe they should be required to listen to their broadcasts from that period. They had it right then. They have it all wrong now.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lawrence O’Donnell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mitch McConnell",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MSNBC",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:23:43.468+02:00",
+    "updated": "2024-11-23T00:23:43.468+02:00"
+}

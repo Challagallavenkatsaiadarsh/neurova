@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "1ec07d1803d7e64ef58e15c753e8eaa0c7d324a1",
+        "url": "https://indianexpress.com/article/cities/ahmedabad/people-have-shown-faith-in-modis-leadership-cr-paatil-9686967",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://indianexpress.com/feed/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "The Indian Express",
+        "title": "People have shown faith in Modi’s leadership: CR Paatil",
+        "title_full": "People have shown faith in Modi’s leadership: CR Paatil",
+        "published": "2024-11-23T19:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/paatil.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1ec07d1803d7e64ef58e15c753e8eaa0c7d324a1",
+    "url": "https://indianexpress.com/article/cities/ahmedabad/people-have-shown-faith-in-modis-leadership-cr-paatil-9686967",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kamaal Saiyed",
+    "published": "2024-11-23T19:54:00.000+02:00",
+    "title": "People have shown faith in Modi’s leadership: CR Paatil",
+    "text": "People have shown total confidence and faith in the leadership of Prime Minister Narendra Modi, said Union minister CR Paatil. The election results in Maharashtra and Vav show that the voters have accepted the statements of Prime Minister Narendra Modi – ‘Batenge to katenge’ (divided we fall) and ‘Ek hein to safe hein’ (safe together), he added. The Union minister, who is also the state BJP president, arrived in Surat Saturday afternoon and addressed the media persons over the results of Maharashtra assembly elections and Vav bypoll. Paatil said, “The meaning of Prime Minister’s statement ‘Ek hain to safe hain’ is that India is moving ahead on the development path and if Maharashtra voters also wanted to walk on the development path they should be united and act accordingly (they should support BJP and allied parties). For ‘Batenge to katenge’, if the votes get split and BJP candidates lose, it will be a loss for the people of Maharashtra. People saw the country's interests, their own interests, and that of their future generations. Thus instead of being divided they remained united and defeated those who had to be defeated.” He said, “While campaigning for the Maharashtra elections in 15 assembly seats, I found that people had already made up their mind to elect BJP and its allies as they were interested in the development of the state.” He said, “People have shown total confidence and faith in the leadership of Prime Minister Narendra Modi and guidance of Union Minister Amit Shah. The party workers and leaders worked hard to reach out to the voters to gain their confidence and they succeeded.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "CR Paatil",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:11:49.449+02:00",
+    "updated": "2024-11-24T01:22:11.189+02:00"
+}

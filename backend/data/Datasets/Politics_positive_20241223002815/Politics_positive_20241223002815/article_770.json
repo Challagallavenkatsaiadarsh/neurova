@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "1713123bf4395a5de49a426530449c2c946d07b3",
+        "url": "https://www.pakistantoday.com.pk/2024/11/23/seven-terrorists-killed-in-kp-balochistan-operations-ispr",
+        "site_full": "www.pakistantoday.com.pk",
+        "site": "pakistantoday.com.pk",
+        "site_section": "https://www.pakistantoday.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Pakistan Today | Latest News from Pakistan",
+        "title": "Seven terrorists killed in KP, Balochistan operations: ISPR",
+        "title_full": "Seven terrorists killed in KP, Balochistan operations: ISPR",
+        "published": "2024-11-22T21:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 15619,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1713123bf4395a5de49a426530449c2c946d07b3",
+    "url": "https://www.pakistantoday.com.pk/2024/11/23/seven-terrorists-killed-in-kp-balochistan-operations-ispr",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ePakistanToday",
+    "published": "2024-11-22T21:10:00.000+02:00",
+    "title": "Seven terrorists killed in KP, Balochistan operations: ISPR",
+    "text": "RAWALPINDI: The security forces killed seven terrorists in separate operations in Khyber Pakhtunkhwa and Balochistan, the Inter-Services Public Relations (ISPR) said in a statement on Friday.\nAccording to military’s media wing, in Khyber Pakhtunkhwa, three terrorists were killed during an intelligence-based operation (IBO) in the Bannu district. The operation, which took place in the early hours of Friday, also resulted in two other terrorists sustaining injuries.\nThe ISPR stated that the terrorists had been involved in various terrorist activities targeting security forces and civilians, including acts of targeted killings.\nDuring the operation, security forces recovered weapons, ammunition, and explosives from the terrorists.\nThe military added that the sanitisation operation was ongoing to eliminate any remaining terrorists in the area.\nSeparately, security forces eliminated four terrorists in Balochistan during three separate engagements between November 20 and November 24, the military’s media wing said.\nThe first operation took place in the District of Awaran, where an intelligence-based operation led to an intense gunfight, resulting in the neutralization of two terrorists.\nThe ISPR identified the slain terrorists as Niaz alias Ghuman and Zareef alias Shah Jahan, describing them as high-value targets involved in various terrorist activities.\nIn a second operation in Dera Bugti District, security forces successfully neutralized one terrorist. The third operation occurred in Kech District, where another terrorist was killed during an intelligence-based operation.\nThe ISPR stated that the terrorists involved in these operations were responsible for numerous attacks on security forces and innocent civilians. They were also highly wanted by law enforcement agencies for their involvement in terrorism.\nThe military reaffirmed its commitment to maintaining peace and stability in Balochistan, stating that security forces, in line with the nation, remain determined to thwart any attempts to disrupt the region’s progress.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "ISPR",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Khyber Pakhtunkhwa",
+                "sentiment": "none"
+            },
+            {
+                "name": "Balochistan",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1713123bf4395a5de49a426530449c2c946d07b3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:45:03.780+02:00",
+    "updated": "2024-11-23T04:45:03.780+02:00"
+}

@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "f18617c50d1dd1b3d813acb3fa495bd51eae4171",
+        "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-bjps-diplu-ranjan-sarma-wins-samaguri-bypoll-defeats-congress-with-historic-margin",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "Assam: BJP's Diplu Ranjan Sarma Wins Samaguri Bypoll, Defeats Congress With Historic Margin",
+        "title_full": "Assam: BJP's Diplu Ranjan Sarma Wins Samaguri Bypoll, Defeats Congress With Historic Margin",
+        "published": "2024-11-24T00:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-24%2F0hj9kij5%2F6741b26ec3143-assam-234601767-16x9.avif?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f18617c50d1dd1b3d813acb3fa495bd51eae4171",
+    "url": "https://www.sentinelassam.com/north-east-india-news/assam-news/assam-bjps-diplu-ranjan-sarma-wins-samaguri-bypoll-defeats-congress-with-historic-margin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-24T00:29:00.000+02:00",
+    "title": "Assam: BJP's Diplu Ranjan Sarma Wins Samaguri Bypoll, Defeats Congress With Historic Margin",
+    "text": "A CORRESPONDENT\nNAGAON: BJP candidate Diplu Ranjan Sarma finally defeated Congress candidate Tanzil Hussain, the son of dominant Congress MP Rakibul Hussain in Samaguri assembly by-election with a huge margin of 24,423 votes.\nBJP candidate Diplu Ranjan Sarma bagged a total of 81,160 votes while Congress candidate Tanzil Hussain secured 56,737 votes only.\nFormer powerful Congress minister Rakibul Hussain retained the Samaguri seat in 2001 assembly polls after it was snatched away by then AGP leader Atul Sharma in 1996 assembly polls from his father, then Congress minister Lt Nurul Hussain. But after 2001, Rakibul Hussain dominated the constituency and won the seat consecutively for five times.\nAs soon as Rakibul Hussain defeated AIUDF supremo Badruddin Ajmal in Dhubri parliamentary constituency in last general election, he had to resign the post of public representative of Samaguri assembly constituency.\nIt’s reported that the administration scheduled only fifteen rounds in counting of votes for Samaguri bye-election. However, three Electoral Voting Machines (EVM) discovered technical issues during the counting process, along with other inconveniences. As a result, the relevant authority prolonged the counting rounds from 15 to 19 rounds, specifically for the counting of VV pads and other items, according to sources from the district election media cell.\nFollowing the historic win of Diplu Ranjan Sarma, a young and energetic youths leader in constituency like Samaguri, a minority dominated constituency, the workers and supporters of the ruling saffron became jubilant, celebrating the afternoon with fire crackers nearby the office of the district commissioner as well as its district office. Besides, it was seen that two state cabinet ministers - Keshab Mahanta and Bimal Bora, BJP MLAs Rupak Sarma, Jitu Goswami, AGP leader Moni Madhab Mahanta and other party leaders rushed to spot of the counting campus, enjoying the historic triumph in Samaguri after two decades.\nAlso Read: Assam: BJP's Nihar Ranjan Das Wins Dholai Bypoll by 9,098 Votes\nAlso watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rakibul Hussain",
+                "sentiment": "none"
+            },
+            {
+                "name": "Badruddin Ajmal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tanzil Hussain",
+                "sentiment": "none"
+            },
+            {
+                "name": "Atul Sharma",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Electoral Voting Machines",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Samaguri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dhubri",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:38:27.068+02:00",
+    "updated": "2024-11-24T05:38:27.068+02:00"
+}

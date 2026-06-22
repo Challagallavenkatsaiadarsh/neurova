@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "2ba2e741c09b11c1a03b401d2e253908484473e1",
+        "url": "https://citizen.digital/news/biden-praises-cop29-deal-vows-us-action-despite-trump-n353467",
+        "site_full": "citizen.digital",
+        "site": "citizen.digital",
+        "site_section": "https://citizen.digital/",
+        "site_categories": [],
+        "section_title": "Citizen Digital - Breaking News, Kenya News, Latest News, Citizen TV, 2022 elections, Sports, Entertainment, Exclusive videos, Radio, Podcasts",
+        "title": "Biden praises COP29 deal, vows US action despite Trump",
+        "title_full": "Biden praises COP29 deal, vows US action despite Trump",
+        "published": "2024-11-24T07:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KE",
+        "main_image": "https://citizentv.obs.af-south-1.myhuaweicloud.com/139361/conversions/Trump-og_image.webp",
+        "performance_score": 0,
+        "domain_rank": 44865,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ba2e741c09b11c1a03b401d2e253908484473e1",
+    "url": "https://citizen.digital/news/biden-praises-cop29-deal-vows-us-action-despite-trump-n353467",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-11-24T07:26:00.000+02:00",
+    "title": "Biden praises COP29 deal, vows US action despite Trump",
+    "text": "US President Joe Biden praised the COP29 deal Saturday as a \"significant step\" to fighting global warming, and pledged continued action by America despite his incoming successor Donald Trump's climate skepticism. \"While there is still substantial work ahead of us to achieve our climate goals, today's outcome puts us one significant step closer,\" Biden said in a statement.\nAfter two exhausting weeks of negotiations in Azerbaijan, the pact hammered out commits developed nations to pay at least $300 billion a year by 2035 to help developing countries green their economies and prepare for worse disasters.\nBiden hailed the goal as \"ambitious,\" though poorer nations quickly decried it as inadequate.\nThe Baku meeting kicked off shortly after Trump won a new term in the White House, potentially setting the stage for him to undo actions by Biden's administration.\nBiden, who leaves office on January 20, said he was \"confident\" the United States \"will continue this work: through our states and cities, our businesses, and our citizens, supported by durable legislation like the Inflation Reduction Act.\"\n\"While some may seek to deny or delay the clean energy revolution that's underway in America and around the world, nobody can reverse it -- nobody.\"\nTags: Biden Climate Citizen TV Citizen Digital Trump COP29 Want to send us a story? SMS to 25170 or WhatsApp 0743570000 or Submit on Citizen Digital or email wananchi@royalmedia.co.ke\nLeave a Comment\nComments No comments yet.\nlatest stories",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://wa.me/0743570000",
+        "https://www.wa.me/0743570000"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Biden",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:39:02.671+02:00",
+    "updated": "2024-11-24T07:39:02.671+02:00"
+}

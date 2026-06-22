@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "558bb9ec863371d17beb82c190c19dea7816f951",
+        "url": "https://www.pravda.com.ua/eng/news/2024/11/24/7486063",
+        "site_full": "www.pravda.com.ua",
+        "site": "pravda.com.ua",
+        "site_section": "https://pravda.com.ua/eng",
+        "site_categories": [
+            "media",
+            "top_news_ua",
+            "top_news_pl",
+            "top_news_fi",
+            "top_news_cz",
+            "top_news_sk",
+            "top_news"
+        ],
+        "section_title": "Ukrainska Pravda - online news about Ukraine",
+        "title": "Over 20,000 civilians evacuated from dangerous parts of Kharkiv Oblast in six months",
+        "title_full": "Over 20,000 civilians evacuated from dangerous parts of Kharkiv Oblast in six months",
+        "published": "2024-11-24T01:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://img.pravda.com/images/doc/7/4/7486063_fb_image_eng_2024_11_24_07_57_11.jpg",
+        "performance_score": 0,
+        "domain_rank": 4282,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "558bb9ec863371d17beb82c190c19dea7816f951",
+    "url": "https://www.pravda.com.ua/eng/news/2024/11/24/7486063",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ukrpravda_news",
+    "published": "2024-11-24T01:20:00.000+02:00",
+    "title": "Over 20,000 civilians evacuated from dangerous parts of Kharkiv Oblast in six months",
+    "text": "Almost 22,000 civilians have been evacuated from the most dangerous areas of Kharkiv Oblast. Source: Oleh Syniehubov, Head of Kharkiv Oblast Military Administration, on the air of the national joint 24/7 newscast, quoted by Ukrinform Quote from Syniehubov: \"We are continuing the evacuation of civilians. We are evacuating both children and adults. If we consider the period from May of this year to the present day, we have already evacuated almost 22,000 civilians from dangerous areas.\" Details: He noted that the dangerous areas include the Vovchansk front in the Chuhuiv district; Lyptsi, Kharkiv district; and the Kupiansk front. Syniehubov said that the evacuees are being provided humanitarian, psychological and financial assistance in relatively safe areas in the city of Kharkiv. Quote from Syniehubov: \"We have opened civilian reception centres in Kharkiv for such people, and they have proved to be very effective. For example, more than 4,500 people have been accepted in such a centre in Kupiansk in just one month. People use all the services, and we will expand these practices to other hromadas where people are actively evacuating [a hromada is an administrative unit designating a town, village or several villages and their adjacent territories – ed.].\" Support UP or become our patron !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ukrinform.ua/rubric-regions/3930536-z-nebezpecnih-rajoniv-harkivsini-za-piv-roku-evakuuvali-majze-22-tisaci-civilnih-ova.html",
+        "https://www.patreon.com/pravdaua",
+        "https://patreon.com/pravdaua",
+        "https://ukrinform.ua/rubric-regions/3930536-z-nebezpecnih-rajoniv-harkivsini-za-piv-roku-evakuuvali-majze-22-tisaci-civilnih-ova.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Oleh Syniehubov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ukrinform",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chuhuiv",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kharkiv",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:02:11.394+02:00",
+    "updated": "2024-11-24T08:27:35.742+02:00"
+}

@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "31b4b80379985b42542f9f5838683a22106191e8",
+        "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/belfast-city-council-unanimous-vote-divest-israel-military-war-gaza-investments/97-330d80a6-2fa0-4628-b7dc-4d78ef1c4ec5",
+        "site_full": "www.newscentermaine.com",
+        "site": "newscentermaine.com",
+        "site_section": "https://newscentermaine.com/sports",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Sports | newscentermaine.com",
+        "title": "Belfast divests from all investments that support Israeli military",
+        "title_full": "Belfast divests from all investments that support Israeli military",
+        "published": "2024-11-23T03:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.newscentermaine.com/assets/NCM/images/ead28afd-b101-4a41-a711-d5df4e9cb43b/20241123T004826/ead28afd-b101-4a41-a711-d5df4e9cb43b_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 14436,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "31b4b80379985b42542f9f5838683a22106191e8",
+    "url": "https://www.newscentermaine.com/article/news/politics/maine-politics/belfast-city-council-unanimous-vote-divest-israel-military-war-gaza-investments/97-330d80a6-2fa0-4628-b7dc-4d78ef1c4ec5",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Drew Peters",
+    "published": "2024-11-23T03:38:00.000+02:00",
+    "title": "Belfast divests from all investments that support Israeli military",
+    "text": "BELFAST, Maine — Jamila Levasseur and nearly 40 other Belfast residents huddled into city hall Tuesday night during the monthly city council meeting.\n\"We filled the room,\" Levasseur said. \"I was afraid we wouldn't all fit in there.\"\nResidents typically use these meetings to voice their opinions on local issues, but Lavasseur and the group on Tuesday were there to share their [concerns about the ongoing conflict between Israel and Palestine.](/article/news/nation-world/israel-hamas-conflict/death-toll-in-gaza-44000-palestinian-officials-say/507-f9d283c0-c9d7-4219-aa6b-3143cea7d5eb)\n\"I mean, the untold numbers of people buried under the rubble—children, doctors, journalists, people from all walks of life,\" Levasseur said.\nThe group wasn't solely attending to raise awareness, though. They were there to call on councilors to act.\n\"We don't want to support this, and we don't want our cities investments going to this,\" Lavasseur explained.\nAfter a discussion and unanimous vote among councilors, Mayor Eric Sanders said [Belfast](https://www.cityofbelfast.org/) was listening to its residents and would be divesting investments from [Raytheon](https://www.rtx.com/) and [Honeywell](https://www.honeywell.com/us/en), two companies that contribute to Israel's military.\n\"You try as a councilor or mayor to listen to everybody who lives here, and that's what we did,\" Sanders explained.\nAccording to Sanders, the city's investments in both companies are minor, but Councilor Brenda Bonneville said she feels the move is symbolically significant.\n\"It sends a clear message that Belfast is a town or city that supports human life, and that's all it's about,\" Bonneville said.\nWhile councilors and several residents supported the divestment of funds, some members of the [Calvary Chapel Safe Harbor Church](https://www.ccsafeharbor.com/) in nearby Searsport said they felt differently, though.\n\"We stand with Israel, and it was a very offensive thing, from our perspective, that they have done,\" Pastor Norman Lebonte said.\nLebonte said he thinks the city's decision is only based on the opinions of a small group of Belfast residents and fears it could promote anti-Israeli and anti-Jewish sentiments.\n\"We don't think it's the local or state governments place to set that kind of animosity towards another people group,\" Lebonte said.\nUntil something changes, Lebonte said he and others would continue voicing their opposition to the council's decision.\n\"I will no longer do business in Belfast, even as limited as that may be,\" he shared.\nWith the decision, Belfast joins Portland and just four other cities in the U.S. that have made similar divestments from Israeli investments.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.honeywell.com/us/en",
+        "https://www.cityofbelfast.org/",
+        "https://www.ccsafeharbor.com/",
+        "https://www.rtx.com/",
+        "https://ccsafeharbor.com/",
+        "https://rtx.com/",
+        "https://www.ccsafeharbor.com",
+        "https://honeywell.com/us/en",
+        "https://www.rtx.com",
+        "https://cityofbelfast.org/",
+        "https://www.cityofbelfast.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jamila Levasseur",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Eric Sanders",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lavasseur",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Tuesd",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:42:58.203+02:00",
+    "updated": "2024-11-28T07:14:12.820+02:00"
+}

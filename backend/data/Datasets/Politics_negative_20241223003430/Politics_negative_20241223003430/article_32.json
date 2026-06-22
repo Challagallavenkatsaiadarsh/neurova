@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "f8b62d98e0670c9bf57bf0a9e77b693d0ffcd776",
+        "url": "https://jewishinsider.com/2024/11/more-than-50-jewish-groups-blast-sens-ossoff-and-warnock-for-votes-against-israel-aid",
+        "site_full": "jewishinsider.com",
+        "site": "jewishinsider.com",
+        "site_section": "https://jewishinsider.com/feed/",
+        "site_categories": [
+            "media",
+            "religion",
+            "judaism",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Jewish Insider",
+        "title": "More than 50 Jewish groups blast Sens. Ossoff and Warnock for votes against Israel aid",
+        "title_full": "More than 50 Jewish groups blast Sens. Ossoff and Warnock for votes against Israel aid",
+        "published": "2024-11-22T23:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 23656,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f8b62d98e0670c9bf57bf0a9e77b693d0ffcd776",
+    "url": "https://jewishinsider.com/2024/11/more-than-50-jewish-groups-blast-sens-ossoff-and-warnock-for-votes-against-israel-aid",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Josh Kraushaar",
+    "published": "2024-11-22T23:41:00.000+02:00",
+    "title": "More than 50 Jewish groups blast Sens. Ossoff and Warnock for votes against Israel aid",
+    "text": "More than 50 Jewish groups blast Sens. Ossoff and Warnock for votes against Israel aid\nThe coalition criticizing the two Georgia Democrats includes the Jewish Federation of Greater Atlanta, synagogues, and Jewish day schools\nA coalition of more than 50 synagogues, Jewish schools and other Jewish organizations in the Atlanta area joined a letter blasting Sens. Jon Ossoff (D-GA) and Rafael Warnock (D-GA) for voting to block tranches of U.S. aid to Israel.\nThe letter is a sign of the growing Jewish backlash against both Democratic senators for their votes earlier this week, which could pose an electoral hurdle, particularly for Ossoff, who will be up for re-election in 2026.\n“As your constituents, we are deeply disappointed by your support of Sen. Sanders’ efforts to block weapons transfers to Israel,” the organizations, led by the Jewish Federation of Greater Atlanta, said.\n“Your vote demonstrates that your commitment to Israel’s security is not ironclad,” the letter reads. “[R]ather it comes at the expense of Israeli defense. It not only emboldens Iran and its proxies, it also stands in sharp contrast to the many expressions of support for Israel you have made.”\nThe letter argues that the votes do nothing to support those internally displaced in Israel, release the hostages or protect Israeli or Palestinian civilians.\nBlocking aid “provides cover for those who seek to harm the Jews around the world and further fuels the increase in antisemitism that has been surging in our communities and on college campuses,” the letter continues.\nThe signatories said that “limiting Israel’s Israel to vanquish enemies that seek not only its defeat but destruction will prevent” the war from coming to an end.\nOther leading signatories included the Anti-Defamation League’s southeast division, AIPAC, the American Jewish Committee in Atlanta and the Atlanta Jewish Community Relations Council.\nIt follows a public statement from Democratic state Rep. Esther Panitch, the only Jewish member in the Georgia state legislature, similarly condemning the two senators. Panitch said the votes would be hurtful to pro-Israel constituents in Georgia and warned that Ossoff “should be glad the election isn’t tomorrow.”\nOssoff is the only Democratic senator from a state that Trump carried in 2024 who is up for re-election in 2026 and voted for any of the resolutions to block aid.\nDov Wilker, the regional director of the AJC in Atlanta, told JI after the votes that “to use the word ‘disappointment’ would be an understatement,” adding, “This is a statement that sort of emboldens Iran and its proxies, and it’s a sad day for those who support Israel.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jon Ossoff",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Rafael Warnock",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Sanders",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:24.377+02:00",
+    "updated": "2024-11-23T00:05:24.377+02:00"
+}

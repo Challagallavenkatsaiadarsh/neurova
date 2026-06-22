@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "b36540c266ec39f129dc619eabeace11f126de78",
+        "url": "https://english.news.cn/20241123/c2a3cd71636c435db86ebc1669ac8996/c.html",
+        "site_full": "english.news.cn",
+        "site": "news.cn",
+        "site_section": "https://english.news.cn/world/index.htm",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "World | English.news.cn",
+        "title": "New York judge postpones Trump's sentencing in hush money case-Xinhua",
+        "title_full": "New York judge postpones Trump's sentencing in hush money case-Xinhua",
+        "published": "2024-11-23T00:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 984,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b36540c266ec39f129dc619eabeace11f126de78",
+    "url": "https://english.news.cn/20241123/c2a3cd71636c435db86ebc1669ac8996/c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Xinhua",
+    "published": "2024-11-23T00:49:00.000+02:00",
+    "title": "New York judge postpones Trump's sentencing in hush money case-Xinhua",
+    "text": "NEW YORK, Nov. 22 (Xinhua) -- Juan Merchan, a New York judge presiding over U.S. President-elect Donald Trump's hush money case, on Friday agreed to indefinitely postpone the sentencing, which was scheduled on Nov. 26. Trump is not likely to be sentenced until after the end of his upcoming four-year presidential term which starts on Jan. 20, 2025, according to a letter by the Manhattan District Attorney's Office to Merchan on Tuesday. Meanwhile, Merchan granted Trump's request to file a motion to dismiss the conviction by Dec. 2 and Manhattan prosecutors need to respond by Dec. 9. Immediate dismissal of the hush money case is mandated in order to facilitate the orderly transition of executive power following Trump's victory in the 2024 presidential election, argued Trump's lawyers from Blanch Law PLLC in a letter to Merchan on Tuesday. Manhattan prosecutors said they intended to oppose dismissal of the case in the letter on the same day. \"No current law establishes that a president's temporary immunity from prosecution requires dismissal of a post-trial criminal proceeding that was initiated at a time when the defendant was not immune from criminal prosecution and that is based on unofficial conduct for which the defendant is also not immune,\" said the Manhattan District Attorney's Office. On May 30, a jury in New York found Trump guilty of all 34 felony counts of falsifying business records in a bid to hide hush money payments to a porn star in 2016 and the initial date of sentencing was July 11. ■",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/user/ChinaViewTV",
+        "https://www.facebook.com/XinhuaNewsAgency/",
+        "https://twitter.com/XHNews",
+        "https://youtube.com/user/ChinaViewTV",
+        "https://www.twitter.com/XHNews",
+        "https://facebook.com/XinhuaNewsAgency/",
+        "https://www.facebook.com/XinhuaNewsAgency"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "b36540c266ec39f129dc619eabeace11f126de78",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:02:24.107+02:00",
+    "updated": "2024-11-23T05:23:34.697+02:00"
+}

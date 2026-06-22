@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "c76ad62718efb9f0ffbf73cab3bfafa9091ed6e0",
+        "url": "https://www.bostonglobe.com/2024/11/22/metro/chris-flanagan-yarmouth-police-home-builders-remodelers",
+        "site_full": "www.bostonglobe.com",
+        "site": "bostonglobe.com",
+        "site_section": "https://www.globe.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Boston Globe",
+        "title": "Police investigating Cape Cod state lawmaker amid fraud accusations",
+        "title_full": "Police investigating Cape Cod state lawmaker amid fraud accusations",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XPJMNN3H3F3P25AVBMDSSJA6XU.jpg?auth=29fcd09e83833837006b283fff2b9795c247182c10b316367bd00eabcbf2247b&amp;width=1440",
+        "performance_score": 0,
+        "domain_rank": 884,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c76ad62718efb9f0ffbf73cab3bfafa9091ed6e0",
+    "url": "https://www.bostonglobe.com/2024/11/22/metro/chris-flanagan-yarmouth-police-home-builders-remodelers",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matt Stout",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Police investigating Cape Cod state lawmaker amid fraud accusations",
+    "text": "Police on Cape Cod are investigating a state lawmaker after his former employer filed a complaint accusing him of misappropriating tens of thousands of dollars in what it called a “potential fraudulent use” of one of its accounts, according to police records.\nOfficials at the Home Builders and Remodelers Association of Cape Cod filed the complaint with Yarmouth Police in late September, months after state Representative Chris Flanagan, a first-term Dennis Port Democrat, resigned from his post as the executive officer of the nonprofit trade association. At the time of his resignation , state campaign finance regulators had separately fined Flanagan for misleading them during an unrelated investigation.\nAccording to a heavily redacted police report released Friday, Flanagan had originally been placed on administrative leave at the association. Officials said they had discovered “inconsistencies” with a business account, and the report cites a “secondary” savings account to which only Flanagan and another unnamed person had access.\nA person, whose name was redacted from the police report, “met with Flanagan several times to speak about the misappropriated funds but has not been able to get a reasonable answer from him,” according to the Sept. 21 report.\nAdvertisement\nThe four-page report lists $26,500 as having been allegedly “stolen.”\n“It appears Flanagan made charges for his personal credit card then utilized [redacted] account to pay back his expenses,” according to the report.\nFlanagan, who won reelection to his seat earlier this month, did not respond to a request for comment.\nYarmouth Police on Friday referred comment to Barnstable Police, which is handling the “on-going investigation,” according to a letter Yarmouth Police released with the report. The Boston Broadside , a conservative-leaning outlet, first reported the allegations.\nA spokesperson for the Home Builders & Remodelers Association of Cape Cod said Friday that officials there filed the complaint with Yarmouth Police. In a statement, April Ducott, president of the association’s board of directors, called the allegations “deeply disturbing and disappointing,” but declined further comment “as the investigation moves forward.”\nBarnstable Police did not respond to requests for comment Friday. A spokesperson for the Cape & Islands District Attorney’s Office office said it could not comment on “whether or not there is an investigation involving” Flanagan.\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.bostonbroadside.com/mass/flanaganfelony/",
+        "https://commonwealthbeacon.org/government/state-government/lawmaker-who-sent-out-phony-mailer-resigns-job-at-cape-association/",
+        "https://bostonbroadside.com/mass/flanaganfelony/",
+        "https://commonwealthbeacon.org/government/state-government/lawmaker-who-sent-out-phony-mailer-resigns-job-at-cape-association",
+        "https://www.commonwealthbeacon.org/government/state-government/lawmaker-who-sent-out-phony-mailer-resigns-job-at-cape-association/",
+        "https://www.bostonbroadside.com/mass/flanaganfelony"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Flanagan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Remodelers Association of Cape Cod",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yarmouth Police",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:49.001+02:00",
+    "updated": "2024-11-23T00:05:49.001+02:00"
+}

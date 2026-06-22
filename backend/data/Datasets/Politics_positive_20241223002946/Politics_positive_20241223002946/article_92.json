@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "466e885cda9ce5fe741e4077303035e41c8a16e7",
+        "url": "https://www.statesboroherald.com/local/statesboro-city-council-back-at-full-force-after-district-1-member-tangie-johnson-is-sworn-in",
+        "site_full": "www.statesboroherald.com",
+        "site": "statesboroherald.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Statesboro City Council back at full force after District 1 member Tangie Johnson is sworn in",
+        "title_full": "Statesboro City Council back at full force after District 1 member Tangie Johnson is sworn in",
+        "published": "2024-11-22T23:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://statesboroherald.cdn-anvilcms.net/media/images/2024/11/22/images/Tangie_Johnson_Sworn-in.max-640x480.jpg",
+        "performance_score": 0,
+        "domain_rank": 67146,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "466e885cda9ce5fe741e4077303035e41c8a16e7",
+    "url": "https://www.statesboroherald.com/local/statesboro-city-council-back-at-full-force-after-district-1-member-tangie-johnson-is-sworn-in",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "From staff reports",
+    "published": "2024-11-22T23:49:00.000+02:00",
+    "title": "Statesboro City Council back at full force after District 1 member Tangie Johnson is sworn in",
+    "text": "Tangie Reese Johnson took the oath office as council member from District 1 at the beginning of the Tuesday, Nov. 19, Statesboro City Council meeting, restoring the council to its full contingent of five members and the mayor for the first time since Aug. 1.\nThat date more than three months ago was when former District 1 Councilmember Phil Boyum’s resignation took effect. He had represented the district for almost 12 years. Johnson was one of three District 1 residents who qualified as candidates in the city’s special election for that district, held in conjunction with the Nov. 5 county, state and federal general election.\nShe garnered 1,021 votes, or 50.87% of the 2,007 votes cast in the race, to win without a runoff.\nJudge Lorna DeLoach of the Bulloch County Probate Court swore Johnson in as she raised her right hand and placed her left hand on a Bible held by her husband, Chad Johnson.\n“Now we can start business with a full council, and with every citizen duly represented,” Mayor Jonathan McCollar said. “This is good stuff.”\nAll six of the city’s elected officials had posed for a photo before returning to their seats.\n“I am very thankful to District 1 for showing up and voting for me and letting their voices be heard,” Johnson had said the day after the election. “Now we’re going to get to work.”\nJohnson, records and compliance coordinator for human resources at Georgia Southern University, also serves on the Statesboro Housing Authority board. Before going to work for the GS Office of Human Resources in 2017, she was a police officer. Johnson served with the Dublin, Georgia, Police Department from July 2010 to November 2012 and with the Georgia Southern University Police from November 2012 to April 2017. She has been a Statesboro resident since 2017.\nWinning the special election entitles her to complete what was previously Boyum’s unexpired term through 2025. To keep the seat for a four-year term, she will have to sign up as a candidate for next fall’s regular city election and if challenged, win again.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tangie Johnson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tangie Reese Johnson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jonathan McCollar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lorna DeLoach",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chad Johnson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Phil Boyum",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bulloch County Probate Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Statesboro City Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:39:37.941+02:00",
+    "updated": "2024-11-23T00:47:55.034+02:00"
+}

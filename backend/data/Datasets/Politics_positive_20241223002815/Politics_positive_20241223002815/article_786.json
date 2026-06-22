@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "89efb7d7d98d33a050688ed97ef4024f7a7743c9",
+        "url": "https://www.newindianexpress.com/states/kerala/2024/Nov/23/k-v-thomas-seeks-study-on-side-effects-of-covid-vaccine-3",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "K V Thomas seeks study on side effects of Covid vaccine",
+        "title_full": "K V Thomas seeks study on side effects of Covid vaccine",
+        "published": "2024-11-22T22:59:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-22%2F8a9nqmkl%2FK.jpg?rect=0%2C0%2C274%2C144&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "89efb7d7d98d33a050688ed97ef4024f7a7743c9",
+    "url": "https://www.newindianexpress.com/states/kerala/2024/Nov/23/k-v-thomas-seeks-study-on-side-effects-of-covid-vaccine-3",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-22T22:59:00.000+02:00",
+    "title": "K V Thomas seeks study on side effects of Covid vaccine",
+    "text": "KOCHI: K V Thomas, Kerala’s special representative in Delhi, wrote to Prime Minister Narendra Modi on Friday, requesting a study on health issues related to the Covid virus and vaccination. “Research on the side-effects of Covid vaccine should be carried out, and steps should be taken by the government to study the adverse effects of immunisation,” he said.\nThe former Union minister said the vaccination had impacted his wife’s kidneys. “My wife Sherly was administered Covid vaccine in 2020. She survived the virus, but it impacted her kidneys. We were able to sustain her health through medication and treatments. But she succumbed to kidney failure in August 2024,” he wrote, adding that his wife was a sturdy person who followed a healthy lifestyle and did not have any major illnesses. Thomas’ wife passed away while undergoing treatment for kidney failure at a private hospital in Kochi.\nThomas said in the letter that the Centre had reported that Covishield has caused thrombotic thrombopenia syndrome and thrombocytopenia, among other serious side effects, in Covid patients. Earlier this year, AstraZeneca admitted that its vaccine may lead to rare side effects.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:50:54.874+02:00",
+    "updated": "2024-11-23T04:50:54.874+02:00"
+}

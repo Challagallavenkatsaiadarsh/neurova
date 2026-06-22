@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "884491a7d420660bb2c6433251ade4604cc6bc55",
+        "url": "https://bismarcktribune.com/news/state-regional/crime-courts/fort-totten-wendell-snell-sex-crime-sentenced-30-years/article_dbc6ee4a-a90c-11ef-b728-7780123e7c77.html",
+        "site_full": "bismarcktribune.com",
+        "site": "bismarcktribune.com",
+        "site_section": "https://bismarcktribune.com/news/nation-world/science",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Science | bismarcktribune.com",
+        "title": "Fort Totten sex crime suspect gets 30 years in prison",
+        "title_full": "Fort Totten sex crime suspect gets 30 years in prison",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/bismarcktribune.com/content/tncms/assets/v3/editorial/d/bc/dbc6ee4a-a90c-11ef-b728-7780123e7c77/6740e6864e311.preview.jpg?crop=1280%2C672%2C0%2C8&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 13694,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "884491a7d420660bb2c6433251ade4604cc6bc55",
+    "url": "https://bismarcktribune.com/news/state-regional/crime-courts/fort-totten-wendell-snell-sex-crime-sentenced-30-years/article_dbc6ee4a-a90c-11ef-b728-7780123e7c77.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BISMARCK TRIBUNE STAFF",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Fort Totten sex crime suspect gets 30 years in prison",
+    "text": "A Fort Totten man has been sentenced to serve 30 years in prison for sexually abusing children on the Spirit Lake Reservation.\nWendell Snell, 42, abused children younger than 12 from 2011-14 on the reservation in northeastern North Dakota, according to U.S. Attorney Mac Schneider. Snell previously pleaded guilty to five counts of abusive sexual contact of a child, and was sentenced Thursday in U.S. District Court in Fargo.\n\"The depravity of Snell's actions is reflected in today's sentencing,\" said Alvin Winston Sr., special agent in charge of the FBI office in Minneapolis, which covers Minnesota and the Dakotas. \"When the most vulnerable of our citizens -- our children -- are victimized, the FBI will do everything in our power to hold the perpetrators accountable and to protect others from harm.\"\nU.S. District Chief Judge Peter Welte imposed six-year statutory maximum sentences on each of the five counts, to run consecutively -- which prosecutors had requested. Following his prison time, Snell will be subject to a lifetime of supervised release and a number of conditions, including registering as a sex offender and not having contact with minors. Snell's attorney had requested a term of 20 years behind bars, court documents show.\nPeople are also reading…\nSchneider said in a statement that “This serious sentence is seriously appropriate considering the defendant’s unforgivable abuse of multiple children. We hope it will provide some space for the victims to heal and deter this kind of abhorrent behavior in the future.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alvin Winston Sr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wendell Snell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mac Schneider",
+                "sentiment": "none"
+            },
+            {
+                "name": "Peter Welte",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:32:22.660+02:00",
+    "updated": "2024-11-23T00:32:22.660+02:00"
+}

@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "96f426eb23f81b512a813589d63f5a3d6d7cc1e8",
+        "url": "https://crisis24.garda.com/alerts/2024/11/us-authorities-issue-ground-delay-program-for-newark-liberty-international-airport-in-newark-nj-due-to-staffing-issues-nov-22",
+        "site_full": "crisis24.garda.com",
+        "site": "garda.com",
+        "site_section": "https://crisis24.garda.com/",
+        "site_categories": [],
+        "section_title": "Crisis24 | Actionable Risk Management",
+        "title": "Flight disruptions likely at Newark Liberty International Airport in Newark, NJ, US, through at least...",
+        "title_full": "Flight disruptions likely at Newark Liberty International Airport in Newark, NJ, US, through at least...",
+        "published": "2024-11-22T23:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 18650,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "96f426eb23f81b512a813589d63f5a3d6d7cc1e8",
+    "url": "https://crisis24.garda.com/alerts/2024/11/us-authorities-issue-ground-delay-program-for-newark-liberty-international-airport-in-newark-nj-due-to-staffing-issues-nov-22",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Crisis24",
+    "published": "2024-11-22T23:41:00.000+02:00",
+    "title": "Flight disruptions likely at Newark Liberty International Airport in Newark, NJ, US, through at least...",
+    "text": "Flight disruptions likely at Newark Liberty International Airport in Newark, NJ, US, through at least late Nov. 22 due to staffing issues. Flight disruptions will likely affect Newark Liberty International Airport (EWR) in Newark, New Jersey, through at least late Nov. 22 due to staffing issues. The Federal Aviation Administration (FAA) has issued a related ground delay program for EWR that is slated to remain in effect through at least 23:59 Nov. 22. Flight departures to EWR were delayed by an average of 84 minutes as of around 16:00. The FAA may extend or rescind the ground delay program or issue additional air traffic control measures for EWR on short notice. Residual flight disruptions may persist even after the staffing issues are resolved as airlines work to clear any passenger backlogs that have materialized. Confirm flight reservations if scheduled to travel via EWR. Do not check out of accommodations until onward travel is confirmed. Consider making alternative arrangements for time-sensitive travel if necessary.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Federal Aviation Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "FAA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "International Airport",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:59.114+02:00",
+    "updated": "2024-11-23T01:29:53.445+02:00"
+}

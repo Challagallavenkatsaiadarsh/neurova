@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "65a21973b94f5d6f252209153fe695fc69677053",
+        "url": "https://www.dailyfreeman.com/2024/11/23/lettter-keep-commitment-to-wind-power",
+        "site_full": "www.dailyfreeman.com",
+        "site": "dailyfreeman.com",
+        "site_section": "https://www.dailyfreeman.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Daily Freeman &#8211; Kingston, NY News, Breaking News, Sports, Weather",
+        "title": "Lettter: Keep commitment to wind power",
+        "title_full": "Lettter: Keep commitment to wind power",
+        "published": "2024-11-24T04:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 26242,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "65a21973b94f5d6f252209153fe695fc69677053",
+    "url": "https://www.dailyfreeman.com/2024/11/23/lettter-keep-commitment-to-wind-power",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dwayne Kroohs",
+    "published": "2024-11-24T04:01:00.000+02:00",
+    "title": "Lettter: Keep commitment to wind power",
+    "text": "Your article rightly highlights the wildfire threat in the Hudson Valley (“Drought warning for Ulster, Duchess, and Greene,” Nov. 19 ).\nAs climate change impacts grow, New York faces escalating dangers. Yet former President Trump’s dangerous rhetoric threatens the state’s progress. His support for reckless drilling and baseless attacks on offshore wind energy undermine New York’s vital climate efforts.\nTrump’s claims that offshore wind will harm birds, whales, and “destroy everything” are unfounded. Offshore wind is clean, renewable energy essential for reducing fossil fuel dependence. New York’s Climate\nLeadership and Community Protection Act mandates nine gigawatts of offshore wind by 2035, enough to power over 4 million homes. This transition could significantly cut carbon emissions and boost the\neconomy, creating thousands of jobs in U.S. manufacturing.\nAlthough we’ve fallen behind on climate goals, there’s still time to catch up. Gov. Hochul must prioritize the strongest offshore wind projects in New York’s upcoming wind solicitation to put us back on track.\nAs we face more extreme weather — from floods to droughts — climate change is undeniable. We cannot afford to delay action. We must urge our leaders to push forward with a green economy that addresses the climate crisis and secures a sustainable future.\n— Andy Moss\nRuby",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hochul",
+                "sentiment": "none"
+            },
+            {
+                "name": "Greene",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:23:31.588+02:00",
+    "updated": "2024-11-24T05:23:31.588+02:00"
+}

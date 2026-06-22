@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "6827a505250fe91618da2000f5866f3755fb8993",
+        "url": "https://www.bastillepost.com/global/article/4353946-xis-trip-deepens-china-latin-america-cooperation-experts-officials",
+        "site_full": "www.bastillepost.com",
+        "site": "bastillepost.com",
+        "site_section": "https://www.bastillepost.com/global",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news"
+        ],
+        "section_title": "Bastillepost",
+        "title": "Xi's trip deepens China-Latin America cooperation: experts, officials",
+        "title_full": "Xi's trip deepens China-Latin America cooperation: experts, officials",
+        "published": "2024-11-23T20:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HK",
+        "main_image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2024/11/8405084_1732397748002_a_FB.jpg",
+        "performance_score": 0,
+        "domain_rank": 69800,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6827a505250fe91618da2000f5866f3755fb8993",
+    "url": "https://www.bastillepost.com/global/article/4353946-xis-trip-deepens-china-latin-america-cooperation-experts-officials",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bastillepost",
+    "published": "2024-11-23T20:50:00.000+02:00",
+    "title": "Xi's trip deepens China-Latin America cooperation: experts, officials",
+    "text": "Chinese President Xi Jinping's just-concluded visit to Latin America has been described by representatives from various sectors as a journey of cooperation to expand partnerships and a journey of solidarity aimed at jointly building a just world founded on shared development.\nFrom November 13 to 23, Xi participated in the 31st APEC Economic Leaders' Meeting and paid a state visit to Peru, as well as attended the 19th G20 Summit and paid a state visit to Brazil.\nDuring the 11 days, Xi attended nearly 40 bilateral and multilateral events and oversaw the signing of more than 60 cooperation agreements.\nAt the APEC Economic Leaders' Meeting in Lima, Xi delivered a written speech to the CEO Summit, calling on Asia-Pacific economies to uphold true multilateralism, foster an open and interconnected framework for regional cooperation, make green innovation a driver of progress, and embrace a universally beneficial and inclusive vision for development in the Asia-Pacific region.\nAt the G20 Summit in Rio de Janeiro, Xi presented a comprehensive and systematic explanation of China's vision for global governance. He emphasized the importance of making global development more inclusive, universally beneficial, and resilient, while advocating for the creation of a just world centered on shared development.\nPeruvian Minister of Culture Fabricio Alfredo Valencia Gibaja stated that Xi's visit represents a new chapter in China's relations with Latin America.\n\"Undoubtedly, President Xi Jinping's state visit to Peru is an important milestone in the history of Peru. Our two countries are friendly brothers and close friends. This visit has brought our bilateral relationship even closer,\" he said.\nExperts from various countries emphasized that the significant initiatives proposed by Xi will strengthen international consensus and inspire nations worldwide to collaborate in enhancing global governance and tackling shared challenges.\n\"If you look at what President Xi has suggested at the APEC summit meeting, I think it a very good idea to have this Asia-Pacific free trade area. I think President Xi at the APEC summit meeting has also strongly emphasized an open and inclusive approach towards economic relations. In the next era where we have tensions in geopolitics, trade and technology, I think countries will have to approach the new era with a very strong emphasis on what is in it for them,\" said Lawrence Loh, director of the Center for Governance and Sustainability at the National University of Singapore.\n\"The trip of President Xi Jinping to both Peru and Brazil is placed in the context of excellent ties between China and Latin America in general. I see continuity in the improvement of ties between China and Latin America. The speech of President Xi Jinping at the G20 Summit is outlining Chinese priorities. China is prepared to play a significant role in order to foster global prosperity and global growth. And within this context, the speech of President Xi Jinping was very well received,\" George Tzogopoulos, a research fellow at the Hellenic Foundation for European and Foreign Policy, highlighted.\nBernard Dewit, chairman of the Belgian-Chinese Chamber of Commerce, praised Xi's remarks for their importance and forward-looking perspective, highlighting key themes such as openness and sustainability.\n\"I think these remarks, as always when the Chinese President speaks, are important. And I think they are also very positive in the sense that the president insisted on the maintaining an open economy, on maintaining an open system of free trade among others, and insisting on green energy,\" said Dewit.\nStephen Ndegwa, Executive Director of South-South Dialogues, a Nairobi-based communication development think tank, highlighted the significance of Xi's trip to Latin America, stressing that African countries can learn from the practices of APEC and the G20 and that Africa should be ambitious and upscale its cooperation with China.\n\"I think the significance (of Xi's trip) is definitely symbolic because APEC 2024 is in Peru and G20 is in Brazil. Both countries, I believe, are in Latin America, and China has a lot of cooperation, especially economic cooperation with Latin America. They have a lot of bilateral cooperation agreements with Peru and with Brazil and these two economies are major in the region. So, it is going to encourage a lot of intra-regional growth. It is time now for FOCAC (Forum on China-Africa Cooperation) to get lessons from what is happening in APEC and G20, and we should be able as Africa to be ambitious and upscale our cooperation with China,\" said Ndegwa.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Xi Jinping",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "APEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Latin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asia-Pacific",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:50:50.305+02:00",
+    "updated": "2024-11-24T00:50:50.305+02:00"
+}

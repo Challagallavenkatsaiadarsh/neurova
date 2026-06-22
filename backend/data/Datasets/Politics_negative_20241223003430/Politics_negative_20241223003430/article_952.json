@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "56a37a7a3d81e6a96fd44820b8d51ca52269ac90",
+        "url": "https://catholicreview.org/el-salvador-charges-ex-president-for-89-jesuit-slayings",
+        "site_full": "catholicreview.org",
+        "site": "catholicreview.org",
+        "site_section": "https://www.catholicreview.org",
+        "site_categories": [
+            "religion",
+            "catholicism"
+        ],
+        "section_title": "Homepage - Catholic Review",
+        "title": "El Salvador charges ex-president for ’89 Jesuit slayings",
+        "title_full": "El Salvador charges ex-president for ’89 Jesuit slayings",
+        "published": "2024-11-22T16:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 61041,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "56a37a7a3d81e6a96fd44820b8d51ca52269ac90",
+    "url": "https://catholicreview.org/el-salvador-charges-ex-president-for-89-jesuit-slayings",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "David Agren",
+    "published": "2024-11-22T16:24:00.000+02:00",
+    "title": "El Salvador charges ex-president for ’89 Jesuit slayings",
+    "text": "El Salvador has ordered a former president to stand trial for the 1989 murders of six Jesuits, their housekeeper and her 16-year-old daughter \\u2014 a notorious crime from the Central American country\\u2019s civil war, which has languished in the realm of impunity.\n\\nA judge in San Salvador issued a Nov. 18 decision ordering former president Alfredo Cristiani, a former congressman, and nine others to stand trial as the intellectual authors of the attack on the Jesuits. Cristiani, who was president between 1989 and 1994, was charged with murder, conspiracy and terrorism in 2022. His whereabouts remain unknown, according to media reports.\n\\n \\n Salvadorans participate in the traditional procession of lights Nov. 16, 2024, at the Central American University in San Salvador, during the commemoration of the 35th anniversary of the Jesuit martyrs. In 1989, six Jesuits, their housekeeper and her daughter were murdered on the Central American University campus. (OSV News photo/Jose Cabezas, Reuters) \\n \\nThe priests were killed by soldiers in their residence on the campus of the Jesuit-run Central American University \\u2014 an institution they accused of being infiltrated by guerrillas. The university has long rejected that accusation and demanded justice for the eight victims.\n\\nIt\\u2019s believed the attack targeted university rector, Jesuit Father Ignacio Ellacur\\xeda, in an attempt to scuttle peace talks he was leading. Two former soldiers have been convicted for their part in the slayings in Spanish and Salvadoran courts. The lead prosecutor in the trial of Col. Inocente Orlando Montano \\u2014 sentenced in 2020 to 133 years in prison \\u2014 said Cristiani \\u201cwas actively protecting soldiers and covering up evidence.\\u201d\n\\nCatholics in El Salvador expressed mixed feelings on the decision to bring Cristiani to trial.\n\\n\\u201cBeyond the results, the ideal (outcome) is the judge orders the army to request forgiveness for what was an institutional crime,\\u201d Jesuit Father Jos\\xe9 Mar\\xeda Tojeira said in a Nov. 20 X post. \\u201c(It\\u2019s been) 35 years of the (armed forces) not taking responsibility for the crime.\\u201d\n\\nA Catholic source in El Salvador described politics at play in the decision to bring Cristiani to trial. President Nayib Bukele was elected in 2018 after widespread discontent with the politicians who preceded him. The president \\u2014 who has gained international notoriety and domestic popularity for a crackdown on gangs and driving down the homicide rate \\u2014 continues campaigning against his predecessors, including Cristiani, according to the source.\n\\n\\u201cHe\\u2019s using the case of the Jesuits to go after his political opponents. It has very little to do with actually getting justice in the case of the Jesuits,\\u201d the source said.\n\\nThe judge\\u2019s decision came just two days after the 35th anniversary of the Jesuit martyrs\\u2019 murders. Father Tojeira, celebrant at a Nov. 16 memorial Mass, spoke of the current-day El Salvador, where the security success has raised questions of human rights abuses and put the university in a difficult spot as the government tolerates little criticism.\n\\n\\u201cToday we have to sow our seeds in the midst of hatred \\u2026 of false and grandiose propaganda,\\u201d Father Tojeira said. \\u201cWe must be honest, even if we are disliked. And we must seek truth in the midst of corruption, the rejection of solidarity and of the refusal to be transparent. It is also our responsibility to defend human rights.\\u201d\n\\nThe slain priests\\u2019 memory continues to inspire Catholics in El Salvador and beyond.\n\\n\\u201cThe memory of the martyrs is very much alive,\\u201d Jesuit Father Jeremy Zipple, who traveled with a group from Belize for the memorial, told OSV News. Father Zipple saw many young people at the university \\u201cclaiming this history as their own and claiming the martyrs as inspiration amidst current struggles.\\u201d\n\\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alfredo Cristiani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jose Cabezas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Central American University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:49:50.234+02:00",
+    "updated": "2024-11-23T01:49:50.234+02:00"
+}

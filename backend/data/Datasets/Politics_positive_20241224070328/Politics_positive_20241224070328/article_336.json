@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "62cfeb725cb551763ce3f0917881274ce33dd6b4",
+        "url": "https://www.financialexpress.com/world-news/pakistan-needs-leader-like-pm-modi-says-pak-american-political-activist/3675642",
+        "site_full": "www.financialexpress.com",
+        "site": "financialexpress.com",
+        "site_section": "https://www.financialexpress.com",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Business News: Business News India, Business News Today, Latest Finance News, Business News Live | The Financial Express | The Financial Express",
+        "title": "“Pakistan needs leader like PM Modi,” says Pak-American political activist",
+        "title_full": "“Pakistan needs leader like PM Modi,” says Pak-American political activist",
+        "published": "2024-11-24T01:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2259,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "62cfeb725cb551763ce3f0917881274ce33dd6b4",
+    "url": "https://www.financialexpress.com/world-news/pakistan-needs-leader-like-pm-modi-says-pak-american-political-activist/3675642",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2024-11-24T01:33:00.000+02:00",
+    "title": "“Pakistan needs leader like PM Modi,” says Pak-American political activist",
+    "text": "Pakistani-American businessperson and political activist, Sajid N Tarar heaped praise on Prime Minister Narendra Modi’s leadership and stated that Pakistan needs a leader like PM Modi.\nSpeaking to ANI at the launch of the Association of Indian American Minorities (AIAM) in Maryland, US, Tarar emphasised that India has emerged as the fifth largest economy under PM Modi’s leadership who always keeps ‘India First’.Tarar told ANI, “I’m here to support this alliance because they are representing minorities. Minorities meaning Hindus, Muslims, Sikhs, Christians, all of them.”\nAlso Read Trudeau calls Canadian official ‘criminal’ over allegations linking PM Modi, Jaishankar to Nijjar killing “A lot of Indian leadership is here and I’m here to listen to the success story of how India has become the 5th largest economy on the planet, they are moving rapidly towards gaining the 3rd position. We need a leader like Modi Sahib in Pakistan as well, a nationalist leader. I’m here to observe the story of Indian success,” he added.\nThe Association of Indian American Minorities (AIAM), a newly formed non-governmental organisation, was launched on Friday at Sligo Seventh-day Adventist Church, Maryland.The initiative aims to unite and promote the welfare of minority communities within the Indian American diaspora in the United States.During the event, Prime Minister Modi was honoured (in absentia) with the Dr Martin Luther King Jr Global Peace Award for Minority Upliftment.\nAlso Read At least 37 killed in sectarian violence in Pakistan’s Khyber Pakhtunkhwa province The award was jointly presented by Washington Adventist University and AIAM, recognising his efforts towards inclusive development and minority welfare.Renowned Sikh philanthropist Jasdip Singh was appointed as the Founder and Chairman of AIAM, supported by a seven-member Board of Directors representing diverse Indian minority communities. These members include Baljinder Singh and Dr Sukhpal Dhanoa (Sikhs), Pawan Bezwada and Elisha Pulivarti (Christians), Dipak Thakker (Hindu), Juned Qazi (Muslim), and Nissim Reuben (Indian Jewish).\nAddressing the gathering, AIAM Chairman Jasdip Singh emphasised the organisation’s role in advancing PM Modi’s vision of a “Viksit Bharat” by 2047.”Under PM Modi’s leadership, India has embraced an all-inclusive approach, ensuring equal opportunities for every citizen, irrespective of religion, caste, or sect,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sajid N Tarar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Modi Sahib",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trudeau",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Association of Indian American Minorities",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:54:23.468+02:00",
+    "updated": "2024-11-24T02:54:23.468+02:00"
+}

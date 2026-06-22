@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "f1c9ac46d193fbcef5fce51f8cf4f905e26ad902",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/the-interview-vokkaliga-community-shifting-from-gowda-family-says-cp-yogeeshwara/articleshow/115617082.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Times of India",
+        "title": "The interview: 'Vokkaliga community shifting from Gowda family’ says CP Yogeeshwara | Mumbai News - Times of India",
+        "title_full": "The interview: 'Vokkaliga community shifting from Gowda family’ says CP Yogeeshwara | Mumbai News - Times of India",
+        "published": "2024-11-24T05:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115617132,width-1070,height-580,imgsize-34646,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f1c9ac46d193fbcef5fce51f8cf4f905e26ad902",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/the-interview-vokkaliga-community-shifting-from-gowda-family-says-cp-yogeeshwara/articleshow/115617082.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-11-24T05:12:00.000+02:00",
+    "title": "The interview: 'Vokkaliga community shifting from Gowda family’ says CP Yogeeshwara | Mumbai News - Times of India",
+    "text": "After enduring consecutive defeats in 2018 and 2023, CP Yogeeshwara has finally reclaimed his home constituency of Channapatna. He told the mediapersons that the win signals a significant blow to the HD Deve Gowda family’s political dominance.How do you view victory?This is immensely satisfying and long-awaited. I owe this success to my voters, Congress workers, and senior leaders who supported me, particularly DK Suresh who stood by me even after my role in his Lok Sabha defeat.Were you uncertain about your win after polling day?Initially, yes. The presence of HD Deve Gowda in the constituency and his emotionally charged speeches aimed at consolidating Vokkaliga votes created a sense of uncertainty. However, a detailed analysis of booth-wise patterns reinforced my confidence, and I was sure of a substantial victory.What do you think about the significance of this election for the Gowdas?This election was a prestige battle for the Gowda family, especially for JD(S), whose survival was at stake. By fielding Nikhil, they tried to secure their political future, but people rejected their family-centred politics.Did minister Zameer Ahmed’s controversial remarks against Kumaraswamy affect your margin of victory?The results prove that such remarks had no bearing on the voters’ decisions. It’s irrelevant now that I’ve won.Does your victory indicate a shift in Vokkaliga leadership?Absolutely. The people of the Old Mysuru region are rallying behind DK Shivakumar’s leadership. This is a message that the Vokkaliga community no longer sees the Gowda family as its primary political representatives. I urge Gowda to retire gracefully and stop misleading people.What’s your take on the JD(S)-BJP alliance’s failure?It lacks public trust. Kumaraswamy and Yediyurappa focused more on advancing their sons’ political ambitions than addressing the people’s concerns. The voters have made it clear that they reject such alliances. It’s time for genuine leadership to step forward.Did leaving NDA and facing Nikhil impact your strategy?For me, elections are like IPL matches—I adapt to different teams but always aim to win. Leaving NDA was not a concern. Regarding Nikhil, I hold Kumaraswamy responsible for jeopardizing his political future.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deve Gowda",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Nikhil",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:51:30.638+02:00",
+    "updated": "2024-12-01T06:10:58.605+02:00"
+}

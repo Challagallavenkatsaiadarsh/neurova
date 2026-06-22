@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "c0b3820690f1a91f7ce572da2f1e60a793ae478b",
+        "url": "https://www.kjzz.org/politics/2024-11-22/arizona-office-of-tourism-director-resigns-after-reports-of-potential-conflicts-of-interest",
+        "site_full": "www.kjzz.org",
+        "site": "kjzz.org",
+        "site_section": "https://www.kjzz.org/politics",
+        "site_categories": [],
+        "section_title": "Politics",
+        "title": "Arizona Office of Tourism director resigns after reports of potential conflicts of interest",
+        "title_full": "Arizona Office of Tourism director resigns after reports of potential conflicts of interest",
+        "published": "2024-11-22T23:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/0bc988e/2147483647/strip/true/crop/2946x1547+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F66%2F83%2Ff042972147a390263c4afc523044%2Flisa-urias-20241122.jpg",
+        "performance_score": 0,
+        "domain_rank": 14630,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0b3820690f1a91f7ce572da2f1e60a793ae478b",
+    "url": "https://www.kjzz.org/politics/2024-11-22/arizona-office-of-tourism-director-resigns-after-reports-of-potential-conflicts-of-interest",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Wayne Schutsky",
+    "published": "2024-11-22T23:07:00.000+02:00",
+    "title": "Arizona Office of Tourism director resigns after reports of potential conflicts of interest",
+    "text": "Arizona Office of Tourism director resigns after reports of potential conflicts of interest\nThe director of the Arizona Office of Tourism announced her resignation following reporting on potential conflicts of interest involved in a $700,000 contract to rebrand the state.\nLisa Urias announced her resignation after the [Arizona Agenda reported](https://www.arizonaagenda.com/p/the-bill-for-branding-arizona) that $27,500 of the state’s rebrand contract with Heart & Soul Marketing went to artist Kevin Coochwytewa, whose brother is CEO of a separate marketing company owned by Urias.\nThe revelation led Rep. Teresa Martinez (R-Case Grande) to call for an independent investigation by Attorney General Kris Mayes and Maricopa County Attorney Rachel Mitchell.\n“These reported facts, if true, raise significant questions about potential violations of Arizona’s conflict of interest laws,” Martinez said in a statement. “All government officials must act responsibly, ethically, and transparently.”\nArizona Governor Katie Hobbs called the appearance of a conflict unacceptable after accepting Urias’ resignation.\n“I can say as a social worker, I take my role as a public servant very seriously, and anyone who has the privilege of serving the public needs to be above reproach,” Hobbs said. “And that's why I accepted her resignation this morning.”\nUrias defended her work in a resignation letter submitted to Hobbs, denying any impropriety. She said she was determined to create a “stronger brand for Arizona” when she entered the job two years ago and was inspired by similar branding efforts in New Mexico and Colorado, California and Michigan.\n“Unfortunately, this past week, I was caught in a maelstrom of unfounded and false allegations regarding the financial management of this project,” Urias wrote.\nUrias confirmed the department allocated $600,000 to $700,000 in federal pandemic relief money to the effort, which included a new logo developed by Kevin Coochwytewa, who was contracted by Heart & Soul Marketing. The money also paid for a listening tour with “2,000 Arizonans in all 15 counties” to inform the rebrand, she wrote.\n“Let me be unequivocal: neither Urias Communications nor I have ever received any financial benefit from this project or any other work related to the Arizona Office of Tourism,” Urias said. \"These claims are categorically false.”\nIn demanding an investigation, Martinez also cited reporting by the Arizona Agenda that Urias Communications received $250,000 from the Arizona Department of Education.\nAccording to the state of Arizona’s procurement website, Deputy Associate Superintendent Lynnan Yazzie [signed off on a procurement authorization](https://app.az.gov/bare.aspx/en/fil/download_public/80780929-139d-4eff-8124-dd32686d91a0) with Urias communications with an estimated cost of $250,000 over five years to assist the Office of Indian Education with event hosting duties for stakeholder meetings and training.\nUrias did not address that allegation in her resignation, but the Arizona Department of Education – which is run by Republican Superintendent Tom Horne, not Hobbs’ Administration – disputed that reporting, claiming it only paid about $15,000 to Urias’ firm.\n“The document that has gained attention is not a contract at all, but a Competition Impractical document that was never approved,” according to a statement from the Department of Education. “ADE has spent $15,225 with Urias for meeting planning services, but there has not been, nor will there be, a contract or expenditure for $250,000. Nor has any prior administration engaged in such a contract.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://app.az.gov/bare.aspx/en/fil/download_public/80780929-139d-4eff-8124-dd32686d91a0",
+        "https://www.arizonaagenda.com/p/the-bill-for-branding-arizona",
+        "https://arizonaagenda.com/p/the-bill-for-branding-arizona",
+        "https://www.app.az.gov/bare.aspx/en/fil/download_public/80780929-139d-4eff-8124-dd32686d91a0"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:56:47.191+02:00",
+    "updated": "2024-11-23T00:56:47.191+02:00"
+}

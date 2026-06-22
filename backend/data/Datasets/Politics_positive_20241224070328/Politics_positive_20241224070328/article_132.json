@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "ed951e956456e38484102454ad544544070931b7",
+        "url": "https://www.inkl.com/news/brooke-rollins-named-agriculture-secretary-by-president-elect-trump",
+        "site_full": "www.inkl.com",
+        "site": "inkl.com",
+        "site_section": "https://inkl.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "inkl – The world’s news at your fingertips",
+        "title": "Brooke Rollins Named Agriculture Secretary By President-Elect Trump",
+        "title_full": "Brooke Rollins Named Agriculture Secretary By President-Elect Trump",
+        "published": "2024-11-23T23:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.inkl.com/s3/article/lead_image/21228095/638679681517494645.jpg",
+        "performance_score": 0,
+        "domain_rank": 37287,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ed951e956456e38484102454ad544544070931b7",
+    "url": "https://www.inkl.com/news/brooke-rollins-named-agriculture-secretary-by-president-elect-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T23:53:00.000+02:00",
+    "title": "Brooke Rollins Named Agriculture Secretary By President-Elect Trump",
+    "text": "President-elect Trump has selected Brooke Rollins as his agriculture secretary, praising her dedication to supporting American farmers, defending food self-sufficiency, and revitalizing agriculture-dependent small towns. Rollins, a proud graduate of Texas A&M University, holds a Bachelor's of Science Degree in Agriculture Development and a J.D. with Honors. Her background in the agriculture-centered town of Glen Rose, Texas, involvement with Future Farmers of America and 4H, and experience in family farming and guiding her children in show cattle careers, provide her with a unique perspective. Prior to this appointment, Rollins served as the director of the Office of American Innovation and acting director of the Domestic Policy Council during the first Trump administration. Her extensive policy credentials in nonprofit and government leadership at both state and national levels have prepared her for this new role. Since her time in the Trump White House , Rollins has co-founded the America First Policy Institute think tank, showcasing her commitment to advancing policy initiatives. Her combination of practical experience and policy expertise positions her well to address the challenges facing the agriculture sector and rural communities.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.topnews.live///2023/11/12/live-blog/politics/white-house-live-updates/index.html",
+        "https://www.topnews.live///2024/11/23/live-blog/texas/live-news-of-texas-november-23-2024/index.html",
+        "https://www.topnews.live///2024/11/23/live-blog/politics/us-presidential-election-2024/index.html",
+        "https://topnews.live///2024/11/23/live-blog/politics/us-presidential-election-2024/index.html",
+        "https://topnews.live///2023/11/12/live-blog/politics/white-house-live-updates/index.html",
+        "https://topnews.live///2024/11/23/live-blog/texas/live-news-of-texas-november-23-2024/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Glen Rose",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "Office of American Innovation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Domestic Policy Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas A&M University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:05:36.669+02:00",
+    "updated": "2024-11-24T01:05:36.669+02:00"
+}

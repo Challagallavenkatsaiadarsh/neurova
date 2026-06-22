@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "e06a412613fb0ea5340f48442086fc690178c771",
+        "url": "https://www.dailypioneer.com/2024/india/jama-masjid-controversy--mayawati-urges-government-and-sc-to-intervene.html",
+        "site_full": "www.dailypioneer.com",
+        "site": "dailypioneer.com",
+        "site_section": "https://www.htsyndication.com/articles",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "HTDS Content Services is South Asia&rsquo;s biggest syndication news agency with a vast collection of News, Images and Cartoons. Apart from Hindustan Times and Mint, HTDS Content Services disseminates a wide spectrum of licensed content from more than 200 publications. The content is packaged and syndicated to a broad range of global clients. HTDS Content Services also offers a rare collection of images and cartoons from Hindustan Times Archives",
+        "title": "Jama Masjid controversy, Mayawati urges government and SC to intervene",
+        "title_full": "Jama Masjid controversy, Mayawati urges government and SC to intervene",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://www.dailypioneer.com/images/logo.jpg",
+        "performance_score": 0,
+        "domain_rank": 15043,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e06a412613fb0ea5340f48442086fc690178c771",
+    "url": "https://www.dailypioneer.com/2024/india/jama-masjid-controversy--mayawati-urges-government-and-sc-to-intervene.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Pioneer",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "Jama Masjid controversy, Mayawati urges government and SC to intervene",
+    "text": "BSP chief Mayawati has strongly reacted to the controversy surrounding the Shahi Jama Masjid in Uttar Pradesh’s Sambhal district. She has termed it an attempt to disrupt communal harmony in the state and country, urging the state government and the Supreme Court to take cognizance of the matter. Taking to social media platform X, Mayawati stated, “The sudden controversy, hearing, and subsequent hasty survey regarding the Shahi Jama Masjid in Sambhal district have become a topic of national debate and media headlines. Such actions threaten peace and harmony. The government and the honorable Supreme Court must take serious note of this.” On Tuesday, a petition was filed in the Chandausi District Court, claiming that Sambhal’s Shahi Jama Masjid was originally the Harihar Temple. The Civil Judge (Senior Division) Aditya Kumar Singh appointed a court commissioner to investigate the matter. On the same day, a two-hour videography and photography survey was conducted inside the mosque. The findings are being compiled and will be reviewed in detail. The court has set November 29 as the date for the submission of the report. A member of the mosque committee expressed disappointment over the survey, stating, “This mosque has been here for 500 years, and namaaz has been offered continuously, unlike the Babri Masjid. Yet, a survey was carried out immediately after the court order. Nothing was found-no idols, no evidence supporting the claims.” The survey sparked protests from local residents, but the intervention of Sambhal MP Zia Ur Rehman Barq helped defuse tensions, allowing the survey to proceed. The petition claims that the Jama Masjid was originally a Hari Har temple located in Mohalla Kot Purvi and was converted into a mosque in 1529. It argues that the Archaeological Survey of India (ASI) has a duty to take control of the site. Given the sensitivity of the situation, the administration has heightened vigilance in the district. The District Magistrate has imposed Section 163 of the Indian Civil Security Code (BNS), which prohibits gatherings of more than five people and bans protests or demonstrations. The DM stated, “Strict enforcement of Section 163 will be ensured, and violations will result in legal action.” The Jama Masjid controversy has sparked political debate across the spectrum.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shahi Jama Masjid",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mayawati",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BSP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:06:32.126+02:00",
+    "updated": "2024-11-23T01:06:32.126+02:00"
+}

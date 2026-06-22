@@ -1,0 +1,81 @@
+{
+    "thread": {
+        "uuid": "1cbf6105259fdcab5b63430ac5c9352dec2f74e6",
+        "url": "https://www.theunionjournal.com/pam-bondi-nominated-as-attorney-general",
+        "site_full": "www.theunionjournal.com",
+        "site": "theunionjournal.com",
+        "site_section": "https://www.theunionjournal.com/feed",
+        "site_categories": [],
+        "section_title": "The Union Journal",
+        "title": "Pam Bondi Nominated as Attorney General: A Tough Fighter for Trump’s Vision",
+        "title_full": "Pam Bondi Nominated as Attorney General: A Tough Fighter for Trump’s Vision",
+        "published": "2024-11-24T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.theunionjournal.com/wp-content/uploads/2024/11/image_2024-11-24_102120452.jpg",
+        "performance_score": 0,
+        "domain_rank": 164438,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1cbf6105259fdcab5b63430ac5c9352dec2f74e6",
+    "url": "https://www.theunionjournal.com/pam-bondi-nominated-as-attorney-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "mayukh",
+    "published": "2024-11-24T07:00:00.000+02:00",
+    "title": "Pam Bondi Nominated as Attorney General: A Tough Fighter for Trump’s Vision",
+    "text": "In a dramatic turn of events, President-elect Donald Trump announced Pam Bondi as his nominee for Attorney General, hours after Matt Gaetz withdrew from consideration. Bondi, Florida’s former attorney general, is a long-time Trump ally known for her sharp legal acumen and fierce advocacy.\nA Proven Legal Trailblazer\nPam Bondi’s career is a testament to breaking barriers and delivering results. She made history in 2010 as Florida’s first female attorney general, focusing her tenure on combating human trafficking, shutting down pill mills, and tackling the opioid crisis. With nearly two decades as a prosecutor, she tried high-profile cases ranging from domestic violence to murder, earning respect for her tough yet compassionate approach.\nPam Bondi’s relationship with Trump deepened during his first term, when she served on his defense team during his initial impeachment trial. She famously defended Trump, stating, “The transcript of that phone call speaks for itself.” Her work on Trump’s Opioid and Drug Abuse Commission further solidified her role as a key figure in his administration.\nA Focus on Reforming Justice\nIn his announcement, Trump criticized what he described as a “weaponized” Department of Justice and positioned Pam Bondi as the leader to restore its focus. “Pam will refocus the DOJ to its intended purpose of fighting crime and making America safe again,” he stated. Bondi’s expertise and alignment with Trump’s “America First” vision suggest a commitment to reshaping the agency’s priorities.\nCurrently a partner at Ballard Partners, a firm with close ties to Trump’s team, Bondi balances her legal work with chairing litigation and justice initiatives at the America First Policy Institute. Her nomination reflects Trump’s trust in her ability to lead amidst his own legal challenges.\nIf confirmed, Bondi’s experience and steadfast loyalty signal a Justice Department ready to adopt a tougher stance on crime and uphold Trump’s agenda. Her journey from Florida prosecutor to Washington powerhouse sets the stage for a pivotal role in shaping the nation’s legal landscape.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Bondi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:11:47.140+02:00",
+    "updated": "2024-11-24T08:11:47.140+02:00"
+}

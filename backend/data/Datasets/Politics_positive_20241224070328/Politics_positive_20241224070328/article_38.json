@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "2cc2f5c8390e472e21462bdb9efb1c616af6c4c6",
+        "url": "https://www.straitstimes.com/world/united-states/trump-picks-brooke-rollins-to-be-agriculture-secretary",
+        "site_full": "www.straitstimes.com",
+        "site": "straitstimes.com",
+        "site_section": "https://www.moneyfm893.sg",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "MONEY FM 89.3 - Singapore's First Business and Personal Finance Radio Station",
+        "title": "Trump picks Brooke Rollins to be agriculture secretary",
+        "title_full": "Trump picks Brooke Rollins to be agriculture secretary",
+        "published": "2024-11-23T23:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/11/24/2024-11-23T171310Z212924374RC28TAAUSU79RTRMADP3USA-TRUMP-AGRICULTURE-ROLLINS.JPG?VersionId=YB4FFpsC36pn2AsfmY5hYjkoiDU5UvkV",
+        "performance_score": 0,
+        "domain_rank": 1186,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2cc2f5c8390e472e21462bdb9efb1c616af6c4c6",
+    "url": "https://www.straitstimes.com/world/united-states/trump-picks-brooke-rollins-to-be-agriculture-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T23:42:00.000+02:00",
+    "title": "Trump picks Brooke Rollins to be agriculture secretary",
+    "text": "WASHINGTON - US President-elect Donald Trump has chosen Ms Brooke Rollins, president of the America First Policy Institute, to be agriculture secretary.\n“As our next Secretary of Agriculture, Brooke will spearhead the effort to protect American Farmers, who are truly the backbone of our Country,” Trump said, in a statement.\nIf confirmed by the Senate, Ms Rollins would lead a 100,000-person agency with offices in every county in the country, whose remit includes farm and nutrition programmes, forestry, home and farm lending, food safety, rural development, agricultural research, trade and more.\nIt had a budget of US$437.2 billion (S$588 billion) in 2024.\nThe nominee’s agenda would carry implications for American diets and wallets, both urban and rural. Department of Agriculture officials and staff negotiate trade deals, guide dietary recommendations, inspect meat, fight wildfires and support rural broadband, among other activities.\n“Brooke’s commitment to support the American Farmer, defence of American Food Self-Sufficiency, and the restoration of Agriculture-dependent American Small Towns is second to none,” Trump said, in the statement.\nThe America First Policy Institute is a right-leaning think-tank whose personnel have worked closely with Trump’s campaign to help shape policy for his incoming administration. She chaired the Domestic Policy Council during Trump’s first term.\nAs agriculture secretary, Ms Rollins would advise the administration on how and whether to implement clean fuel tax credits for biofuels at a time when the sector is hoping to grow through the production of sustainable aviation fuel.\nThe nominee would also guide next year’s renegotiation of the US-Mexico-Canada trade deal, in the shadow of disputes over Mexico’s attempt to bar imports of genetically modified corn and Canada’s dairy import quotas.\nTrump has said he again plans to institute sweeping tariffs that are likely to affect the farm sector.\nHe was considering offering the role to former US Senator Kelly Loeffler, a staunch ally whom he chose to co-chair his inaugural committee, CNN reported on Nov 22. REUTERS\nMore On This Topic Maga dream team: Trump’s provocative picks presage an unpredictable era Trump considers ex-intelligence chief Richard Grenell for Ukraine post, sources say Join ST's Telegram channel and get the latest breaking news delivered to you.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "American Food Self-Sufficiency",
+                "sentiment": "none"
+            },
+            {
+                "name": "First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "American Farmers",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:22:13.463+02:00",
+    "updated": "2024-11-24T02:41:17.026+02:00"
+}

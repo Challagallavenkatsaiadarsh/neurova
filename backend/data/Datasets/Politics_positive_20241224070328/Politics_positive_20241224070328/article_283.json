@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "8d45ed10cff352c28b71ab43a9b5fe66b63e7118",
+        "url": "https://clutchpoints.com/how-kamala-harris-made-history-despite-election-loss-to-donald-trump",
+        "site_full": "clutchpoints.com",
+        "site": "clutchpoints.com",
+        "site_section": "http://clutchpoints.com/feed",
+        "site_categories": [
+            "pro_basketball",
+            "sports"
+        ],
+        "section_title": "ClutchPoints",
+        "title": "How Kamala Harris made history despite election loss to Donald Trump",
+        "title_full": "How Kamala Harris made history despite election loss to Donald Trump",
+        "published": "2024-11-24T01:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wp.clutchpoints.com/wp-content/uploads/2024/11/Kamala-Harris-statement.jpg",
+        "performance_score": 0,
+        "domain_rank": 11367,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8d45ed10cff352c28b71ab43a9b5fe66b63e7118",
+    "url": "https://clutchpoints.com/how-kamala-harris-made-history-despite-election-loss-to-donald-trump",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Randall Barnes",
+    "published": "2024-11-24T01:47:00.000+02:00",
+    "title": "How Kamala Harris made history despite election loss to Donald Trump",
+    "text": "Kamala Harris may have lost the 2024 US Presidential Election to Donald Trump, but her historic candidacy added a significant achievement to her record. Harris garnered 74.3 million popular votes this election season, putting her as one of the candidates with the most popular votes in United States history.\nHer vote total surpasses Trump’s 2020 election total of 74.2 million votes but his 76.8 million votes in the 2024 election places him at number two in history only behind Joe Biden’s 81.3 million votes in 2020 that coincided with his victory. Kamala Harris's vote total also eclipsed the vote totals of Barack Obama's 2008 campaign and 2012 campaign (69.5 million & 69.9 million), Hillary Clinton's 2016 campaign (65.8 million), and George W. Bush's 2004 campaign (62 million).\nAxios reported the findings, attributing the large vote totals to population growth.\n“The high vote totals for Trump, Biden, and Harris relative to previous cycles are due in large part to population growth. But both were also unusually high-turnout elections,” Axios said in their article reporting the numbers.\nThe high number of votes adds to a presidential run for Harris that is historic in its nature. Harris became the first woman of color to lead a major party ticket. She was also the first HBCU alumna to lead a major party ticket.\nVice President Kamala Harris attended Howard University and received a degree in political science and economics from the institution in 1986. In addition to joining Alpha Kappa Alpha Sorority Inc. and being a member of the debate team, she was a first-year delegate on the College of Arts and Sciences Student Council during her time at Howard.\nHarris often talks about how her political career has been impacted by attending an HBCU. She even wrote a letter to the Howard University community in honor of the institution’s 100th Homecoming Celebration in October, touting the Biden-Harris administration’s work to uplift HBCUs and how Howard aided in her personal development.\n“HBCU homecomings have long been a source of strength and celebration. I have so many fond memories as a student at ‘The Mecca,' and I recognize that my time at Howard shaped me into the person I am today,” she said in a portion of the letter, published exclusively to the school’s newspaper The Hilltop.\nVice President Kamala Harris also made Howard University both her election night headquarters as well as the site of her concession speech. Harris started her election campaign following President Biden’s decision to withdraw from the presidential election on July 21st. Harris secured enough delegates to become the Democratic nominee for President of the United States on August 3rd.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump Kamala Harris",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Hillary Clinton",
+                "sentiment": "none"
+            },
+            {
+                "name": "George W. Bush",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:25:17.359+02:00",
+    "updated": "2024-11-24T02:25:17.359+02:00"
+}

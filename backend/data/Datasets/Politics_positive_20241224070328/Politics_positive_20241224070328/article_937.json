@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "5c115903fe010707f38006933c50783ef84c1500",
+        "url": "https://report.az/en/infrastructure/un-official-world-urban-forum-will-be-an-introduction-to-azerbaijan-s-achievements",
+        "site_full": "report.az",
+        "site": "report.az",
+        "site_section": "https://report.az/en",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Azerbaijan's leading news agency | Report.az",
+        "title": "UN official: World Urban Forum in Baku will be an introduction to Azerbaijan's achievements | Report.az",
+        "title_full": "UN official: World Urban Forum in Baku will be an introduction to Azerbaijan's achievements | Report.az",
+        "published": "2024-11-24T07:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "AZ",
+        "main_image": "https://static.report.az/photo/12238b2b-fbc1-3556-acb3-6034507bdc2b_824.jpg",
+        "performance_score": 0,
+        "domain_rank": 35608,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5c115903fe010707f38006933c50783ef84c1500",
+    "url": "https://report.az/en/infrastructure/un-official-world-urban-forum-will-be-an-introduction-to-azerbaijan-s-achievements",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T07:45:00.000+02:00",
+    "title": "UN official: World Urban Forum in Baku will be an introduction to Azerbaijan's achievements | Report.az",
+    "text": "The 13th World Urban Forum (WUF13) to be held in Baku in 2026 will provide an excellent opportunity for thousands of international participants to learn about Azerbaijan's achievements in developing sustainable and healthy cities, said Anaclaudia Rossbach, Executive Director of the UN Habitat Program (UNHABITAT),, who visited Azerbaijan for COP2, [Report](https://report.az/en/infrastructure/un-official-world-urban-forum-will-be-an-introduction-to-azerbaijan-s-achievements/) informs.\nAccording to the Azerbaijani State Committee for Urban Planning and Architecture, Anaclaudia Rossbach toured Baku and familiarized herself with some strategic urban planning, cultural and ecological transformation projects that determine the rich history and future of the Azerbaijani capital.\nTogether with Anar Guliyev, Chairman of the State Committee for Urban Planning and Architecture, Rossbach visited the ancient Icherisheher, which is on UNESCO's World Heritage List, the architectural masterpiece - Heydar Aliyev Center, White City - an example of ecological rehabilitation, comprehensive planning and development of former industrial areas, the Yasamal Residential Complex of the State Housing Construction Agency (MIDA) ensuring housing accessibility for the population, and the new public space Central Park project which serves as the city's \"lungs.\"\nThe UNHABITAT executive director highly appreciated Azerbaijan's sensitive approach and success in preserving historical and architectural heritage, human-oriented urban planning solutions, and integrated solutions to climate and urban agenda issues. She expressed confidence in the success of transformation and development projects that will continue based on Baku's new master plan.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anaclaudia Rossbach",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anar Guliyev",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UNESCO",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "UN Habitat Program",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "White City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:53:47.648+02:00",
+    "updated": "2024-11-24T07:53:47.648+02:00"
+}

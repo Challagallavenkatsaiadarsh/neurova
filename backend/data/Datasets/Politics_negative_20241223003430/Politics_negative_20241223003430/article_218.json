@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "9e4567b6ccbb5c0eda1e4279f80d7899aabd6298",
+        "url": "https://www.seattletimes.com/seattle-news/law-justice/seattle-police-accountability-director-resigns-amid-criticism",
+        "site_full": "www.seattletimes.com",
+        "site": "seattletimes.com",
+        "site_section": "https://www.seattletimes.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Seattle Times The Seattle Times",
+        "title": "Seattle police accountability director resigns amid criticism",
+        "title_full": "Seattle police accountability director resigns amid criticism",
+        "published": "2024-11-23T00:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.seattletimes.com/wp-content/uploads/2024/11/11222024_photo_135803.jpg?d=1200x630",
+        "performance_score": 0,
+        "domain_rank": 957,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9e4567b6ccbb5c0eda1e4279f80d7899aabd6298",
+    "url": "https://www.seattletimes.com/seattle-news/law-justice/seattle-police-accountability-director-resigns-amid-criticism",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mike Carter",
+    "published": "2024-11-23T00:05:00.000+02:00",
+    "title": "Seattle police accountability director resigns amid criticism",
+    "text": "Mayor Bruce Harrell has accepted the resignation of Office of Police Accountability Director Gino Betts Jr., who has faced criticism from interim police Chief Sue Rahr over his handling of officer discipline.\nHarrell said OPA Deputy Director Bonnie Glenn will take over as the civilian director of the agency responsible for investigating police misconduct and making disciplinary recommendations to the chief.\nBetts has faced criticism for his handling of the investigation into former Chief Adrian Diaz and his relationship with former chief of staff Jamie Tompkins, a one-time television news anchor. Tompkins resigned after she and Diaz came under investigation for allegedly lying about their relationship. Diaz remains on administrative leave while the city’s Office of Inspector General — the oversight agency of OPA — conducts an independent investigation.\nRahr, who was appointed interim chief in May, has overturned a series of disciplinary recommendations from Betts, revealing tension in their relationship. Rahr has complained to the mayor’s office that Betts has nitpicked discipline in minor misconduct cases and not prioritized major investigations.\nIn the most high-profile of those cases, Rahr overturned a sustained finding of biased policing against former officer and police union Vice President Daniel Auderer, whose dismissive comments over the death of a young woman struck and killed by a speeding police cruiser caused the department international embarrassment.\nBetts pushed for the termination of Auderer, a finding Rahr concurred with. However, Auderer and his boss, Seattle Police Officers Guild President Mike Solan, blame Betts for leaking the existence of the comments, which were captured on Auderer’s body camera, which he had inadvertently left running.\nThe comments were actually uncovered by a public-disclosure officer, and referred to the department’s lawyer, who contacted Betts to open an investigation.\nAuderer and Solan — the person Auderer was talking to when he made those comments — have mounted a vitriolic campaign against Betts and OPA, amplifying their complaints through interviews with right-wing columnist and talk-radio host Jason Rantz.\nMeanwhile, an anonymous group of self-proclaimed OPA “whistleblowers” sent a lengthy letter to the mayor, the City Council and Seattle media complaining about Betts’ management style and priorities.\nTelephone messages seeking comment from Betts and Deputy Mayor Tim Burgess were not immediately returned.\nThe mayor’s office, in a release, said Betts announced his intention to resign on Dec. 13 after serving as OPA director for about 2 ½ years. The normal term for a director is four years.\nThe mayor’s office noted that OPA, under Betts’ leadership, recently received Seattle’s first “Achievement in Oversight” award from the National Association for Civilian Oversight of Law Enforcement, the country’s premier civilian oversight body. The mayor said Betts also doubled OPA’s community outreach efforts, innovated projects to promote transparency and trust, and earned consistently high performance ratings from the Office of Inspector General.\nIn a prepared statement, Betts said “I am exceedingly proud of our contribution toward improving the Seattle Police Department and appreciative of the overwhelming support we received from community members and law enforcement throughout my tenure.”\nHarrell said Glenn “is well equipped to lead the City’s Office of Police Accountability and to serve as a trusted voice for fairness and responsibility.”\n“As we seek to restore and further strengthen our Seattle Police Department, I am confident that Bonnie will bring a thoughtful approach to addressing misconduct focused on continuous growth, system improvement, and appropriate accountability for inappropriate actions,” the mayor said.\nBefore her appointment to interim OPA director, Glenn served for more than seven years as an administrative law judge with the Washington State Office of Administrative Hearings. Her experience includes decades of public service, including as the deputy chief of staff at the King County Prosecuting Attorney’s Office, the acting director of the Seattle City Attorney’s Office’s Domestic Violence Unit, and the assistant to the secretary of the Department of Social and Health Services on Juvenile Justice.\n“I look forward to serving the people of Seattle in this important role, with the highest integrity, respect, and fairness to all,” Glenn said in a prepared statement. “I know the importance of ensuring a well-functioning accountability system in strengthening community and police relationships. I will draw on my years of judicial and legal experience to lead the office forward with the incredible team at OPA.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bruce Harrell",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gino Be",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jamie Tompkins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bonnie Glenn",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adrian Diaz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Betts",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rahr",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9e4567b6ccbb5c0eda1e4279f80d7899aabd6298",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:27:26.239+02:00",
+    "updated": "2024-11-23T00:27:26.239+02:00"
+}

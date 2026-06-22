@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "f6f8260914919dc8a2778767673ee70e826c7e6c",
+        "url": "https://www.turkiyetoday.com/region/iraqi-kurdish-regional-government-pm-barzani-highlights-strong-economic-ties-with-turkiye-83527",
+        "site_full": "www.turkiyetoday.com",
+        "site": "turkiyetoday.com",
+        "site_section": "https://turkiyenewspaper.com/fotogaleri/car-hangs-from-the-roof-of-a-house-in-an-accident-that-resembles-an-action-movie-119",
+        "site_categories": [],
+        "section_title": "Türkiye Today | Breaking, Exclusive Content from Turkey &amp; Region",
+        "title": "Iraqi Kurdish Regional Government PM Barzani highlights strong economic ties with T\\u00fcrkiye",
+        "title_full": "Iraqi Kurdish Regional Government PM Barzani highlights strong economic ties with T\\u00fcrkiye",
+        "published": "2024-11-24T00:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://i.turkiyetoday.com/image/resize/1280x720/wp-content/uploads/2024/10/kurdish_prime_minister_masrour_barzani._afp_file_photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 65983,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f6f8260914919dc8a2778767673ee70e826c7e6c",
+    "url": "https://www.turkiyetoday.com/region/iraqi-kurdish-regional-government-pm-barzani-highlights-strong-economic-ties-with-turkiye-83527",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anadolu Agency",
+    "published": "2024-11-24T00:39:00.000+02:00",
+    "title": "Iraqi Kurdish Regional Government PM Barzani highlights strong economic ties with T\\u00fcrkiye",
+    "text": "\\nMasrour Barzani , Prime Minister of the Iraqi Kurdish Regional Government, stated on Saturday that his administration enjoys strong economic and trade relations with T\\xfcrkiye .\n\\n\\nSpeaking at the 5th Middle East Peace and Security Forum, hosted by the American University in Duhok, Barzani emphasized the positive nature of the Kurdish region\\u2019s ties with T\\xfcrkiye, particularly in understanding the regional security situation.\n\\n\\u201cWe have a good understanding of the security situation in the region,\\u201d he said. \\u201cWhat also encourages us is that T\\xfcrkiye is seeking peaceful ways to resolve the issues in the region. For this reason, I can describe our relations with T\\xfcrkiye as good.\\u201d\n\\nBarzani noted that the Iraqi Kurdish Regional Government understands relying solely on oil as a source of income will always pose a problem.\n\\nHe said his administration is working to diversify the economy by turning to various sources of income.\n\\nBarzani also noted that Iran is an important neighbor to Iraq and it is natural for Baghdad to have good relations with Tehran.\n\\nHe highlighted that the Iraqi Kurdish Regional Government maintains good relations with the U.S. and other Western countries.\n\\n\\u201cBut this does not mean we do not want to have good relations with China or any other country,\\u201d he added.\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Barzani",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Duhok",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:17:31.920+02:00",
+    "updated": "2024-11-24T05:52:19.175+02:00"
+}

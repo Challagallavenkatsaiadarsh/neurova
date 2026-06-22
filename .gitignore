@@ -1,0 +1,61 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node.js
+node_modules/
+
+# Build folders
+build/
+dist/
+bin/
+obj/
+
+# Logs
+*.log
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Kivy / Buildozer
+.bin/
+buildozer.spec
+.gradle/
+
+# GitHub Actions artifacts
+*.ipa
+*.apk
+*.aab
+
+# Large datasets (ignore these)
+backend/data/ratings.csv
+backend/data/credits.csv
+backend/data/user_ratings.csv
+backend/data/artists_reduced.csv
+backend/data/designers_reduced.csv
+backend/data/publishers_reduced.csv
+backend/data/steam_description_data.csv
+backend/data/steam_media_data.csv
+
+# Optional: ignore all CSV datasets in backend/data
+# backend/data/*.csv

@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "702a748604fc75603b1eaf1b729cafc83cb0a214",
+        "url": "http://english.scio.gov.cn/topnews/2024-11/24/content_117565775.html",
+        "site_full": "english.scio.gov.cn",
+        "site": "scio.gov.cn",
+        "site_section": "https://english.scio.gov.cn",
+        "site_categories": [
+            "japan",
+            "travel",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "\n        The State Council Information Office of the People&#39;s Republic of China",
+        "title": "Chinese FM: Xi's LatAm trip promotes friendship, solidarity, cooperation, development | english.scio.gov.cn",
+        "title_full": "Chinese FM: Xi's LatAm trip promotes friendship, solidarity, cooperation, development | english.scio.gov.cn",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 9476,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "702a748604fc75603b1eaf1b729cafc83cb0a214",
+    "url": "http://english.scio.gov.cn/topnews/2024-11/24/content_117565775.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "汪玮",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Chinese FM: Xi's LatAm trip promotes friendship, solidarity, cooperation, development | english.scio.gov.cn",
+    "text": "Xinhua | November 24, 2024\nChinese President Xi Jinping delivers an important speech under the title \"Shouldering Responsibility to Our Times And Jointly Promoting Asia-Pacific Development\" at the 31st APEC Economic Leaders' Meeting at the Lima Convention Center in Lima, Peru, Nov. 16, 2024. (Xinhua/Xie Huanchi)\nChinese President Xi Jinping's just-concluded visit to Latin America is a journey of friendship across mountains and seas, a journey of solidarity to jointly promote development, and a journey of cooperation to expand partnership, Chinese Foreign Minister Wang Yi said.\nFrom Nov. 13 to 23, Xi was invited to attend the 31st APEC Economic Leaders' Meeting and pay a state visit to Peru, and to attend the 19th G20 Summit and pay a state visit to Brazil.\nDuring the 11 days, Xi attended nearly 40 bilateral and multilateral events and reached more than 60 cooperation documents, said Wang, also a member of the Political Bureau of the Communist Party of China Central Committee.\nFrom Lima to Rio de Janeiro, Xi once again sent a clear message of firmly upholding multilateralism at the crossroads of human history, illuminated the \"Latin American moment\" of global governance with Chinese wisdom, and demonstrated China's image as a responsible major country with fairness, justice, courage, openness and inclusiveness, Wang said.\nXi attended the APEC Economic Leaders' Meeting in Lima and delivered a written speech to the CEO summit, calling on Asia-Pacific economies to continuously adhere to true multilateralism, build an open and interconnected paradigm for Asia-Pacific cooperation, make green innovation a catalyst for the Asia-Pacific, and uphold a universally beneficial and inclusive vision for Asia-Pacific development, Wang said.\nWang said that Xi has always attached great importance to the issue of development. At the G20 summit in Rio de Janeiro, Xi elaborated on China's concept of global governance in a comprehensive and systematic way, stressing the need to make global development more inclusive, beneficial to all, and more resilient, and build a just world of common development, Wang said.\nXi called for building a world economy characterized by cooperation, stability, openness, innovation and eco-friendliness, and announced China's eight actions for global development, including joining the Global Alliance Against Hunger and Poverty, Wang said.\nThe important initiatives have responded to the strong will of the Global South to seek equality and promote change, and have defined the right direction for improving global governance, Wang said.\nWang noted that the key highlight of Xi's visit to Peru was the Chinese president and his Peruvian counterpart, Dina Boluarte, jointly attending the opening ceremony of the Chancay Port via video link. Chancay Port is the first smart port and the first green port in South America, Wang said, adding that once completed, it will bring huge revenues to Peru and contribute to establishing a new Asia-Latin America land-sea corridor with the Chancay Port as a starting point.\nIn Brazil, Xi and Brazilian President Luiz Inacio Lula da Silva engaged in in-depth and amicable strategic communication, agreeing that the China-Brazil relationship is at its best in history, said Wang.\nThe two countries announced an elevation of their ties to the community with a shared future for a more just world and a more sustainable planet and decided to establish synergies between the Belt and Road Initiative and Brazil's development strategies, said Wang, adding that Xi's visit is an important milestone in the history of China-Brazil relations.\nWang said that Xi held more than 10 bilateral meetings on the sidelines of the multilateral gatherings. In Xi's meeting with U.S. President Joe Biden, the two heads of state stressed the extreme importance of China-U.S. relations, noting that a stable China-U.S. relationship is critical not only to the interests of the two peoples, but also to the future and destiny of the entire humanity, Wang said.\nXi reiterated China's principles and positions on such major issues as Taiwan, urging the two sides to shoulder the responsibilities of major countries and keep exploring the right way for two major countries to get along well with each other and inject more certainty and positive energy into the world, Wang said.\nXi also met with leaders of France, Germany, Britain and other major European countries respectively, stressing that China and Europe should view each other from a long-term and strategic perspective, adhere to partnership, commit to properly resolving differences through dialogue and consultation, and continue to write cooperative stories of mutual achievement, said Wang.\nDuring his trip, Xi elaborated on China's important measures to promote high-quality development and high-level opening-up through talks and meetings, public addresses, written speeches, and signed articles, Wang said, adding that the Chinese president welcomed all parties to grow together with the Chinese economy and work together for the modernization of all countries featuring peaceful development, mutually beneficial cooperation and common prosperity.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Xi Jinping",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Wang Yi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Communist Party of China Central Committee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Political Bureau",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Latin",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "702a748604fc75603b1eaf1b729cafc83cb0a214",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:56:57.527+02:00",
+    "updated": "2024-11-24T06:56:57.527+02:00"
+}

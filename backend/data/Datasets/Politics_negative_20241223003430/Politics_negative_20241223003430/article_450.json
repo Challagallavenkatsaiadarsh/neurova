@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "36331878e146e89c606adae18b3f99a88c27552d",
+        "url": "https://www.thecanary.co/uk/analysis/2024/11/22/elbit-loses-mod-contract",
+        "site_full": "www.thecanary.co",
+        "site": "thecanary.co",
+        "site_section": "https://www.thecanary.co",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Home - Canary",
+        "title": "Elbit loses MoD contract worth £2.1bn – probably thanks to Palestine Action",
+        "title_full": "Elbit loses MoD contract worth £2.1bn – probably thanks to Palestine Action",
+        "published": "2024-11-22T21:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 32112,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "36331878e146e89c606adae18b3f99a88c27552d",
+    "url": "https://www.thecanary.co/uk/analysis/2024/11/22/elbit-loses-mod-contract",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Canary",
+    "published": "2024-11-22T21:09:00.000+02:00",
+    "title": "Elbit loses MoD contract worth £2.1bn – probably thanks to Palestine Action",
+    "text": "Elbit Systems UK has lost its largest-ever British arms contract , worth over £2.1bn, after the Ministry of Defence (MoD) scrapped its Watchkeeper drone programme with Elbit subsidiary UAV Tactical Systems (U-TacS). It comes after Palestine Action sustained years of direct action against the company – which had already resulted in it losing several other contracts.\nElbit: £2.1bn down the shitter Elbit, Israel’s largest weapons company, had spent over twenty years on the Watchkeeper programme with partner-firm Thales. Their joint venture, U-TacS, has been subjected to over three years of relentless direct action by Palestine Action, causing significant damage to premises and disruption to their operations.\nThe government has claimed that the move is part of their decommissioning of outdated models. Yet, the Watchkeeper drone has only been in service for six years, and the MoD asserted in 2022 that the Watchkeeper’s ‘out-of-service’ date was not expected to be reached until 2042.\nThe drone, custom-made for the British MoD, is modeled entirely upon the Hermes model made by Elbit for the Israeli military. The Hermes 450, is routinely used to massacre and surveil the Palestinian people, and is marketed as “battle-tested” upon them as a result. The Hermes has been linked to documented war crimes committed by Israel, both during and before the ongoing genocide in Gaza. Given the close compatibility of parts between the Watchkeeper and the Hermes, U-TacS is also involved in direct supplies of weapons parts to Israel.\nWhile U-TacS has consistently denied that it sells weapons to the Israeli military, U-TacS’ export licenses for sale of goods for ‘military end-use’ in Israel suggest that their statements are false.\nAll Palestine Action’s fault? Disruptive action by Palestine Action activists at the U-TacS site has been ongoing since May 2021, when four activists stormed and occupied the factory – remaining on the roof for six days. In the years since, ceaseless actions and disruption at the site have massively hamstrung the factory’s operations.\nSince the genocide in Gaza commenced in October 2023, actions against the site have intensified including vehicular lock-ons to prevent entry, while the most recent action at U-TacS saw a lorry smash into the building before activists took to the roof to occupy the site.\nFrom atop the roof, activists used paint filled fire extinguishers to damage drones inside the factory. This action led to structural damage of the premises, halting operations for several weeks.\nThis constant disruption, forcing the site shut for days-on-end, causing severe delays to production. In 2023, Elbit Systems UK CEO Martin Fausset stated that “The culture in the UK is if you’re one day late, you might as well be six months late. It’s equally unacceptable. So that understanding is something we have to be very careful with”.\nElbit: out of business in the UK? This is not the first instance in which Elbit has been forced out of MoD contracts by direct action, having two contracts worth £280m revoked in 2022 for failing to meet “operational sovereignty” standards.\nA Palestine Action spokesperson said:\nElbit losing its biggest contract signifies the beginning of the end for the Israeli weapons maker’s presence in this country. Direct action undertaken by hundreds of activists has consistently disrupted the operations of Elbit Systems, leading to significant delays in production, as well as damage to weaponry. There’s no doubt that direct action works, and it’s more necessary than ever to deploy effective tactics against the Israeli war machine\nFeatured image via Palestine Action",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://electronicintifada.net/blogs/asa-winstanley/britain-ditches-israeli-drones",
+        "https://www.electronicintifada.net/blogs/asa-winstanley/britain-ditches-israeli-drones"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Elbit",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:49:45.306+02:00",
+    "updated": "2024-11-23T00:49:45.306+02:00"
+}

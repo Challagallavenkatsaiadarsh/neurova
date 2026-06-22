@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "60a2860b3a52b9d6f4ac5d80138f20405c936e34",
+        "url": "https://www.bernama.com/en/news.php/?id=2366944",
+        "site_full": "www.bernama.com",
+        "site": "bernama.com",
+        "site_section": "http://bernama.com/en/rssfeed.php",
+        "site_categories": [
+            "social",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "BERNAMA - English Version",
+        "title": "World : PM Anwar To Strengthen Malaysia-S.Korea Ties During Official Visit",
+        "title_full": "World : PM Anwar To Strengthen Malaysia-S.Korea Ties During Official Visit",
+        "published": "2024-11-24T06:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "MY",
+        "main_image": "https://www.bernama.com/storage/photos/c234cd1101767b67e3008911988035c667001ee61be20-medium",
+        "performance_score": 0,
+        "domain_rank": 14583,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "60a2860b3a52b9d6f4ac5d80138f20405c936e34",
+    "url": "https://www.bernama.com/en/news.php/?id=2366944",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BERNAMA",
+    "published": "2024-11-24T06:55:00.000+02:00",
+    "title": "World : PM Anwar To Strengthen Malaysia-S.Korea Ties During Official Visit",
+    "text": "PUTRAJAYA (Malaysia), Nov 24 (Bernama) -- Malaysian Prime Minister Anwar Ibrahim will undertake an official visit to South Korea from November 24 to 26 to further strengthen bilateral ties as the two nations prepare to celebrate 65 years of diplomatic relations in 2025.\nIn a statement, the Foreign Ministry said Anwar’s first official visit to South Korea since assuming office in November 2022, is at the invitation of South Korean President Yoon Suk Yeol.\nThe ministry stated that during the visit, Anwar is scheduled to hold a bilateral meeting with Yoon at the Yongsan Presidential Office.\n“Both leaders will take stock of Malaysia-South Korea bilateral relations that have significantly progressed, in scope and substance, since the establishment of diplomatic ties in 1960.\n“They are also expected to discuss regional and international issues of mutual concern, and exchange views on Malaysia’s Chairmanship of ASEAN and South Korea’s Chairmanship of Asia-Pacific Economic Cooperation (APEC), in 2025,” the statement read.\nAccording to the Foreign Ministry, Anwar and Yoon will witness the exchange of three Memoranda of Understanding on Cooperation in the Field of Higher Education, Cooperation in the Field of Carbon Capture and Storage, and Cooperation in Cooperative Approaches (under Article 6, Paragraph 2 of the Paris Agreement).\nAnwar is also scheduled to attend the Malaysia-South Korea Business Forum and meet with captains of industry from major South Korean companies.\nAdditionally, the prime minister is set to deliver a special address titled “Strategic Partners in a Complex World: Malaysia, Korea, and the Future of Asia” at the Seoul National University.\nHe will be accompanied by Foreign Minister Mohamad Hasan, Investment, Trade and Industry Minister Tengku Zafrul Abdul Aziz, Science, Technology and Innovation Minister Chang Li Kang, National Unity Minister Aaron Ago Dagang, and senior government officials.\nFrom January to September this year, Malaysia's trade with South Korea was valued at RM81.61 billion (US$17.63 billion). From 1980 to June 2024, a total of 392 manufacturing projects with South Korean participation have been implemented with total investment worth RM43.10 billion (US$11.50 billion).\nIn 2023, South Korea was Malaysia’s 8th largest trading partner with trade valued at RM111.07 billion (US$ 24.35 billion). Malaysia was South Korea’s third largest trading partner among ASEAN Member States and 12th largest globally.\nMalaysia and South Korea will celebrate the 65th anniversary of the establishment of diplomatic relations in 2025.\n-- BERNAMA\nBERNAMA provides up-to-date authentic and comprehensive news and information which are disseminated via BERNAMA Wires; www.bernama.com; BERNAMA TV on Astro 502, unifi TV 631 and MYTV 121 channels and BERNAMA Radio on FM93.9 (Klang Valley), FM107.5 (Johor Bahru), FM107.9 (Kota Kinabalu) and FM100.9 (Kuching) frequencies.\nFollow us on social media :\nFacebook : @bernamaofficial, @bernamatv, @bernamaradio\nTwitter : @bernama.com, @BernamaTV, @bernamaradio\nInstagram : @bernamaofficial, @bernamatvofficial, @bernamaradioofficial\nTikTok : @bernamaofficial",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anwar Ibrahim",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Yoon Suk Yeol",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Yongsan Presidential Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "Foreign Ministry",
+                "sentiment": "none"
+            },
+            {
+                "name": "ASEAN",
+                "sentiment": "none"
+            },
+            {
+                "name": "APEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "PUTRAJAYA",
+                "sentiment": "none"
+            },
+            {
+                "name": "Malaysia-South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:22:06.744+02:00",
+    "updated": "2024-11-24T07:22:06.744+02:00"
+}

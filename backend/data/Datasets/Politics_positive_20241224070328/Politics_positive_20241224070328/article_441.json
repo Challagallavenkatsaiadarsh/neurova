@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "7dcfec918989dc7412e717e5413c4d7f7a5e9264",
+        "url": "https://www.thestar.com.my/news/nation/2024/11/24/visa-free-boost-to-ties",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://thestar.com.my/news/nation",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Nation - News | The Star",
+        "title": "Visa-free boost to ties | The Star",
+        "title_full": "Visa-free boost to ties | The Star",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/24/3032653.jpg",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7dcfec918989dc7412e717e5413c4d7f7a5e9264",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/24/visa-free-boost-to-ties",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ALLISON LAI allison@thestar.com.my",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Visa-free boost to ties | The Star",
+    "text": "PETALING JAYA: The 30-day visa-free entry offered by Malaysia and China to each other’s citizens will act as a catalyst to revitalise tourism and enhance the economic ties between the two nations, says the Malaysian Tourism Federation.\nIts president Datuk Tan Kok Liang said China extending the visa-free entry for Malaysians from 15 to 30 days, the same duration Malaysia has granted to Chinese nationals, is welcomed.\nHe said the extended period will generate substantial mutual benefits, providing greater flexibility for Malaysians to explore China’s vast regions and cultural attractions.\n“It’s good that the implementation date has been finalised; the visa-free arrangement will generate significant mutual benefits.\n“We also expect to see a growth in travel. This is a catalyst to revitalise the tourism industry of both nations,” he said yesterday, adding that the longer the stay, the higher the revenue.\nOn Nov 22, China’s Foreign Affairs Ministry announced that the country would offer a 30-day visa-free entry to a list of countries including Malaysia from Nov 30 this year to Dec 31, 2025.\nTan said local travel agencies and tour operators are poised to capitalise on this opportunity, with preparations underway to accommodate the anticipated rise in demand.\n“This shift will also drive demand for longer stays and customised tour packages beyond the traditional 15-day programmes,” he added.\nHe said the new policy will also open doors for Malaysian businesses and tourism stakeholders to foster deeper economic ties and cultural exchanges with their Chinese counterparts.\n“It allows more time to establish partnerships and explore opportunities in China’s vast markets in manufacturing, construction, and information technology.\n“I think Malaysian businessmen should grab this opportunity and do more to promote their products and services abroad,” Tan said, adding that there is potential for cross-border collaborations.\nMalaysia Chinese Business Council director Datuk Beh Hang Kong said the visa extension reflected the mutual trust and strong friendship between the two countries.\nHe said this will make it more convenient for Malaysians wishing to explore China.\n“Additionally, the savings on visa fees will be beneficial.”\nLooking ahead, both Beh and Tan advocated for a permanent visa-free arrangement, saying it would remove administrative barriers and further boost tourism and business opportunities.\nHowever, they cautioned that such an agreement must be managed carefully.\n“A permanent visa-free arrangement will result in hassle-free travel and cut administrative barriers.\n“But the influx of Chinese tourists to Malaysia may also potentially result in adverse impacts if these travellers are not genuine tourists and investors,” warned Tan, calling for a check-and-balance monitoring framework to ensure the integrity of the arrangement.\nBeh said safeguarding the country’s international entrances to prevent abuse and exploitation is equally important.\nAvid traveller Aleya Yap, 38, said she planned to visit Xinjiang in China, followed by Tibet, by taking the Qinghai-Tibet railway.\n“The journey alone is more than 2,600km and there is a lot to explore.\n“I have always wanted more time to enjoy and immerse myself in the sights as I travel, and this is perfect with the 30-day visa extension,” said the Johor-based wardrobe artist.\nAuditor Sean Lee Cheng, 43, from Ipoh, said he has been checking out flights to Xian city in Shaanxi province early next year as his children are fascinated by the terracotta warriors.\n“It would be nice to bring them to see the Emperor Qinshihuang’s Mausoleum Site Museum before we take the high-speed rail to neighbouring Henan province and Luoyang city there to check out the Shaolin Temple and Longmen Grottoes, and other attractions,” he said.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Datuk Tan Kok Liang",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:55:56.292+02:00",
+    "updated": "2024-11-24T06:42:08.977+02:00"
+}

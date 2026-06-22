@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "76eb7b8ff468790bc7269cef0f9256c3f00ae62d",
+        "url": "https://eutoday.net/czech-republic-to-end-reliance-on-russian-oil-imports",
+        "site_full": "eutoday.net",
+        "site": "eutoday.net",
+        "site_section": "https://www.eutoday.net",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "EU Today - Your Source for News from the EU and Beyond",
+        "title": "Czech Republic to End Reliance on Russian Oil Imports",
+        "title_full": "Czech Republic to End Reliance on Russian Oil Imports",
+        "published": "2024-11-22T21:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 135614,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "76eb7b8ff468790bc7269cef0f9256c3f00ae62d",
+    "url": "https://eutoday.net/czech-republic-to-end-reliance-on-russian-oil-imports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EUToday Correspondents",
+    "published": "2024-11-22T21:38:00.000+02:00",
+    "title": "Czech Republic to End Reliance on Russian Oil Imports",
+    "text": "The Czech Republic has announced its decision to forego an extension of its exemption from the European Union’s embargo on Russian oil imports, which was implemented as part of sanctions against Russia in 2022. This move marks a significant step towards achieving energy independence and ending reliance on Russian oil. The EU sanctions regime, introduced in response to Russia’s actions in Ukraine, included a ban on the import of Russian oil and petroleum products. However, three Central European countries—Slovakia, Hungary, and the Czech Republic—were granted temporary exemptions to allow time for securing alternative sources of supply.\nThe Czech exemption is set to expire on 5 December 2024, and the government has confirmed it will not seek an extension. A spokesperson for the Czech Ministry of Industry and Trade, Marek Vošahlík, told Reuters :\n“In the context of the current situation and the steps being taken by the Czech Republic to ensure its independence from Russian oil imports, there is no reason to seek an extension of the exemption.”\nThe Czech Republic imports approximately eight million tonnes of oil annually, with about 60% transported through the Russian Druzhba pipeline . The remaining supply comes via the IKL pipeline, which connects to the Transalpine Pipeline (TAL) originating in Trieste, Italy.\nIn recent years, Prague has prioritised expanding capacity through the TAL pipeline , a key element of its strategy to eliminate dependency on Russian oil. The expansion, expected to be operational next year, aims to double the pipeline’s capacity, ensuring it can fully meet the country’s annual demand.\nCzech Prime Minister Petr Fiala has consistently underlined the government’s commitment to ending reliance on Russian oil. In previous statements, he indicated that the country would achieve full independence by mid-2025 at the latest. The decision to accelerate this timeline by not seeking an extension underscores the Czech Republic’s determination to align with EU-wide efforts to reduce dependence on Russian energy sources.\nThe expansion of the TAL pipeline will allow the Czech Republic to import up to eight million tonnes of oil annually from non-Russian sources. This move complements broader EU objectives to diversify energy supplies and enhance energy security across the bloc.\nWhile Slovakia and Hungary continue to benefit from exemptions, the Czech Republic’s decision sets a precedent for transitioning away from Russian oil imports. Both Slovakia and Hungary are still heavily reliant on the Druzhba pipeline, citing logistical and economic challenges in diversifying their energy sources.\nThe Czech Republic’s proactive stance is likely to increase pressure on other countries to accelerate their own efforts in reducing reliance on Russian energy.\nImage source: rferl.org Read also: Russia’s Hybrid Strategy to Reclaim Its Position in Europe’s Oil and Gas Markets, by CGS Strategy XXI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.reuters.com",
+        "https://en.wikipedia.org/wiki/Transalpine_Pipeline",
+        "https://en.wikipedia.org/wiki/Druzhba_pipeline",
+        "https://www.en.wikipedia.org/wiki/Druzhba_pipeline",
+        "https://www.en.wikipedia.org/wiki/Transalpine_Pipeline",
+        "https://reuters.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:20.649+02:00",
+    "updated": "2024-11-23T00:50:20.649+02:00"
+}

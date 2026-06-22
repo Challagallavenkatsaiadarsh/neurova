@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "01990a9959f051cf537adc43ce57d8e64b46b23f",
+        "url": "https://www.dailygazette.com/news/national/mass-rape-trial-sparks-demonstrations-across-france/article_0fcc5693-f702-547b-bd80-48ba623927e8.html",
+        "site_full": "www.dailygazette.com",
+        "site": "dailygazette.com",
+        "site_section": "https://www.dailygazette.com/leader_herald/news/govt_politics",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "518 Politics | dailygazette.com",
+        "title": "Mass rape trial sparks demonstrations across France | National | dailygazette.com",
+        "title_full": "Mass rape trial sparks demonstrations across France | National | dailygazette.com",
+        "published": "2024-11-23T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/dailygazette.com/content/tncms/assets/v3/editorial/9/b8/9b8da10b-6312-5a90-9e27-c09a3e97ccdb/6741ffa8a7476.image.jpg?crop=341%2C341%2C85%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 14485,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "01990a9959f051cf537adc43ce57d8e64b46b23f",
+    "url": "https://www.dailygazette.com/news/national/mass-rape-trial-sparks-demonstrations-across-france/article_0fcc5693-f702-547b-bd80-48ba623927e8.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Julien DURY and AFP bureaus",
+    "published": "2024-11-23T07:00:00.000+02:00",
+    "title": "Mass rape trial sparks demonstrations across France | National | dailygazette.com",
+    "text": "Tens of thousands demonstrated in major French cities Saturday against violence targeting women, as campaigners push for the country to learn from a mass rape trial that has shocked the public.\nThe prosecution in the southern city Avignon is in its final stages for 51 men, including one who drugged his wife over the course of a decade and dozens of others charged with accepting his invitations to abuse her at their home.\nOut on the street, \"the more of us there are, the more visible we are, this is everyone's business, not just women,\" said Peggy Plou, an elected official from the Indre-et-Loire region in western France who had made the trip to Paris.\nThousands of people marched in the capital alone, mostly women but including some children and men. Police put the turnout there at 12,500, while organisers said 80,000.\nPolice sources said 35,000 people had turned out across the country, while organisers put the figure at 100,000.\nHundreds also turned out in other major cities including Marseille in the south, Lille in the northeast and Rennes in the northwest. Local officials in Bordeaux, in the southwest, put the turnout there at 1,600.\nMany demonstrators carried signs with variations on the slogan \"Shame must switch sides\", popularised by the plaintiff in the Avignon trial, Gisele Pelicot.\nShe has become a feminist hero for choosing public hearings in her case rather than a trial behind closed doors, despite their painful content.\n- Law reform -\n\"A law about consent must be put in place very quickly. Just because someone doesn't say something, doesn't mean that they agree\" to sexual contact, said Marie-Claire Abiker, 78, a retired nurse who marched in Paris.\nFrance's legal definition of rape calls it \"any act of sexual penetration... by violence, constraint, threats or surprise\" but includes no language about consent -- a key demand of women's rights groups especially since the MeToo movement launched in the late 2010s.\n\"In 2018, there were basically only women (demonstrating). Today there are, let's say, 30 percent men. That's really great news,\" said Amy Bah, a member of the NousToutes (All of us women) feminist group protesting in Lille.\n\"I feel like this is my business too, we each have our role to play, especially men,\" said Arnaud Garcette, 38, at the Marseille demonstration in the city's historic port with his two children.\n\"We're at the source of the problem, and at the source of the solutions too,\" he added.\nThe demonstrations, called by more than 400 campaign groups, come two days before the International Day for the Elimination of Violence Against Women on Monday.\nEquality Minister Salima Saa has promised \"concrete and effective\" measures to coincide with the global day.\nAccording to a report in Sunday's Tribune Dimanche weekly, Prime Minister Michel Barnier will announce measures including increased training for police officers and more support for victims of domestic violence who leave their home.\nThe campaigners who organised Saturday's protests are calling for more far-reaching measures, including a dedicated 2.6 billion-euro ($2.7 billion) budget and a stronger legal framework to tackle the problem.\nDuring his first term as French president, Emmanuel Macron vowed to prioritise the cause of equality between men and women and to work to eliminate violence against women.\nburs-jdy/jj/jm",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Peggy Plou",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Indre-et-Loire",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "01990a9959f051cf537adc43ce57d8e64b46b23f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:19:15.482+02:00",
+    "updated": "2024-11-24T00:19:15.482+02:00"
+}

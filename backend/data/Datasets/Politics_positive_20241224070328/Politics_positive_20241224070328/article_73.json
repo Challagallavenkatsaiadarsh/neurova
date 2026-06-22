@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "1f1ed23961149cc603060defcfc93ceb2c4fd890",
+        "url": "https://madison.com/brooke-rollins-secretary-of-agriculture/image_370da0fe-3cdb-5e77-bee4-c3188206a4d6.html",
+        "site_full": "madison.com",
+        "site": "madison.com",
+        "site_section": "https://madison.com/search/?f=rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "madison.com - RSS Results",
+        "title": "Brooke Rollins, Secretary of Agriculture",
+        "title_full": "Brooke Rollins, Secretary of Agriculture",
+        "published": "2024-11-24T00:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/3/70/370da0fe-3cdb-5e77-bee4-c3188206a4d6/674252a46b43e.image.jpg?crop=1761%2C925%2C0%2C126&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 3920,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f1ed23961149cc603060defcfc93ceb2c4fd890",
+    "url": "https://madison.com/brooke-rollins-secretary-of-agriculture/image_370da0fe-3cdb-5e77-bee4-c3188206a4d6.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Evan Vucci",
+    "published": "2024-11-24T00:07:00.000+02:00",
+    "title": "Brooke Rollins, Secretary of Agriculture",
+    "text": "Brooke Rollins, Secretary of Agriculture\n- Evan Vucci\n0\nMost Popular\n-\n['Super dope' win leaves great impression on this Wisconsin men's basketball recruiting target](/sports/college/basketball/men/dezhon-hall-wisconsin-mens-basketball-recruit/article_4123c3ae-fabd-57af-b539-94b53339f3df.html) -\n[5 takeaways from Wisconsin football's dismissal of offensive coordinator Phil Longo](/sports/college/football/wisconsin-football-phil-longo-fired-takeaways/article_c351662a-d288-513b-8980-ed24fe6a6d73.html) -\n[Polzin: What I did and didn't like from Wisconsin football's brutal loss to No. 1 Oregon](/sports/columnists/jim_polzin/wisconsin-football-oregon-likes-dislikes/article_76c9b60d-dcc9-5759-bfdf-241a383ebca1.html) -\n[Wisconsin football moves on from offensive coordinator following demoralizing loss](/sports/college/football/wisconsin-football-phil-longo-fired-fickell/article_974512d2-ed5f-5ab7-b76b-b1a68b92974f.html) -\n[How to watch, stream, listen to Wisconsin men's basketball vs. UCF](/sports/college/basketball/men/wisconsin-mens-basketball-ucf-watch-stream-tv-radio-channel-greenbrier-tournament/article_9d926f1b-a9ea-5b1f-8558-1343deb722c1.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Phil Longo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:40:54.762+02:00",
+    "updated": "2024-11-24T00:40:54.762+02:00"
+}

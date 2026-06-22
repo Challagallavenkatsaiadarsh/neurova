@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "1d89e65aa6c03fa0c1ec80a3251c4c8548ef2185",
+        "url": "https://www.thecanary.co/uk/news/2024/11/22/leaseholders-new-law",
+        "site_full": "www.thecanary.co",
+        "site": "thecanary.co",
+        "site_section": "https://www.thecanary.co",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Home - Canary",
+        "title": "Labour is messing around leaseholders at a time when they need urgent reform",
+        "title_full": "Labour is messing around leaseholders at a time when they need urgent reform",
+        "published": "2024-11-22T20:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 32112,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1d89e65aa6c03fa0c1ec80a3251c4c8548ef2185",
+    "url": "https://www.thecanary.co/uk/news/2024/11/22/leaseholders-new-law",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Canary",
+    "published": "2024-11-22T20:25:00.000+02:00",
+    "title": "Labour is messing around leaseholders at a time when they need urgent reform",
+    "text": "Sunday 24 November marks six months since the Leasehold and Freehold Reform Act 2024 was passed in the wash-up before the last general election. However, so far the Labour Party government has made no progress on its implementation. So, an expert has hit back – arguing the government has missed a “golden opportunity” for leaseholders.\nLeaseholders being messed around by Labour Although Labour made a promise in the King’s Speech to implement this quickly, little action has been seen since and the written statement does nothing to move things along swiftly.\nLinz Darlington, MD of lease extension specialists Homehold describes the statement as “missing a golden opportunity.”\nHe said:\nThe Leasehold and Freehold Reform Act 2024 was the last bill to be passed before the general election, having received support from both parties. Six months have passed and the provisions relating to lease extensions and freehold purchases are still not in force.\nIt is estimated that hundreds of thousands of leaseholders are waiting for this legislation to be turned on and make good on its promise to make it “cheaper and easier” for them to extend their lease. In the meantime, many of these homeowners will be stuck in properties that they cannot sell or remortgage.\nThe government has now said that they will launch yet another consultation, on how to set the valuation rates which will define whether lease extensions become cheaper or more expensive. Frustratingly, they are delaying this consultation until “next summer”, and then have conceded that further legislation will have to be passed to put it into effect.\nBut as Darlington noted:\nFrom January onwards, they have promised to remove the “two-year rule” requiring leaseholders to have owned a property for two years before they can extend their lease. This change is uncontentious but also has limited benefit, because under the current legislation the seller of the property can start a lease extension and pass it to the buyer anyway.\nThey are missing a golden opportunity to put into force the other easier to implement benefits at the same time, such as allowing longer lease extensions to 990 years and removing the requirement for the leaseholder to pay the freeholder’s legal and valuation costs when doing a lease extension.\nJust implement the new legislation Labour have also promised to go further than the 2024 legislation passed under the Tories, and introduce a new draft bill next year. This will provide little comfort to those who have been waiting for the current legislation, because it will arguably serve as a distraction from the implementation of that.\nThe delay may be in part because seven groups of freeholders have launched legal proceedings against the government, on the basis that these reforms will infringe their human rights. It may be that the Government wants to see how this litigation plays out before they progress their legislative agenda further.\nDarlington concluded that:\nLeaseholders do not want further delay. The government should immediately implement those parts of the legislation that do not need further work or consultation, and consult immediately on those which do.\nFeatured image via the Canary",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news.sky.com/story/millions-remain-trapped-leaseholders-still-cash-cows-despite-update-on-abolishing-feudal-system-13257916",
+        "https://homehold.org/",
+        "https://www.homehold.org/",
+        "https://www.news.sky.com/story/millions-remain-trapped-leaseholders-still-cash-cows-despite-update-on-abolishing-feudal-system-13257916",
+        "https://homehold.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Labour Although Labour",
+                "sentiment": "none"
+            },
+            {
+                "name": "Labour Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:49:45.444+02:00",
+    "updated": "2024-11-23T00:49:45.444+02:00"
+}

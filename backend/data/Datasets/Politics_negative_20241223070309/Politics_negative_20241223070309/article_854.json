@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "9460ea93545c9dbd7dd76f958f4a5f8a50b1dd44",
+        "url": "https://www.thenews.com.pk/print/1254076-turkiye-dismisses-two-opposition-mayors-over-terrorism",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "Turkiye dismisses two opposition mayors over ‘terrorism’",
+        "title_full": "Turkiye dismisses two opposition mayors over ‘terrorism’",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254076_042153_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9460ea93545c9dbd7dd76f958f4a5f8a50b1dd44",
+    "url": "https://www.thenews.com.pk/print/1254076-turkiye-dismisses-two-opposition-mayors-over-terrorism",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Ag Afp",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "Turkiye dismisses two opposition mayors over ‘terrorism’",
+    "text": "ISTANBUL: Two opposition mayors in eastern Turkiye have been removed from office after being convicted of “terrorism” for belonging to a banned Kurdish militant group, the interior minister said on Friday. The mayors of Tunceli and Ovacik were each sentenced to six years and three months in prison this week for membership of the outlawed Kurdistan Workers´ Party (PKK), which has waged a guerilla insurgency against the Turkish state since 1984. Both were replaced by state-appointed administrators, the interior ministry said in a statement, in the latest ousting of politicians associated with Turkiye´s Kurdish minority. Tunceli´s deposed mayor Cevdet Konak, is a member of Turkiye´s main pro-Kurdish party. The Peoples´ Equality and Democracy party is regularly targeted by the authorities which accuse it of having links to the PKK, which is classified as a terrorist group by Ankara and its Western allies. Meanwhile Ovacik´s deposed mayor Mustafa Sarigul is affiliated with the main opposition Republican People´s Party (CHP), which came out on top in local elections held at the end of March. In late October and early November, the pro-Kurdish mayors of three towns in Turkiye´s Kurdish-majority southeast, as well the CHP mayor of Istanbul´s most populous district, were likewise dismissed on “terrorism” charges. US President-elect Donald Trump.— AFP/file NEW YORK: The judge in Donald Trump´s criminal hush money case ordered... Russian President Vladimir Putin conducts an exercise of Russia's strategic nuclear deterrence forces to train actions... Pantsir-S surface-to-air missile and anti-aircraft artillery systems move through Red Square in Moscow, Russia. —... The Iranian flag flutters in front of the International Atomic Energy Agency organisation's headquarters in Vienna,... Indian Prime Minister Narendra Modi listens as President Joe Biden, not pictured, delivers remarks during an event... A Taliban security personnel stands in Baraki Barak district of Logar Province. — AFP/fileKABUL: At least 10 people...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mustafa Sarigul",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cevdet Konak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kurdistan Workers´ Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "interior ministry",
+                "sentiment": "none"
+            },
+            {
+                "name": "PKK",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Tunceli",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ovacik",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:34:50.090+02:00",
+    "updated": "2024-11-23T01:37:15.644+02:00"
+}

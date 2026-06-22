@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "403e36047bd635c02253b5c2cce335d025e4c406",
+        "url": "https://www.noozhawk.com/county-hits-75-7-voter-turnout-in-latest-ballot-count",
+        "site_full": "www.noozhawk.com",
+        "site": "noozhawk.com",
+        "site_section": "https://www.noozhawk.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Home | Noozhawk",
+        "title": "County Hits 75.7% Voter Turnout in Latest Ballot Count",
+        "title_full": "County Hits 75.7% Voter Turnout in Latest Ballot Count",
+        "published": "2024-11-22T17:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 21682,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "403e36047bd635c02253b5c2cce335d025e4c406",
+    "url": "https://www.noozhawk.com/county-hits-75-7-voter-turnout-in-latest-ballot-count",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Giana Magnoli, Noozhawk Executive Editor",
+    "published": "2024-11-22T17:41:00.000+02:00",
+    "title": "County Hits 75.7% Voter Turnout in Latest Ballot Count",
+    "text": "Santa Barbara County reached 75.7% voter turnout in the latest ballot count from the Elections Office.\nWith three post-election night updates, and another 64,847 ballots counted, the overall results remain unchanged from the semi-official Nov. 5 totals . The same people are on track to earn seats, and ballot measures that were passing or failing in early results, still are.\nSanta Maria Mayor Alice Patino remains ahead in her re-election bid . She was ahead of second-place Diana Perez by more than 900 votes in early results, but with more city ballots counted, they are separated by only 105 votes.\nThursday’s update included 4,818 more ballots than last week’s count, and Michael Daly of the Elections Office reports another 2,900 provisional ballots left to process .\nThe county processed 185,432 ballots so far, which represents a 75.7% voter turnout. Elections officials expected twice the turnout of the March primary election (41.9%) and it’s a bit lower than that.\nSanta Barbara County hit a record-high for registered voters in this election. Voter turnout in the 2020 presidential general election was a record high of 86.5%.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://files.countyofsb.org/care/elections/results/2024november05/results-1.htm",
+        "https://www.countyofsb.org/164/Elections",
+        "https://countyofsb.org/164/Elections",
+        "https://www.files.countyofsb.org/care/elections/results/2024november05/results-1.htm"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Michael Daly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alice Patino",
+                "sentiment": "none"
+            },
+            {
+                "name": "Diana Perez",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Elections Office",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:56:04.591+02:00",
+    "updated": "2024-11-23T00:56:04.591+02:00"
+}

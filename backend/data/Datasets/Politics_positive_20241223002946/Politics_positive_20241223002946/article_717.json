@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "696d78c641dd79adeefb7446c7dbb7f82871415e",
+        "url": "https://english.mathrubhumi.com/news/india/congress-reaction-as-maharashtra-assembly-election-results-are-set-to-emerge-1.10102851",
+        "site_full": "english.mathrubhumi.com",
+        "site": "mathrubhumi.com",
+        "site_section": "https://english.mathrubhumi.com/just-in",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Mathrubhumi English | Breaking News Updates | Live News India | Kerala News | Just In",
+        "title": "'Will form govt':Congress state in-charge Chennithala confident of MVA's majority in Maharashtra",
+        "title_full": "'Will form govt':Congress state in-charge Chennithala confident of MVA's majority in Maharashtra",
+        "published": "2024-11-23T01:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://english.mathrubhumi.com/image/contentid/policy:1.5039765:1644607135/image.jpg?$p=0f6e831&f=16x9&w=1080&q=0.8",
+        "performance_score": 0,
+        "domain_rank": 27507,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "696d78c641dd79adeefb7446c7dbb7f82871415e",
+    "url": "https://english.mathrubhumi.com/news/india/congress-reaction-as-maharashtra-assembly-election-results-are-set-to-emerge-1.10102851",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@english_mathrubhumi",
+    "published": "2024-11-23T01:49:00.000+02:00",
+    "title": "'Will form govt':Congress state in-charge Chennithala confident of MVA's majority in Maharashtra",
+    "text": "23 November 2024, 07:49 AM IST 2 min read Read later Print Share More More MVA confident of forming Maharashtra government; EC lauds smooth polls with increased voter turnout. X Ramesh Chennithala | Photo: Ajith Panachikkal| Mathrubhumi\nNew Delhi: State Congress in-charge Ramesh Chennithala expressed confidence on Friday that the Maha Vikas Aghadi (MVA) would form the next government in Maharashtra with a majority. He emphasised that the Chief Minister's post would be determined only after the poll results are announced.\nTo advertise here, Contact Us “Maha Vikas Aghadi (MVA) will form the government in the state with a majority... The CM face will be decided after the results, and a discussion will be held,” Chennithala told ANI.\nGet Latest Mathrubhumi Updates in English Follow Channel Taking a swipe at the ruling Bharatiya Janata Party (BJP), Chennithala alleged that voters rejected what he termed the \"jod tod ki sarkar\" (government of defections).\nSmooth election process highlighted\nMaharashtra’s Chief Electoral Officer, S Chockalingam, commended the Election Commission of India (ECI) for its focused efforts in ensuring a successful polling process.\n“The Election Commission of India devoted significant focus, attention, and time to Maharashtra this time. Every strategy was meticulously conceptualised and implemented, leading to a substantial increase in the voter list between the Parliamentary elections and the current elections,” Chockalingam noted.\nHe highlighted the smooth voting experience in Mumbai, which faced challenges during previous elections, and celebrated the increased voter turnout.\n“A great deal of work has been done. The Election Commission thanks all voters who came out to vote, ensuring history was made. We achieved a 5 per cent increase in voter turnout. Nearly six lakh officers and employees worked diligently to facilitate voting and ensure the process was smooth,” he added.\nTough contest for BJP-led alliance\nThe BJP, aligned with Eknath Shinde’s Shiv Sena faction and Ajit Pawar’s Nationalist Congress Party (NCP), faces a stiff challenge from the opposition MVA coalition. The MVA consists of Congress, the Uddhav Thackeray-led Shiv Sena, and Sharad Pawar’s NCP.\nA majority in the 288-seat assembly requires at least 145 seats.\nWith ANI inputs",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Maha Vikas Aghadi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chennithala",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "MVA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:23:22.644+02:00",
+    "updated": "2024-11-23T05:07:14.490+02:00"
+}

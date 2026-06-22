@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "950b0b925fd27e45feaf54cabba514ea61c5e3d5",
+        "url": "https://www.mprnews.org/episode/2024/11/22/jury-finds-two-men-guilty-in-human-smuggling-trial",
+        "site_full": "www.mprnews.org",
+        "site": "mprnews.org",
+        "site_section": "https://mprnews.org/podcasts",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "MPR News Programs and Podcasts | MPR News",
+        "title": "Jury finds two men guilty in human smuggling trial; Legal challenge in election over candidate&apos;s home address",
+        "title_full": "Jury finds two men guilty in human smuggling trial; Legal challenge in election over candidate&apos;s home address",
+        "published": "2024-11-22T23:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.mprnews.org/mpr-news-940x788.png",
+        "performance_score": 0,
+        "domain_rank": 4004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "950b0b925fd27e45feaf54cabba514ea61c5e3d5",
+    "url": "https://www.mprnews.org/episode/2024/11/22/jury-finds-two-men-guilty-in-human-smuggling-trial",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MPR News",
+    "published": "2024-11-22T23:01:00.000+02:00",
+    "title": "Jury finds two men guilty in human smuggling trial; Legal challenge in election over candidate&apos;s home address",
+    "text": "Jury finds two men guilty in human smuggling trial; Legal challenge in election over candidate's home address\nGo Deeper.\nCreate an account or log in to save stories.\nLike this?\nThanks for liking this story! We have added it to a list of your favorite stories.\nThe jury in the federal human smuggling trial in Fergus Falls today returned\n[guilty verdicts](/story/2024/11/22/2-men-convicted-human-smuggling-indian-familys-death) on all counts against Hari Patel and Steve Shand.\nThe four Republican members of Minnesota's U.S. House delegation hope to influence President-elect Donald Trump's choices for federal appointments in the state.\nAnd\n[another legal challenge](/story/2024/11/22/republican-who-lost-minn-house-race-sues-claiming-democratic-winner-lives-outside-district) looms over a Minnesota House race in the knotted-up legislative chamber.\nThose stories and more in today’s evening update from MPR News. Hosted by Emily Reese. Music by Gary Meister.\nTurn Up Your Support\nMPR News helps you turn down the noise and build shared understanding. Turn up your support for this public resource and keep trusted journalism accessible to all.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gary Meister",
+                "sentiment": "none"
+            },
+            {
+                "name": "Emily Reese",
+                "sentiment": "none"
+            },
+            {
+                "name": "Steve Shand",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hari Patel",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:36:10.198+02:00",
+    "updated": "2024-11-28T10:35:14.953+02:00"
+}

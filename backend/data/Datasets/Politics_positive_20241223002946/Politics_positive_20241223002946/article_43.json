@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "3bf619903045845881236c376c617e87042c9df3",
+        "url": "https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education",
+        "site_full": "www.wnky.com",
+        "site": "wnky.com",
+        "site_section": "https://wnky.com",
+        "site_categories": [
+            "media",
+            "entertainment"
+        ],
+        "section_title": "WNKY - News, Weather &amp; Community for Bowling Green and SOKY.",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T00:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.wnky.com/content/uploads/2024/11/h/c/photo-resize-2024-11-22t160205529.jpg",
+        "performance_score": 0,
+        "domain_rank": 94679,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3bf619903045845881236c376c617e87042c9df3",
+    "url": "https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "WNKY Staff",
+    "published": "2024-11-23T00:02:00.000+02:00",
+    "title": "",
+    "text": "BOWLING GREEN, Ky. – Kentucky’s Lt. Gov. visited Bowling Green on Friday. Lt. Gov. Jacqueline Coleman, who is also a teacher from a family of nurses, attended events to honor the people in those two professions. At the Rural Health Association’s Conference, she shared a proclamation from Gov. Andy Beshear declaring today Rural Healthcare Day. At Western Kentucky University, she honored two teachers who were inducted into the Kentucky Teacher Hall of Fame. Both education and healthcare have seen worker shortages in recent years. Coleman says, “So it’s really important that we show gratitude for the people who show up for us every day. Right. And so in showing that gratitude, you elevate the respect of those professions and that entices more folks to go into it.” For 50 years, Arthur C. Hale taught math, chemistry and physics at Ohio County High School. Linda Kingsley taught English and coached speech and debate at Owensboro High School for 29 years. The two were inducted into the Kentucky Teacher Hall of Fame, which honors teachers from around the state. Its home is at WKU because of the university’s origin as a teacher’s college.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://twitter.com/share?url=https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/&text=Lt.%20Gov.%20Jacqueline%20Coleman%20visits%20Bowling%20Green%20to%20honor%20healthcare%20and%20education%20",
+        "http://www.facebook.com/sharer.php?u=https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/",
+        "http://reddit.com/submit?url=https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/&title=Lt.",
+        "http://www.linkedin.com/shareArticle?mini=true&url=https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/",
+        "http://facebook.com/sharer.php?u=https://wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/",
+        "http://twitter.com/share?url=https://wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/&text=Lt.%20Gov.%20Jacqueline%20Coleman%20visits%20Bowling%20Green%20to%20honor%20healthcare%20and%20education%20",
+        "http://reddit.com/submit",
+        "http://www.facebook.com/sharer.php?u=https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education",
+        "http://www.linkedin.com/shareArticle?mini=true&url=https://www.wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education",
+        "http://twitter.com/share",
+        "http://reddit.com/submit?url=https://wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/&title=Lt.",
+        "http://www.facebook.com/sharer.php",
+        "http://www.linkedin.com/shareArticle",
+        "http://linkedin.com/shareArticle?mini=true&url=https://wnky.com/lt-gov-jacqueline-coleman-visits-bowling-green-to-honor-healthcare-and-education/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jacqueline Coleman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Linda Kingsley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Arthur C. Hale",
+                "sentiment": "none"
+            },
+            {
+                "name": "Andy Beshear",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Western Kentucky University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rural Health Association",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ohio County High School",
+                "sentiment": "none"
+            },
+            {
+                "name": "Facebook Twitter",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:21:07.861+02:00",
+    "updated": "2024-11-23T00:51:16.600+02:00"
+}

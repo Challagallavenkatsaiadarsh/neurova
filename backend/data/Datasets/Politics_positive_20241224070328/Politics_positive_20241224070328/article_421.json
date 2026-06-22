@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "f23b48f341918dd62f7b3c5724085cc4f1e26c68",
+        "url": "https://www.thenews.com.pk/print/1254447-mass-rape-trial-sparks-demonstrations-across-france",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "Mass rape trial sparks demonstrations across France",
+        "title_full": "Mass rape trial sparks demonstrations across France",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-24/l_1254447_061416_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f23b48f341918dd62f7b3c5724085cc4f1e26c68",
+    "url": "https://www.thenews.com.pk/print/1254447-mass-rape-trial-sparks-demonstrations-across-france",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@AFP",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Mass rape trial sparks demonstrations across France",
+    "text": "PARIS: Thousands demonstrated in major French cities Saturday against violence targeting women, as campaigners push for the country to learn from a mass rape trial that has shocked the public.\nProsecutors will in the coming week ask the court in the southern city Avignon to sentence 51 men, one who drugged his wife over the course of a decade and dozens of others who accepted his invitations to abuse her at their home.\nOut on the street, “the more of us there are, the more visible we are, this is everyone´s business, not just women,” said Peggy Plou, a local elected official from the Indre-et-Loire region in western France who had made the trip to Paris.\nThousands of people marched in the capital alone, mostly women but including some children and men.\nAnd there were hundreds-strong demonstrations in other major cities including Marseille in the south, Lille in the northeast and Rennes in the northwest.\nMany demonstrators carried signs with variations on the slogan “shame must switch sides”, popularised by the plaintiff in the Avignon trial, Gisele Pelicot.\nShe has been celebrated for accepting public hearings in her case rather than a trial behind closed doors, despite their painful content.\n“A law about consent must be put in place very quickly. Just because someone doesn´t say something, doesn´t mean that they agree” to sexual contact, said Marie-Claire Abiker, 78, a retired nurse also marching in Paris.\nFrance´s legal definition of rape calls it “any act of sexual penetration... by violence, constraint, threats or surprise” but includes no language about consent -- a key demand of women´s rights groups especially since the MeToo movement launched in the late 2010s.\n“In 2018, there were basically only women (demonstrating). Today there are, let´s say, 30 percent men. That´s really great news,” said Amy Bah, a member of the NousToutes (all of us women) feminist group protesting in Lille.\n“I feel like this is my business too, we each have our role to play, especially men,” said Arnaud Garcette, 38, at the Marseille demonstration in the city´s touristy historic port with his two children.\nBoth executives have not discussed specific measures to keep TikTok running in United States\nEconomy has improved somewhat over past few months, and reason for this is IMF programme, says Humayun\nBessent, chief executive officer of Key Square Group, has called for extension of tax cuts from Trump’s first term\nChief of Malaysian Royal Air Force, who is of Pakistani origin, paid visit to his native Beir, Haripur, on Saturday\nLocal and official sources said first explosion took place in Irab area in jurisdiction of Loy Mamond Police Station\nCabinet Division has invited proposals from registered appraisers through PPRA’s modern EPADS system",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gisele Pelicot",
+                "sentiment": "none"
+            },
+            {
+                "name": "Peggy Plou",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Indre-et-Loire",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:46:33.978+02:00",
+    "updated": "2024-11-24T03:46:33.978+02:00"
+}

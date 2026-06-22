@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "aeba8062e09229ebf3f0c3d63020d2c4440cbe4a",
+        "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/11/23/thaksin-wins-big-legal-victory",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.thestar.com.my/news",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Malaysia News: National, ASEAN and World News | The Star",
+        "title": "Thaksin wins big legal victory | The Star",
+        "title_full": "Thaksin wins big legal victory | The Star",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aeba8062e09229ebf3f0c3d63020d2c4440cbe4a",
+    "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2024/11/23/thaksin-wins-big-legal-victory",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Thaksin wins big legal victory | The Star",
+    "text": "The country’s Constitutional Court dismissed a complaint against former premier Thaksin Shinawatra and his-family backed ruling party, a major reprieve for his daughter’s less than three-month old government.\nThe court will not proceed with a petition filed by an activist lawyer, it said in a statement yesterday.\nThe plea by Theerayuth Suwankaesorn – who was behind the dissolution of reformist Move Forward Party – sought an order against Thaksin and Pheu Thai Party to stop them from all alleged attempts to overthrow the democratic regime of government with the king as head of state.\nA two-time former prime minister, billionaire Thaksin is not a member of Pheu Thai party though he is considered its de facto leader.\nThailand’s most popular politician, Thaksin is widely seen as wielding significant influence in setting the direction for the government headed by his youngest daughter, Paetongtarn Shinawatra.\nFor now, the dismissal eases some risks of political uncertainty and investor angst in a country still recovering from the same court’s shock order to remove then prime minister Srettha Thavisin in an ethics violation case.\nThe Thai court had also disbanded Thailand’s largest opposition party Move Forward over its campaign to amend a law prohibiting defamation of the royal family.\nSince taking power in September, Paetongtarn’s new government has already come under legal scrutiny over her father’s alleged control over the ruling party and the Pheu Thai-led government.\nSeparately, the Election Commission has launched a probe into Thaksin’s alleged influence, based on a number of petitions filed by activists and Thaksin’s opponents.\nThe 75-year-old former leader returned to Thailand last year after 15 years in exile in what is seen as part of a deal with the royalist establishment to help conservative parties stay in power.\nSince serving a royally-commuted jail term, Thaksin has been actively campaigning for Pheu Thai in local elections while making policy proposals to the government to revive the nation’s ailing economy.\nBeing under the control or influence of a non-party member is grounds for dissolution under Thai law. — Bloomberg\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Thaksin Shinawatra",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Paetongtarn Shinawatra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sret",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pheu Thai Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:38:56.962+02:00",
+    "updated": "2024-11-23T02:38:56.962+02:00"
+}

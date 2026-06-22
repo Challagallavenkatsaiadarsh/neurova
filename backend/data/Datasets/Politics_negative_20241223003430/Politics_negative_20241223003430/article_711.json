@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "9e97439cfdb8cdd7f699c4f7c6a4d7bc032a774a",
+        "url": "https://johnmenadue.com/icc-arrest-warrants-demonstrate-urgent-need-for-australia-to-cut-ties-and-sanction-israel",
+        "site_full": "johnmenadue.com",
+        "site": "johnmenadue.com",
+        "site_section": "https://johnmenadue.com/feed",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Pearls and Irritations",
+        "title": "ICC arrest warrants demonstrate urgent need for Australia to cut ties and sanction Israel",
+        "title_full": "ICC arrest warrants demonstrate urgent need for Australia to cut ties and sanction Israel",
+        "published": "2024-11-22T08:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://johnmenadue.com/wp-content/uploads/2024/01/Australia-Israel.jpg",
+        "performance_score": 0,
+        "domain_rank": 61230,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9e97439cfdb8cdd7f699c4f7c6a4d7bc032a774a",
+    "url": "https://johnmenadue.com/icc-arrest-warrants-demonstrate-urgent-need-for-australia-to-cut-ties-and-sanction-israel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jewish Council of Australia",
+    "published": "2024-11-22T08:51:00.000+02:00",
+    "title": "ICC arrest warrants demonstrate urgent need for Australia to cut ties and sanction Israel",
+    "text": "Israel / Palestine,\nPolitics\nICC arrest warrants demonstrate urgent need for Australia to cut ties and sanction Israel\n[Nov 23, 2024]\nThe International Criminal Court has issued arrest warrants for the Israeli prime minister, Benjamin Netanyahu, and the country’s former defence minister Yoav Gallant for alleged war crimes relating to the Gaza war.\nIn light of these developments, and the worsening conditions imposed on Palestinians in Gaza, and the West Bank, the Jewish Council of Australia calls on the Government to immediately cut all military ties and place sanctions on Israel.\nThe Albanese Government must also place travel bans on those suspected of war crimes and clarify that it will arrest Netanyahu and Gallant if they enter Australia. These actions would be in line with Australia’s obligations under international law.\nDr Max Kaiser, Executive Officer, Jewish Council of Australia\n“Minister Wong’s statement today that the Australian Government respects the independence of the International Criminal Court is welcome but does not go far enough.\nIt is clear that Israel will not listen until there are consequences for its actions. The Australian Government has all the tools necessary at its disposal, including sanctions and travel bans on suspected war criminals, which it has deployed against Russia. All that is missing is the political will.\nWe welcome the Government banning the entry of former Israeli Justice Minister Ayelet Shaked, infamous for calling Palestinian children ‘little snakes’. Shaked was due to speak at a pro-war event in Australia organised by the Australia Israel & Jewish Affairs Council. Any event that platforms this kind of racism against Palestinians must be opposed by our elected leaders.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Max Kaiser",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wong",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ICC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "International Criminal Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:22:11.499+02:00",
+    "updated": "2024-11-23T01:22:11.499+02:00"
+}

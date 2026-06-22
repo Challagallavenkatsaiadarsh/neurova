@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "707f414b68262dd4689ae7c111f854efc3d2e522",
+        "url": "https://www.fijivillage.com/news/Tabuya-chairs-final-day-of-Asia-Pacific-Ministerial-Conference-urges-for-gender-equality-r584fx",
+        "site_full": "www.fijivillage.com",
+        "site": "fijivillage.com",
+        "site_section": "https://www.fijivillage.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Fijivillage",
+        "title": "Tabuya chairs final day of Asia-Pacific Ministerial Conference, urges for gender equality",
+        "title_full": "Tabuya chairs final day of Asia-Pacific Ministerial Conference, urges for gender equality",
+        "published": "2024-11-24T02:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://www.fijivillage.com/news_images/1951654931674276b1803b9762277b.jpg",
+        "performance_score": 0,
+        "domain_rank": 89316,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "707f414b68262dd4689ae7c111f854efc3d2e522",
+    "url": "https://www.fijivillage.com/news/Tabuya-chairs-final-day-of-Asia-Pacific-Ministerial-Conference-urges-for-gender-equality-r584fx",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "fijivillage",
+    "published": "2024-11-24T02:43:00.000+02:00",
+    "title": "Tabuya chairs final day of Asia-Pacific Ministerial Conference, urges for gender equality",
+    "text": "Minister for Women, Children, and Social Protection, Lynda Tabuya is urging for sustained efforts toward achieving gender equality and in promoting the empowerment of women and girls across the region.\nShe highlighted this as she chaired the final day of the Asia-Pacific Ministerial Conference on the Beijing+30 Review in Bangkok, Thailand and was tasked with the successful adoption of the review report and the closing session.\nThis highlighted Fiji's prominence in advancing gender equality and empowering women in the Asia-Pacific region.\nIn a statement by the Ministry, they say the conference gathered over 1200 delegates comprising ministers, senior officials, civil society organizations (CSOs), and development partners from across the region to evaluate progress and challenges in implementing the Women’s Beijing Declaration and Platform for Action over the past 30 years.\nThey add this collaborative platform allowed member states, CSOs, and stakeholders to build a regional consensus on priority actions needed to accelerate progress on the commitments made in the Beijing Declaration.\nMeanwhile, UNESCAP, UN Women, UNFPA, and their partners reaffirmed their dedication to fostering gender equality and empowering women and girls in the Asia-Pacific region.\nStay tuned for the latest news on our radio stations",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lynda Tabuya",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Social Protection",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Asia-Pacific",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:22:40.177+02:00",
+    "updated": "2024-11-29T09:04:59.799+02:00"
+}

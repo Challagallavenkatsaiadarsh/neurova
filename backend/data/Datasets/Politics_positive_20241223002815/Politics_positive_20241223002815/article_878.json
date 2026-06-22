@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "5df8600006acd7338e867074ba2c27deb1449e21",
+        "url": "https://aashtojournal.transportation.org/fra-issues-1-5b-in-northeast-corridor-rail-funding",
+        "site_full": "aashtojournal.transportation.org",
+        "site": "transportation.org",
+        "site_section": "https://aashtojournal.transportation.org",
+        "site_categories": [],
+        "section_title": "AASHTO Journal",
+        "title": "AASHTO Journal - FRA Issues $1.5B in Northeast Corridor Rail Funding",
+        "title_full": "AASHTO Journal - FRA Issues $1.5B in Northeast Corridor Rail Funding",
+        "published": "2024-11-23T01:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://aashtojournal.transportation.org/wp-content/uploads/2024/11/112224Amtrak1.jpg",
+        "performance_score": 0,
+        "domain_rank": 35377,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5df8600006acd7338e867074ba2c27deb1449e21",
+    "url": "https://aashtojournal.transportation.org/fra-issues-1-5b-in-northeast-corridor-rail-funding",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sean Kilcarr",
+    "published": "2024-11-23T01:11:00.000+02:00",
+    "title": "AASHTO Journal - FRA Issues $1.5B in Northeast Corridor Rail Funding",
+    "text": "The Federal Railroad Administration recently issued nearly $1.5 billion in passenger rail grants to 19 projects along the Northeast Corridor or NEC via its Federal-State Partnership for Intercity Passenger Rail or “Fed-State NEC” program.\n[Above photo by Amtrak]\nProjects funded by this round of grants will replace aging catenary structures susceptible to failures that contribute to travel delays; improve several signal systems necessary to increase capacity, operating speeds, and safety; and support planning activities to expand Washington Union Station in the nation’s capital, among other endeavors, to further reduce the state-of-good-repair backlog on the corridor.\nThis most recent tranche of NEC-focused funding builds on more than $16.4 billion in Fed-State NEC grants [issued in 2023](https://aashtojournal.transportation.org/fra-awards-more-than-16b-for-nec-rail-projects/) for projects along the corridor, such as the Gateway Program Hudson River Tunnel Project in New York and New Jersey; the Susquehanna River Bridge Replacement Program in Maryland; the Walk Bridge Replacement in Connecticut: and New York Penn Station Access Project.\n“FRA has now announced grants for all major backlog projects in our NEC Project Inventory,” said FRA Administrator Amit Bose in a [statement](https://railroads.dot.gov/about-fra/communications/newsroom/press-releases/investing-america-biden-harris-administration-4).\nGrants from this round of Fed-State NEC are supporting projects overseen by Amtrak, New York City’s Metropolitan Transportation Authority, the Southeastern Pennsylvania Transportation Authority, and the Connecticut Department of Transportation. The four Connecticut DOT passenger rail projects receiving FRA grants are:\n- The Hartford Station Relocation Project will receive more than $2.5 million to build a new Hartford train station and multimodal hub with associated realignment and double tracking of 2.1 miles of the New Haven-Hartford-Springfield corridor in Hartford.\n- The Cos Cob Bridge Replacement Planning Study will receive more than $6.4 million to explore options for replacement of the 120-year-old, movable Cos Cob Bridge over the Mianus River in Greenwich.\n- The Hartford Line Rail Program Double Track Phase 3B Project will receive $102 million to build track, signals, and grade crossings in three segments totaling 6.2 miles of the New Haven-Hartford-Springfield corridor. Work will focus on segments in West Hartford-Hartford, Windsor-Windsor Locks, and Enfield, CT, to add double- track and expand rail capacity, allowing more frequent future service and increased speeds.\n- The Track Improvement and Mobility Enhancement or “TIME-1” Project will receive $172 million to support the first phase of TIME-1, which includes the replacement of 88 catenary structures, addition of four new crossovers, and replacement of the Longbrook Avenue Roadway bridge along a three-mile segment of New Haven Line, between Bridgeport and Stratford.\n[\nNation\n](https://aashtojournal.transportation.org/state-dots-support-crash-responder-safety-week/)\n[State DOTs Support Crash Responder Safety Week](https://aashtojournal.transportation.org/state-dots-support-crash-responder-safety-week/)\nNovember 22, 2024\n[\nNation\n](https://aashtojournal.transportation.org/usdot-issues-172m-in-ss4a-program-grant-funds/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://railroads.dot.gov/about-fra/communications/newsroom/press-releases/investing-america-biden-harris-administration-4",
+        "https://www.railroads.dot.gov/about-fra/communications/newsroom/press-releases/investing-america-biden-harris-administration-4"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Federal-State Partnership for Intercity Passenger Rail",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amtrak",
+                "sentiment": "none"
+            },
+            {
+                "name": "NEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Susquehanna",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:23:49.974+02:00",
+    "updated": "2024-11-23T05:23:49.974+02:00"
+}

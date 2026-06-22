@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "a278673c08277926dd816d5de924f5afe294d1fd",
+        "url": "https://qz.com/trump-administration-treasury-secretary-bessent-soros-1851695630",
+        "site_full": "qz.com",
+        "site": "qz.com",
+        "site_section": "https://qz.com/rss",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Quartz",
+        "title": "Trump picks investment executive Scott Bessent for Treasury Secretary",
+        "title_full": "Trump picks investment executive Scott Bessent for Treasury Secretary",
+        "published": "2024-11-23T01:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/89b88119ae2f22e59609d82c5db3409c.jpg",
+        "performance_score": 0,
+        "domain_rank": 483,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a278673c08277926dd816d5de924f5afe294d1fd",
+    "url": "https://qz.com/trump-administration-treasury-secretary-bessent-soros-1851695630",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rocio Fabbro",
+    "published": "2024-11-23T01:53:00.000+02:00",
+    "title": "Trump picks investment executive Scott Bessent for Treasury Secretary",
+    "text": "In This Story\nPresident-elect Donald Trump has tapped former Soros Fund Management chief investment officer Scott Bessent as his next Treasury Secretary, according to multiple reports.\nOver the past few months, the hedge-fund manager has become Trump’s “go-to economic adviser,” earning Trump’s ear on a number of matters, according to The Wall Street Journal (NWSA-0.20%), which first reported the selection on Friday. Trump has yet to announce the nomination. Bessent has built friendly relationships with Trump family members and Vice President-elect J.D. Vance, and was one of the few to recommend Vance as his running mate, according to the publication.\nAnd the love has appeared to go both ways. In a speech last month, Trump called Bessent “one of the top analysts on Wall Street.” Bessent was also backed by several key Trump advisers, Bloomberg reported.\nThe pair met at Trump’s Mar-a-Lago resort last Friday, according to Bloomberg, but the conversation was not an interview for the Treasury role, people familiar with the process said. In an interview with CNBC last week, Bessent said that there had been “no discussions about jobs,” but that he will do whatever Trump asks.\nOver the years, the 62-year-old founder of Key Square Capital Management macro fund has donated millions to Republican causes, giving $1 million to Trump’s inaugural committee following the 2016 presidential election, per the Journal. In 2000, Bessent hosted a fundraiser for Democratic candidate and Vice President Al Gore.\nThis time around, Bessent was one of the few Wall Street names to throw his weight behind Trump’s campaign early on, at a time when executives were directing funding towards Republican contender Nikki Haley.\nTreasury Secretary is one of the highest-level cabinet positions, responsible for shaping national economic and tax policy. Bessent has shown he is aligned with with the president-elect on a number of economic policies, including his stance on cryptocurrency.\n“I have been excited about the president’s embrace of crypto and I think it fits very well with the Republican Party,” Bessent said in June. “Crypto is about freedom and the crypto economy is here to stay.”\nAmong other promises to the crypto industry on the campaign trail, Trump vowed to create a national Bitcoin reserve, as well as a “Bitcoin and crypto presidential advisory council.”\nIn an interview with Fox Business (FOXA+0.40%) prior to Election Day, Bessent said that the priority of the incoming Trump administration should be to extend or make permanent the Tax Cuts and Jobs Act. The Trump-era legislation, which slashed the corporate tax rate from 35% to 21%, is set to expire in 2025.\nBessent also touted markets’ positive response to Trump’s election win in an op-ed for the Journal published Sunday, which Bloomberg reported was well-received by Trump allies.\n“Asset prices are fickle, and long-term economic performance is the ultimate measuring stick,” Bessent wrote. “But recent days prove markets’ unambiguous embrace of the Trump 2.0 economic vision. Markets are signaling expectations of higher growth, lower volatility and inflation, and a revitalized economy for all Americans.”\nTrump had reportedly considered a slate of current and former finance industry executives, including John Paulson, a hedge-fund billionaire and founder of investment manager Paulson & Co., and Howard Lutnick, CEO of investment giant Cantor Fitzgerald and Trump transition team co-chair.\nPaulson removed himself from the running for Treasury pick in a statement to the Journal Tuesday. The investor cited “complex financial obligations” preventing him from holding an official role, but said that he intends to remain “actively involved with the President’s economic team and helping in the implementation of President Trump’s outstanding policy proposals.”\nIn the week since his election, Trump has already filled a number of high-level roles in his incoming administration. Trump tapped Florida Sen. Marco Rubio for Secretary of State Wednesday.\nOther picks include former Immigration Customs Enforcement director Tom Homan as the “border czar”; New York Rep. Elise Stefanik as nominee for ambassador to the United Nations; and Susie Wiles as chief of staff, the first woman ever appointed to the role.\nFormer adviser Stephen Miller was also named deputy chief of policy, attorney Lee Zeldin was picked to lead the Environmental Protection Agency, Florida Rep. Mike Waltz was tapped national security adviser, and South Dakota Gov. Kristi Noem was selected to run the Department of Homeland Security.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott Bessent",
+                "sentiment": "none"
+            },
+            {
+                "name": "J.D. Vance",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Soros Fund Management",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Wall Street Journal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a278673c08277926dd816d5de924f5afe294d1fd",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:17:59.488+02:00",
+    "updated": "2024-11-23T02:17:59.488+02:00"
+}

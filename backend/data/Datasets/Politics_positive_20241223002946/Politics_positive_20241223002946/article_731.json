@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "1da4a3bbeaa36c426c6f5643b83feb8309b356d8",
+        "url": "https://www.newsmax.com/finance/streettalk/bessent/2024/11/22/id/1189139",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://www.newsmax.com/rss/StreetTalk/8",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Newsmax Finance - Street Talk",
+        "title": "Trump to Name Bessent as Treasury Chief, Vought to Head Budget Office",
+        "title_full": "Trump to Name Bessent as Treasury Chief, Vought to Head Budget Office",
+        "published": "2024-11-23T00:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=4042df99-bbb2-4179-b7d7-56506c8943de&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2382,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1da4a3bbeaa36c426c6f5643b83feb8309b356d8",
+    "url": "https://www.newsmax.com/finance/streettalk/bessent/2024/11/22/id/1189139",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@newsmax",
+    "published": "2024-11-23T00:50:00.000+02:00",
+    "title": "Trump to Name Bessent as Treasury Chief, Vought to Head Budget Office",
+    "text": "Friday, 22 November 2024 07:22 PM EST\nPresident-elect Donald Trump announced Friday that he’ll nominate former George Soros money manager Scott Bessent, an advocate for deficit reduction, to serve as his next treasury secretary.\nTrump also said he would nominate Russell Vought to lead the Office of Management and Budget, a position Vought held during Trump’s first presidency.\nBessent, 62, is the founder of hedge fund Key Square Capital Management, after having worked on-and-off for Soros Fund Management since 1991. If confirmed by the Senate, he would be the nation’s first openly gay treasury secretary.\nHe told Bloomberg in August that he decided to join Trump’s campaign in part to attack the mounting U.S. national debt. That would include slashing government programs and other spending.\n“This election cycle is the last chance for the U.S. to grow our way out of this mountain of debt without becoming a sort of European-style socialist democracy,” he said then.\n© AFP 2024\nReceive breaking news and original analysis - sent right to your inbox.\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott Bessent",
+                "sentiment": "none"
+            },
+            {
+                "name": "George Soros",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Head Budget Office",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vought",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Office of Management and Budget",
+                "sentiment": "none"
+            },
+            {
+                "name": "Newsmax Health",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bloomberg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:32:13.787+02:00",
+    "updated": "2024-11-23T04:32:13.787+02:00"
+}

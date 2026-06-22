@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "ee92414f1cf755013da025162acd75e2a10d6285",
+        "url": "https://www.newsx.com/india/5-big-winners-from-todays-election-results-check-the-list",
+        "site_full": "www.newsx.com",
+        "site": "newsx.com",
+        "site_section": "https://newsx.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking Latest News Today | Today News Headlines | Latest English News | Top News in India - Newsx",
+        "title": "5 Big Winners From Today’s Election Results: Check The List",
+        "title_full": "5 Big Winners From Today’s Election Results: Check The List",
+        "published": "2024-11-23T19:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 64253,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ee92414f1cf755013da025162acd75e2a10d6285",
+    "url": "https://www.newsx.com/india/5-big-winners-from-todays-election-results-check-the-list",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Swastika Sruti",
+    "published": "2024-11-23T19:50:00.000+02:00",
+    "title": "5 Big Winners From Today’s Election Results: Check The List",
+    "text": "The BJP-led Mahayuti alliance achieved a sweeping victory in Maharashtra, while the Jharkhand Mukti Morcha (JMM)-led INDIA bloc made a strong comeback in Jharkhand as assembly election results were declared on Saturday.\nIn Maharashtra, the Mahayuti coalition—comprising the BJP, Shiv Sena, and Nationalist Congress Party (NCP)—secured 235 out of 288 seats, with the BJP winning 132 on its own. Speculation is rife that Deputy Chief Minister Devendra Fadnavis might take on the Chief Minister’s role for the third time.\nPrime Minister Narendra Modi, addressing the outcomes, remarked, “The key takeaway from Maharashtra after Haryana’s polls is unity; ‘ek hain to safe hain’ has become the nation’s mantra.”\n1. Milind Deora Constituency: Worli\nOutcome: A Close Contest\nMilind Deora, representing the Eknath Shinde-led Shiv Sena faction, narrowly lost to Aaditya Thackeray of the Shiv Sena (UBT) by just 9,000 votes. Deora’s campaign was notable for reigniting interest in a traditionally Thackeray stronghold, showcasing his appeal despite switching allegiances from the Congress.\n2. Sreejaya Chavan Constituency: Bhokar, Maharashtra\nOutcome: Retained the Chavan Legacy\nAshok Chavan’s daughter, Sreejaya Chavan, successfully held onto the Bhokar constituency, maintaining her family’s bastion with an impressive margin of 43,000 votes. Her victory reaffirms the influence of the Chavan legacy in Maharashtra politics, showcasing the enduring appeal of the Congress in this region.\n3. Hemant Soren State: Jharkhand\nOutcome: A Resilient Win\nHemant Soren defied odds to retain power in Jharkhand, even after facing a challenging period marked by corruption allegations and a brief jail term. Soren’s victory highlights the continued trust of tribal voters and his ability to weather political storms, reaffirming his position as a formidable regional leader.\n4. Varun Sardesai Constituency: Vandre East, Mumbai\nOutcome: A Decisive Victory\nRepresenting the Shiv Sena (UBT), Varun Sardesai defeated Zeeshan Siddique of the Ajit Pawar-led NCP faction by over 11,000 votes. Sardesai’s win is significant as he battled against a candidate with strong familial political connections and demonstrated the enduring loyalty to Uddhav Thackeray’s faction.\n5. Raj Thackeray While Raj Thackeray did not directly contest, the results vindicated his decade-long ideological stance. Uddhav Thackeray’s waning control over the Shiv Sena signals a shift that aligns closer to Raj’s long-held beliefs about the party’s identity. This ideological vindication could mark the beginning of his resurgence in Maharashtra politics.\nAlso Read: Milind Deora Loses Worli Battle: ‘People Will Judge Based On Governance, Not Distractions’",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Devendra Fadnavis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aaditya Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Milind Deora",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haryana",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:57:19.495+02:00",
+    "updated": "2024-11-24T00:57:19.495+02:00"
+}

@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "3d2d4175e67f7b1a0b40b34a245053ce71924658",
+        "url": "https://www.afa.org/mitchells-deptula-chilton-honored-for-historic-achievements",
+        "site_full": "www.afa.org",
+        "site": "afa.org",
+        "site_section": "https://www.afa.org",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "AFA&#039;s Mission - Air &amp; Space Forces Association",
+        "title": "Mitchell’s Deptula, Chilton Honored for Historic Achievements",
+        "title_full": "Mitchell’s Deptula, Chilton Honored for Historic Achievements",
+        "published": "2024-11-22T23:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": null,
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 45984,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3d2d4175e67f7b1a0b40b34a245053ce71924658",
+    "url": "https://www.afa.org/mitchells-deptula-chilton-honored-for-historic-achievements",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Patrick Reardon",
+    "published": "2024-11-22T23:42:00.000+02:00",
+    "title": "Mitchell’s Deptula, Chilton Honored for Historic Achievements",
+    "text": "ARLINGTON, Va.— The Air Force Historical Foundation (AFHF) awarded two senior leaders at AFA’s Mitchell Institute for Aerospace Studies for their contributions to Air and Space power.\nGen. Kevin P. Chilton, USAF (Ret.), the Explorer Chair for the Mitchell Institute’s Spacepower Advantage Center of Excellence (MI-SPACE), was awarded AFHF’s inaugural Lifetime Achievement for Space award. Chilton spent 11 years as a NASA astronaut advancing space exploration and technology, including the deployment of satellites crucial to national defense. He later commanded Air Force Space Command and U.S. Strategic Command.\n“I was both surprised and humbled by the announcement, especially for an inaugural award focused on Space,” Chilton said. “By creating this award, the Air Force Historical Foundation underscores Space’s pivotal role in our military history. It is an incredible honor to receive the award on behalf of all the giant pioneers of Space on whose shoulders I stand.”\nLt. Gen. David Deptula, USAF (Ret.), Dean of the Mitchell Institute, was honored with AFHF’s Gen. Carl “Tooey” Spaatz Award, which recognizes an individual’s lifetime contributions to Air Force or Space Force history. Among a litany of achievements noted by AFHF was Deptula’s authorship of the seminal Air Force White Paper, “Global Reach—Global Power,” and his instrumental role in developing the concept of “effects-based operations,” which he successfully applied in planning Operation Desert Storm’s air campaign.\n“For decades I’ve held the Air Force Historical Foundation in the highest regard for keeping aerospace history alive and relevant, so to receive their Spaatz Award is an honor of my lifetime,” said Deptula.\nDeptula was also recently selected as the Air Force ROTC Distinguished Alumnus for 2024. Criteria for this Air Force-wide award include earning a commission via Air Force ROTC, attaining the rank of lieutenant general or above, and the Silver Star or higher-precedence medal while attaining honorable recognition or distinction for an accomplishment with Air Force-wide significance.\nThe Air Force Historical Foundation will present the awards on May 22, 2025, at the Smithsonian National Air and Space Museum, Udvar-Hazy Center in the Space Hangar. View all the 2023-2024 award winners here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.maxwell.af.mil/News/Display/Article/3954415/holm-center-honors-former-isr-deputy-chief-of-staff-with-distinguished-alum-awa/",
+        "https://www.airandspaceforces.com/air-force-historical-foundation-reveals-winners-of-prestigious-awards/",
+        "https://www.airandspaceforces.com/air-force-historical-foundation-reveals-winners-of-prestigious-awards",
+        "https://airandspaceforces.com/air-force-historical-foundation-reveals-winners-of-prestigious-awards/",
+        "https://maxwell.af.mil/News/Display/Article/3954415/holm-center-honors-former-isr-deputy-chief-of-staff-with-distinguished-alum-awa/",
+        "https://www.maxwell.af.mil/News/Display/Article/3954415/holm-center-honors-former-isr-deputy-chief-of-staff-with-distinguished-alum-awa"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mitchell",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kevin P. Chilton",
+                "sentiment": "none"
+            },
+            {
+                "name": "David Deptula",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carl",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Air Force Historical Foundation",
+                "sentiment": "negative"
+            },
+            {
+                "name": "ell Institute for Aerospace Studies",
+                "sentiment": "none"
+            },
+            {
+                "name": "Air Force Space Command",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mitchell Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "USAF",
+                "sentiment": "none"
+            },
+            {
+                "name": "NASA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:47:39.140+02:00",
+    "updated": "2024-11-23T00:47:39.140+02:00"
+}

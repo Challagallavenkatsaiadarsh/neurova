@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "84280d641067d63e79273724b0f9cf035b91c5b3",
+        "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/cm-majhi-celebrates-odisha-state-day-at-iitf",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "CM Majhi celebrates Odisha State Day at IITF",
+        "title_full": "CM Majhi celebrates Odisha State Day at IITF",
+        "published": "2024-11-23T00:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-10-22%2Fk1ccezfc%2FANI_20241022032753.png?rect=0%2C70%2C600%2C315&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "84280d641067d63e79273724b0f9cf035b91c5b3",
+    "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/cm-majhi-celebrates-odisha-state-day-at-iitf",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-23T00:09:00.000+02:00",
+    "title": "CM Majhi celebrates Odisha State Day at IITF",
+    "text": "BHUBANESWAR: Chief Minister Mohan Charan Majhi celebrated ‘Odisha State Day’ at the 43rd India International Trade Fair (IITF) at Bharat Mandapam in New Delhi on Friday.\nHe said the programme will be of great help in promoting the rich art, culture and tradition of Odisha. “The unique handicrafts and handlooms of Odisha have gained international recognition. The India International trade fair is a great platform where people from across the country are getting the opportunity to know our art and craft,” he said.\nThe chief minister said Odisha will celebrate the 100th anniversary of the formation of the state in 2036. Prime Minister Narendra Modi has also given a clarion call to make India a developed country by 2047. “We are building a new and prosperous Odisha, which will be the growth engine of the developed India,” he said.\nMajhi visited the decked up ‘Odisha Mandap’ designed on the theme ‘Viksit Bharat, Viksit Odisha’ along with the stalls of handlooms, handicrafts and hand-made items by Mission Shakti groups. Special editions of the monthly magazines ‘Utkal Prasanga’ and ‘Odisha Review’ were released.\nOdissi and other folk dance forms were performed on this occasion. MLAs Akash Das Nayak, Irasish Acharya and special resident commissioner Ritu Arora and resident commissioner Vishal Gagan also attended.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mohan Charan Majhi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Odisha",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:38:52.685+02:00",
+    "updated": "2024-11-23T05:38:52.685+02:00"
+}

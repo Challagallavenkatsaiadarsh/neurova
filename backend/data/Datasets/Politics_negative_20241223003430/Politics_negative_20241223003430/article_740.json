@@ -1,0 +1,116 @@
+{
+    "thread": {
+        "uuid": "52a6ed3084423ec94ff67efb9499d3474802fc1a",
+        "url": "https://www.usnews.com/news/top-news/articles/2024-11-22/trump-plans-to-assemble-investigative-teams-to-look-into-2020-election-washington-post-reports",
+        "site_full": "www.usnews.com",
+        "site": "usnews.com",
+        "site_section": "https://www.usnews.com/news/top-news",
+        "site_categories": [
+            "social",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Top News",
+        "title": "Trump Plans to Assemble Investigative Teams to Look Into 2020 Election, Washington Post Reports",
+        "title_full": "Trump Plans to Assemble Investigative Teams to Look Into 2020 Election, Washington Post Reports",
+        "published": "2024-11-23T01:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.usnews.com/dims4/USNEWS/656e63a/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F41%2Fd1ca480b31f2e9fc93513117fe1b6a%2Ftag%3Areuters.com%2C2024%3Anewsml_LYNXMPEKAL0VR%3A12024-11-22T230754Z_1_LYNXMPEKAL0VR_RTROPTP_3_USA-TRUMP.JPG",
+        "performance_score": 0,
+        "domain_rank": 301,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52a6ed3084423ec94ff67efb9499d3474802fc1a",
+    "url": "https://www.usnews.com/news/top-news/articles/2024-11-22/trump-plans-to-assemble-investigative-teams-to-look-into-2020-election-washington-post-reports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-11-23T01:07:00.000+02:00",
+    "title": "Trump Plans to Assemble Investigative Teams to Look Into 2020 Election, Washington Post Reports",
+    "text": "Reuters\nFILE PHOTO: U.S. President-elect Donald Trump prepares to exit after viewing the launch of the sixth test flight of the SpaceX Starship rocket in Brownsville, Texas, U.S., November 19, 2024. Brandon Bell/Pool via REUTERS/File Photo\n(Reuters) - U.S. President-elect Donald Trump plans to assemble investigative teams at the Department of Justice to search for evidence in battleground states that fraud tainted the 2020 election, the Washington Post reported on Friday, citing a source.\nTrump, who won the 2024 election but lost the 2020 election to President Joe Biden, has falsely claimed that he lost the 2020 election due to extensive voter fraud, a view shared by millions of his supporters.\nTrump was indicted last year on federal charges for his attempts to overturn the election. The charges stemmed from an investigation by Special Counsel Jack Smith.\nThe Washington Post, citing two people close to Trump's transition team, reported that Trump plans to fire the entire team that worked with Smith.\n(Reporting by Jasper Ward; Editing by Ismail Shakil and Leslie Adler)\nCopyright 2024 Thomson Reuters .\nJoin the Conversation See Comments Tags: United States\nRead More",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ismail Shakil",
+                "sentiment": "none"
+            },
+            {
+                "name": "Leslie Adler",
+                "sentiment": "none"
+            },
+            {
+                "name": "Brandon Bell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jasper Ward",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jack Smith",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Justice",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington Post",
+                "sentiment": "none"
+            },
+            {
+                "name": "Reuters",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:25.098+02:00",
+    "updated": "2024-11-23T01:24:25.098+02:00"
+}

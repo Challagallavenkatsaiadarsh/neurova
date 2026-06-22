@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "41d874fba306fb739a2a46fff0671ef6cfa06735",
+        "url": "https://news.knowledia.com/in/en/articles/government-spending-to-combat-misinformation-jumped-massively-under-joe-f4790676ac9a22674294d3611eb09b83d242c8b3",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/in/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "Government spending to combat 'misinformation' jumped massively under Joe Biden",
+        "title_full": "Government spending to combat 'misinformation' jumped massively under Joe Biden",
+        "published": "2024-11-23T00:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "41d874fba306fb739a2a46fff0671ef6cfa06735",
+    "url": "https://news.knowledia.com/in/en/articles/government-spending-to-combat-misinformation-jumped-massively-under-joe-f4790676ac9a22674294d3611eb09b83d242c8b3",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Stephen Dinan",
+    "published": "2024-11-23T00:25:00.000+02:00",
+    "title": "Government spending to combat 'misinformation' jumped massively under Joe Biden",
+    "text": "The Biden administration has spent more than a quarter of a billion dollars to study and police \"misinformation,\" according to a report released Friday. OpenTheBooks, a spending watchdog, said the federal government has spent $267 million since 2021 on contracts and research grants that include the term \"misinformation\" in the proposals. During the Trump administration, $7 million was spent on grants involving misinformation.\nThat works out to a 44-fold increase in spending under President Biden in an area where even experts disagree over what constitutes misinformation and its cousins, disinformation and mal-information.\nMuch of the spending under Mr. Biden went toward studying information about the coronavirus and Americans' response to the pandemic. Programs also included broader attempts to combat what the government deems misinformation. One U.S. university walked away with nearly $250,000 to construct misinformation \"escape rooms\" at libraries.\nOpenTheBooks argued that it's a fool's errand.\n\"Learning to think critically and discern truth from lies is an important life skill, but the federal government has proven it is not capable of addressing that need responsibly. It's the worst possible arbiter of truth, as it were, because it makes the state a gatekeeper of speech,\" the group said in its report.\nOpenTheBooks examined spending dating back to fiscal 2017, which roughly coincides with the start of Mr. Trump's first term in office.\nIt tallied $274 million in total spending, including less than $500,000 that first year and no more than $3 million in the subsequent three years under Mr. Trump.\nMisinformation spending soared in 2021, when Mr. Biden took office, with $126 million spent — chiefly on pandemic-related projects. It has steadily dropped…\nStephen Dinan",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.washingtontimes.com/news/2024/nov/22/government-spending-combat-misinformation-jumped-m/",
+        "https://washingtontimes.com/news/2024/nov/22/government-spending-combat-misinformation-jumped-m/",
+        "https://www.washingtontimes.com/news/2024/nov/22/government-spending-combat-misinformation-jumped-m"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Biden",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:04.778+02:00",
+    "updated": "2024-11-23T00:50:04.778+02:00"
+}

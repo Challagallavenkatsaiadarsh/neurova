@@ -1,0 +1,68 @@
+{
+    "thread": {
+        "uuid": "07247bf3f0ff9c849521e67fe11a87f6337f00e7",
+        "url": "https://en.apa.az/america/us-will-unveil-new-export-restrictions-on-china-453976",
+        "site_full": "en.apa.az",
+        "site": "apa.az",
+        "site_section": "https://en.apa.az/asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "APA.AZ- Latest news from Azerbaijan and the world",
+        "title": "US will unveil new export restrictions on China",
+        "title_full": "US will unveil new export restrictions on China",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AZ",
+        "main_image": "https://en.apa.az/storage/news/2024/november/23/resize/674101a880526674101a8805271732313512674101a880524674101a880525.png",
+        "performance_score": 0,
+        "domain_rank": 26552,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "07247bf3f0ff9c849521e67fe11a87f6337f00e7",
+    "url": "https://en.apa.az/america/us-will-unveil-new-export-restrictions-on-china-453976",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Apa.az",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "US will unveil new export restrictions on China",
+    "text": "President Joe Biden's administration is expected to announce new trade curbs targeting China as soon as next week, according to an email from the U.S. Chamber of Commerce, APA reports citing Reuters. Under the new rules, up to 200 Chinese chip companies will be added to a trade restriction list that prohibits most U.S. suppliers from shipping goods to the targeted firms, as per the email seen by Reuters. According to the Chamber of Commerce's email, the U.S. Department of Commerce is expected to publish the new regulations \"prior to the Thanksgiving break\" next Thursday. The U.S. Chamber of Commerce and the Commerce Department did not immediately respond to requests for comment from Seeking Alpha. The new export restrictions would come at a time when trade with China is already in the spotlight, following Donald Trump's U.S. election win earlier this month. Trump has promised more tariffs against China and other countries. His first term was marked by a prolonged trade war with the Asian giant.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:49:39.494+02:00",
+    "updated": "2024-11-23T01:56:15.776+02:00"
+}

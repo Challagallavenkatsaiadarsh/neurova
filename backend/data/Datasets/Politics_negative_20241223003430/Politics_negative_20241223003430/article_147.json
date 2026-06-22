@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "9a61674021274fb8559c6c090a9f005ad17b0e42",
+        "url": "https://yellowhammernews.com/were-not-going-to-surrender-john-wahl-responds-to-extremist-label-over-library-dispute",
+        "site_full": "yellowhammernews.com",
+        "site": "yellowhammernews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "'We're not going to surrender': John Wahl responds to 'extremist' label over library dispute",
+        "title_full": "'We're not going to surrender': John Wahl responds to 'extremist' label over library dispute",
+        "published": "2024-11-22T23:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://yellowhammernews.com/wp-content/uploads/2024/09/John-Wahl-Alabama-Public-Library-Service.jpg",
+        "performance_score": 0,
+        "domain_rank": 42618,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9a61674021274fb8559c6c090a9f005ad17b0e42",
+    "url": "https://yellowhammernews.com/were-not-going-to-surrender-john-wahl-responds-to-extremist-label-over-library-dispute",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Yaffee",
+    "published": "2024-11-22T23:35:00.000+02:00",
+    "title": "'We're not going to surrender': John Wahl responds to 'extremist' label over library dispute",
+    "text": "Alabama Republican Party Chair (ALGOP) and Alabama Public Library Board (ALPS) Chair John Wahl defended himself Friday against attacks by activist groups who accuse him of being an “extremist” over new rules surrounding what’s available for children in public libraries.\nAccording to AL.com, Angie Hayden, founder of Read Freely Alabama, believes they need to do a better job pushing back against “extremists” like Wahl.\n“That is where we need to be better,” she said. “I think we are afraid to be loud. If you’re in a room with one of them, you won’t look like one of the irrational ones.”\nWahl responded to the accusations Friday on WVNN’s “The Yaffee Program.”\n“As a 38 year old, full grown man, I was not ready for some of the things that parents have brought in to show me what is in not a young adult section, but in children sections. We’re talking about books that are designed for five year olds, six year olds, how to transition, what the body goes through, explicitly sexual content,” Wahl said. “And as I sit there and I want to crawl under the table, I’m like, ‘In whose mind is this okay for young children to read?’”\n“I want to make this clear, if protecting our children and standing up for their innocence and for the for the values of the people of Alabama is ‘radical’ — then I embrace that title with pride,” he added.\nThe ALPS Chair pointed out that wanting to protect children is not censorship.\n“One of the saddest things for me is when I’m called a enemy of the library or a book banner, because you you will not find someone who respects the First Amendment more than I do. I genuinely believe in free speech,” he argued. “I don’t want to see censorship. And let’s be clear that the party, if we want to go partisan, the party of censorship, is the Democrat Party. They’re the ones who want to limit free speech. They’re the ones who want to limit resistance against that forced COVID vaccine. They’re the ones who want to actually stop a presidential candidate from being on the ballot. We’re talking about sinister forces who want to silence anyone who disagrees with their agenda.”\nRELATED: John Wahl elected as Alabama Public Library Service chairman, vows to protect children and promote reading\nWahl said the true extremists are the ones who want to make sexually explicit material available for young children.\n“The extremists are not the board members who are trying to make sure that Alabama families are safe and the parents can trust their libraries,” he said. “The extremists are those who want to radically change the definition of what sexually explicit is, and want to force this agenda on our children. And they are not just extreme. They’re also destroying the reputation of our libraries across the state of Alabama and across the country. Parents are losing faith in their libraries. They’re losing trust and that their children will be safe in children’s sections, and this, this new agenda, is literally tearing our libraries apart and destroying their reputation, their trust with the public.”\nYaffee is a contributing writer to Yellowhammer News and hosts “The Yaffee Program” weekdays 9-11 a.m. on WVNN . You can follow him on X @Yaffee",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.al.com/news/2024/11/extremists-alabama-gop-chair-anti-censorship-group-blast-each-other-over-libraries.html",
+        "https://www.wvnn.com/the-yaffee-program-m-f-9-11-am/",
+        "https://twitter.com/Yaffee",
+        "https://www.wvnn.com/the-yaffee-program-m-f-9-11-am",
+        "https://wvnn.com/the-yaffee-program-m-f-9-11-am/",
+        "https://www.twitter.com/Yaffee",
+        "https://al.com/news/2024/11/extremists-alabama-gop-chair-anti-censorship-group-blast-each-other-over-libraries.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "John Wahl",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Angie Hayden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Alabama Public Library Board",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Alabama Republican Party",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:17:55.694+02:00",
+    "updated": "2024-11-23T02:57:50.913+02:00"
+}

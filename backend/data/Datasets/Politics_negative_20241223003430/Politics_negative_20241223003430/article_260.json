@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "68ce59967e761134c593eae2ce83fc478a6e5459",
+        "url": "https://www.wesa.fm/politics-government/2024-11-22/pennsylvania-education-secretary-khalid-mumin-resigns",
+        "site_full": "www.wesa.fm",
+        "site": "wesa.fm",
+        "site_section": "https://www.wesa.fm/health-science-tech",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Health, science &amp; tech news for Pittsburgh and Pennsylvania | 90.5 WESA",
+        "title": "Pennsylvania Education Secretary Khalid Mumin resigns, replacement announced",
+        "title_full": "Pennsylvania Education Secretary Khalid Mumin resigns, replacement announced",
+        "published": "2024-11-22T23:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/396f031/2147483647/strip/true/crop/2048x1075+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fa7%2F05%2F5b1b6ca64b4ea9b1e616f597939c%2Fpennsylvania-education-secretary-harrisburg-official-khalid-mumin-school-student-capitol-gov-josh-shapiro.jpg",
+        "performance_score": 0,
+        "domain_rank": 19668,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "68ce59967e761134c593eae2ce83fc478a6e5459",
+    "url": "https://www.wesa.fm/politics-government/2024-11-22/pennsylvania-education-secretary-khalid-mumin-resigns",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tom Riese",
+    "published": "2024-11-22T23:10:00.000+02:00",
+    "title": "Pennsylvania Education Secretary Khalid Mumin resigns, replacement announced",
+    "text": "Pennsylvania Education Secretary Khalid Mumin resigns, replacement announced\nThe state’s Department of Education will have a new secretary starting in early December. Khalid Mumin gave his two weeks' notice Friday afternoon.\n“It has been the honor of a lifetime to serve as Pennsylvania’s Secretary of Education,” Mumin said in a statement. “I began my career as a teacher in a classroom, and those early experiences watching students get excited about learning inspired me to become a principal, a superintendent, and ultimately Secretary of Education, so I could continue to fight for those students to get more support and more opportunities.”\nMumin [visited Pittsburgh this spring](https://www.wesa.fm/education/2024-05-23/after-five-years-of-financial-recovery-penn-hills-school-district-has-a-stable-picture-ahead) to announce that Penn Hills School District had navigated its way out of financial hardship. And in September, Mumin’s department awarded Allegheny County schools just shy of[ $11 million for environmental repairs](https://www.wesa.fm/education/2024-09-11/school-environmental-repairs-allegheny-county).\nA Philadelphia native, Mumin has led the Education Department since June 2023. He'd previously been a superintendent of two southeastern Pennsylvania districts — Reading and Lower Merion.\nIn a statement, Gov. Josh Shapiro thanked Mumin for delivering on the universal free breakfast program for more than 1 million students and investing in career and technical education. He led the department with “passion and integrity,” Shapiro added. The governor did not say where Mumin would work next. The Department of Education would also not share further details Friday.\nIn Mumin’s place will be department Secretary Angela Fitterer, a former deputy chief of staff for Gov. Tom Wolf and policy advisor for the state House. Mumin’s final day as Secretary will be Dec. 6.\nDemocratic Senate Education Committee leader Lindsey Williams of Allegheny County said she’s grateful Mumin increased support for student mental health. Williams added Mumin’s successor “must be prepared to defend Pennsylvania students’ constitutional right to a high-quality inclusive public education” given the incoming administration of Donald Trump.\n“It's hard to last an entire term in a cabinet position that's as high-impact as secretary of education,” said Republican House Education Committee leader Rep. Jesse Topper of Bedford County. “Overall I think he gave a good effort.”\nTopper, who Republican House members recently [named as their next leader](https://www.wesa.fm/politics-government/2024-11-13/pennsylvania-house-republicans-new-leader-jesse-topper), said he worked alongside interim Secretary Fitterer on the bipartisan Basic Education Funding Commission: “She’s very capable to fill in this spot right now.”\nPittsburgh state Rep. Aerion Abney, member of the state House education committee and [Allegheny County chair](https://www.wesa.fm/politics-government/2024-11-19/pittsburgh-state-rep-aerion-abney-to-lead-allegheny-county-house-delegation), said his time in Harrisburg intersected with Mumin’s over the past two years: “I’ve come to know the secretary well.”\n“[Mumin’s] commitment to connecting future generations with the tools and resources needed to apply themselves to their fullest potential inside and outside of the classroom is second to none,” Abney said in a statement to WESA. “Good luck to him in all his future endeavors.”\nAbney said he’s confident Fitterer will “[continue] the mission to keep the playing field level for young Pennsylvanians and help prepare them for the next stage of their lives.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Education",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Khalid Mumin",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Allegheny County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:31:08.390+02:00",
+    "updated": "2024-11-23T19:41:29.903+02:00"
+}

@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "a6a6f294b667b8ee5e581c2baf64cf9a9d2527a8",
+        "url": "https://pakistan.shafaqna.com/EN/279116",
+        "site_full": "pakistan.shafaqna.com",
+        "site": "shafaqna.com",
+        "site_section": "https://pakistan.shafaqna.com/en/category/pakistan",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Pakistan 15th most powerful military in world &#8211; Pakistan Shia News Agency",
+        "title": "Mass protests in France condemn violence against women – Pakistan Shia News Agency",
+        "title_full": "Mass protests in France condemn violence against women – Pakistan Shia News Agency",
+        "published": "2024-11-24T03:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 30191,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a6a6f294b667b8ee5e581c2baf64cf9a9d2527a8",
+    "url": "https://pakistan.shafaqna.com/EN/279116",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tauqeer Abbas",
+    "published": "2024-11-24T03:00:00.000+02:00",
+    "title": "Mass protests in France condemn violence against women – Pakistan Shia News Agency",
+    "text": "Over 400 French organizations have called for nationwide protests on Saturday to denounce violence against women. The demonstrations follow the shocking Pelicot mass rape trial, where 50 men stand accused of assaulting Gisèle Pelicot, who was allegedly drugged and unconscious, at the behest of her husband.\nThousands of protesters gathered in major French cities, demanding stronger action against gender-based violence. Activists have urged the country to draw lessons from the highly publicized trial, which has sparked outrage across France.\nIn the coming week, prosecutors in the southern city of Avignon will seek sentences for 51 men, including one who drugged his wife for over a decade, inviting others to abuse her in their home.\n“The more people join us, the louder our message becomes. This fight is for everyone, not just women,” said Peggy Plou, a local official from the Indre-et-Loire region, who traveled to Paris to participate in the protests.\nThousands of people marched in the capital alone, mostly women including some children and men.\nThere were hundreds of strong demonstrations in other major cities including Marseille in the south, Lille in the northeast, and Rennes in the northwest.\nMany demonstrators carried signs with variations on the slogan “shame must switch sides”, popularised by the plaintiff in the Avignon trial, Gisele Pelicot.\nShe has been celebrated for accepting public hearings in her case rather than a trial behind closed doors, despite their painful content.\n“A law about consent must be put in place very quickly. Just because someone doesn’t say something, doesn’t mean that they agree” to sexual contact, said Marie-Claire Abiker, 78, a retired nurse also marching in Paris.\nFrance’s legal definition of rape calls it “any act of sexual penetration… by violence, constraint, threats or surprise” but includes no language about consent — a key demand of women’s rights groups especially since the MeToo movement launched in the late 2010s.\n“In 2018, there were only women (demonstrating). Today there are, let’s say, 30 percent men. That’s great news,” said Amy Bah, a member of the NousToutes (all of us women) feminist group protesting in Lille.\n“I feel like this is my business too, we each have our role to play, especially men,” said Arnaud Garcette, 38, at the Marseille demonstration in the city’s touristy historic port with his two children.\n“We’re at the source of the problem, and at the source of the solutions too,” he added.\nThe demonstrations called out by more than 400 campaign groups come two days before Monday, the International Day for the Elimination of Violence Against Women.\nEquality Minister Salima Saa has promised “concrete and effective” measures to coincide with the global day.\nSource: Dunya News\n<div",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gisèle Pelicot",
+                "sentiment": "none"
+            },
+            {
+                "name": "Peggy Plou",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Indre-et-Loire",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:18:56.326+02:00",
+    "updated": "2024-12-05T14:42:43.489+02:00"
+}

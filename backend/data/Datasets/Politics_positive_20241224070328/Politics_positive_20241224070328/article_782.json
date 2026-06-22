@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "69a9a3c2a664c35d6a972b971f1579e2a8fe60a8",
+        "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-govt-appoints-ips-officer-kailash-makwana-as-dgp",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "http://www.freepressjournal.in/feed/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Free Press Journal",
+        "title": "Madhya Pradesh Govt Appoints IPS Officer Kailash Makwana As DGP",
+        "title_full": "Madhya Pradesh Govt Appoints IPS Officer Kailash Makwana As DGP",
+        "published": "2024-11-24T01:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2024-11-24/s0ws9kfv/WhatsApp-Image-2024-11-24-at-8.48.48-AM.jpeg",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "69a9a3c2a664c35d6a972b971f1579e2a8fe60a8",
+    "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-govt-appoints-ips-officer-kailash-makwana-as-dgp",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Reporter",
+    "published": "2024-11-24T01:29:00.000+02:00",
+    "title": "Madhya Pradesh Govt Appoints IPS Officer Kailash Makwana As DGP",
+    "text": "Madhya Pradesh Govt Appoints IPS Officer Kailash Makwana As DGP After Madhya Pradesh CM Mohan Yadav went on a foreign trip, the Home Department issued orders in this regard late Saturday night. Staff Reporter Updated: Sunday, November 24, 2024, 09:59 AM IST\nOfficer Kailash Makwana | Bhopal (Madhya Pradesh): The Madhya Pradesh Government has appointed 1988 batch IPS Officer Kailash Makwana as DGP (Director General of Police). He will take charge on December 1, 2024.\nAfter Madhya Pradesh CM Mohan Yadav went on a foreign trip, the Home Department issued orders in this regard late Saturday night. He will replace the current DGP Sudhir Saxena. Notably, DGP Sudhir Saxena is retiring on 30 November 2024.\nRead Also Madhya Pradesh Political Punch: Stoic Silence, Birthday Politics, Lure Of Lucre, Chaotic Congress &... Meeting in Delhi over selection of new DGP\nUPSC selection committee held a meeting in Delhi on Thursday over the appointment of a new Director General of Police (DGP) for Madhya Pradesh. Among them, the name of 1988 batch IPS Kailash Makwana was at the top. After this, the names of 1988 batch IPS and DG Home Guard Arvind Kumar and 1989 batch IPS and DG EOW Ajay Sharma were included.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kailash Makwana",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Shivraj Singh Chouhan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sudhir Saxena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohan Yadav",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:40:27.140+02:00",
+    "updated": "2024-11-24T09:44:44.955+02:00"
+}

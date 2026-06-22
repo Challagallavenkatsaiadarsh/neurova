@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "d7872899472f7d71b3fee6388e2f0bcbe6617abf",
+        "url": "https://www.dimsumdaily.hk/sec-commissioner-uyeda-advocates-for-regulatory-clarity-in-crypto-ahead-of-potential-leadership-role",
+        "site_full": "www.dimsumdaily.hk",
+        "site": "dimsumdaily.hk",
+        "site_section": "https://www.dimsumdaily.hk",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Home - Dimsum Daily",
+        "title": "SEC Commissioner Uyeda advocates for regulatory clarity in crypto ahead of potential leadership role",
+        "title_full": "SEC Commissioner Uyeda advocates for regulatory clarity in crypto ahead of potential leadership role",
+        "published": "2024-11-23T04:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "HK",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 87506,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d7872899472f7d71b3fee6388e2f0bcbe6617abf",
+    "url": "https://www.dimsumdaily.hk/sec-commissioner-uyeda-advocates-for-regulatory-clarity-in-crypto-ahead-of-potential-leadership-role",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T04:26:00.000+02:00",
+    "title": "SEC Commissioner Uyeda advocates for regulatory clarity in crypto ahead of potential leadership role",
+    "text": "23rd November 2024 – (New York) United States Securities and Exchange Commission (SEC) Commissioner Mark Uyeda has voiced his commitment to enhancing regulatory clarity for cryptocurrencies if appointed as the agency’s next chair. In an interview with Fox Business on 22nd November, Uyeda aligned himself with several views of President-elect Donald Trump, criticising the current SEC leadership under Gary Gensler for what he termed a “war on crypto.” Gensler is set to step down from his role on 20th January, coinciding with Trump’s inauguration.\nUyeda highlighted the necessity for regulatory clarity, asserting, “From a regulatory perspective, we can provide the appropriate clarity. Some crypto is not even a security at all, but we need to clarify whether you fall within SEC jurisdiction or not.” Speculation surrounds Uyeda as a potential candidate for the SEC chair position, although Trump has yet to announce any definitive appointments for the role.\nIn his remarks, Uyeda proposed the idea of creating regulatory sandboxes for cryptocurrency projects to stimulate innovation within the United States. He acknowledged that any regulatory shifts would require cooperation with both Congress and the White House to ensure a “cohesive and comprehensive approach.” He emphasised the significant work required to address what he sees as regulatory excesses both at the SEC and across other administrative agencies.\nWhile Uyeda did not explicitly confirm his interest in the leadership position, fellow contender Dan Gallagher reportedly expressed disinterest in the role just hours before Uyeda’s comments. Uyeda was nominated to the SEC by President Joe Biden in 2022 and re-nominated for a second term in 2023, during which time he has been critical of the agency’s enforcement actions against cryptocurrency firms, citing a lack of clear regulatory guidelines.\nThe SEC also reported on 22nd November that it had initiated 583 enforcement actions in the current fiscal year, resulting in approximately $8.2 billion in financial penalties. Notable cases included allegations of Ponzi schemes involving HyperFund and Novatech, as well as accusations of “false and misleading disclosures to investors” related to crypto exposure by Silvergate Capital.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Uyeda",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Gary Gensler",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United States Securities and Exchange Commission",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:52:50.744+02:00",
+    "updated": "2024-11-23T04:52:50.744+02:00"
+}

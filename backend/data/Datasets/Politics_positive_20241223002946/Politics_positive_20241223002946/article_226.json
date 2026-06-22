@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "e7edfe57187bb9b7e44b43b150e218b0f351f47c",
+        "url": "https://www.newsbreak.com/krqe-news-13-1589935/3686140250209-department-of-housing-and-urban-development-opens-new-c-a-r-e-center-in-albuquerque",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/albuquerque-nm",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Albuquerque, NM Local News and More | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T22:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/1erGTo_0wyEfYIk00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7edfe57187bb9b7e44b43b150e218b0f351f47c",
+    "url": "https://www.newsbreak.com/krqe-news-13-1589935/3686140250209-department-of-housing-and-urban-development-opens-new-c-a-r-e-center-in-albuquerque",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T22:51:00.000+02:00",
+    "title": "",
+    "text": "By Audrey Claire Davis ,\n2 hours ago\nALBUQUERQUE, N.M. (KRQE) – The U.S. Department of Housing and Urban Development (HUD) has launched a HUD C.A.R.E. Center in Albuquerque in hopes of enhancing its customer service model and hiring more people who are eligible for HUD services. The C.A.R.E. Center, which stands for the Customer Assistance and Resident Engagement Center, is the second one of its kind, with four centers total set to soon be open in the United States.\nBernalillo County Animal Care Services begins reconstruction phase after discovery of mold “Our HUD C.A.R.E. Initiative, along with our effort to be partners with local Job Corps Centers here, will improve our customer service and create pathways to meaningful employment for those we serve. Together, we are building a brighter future – one where economic opportunity and support are accessible to all,” said Peter A. Hunter, HUD Office of Field Policy and Management Assistant Deputy Secretary.\nThrough the C.A.R.E. Centers, HUD hopes to send fewer customer service calls to voicemail, improve its organizational data, and build a more inclusive and skilled workforce.\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to KRQE NEWS 13 - Breaking News, Albuquerque News, New Mexico News, Weather, and Videos.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.hud.gov/CARE",
+        "https://www.krqe.com",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1erGTo_0wyEfYIk00",
+        "https://www.krqe.com/tag/albuquerque/?ipid=dateline",
+        "https://img.particlenews.com/image.php?url=1erGTo_0wyEfYIk00",
+        "https://www.krqe.com/news/albuquerque-metro/bernalillo-county-animal-care-services-begins-reconstruction-phase-after-discovery-of-blamold/?ipid=promo-link-block1",
+        "https://krqe.com/news/albuquerque-metro/bernalillo-county-animal-care-services-begins-reconstruction-phase-after-discovery-of-blamold/?ipid=promo-link-block1",
+        "https://www.krqe.com/tag/albuquerque/",
+        "https://img.particlenews.com/image.php",
+        "https://hud.gov/CARE",
+        "https://krqe.com",
+        "https://www.krqe.com/news/albuquerque-metro/bernalillo-county-animal-care-services-begins-reconstruction-phase-after-discovery-of-blamold/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1erGTo_0wyEfYIk00",
+        "https://krqe.com/tag/albuquerque/?ipid=dateline",
+        "https://www.img.particlenews.com/image.php?url=1erGTo_0wyEfYIk00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Audrey Claire Davis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Peter A. Hunter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bernalillo County Animal Care Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "HUD C.A.R.E. Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "C.A.R.E. Centers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:19:25.531+02:00",
+    "updated": "2024-11-23T01:19:25.531+02:00"
+}

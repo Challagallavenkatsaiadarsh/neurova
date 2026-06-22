@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "d31dc6cf6a045bdb747826ad59ef930e8524df6a",
+        "url": "https://floridapolitics.com/archives/709254-janette-nesheiwat-chosen-by-donald-trump-for-surgeon-general",
+        "site_full": "floridapolitics.com",
+        "site": "floridapolitics.com",
+        "site_section": "https://www.floridapolitics.com",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Florida Politics",
+        "title": "Janette Nesheiwat chosen by Donald Trump for Surgeon General",
+        "title_full": "Janette Nesheiwat chosen by Donald Trump for Surgeon General",
+        "published": "2024-11-23T05:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 9877,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d31dc6cf6a045bdb747826ad59ef930e8524df6a",
+    "url": "https://floridapolitics.com/archives/709254-janette-nesheiwat-chosen-by-donald-trump-for-surgeon-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jacob Ogles",
+    "published": "2024-11-23T05:47:00.000+02:00",
+    "title": "Janette Nesheiwat chosen by Donald Trump for Surgeon General",
+    "text": "One Florida-raised doctor will follow another into the Surgeon General’s Office.\nPresident-elect Donald Trump announced Dr. Janette Nesheiwat as his pick for the post.\nBest known as a medical contributor to Fox News , Nesheiwat graduated from Umatilla High School before becoming a medical professional.\n“Dr. Nesheiwat is a double board-certified Medical Doctor with an unwavering commitment to saving and treating thousands of American lives,” Trump said in an announcement.\n“Dr. Nesheiwat is a fierce advocate and strong communicator for preventive medicine and public health. She is committed to ensuring that Americans have access to affordable, quality health care, and believes in empowering individuals to take charge of their health to live longer, healthier lives.”\nThe physician served as a medical director for CityMD , an urgent care provider in Trump’s native New York and New Jersey.\n“During the COVID-19 pandemic, she worked on the front lines in New York City treating thousands of Americans and helped patients in the aftermath of President Donald Trump’s Historic Operation Warp Speed that saved hundreds of millions of lives,” Trump said.\n“Her expertise and leadership have been pivotal during some of the most challenging Healthcare crises of our time. Dr. Janette provided on-the-ground medical treatment to Americans in the aftermath of Hurricane Katrina and the Joplin tornadoes. She is also a member of Samaritan’s Purse Disaster Assistance Relief Team and has provided lifesaving care during crises in Morocco, Haiti, and Poland.”\nHe also mentions Nesheiwat’s personal background as one of five children of a widowed nurse.\nNotably, Nesheiwat’s sister, Julia Nesheiwat , served as Trump’s Homeland Security adviser in 2020 during the President-elect’s first term in the White House. Julia Nesheiwat is now married to U.S. Rep. Michael Waltz , who Trump recently named as National Security Adviser.\nJanette Nesheiwat will succeed Surgeon General Vivek Murthy , a Miami Palmetto Senior High School graduate picked by President Joe Biden and who previously served in the same role under former President Barack Obama.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/person/n/dr-janette-nesheiwat",
+        "https://www.citymd.com/",
+        "https://www.citymd.com",
+        "https://citymd.com/",
+        "https://foxnews.com/person/n/dr-janette-nesheiwat"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Umatilla High School",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:10:11.115+02:00",
+    "updated": "2024-11-23T06:10:11.115+02:00"
+}

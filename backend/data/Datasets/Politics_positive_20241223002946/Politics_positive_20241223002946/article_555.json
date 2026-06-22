@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "80e9e119ceea99528a014322911813bfcc77a18f",
+        "url": "https://redstate.com/streiff/2024/11/22/president-trump-nominates-new-surgeon-general-n2182381",
+        "site_full": "redstate.com",
+        "site": "redstate.com",
+        "site_section": "http://www.redstate.com/feed/",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "RedState",
+        "title": "President Trump Nominates New Surgeon General",
+        "title_full": "President Trump Nominates New Surgeon General",
+        "published": "2024-11-23T03:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.townhall.com/cdn/hodl/2024/319/048715d0-d44d-41fa-b5ac-012a542a66db.jpg",
+        "performance_score": 0,
+        "domain_rank": 7879,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "80e9e119ceea99528a014322911813bfcc77a18f",
+    "url": "https://redstate.com/streiff/2024/11/22/president-trump-nominates-new-surgeon-general-n2182381",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "streiff",
+    "published": "2024-11-23T03:14:00.000+02:00",
+    "title": "President Trump Nominates New Surgeon General",
+    "text": "President-elect Trump has [announced](https://djt.nucleusemail.com/amplify/v/S56cQwbUbT?hids=8E7nioVr9z&_nlid=aHEmnsZxMz&_nhids=8E7nioVr9z) his appointment of Dr. Janette Nesheiwat to be the 22nd Surgeon General of the United States. The Surgeon General is the principal assistant to the Assistant Secretary for Health in the Department of Health and Human Services and the commander of the Commissioned Corps of the US Public Health Service:\nI am proud to announce that Dr. Janette Nesheiwat will be the Nation's Doctor as the United States Surgeon General. Dr. Nesheiwat is a double board-certified Medical Doctor with an unwavering commitment to saving and treating thousands of American lives.\nDr. Nesheiwat is a fierce advocate and strong communicator for preventive medicine and public health. She is committed to ensuring that Americans have access to affordable, quality healthcare and believes in empowering individuals to take charge of their health to live longer, healthier lives.\nDuring the COVID-19 pandemic, she worked on the front lines in New York City treating thousands of Americans and helped patients in the aftermath of President Donald Trump's Historic Operation Warp Speed that saved hundreds of millions of lives.\nHer expertise and leadership have been pivotal during some of the most challenging Healthcare crises of our time. Dr. Janette provided on-the-ground medical treatment to Americans in the aftermath of Hurricane Katrina and the Joplin tornadoes. She is also a member of Samaritan's Purse Disaster Assistance, Relief Team, and has provided lifesaving care during crises in Morocco, Haiti, and Poland.\nAs this is a breaking story, RedState will provide updates as warranted.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "80e9e119ceea99528a014322911813bfcc77a18f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:19:31.302+02:00",
+    "updated": "2024-11-23T21:34:20.899+02:00"
+}

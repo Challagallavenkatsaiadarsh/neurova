@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "c7534f37b416281d164d1c60dececfb07253ae8b",
+        "url": "https://www.gulf-times.com/article/695117/business/ecbs-lagarde-sounds-alarm-on-eu-inertia-over-markets-union",
+        "site_full": "www.gulf-times.com",
+        "site": "gulf-times.com",
+        "site_section": "https://www.gulf-times.com/rssFeed/2",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "ECB’s Lagarde sounds alarm on EU inertia over markets union",
+        "title_full": "ECB’s Lagarde sounds alarm on EU inertia over markets union",
+        "published": "2024-11-22T19:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "QA",
+        "main_image": "https://www.gulf-times.com/gulftimes/uploads/images/2024/11/22/thumbs/300x300/250559.jpg",
+        "performance_score": 0,
+        "domain_rank": 11290,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c7534f37b416281d164d1c60dececfb07253ae8b",
+    "url": "https://www.gulf-times.com/article/695117/business/ecbs-lagarde-sounds-alarm-on-eu-inertia-over-markets-union",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "info@gulf-times.com (Gulf Times)",
+    "published": "2024-11-22T19:33:00.000+02:00",
+    "title": "ECB’s Lagarde sounds alarm on EU inertia over markets union",
+    "text": "European Central Bank (ECB) President Christine Lagarde said Europe’s continuing struggle to innovate and the souring geopolitical backdrop make it even more imperative to unite its capital markets.\nAddressing the Frankfurt European Banking Congress yesterday, she said the region’s inaction has cost it valuable time since she appeared at that same event in 2023 with much the same message.\n“Since last year, Europe’s declining innovation position has come more clearly to light,” she said. “The technology gap between the United States and Europe is now unmistakable. The geopolitical environment has also become less favourable, with growing threats to free trade from all corners of the world.”\nSince that 2023 speech, Donald Trump has regained the White House, while repeated European Union efforts to revive its longstanding initiative for a Capital Markets Union have effectively stalled.\nNow both its two biggest economies, Germany and France, face political stasis, with Berlin inching toward elections early next year.\n“The urgency to integrate our capital markets has risen,” Lagarde said. “This growing urgency has not been matched by tangible progress.”\nShe recounted a tale of Brussels quagmire over the project, with “55 regulatory proposals and 50 non-legislative initiatives” devoted to the matter since 2015.\n“Breadth has come at the expense of depth,” she said. “It has allowed CMU to be picked apart by national vested interests that see one or another initiative as a threat.” This sentiment was echoed later at the same event by Bundesbank President Joachim Nagel.\n“While I know the devil is in the detail here, it is still frustrating to see how slow progress has been,” he said, criticising “member states’ reluctance to subordinate national interests to the common cause.”\n“We have to overcome this mindset and tear down the invisible walls obstructing financial market integration,” he said.\nThe current backdrop is one where Europeans still save about a third of their total financial assets, compared with a 10th in the US, making them “much less wealthy than they could be,” Lagarde said.\nThe region’s financial markets are “extraordinarily fragmented,” she observed, noting that last year the EU had 295 trading venues. The ECB president showed a map of them to leaders at a recent summit.\n“Some of them were flabbergasted,” she said. “If leaders can bypass the vested interests that are protected like a fortress in the ancient ages, we might have a chance.”\nAlongside creating a “European SEC,” Lagarde said that regulatory fixes could emulate the two-tier supranational approach adopted for competition or banking supervision.\nAnother option would be to create “a separate EU legal regime that firms can opt into sitting alongside the various national regimes.” Nagel and Bank of France Governor Francois Villeroy de Galhau also wrote a joint op-ed for the Friday editions of Frankfurter Allgemeine Zeitung and Le Monde to urge action in Europe.\nLagarde also said that Europe needs to “fully harness the potential of our public development banks, especially the European Investment Bank, to pool risks and crowd in private capital.”\n“More can be done to unlock the EIB’s potential and enable us to catch up with our peers faster,” she said. “In particular, the EIB should be allowed to use its resources more effectively and provide a wider variety of instruments to support breakthrough innovations, especially when it comes to supporting early-stage startups.”\nChristine Lagarde, president of the European Central Bank.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christine Lagarde",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Frankfurt European Banking Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "Capital Markets Union",
+                "sentiment": "none"
+            },
+            {
+                "name": "European Union",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:46.803+02:00",
+    "updated": "2024-11-23T01:24:46.803+02:00"
+}

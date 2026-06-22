@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "aca994a0494b4d40d870d4e0acad253fa4e5c789",
+        "url": "http://www.econotimes.com/Crypto-Rules-Shakeup-Trump-Tied-SEC-Candidate-Hints-at-Clearer-Path-After-Genslers-Sudden-Exit-1694813",
+        "site_full": "www.econotimes.com",
+        "site": "econotimes.com",
+        "site_section": "http://www.econotimes.com/health",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Health - EconoTimes",
+        "title": "Crypto Rules Shakeup: Trump-Tied SEC Candidate Hints at Clearer Path After Gensler’s Sudden Exit - EconoTimes",
+        "title_full": "Crypto Rules Shakeup: Trump-Tied SEC Candidate Hints at Clearer Path After Gensler’s Sudden Exit - EconoTimes",
+        "published": "2024-11-22T16:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KR",
+        "main_image": "https://f1.econotimes.com/2024/11/po1q71p160_th_1024x0.jpeg",
+        "performance_score": 0,
+        "domain_rank": 18786,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aca994a0494b4d40d870d4e0acad253fa4e5c789",
+    "url": "http://www.econotimes.com/Crypto-Rules-Shakeup-Trump-Tied-SEC-Candidate-Hints-at-Clearer-Path-After-Genslers-Sudden-Exit-1694813",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "EconoTimes",
+    "published": "2024-11-22T16:09:00.000+02:00",
+    "title": "Crypto Rules Shakeup: Trump-Tied SEC Candidate Hints at Clearer Path After Gensler’s Sudden Exit - EconoTimes",
+    "text": "Republican SEC Commissioner Mark Uyeda is positioning himself as a crypto advocate amid discussions of regulatory clarity. Speculation is mounting that President-elect Donald Trump may nominate Uyeda to replace Gary Gensler as SEC chair, signaling a potential shift in digital asset oversight.\nCrypto Regulation Takes Center Stage\nRepublican US Securities and Exchange Commission commissioner Mark Uyeda has indicated that, if elected and approved, he would make crypto regulation clarification a top priority.\nDuring an interview with [Fox Business](http://www.foxbusiness.com/media/trumps-potential-pick-sec-chair-details-three-step-plan-end-war-crypto) on November 22nd, Uyeda reiterated numerous remarks made by President-elect Trump regarding digital assets. He claimed that the SEC, during the tenure of Chair Gary Gensler, had initiated a \"war on crypto.\" On November 21st, Gensler made public his plans to resign as chair of the SEC effective January 20th, coinciding with Trump's planned inauguration.\n\"First off, from a regulatory perspective, we can provide the appropriate clarity,\" Uyeda stated. “Some crypto is not even a security at all, but we need to make clear whether you fall within SEC jurisdiction or not.”\nTrump's Potential Pick for SEC Chair\nFollowing Gensler's departure, many believe that Trump may think about appointing Uyeda as the next chair of the SEC, [Cointelegraph](http://www.foxbusiness.com/media/trumps-potential-pick-sec-chair-details-three-step-plan-end-war-crypto) points out. Although the president-elect has named numerous people to fill various posts in his cabinet following his victory on November 5th, no one has been named to head the securities regulator as of this writing.\nIn order to foster innovation in the United States, Uyeda suggested that the SEC establish regulatory sandboxes for cryptocurrency initiatives. He also noted that any such reforms would necessitate close cooperation between the executive branch, Congress, and the White House to ensure a \"cohesive and comprehensive approach.\"\nCriticism of Regulatory Overreach\nHe went on to say:\n“Whoever steps into that job, there is a lot of work that needs to be done to address some of the regulatory excesses, not only at the SEC but at other administrative agencies.”\nThe commissioner for the SEC chose not to address the question of whether he would be open to becoming the head of the agency. According to reports from November 22, Robinhood executive Dan Gallagher stated that he was not interested in being considered by many as one of Trump's leading candidates.\nUyeda’s Record at the SEC\nTo fill an open seat on the SEC in 2022 and for a second term in 2023, Uyeda was nominated by US President Joe Biden. Uyeda has said that the SEC has failed to give clear guidelines for its enforcement operations against cryptocurrency companies while he was a commissioner.\nDuring the fiscal year of 2024, the SEC ordered approximately $8.2 billion in financial remedies and launched 583 enforcement proceedings, according to a report released on November 22. Notable enforcement actions included accusations of HyperFund and Novatech's Ponzi schemes, as well as Silvergate Capital's \"false and misleading disclosures to investors\" regarding crypto exposure.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.foxbusiness.com/media/trumps-potential-pick-sec-chair-details-three-step-plan-end-war-crypto",
+        "http://foxbusiness.com/media/trumps-potential-pick-sec-chair-details-three-step-plan-end-war-crypto"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Uyeda",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gary Gensler",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SEC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:23:01.749+02:00",
+    "updated": "2024-11-23T01:23:01.749+02:00"
+}

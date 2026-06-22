@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "ee0f1c694bc4ec663fcddbd7cf64b765fe5a3e30",
+        "url": "https://www.bta.bg/en/news?from=23.11.2024&to=23.11.2024",
+        "site_full": "www.bta.bg",
+        "site": "bta.bg",
+        "site_section": "https://www.bta.bg/en/news/culture",
+        "site_categories": [
+            "media",
+            "tennis",
+            "sports",
+            "top_news_bg",
+            "top_news"
+        ],
+        "section_title": "BTA :: Culture",
+        "title": "BTA :: All News",
+        "title_full": "BTA :: All News",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "BG",
+        "main_image": "https://www.bta.bg/assets/images/BTA-logo.svg",
+        "performance_score": 0,
+        "domain_rank": 35023,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ee0f1c694bc4ec663fcddbd7cf64b765fe5a3e30",
+    "url": "https://www.bta.bg/en/news?from=23.11.2024&to=23.11.2024",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "BTA :: All News",
+    "text": "22.11.2024 13:36 \"There Is No Clear Political Will behind Current Caretaker Government and All Kinds of Predators Take Advantage of It,\" President Radev Says\nnews.images 22.11.2024 14:50 Bulgaria, Singapore Have Political Will to Work Together, President Radev Says\n22.11.2024 14:10 European Commission, Parliament Leaders Welcome Positive Outcome of Informal Schengen Meeting in Budapest\n22.11.2024 17:32 Bulgarian, Romanian, Austrian Interior Ministers Sign Declaration Supporting Bulgaria, Romania Accession to Schengen by Land\n22.11.2024 13:36 \"There Is No Clear Political Will behind Current Caretaker Government and All Kinds of Predators Take Advantage of It,\" President Radev Says\nnews.images 22.11.2024 19:38 Nearly 20% of Bulgarian Winemakers Showcase Their Products at 16th Young Wine Festival in Plovdiv\n22.11.2024 17:06 Broader Access to Third Country Markets Should Remain Key Priority of EU Trade Policy\nnews.images 22.11.2024 19:38 Nearly 20% of Bulgarian Winemakers Showcase Their Products at 16th Young Wine Festival in Plovdiv\n22.11.2024 21:37 Bulgaria's National Football Team to Face Republic of Ireland in Playoff for Spot in Nations League's Second Tier\n22.11.2024 22:24 Bulgaria Bulgarian PM: Entry in Schengen by Land Will Relieve Bulgarian Citizens, Companies\n22.11.2024 21:37 Sport Bulgaria's National Football Team to Face Republic of Ireland in Playoff for Spot in Nations League's Second Tier",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Radev",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:23:15.244+02:00",
+    "updated": "2024-11-23T02:56:34.346+02:00"
+}

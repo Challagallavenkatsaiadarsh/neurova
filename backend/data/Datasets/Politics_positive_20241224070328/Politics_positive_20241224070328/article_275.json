@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "9d52e5474531f5d5a1aed1c1286ac63d4193305b",
+        "url": "https://www.tribuneindia.com/news/india/royal-tour-of-india-in-offing-for-king-charles-queen-camilla",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/india",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Latest India News, Breaking News Headlines & Live Updates | Tribune India",
+        "title": "Royal tour of India in offing for King Charles, Queen Camilla - The Tribune",
+        "title_full": "Royal tour of India in offing for King Charles, Queen Camilla - The Tribune",
+        "published": "2024-11-24T02:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/10/67123f6ef1f60-Pic1.jpeg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d52e5474531f5d5a1aed1c1286ac63d4193305b",
+    "url": "https://www.tribuneindia.com/news/india/royal-tour-of-india-in-offing-for-king-charles-queen-camilla",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-11-24T02:05:00.000+02:00",
+    "title": "Royal tour of India in offing for King Charles, Queen Camilla - The Tribune",
+    "text": "Royal tour of India in offing for King Charles, Queen Camilla\nBritain’s King Charles III is planning an official visit to India in the near future as part of a government charm offensive and an added boost for his health since cancer diagnosis earlier in the year, a UK media report claimed on Saturday.\nAccording to the ‘Daily Mirror’, the visit will also include stops in Pakistan and Bangladesh as part of a subcontinent tour that had been abandoned in the wake of the passing of his mother Queen Elizabeth II in September 2022.\nThe 76-year-old monarch and his wife, Queen Camilla, 77, made a “private stopover” at a wellness resort in Bengaluru last month on their way back from Australia and Samoa and are believed to be planning a return.\n“It’s hugely encouraging to be able to make such plans for the King and Queen given the year the monarch has had, but it’s very much full steam ahead,” the newspaper quoted a source as saying.\n“A tour of the Indian subcontinent is in the offing, which will be of huge political and cultural significance for Britain on the world stage. The King and Queen are the perfect ambassadors at such a time,” the source said.\nBuckingham Palace had revealed the King’s cancer diagnosis in February and a spokesperson has since confirmed that with his medical treatment progressing well they were considering a “pretty normal-looking full overseas tour programme for next year”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Charles III",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tribune Royal",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bengaluru",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:17:57.268+02:00",
+    "updated": "2024-11-24T02:17:57.268+02:00"
+}

@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "61cd0f55d451513d535c0a2e38ec8f16abd07dee",
+        "url": "https://www.dni.gov/index.php/newsroom/news-articles/news-articles-2024/4030-dni-haines-celebrates-launch-of-national-security-data-and-policy-institute-at-university-of-virginia",
+        "site_full": "www.dni.gov",
+        "site": "dni.gov",
+        "site_section": "https://www.dni.gov",
+        "site_categories": [
+            "hacking",
+            "tech",
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "Home",
+        "title": "DNI Haines Celebrates Launch of National Security Data and Policy Institute at University of Virginia",
+        "title_full": "DNI Haines Celebrates Launch of National Security Data and Policy Institute at University of Virginia",
+        "published": "2024-11-22T15:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 4413,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "61cd0f55d451513d535c0a2e38ec8f16abd07dee",
+    "url": "https://www.dni.gov/index.php/newsroom/news-articles/news-articles-2024/4030-dni-haines-celebrates-launch-of-national-security-data-and-policy-institute-at-university-of-virginia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Daniel Haug",
+    "published": "2024-11-22T15:05:00.000+02:00",
+    "title": "DNI Haines Celebrates Launch of National Security Data and Policy Institute at University of Virginia",
+    "text": "Director of National Intelligence Avril Haines gives remarks ahead of a ceremonial ribbon cutting to mark the opening of the National Security Data and Policy Institute at the University of Virginia in Charlottesville, a first-of-its-kind partnership between ODNI and academia. (Credit: James Williams, ODNI Strategic Communications)\nDirector of National Intelligence Avril Haines and Senator Mark Warner (D-Virginia), chairman of the Senate Select Committee on Intelligence, joined University of Virginia (UVA) leaders on Nov. 22 to cut a ceremonial ribbon marking the launch of the National Security Data and Policy Institute (NSDPI) in Charlottesville, Virginia.\nThe Office of the Director of National Intelligence (ODNI) invested $20 million in the first-of-its-kind institute that will advance the Intelligence Community's (IC) use of emerging technologies to collect, analyze, and manage data, a crucial component of the IC's foreign intelligence mission.\nHaines, who recently spoke about how the [IC needs to better leverage the private sector, academia](/index.php/newsroom/speeches-interviews/speeches-interviews-2024/3987-dni-haines-as-delivered-remarks-at-2024-insa-afcea-intelligence-and-national-security-summit-27-august-2024), and other partners to solve complex intelligence challenges, said UVA has all the attributes of a great mission partner. She cited “a world-renowned institution that combines academic excellence and rigor, scientific research, interdisciplinary collaboration, and ethical leadership development with a strong public service ethos.”\n“Through this partnership, we will be able to tap the UVA’s robust research infrastructure and vast expertise across disciplines -- I am especially excited about that -- to address our most pressing data-related challenges to national security and to leverage open source data, a value which in turn will enhance our capacity to transparently share our insights with a range of partners,” she said.\nStudents, faculty, and IC and university leaders joined Warner, Haines, UVA President Jim Ryan and UVA professor Philip Potter to cut the ribbon on UVA’s sixth university-level institute under the soaring dome of UVA’s Rotunda.\nPotter, a professor of politics and public policy and the founding director of the UVA Batten School of Leadership and Public Policy’s National Security Policy Center, will serve as the institute’s first executive director.\nIC Chief Data Officer Lori Wade and her team will work closely with Potter as the institute pioneers new research, refines analytic frameworks, develops effective strategies, and advances next generation technologies to keep the nation ahead of emerging threats.\nAs the IC continues to navigate increasingly complex threats, Director Haines said that she believes this institute will stand as a testament to the power of partnership to building a safer and more resilient future.\n“Today, we cement a critical new partnership in national security,” she said, “and look forward with great anticipation to what lies ahead.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "James Williams",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Warner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haines",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate Select Committee on Intelligence",
+                "sentiment": "none"
+            },
+            {
+                "name": "ODNI Strategic Communications",
+                "sentiment": "none"
+            },
+            {
+                "name": "Intelligence Community",
+                "sentiment": "none"
+            },
+            {
+                "name": "University of Virginia",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "61cd0f55d451513d535c0a2e38ec8f16abd07dee",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:05:52.545+02:00",
+    "updated": "2024-11-28T02:45:05.568+02:00"
+}

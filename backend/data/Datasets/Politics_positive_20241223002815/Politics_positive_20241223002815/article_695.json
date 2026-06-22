@@ -1,0 +1,123 @@
+{
+    "thread": {
+        "uuid": "29575a8d49b26d7dbc987ab3014be7f7e16a77ed",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2024/11/22/former-nfl-player-scott-turner-house-aide/76510993007",
+        "site_full": "www.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "https://www.newsbreak.com/usa-today-560565",
+        "site_categories": [
+            "media",
+            "dating",
+            "society",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_dk",
+            "top_news_th",
+            "top_news_fi",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "USA TODAY&#x27;s Home Page | NewsBreak",
+        "title": "Trump picks former NFL player Scott Turner as HUD secretary",
+        "title_full": "Trump picks former NFL player Scott Turner as HUD secretary",
+        "published": "2024-11-23T04:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/presto/2019/08/06/POPE/0e5d4a84-6745-4f82-b75a-a4cebd3015df-opzone4.jpg?auto=webp&crop=1628,916,x0,y0&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 153,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "29575a8d49b26d7dbc987ab3014be7f7e16a77ed",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2024/11/22/former-nfl-player-scott-turner-house-aide/76510993007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", USA TODAY",
+    "published": "2024-11-23T04:04:00.000+02:00",
+    "title": "Trump picks former NFL player Scott Turner as HUD secretary",
+    "text": "Trump picks former NFL player Scott Turner as HUD secretary Swapna Venugopal Ramaswamy USA TODAY Show Caption\nHide Caption\nSentencing in Trump's hush money case has been postponed indefinitely The judge in President-elect Donald Trump's felony hush money case has indefinitely postponed sentencing, which had been scheduled for Nov. 26. President-elect Donald Trump said Friday that he had picked Scott Turner, a former professional football player, as the secretary of the Department of Housing and Urban Development.\nTurner would be taking over a high-level Cabinet position charged with advising the president primarily on the housing needs of low and moderate-income families and increasing Americans' access to homeownership. The department also handles cases of housing discrimination.\nTurner will have to be confirmed by the Senate before he can take on the pivotal position.\nTurner served as the executive director of the White House Opportunity and Revitalization Council in Trump’s first administration.\nHis leadership, Trump’s statement said, led an “unprecedented effort that transformed our country’s most distressed communities.”\nThe appointment comes after an election cycle where housing affordability was one of the most critical issues facing voters. Since 2019, U.S. rents have grown by more than 30%, according to Zillow.\nAfter graduating from University of Illinois, Turner was drafted by the Washington Redskins and spent nine years in the NFL before he went on to win a state house race in Texas, where he was born and raised.\nUnder Turner’s leadership, Opportunity Zones, an economic development tool that allows people to invest in distressed areas, received over $50 billion in private investment, according to Trump.\nFacebook\nTwitter\nEmail",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://zillow.mediaroom.com/2024-05-07-New-York-City-rents-grew-seven-times-faster-than-wages-last-year,-tightening-affordability-crunch",
+        "https://www.zillow.mediaroom.com/2024-05-07-New-York-City-rents-grew-seven-times-faster-than-wages-last-year,-tightening-affordability-crunch"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Turner",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NFL",
+                "sentiment": "negative"
+            },
+            {
+                "name": "HUD",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Housing and Urban Development",
+                "sentiment": "none"
+            },
+            {
+                "name": "University of Illinois",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington Redskins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "29575a8d49b26d7dbc987ab3014be7f7e16a77ed",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:15:16.600+02:00",
+    "updated": "2024-11-23T06:14:18.410+02:00"
+}

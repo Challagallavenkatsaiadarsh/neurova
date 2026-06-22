@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "12a03cbc7fcc1fd7df408ccf66c54a54ef73c88d",
+        "url": "https://bvmsports.com/2024/11/23/james-franklins-gusty-decisions-help-seal-26-25-victory-for-penn-state",
+        "site_full": "bvmsports.com",
+        "site": "bvmsports.com",
+        "site_section": "https://bvmsports.com/feed/articles-feed",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "BVM Sports - Articles",
+        "title": "James Franklin’s gusty decisions help seal 26-25 victory for Penn State",
+        "title_full": "James Franklin’s gusty decisions help seal 26-25 victory for Penn State",
+        "published": "2024-11-24T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.rivals.com/image/upload/f_auto,q_auto,t_headline_primary/nwycrnebwleiopt02tjj",
+        "performance_score": 0,
+        "domain_rank": 46634,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "12a03cbc7fcc1fd7df408ccf66c54a54ef73c88d",
+    "url": "https://bvmsports.com/2024/11/23/james-franklins-gusty-decisions-help-seal-26-25-victory-for-penn-state",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BVM Sportsdesk",
+    "published": "2024-11-24T04:00:00.000+02:00",
+    "title": "James Franklin’s gusty decisions help seal 26-25 victory for Penn State",
+    "text": "James Franklin’s gusty decisions help seal 26-25 victory for Penn State\nPenn State's No. 4\nNittany Lions narrowly defeated the Minnesota Golden Gophers 26-25, improving their season record to 10-1. Coach James Franklin made bold calls, including a critical fake punt that allowed Penn State to maintain possession late in the game. Facing pressure to secure a College Football Playoff spot, Franklin's decisions showcased a newfound aggressiveness that was pivotal in this high-stakes matchup.\n- Penn State converted a critical 4th and 1 with a 32-yard fake punt run by Luke Reynolds.\n- Drew Allar completed 21 of 28 passes for 244 yards and a touchdown.\n- Penn State's upcoming game against Maryland is crucial for solidifying their playoff aspirations.\n- Franklin's aggressive play-calling style contrasts with his previous conservative tactics, marking a shift in the team's approach.\nWith their playoff hopes on the line, the Nittany Lions need to maintain their momentum against a struggling Maryland team next Saturday to secure a playoff berth.Bottom Line\nJames Franklin's willingness to take risks paid off, reinforcing the importance of playing aggressively in critical moments to keep their playoff hopes alive. The Nittany Lions must continue this strategy to succeed in their upcoming games.\nRead more at\n @BWIonRivals\nThe summary of the linked article was generated with the assistance of artificial intelligence technology from OpenAI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "James Franklin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Luke Reynolds",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Penn State\nPenn State",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Nittany Lions",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:28:39.509+02:00",
+    "updated": "2024-11-24T04:28:39.509+02:00"
+}

@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "ec1908c5ba9be384e9387fc0cb7eaeee692c82ea",
+        "url": "https://www.themirror.com/news/us-news/texas-education-board-approves-optional-821122",
+        "site_full": "www.themirror.com",
+        "site": "themirror.com",
+        "site_section": "https://www.themirror.com/news",
+        "site_categories": [],
+        "section_title": "News - Latest Stories, Breaking News and Headlines - The Mirror US",
+        "title": "Texas education board approves optional 'Bible curriculum' for elementary schools starting next year - The Mirror US",
+        "title_full": "Texas education board approves optional 'Bible curriculum' for elementary schools starting next year - The Mirror US",
+        "published": "2024-11-23T01:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i2-prod.themirror.com/incoming/article821106.ece/ALTERNATES/s1200/0_Girl-8-10-raising-hand-in-classroom-rear-view.jpg",
+        "performance_score": 0,
+        "domain_rank": 28819,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ec1908c5ba9be384e9387fc0cb7eaeee692c82ea",
+    "url": "https://www.themirror.com/news/us-news/texas-education-board-approves-optional-821122",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jack Hobbs",
+    "published": "2024-11-23T01:23:00.000+02:00",
+    "title": "Texas education board approves optional 'Bible curriculum' for elementary schools starting next year - The Mirror US",
+    "text": "The brand-new material will push the boundary between religion and public classrooms in the US and was approved by a Republican-led board despite concerns the material could be conversional or could alienate those who practice other religions The Texas Board of Education has reportedly approved an optional bible-infused curriculum for elementary school students which is slated to start as soon as next year. ( Image: Getty Images) By Jack Hobbs News Reporter 23:23, 22 Nov 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://apnews.com/article/texas-bible-religion-schools-52b74577982b34ce2607b693bd51cae7",
+        "https://www.apnews.com/article/texas-bible-religion-schools-52b74577982b34ce2607b693bd51cae7"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:00:11.883+02:00",
+    "updated": "2024-11-23T04:37:53.108+02:00"
+}

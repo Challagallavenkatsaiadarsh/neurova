@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "d3a68b327b13afd8ec26cfbf8b975f31592c57ab",
+        "url": "https://www.fox32chicago.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary",
+        "site_full": "www.fox32chicago.com",
+        "site": "fox32chicago.com",
+        "site_section": "https://www.fox32chicago.com/election",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Election | FOX 32 Chicago",
+        "title": "Trump nominates former NFL player Scott Turner as housing and urban development secretary | FOX 32 Chicago",
+        "title_full": "Trump nominates former NFL player Scott Turner as housing and urban development secretary | FOX 32 Chicago",
+        "published": "2024-11-23T04:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/1280/720/scott-turner-2-getty.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 8152,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d3a68b327b13afd8ec26cfbf8b975f31592c57ab",
+    "url": "https://www.fox32chicago.com/news/trump-nominates-nfl-player-scott-turner-housing-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "FOX TV Digital Team",
+    "published": "2024-11-23T04:08:00.000+02:00",
+    "title": "Trump nominates former NFL player Scott Turner as housing and urban development secretary | FOX 32 Chicago",
+    "text": "President-elect Donald Trump said Friday that he will nominate former NFL player and White House aide Scott Turner as housing and urban development (HUD) secretary.\nThe HUD secretary assists communities in providing fair and equal housing and advises the president on housing and community development programs, activities, and federal policy.\nTurner ran the White House Opportunity and Revitalization Council during Trump’s first term in office. Trump, in a statement, credited Turner, the highest-ranking Black person he’s yet selected for his administration, with \"helping to lead an Unprecedented Effort that Transformed our Country’s most distressed communities.\"\nTrump also said on Friday he would nominate Scott Bessent to lead Treasury Department, Russel Vought to lead the Office of Management and Budget and Lori Chavez-DeRemer to lead the Labor Department.\nEDITOR&apos;S NOTE: Please note, a correction has been made to this article. An earlier version of this article had an incorrect photo for Scott Turner. This mistake has been corrected.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.livenowfox.com/search?q=trump&ss=fb",
+        "https://livenowfox.com/search?q=trump&ss=fb",
+        "https://www.livenowfox.com/search"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "d3a68b327b13afd8ec26cfbf8b975f31592c57ab",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:41:11.015+02:00",
+    "updated": "2024-11-23T04:41:11.015+02:00"
+}

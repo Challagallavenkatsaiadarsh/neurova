@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "8154c646ff710c8917cae3bbcd917e2fb9b3b6ae",
+        "url": "https://112.ua/en/nu-jork-zaprovadzue-platu-za-vizd-na-mangetten-sob-zmensiti-zatori-47372",
+        "site_full": "112.ua",
+        "site": "112.ua",
+        "site_section": "https://112.ua/en",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News - fresh events in Ukraine and the world | 112.ua",
+        "title": "New York introduces congestion charge for Manhattan to reduce traffic jams",
+        "title_full": "New York introduces congestion charge for Manhattan to reduce traffic jams",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://112.ua/e/uploads/950x550_92_main-v1732320151.webp.png",
+        "performance_score": 0,
+        "domain_rank": 27938,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8154c646ff710c8917cae3bbcd917e2fb9b3b6ae",
+    "url": "https://112.ua/en/nu-jork-zaprovadzue-platu-za-vizd-na-mangetten-sob-zmensiti-zatori-47372",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Svyatenko Tamara",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "New York introduces congestion charge for Manhattan to reduce traffic jams",
+    "text": "New York introduces congestion charge for Manhattan to reduce traffic jams.\n«Today is the moment we have been waiting for so long. We have overcome the last bureaucratic obstacle on our way to implementing the «congestion charge,» – said the head of the New York City Transportation Authority, Janno Lieber, to reporters.\nStarting next year, a charge of $9 will be introduced for entering vehicles into central Manhattan to reduce traffic congestion. This was reported by The Hill.\nInitially, it was planned to charge $15, but the amount was decided to be reduced to $9.\nThis decision was made due to concerns that the newly elected president, Donald Trump, would block New York's decision, as he opposes environmental measures, including the implementation of entrance fees.\nThe charge could still be blocked in court. A decision will be made after hearings for supporters and opponents of the plan that will take place in December.\nIt is worth noting that the FBI reported preventing a loud terrorist attack in the center of the country's financial system. A suspect, who called himself 'the second bin Laden,' planned an explosion in the center of New York.\nAdditionally, the New York authorities announced a risk of drought in the city. According to the city hall, October saw the second longest period without precipitation since 1869.\nRead also\n[The USA is preparing for a possible cyber attack from China - Reuters](https://112.ua/en/ssa-gotuutsa-do-jmovirnoi-kiberataki-zi-storoni-kitau-reuters-47366)[Confession Without a Priest. In Switzerland, the Church Installed a Digital Avatar of Jesus](https://112.ua/en/spovid-bez-svasennika-u-svejcarii-cerkva-vstanovila-cifrovij-avatar-isusa-47345)[In Britain, a man set fire to a company connected to Ukraine on behalf of the Russian Federation](https://112.ua/en/u-britanii-colovik-pidpaliv-pidpriemstvo-povazane-z-ukrainou-na-zamovlenna-rf-47348)[Instead of flowers - donations. Ada Rogovtseva appealed to her fans](https://112.ua/en/zamist-kvitiv-donati-ada-rogovceva-zvernulasa-z-prohannam-do-sanuvalnikiv-47333)[Bad Weather in Odesa Region: Energy Workers Warn About Possible Power Outages](https://112.ua/en/negoda-na-odesini-energetiki-poperedili-pro-mozlivi-problemi-zi-svitlom-47313)[In Pakistan, people took to the streets after another terrorist attack that claimed the lives of 40 people](https://112.ua/en/u-pakistani-ludi-vijsli-na-vulici-pisla-cergovogo-teraktu-so-zabrav-zitta-40-ludej-47315)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Janno Lieber",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FBI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:32:52.477+02:00",
+    "updated": "2024-11-23T05:32:52.477+02:00"
+}

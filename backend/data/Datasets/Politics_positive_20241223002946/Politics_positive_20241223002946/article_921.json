@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "1d4f38c56dcc1c330c27473a6060ca380b1ae018",
+        "url": "https://www.newsbytesapp.com/news/politics/priyanka-gandhi-leads-in-wayanad-bypoll/story",
+        "site_full": "www.newsbytesapp.com",
+        "site": "newsbytesapp.com",
+        "site_section": "https://www.newsbytesapp.com:443/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NewsBytes",
+        "title": "Wayanad bypoll results: Priyanka Gandhi leads in debut contest",
+        "title_full": "Wayanad bypoll results: Priyanka Gandhi leads in debut contest",
+        "published": "2024-11-23T03:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://i.cdn.newsbytesapp.com/images/29011041732332289.jpg",
+        "performance_score": 0,
+        "domain_rank": 26239,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1d4f38c56dcc1c330c27473a6060ca380b1ae018",
+    "url": "https://www.newsbytesapp.com/news/politics/priyanka-gandhi-leads-in-wayanad-bypoll/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Chanshimla Varah",
+    "published": "2024-11-23T03:06:00.000+02:00",
+    "title": "Wayanad bypoll results: Priyanka Gandhi leads in debut contest",
+    "text": "Congress leader Priyanka Gandhi is leading in the Wayanad parliamentary by-election, early trends showed. The bypoll was necessitated after her brother Rahul Gandhi vacated the seat to represent Rae Bareli, which he won in the Lok Sabha elections. Priyanka is pitted against Communist Party of India (CPI) veteran Sathyan Mokeri and Bharatiya Janata Party (BJP) councilor Navya Haridas, among 16 candidates. Rahul was first elected from Wayanad in 2019, allowing him to remain a Lok Sabha member despite losing the Amethi seat. In the 2024 general elections, he contested from both Wayanad and Rae Bareli seats and won. The latter was vacated by their mother, Sonia Gandhi, after she moved to Rajya Sabha. However, Rahul chose to represent Rae Bareli, making way for Priyanka's electoral debut from Wayanad. Both Rahul and Sonia have been campaigning for Priyanka aggressively for the last month. They had set an ambitious target of winning by over five lakh votes. In a bid to win people's hearts, Rahul challenged his sister to make Wayanad a premier tourist destination. He said, When people think of Kerala, the first destination should be Wayanad. Rahul also assured he would always be available for Wayanad. He hinted the constituency will have two MPs, one being unofficial.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Priyanka Gandhi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sathyan Mokeri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Navya Haridas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rahul Gandhi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sonia Gandhi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rae Bareli",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Communist Party of India",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:40:48.825+02:00",
+    "updated": "2024-11-23T10:56:26.213+02:00"
+}

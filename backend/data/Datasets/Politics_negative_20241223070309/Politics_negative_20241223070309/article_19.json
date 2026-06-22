@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "79a80ea69438dfe392e163da78802939d2d8c964",
+        "url": "https://www.newsbreak.com/the-center-square-509740/3686057649632-new-hampshire-wrangling-over-landfill-regulations",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/gilford-nh",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Gilford, NH Local News and More | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T22:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2dOGo0_0wy9QCsT00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "79a80ea69438dfe392e163da78802939d2d8c964",
+    "url": "https://www.newsbreak.com/the-center-square-509740/3686057649632-new-hampshire-wrangling-over-landfill-regulations",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T22:11:00.000+02:00",
+    "title": "",
+    "text": "By By Chris Wade | The Center Square contributor ,\n1 hours ago\n(The Center Square) — A New Hampshire legislative panel is pushing back on the state's proposed changes to landfill regulations amid concerns that they won't adequately protect residents or public health.\nThe Joint Legislative Committee on Administrative Rules voted unanimously to issue a preliminary objection to rule changes aimed at updating the state's 10-year solid waste plan, which hasn't been updated since the previous plan expired in 2003. Lawmakers said there is a public backlash over the proposed changes.\n\"We have received a very large amount of testimony raising questions with this rule,\" state Rep. Erica Layon, R-Derry, said in remarks during Thursday's hearing. \"So I believe that there needs to be some more work to make sure that all of the concerned voices are heard and that we understand exactly what this rule change will mean, not just for our landfills, but for the people of New Hampshire.\"\nThe proposal calls for setting goals to reduce how much waste is generated while stepping up efforts to divert more materials out of landfills through recycling and reuse programs. Under current law, New Hampshire law sets a 200-foot buffer between proposed landfills and lakes, rivers or the coastline to prevent contamination, which state officials and activists say it doesn't protect the environment and public health.\nHowever, the panel of lawmakers raised concerns about the plan's provisions for landfills, which will spell out where they can be built and how much trash can be buried for the next decade, arguing that the proposed rules are too weak and were largely written by the solid waste industry.\nThe move kicks the plan back to the state Department of Environmental Services, which will need to submit an updated plan to the committee for review in the next 45 days.\n\"The department believes the proposed rules will benefit the environment, public health, and welfare by enhancing the siting requirements for new landfills to ensure releases will be detected, analyzed, and remediation initiated before a release can reach a sensitive environment,\" DES wrote in its request to lawmakers, outlining the proposed changes to landfill regulations.\nThe solid waste plan has drawn opposition from critics of a proposed landfill in the North Country near Forest Lake State Park, which residents have been fighting for years. They want the state to set tougher standards for landfills.\nNearly half of the trash going into New Hampshire landfills comes from Massachusetts and other states, and lawmakers who approved the changes have been exploring ways to tighten the laws to restrict out-of-state trash amid warnings that the state will run out of capacity.\nA 2019 report estimated that New Hampshire’s landfill capacity could have a shortfall of 120,000 tons in disposal capacity by 2025, which has state officials considering plans to expand landfill capacity and restrict waste from elsewhere.\nIn 2022, Republican Gov. Chris Sununu vetoed a bipartisan bill that sought to tighten environmental rules for new landfills by setting a buffer zone for new landfill operations to help prevent toxic pollutants from leaching into nearby waterways.\nSununu said the changes would prevent new regional landfills from being constructed, which he argues would drive up costs for local governments, waste haulers and consumers.\nDuring her gubernatorial campaign, Gov.-elect Kelly Ayotte voiced her opposition to the North Country landfill. The Republican former senator will take over from Sununu in January when she is sworn into office.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2dOGo0_0wy9QCsT00",
+        "https://img.particlenews.com/image.php?url=2dOGo0_0wy9QCsT00",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2dOGo0_0wy9QCsT00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=2dOGo0_0wy9QCsT00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chris Wade",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Erica Layon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "79a80ea69438dfe392e163da78802939d2d8c964",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:02:15.094+02:00",
+    "updated": "2024-11-23T00:02:15.094+02:00"
+}

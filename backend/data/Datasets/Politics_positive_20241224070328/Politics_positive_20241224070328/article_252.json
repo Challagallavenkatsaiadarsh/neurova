@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "4613623cc56293531e99ad7b20b094b91adc4e7c",
+        "url": "https://www.thenews.com.pk/print/1254422-pti-following-philosophy-of-its-anarchist-founder-nasir",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "PTI following philosophy of its ‘anarchist’ founder: Nasir",
+        "title_full": "PTI following philosophy of its ‘anarchist’ founder: Nasir",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-24/l_1254422_045000_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4613623cc56293531e99ad7b20b094b91adc4e7c",
+    "url": "https://www.thenews.com.pk/print/1254422-pti-following-philosophy-of-its-anarchist-founder-nasir",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Salis bin Perwaiz",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "PTI following philosophy of its ‘anarchist’ founder: Nasir",
+    "text": "Sindh Minister for Energy, Planning and Development Syed Nasir Hussain Shah said on Saturday the Pakistani economy is moving towards positive indicators, and Pakistan is playing its unique role in maintaining peace in the world and making immense sacrifices against terrorists. I a statement, he said Pakistan is moving towards development, so a provincial government is trying to rise in Islamabad with government equipment and machinery. Also, an apolitical woman of the same agitation party wants to spoil the relations between Pakistan and Saudi Arabia, he alleged. Shah said terrorists were massacring innocent passengers in Parachinar and the Khyber Pakhtunkhwa government was preparing to attack Islamabad and the entire leadership of the PTI was following the philosophy of its anarchist founder, i.e. \"if not me, then nothing\". He said this group always tries unsuccessfully to create chaos and uncertainty in the country. It should be remembered that any kind of chaos will not be tolerated in Pakistan and bullying, sit-ins and attacks cannot be allowed, he stressed. The minister paid tributes to the successful organisation of the four-day International Defence Exhibition Ideas 2024 at the Expo Centre. In a statement, the provincial minister said it was a matter of pride for all of them to hold the IDEAS 2024 in Karachi. He said that in the exhibition, 82 agreements worth billions of rupees were signed for the purchase and sale of defence, war and military equipment. The IDEAS 2024 is a major milestone in defence market exposure, sales, joint ventures, outsourcing and technical cooperation. Moreover, IDEAS 2024 paves the way for international cooperation, new business opportunities, and local industry development for the development of Pakistan's defense market, he added. Shah said the international event also reflects that Pakistan is second to none in terms of defence capability wherever it seeks peace and prosperity. He said that there were immense opportunities for investment and joint ventures in the country. ‘Not political’ The Pakistan Tehreek-e-Insaf (PTI) has become a party prone to discord and it does not seem like a political entity, said Sindh Local Government Minister Saeed Ghani late on Friday night while talking to media persons after visiting the ongoing Sindh Crafts Festival at Port Grand, adds our correspondent. Ghani, who is also the Karachi chief of the Pakistan Peoples Party (PPP), said that November 24 was not the first day on which the PTI had given a call for protest, as it had given such calls several times in the past. He predicted that the Khyber Pakhtunkhwa chief minister would have a limited role in the upcoming protest, as was the case in the previous protest, as he would instantly leave Islamabad after reaching the federal capital without any achievement. Responding to a question, the local government minister said political activities should not be banned in the country, but the state was obligated to prevent anyone attempting to cause damage. Earlier, Sindh Culture Minister Syed Zulfiqar Ali Shah welcomed Ghani on his arrival at the venue of the Sindh Crafts Festival. The local government minister was presented with a traditional Sindhi cap and Ajrak. He then visited various stalls and interacted with craftsmen. Ghani told media persons that the Sindh culture department frequently organised such events. He expressed the hope that many residents of Karachi would visit the festival in the following two days. He mentioned that different folk artistes would also perform on the occasion. He expressed appreciation for the festival's focus on showcasing the craftsmanship of artisans from across Sindh. This image shows Karachi Police personnel standing guard on November 29, 2023. — Facebook/Karachi Police - KPOA... A group photo from the IBA Karachi’s Centre for Entrepreneurial Development Global Entrepreneurship Week 2024 on... Protestors of the Sindh Rawadari Committee seen at the Hyderabad Press Club on November 23, 2024.—... An image from the award distribution ceremony of the International Nursing Conference held at Bait-ul-Hikmah... An image from the protest of the Joint Action Committee of Sindh growers at the Hyderabad Press Club on November 23.... Karachi Mayor Barrister Murtaza Wahab along with Deputy Mayor Salman Abdullah Murad at the ribbon cutting ceremony...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shah",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "PTI",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Parachinar",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:06:42.188+02:00",
+    "updated": "2024-11-24T04:57:39.914+02:00"
+}

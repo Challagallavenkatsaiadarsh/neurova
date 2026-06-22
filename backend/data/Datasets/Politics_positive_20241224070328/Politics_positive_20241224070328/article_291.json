@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "ecee513058ffb759fb4df3406303c83ab8d316e9",
+        "url": "https://www.freepressjournal.in/elections-2018/maharashtra-elections-results-2024-manda-vijay-mhatre-retains-belapur-seat-in-nail-biting-finish-edges-out-ncp-sp-rival-by-377-votes",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "https://www.freepressjournal.in/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Free Press Journal",
+        "title": "Maharashtra Elections Results 2024: Manda Vijay Mhatre Retains Belapur Seat In Nail-Biting Finish, Edges Out NCP (SP) Rival By 377 Votes",
+        "title_full": "Maharashtra Elections Results 2024: Manda Vijay Mhatre Retains Belapur Seat In Nail-Biting Finish, Edges Out NCP (SP) Rival By 377 Votes",
+        "published": "2024-11-23T21:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2024-11-24/9tpic1xk/IMG-20241123-WA0089.jpg",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ecee513058ffb759fb4df3406303c83ab8d316e9",
+    "url": "https://www.freepressjournal.in/elections-2018/maharashtra-elections-results-2024-manda-vijay-mhatre-retains-belapur-seat-in-nail-biting-finish-edges-out-ncp-sp-rival-by-377-votes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Raina Assainar",
+    "published": "2024-11-23T21:10:00.000+02:00",
+    "title": "Maharashtra Elections Results 2024: Manda Vijay Mhatre Retains Belapur Seat In Nail-Biting Finish, Edges Out NCP (SP) Rival By 377 Votes",
+    "text": "Throughout the counting process, Mhatre and Naik exchanged leads, with both candidates briefly ahead at different points. However, Mhatre regained the lead in the 27th round and ultimately secured the win.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashok Ankush Gawade",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sandeep Ganesh Naik",
+                "sentiment": "none"
+            },
+            {
+                "name": "Manda Vijay Mhatre",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Maharashtra Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Belapur Assembly",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:29:38.318+02:00",
+    "updated": "2024-11-24T03:11:39.889+02:00"
+}

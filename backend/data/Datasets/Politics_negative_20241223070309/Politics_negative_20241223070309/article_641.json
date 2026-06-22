@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "997c36d1077537dd99a21652bf7635c4ecc8445c",
+        "url": "https://www.wwnytv.com:443/2024/11/22/north-country-lawmakers-criticize-border-crossing-change",
+        "site_full": "www.wwnytv.com",
+        "site": "wwnytv.com",
+        "site_section": "https://wwnytv.com/homepage",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WWNY | News, Weather, and Sports | Watertown, N.Y.",
+        "title": "North Country lawmakers criticize border crossing change",
+        "title_full": "North Country lawmakers criticize border crossing change",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wwny-prod.gtv-cdn.com/resizer/v2/H56ZXIK7EBBA7OCASYJHDAV5WA.jpg?auth=04a312c43aedcd59e3f2c1d29992f323eb8351b9b5b0407f718fc806496f560b&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 26125,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "997c36d1077537dd99a21652bf7635c4ecc8445c",
+    "url": "https://www.wwnytv.com:443/2024/11/22/north-country-lawmakers-criticize-border-crossing-change",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@7NewsWatertown",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "North Country lawmakers criticize border crossing change",
+    "text": "North Country lawmakers criticize border crossing change\nWATERTOWN, New York (WWNY) - North Country Republicans are voicing concerns with a recently announced change to several ports of entry on the U.S.-Canada border in New York state.\nStarting January 6, several border crossings will have their hours cut, meaning traffic will no longer be able to cross 24 hours a day.\nChanges are set for ports of entry in Chateaugay, Trout River, Rouses Point, and Overton Corners.\nAccording to Customs and Border Protection, the move will allow for better staffing at the state’s busiest ports of entry.\nIn a statement, Senator Dan Stec criticized the decision pointing to the ways in which it could negatively affect emergency services near the border. Assemblyman Scott Gray also believes it’s the wrong decision.\n“This is taking a large hammer if you will to the problem instead of trying to secure the border,” said Gray.\n“They’ll just go ahead and announce without checking with local communities “hey how’s this going to impact you?”. It’s sloppy and reckless. I’d expect more from our federal government,” said Stec.\nGovernor Hochul is also against the changes.\nStec is hopeful this could be overturned. The crossings near Alexandria Bay, Ogdensburg, Massena, Champlain, and Fort Covington will still be open 24/7.\nCopyright 2024 WWNY. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Gray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Stec",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Customs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chateaugay",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:14:59.855+02:00",
+    "updated": "2024-11-23T01:14:59.855+02:00"
+}

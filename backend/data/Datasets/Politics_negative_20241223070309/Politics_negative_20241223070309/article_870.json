@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "2ab068b5f33672ae8b2373ab7ebca196173590f9",
+        "url": "https://www.13abc.com/2024/11/22/i-team-investigation-understaffing-toledos-code-compliance-division",
+        "site_full": "www.13abc.com",
+        "site": "13abc.com",
+        "site_section": "http://www.13abc.com/homepage",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WTVG | 13Action News, Local News and Weather",
+        "title": "I-TEAM Investigation: Understaffing in Toledo’s code compliance division",
+        "title_full": "I-TEAM Investigation: Understaffing in Toledo’s code compliance division",
+        "published": "2024-11-23T01:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wtvg-prod.gtv-cdn.com/resizer/v2/RAODQJLSXRBZBMP3ATMBWY23L4.png?auth=ca0b14e14c64fa46bfa2ffe8d2d4b1c4d1a0b96b94f1a62bbd30e16f8b110be7&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 16719,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ab068b5f33672ae8b2373ab7ebca196173590f9",
+    "url": "https://www.13abc.com/2024/11/22/i-team-investigation-understaffing-toledos-code-compliance-division",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sophie Bates",
+    "published": "2024-11-23T01:30:00.000+02:00",
+    "title": "I-TEAM Investigation: Understaffing in Toledo’s code compliance division",
+    "text": "TOLEDO, Ohio (WTVG) - Understaffing is causing some major challenges for Toledo’s Department of Building and Code Compliance, according to the department’s Director Jim Molnar.The department has eight code compliance inspectors who investigate structure concerns on a daily basis. There are two additional inspectors, but one is a court liaison and the other is reserved for special projects.“It’s a struggle,” Molnar said. “We could definitely use twice as many, if not three times as many, people.”Molnar’s assessment is backed up by a 2021 report from the Center for Community Conclusion, which concludes that other cities with “successful” code enforcement have far more inspectors than Toledo; Rochester, New York, for example, has 30 code inspectors and San Antonio, Texas has 100, as compared to Toledo’s eight.It’s a fact city leaders are well aware of.“Well, you really need three to six times as many compliance officers,” Toledo City Council Member Theresa Gadus said, during a budget hearing for the department Friday morning. “That’s just something for us to put in our head for if we happen to find a mountain of money somewhere.”During the meeting, council members also noted that several times this year code inspectors have had to drop everything to help investigate large problem properties, like Ashland Manor and Covenant House . In order to handle those duties, on top of everything else, inspectors are being asked to work long overtime hours.“The eight inspectors that we have assigned to the neighborhoods, put their heart and soul into trying to make it enough,” Molnar said. Latest Local News | First Alert Weather | Crime | National | 13abc Originals Copyright 2024 WTVG. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Theresa Gadus",
+                "sentiment": "none"
+            },
+            {
+                "name": "Molnar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Center for Community Conclusion",
+                "sentiment": "none"
+            },
+            {
+                "name": "Toledo City Council",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:37:50.856+02:00",
+    "updated": "2024-11-28T07:10:09.225+02:00"
+}

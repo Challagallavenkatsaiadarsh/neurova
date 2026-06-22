@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "3aec6029a88c614befc35401efa851dd1b3cba18",
+        "url": "https://insideevs.com/news/742024/tesla-regulatory-sales-profit",
+        "site_full": "insideevs.com",
+        "site": "insideevs.com",
+        "site_section": "https://insideevs.com/rss/google/news/",
+        "site_categories": [
+            "vehicles"
+        ],
+        "section_title": "InsideEVs",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5233,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3aec6029a88c614befc35401efa851dd1b3cba18",
+    "url": "https://insideevs.com/news/742024/tesla-regulatory-sales-profit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "",
+    "text": "Elon Musk spent around $200 million to help elect President Donald Trump. It was a surprising pairing, as Trump has long criticized electric vehicles, the primary thing Musk's biggest company makes. Trump has [promised to get rid of the federal clean vehicle incentive for consumers](https://insideevs.com/news/741977/auto-industry-trump-trump-credits/), which [Musk says will ultimately help Tesla](https://insideevs.com/news/741135/tesla-ev-tax-credit-end/). But if Trump delivers on another promise—rolling back emissions standards for other automakers—it may hurt another key Tesla revenue stream.\nTesla earned $2.1 billion by selling regulatory credits to other automakers in the first three quarters of 2024, according to [reporting from The New York Times](https://www.nytimes.com/2024/11/21/climate/gm-ford-electric-vehicles-trump.html) based on the company's regulatory filings. That accounts for 43% of the automaker's—er... \"A.I. company's\"—profit.\nThese credits have long been a big part of Tesla's business. U.S. and other government standards require automakers to hit fleet-wide emissions targets. Companies that are above those targets must buy credits to bring down their average. They buy credits from companies like Tesla, which only makes zero-emissions vehicles, and other brands that are more efficient than required by law. This incentivizes companies to beat their targets, as it opens up a valuable revenue stream, while still providing leeway for those that can't or don't want to sell more efficient vehicles.\nThe credit-selling business was even more crucial to Tesla earlier on. Back when other automakers were struggling to get their EV programs off the ground, and Tesla was losing money on most cars it made, profit from regulatory credits was a lifeline. Many have argued it would have never survived without them.\nBut in hitching his wagon to Trump's, Musk has gambled that Tesla no longer needs government incentives for consumer purchases, or for its EV and battery factories or to drive its regulatory credit business. Musk has long said that Tesla is not a car company, and that its future ambitions lie in autonomy and A.I. For those who like Tesla for the cars, however, the CEO's increasing focus on A.I. and politics is disconcerting. After all, Tesla is a company that primarily builds cars, and one that would not exist today without a series of manufacturing incentives, consumer incentives and regulatory schemes that all helped it cross \"the valley of death\" that dooms many start-ups.\nDespite supposedly being in it for the altruistic purpose of transitioning the whole world to sustainable energy, it sure looks like Musk is trying to pull up the ladder behind him. That's not a great look. But when you haven't stepped off the ladder yourself, it could be quite dangerous, too.\nContact the author: [Mack.hogan@insideevs.com](mailto:Mack.hogan@insideevs.com).\nRECOMMENDED FOR YOU\nOver 50% Of The World's Drivers Expect To Have An EV In The Next 10 Years\nHyundai, Kia Recall Over 200,000 EVs Because They Might Lose Power While Driving\nCheap Used EVs Will Flood The Market In The Next Two Years, Experts Say\nRivian CEO On Dealer Laws: 'As Close As You Can Get To Corruption'\nWhy Hyundai, Samsung And Korea May Stay Ahead In The Trump Era\nAuto Industry Urges Trump: 'Preserve The Tax Credits'\nChina's BYD Hits The Brakes On Canadian Expansion Plans",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nytimes.com/2024/11/21/climate/gm-ford-electric-vehicles-trump.html",
+        "https://nytimes.com/2024/11/21/climate/gm-ford-electric-vehicles-trump.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "New York Times",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:50:36.159+02:00",
+    "updated": "2024-11-23T00:53:41.889+02:00"
+}

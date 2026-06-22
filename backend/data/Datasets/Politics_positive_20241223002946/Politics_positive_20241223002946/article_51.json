@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "fbbf4caf59ec833460e01c74973db9af4ed52dcb",
+        "url": "https://worldview.stratfor.com/article/what-next-senegal-after-presidents-landslide-victory-snap-legislative-elections",
+        "site_full": "worldview.stratfor.com",
+        "site": "stratfor.com",
+        "site_section": "https://worldview.stratfor.com/logout",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Stratfor: The World&#x27;s Leading Geopolitical Intelligence Platform",
+        "title": "What is Next for Senegal After The President's Landslide Victory in Snap Legislative Elections",
+        "title_full": "What is Next for Senegal After The President's Landslide Victory in Snap Legislative Elections",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.stratfor.com/sites/default/files/styles/16x9_small/public/Senegal%20Election%20GettyImages-2184588885.jpg?itok=up4FgDAI",
+        "performance_score": 0,
+        "domain_rank": 8335,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fbbf4caf59ec833460e01c74973db9af4ed52dcb",
+    "url": "https://worldview.stratfor.com/article/what-next-senegal-after-presidents-landslide-victory-snap-legislative-elections",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Analyst",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "What is Next for Senegal After The President's Landslide Victory in Snap Legislative Elections",
+    "text": "Sign Out\nNov 22, 2024 | 15:24 GMT\n(Photo by MARIE RUWET / AFP)\nAfter securing a strong parliamentary majority, Senegal's ruling Patriots of Senegal party, or PASTEF, is set to implement fiscal consolidation measures to stabilize public finances, which will ease market concerns but risk eroding public support for the party over time. On Nov. 21, Senegal's National Commission for the Counting of Votes unveiled provisional results for the country's Nov. 17 snap legislative elections that showed that PASTEF won 130 of the National Assembly's 165 seats. Trailing second was former President Macky Sall's Takku Wallu Senegal coalition with 16 seats, followed by former Prime Minister Amadou Ba's Diam Ak Njarin with seven seats, and three seats for the Samm Sa Kaadu led by Dakar mayor Bathelemy Dias. Despite political tensions between PASTEF and the opposition during the campaign, the election was held without any cases of major unrest, and leading opposition figures recognized the results. While Sall denounced \"massive electoral fraud\" in...\nSubscribe Now\nAlready have an account?",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "MARIE RUWET",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Bathelemy Dias",
+                "sentiment": "none"
+            },
+            {
+                "name": "Samm Sa Kaadu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Macky Sall",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amadou Ba",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Assembly",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:25:49.777+02:00",
+    "updated": "2024-11-23T00:25:49.777+02:00"
+}

@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "f76d178b0ec5f7861b33f35d8e30fec71ad778e7",
+        "url": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Total-nonsense-Countryman-Songo-blasts-presidential-staffer-for-blaming-journalists-for-GFA-s-failures-1960963",
+        "site_full": "www.ghanaweb.com",
+        "site": "ghanaweb.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "‘Total nonsense’ - Countryman Songo blasts presidential staffer for blaming journalists for GFA’s...",
+        "title_full": "‘Total nonsense’ - Countryman Songo blasts presidential staffer for blaming journalists for GFA’s...",
+        "published": "2024-11-22T08:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GH",
+        "main_image": "https://cdn.ghanaweb.com/imagelib/pics/960/96042870.jpg",
+        "performance_score": 0,
+        "domain_rank": 8888,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f76d178b0ec5f7861b33f35d8e30fec71ad778e7",
+    "url": "https://www.ghanaweb.com/GhanaHomePage/SportsArchive/Total-nonsense-Countryman-Songo-blasts-presidential-staffer-for-blaming-journalists-for-GFA-s-failures-1960963",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "GhanaWeb",
+    "published": "2024-11-22T08:02:00.000+02:00",
+    "title": "‘Total nonsense’ - Countryman Songo blasts presidential staffer for blaming journalists for GFA’s...",
+    "text": "Firebrand sports journalist Patrick Osei Agyemang, popularly known as Countryman Songo, went on a tirade against a presidential staffer after the latter accused him and other sports journalists of being the cause of the failures of the current [Ghana Football Association](/GhanaHomePage/people/person.php?ID=3586) administration. Nana Hesse Ogyiri, a presidential staffer, during the Thursday, November 21, 2024, edition of Kokrokoo on Peace FM, texted into the show and accused the likes of Countryman Songo, Dan Kwaku Yeboah, and Saddick Adams of bearing responsibility for the failures of the FA through the removal of the former FA President, [Kwesi Nyantakyi](/GhanaHomePage/people/person.php?ID=2695). “Your guests in the studio, Dan Kwaku Yeboah, Countryman Songo, and Saddick, are all part of the football problem. First of all, they should apologize to [Kwesi Nyantakyi](/GhanaHomePage/people/person.php?ID=2695); the healing of the [Black Stars](/GhanaHomePage/people/person.php?ID=3622) will follow right after that,” his text was read by Kwami Sefa Kayi. But in a sharp rebuttal, Songo questioned the rationale behind the statement, questioning how Nyantakyi’s removal should have any bearing on the competence of the current GFA administration led by Kurt E.S. Okraku. “It is total nonsense. They shouldn’t let me get into my elements. If I get into my element, things will happen in this town. It is total nonsense. Do I take decisions? Am I Kurt? Am I coach Otto Addo, the trainer scout? Am I a player? Am I the sports minister?” he fumed. “Yes, I am the fireman, but what is my contribution to Ghana football or sports in Ghana? It is just to keep people on their toes. Do I make decisions or take decisions? Am I the person that gives them money? What has Nyantakyi done to me, or what have I done to that man? I question your achievements, what you are doing, the transparency in our football, and how things are developing. That is what we have been doing and continue to do. How does that affect your work if you are discharging your duties well? Am I a policeman to be arresting people? Am I a CID officer to be interrogating people? I do my work as a journalist to keep the system on their toes,” he added. The current GFA administration has been under fire following a series of abysmal performances by the [Black Stars](/GhanaHomePage/people/person.php?ID=3622), culminating in the recent failure of the senior national team in their 2025 African Cup of Nations (AFCON) campaign. The [Black Stars](/GhanaHomePage/people/person.php?ID=3622), under coach Otto Addo, failed to qualify for the 2025 AFCON tournament. After six matches, Ghana was left at the bottom of Group F with just three points, recording three losses and three draws. In Group F, Angola and Sudan qualified, while Ghana and Niger failed to progress to the next stage of the competition. It is the first time in 21 years that Ghana has failed to qualify for the Africa Cup of Nations (AFCON). Listen Songo below:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Sport",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Patrick Osei Agyemang",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nana Hesse Ogyiri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Kwaku Yeboah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kwesi Nyantakyi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kwami Sefa Kayi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Saddick Adams",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ghana Football Association",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:23.749+02:00",
+    "updated": "2024-11-23T00:08:23.749+02:00"
+}

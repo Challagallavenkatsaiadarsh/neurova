@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "05a5038925f5561813b00ec93d3996661d97175e",
+        "url": "https://tribune.com.pk/story/2511548/sudan-army-says-recaptures-key-state-capital",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://tribune.com.pk/latest",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Latest News, Breaking News & Top News Stories | The Express Tribune ",
+        "title": "Sudan army says recaptures key state capital",
+        "title_full": "Sudan army says recaptures key state capital",
+        "published": "2024-11-24T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.tribune.com.pk/media/images/W-Sudan1721005254-0/W-Sudan1721005254-0.jpg",
+        "performance_score": 0,
+        "domain_rank": 4084,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "05a5038925f5561813b00ec93d3996661d97175e",
+    "url": "https://tribune.com.pk/story/2511548/sudan-army-says-recaptures-key-state-capital",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "AFP",
+    "published": "2024-11-24T01:00:00.000+02:00",
+    "title": "Sudan army says recaptures key state capital",
+    "text": "The Sudanese army said Saturday it had retaken a key state capital south of Khartoum from rival paramilitaries who had held it for the past five months.\nThe Sennar state capital of Sinja is a strategic prize in the 19-month-old war between the regular army and the paramilitary Rapid Support Forces as it lies on a key road linking army-controlled areas of eastern and central Sudan.\nThe army said that Sinja had been \"liberated... from the terrorist militia\".\nIt posted footage on social media that it said had been filmed inside the main base in the city.\n\"Sinja has returned to the embrace of the nation,\" the information minister of the army-backed government, Khaled al-Aiser, said in a statement.\nAiser's office said armed forces chief Abdel Fattah al-Burhan had travelled to the city of Sennar, 60 kilometres (40 miles) to the north, on Saturday to \"inspect the operation and celebrate the liberation of Sinja\".\nThe RSF had taken the two cities in a lightning offensive in June that saw nearly 726,000 civilians flee, according to UN figures.\nHuman rights groups have said that those who were unwilling or unable to leave have faced months of arbitrary violence by RSF fighters.\nSinja teacher Abdullah al-Hassan spoke of his \"indescribable joy\" at seeing the army enter the city after \"months of terror\".\n\"At any moment, you were waiting for militia fighters to barge in and beat you or loot you,\" the 53-year-old told AFP by telephone.\nBoth sides in the Sudanese conflict have been accused of war crimes, including indiscriminately shelling homes, markets and hospitals.\nThe RSF has also been accused of summary executions, systematic sexual violence and rampant looting.\nThe paramilitaries control nearly all of the vast western region of Darfur as well as large swathes of Kordofan in the south.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our [Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Khaled al-Aiser",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Rapid Support Forces",
+                "sentiment": "none"
+            },
+            {
+                "name": "UN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Sennar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sinja",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:53:28.238+02:00",
+    "updated": "2024-11-24T04:53:28.238+02:00"
+}

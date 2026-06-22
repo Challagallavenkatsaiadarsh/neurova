@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "3eceb8cc35d49f93257c83feedcdf21b9744a361",
+        "url": "https://news.knowledia.com/us/en/articles/china-s-surveillance-state-faces-black-market-challenges-insider-leaks-fa9cfa4c40a726636c21d9cb4a85295bdf14e10c",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/us/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "China's Surveillance State Faces Black Market Challenges: Insider Leaks Create Data Breach Ecosystem",
+        "title_full": "China's Surveillance State Faces Black Market Challenges: Insider Leaks Create Data Breach Ecosystem",
+        "published": "2024-11-23T00:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3eceb8cc35d49f93257c83feedcdf21b9744a361",
+    "url": "https://news.knowledia.com/us/en/articles/china-s-surveillance-state-faces-black-market-challenges-insider-leaks-fa9cfa4c40a726636c21d9cb4a85295bdf14e10c",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jose Enrico",
+    "published": "2024-11-23T00:02:00.000+02:00",
+    "title": "China's Surveillance State Faces Black Market Challenges: Insider Leaks Create Data Breach Ecosystem",
+    "text": "Insiders at China's surveillance agencies leak citizen data to black markets, fueling a thriving trade of sensitive info for as little as a few dollars. China's huge state surveillance system has developed into a double-edged sword. Designed to track more than one billion citizens with unprecedented precision, it has inadvertently fueled a thriving black market.\nInsiders working within government agencies and state contractors are selling access to sensitive citizen data to the highest bidders, exposing cracks in the country's security system.\nThe Underground Market in Data Leaks\nSpyCloud, a cyber security firm, reported that the services running their operations on Telegram openly sell the private information collected from government agencies. According to WIRED's report, operations hire insiders within surveillance agencies and other private contractors who offer huge financial rewards.\nFor a few dollars in cryptocurrency, buyers can fetch phone numbers, banking records, traveling details, and even location data. Premium search operations costing hundreds of dollars promise sensitive information including passport scans and real-time location data.\n\"China has created this massive surveillance apparatus,\" SpyCloud researcher Aurora Johnson tracked how surveillance data reaches the black market.\n\"And ordinary individuals find themselves working in a…\nJose Enrico",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.techtimes.com/articles/308380/20241121/chinas-surveillance-state-faces-black-market-challenges-insider-leaks-create-data-breach-ecosystem.htm",
+        "https://techtimes.com/articles/308380/20241121/chinas-surveillance-state-faces-black-market-challenges-insider-leaks-create-data-breach-ecosystem.htm"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:19:19.264+02:00",
+    "updated": "2024-11-23T00:19:19.264+02:00"
+}

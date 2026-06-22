@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "c6086c26f49086b7e91be0eb33365db4ff2d3d4a",
+        "url": "https://nextshark.com/rfk-jr-covid-pandemic-conspiracy-videos",
+        "site_full": "nextshark.com",
+        "site": "nextshark.com",
+        "site_section": "https://nextshark.com/happening-now",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Happening Now - Latest Asian American News | NextShark",
+        "title": "RFK Jr. pushes conspiracy theory that COVID spared Chinese and Jews in resurfaced videos",
+        "title_full": "RFK Jr. pushes conspiracy theory that COVID spared Chinese and Jews in resurfaced videos",
+        "published": "2024-11-22T22:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://data.nextshark.com/wp-content/uploads/2024/11/RFK-conspiracy-theory-COVID-19.jpg",
+        "performance_score": 0,
+        "domain_rank": 14983,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c6086c26f49086b7e91be0eb33365db4ff2d3d4a",
+    "url": "https://nextshark.com/rfk-jr-covid-pandemic-conspiracy-videos",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bryan Ke",
+    "published": "2024-11-22T22:57:00.000+02:00",
+    "title": "RFK Jr. pushes conspiracy theory that COVID spared Chinese and Jews in resurfaced videos",
+    "text": "RFK Jr. pushes conspiracy theory that COVID spared Chinese and Jews in resurfaced videos\nBy\n[Bryan Ke](/author/bryanke)Newly resurfaced videos of Robert F. Kennedy Jr. supporting the COVID-19 “plandemic” conspiracy theory are alarming health experts.\n- Catch up: President-elect\n[Donald Trump](/tag/donald-trump)[nominated](https://edition.cnn.com/2024/11/14/politics/robert-f-kennedy-donald-trump-hhs/index.html)Kennedy, a prominent anti-vaccine conspiracy theorist, as the new Department of Health and Human Services (HHS) secretary days[after his election win](/donald-trump-reclaims-white-house). Kennedy, who must still undergo[Senate confirmation](https://www.senate.gov/about/powers-procedures/nominations.htm), was widely criticized in 2023 for making[anti-Asian and antisemitic conspiracy claims](/robert-f-kennedy-jr-covid-controversy), alleging[COVID-19](/tag/covid-19)attacked only white and Black people while sparing the Chinese and Ashkenazi Jews. - What he’s saying: In a resurfaced August 2020 video from a press conference in Germany, Kennedy described the pandemic as a “part of a sinister scheme” that was “planned from the outset.” Although he admitted lacking evidence to prove his theory, he said it was created as “weapons of obedience for authoritarian regimes.” In those same remarks, he also compared the health response to COVID-19 to Nazi Germany testing “vaccines on Gypsies and Jews,” calling it a “biosecurity agenda” that would “enslave the human race.” In another video filmed in Huntington Beach, California, in June 2021, he claimed the pandemic was created to impose “totalitarian rule” through “psychological warfare” orchestrated with the aid of CIA experts.\n- Why it matters: Health experts have expressed concern over Kennedy’s nomination. Speaking to\n[The Bulwark](https://www.thebulwark.com/p/rfk-government-planned-covid-pandemic), Dr. Peter Hotez, dean of the National School of Tropical Medicine at Baylor College of Medicine, warned that “if you put someone who is so easily susceptible to conspiracy theories in charge, it can only spell disaster for the American people.” Meanwhile, Paul Offit, a pediatrician and virologist at the Children’s Hospital of Philadelphia who serves on the FDA’s vaccine advisory committee, believes Kennedy is just a “conspiracy theorist who has no evidence for his conspiracies other than the fact that he believes them.”\nShare this Article\nShare this Article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://edition.cnn.com/2024/11/14/politics/robert-f-kennedy-donald-trump-hhs/index.html",
+        "https://www.thebulwark.com/p/rfk-government-planned-covid-pandemic",
+        "https://www.senate.gov/about/powers-procedures/nominations.htm",
+        "https://www.edition.cnn.com/2024/11/14/politics/robert-f-kennedy-donald-trump-hhs/index.html",
+        "https://senate.gov/about/powers-procedures/nominations.htm",
+        "https://thebulwark.com/p/rfk-government-planned-covid-pandemic"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bryan K",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:12:51.281+02:00",
+    "updated": "2024-11-23T00:12:51.281+02:00"
+}

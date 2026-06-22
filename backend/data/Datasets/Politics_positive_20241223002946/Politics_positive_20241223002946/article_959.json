@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "14d4506557dcdb66b21dbe41ba0ca0d81ada6c80",
+        "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2024/11/22/celtics-white-house-visit-puts-a-bow-on-championship-celebrations/76507725007",
+        "site_full": "celticswire.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "https://sportsdata.usatoday.com",
+        "site_categories": [
+            "sports",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_dk",
+            "top_news_th",
+            "top_news_fi",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "USA TODAY Sports Scores and Odds Hub",
+        "title": "Boston Celtics' visit to the White House puts a bow on championship celebrations",
+        "title_full": "Boston Celtics' visit to the White House puts a bow on championship celebrations",
+        "published": "2024-11-23T05:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/11/22/SWAR/76507751007-usatsi-24558617.jpg?auto=webp&crop=4460,2509,x0,y0&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 153,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "14d4506557dcdb66b21dbe41ba0ca0d81ada6c80",
+    "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2024/11/22/celtics-white-house-visit-puts-a-bow-on-championship-celebrations/76507725007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Celtics Wire",
+    "published": "2024-11-23T05:38:00.000+02:00",
+    "title": "Boston Celtics' visit to the White House puts a bow on championship celebrations",
+    "text": "The Boston Celtics attended the White House on Thursday, Nov. 21, as the final part of their championship celebrations. The team met with President Joe Biden, took photographs and created lifelong memories. Former Celtic Oshae Brissett was also in attendance as he accepted his invite to reunite with his former teammates for the day. After the event, Bobby Manning and Noa Dalzel of \"The Garden Report\" discussed their takeaways from the day, with both having been in attendance for the event. The pair discussed how the Celtics responded to being honored by the current president and the jokes Biden made during the day, including revealing his code name was 'Celtic.' With the White House visit now consigned to memory, the Celtics must turn their attention to the task at hand: retaining their championship and adding a 19th banner into the rafters of the TD Garden. They will face the Washington Wizards on Friday, Nov. 22. You can watch the full episode of \"The Garden Report\" by clicking on the embedded video above. Listen to the \"Taylor Talks Celtics\" podcast on: Apple Podcasts: https://apple.co/4g3N9bj Spotify: https://spoti.fi/3XoObHt YouTube: https://bit.ly/3QnlPcS Substack: https://bit.ly/3WoA0Cf",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Arts, Culture and Entertainment",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://bit.ly/3WoA0Cf",
+        "https://apple.co/4g3N9bj",
+        "https://bit.ly/3QnlPcS",
+        "https://spoti.fi/3XoObHt",
+        "https://www.spoti.fi/3XoObHt",
+        "https://www.bit.ly/3WoA0Cf",
+        "https://www.apple.co/4g3N9bj",
+        "https://www.bit.ly/3QnlPcS"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobby Manning",
+                "sentiment": "none"
+            },
+            {
+                "name": "Noa Dalzel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Boston Celtics",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:54:54.278+02:00",
+    "updated": "2024-11-23T05:54:54.278+02:00"
+}

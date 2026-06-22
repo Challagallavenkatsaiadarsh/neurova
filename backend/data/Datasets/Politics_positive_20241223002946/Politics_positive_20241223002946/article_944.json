@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "a3b6124b94dbcb2d11504ecf753a40d42ed07e62",
+        "url": "https://thenationonlineng.net/edo-apc-chieftain-congratulates-audu-on-new-appointment",
+        "site_full": "thenationonlineng.net",
+        "site": "thenationonlineng.net",
+        "site_section": "https://www.yohaig.ng",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Naija News 247 | Naijanews Headlines Today | 9ja News",
+        "title": "Edo APC chieftain congratulates Audu on new appointment",
+        "title_full": "Edo APC chieftain congratulates Audu on new appointment",
+        "published": "2024-11-23T02:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 14224,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3b6124b94dbcb2d11504ecf753a40d42ed07e62",
+    "url": "https://thenationonlineng.net/edo-apc-chieftain-congratulates-audu-on-new-appointment",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Reporter",
+    "published": "2024-11-23T02:58:00.000+02:00",
+    "title": "Edo APC chieftain congratulates Audu on new appointment",
+    "text": "The Chairman/Convener Progressive Solidarity for Asiwaju (PSA), and human rights and justice Lawyer, Chief Ibrahim Bamidele Emokpaire, has commended the recent appointment of Hon. Gani Audu as The Chief of Staff to the Governor, describing it as well-deserved recognition under the APC-led administration of Governor Monday Okpebholo.\nGovernor Okpebholo, a former senator representing Esan Central and the current Executive Governor of Edo State, recently approved the appointment of Hon. Gani Audu, a former member of the Edo State House of Assembly and Former Chairman of Etsako West Local Government, as the Chief of Staff.\nThe announcement, made through a press release by Governor Okpebholo’s spokesperson, Mr. Fred Itua, has been widely praised.\nRelated News Emokpaire while lauding Audu’s appointment noted that “his appointment is a strategic choice, selecting individuals who have consistently demonstrated their competence and dedication in their respective fields is a square peg in a square hole.”\nHe also highlighted the proven track records of the appointee, emphasizing his potential to outperform his assignment. “Audu has long been a voice of progress and champion of development. I am confident he will bring about meaningful change in this capacity,” Emokpaire added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gani Audu",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Ibrahim Bamidele Emokpaire",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fred Itua",
+                "sentiment": "none"
+            },
+            {
+                "name": "Okpebholo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Edo State House of Assembly",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:48:01.797+02:00",
+    "updated": "2024-11-23T05:48:01.797+02:00"
+}

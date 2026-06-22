@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "803597b4eb707522437b092a3e3b44111b15da1c",
+        "url": "https://thenationonlineng.net/edo-diaspora-culture-promoters-congratulate-okpebholo",
+        "site_full": "thenationonlineng.net",
+        "site": "thenationonlineng.net",
+        "site_section": "https://www.yohaig.ng",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Naija News 247 | Naijanews Headlines Today | 9ja News",
+        "title": "Edo Diaspora Culture Promoters congratulate Okpebholo",
+        "title_full": "Edo Diaspora Culture Promoters congratulate Okpebholo",
+        "published": "2024-11-22T23:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 14224,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "803597b4eb707522437b092a3e3b44111b15da1c",
+    "url": "https://thenationonlineng.net/edo-diaspora-culture-promoters-congratulate-okpebholo",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Reporter",
+    "published": "2024-11-22T23:19:00.000+02:00",
+    "title": "Edo Diaspora Culture Promoters congratulate Okpebholo",
+    "text": "International Culture promoters of Edo State origin have sent out a message of congratulations to Gov Monday Okpebholo who just assumed office on November 12, 2024.\nIn a letter signed by Cultural Ambassador Isaac Izoya and Igbinosun Dickson Osarobo (24Bits), the group going by the aegis of Edo Diaspora Culture Promoters (EDCP) wrote “We write to congratulate you on your victory and assumption of office after a keenly contested election.\nWe urge you to continue to be a man of the people like you have always been since your years at the National Assembly.\nRelated News We urge you not to forget the importance of cultural promotion in the international marketing of our dear state because of the huge benefits accruing from it.\nAside this, we also urge you not to let the widely celebrated culture of the Edo people die during your watch.\nWe offer our culture promotion know-how to the service of our dear state.We are eagerly awaiting your invitation to discuss ways and means of non- stop promotion of Edo culture and tradition internationally.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://en.wikipedia.org/wiki/Monday_Okpebholo",
+        "https://www.en.wikipedia.org/wiki/Monday_Okpebholo"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Igbinosun Dickson Osarobo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Isaac Izoya",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Assembly",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:01:49.021+02:00",
+    "updated": "2024-11-23T03:01:49.021+02:00"
+}

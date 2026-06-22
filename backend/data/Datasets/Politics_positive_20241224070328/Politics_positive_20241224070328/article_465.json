@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "4e79a23669631de9d11f3c96c1a53378d5644c7c",
+        "url": "https://indianexpress.com/article/political-pulse/maharashtra-assembly-polls-how-mahayuti-overcame-farm-distress-to-reap-rich-poll-harvest-9686860",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://indianexpress.com/feed/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "The Indian Express",
+        "title": "Maharashtra Assembly polls: How Mahayuti overcame farm distress to reap rich poll harvest",
+        "title_full": "Maharashtra Assembly polls: How Mahayuti overcame farm distress to reap rich poll harvest",
+        "published": "2024-11-23T22:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/mahayuti2-5colp.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4e79a23669631de9d11f3c96c1a53378d5644c7c",
+    "url": "https://indianexpress.com/article/political-pulse/maharashtra-assembly-polls-how-mahayuti-overcame-farm-distress-to-reap-rich-poll-harvest-9686860",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Partha Sarathi Biswas",
+    "published": "2024-11-23T22:45:00.000+02:00",
+    "title": "Maharashtra Assembly polls: How Mahayuti overcame farm distress to reap rich poll harvest",
+    "text": "Lower-than-expected soybean prices notwithstanding, the Mahayuti scripted a spectacular win in Maharashtra, returning to power with a thumping majority. Among the many reasons now being credited for this comeback is the success of the Ladki Bahin Yojana and the delay by the Opposition to make farm distress a major issue. Commodity analyst and farm adviser Deepak Chavan said the Ladki Bahin Yojana managed to put liquidity in the hands of women. “If we analyse the trends of voting, it is clear that the scheme is a hit among women. The increased voting percentage, especially of women in many parts, surely helped the government,” he said. In the soyabean-growing areas of Marathwada and cotton-growing areas of Vidarbha, the scheme entailed direct deposit of Rs 1,500 per month into the accounts of the women, helping the Mahayuti tide over the soyabean crisis. “At one go many women got Rs 3,000-6,000 in their accounts. This helped in making up for their losses and for a moment they forgot about the soyabean crisis,” he said. A Congress leader admitted the scheme has had its effect. “The narrative that was created was that the scheme would be stopped if the Mahayuti did not come back to power. Unfortunately, we were not able to negate that narrative. Our manifesto did talk about topping up the scheme but somehow they got the first-movers advantage,” the leader said. The entire discourse of farm distress especially the soyabean crisis was turned into an election issue by the Oppositiosn quite late. Farm leader Vijay Jawandiya spoke about how Prime Minister Narendra Modi talked about giving Rs 6,000 to soyabean farmers. “Rahul Gandhi did take it up and said the party would provide more assistance to farmers but by then the message had lost its sting. Farm distress, while evident on the ground, was absent to an extent in the Opposition campaign. The Mahayuti had hit the ground soon after the Lok Sabha debacle, but most MVA leaders took their victory for granted,” he said. Jawandhiya drew attention to how cotton, the main crop in Vidarbha, is touching rock bottom every day but most MVA leaders did not take it up the way it should have been. “Overall it is the better people management of the Mahayuti which won the day for them,” he said. Grown over 50 lakh hectares soyabean is the main cash crop in Marathwada and Vidarbha. Trading at lower than the government declared Minimum Support Price (MSP), growers of soyabean have been facing losses since the start of the season, with no government procurement happening.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ladki Bahin Yojana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Deepak Chavan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maharashtra Assembly",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vidarbha",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:04:08.940+02:00",
+    "updated": "2024-11-24T05:28:55.175+02:00"
+}

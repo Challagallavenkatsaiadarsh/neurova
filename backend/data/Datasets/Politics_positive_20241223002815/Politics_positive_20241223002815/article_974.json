@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "a27c4bd163cdfa15b6d5e261fd0636ab3e580fcd",
+        "url": "https://www.thestatesman.com/bengal/tmc-confident-of-wins-in-all-assemblies-1503367916.html",
+        "site_full": "www.thestatesman.com",
+        "site": "thestatesman.com",
+        "site_section": "https://thestatesman.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest News, India News, Breaking News, Today&#039;s News Headlines Online | The Statesman",
+        "title": "TMC confident of wins in all Assemblies",
+        "title_full": "TMC confident of wins in all Assemblies",
+        "published": "2024-11-22T17:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 13679,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a27c4bd163cdfa15b6d5e261fd0636ab3e580fcd",
+    "url": "https://www.thestatesman.com/bengal/tmc-confident-of-wins-in-all-assemblies-1503367916.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SNS",
+    "published": "2024-11-22T17:50:00.000+02:00",
+    "title": "TMC confident of wins in all Assemblies",
+    "text": "With announcement of results of bypolls in six Assemblies in West Bengal scheduled on Saturday, the electoral prospects of the ruling Trinamul Congress and the will be decided.\nIt remains to be seen if the heinous crime at RG Kar hospital will have any impact on the ballot boxes.\nThe bypolls in Sitai, Madarihat, Medinipur, Taldangra, Haroa and Naihati in Cooch Behar, Alipurduar, East Midnapore, Bankura and North 24 Parganas districts were held on 13 November with reports of around 70 per cent voter turnout.\nTrinamul Congress had won five Assemblies in 2021 elections except Madarihat that was bagged by the BJP. In 2021, the ruling party in the state had more than 50 per cent votes in Naihati, Haroa and Medinipur seats while it was around 45 per cent in Sitai and Taldangra constituencies.\nIn Madarihat, it had around 37 per cent votes.\nHardly, 14-15 months ahead of the Assembly elections scheduled in 2026 in the state, it would be politically significant if Trinamul Congress maintain the status quo retaining the five seats they had won in 2021 particularly at the backdrop against the R G Kar Hospital incident.\nIn the last bypolls to four Assemblies – Raniganj, Ranaghat Dakshmin, Bagda and Maniktala – held in July Trinamul Congress had bagged all.\nThe bypolls in the six constituencies have a political significance because this time four-corner fights among main contesting parties Trinamul Congress, BJP, CPM and CPM-backed Indian Secular Front (ISF) and CPIM(L). Congress, breaking its earlier electoral alliance with the CPM, fielded its candidates in the six Assemblies to contest elections.\nThe Opposition failed to achieve any impressive result in electoral battles held in the state in recent times. Particularly the CPM had tried hard to channelise public sentiments by harping on the R G Kar Hospital incident.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TMC",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Trinamul Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Bengal",
+                "sentiment": "none"
+            },
+            {
+                "name": "East Midnapore",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alipurduar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sitai",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:02:28.201+02:00",
+    "updated": "2024-11-23T06:02:28.201+02:00"
+}

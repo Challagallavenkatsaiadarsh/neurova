@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "a100b6bf8c1edcf4347867e0952d639f4f8be06f",
+        "url": "https://www.foxnews.com/politics/trump-picks-dr-marty-makary-food-drug-administration-commissioner",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://noticias.foxnews.com",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Trump picks Dr. Marty Makary as Food and Drug Administration commissioner | Fox News",
+        "title_full": "Trump picks Dr. Marty Makary as Food and Drug Administration commissioner | Fox News",
+        "published": "2024-11-23T03:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2022/01/Marty-Makary-cc.jpg",
+        "performance_score": 0,
+        "domain_rank": 317,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a100b6bf8c1edcf4347867e0952d639f4f8be06f",
+    "url": "https://www.foxnews.com/politics/trump-picks-dr-marty-makary-food-drug-administration-commissioner",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brie Stimson",
+    "published": "2024-11-23T03:34:00.000+02:00",
+    "title": "Trump picks Dr. Marty Makary as Food and Drug Administration commissioner | Fox News",
+    "text": "President-elect Trump on Friday announced he is nominating Johns Hopkins School of Medicine professor Dr. Marty Makary for Food and Drug Administration (FDA) commissioner.\n\"I am very pleased to nominate Marty Makary MD, MPH, FACS, for FDA Commissioner,\" Trump said in a statement. \"FDA has lost the trust of Americans, and has lost sight of its primary goal as a regulator. The Agency needs Dr. Marty Makary, a Highly Respected Johns Hopkins Surgical Oncologist and Health Policy Expert, to course-correct and refocus the Agency.\"\nMakary’s nomination comes after Trump nominated Robert F. Kennedy, Jr. to lead the Department of Health and Human Services (HHS) to \"Make America healthy again.\"\nTRUMP APPOINTS DR. OZ TO KEY HHS POSITION IN NEW ADMINISTRATION\nTrump said Makary will \"work under the leadership of Robert F. Kennedy Jr. to, among other things, properly evaluate harmful chemicals poisoning our Nation’s food supply and drugs and biologics being given to our Nation’s youth, so that we can finally address the Childhood Chronic Disease Epidemic.\"\nTrump in his statement added that Makary, who was a Fox News medical contributor, is also a \"member of the prestigious National Academy of Medicine\" and \"has devoted his career to improving Medical Quality and lowering Hospital and Drug Costs for all Americans. In addition, Dr. Makary is an accomplished Professor at the Johns Hopkins School of Medicine and Johns Hopkins Carey Business School, and a leading advocate for Healthcare Transparency. He has authored more than 300 scientific articles and three New York Times bestselling books on Healthcare.\nTRUMP NOMINATES SCOTT BESSENT AS TREASURY SECRETARY; PICKS RUSS VOUGHT TO LEAD BUDGET OFFICE\nTrump called Makary a \"pioneer in the fields of Public Health, Cancer Care, and Surgery, and a tireless voice for vulnerable populations. He is the recipient of the Nobility in Science Award from the National Pancreas Foundation and numerous teaching awards. Dr. Makary currently leads the Evidence-Based Medicine and Public Policy Research Group at Johns Hopkins.\"\nHe added, \"I am confident that Dr. Makary, having dedicated his career to High-Quality, Lower-Cost Care, will restore FDA to the Gold Standard of Scientific Research, and cut the bureaucratic red tape at the Agency to make sure Americans get the Medical Cures and Treatments they deserve.\"\nCLICK HERE TO GET THE FOX NEWS APP\nTrump made several other announcements Friday evening as he continues his transition , including Dr. Janette Nesheiwat as surgeon general, and Dr. Dave Weldon to head the U.S. Centers for Disease Control and Prevention (CDC).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marty Makary",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Johns Hopkins School of Medicine",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "none"
+            },
+            {
+                "name": "FDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:39:11.798+02:00",
+    "updated": "2024-11-23T09:59:28.597+02:00"
+}

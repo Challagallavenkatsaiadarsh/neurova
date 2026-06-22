@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "178e07be6a620a8b06f8b84b864023c7d4f4cb69",
+        "url": "https://decrypt.co/293278/trump-nominates-pro-crypto-hedge-fund-manager-scott-bessent-as-treasury-secretary",
+        "site_full": "decrypt.co",
+        "site": "decrypt.co",
+        "site_section": "https://decrypt.co/news",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "News - Decrypt",
+        "title": "Trump Nominates Pro-Crypto Hedge Fund Manager Scott Bessent as Treasury Secretary",
+        "title_full": "Trump Nominates Pro-Crypto Hedge Fund Manager Scott Bessent as Treasury Secretary",
+        "published": "2024-11-23T02:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CO",
+        "main_image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2024/11/Decrypt-Wallpaper-Format-1600-x-900-px-7-gID_7.png",
+        "performance_score": 0,
+        "domain_rank": 3641,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 3
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "178e07be6a620a8b06f8b84b864023c7d4f4cb69",
+    "url": "https://decrypt.co/293278/trump-nominates-pro-crypto-hedge-fund-manager-scott-bessent-as-treasury-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Decrypt / Jason Nelson",
+    "published": "2024-11-23T02:06:00.000+02:00",
+    "title": "Trump Nominates Pro-Crypto Hedge Fund Manager Scott Bessent as Treasury Secretary",
+    "text": "President-elect Donald Trump has nominated Scott Bessent, a prominent hedge fund manager known for his pro-cryptocurrency stance, to serve as the next Secretary of the Treasury, multiple news outlets [reported late Friday](https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?utm_source=chatgpt.com).\nBessent, founder of Key Square Group, has been a significant economic adviser to Trump’s campaign and is expected to play a pivotal role in shaping the administration’s economic policies. Among other things, he's [an ardent supporter](https://decrypt.co/291332/trump-treasury-secetary-pick-bitcoin-believer) of Trump's plan to create a strategic Bitcoin Reserve.\nBorn in 1962 in Conway, South Carolina, Scott Bessent graduated from Yale University in 1984. He began his career in finance at Brown Brothers Harriman and later joined Kynikos Associates. In 1991, Bessent became a partner at Soros Fund Management, where he played a key role in the firm’s notable wager against the British pound.\nAfter leaving Soros Fund Management in 2000, Bessent founded a $1 billion hedge fund, which he managed until 2005. He also served as a senior investment advisor at Protégé Partners. In 2011, Bessent returned to Soros Fund Management as Chief Investment Officer, a position he held until 2015. That year, he established Key Square Group, a global macro investment firm.\nPro-Cryptocurrency Advocacy\nBessent has been an outspoken advocate for cryptocurrencies, viewing them as integral to the future of finance. He has expressed optimism about the role of digital assets in promoting financial freedom and innovation. His pro-crypto stance aligns with the administration’s interest in integrating digital currencies into the broader economic framework.\nHe’s supported both Democratic and Republican candidates. In 2000, he hosted a fundraiser for Vice President Al Gore’s presidential campaign. More recently, he has been a significant donor and adviser to President-elect Trump’s campaign, contributing over $2 million and providing economic policy guidance.\nBessent’s nomination is subject to Senate confirmation. If confirmed, he will be responsible for implementing the administration’s economic agenda, including tax reforms and policies related to digital currencies. His extensive experience in finance and investment is expected to influence the Treasury Department’s approach to emerging financial technologies.\nInitial reaction on X was overwhelmingly positive from all corners, with some praising Bessent's financial experience and acumen and others pointing out that Bessent is Trump's first, openly gay Cabinet nominee.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?utm_source=chatgpt.com",
+        "https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a",
+        "https://wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?utm_source=chatgpt.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Soros Fund Management",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kynikos Associates",
+                "sentiment": "none"
+            },
+            {
+                "name": "Key Square Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yale University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Brown Brothers Harriman",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:46:12.516+02:00",
+    "updated": "2024-11-23T02:46:12.516+02:00"
+}

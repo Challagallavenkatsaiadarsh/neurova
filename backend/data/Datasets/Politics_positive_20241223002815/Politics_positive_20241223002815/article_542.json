@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "ab36a86ca91124b9a0a5de90874523f2e4720dc0",
+        "url": "https://www.thenews.com.pk/print/1254105-buledi-re-appointed-gpa-chief",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "Buledi re-appointed GPA chief",
+        "title_full": "Buledi re-appointed GPA chief",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254105_052738_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ab36a86ca91124b9a0a5de90874523f2e4720dc0",
+    "url": "https://www.thenews.com.pk/print/1254105-buledi-re-appointed-gpa-chief",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Our Correspondent",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Buledi re-appointed GPA chief",
+    "text": "ISLAMABAD: The Prime Minister has re-appointed Pasand Khan Buledi as Chairman Gwadar Port Authority.\nAccording to the notification issued by Establishment Division, Pasand Khan Buledi, a Grade-20 officer belonging to Balochistan Civil Service, has been re-appointed for four months. The appointment period will be counted from September 30 this year.\nMeanwhile, six CDA officers have been appointed and transferred. Abdul Razaq, DG Vigilance, has been posted as DG Civic Management. He has also been given additional charge of Deputy DG Enforcement.\nHabibullah Sheikh, DG Works, has been transferred and posted as DG Design.\nKhalid Nawaz, who is awaiting appointment, has been posted as DG Vigilance. Khalid Mahmood Asif, DG Design, has been posted as DG Procurement and Contracts and Faisal Raza, Director Maintenance, appointed as DG Works. He will also continue to hold charge of Director Maintenance.\nAli Sheikh Mashooq, Director Sanitation and Sewerage, has been given additional charge of Director Central Engineering Laboratory.\nLast episode of the drama will be aired on Saturday night at 8 pm\nMajority of PTI’s central leadership also decided to dissociate itself from Bashari Bibi’s statement\nPakistan’s debt situation has been worsening since 2008, but deteriorated at speed never witnessed since 2019\nReport warns that without immediate regulatory and policy action, these burdens will intensify\nMinistry of Religious Affairs Section Officer Tariq Mahmood wrote letter to ETPB chairman regarding changes\nHe said frontline workers successfully vaccinated over 10.6 million children in recent campaigns",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pasand Khan Buledi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Khalid Mahmood Asif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ali Sheikh Mashooq",
+                "sentiment": "none"
+            },
+            {
+                "name": "Khalid Nawaz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Faisal Raza",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abdul Razaq",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Gwadar Port Authority",
+                "sentiment": "negative"
+            },
+            {
+                "name": "GPA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Balochistan Civil Service",
+                "sentiment": "none"
+            },
+            {
+                "name": "DG Works",
+                "sentiment": "none"
+            },
+            {
+                "name": "CDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:16:32.210+02:00",
+    "updated": "2024-11-23T03:16:32.210+02:00"
+}

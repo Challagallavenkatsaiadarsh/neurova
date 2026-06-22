@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "dffb0fdca0e2439c537f02ccf2ab25e2f63bf263",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/trump-set-to-supercharge-options-boom-driven-by-retail-investors/articleshow/115587415.cms",
+        "site_full": "economictimes.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://economictimes.indiatimes.com/news/date-calculator",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Date Calculator - Calculate Duration Between Two Dates",
+        "title": "Trump set to supercharge options boom driven by retail investors - The Economic Times",
+        "title_full": "Trump set to supercharge options boom driven by retail investors - The Economic Times",
+        "published": "2024-11-23T03:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://img.etimg.com/thumb/msid-115587405,width-1200,height-630,imgsize-151978,overlay-etmarkets/articleshow.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "dffb0fdca0e2439c537f02ccf2ab25e2f63bf263",
+    "url": "https://economictimes.indiatimes.com/markets/stocks/news/trump-set-to-supercharge-options-boom-driven-by-retail-investors/articleshow/115587415.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "-",
+    "published": "2024-11-23T03:15:00.000+02:00",
+    "title": "Trump set to supercharge options boom driven by retail investors - The Economic Times",
+    "text": "Donald Trump’s presidency is set to bring a fresh bout of volatility to markets, supercharging an options boom driven by retail traders.Tariffs, geopolitical tensions and uncertainty over government policies are poised to increase price swings, boosting the appeal of options. Retail investors have already flocked to the likes of Robinhood Markets Inc. and other trading apps to deal in short-term options on equity indexes and exchange-traded funds.Companies including CQG and Trading Technologies International Inc. (TT) are already gearing up to benefit from that. Chicago-based TT will give clients access to products including Cboe’s flagship S&P 500 options starting early next year. CQG is also adding equity options from mid-2025 and will give traders more tools and the ability to place more complex transactions later that year.“You’re going to see more volatility spikes,” Kevin Darby, vice president of execution technologies at CQG, said in an interview this week at the Futures Industry Association Expo in Chicago. “When volatility goes up, volume goes up as well, so we’re going to see a lot of options volumes in 2025, in 2026.” 115587512Zero-day-to-expiry options (0DTE) on indexes and ETFs have led the 60% growth in overall volume since 2020. The ultra-short term contracts have grown to about half of S&P 500 option volume. With momentum building for expanding the 0DTE options to individual stocks, panelists at the conference spoke about the need to protect retail investors from added risks.There are complications around short-dated options positions that “all the market participants, including small retail accounts, need to actually understand to have a good experience,” Henry Schwartz, global head of client engagement, data and access at Cboe Global Markets, said at the event. “Whether they’re making money or losing money, we want them to know what they’re doing and want it to be as kind of fair as possible.”Options Clearing Corp. is already seeking to introduce more protections for options traders. The clearing house is planning to harden rules on intraday margins at brokers and dealers in the event their risk exposures breach certain thresholds.Still, retail investors have become more sophisticated. Younger traders are applying lessons from gaming, while in places like the US many people already manage their retirement accounts and know how to trade, said Keith Todd, TT’s chief executive officer.“The retail customer base is able to digest more complexity,” said CQG’s Darby. “They’re able to digest more complex financial products like options or binaries or event contracts and stuff like that.”Demand for options is growing not just in the US but in other regions — particularly India and across Asia — leading the industry toward trading 24 hours, seven days a week. While nonstop trading is not imminent, exchange hours are likely only to increase. That international growth is attractive to companies like TT, said Alun Green, the firm’s managing director of futures and options. “It’s not just in India. We’re seeing it across Southeast Asia, in Taiwan, South Korea,” Green said. “You’ve got a lot of appetite to go for new international products.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kevin Darby",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Trading Technologies International Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Futures Industry Association Expo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robinhood Markets Inc.",
+                "sentiment": "none"
+            },
+            {
+                "name": "TT",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "dffb0fdca0e2439c537f02ccf2ab25e2f63bf263",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:01:52.004+02:00",
+    "updated": "2024-11-23T06:01:52.004+02:00"
+}

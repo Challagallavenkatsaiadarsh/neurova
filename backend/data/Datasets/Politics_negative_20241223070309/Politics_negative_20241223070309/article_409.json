@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "621638c8246778d8adeef0f6fe62dd9bff3857db",
+        "url": "https://democraticunderground.com/10143345095",
+        "site_full": "democraticunderground.com",
+        "site": "democraticunderground.com",
+        "site_section": "https://democraticunderground.com/?com=latest_threads",
+        "site_categories": [],
+        "section_title": "Latest Discussions - Democratic Underground Forums",
+        "title": "Advocates fear national book ban under unified GOP government",
+        "title_full": "Advocates fear national book ban under unified GOP government",
+        "published": "2024-11-23T00:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.democraticunderground.com/imgs/du100x100.gif",
+        "performance_score": 0,
+        "domain_rank": 10738,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "621638c8246778d8adeef0f6fe62dd9bff3857db",
+    "url": "https://democraticunderground.com/10143345095",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:25:00.000+02:00",
+    "title": "Advocates fear national book ban under unified GOP government",
+    "text": "Source: The Hill11/22/24 6:00 AM ET A Republican trifecta in Washington is raising concerns over the potential for national book ban legislation. Congressional Republicans have shown increased interest in the possibility, with House members recently hosting a hearing on the topic and Project 2025 laying out how a national ban could work. Advocates highlight that book bans have been popular in states with total GOP control, and they are preparing for a potential federal push before the second Trump presidency begins. Certainly, we think its a concern. You know, part of what weve watched over the last three years is the way in which different states with unified GOP control have passed sensorial legislation that has led book banning, said Kasey Meehan, director of the Freedom to Read program at PEN America. I think its something for us to continue to be vigilant on and to be, you know, watching the extent to which state legislation that has led to book bans starts appearing as a potential federal policy, Meehan added. Book bans are of course nothing new, but legislation relating to school reading lists and the contents of library shelves have exploded since students returned to class amid the COVID-19 pandemic. Over the past two years, there have been over 200 bills in state legislatures proposing and some that have passed that would institute statewide book bans in school libraries and/or criminalized librarians for providing access to books that some people object to. So, to see that activity happen at that scale, if this would move to the federal level, I think its definitely a concern to Americans across the country, said Cindy Hohl, president of the American Library Association (ALA). The currently Democratic-majority Senate Judiciary Committee held a hearing on the issue last year called Book Bans: Examining How Censorship Limits Liberty and Literature. While Republicans generally avoid using the word ban on the issue, many took the opportunity to demonstrate their support for keeping some books out of the classroom. Read more: https://thehill.com/homenews/education/5003292-national-book-ban-gop-government-censorship/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kasey Meehan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "House",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:46:43.678+02:00",
+    "updated": "2024-11-23T00:46:43.678+02:00"
+}

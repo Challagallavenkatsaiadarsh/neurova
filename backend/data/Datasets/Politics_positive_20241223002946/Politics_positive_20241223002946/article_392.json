@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "3017fa41affcf9f508e705350c334007ac668899",
+        "url": "https://theshillongtimes.com/2024/11/23/assembly-committee-contented-with-progress-of-smart-city-projects",
+        "site_full": "theshillongtimes.com",
+        "site": "theshillongtimes.com",
+        "site_section": "https://www.theshillongtimes.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Shillong Times: National Headlines, Local Insights",
+        "title": "Assembly committee contented with progress of Smart City projects",
+        "title_full": "Assembly committee contented with progress of Smart City projects",
+        "published": "2024-11-23T00:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 98043,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3017fa41affcf9f508e705350c334007ac668899",
+    "url": "https://theshillongtimes.com/2024/11/23/assembly-committee-contented-with-progress-of-smart-city-projects",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Reporter",
+    "published": "2024-11-23T00:49:00.000+02:00",
+    "title": "Assembly committee contented with progress of Smart City projects",
+    "text": "SHILLONG, Nov 22: The Estimates Committee of the Meghalaya Legislative Assembly has expressed satisfaction with the progress of Smart City projects in Shillong.\nThe reaction from the Estimates Committee came following an inspection of key initiatives under the Shillong Smart City Project on Friday.\nLed by committee chairman Mayralborn Syiem, the team reviewed the construction and redevelopment of the municipal market in Laitumkhrah, a project valued at Rs 28.84 crore. They also examined the development of smart roads across the state capital, aimed at improving connectivity and reducing congestion.\nAs part of their inspection, the committee then visited the site of the Office-cum-Automated Multi-level Car Parking Facility at Mawkhar, designed to address parking issues in Shillong.\nAdditionally, the panel assessed the Rs 100.33 crore Commercial Complex at Polo, expected to bolster the city’s economic activities.\nFurther, at Police Bazaar, the team evaluated the construction of the Rs 211 crore Shillong Business-cum-Tourism and Cultural Centre, a landmark project intended to enhance tourism and cultural exchange.\nThe inspection concluded with a review of rainwater harvesting systems being developed to improve water management in various parts of the city.\nSpeaking to media persons following the inspection, Syiem expressed satisfaction with the overall progress of the projects.\nHe acknowledged the challenges faced by implementing agencies, including relocating utilities and shopkeepers, but assured that the projects remain on track to deliver significant benefits to the residents of Shillong.\nSyiem highlighted the advanced stage of the Polo project and expressed optimism about its timely completion. He also noted that initiatives at Laitumkhrah and Motphran are expected to address congestion and improve parking facilities.\nA detailed report on the committee’s findings and recommendations will be submitted in due course, Syiem confirmed.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mayralborn Syiem",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Meghalaya Legislative Assembly",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Police Bazaar",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Shillong",
+                "sentiment": "none"
+            },
+            {
+                "name": "Laitumkhrah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mawkhar",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:27:29.807+02:00",
+    "updated": "2024-11-23T02:27:29.807+02:00"
+}

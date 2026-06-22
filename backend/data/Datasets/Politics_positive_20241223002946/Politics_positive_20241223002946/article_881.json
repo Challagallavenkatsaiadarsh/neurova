@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "865f63180741a79ad17970ae7de361013176bff8",
+        "url": "https://www.newsbreak.com/weei-sports-radio-560142/3685371647021-could-joonas-korpisalo-challenge-jeremy-swayman-for-bruins-no-1-goalie-job",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/weei-sports-radio-560142",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WEEI Sports Radio&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T18:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/1uvS1Q_0wxSsii800?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "865f63180741a79ad17970ae7de361013176bff8",
+    "url": "https://www.newsbreak.com/weei-sports-radio-560142/3685371647021-could-joonas-korpisalo-challenge-jeremy-swayman-for-bruins-no-1-goalie-job",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T18:52:00.000+02:00",
+    "title": "",
+    "text": "By Bridgette Proulx ,\n15 hours ago\nOn Thursday night, the Bruins got their first win of the Joe Sacco era, and goaltending was a big reason why.\nElias Lindholm scored on the power play and Joonas Korpisalo backstopped the Bruins to a 1-0 victory, making 21 saves in his second shutout of the season.\nWith Korpisalo trending in the right direction under goalie coach Bob Essensa and Jeremy Swayman playing the worst hockey of his NHL career, could the Bruins be trending toward a true competition for the starting role in net?\nThat answer of course is unknown, but when you take a look at the basic numbers, you can see where each goalie has stacked up so far this season.\nKorpisalo has both a better save percentage and goals-against average this season. Here are both of their stat lines:\nKorpisalo -- 2.38 GAA -- .911 save% -- 4-2-1 record -- 8 games played\nSwayman -- 3.47 GAA -- .884 save% -- 5-7-2 record -- 14 games played\nKorpisalo is above .500 in winning percentage while Swayman has fallen below. And recent results favor Korpisalo as well.\nKorpisalo’s two regulation losses came early in the season, but in his last four games, Korpisalo has three wins and an overtime loss. Swayman’s last two games were losses in which he gave up seven goals to Dallas (a season high) and five goals to Columbus in Jim Montgomery’s last game as head coach.\nThe numbers favor Korpisalo in advanced analytics, too.\nSwayman’s goals saved above average (minus-7.38) is on the wrong side of average, so much so that it’s bottom five in the league, according to Natural Stat Trick. What that means is that a league-average goaltender would be expected to save about seven more goals than Swayman has on the chances he’s faced.\nKorpisalo’s analytics show that he’s above the league average in goals saved above average at plus-1.81, meaning he has made about two saves more than an average NHL goalie would be expected to make.\nNow, will Korpisalo, who came to Boston after a down year in Ottawa, get a real chance to steal the No. 1 role from the Bruins’ highly paid goaltender? That all depends on whether Swayman can get back to the All-Star goalie he’s been in the past.\nAnd Swayman’s career numbers favor him significantly.\nWhen comparing the two goalies over their careers, Swayman’s numbers are better across the board:\nSwayman -- 2.45 GAA -- .915 save% -- 13 shutouts -- 146 games played\nKorpisalo -- 3.04 GAA -- .902 save% -- 6 shutouts -- 284 games played\nWhen you consider that Swayman has played beneath his career-average numbers and Korpisalo is well exceeding his marks from last season, logically it feels like Swayman should have the ability to get back on track, especially if the Bruins’ team defense becomes harder to play against under Sacco. If he does, Swayman can still put questions about a true competition for the No. 1 job to rest.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=1uvS1Q_0wxSsii800",
+        "https://img.particlenews.com/image.php?url=1uvS1Q_0wxSsii800",
+        "https://player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7082298_2024-11-21-162038&withPlaylist=false&playerDisplay-download=false",
+        "https://img.particlenews.com/image.php",
+        "https://www.player.amperwavepodcasting.com?&feed-link=https%3A%2F%2Frss.amperwave.net%2Fv2%2Fepisode%2F7082298_2024-11-21-162038&withPlaylist=false&playerDisplay-download=false",
+        "https://player.amperwavepodcasting.com",
+        "https://www.img.particlenews.com/image.php?url=1uvS1Q_0wxSsii800",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=1uvS1Q_0wxSsii800"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joe Sacc",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bridgette Proulx",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joonas Korpisalo",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jeremy Swayman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elias Lindholm",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bob Essensa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bruins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NHL",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:24:23.667+02:00",
+    "updated": "2024-11-23T05:24:23.667+02:00"
+}

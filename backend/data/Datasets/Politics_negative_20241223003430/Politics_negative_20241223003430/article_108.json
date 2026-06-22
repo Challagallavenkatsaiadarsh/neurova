@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "c8b0e07b6b2a8e4b91ea73ec3bb276ebee38ae77",
+        "url": "https://www.dailyitem.com/news/northumberland-county-to-raise-taxes-in-2025-petitions-court-for-5-mill-increase/article_afc9a9a0-a8f2-11ef-9844-5720fee8abc5.html",
+        "site_full": "www.dailyitem.com",
+        "site": "dailyitem.com",
+        "site_section": "http://www.dailyitem.com",
+        "site_categories": [
+            "media",
+            "education",
+            "business"
+        ],
+        "section_title": "dailyitem.com | More For You",
+        "title": "Northumberland County to raise taxes in 2025, petitions court for 5-mill increase | News | dailyitem.com",
+        "title_full": "Northumberland County to raise taxes in 2025, petitions court for 5-mill increase | News | dailyitem.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 21183,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c8b0e07b6b2a8e4b91ea73ec3bb276ebee38ae77",
+    "url": "https://www.dailyitem.com/news/northumberland-county-to-raise-taxes-in-2025-petitions-court-for-5-mill-increase/article_afc9a9a0-a8f2-11ef-9844-5720fee8abc5.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Francis Scarcella fscarcella@dailyitem.com",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Northumberland County to raise taxes in 2025, petitions court for 5-mill increase | News | dailyitem.com",
+    "text": "SUNBURY — Northumberland County property owners may see a tax increase ranging from $35 to $150 per household in 2025. Earlier this week, county commissioners voted in a special meeting to petition the court to increase the tax rate from 25 mills to 30 mills.\nAccording to Chief Assessor Tiffany Kaseman, the amount of increase will vary from $35 to $150 based on the assessed values of homes.\nKaseman said the standard half-double home could see about a $35 increase per year, while a newer home based on assessment value could see about a $150 increase per year.\nThe county operates on an $82.4 million budget, Chief Clerk Nate Savidge said.\nCommissioner and chairman of the board Sam Schiccatano said an increase in insurance costs led to the proposed increase and he wanted the county to react before the end of the year. Schiccatano said insurance costs went up more than $2 million and that commissioners have been negotiating with various unions across the county for the best possible outcomes for the past two years.\nSchiccatano said the county is asking a judge to approve the petition for commissioners to raise the tax rate to 30 mills, which is above the legally allowed 25 mills. That increase would generate about $3.5 million in funds for the county, Schiccatano said.\nThe county has not raised taxes in the past four years, and only twice in eight years, he said.\nSchiccatano said he and fellow commissioners Joe Klebon and Meghan Beck did all they could to balance the budget but if the courts grant the petition, they will be back on track, Schiccatano said.\n“We haven’t raised taxes in a while and last time we did we reduced our debt, but with the increase in insurance, gas and heating and other costs we needed to do something to make it up,” Schiccatano said.\nNo date has been set for the hearing in Northumberland County Court.\nThe county must pass a budget before Dec. 31.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sam Schiccatano",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tiffany Kaseman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nate Savidge",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Northumberland County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:13:36.638+02:00",
+    "updated": "2024-11-23T00:13:36.638+02:00"
+}

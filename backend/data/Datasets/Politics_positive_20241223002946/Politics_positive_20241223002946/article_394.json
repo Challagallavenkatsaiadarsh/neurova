@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "be1036b829387b5ce92f19fa4270b7bffd8b215d",
+        "url": "https://www.newsmax.com/politics/bessent/2024/11/22/id/1189139",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://www.newsmax.com/rss/Politics/1/",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Newsmax - Politics",
+        "title": "Trump to Name Hedge Fund Manager Bessent as Treasury Chief",
+        "title_full": "Trump to Name Hedge Fund Manager Bessent as Treasury Chief",
+        "published": "2024-11-23T00:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=4042df99-bbb2-4179-b7d7-56506c8943de&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2382,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be1036b829387b5ce92f19fa4270b7bffd8b215d",
+    "url": "https://www.newsmax.com/politics/bessent/2024/11/22/id/1189139",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@newsmax",
+    "published": "2024-11-23T00:50:00.000+02:00",
+    "title": "Trump to Name Hedge Fund Manager Bessent as Treasury Chief",
+    "text": "Friday, 22 November 2024 07:22 PM EST President-elect Donald Trump announced Friday that he’ll nominate former George Soros money manager Scott Bessent, an advocate for deficit reduction, to serve as his next treasury secretary. Trump also said he would nominate Russell Vought to lead the Office of Management and Budget, a position Vought held during Trump’s first presidency. Bessent, 62, is the founder of hedge fund Key Square Capital Management, after having worked on-and-off for Soros Fund Management since 1991. If confirmed by the Senate, he would be the nation’s first openly gay treasury secretary. He told Bloomberg in August that he decided to join Trump’s campaign in part to attack the mounting U.S. national debt. That would include slashing government programs and other spending. “This election cycle is the last chance for the U.S. to grow our way out of this mountain of debt without becoming a sort of European-style socialist democracy,” he said then. © AFP 2024 Receive breaking news and original analysis - sent right to your inbox. Interest-Based Advertising | Do not sell or share my personal information Newsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:27:41.198+02:00",
+    "updated": "2024-11-23T17:03:59.075+02:00"
+}

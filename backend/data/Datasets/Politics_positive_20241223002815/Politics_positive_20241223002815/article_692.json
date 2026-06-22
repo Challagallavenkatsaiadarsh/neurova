@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "8e67a947120485ee828a0dc436b1aa4a388027a6",
+        "url": "https://www.hindustantimes.com/cities/chandigarh-news/adanis-indictment-in-us-vindicates-congress-stand-amarinder-warring-101732301690691.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Adani’s indictment in US vindicates Congress’ stand: Amarinder Warring",
+        "title_full": "Adani’s indictment in US vindicates Congress’ stand: Amarinder Warring",
+        "published": "2024-11-22T20:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/22/1600x900/-p-Adani-s-indictment-in-US-vindicates-Congress--s_1732301686291.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8e67a947120485ee828a0dc436b1aa4a388027a6",
+    "url": "https://www.hindustantimes.com/cities/chandigarh-news/adanis-indictment-in-us-vindicates-congress-stand-amarinder-warring-101732301690691.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-22T20:24:00.000+02:00",
+    "title": "Adani’s indictment in US vindicates Congress’ stand: Amarinder Warring",
+    "text": "Punjab Pradesh Congress Committee president Amarinder Singh Raja Warring on Friday said the indictment of Gautam Adani by the US government has vindicated the Congress’ stance and charges against the Adani group. Addressing the press conference at Jalandhar press club on Friday, the PPCC chief said the development vindicates the Congress party’s ‘Hum Adani ke Hain Kaun’ campaign, which raised 100 questions about the Prime Minister’s close relationship with Adani. “It is evident that institutions tasked with investigating white-collar crime — SEBI, the Enforcement Directorate (ED), the Central Bureau of Investigation (CBI), and the income tax department — have not only failed to investigate Adani on credible allegations but have also seen their few investigations halted by orders from higher authorities,” he said. Warring alleged that these agencies have, instead, been misused to facilitate Adani’s acquisitions of airports, ports, media companies, and cement plants under the Prime Minister’s watchful eye. “They have also been weaponised to target opposition politicians, dismantle opposition parties, and imprison chief ministers in opposition-ruled states,” he said. He said the Adani Group’s scams have directly increased electricity prices. The indictment, he pointed out, alleges that bribes were paid to ensure DISCOMS bought overpriced solar power, with the costs passed on to consumers. Additionally, he said, past accusations of over-invoicing coal and power equipment also inflated electricity prices.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gautam Adani",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Amarinder Warring Punjab Pradesh Congress Committee",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Central Bureau of Investigation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Enforcement Directorate",
+                "sentiment": "none"
+            },
+            {
+                "name": "PPCC",
+                "sentiment": "none"
+            },
+            {
+                "name": "SEBI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:14:30.394+02:00",
+    "updated": "2024-11-23T04:14:30.394+02:00"
+}

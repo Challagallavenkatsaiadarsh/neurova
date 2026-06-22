@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "0f487374f3bb9b919041f3f4dac4047eadf6b3a3",
+        "url": "https://punchng.com/minimum-wage-no-going-back-on-deadline-says-nlc",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "https://punchng.com/3767-killed-in-nine-month-road-crashes-frsc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "3,767 killed in nine-month road crashes — FRSC",
+        "title": "Minimum wage: No going back on deadline, says NLC",
+        "title_full": "Minimum wage: No going back on deadline, says NLC",
+        "published": "2024-11-23T01:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.punchng.com/wp-content/uploads/2023/09/28021244/Minimum-wage.jpg",
+        "performance_score": 0,
+        "domain_rank": 6171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0f487374f3bb9b919041f3f4dac4047eadf6b3a3",
+    "url": "https://punchng.com/minimum-wage-no-going-back-on-deadline-says-nlc",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Deborah Tolu-Kolawole",
+    "published": "2024-11-23T01:32:00.000+02:00",
+    "title": "Minimum wage: No going back on deadline, says NLC",
+    "text": "The Nigeria Labour Congress has said its December 1 ultimatum to state governors who fail to implement the new minimum wage by the end of November 2024 still stands.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alhaji Idris Gobir",
+                "sentiment": "none"
+            },
+            {
+                "name": "Benson Upah",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nigeria Labour Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NLC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "0f487374f3bb9b919041f3f4dac4047eadf6b3a3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:36:21.979+02:00",
+    "updated": "2024-11-23T03:33:23.298+02:00"
+}

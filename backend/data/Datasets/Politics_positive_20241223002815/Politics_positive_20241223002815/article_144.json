@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "75c66cb709a3fe1d7da12fecc54b34ea38d31e15",
+        "url": "https://www.miragenews.com/secnav-honored-with-lifetime-military-family-1363833",
+        "site_full": "www.miragenews.com",
+        "site": "miragenews.com",
+        "site_section": "https://miragenews.com/tag/project",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Project updates | Mirage News",
+        "title": "SECNAV Honored with Lifetime Military Family Award | Mirage News",
+        "title_full": "SECNAV Honored with Lifetime Military Family Award | Mirage News",
+        "published": "2024-11-22T14:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://media.defense.gov/2021/Jan/07/2002560971/1300/700/0/210106-N-TL141-1177.JPG",
+        "performance_score": 0,
+        "domain_rank": 10417,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "75c66cb709a3fe1d7da12fecc54b34ea38d31e15",
+    "url": "https://www.miragenews.com/secnav-honored-with-lifetime-military-family-1363833",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T14:36:00.000+02:00",
+    "title": "SECNAV Honored with Lifetime Military Family Award | Mirage News",
+    "text": ") - Secretary of the Navy Carlos Del Toro was awarded the Blue Star Families Lifetime Military Family Champion Award at their 15th annual celebration, Nov. 21.\n\"It is truly an honor to receive the Lifetime Military Family Champion Award,\" said Secretary Del Toro. \"While I am grateful for this award, I cannot thank Blue Star Families enough for their incredible support for military families and for sharing countless stories about them in ways that truly resonate with all Americans.\"\nBlue Star Celebration, held this year in Washington D.C.'s Union Station, is an annual event that honors Americans who are doing their part to preserve our all-volunteer force's strength by supporting our military families.\nDuring his remarks, Secretary Del Toro talked about the sacrifices his parents made so that his entire family could have a better future in the United States.\n\"I can't help but reminisce now how throughout my own childhood, both of my parents also sacrificed and labored for the sake of their children-they wanted to give us a better life in America, a life unattainable back in Cuba,\" said Del Toro.\nSecretary Del Toro also highlighted the value of service for every American Sailor and Marine.\n\"The value of service in the Navy and Marine Corps, and indeed, in the broader context of our Nation, is part of the very fabric of America. It is a value that transcends individual ambitions and fosters a sense of collective responsibility - it is very much a calling,\" said Del Toro.\nConcluding his speech, Secretary Del Toro lauded military families for supporting their service members throughout their careers amidst multiple moves and long periods away from them.\n\"When a Sailor or Marine raises their right hand and swears an oath to defend our nation, they are not alone. Their families, too, embark on a journey of service, marked by frequent deployments, long separations, and the constant worry that accompanies the uncertainty of military life,\" said Del Toro.\n\"Every day, I witness the incredible sacrifices made by military families. What we ask of our families is not easy. Yet, you face the challenges with grace and courage. You are the true heroes.\"\nFounded in 2009, Blue Star Families empowers military families to thrive by connecting them with their civilian neighbors and organizations to create strong communities of support for service members.\n[here](/secnav-honored-with-lifetime-military-family-1363833/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Del Toro",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "D.C.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:52:59.430+02:00",
+    "updated": "2024-11-23T00:52:59.430+02:00"
+}

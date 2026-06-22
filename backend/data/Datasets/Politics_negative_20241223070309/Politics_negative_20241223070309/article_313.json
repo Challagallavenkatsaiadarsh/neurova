@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "8db8b80f2953bd2989cb3261242ce581fd6f573e",
+        "url": "https://eadaily.com/en/news/2024/11/22/north-korean-servicemen-spotted-in-mariupol-and-kharkiv-region-cnn",
+        "site_full": "eadaily.com",
+        "site": "eadaily.com",
+        "site_section": "https://eadaily.com/en",
+        "site_categories": [
+            "media",
+            "top_news_ru",
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "EADaily. All news",
+        "title": "North Korean servicemen spotted in Mariupol and Kharkiv region — CNN — EADaily, November 22nd, 2024 — Military, Russia",
+        "title_full": "North Korean servicemen spotted in Mariupol and Kharkiv region — CNN — EADaily, November 22nd, 2024 — Military, Russia",
+        "published": "2024-11-22T23:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "https://img4.eadaily.com/r650x400/o/310/c10153778568667c1195bc0f8a11e.jpeg",
+        "performance_score": 0,
+        "domain_rank": 16809,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8db8b80f2953bd2989cb3261242ce581fd6f573e",
+    "url": "https://eadaily.com/en/news/2024/11/22/north-korean-servicemen-spotted-in-mariupol-and-kharkiv-region-cnn",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T23:38:00.000+02:00",
+    "title": "North Korean servicemen spotted in Mariupol and Kharkiv region — CNN — EADaily, November 22nd, 2024 — Military, Russia",
+    "text": "North Korean military personnel are in Mariupol and Kharkiv region. This is reported today by CNN.\nNorth Korean technical advisers have arrived in the southern port city of Mariupol, a source in the Ukrainian security services told CNN, while two soldiers said that North Korean army soldiers were also spotted in the east of the Kharkiv region.\nThe purpose of the North Koreans' visit to Mariupol is unclear, the source said. He noted that they were dressed in Russian uniforms. The North Korean troops in Mariupol are autonomous, not joining the Russian units — \"with their own premises, food, music and films,\" the source said.\n\"The source also said that recent Ukrainian missile strikes on Russian territory were aimed at a high—ranking North Korean general, but it remains unclear whether the commander was killed,\" the TV channel reports.\nIn the Kharkiv region, North Korean troops were spotted in the eastern part, Yevgeny Romanov, a representative of the Armed Forces of Ukraine in the region, told CNN.\n\"I can confirm to you that, according to radio intercepts, North Korean units were spotted in the Kharkiv region,\" he said.\nNorth Korean army soldiers are \"already\" in the Kharkiv region, Nazariy Kishak, commander of the combined unit of the 153rd separate mechanized brigade, also said.\n\"I see that they are dividing into units, strengthening their combat units and accumulating a small number (of forces) on the front line. They are waiting for the worst weather, because this is the best time for the enemy to launch an assault,\" he told Ukrainian media.\nAccording to the TV channel, it is estimated that 11 thousand North Korean troops have been deployed in the Kursk region of Russia, where Ukraine holds territory after a sudden summer invasion.\nAs [EADaily](https://eadaily.com/) reported, some of the 10,900 DPRK army soldiers sent to the Kursk region are [fighting as part of elite Russian](/en/news/2024/11/20/the-north-koreans-are-fighting-with-the-armed-forces-of-ukraine-as-part-of-elite-units-russian-armed-forces-park-sung) airborne and naval units against Ukraine. This was stated by the deputy of the intelligence committee of the South Korean parliament, Park Song-won, with reference to the intelligence agency of South Korea, The Guardian reports.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yevgeny Romanov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CNN",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kharkiv",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:36:45.356+02:00",
+    "updated": "2024-11-23T00:36:45.356+02:00"
+}

@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "a6fb89a6c9657c1799836e29ef52168a19bec0ff",
+        "url": "https://www.ndtv.com/world-news/elon-musks-praise-for-indian-elections-with-a-potshot-at-california-7092386",
+        "site_full": "www.ndtv.com",
+        "site": "ndtv.com",
+        "site_section": "https://ndtv.com/india-news/parliament-winter-session-updates-opposition-condemns-suspension-of-14-mps-winter-session-live-updates-winter-session-lok-sabha-4677142",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_gb",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Parliament Winter Session Updates: Opposition Condemns Suspension Of 14 MPs; Winter Session Live Updates; Winter Session; Lok Sabha",
+        "title": "Elon Musk's Praise For Indian Elections, With A Potshot At California",
+        "title_full": "Elon Musk's Praise For Indian Elections, With A Potshot At California",
+        "published": "2024-11-24T03:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://c.ndtvimg.com/2024-11/h7fd0c4_elon-musk-india-_625x300_24_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "performance_score": 0,
+        "domain_rank": 851,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a6fb89a6c9657c1799836e29ef52168a19bec0ff",
+    "url": "https://www.ndtv.com/world-news/elon-musks-praise-for-indian-elections-with-a-potshot-at-california-7092386",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NDTV News Desk",
+    "published": "2024-11-24T03:29:00.000+02:00",
+    "title": "Elon Musk's Praise For Indian Elections, With A Potshot At California",
+    "text": "India conducted its Lok Sabha elections earlier this year, involving over 900 million eligible voters. Of these, a record-breaking 642 million people cast their votes. NDTV News Desk World News Nov 24, 2024 10:08 am IST Published On Nov 24, 2024 09:29 am IST Last Updated On Nov 24, 2024 10:08 am IST Read Time: 3 mins Share Twitter WhatsApp Facebook Reddit Email Vote counting in the United States - particularly in states like California - often stretches over weeks. New Delhi: Elon Musk on Sunday praised the efficiency of India's vote-counting process and slammed the prolonged delays in parts of the United States, particularly California. In a post on X (formerly Twitter), Mr Musk applauded India's ability to count 640 million votes in just one day after the 2024 Lok Sabha elections, contrasting it with the sluggish vote tallying in California for the US presidential elections, which remains unfinished nearly 20 days after voting began on November 5.\nResponding to a post that carried a screenshot of a media report titled 'How India counted 640 million votes in a day', the Tesla and SpaceX chief wrote, \"India counted 640 million votes in 1 day. California is still counting votes\"\nIndia counted 640 million votes in 1 day.\nCalifornia is still counting votes 🤦‍♂️ https://t.co/ai8JmWxas6\n— Elon Musk (@elonmusk) November 24, 2024 India conducted its Lok Sabha elections earlier this year, involving over 900 million eligible voters. Of these, a record-breaking 642 million people cast their votes. Despite the sheer scale, results were declared within a single day of counting.\nHow India Counted The Votes Through Electronic Voting Machines (EVMs): Used since 2000, these devices ensure rapid and accurate counting.\nVoter Verifiable Paper Audit Trail (VVPAT): Introduced to enhance transparency, the VVPAT system produces a paper slip for every vote cast, allowing for verification if needed.\nAdditionally, India's 543 parliamentary constituencies conduct counting simultaneously, overseen by the Election Commission of India (ECI). According to Supreme Court guidelines, postal ballots are processed and counted before EVM votes are unsealed. Under the supervision of Returning Officers, votes are tallied in centralised locations, and results are declared after each round.\nEven during state elections in Maharashtra and Jharkhand last week, India managed to count nearly 90 million votes in just a few hours. Maharashtra alone, with a population four times that of California, delivered results with remarkable efficiency.\nWhy The Delay In California Vote counting in the United States - particularly in states like California - often stretches over weeks. California, the most populous US state, reported delays in its November 5 presidential election, with more than 300,000 ballots still uncounted weeks later. This has drawn criticism not only from Mr Musk but also from voters and analysts who question the system's efficiency.\nCalifornia conducts most of its elections by mail. Processing these ballots involves multiple steps like Signature verification on ballot envelopes, opening and sorting ballots before they can be tallied, etc.\nUnlike India's centralised oversight by the ECI, the US relies on state and local election offices, each with its own laws and resources.\nShow full article Comments Track Latest News Live on NDTV.com and get news updates from India and around the world Follow us: Elon Musk , Elon Musk India , India Elections",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://t.co/ai8JmWxas6",
+        "https://www.t.co/ai8JmWxas6"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Musk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SpaceX",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a6fb89a6c9657c1799836e29ef52168a19bec0ff",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:12:29.945+02:00",
+    "updated": "2024-11-24T07:59:58.653+02:00"
+}

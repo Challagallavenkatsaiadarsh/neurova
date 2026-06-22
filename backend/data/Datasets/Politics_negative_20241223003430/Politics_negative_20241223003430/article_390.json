@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "44190ae74c8ae42e8a8dce1f3960499bde43dc3b",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-conservative-leader-s-critics-picks-1.7391117?cmp=rss",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Some of B.C. Conservative leader's critic picks questioned",
+        "title_full": "Some of B.C. Conservative leader's critic picks questioned",
+        "published": "2024-11-22T23:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.7389088.1732310434!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/john-rustad.jpg",
+        "performance_score": 0,
+        "domain_rank": 342,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "44190ae74c8ae42e8a8dce1f3960499bde43dc3b",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-conservative-leader-s-critics-picks-1.7391117?cmp=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "kate derosa",
+    "published": "2024-11-22T23:20:00.000+02:00",
+    "title": "Some of B.C. Conservative leader's critic picks questioned",
+    "text": "B.C. Conservative Leader John Rustad is facing a backlash over some of the appointments to his shadow cabinet and for allowing some MLAs to keep their local council seats.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.sogieducation.org/",
+        "https://sogieducation.org/",
+        "https://www.sogieducation.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Katie de Rosa",
+                "sentiment": "none"
+            },
+            {
+                "name": "John Rustad",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anna Kindy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:44:41.401+02:00",
+    "updated": "2024-11-23T00:51:21.834+02:00"
+}

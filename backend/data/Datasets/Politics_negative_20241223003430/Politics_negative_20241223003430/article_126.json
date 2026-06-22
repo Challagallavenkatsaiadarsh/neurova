@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "979a5ea58b41b140561962d689e81d8f5ff5a58d",
+        "url": "https://www.mainepublic.org/business-and-economy/2024-11-22/bar-harbor-imposes-temporary-moratorium-on-new-hotel-projects",
+        "site_full": "www.mainepublic.org",
+        "site": "mainepublic.org",
+        "site_section": "https://www.mainepublic.org",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Maine Public | Home | Maine Public",
+        "title": "Bar Harbor imposes temporary moratorium on new hotel projects",
+        "title_full": "Bar Harbor imposes temporary moratorium on new hotel projects",
+        "published": "2024-11-22T22:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/123b131/2147483647/strip/true/crop/5456x2864+0+387/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F93%2F1b%2Ff7da78644460a651117dfaa137c6%2Fgeddys-sign-outside-bar-harbor.jpg",
+        "performance_score": 0,
+        "domain_rank": 22220,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "979a5ea58b41b140561962d689e81d8f5ff5a58d",
+    "url": "https://www.mainepublic.org/business-and-economy/2024-11-22/bar-harbor-imposes-temporary-moratorium-on-new-hotel-projects",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Nicole Ogrysko",
+    "published": "2024-11-22T22:22:00.000+02:00",
+    "title": "Bar Harbor imposes temporary moratorium on new hotel projects",
+    "text": "Bar Harbor imposes temporary moratorium on new hotel projects\nBar Harbor is the latest Maine town to impose a temporary moratorium on new hotels, motels and bed and breakfast projects.\nTown councilors voted this week to approve an emergency measure.\n\"We all know that our town has been experiencing unprecedented growth in every form of transient accommodation: hotels, motels, campgrounds, B&Bs and short term rentals,\" Council Vice Chair Gary Friedmann said. \"Visitors are overrunning Acadia National Park and our downtown and our out of town neighborhoods.\"\nFriedmann said there were several projects in the permitting stages that will now be paused.\nProponents of the moratorium said it will give them to time to study the impact that visitor accommodations have on traffic, permanent housing and the town's water, sewer and other infrastructure. The moratorium will be in place for two months, but councilors said they plan to extend it.\nThe city of Portland [recently imposed](https://www.mainepublic.org/business-and-economy/2024-11-05/portland-imposes-a-temporary-moratorium-on-new-hotel-projects) a temporary moratorium on new hotel development to study its affordable housing and inclusionary zoning measures.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:16:05.798+02:00",
+    "updated": "2024-11-23T00:16:05.798+02:00"
+}

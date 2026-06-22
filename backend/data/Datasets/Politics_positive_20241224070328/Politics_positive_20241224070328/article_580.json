@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "9edb9fb24f639f4bd73d0cd5ebb04ff00eeb54ce",
+        "url": "https://www.ndtv.com/india-news/behind-bjps-winning-game-in-maharashtra-after-big-slide-in-lok-sabha-polls-7092140",
+        "site_full": "www.ndtv.com",
+        "site": "ndtv.com",
+        "site_section": "https://www.ndtv.com/photos/news",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_gb",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "News Photos: Latest News Images, Top Trending News Photos - NDTV.com",
+        "title": "Behind BJP's Winning Game In Maharashtra After Big Slide In Lok Sabha Polls",
+        "title_full": "Behind BJP's Winning Game In Maharashtra After Big Slide In Lok Sabha Polls",
+        "published": "2024-11-24T02:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://c.ndtvimg.com/2024-11/vfu101gg_devendra-fadnavis-ani_625x300_24_November_24.jpeg",
+        "performance_score": 0,
+        "domain_rank": 851,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9edb9fb24f639f4bd73d0cd5ebb04ff00eeb54ce",
+    "url": "https://www.ndtv.com/india-news/behind-bjps-winning-game-in-maharashtra-after-big-slide-in-lok-sabha-polls-7092140",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Akhilesh Sharma",
+    "published": "2024-11-24T02:21:00.000+02:00",
+    "title": "Behind BJP's Winning Game In Maharashtra After Big Slide In Lok Sabha Polls",
+    "text": "The BJP has managed a successful course correction in Maharashtra, where just a few months ago, it has slid massively in the Lok Sabha polls. India News Reported by Akhilesh Sharma , Edited by Anindita Sanyal Updated: November 24, 2024 9:24 am IST The assembly elections in Maharashtra have shed light yet again on the BJP's resilience and successful strategising after a setback. The party has managed a successful course correction in the state where just a few months ago, it has slid massively in the Lok Sabha polls. From 28 seats in 2019, the party had managed to win only 13 seats this year -- a situation that restricted its numbers in the Lok Sabha and for the first time since 2014, made it dependent on its allies for majority in the lower house. After Uttar Pradesh, Maharashtra has the second highest number of MPs -- 48.\nWhat worked for the BJP was a massive course correction that included a delicate balance of welfare measures for women, tribals, and other sections by the state government, more attention to candidates, and grassroots level campaign that they achieved after patching up the rift with ideological mentor Rashtriya Swayamsevak Sangh.\nThe big catalyst here was the 'Ladki Behen' scheme under which the state government made cash transfers of Rs 1,500 per month to women and had promised to increase it to Rs 2,100 if voted to power. The\nThe other big factor was the consolidation of the Other Backward Castes. Sources said the BJP tried very hard to reach out to the various caste groups among the OBCs. The party explained to them that their rights would be protected and it was a fake narrative by the Congress that the constitution would be changed to take away their reservation.\nRelief was extended to onion farmers of north Maharashtra and cotton and soybean farmers of Vidarbha, sources said.\nA promise of loan waiver brought angry farmers -- who didn't vote for the party in the Lok Sabha election -- back to the BJP fold.\nIn the middle of the campaign, the BJP also indicated that it was keeping the question of Chief Ministership open. This helped the party in Vidarbha, to keep the popularity of Devendra Fadnavis at its peak.\nThe BJP also managed to pacify many rebel leaders. The MVA couldn't do the same and suffered.\nPromoted Listen to the latest songs, only on JioSaavn.com\nMahayuti -- the ruling alliance of Mr Shinde's Sena, Ajit Pawar's faction of the Nationalist Congress Party and the BJP -- are ahead on 236 of Maharashtra's 288 seats.\nThe Opposition MVA - the Shiv Sena faction of Uddhav Thackeray, Sharad Pawar's faction of Nationalist Congress Party and the Congress -- are ahead on just 48 seats.\nTrack Latest News Live on NDTV.com and get news updates from India and around the world .\nWatch Live News:\nFollow Us:\nMaharashtra elections BJP news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.jiosaavn.com/featured/new-music-this-week/Ns2UZo9qDvI",
+        "https://www.jiosaavn.com",
+        "https://jiosaavn.com",
+        "https://jiosaavn.com/featured/new-music-this-week/Ns2UZo9qDvI"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9edb9fb24f639f4bd73d0cd5ebb04ff00eeb54ce",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:08:18.972+02:00",
+    "updated": "2024-11-24T12:38:57.391+02:00"
+}

@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "d71a075f795368e4402b19388f0b9a7fb1de42c9",
+        "url": "https://www.freepressjournal.in/indore/indore-industrialist-vinod-agrawal-honoured-with-lifetime-achievement-award",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "https://www.freepressjournal.in/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Free Press Journal",
+        "title": "Indore: Industrialist Vinod Agrawal Honoured With Lifetime Achievement Award",
+        "title_full": "Indore: Industrialist Vinod Agrawal Honoured With Lifetime Achievement Award",
+        "published": "2024-11-23T00:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2024-11-23/azrign5w/Vinod-Agrawal-Nov-22MU3.JPG",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d71a075f795368e4402b19388f0b9a7fb1de42c9",
+    "url": "https://www.freepressjournal.in/indore/indore-industrialist-vinod-agrawal-honoured-with-lifetime-achievement-award",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Reporter",
+    "published": "2024-11-23T00:03:00.000+02:00",
+    "title": "Indore: Industrialist Vinod Agrawal Honoured With Lifetime Achievement Award",
+    "text": "Indore (Madhya Pradesh): Vinod Agrawal, managing director of Agrawal Coal Corporation Private Limited, was honoured with the prestigious 'Lifetime Achievement Award' at the India Coal Conference 2024 held in New Delhi on Thursday. The award recognises his unparalleled contributions to the coal industry, reflecting his relentless efforts and dedication over the years.\nThe event was attended by over 700 participants from around the globe, who came together to discuss various aspects of the coal industry and explore avenues for its growth and innovation.\nOn receiving the award, Agrawal expressed his gratitude, saying, \"The award is not just mine, it is the result of our entire team's collective hard work and commitment. I dedicate this honour to every member of Agrawal Coal Corporation who has played a vital role in establishing us as a leading company in coal imports in India.\"\nThe India Coal Conference is a prestigious global platform that brings together key experts and policymakers from the coal industry. Its aim is to foster innovation, development and collaborative efforts to drive strategic growth.\nAgrawal Coal Corporation Private Limited is one of India's leading coal importing companies. Under the visionary leadership of Vinod Agrawal, the company has achieved significant milestones and established a strong foothold in the industry. Its commitment to quality, customer-centric approach and exemplary management is pivotal in shaping its remarkable success story.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vinod Agrawal",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Agrawal Coal Corporation Private Limite",
+                "sentiment": "negative"
+            },
+            {
+                "name": "India Coal Conference",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:15:20.897+02:00",
+    "updated": "2024-11-23T05:15:20.897+02:00"
+}

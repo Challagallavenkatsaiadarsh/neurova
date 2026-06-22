@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "bc40c89128c51c461450d06ae2e6448c817d1395",
+        "url": "https://www.upr.org/utah-news/2024-11-22/gay-teenager-is-set-to-become-utahs-youngest-elected-official",
+        "site_full": "www.upr.org",
+        "site": "upr.org",
+        "site_section": "https://www.upr.org/utah-news",
+        "site_categories": [
+            "media",
+            "7_12_education",
+            "education"
+        ],
+        "section_title": "Utah News | Utah Public Radio",
+        "title": "Gay teenager is set to become Utah's youngest elected official",
+        "title_full": "Gay teenager is set to become Utah's youngest elected official",
+        "published": "2024-11-23T01:02:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/1075bb3/2147483647/strip/true/crop/6355x3336+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F89%2Fa1%2Fb9c688ab4d21869dc97030f7bde1%2Fgr-93666-1-1.jpg",
+        "performance_score": 0,
+        "domain_rank": 59920,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bc40c89128c51c461450d06ae2e6448c817d1395",
+    "url": "https://www.upr.org/utah-news/2024-11-22/gay-teenager-is-set-to-become-utahs-youngest-elected-official",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Alex Gonzalez",
+    "published": "2024-11-23T01:02:00.000+02:00",
+    "title": "Gay teenager is set to become Utah's youngest elected official",
+    "text": "Gay teenager is set to become Utah's youngest elected official\nLewis, who is gay, is also the youngest elected official in Utah. He said winning was a surreal moment, and he will ensure the student perspective is included in education policy discussions and decisions.\nLewis said he's been contacted by folks across his district who are thrilled with his victory and added he's even received messages from people globally who have been paying attention to the recent election, especially in conservative and traditionally 'red' Utah.\n\"As a gay man, it means a lot to me and it means a lot to the queer students in the district and in Canyons, but even I've spoken to members of the football team, I've spoken to members of the debate team, right? They are all excited about the fact that someone this young, right, is going to be occupying this seat and representing student interests on this board,\" he said.\nThe lifelong resident of Midvale and a Hillcrest High School graduate says he is a proud product of the state's public school system and understands the value it holds. Lewis promised to address issues such as chronic absenteeism, increasing teacher pay, and promised to be a \"loud\" opponent to future book bans.\nDuring Utah's most recent legislative session, [House Bill 29](https://le.utah.gov/~2024/bills/static/HB0029.html) passed and allows parents to challenge books they deem to have \"sensitive materials.\"\nLewis said while he did garner support from younger voters, he also made a conscious effort to connect with older folks who might have been a bit more apprehensive about electing a younger person to office. But he says he found their reception and support to be welcoming and invigorating.\nRegardless of who you are or who you voted for, Lewis encourages everyone to get informed and involved.\n\"You don't have to run for office if you don't want to, if you don't have the time or energy to put into it but just get involved. Know who your elected officials are and make sure that they know who you are too,\" he continued.\nLewis added that can look like attending local party conventions and meetings, or getting involved at the community level with events of various kinds. He contends Utahns will feel less alone and more connected to their communities during a time of high polarization.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://le.utah.gov/~2024/bills/static/HB0029.html",
+        "https://www.le.utah.gov/~2024/bills/static/HB0029.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lewis",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hillcrest High School",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:17:07.683+02:00",
+    "updated": "2024-11-23T02:17:07.683+02:00"
+}

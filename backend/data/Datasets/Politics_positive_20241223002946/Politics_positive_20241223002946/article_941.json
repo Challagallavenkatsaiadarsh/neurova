@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "8a7c2bf72c70057845218f97acb87ca42bea3c3a",
+        "url": "https://uinterview.com/videos/video-footage-shows-ukraine-striking-command-post-deep-in-russian-territory-using-long-range-british-missiles",
+        "site_full": "uinterview.com",
+        "site": "uinterview.com",
+        "site_section": "https://www.uinterview.com",
+        "site_categories": [
+            "media",
+            "celebrity_fan_gossip",
+            "entertainment"
+        ],
+        "section_title": "uInterview - Celebrity News, Celebrity Video Interviews, Concert Ticket Deals",
+        "title": "VIDEO: Footage Shows Ukraine Striking Command Post Deep In Russian Territory Using Long-Range British Missiles",
+        "title_full": "VIDEO: Footage Shows Ukraine Striking Command Post Deep In Russian Territory Using Long-Range British Missiles",
+        "published": "2024-11-23T04:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 135659,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8a7c2bf72c70057845218f97acb87ca42bea3c3a",
+    "url": "https://uinterview.com/videos/video-footage-shows-ukraine-striking-command-post-deep-in-russian-territory-using-long-range-british-missiles",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "uInterview",
+    "published": "2024-11-23T04:53:00.000+02:00",
+    "title": "VIDEO: Footage Shows Ukraine Striking Command Post Deep In Russian Territory Using Long-Range British Missiles",
+    "text": "The Ukrainian Armed Forces said it targeted a Russian military command post on the grounds of a historic estate in Maryino, in Russia’s Kursk region, on Nov. 20 after drone footage leaked online showing a series of explosions in the area.\nThe announcement was made by the Unmanned Systems Forces (USF), a Ukrainian military unit that specializes in drone warfare, on Nov. 21, a day after the strikes. USF also confirmed that the footage belonged to the armed forces.\nThe strike on Maryino prompted reports that Ukrainian forces had fired British-French missiles. The anonymously run pro-Russian Telegram channel Two Majors posted photos purporting to show fragments of Storm Shadow missiles found in Maryino, and one outlet said an official had confirmed the strike on condition of anonymity.\nEarlier video shot by an eyewitness outside the estate captured the sound of at least 14 explosions.\nGovernor of Kursk Region Alexey Smirnov said air defenses shot down two Ukrainian missiles over Kursk region, but he did not specify what kind of missiles they were.\nThe estate in Maryino, which was built in the early 1800s, is managed by a Kremlin agency, the Administrative Department of the President of the Russian Federation, and is located about 24 miles from the Ukrainian border at its nearest point.\nThe Wall Street Journal also reporte d, citing an unnamed source, that a senior North Korean general was wounded in a strike in the Kursk region on Nov. 20.\nCredit: Ukrainian Armed Forces via Storyful",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexey Smirnov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "USF",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maryino",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:47:01.493+02:00",
+    "updated": "2024-11-23T05:47:01.493+02:00"
+}

@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "4f95f4aa872db236d2b8ef4a5178f284e8781c95",
+        "url": "https://cnycentral.com/news/local/cheating-on-your-significant-other-a-crime-not-anymore-in-ny-state",
+        "site_full": "cnycentral.com",
+        "site": "cnycentral.com",
+        "site_section": "https://cnycentral.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Cheating on your significant other a crime? Not anymore in NY state!",
+        "title_full": "Cheating on your significant other a crime? Not anymore in NY state!",
+        "published": "2024-11-22T23:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cnycentral.com/resources/media/fe179d40-add7-4ed0-8b9c-d82467f3ca3d-large16x9_Screenshot20240322225421.png",
+        "performance_score": 0,
+        "domain_rank": 25147,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4f95f4aa872db236d2b8ef4a5178f284e8781c95",
+    "url": "https://cnycentral.com/news/local/cheating-on-your-significant-other-a-crime-not-anymore-in-ny-state",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matthew Saffer",
+    "published": "2024-11-22T23:53:00.000+02:00",
+    "title": "Cheating on your significant other a crime? Not anymore in NY state!",
+    "text": "GLEN COVE, N.Y. — Governor Kathy Hochul has signed into law a bill decriminalizing adultery in the State of New York. The law has been on the books for more than 100 years, and when enacted in 1907, the law was severely criticized for punishing intimate behavior.\nNew York now joins other states such as West Virginia, Pennsylvania, Colorado, New Hampshire, Massachusetts, Utah, Idaho, and Minnesota in decriminalizing adultery. The District of Columbia has also repealed its adultery law.\nThe United Nations Human Rights Commission issued a report in 2012 advocating that adultery should not be a criminal offense. It noted that it is mostly women who are charged with adultery. Adultery can carry the death sentence in many countries outside America.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:17:06.974+02:00",
+    "updated": "2024-11-29T14:10:14.909+02:00"
+}

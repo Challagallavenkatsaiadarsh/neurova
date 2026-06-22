@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "7787e62faf11732f1339bec2dd6f0e8d8d7886f3",
+        "url": "https://tribune.com.pk/story/2511343/atc-convicts-first-group-of-may-9-prisoners",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://tribune.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "International News, Latest News, Breaking News  | The Express Tribune",
+        "title": "ATC convicts first group of May 9 prisoners",
+        "title_full": "ATC convicts first group of May 9 prisoners",
+        "published": "2024-11-22T21:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.tribune.com.pk/media/images/Anti-terrorism-court1715804242-0/Anti-terrorism-court1715804242-0.jpeg",
+        "performance_score": 0,
+        "domain_rank": 4084,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7787e62faf11732f1339bec2dd6f0e8d8d7886f3",
+    "url": "https://tribune.com.pk/story/2511343/atc-convicts-first-group-of-may-9-prisoners",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Khalid Mahmood",
+    "published": "2024-11-22T21:43:00.000+02:00",
+    "title": "ATC convicts first group of May 9 prisoners",
+    "text": "An anti-terrorism court (ATC) in Islamabad has convicted ten people for resorting to vandalism in the wake of the May 9, 2023 arrest of former prime minister Imran Khan in a corruption case.\nThe ATC has sentenced the people to six-year imprisonment while also imposing a fine on them. These are the first group of people to be convicted and sentenced in May 9 cases.\nA First Information Report (FIR) was registered on May 10, 2023 against 17 accused individuals in one of the police stations of the federal capital. Following the investigation, one of the accused was exonerated.\nThe court on Friday convicted 10 of the accused.\nAmong the convicted individuals are Abid Mehmood, son of Muhammad Saqib, Ahsan Ayaz, son of Muhammad Ayaz and Shaukat, son of Fazal Dad from Islamabad.\nThe convicted include Naeemullah, son of Abdul Qadir, and Zakirullah, son of Bismillah Khan, from Bajaur and Matiullah, son of Ameen Khan, from Rawalpindi;\nSources indicate that four of the ten convicted individuals are Afghan nationals residing in various parts of Pakistan. These include Dawood Khan, son of Hajo Khan; Younas Khan, son of Khan Muhammad; Ehsanullah, son of Zia-ul-Haq; and Lal Agha, son of Khan Agha.\nNon-bailable arrest warrants have been issued for the six absconding accused, with instructions for their immediate presentation in court upon capture.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our [Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bismillah Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Muhammad Saqib",
+                "sentiment": "none"
+            },
+            {
+                "name": "Muhammad Ayaz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abid Mehmood",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dawood Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Abdul Qadir",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ahsan Ayaz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ameen Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Imran Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matiullah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hajo Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shaukat",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ATC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bajaur",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:34.353+02:00",
+    "updated": "2024-11-23T01:24:34.353+02:00"
+}

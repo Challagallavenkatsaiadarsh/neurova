@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "e8ee1ca70200e6a43f7b7fd633f60bbb59a4bc24",
+        "url": "https://menafn.com/1108918834/Cheers-angst-as-US-nuclear-plant-Three-Mile-Island-to-reopen",
+        "site_full": "menafn.com",
+        "site": "menafn.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Cheers, angst as US nuclear plant Three Mile Island to reopen",
+        "title_full": "Cheers, angst as US nuclear plant Three Mile Island to reopen",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://menafn.com/updates/pr/2024-11/23/AFP_43006image_story.jpg",
+        "performance_score": 0,
+        "domain_rank": 6480,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e8ee1ca70200e6a43f7b7fd633f60bbb59a4bc24",
+    "url": "https://menafn.com/1108918834/Cheers-angst-as-US-nuclear-plant-Three-Mile-Island-to-reopen",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MENAFN",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Cheers, angst as US nuclear plant Three Mile Island to reopen",
+    "text": "Forgot Username or Password Date (MENAFN- AFP) The planned reopening of the Three Mile Island nuclear plant is praised as a boon for Pennsylvania and a boost for AI, but it is loathed by residents still haunted by a near-catastrophic meltdown there in 1979. \"Gas is under attack. coal is shutting down all over this country. You got to have the base load. And nuclear is probably the most efficient base load source we have,\" Pennsylvania Building and Trades Council president Robert Bair told AFP, arguing that the reopening of the plant will benefit the entire country. Gains could include some 3,400 jobs and three billion dollars in tax revenue for the surrounding counties, according to a study by the council. The resurrection of Three Mile Island (TMI) -- half of which remained operating after the 1979 meltdown, only closing down due to economic reasons in 2019 -- was prompted by Microsoft's need to fuel its power-hungry data centers. A revolution in generative artificial intelligence has triggered a surge in energy needs for those data centers, pushing cloud computing giants to look for additional low carbon energy sources. Microsoft -- which is also the biggest shareholder in OpenAI, the company at the forefront of the artificial intelligence arms race -- has signed a 20-year contract with TMI operator Constellation, which says all the power the plant generates will go to the Silicon Valley behemoth. \"I'm good with (the power station reopening), but that's mainly because my best friend works for OpenAI,\" joked Shay McGarvey, a bus driver in Middletown, less than three miles from the power station. \"No, actually it's more about the amount of jobs it's going to create,\" he added. \"This unit was a good neighbor to Londonderry Township and our surrounding region for 45 years,\" said Bart Shellenhamer, chair of the Londonderry Township Board, which represents TMI. - Faustian bargain - For others, the fear and anxiety of 1979 is still strong. \"Most residents prefer it remain closed,\" said Matthew Canzoneri, chairman of the town council in Goldsboro, on the other side of the Susquehanna River on which the island is located. \"The energy produced does not directly benefit the community, and there is a definite sense of concern given TMI's history,\" he added. A series of equipment malfunctions and human errors saw the plant's Unit 2 melt down in 1979, releasing radioactive materials into the atmosphere and launching mass evacuations. The accident riveted Americans for days and ushered in a new era of anxiety and regulation over nuclear energy in the United States. The worst -- the rupture of the reactor vessel -- was avoided, but it remains the most serious accident in the history of US commercial nuclear power. Forty-five years later, some residents are still accusing authorities of having played down the scale of the disaster. Some studies have shown higher than average rates of leukemia, thyroid and lung cancer in the region in the years that followed, but none has formally established the link to the nuclear accident. Maria Frisby, who was a teenager in 1979, insists that \"until the (Nuclear Regulatory Commission) acknowledges that the partial meltdown at Three Mile was much worse, there is no way I'm going to agree\" that reopening the plant is a good idea. \"I lost a lot of classmates to multiple cancers, who died in their 50s,\" said the 60-year old, for whom the link with the accident is obvious. Bair said it was important to distinguish between Unit 2, where the accident occurred, and Unit 1, which \"was the most efficient plant in the country for years.\" \"I understand there's always concerns,\" he said. \"But from what I've seen and what I know about the nuclear industry, there's no industry more heavily regulated and scrutinized and supervised than the generation of nuclear power.\" Eric Epstein, of the EFMR nonprofit which monitors radiation from TMI, pointed to issues such as the storage of spent fuel, which Constellation told AFP would be stored on the island -- as it was during the nearly 40 years that Unit 1 operated safely. \"It's a Faustian bargain,\" Epstein said. \"You get electricity for a moment and radioactive waste forever.\" MENAFN23112024000143011026ID1108918834 Legal Disclaimer: MENAFN provides the information “as is” without warranty of any kind. We do not accept any responsibility or liability for the accuracy, content, images, videos, licenses, completeness, legality, or reliability of the information contained in this article. If you have any complaints or copyright issues related to this article, kindly contact the provider above. Tags Comments Category",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Bair",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Trades Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Microsoft",
+                "sentiment": "none"
+            },
+            {
+                "name": "AFP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:52:10.044+02:00",
+    "updated": "2024-11-24T04:52:10.044+02:00"
+}

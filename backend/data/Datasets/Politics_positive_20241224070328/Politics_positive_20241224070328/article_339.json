@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "bb25019c404d11f57480f48faf219632d08fe496",
+        "url": "https://indianexpress.com/article/cities/lucknow/up-bypoll-results-3-time-ex-mla-husband-in-jail-sp-candidate-naseem-solanki-comes-out-winner-riding-on-sympathy-wave-9687032",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "http://indianexpress.com/feed/",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "The Indian Express",
+        "title": "UP bypoll results: 3-time ex-MLA husband in jail, SP candidate Naseem Solanki comes out winner riding on ‘sympathy wave’",
+        "title_full": "UP bypoll results: 3-time ex-MLA husband in jail, SP candidate Naseem Solanki comes out winner riding on ‘sympathy wave’",
+        "published": "2024-11-23T21:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/Naseem-Solanki.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bb25019c404d11f57480f48faf219632d08fe496",
+    "url": "https://indianexpress.com/article/cities/lucknow/up-bypoll-results-3-time-ex-mla-husband-in-jail-sp-candidate-naseem-solanki-comes-out-winner-riding-on-sympathy-wave-9687032",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Manish Sahu",
+    "published": "2024-11-23T21:38:00.000+02:00",
+    "title": "UP bypoll results: 3-time ex-MLA husband in jail, SP candidate Naseem Solanki comes out winner riding on ‘sympathy wave’",
+    "text": "Riding on a sympathy wave following the conviction of her husband and former three-time MLA Irfan Solanki in a land-grab case, Samajwadi Party candidate Naseem Solanki emerged victorious from the Sisamau seat in the Assembly by-elections, the results of which were declared on Saturday. She defeated BJP’s Suresh Awasthi, her nearest rival, by a margin of 8,564 votes while securing 69,714 votes. Contesting her first Assembly election, Naseem relied heavily on her family’s legacy to secure votes. During her campaign, she frequently broke down at rallies, recounting her family’s “struggles” and appealed to voters to stand by them “during their time of need”. After the announcement of the results on Saturday, she said, “The people of Sisamau have delivered justice to me. This is a victory for justice.\" She maintained a steady lead throughout the counting process, with Awasthi and BSP candidate Virendra Kumar trailing at second and third positions. By the eighth round of the 20 rounds of counting, Naseem was ahead with 28,315 votes. BSP’s Kumar managed to secure only 1,410 votes. Irfan Solanki, currently lodged in the Maharajganj district jail, represented Sisamau for three consecutive terms before losing his Assembly membership following his conviction. In June, a court sentenced Solanki, his younger brother Rizwan Solanki, and three others to seven years in prison for allegedly harassing a woman and setting her house on fire to grab her land in Kanpur's Jajmau area in 2022. Naseem expressed her gratitude, stating that the outcome reflected the unwavering support of her family and the people of Sisamau, whom she considers part of her “extended family”. Besides, she received good support from senior SP leaders, including party chief Akhilesh Yadav and his wife Dimple Yadav. During the campaigning, Dimple led a roadshow, while Akhilesh addressed a rally in her support. Naseem's campaign also drew significant attention due to a controversy surrounding her visit to the Balkhandeshwar temple, where she offered prayers. This drew criticism from Muslim religious leaders, while temple priests conducted a purification ritual using Ganga water. On the other hand, the BJP, determined to reclaim the seat, launched an aggressive campaign to counter Naseem’s emotional appeals. The party's senior leaders, including Chief Minister Yogi Adityanath, held rallies to back Suresh Awasthi, a prominent Brahmin leader.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Naseem Solanki",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Suresh Awasthi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Irfan Solanki",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Samajwadi Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:54:43.003+02:00",
+    "updated": "2024-11-24T03:17:40.435+02:00"
+}

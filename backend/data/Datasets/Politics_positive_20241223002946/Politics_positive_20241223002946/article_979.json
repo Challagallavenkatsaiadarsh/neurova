@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "1fb3523ee19255ff3be881948ce791c4564940eb",
+        "url": "https://www.indiatimes.com/news/india/maharashtra-jharkhand-assembly-election-results-bjp-preparing-jalebis-for-victory-celebration-646577.html",
+        "site_full": "www.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://www.indiatimes.com/entertainment/celebs",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Celebrity Gossips, Scandals, Wardrobe Malfunctions News &amp; Videos | Indiatimes.com",
+        "title": "Maharashtra, Jharkhand assembly election results: Here is why BJP is preparing jalebis for victory celebration",
+        "title_full": "Maharashtra, Jharkhand assembly election results: Here is why BJP is preparing jalebis for victory celebration",
+        "published": "2024-11-23T05:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://im.indiatimes.in/content/template/share/646577.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1fb3523ee19255ff3be881948ce791c4564940eb",
+    "url": "https://www.indiatimes.com/news/india/maharashtra-jharkhand-assembly-election-results-bjp-preparing-jalebis-for-victory-celebration-646577.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bobins Abraham",
+    "published": "2024-11-23T05:52:00.000+02:00",
+    "title": "Maharashtra, Jharkhand assembly election results: Here is why BJP is preparing jalebis for victory celebration",
+    "text": "Vote counting is underway in Maharashtra and Jharkhand for the recently concluded assembly elections in the two states. The BJP has taken early leads in both states as the vote counting continues.BJP prepares for jalebi celebrations At the BJP headquarters in New Delhi, preparations are already underway for grand victory celebrations later in the day. CREDIT: BCCL But unlike in the past, where laddus used to be the sweet of choice for celebrations, this time around it seems to be jalebis. Videos posted by ANI showed workers preparing jalebis at the BJP headquarters in anticipation of a huge win in Maharashtra and Jharkhand. How jalebi became politicalJalebi took a political turn last month during the Haryana assembly elections when Congress leader Rahul Gandhi made a comment about the Gohana jalebis during a campaign speech. Calling them delicious, Rahul said that he suggested to his sister Priyanka that the sweet shop should open factories worldwide. The BJP, however, pounced on the opportunity, reminding the Congress leader that jalebis were not made in factories.BJP sent jalebis to Rahul GandhiFollowing the thumping Haryana assembly election victory, the BJP had even sent jalebis to Rahul Gandhi's residence in Delhi. After the BJP’s unexpected victory in the Haryana Assembly elections, the party distributed jalebis, using Gandhi’s comments to mock the Congress party’s defeat. CREDIT: BCCLNayab Saini promised mega ‘jalebi celebration’ Earlier this week, Haryana Chief Minister Nayab Singh Saini had promised a mega ‘jalebi celebration’ in all 288 seats of Maharashtra after the BJP's win in the assembly election.“Jalebis will be made in all Maharashtra constituencies,” Saini had said.For more news and current affairs from around the world, please visit Indiatimes News.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://t.co/MnZubGrLO9",
+        "https://twitter.com/ANI/status/1860146533402051046?ref_src=twsrc%5Etfw",
+        "https://twitter.com/hashtag/WATCH?src=hash&ref_src=twsrc%5Etfw",
+        "https://im.indiatimes.in/content/2023/Oct/big-test-min_6528266ce9a76.jpeg?w=32&h=21&cc=1&q=75",
+        "https://twitter.com/ANI/status/1860146533402051046",
+        "https://www.twitter.com/hashtag/WATCH?src=hash&ref_src=twsrc%5Etfw",
+        "https://im.indiatimes.in/content/2023/Oct/big-test-min_6528266ce9a76.jpeg",
+        "https://www.t.co/MnZubGrLO9",
+        "https://www.im.indiatimes.in/content/2023/Oct/big-test-min_6528266ce9a76.jpeg?w=32&h=21&cc=1&q=75",
+        "https://www.twitter.com/ANI/status/1860146533402051046?ref_src=twsrc%5Etfw",
+        "https://twitter.com/hashtag/WATCH"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rahul Gandhi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haryana",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:03:19.257+02:00",
+    "updated": "2024-12-03T10:24:15.586+02:00"
+}

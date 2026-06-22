@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "0af901ee61cba5bf5bf8820d6f321c3cf57d6988",
+        "url": "https://turnto10.com/news/nation-world/caravan-of-1500-migrants-heads-for-us-border-amid-policy-controversy-trump-biden-customs-immigration-politics",
+        "site_full": "turnto10.com",
+        "site": "turnto10.com",
+        "site_section": "http://turnto10.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Caravan of 1,500 migrants heads for US border amid policy controversy",
+        "title_full": "Caravan of 1,500 migrants heads for US border amid policy controversy",
+        "published": "2024-11-22T22:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://turnto10.com/resources/media2/16x9/4424/986/0x231/90/980ee04c-e412-43f2-879a-76af54f1162c-AP24325663824460.jpg",
+        "performance_score": 0,
+        "domain_rank": 13643,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0af901ee61cba5bf5bf8820d6f321c3cf57d6988",
+    "url": "https://turnto10.com/news/nation-world/caravan-of-1500-migrants-heads-for-us-border-amid-policy-controversy-trump-biden-customs-immigration-politics",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "JANAE BOWENS | The National News Desk",
+    "published": "2024-11-22T22:55:00.000+02:00",
+    "title": "Caravan of 1,500 migrants heads for US border amid policy controversy",
+    "text": "WASHINGTON (TNND) — A caravan of approximately 1,500 migrants is going through Mexico, aiming to reach the United States before President-elect Donald Trump takes office.\nThe group, composed of individuals from Central and South America, has sparked political debate as Republicans accuse President Joe Biden of loosening immigration policies in his final days in office.\nBrayan Velázquez, a migrant from Guatemala, expressed concern over potential policy changes.\n\"We are very afraid because it looks like he is going to eliminate the CBP One (U.S. Customs and Border Protection) appointment,\" Velázquez said. \"We ask the U.S. government to help us because there are many needs in our countries.\"\nTrump has vowed to enforce strict border controls and mass deportations. Tom Homan, Trump's incoming border czar and former acting ICE director, emphasized the administration's stance.\n\"I think President Trump needs to make a phone call down there to tell them they are going to stop that caravan or they will have consequences like they did before,\" Homan said.\nMeanwhile, the New York Post reports the Biden administration is quietly easing immigration policies. Starting next month, migrants in New York City will be able to bypass in-person check-ins at local ICE offices, opting instead for a reportedly unreliable ICE portal app.\nImmigration attorney Kate Lincoln-Goldfinch said Biden should have done more.\n\"It's not an indication that a policy about ICE check-ins in New York, for example, is any indication that the Biden administration is trying to set things in place that would be more difficult to dismantle.\"\nThe Biden administration is also expected to allow migrants to contest government-ordered monitoring and tracking, potentially leading to complex paperwork and lengthy appeals processes.\nFormer Acting Commissioner of U.S. Customs and Border Protection Mark Morgan criticized Senate Democrats for proposing $750 million for resettling migrants, arguing it contradicts the public's demand for stronger border security.\n\"The American people overwhelmingly sent a very clear mandate to our Congressional Members in Capitol Hill of what they want to have change,\" Morgan said.\nMorgan also accused the Biden administration of obstructing a peaceful transfer of power and hindering Trump's immigration strategy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brayan Velázquez",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Customs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "0af901ee61cba5bf5bf8820d6f321c3cf57d6988",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:30:39.147+02:00",
+    "updated": "2024-11-23T01:07:31.586+02:00"
+}

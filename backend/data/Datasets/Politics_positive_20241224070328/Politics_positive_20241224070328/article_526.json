@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "42f3eda34d915b934cbec70b1787e7635b8b0abc",
+        "url": "https://www.dailywire.com/news/trump-taps-dr-janette-nesheiwat-for-u-s-surgeon-general",
+        "site_full": "www.dailywire.com",
+        "site": "dailywire.com",
+        "site_section": "https://www.dailywire.com/feeds/rss.xml",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Daily Wire - Breaking News, Videos &amp; Podcasts",
+        "title": "Trump Taps Dr. Janette Nesheiwat For U.S. Surgeon General",
+        "title_full": "Trump Taps Dr. Janette Nesheiwat For U.S. Surgeon General",
+        "published": "2024-11-24T02:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dw-wp-production.imgix.net/2024/11/Janette-Nesheiwat.jpg?w=1200&amp;h=800&amp;ixlib=react-9.3.0",
+        "performance_score": 0,
+        "domain_rank": 4723,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "42f3eda34d915b934cbec70b1787e7635b8b0abc",
+    "url": "https://www.dailywire.com/news/trump-taps-dr-janette-nesheiwat-for-u-s-surgeon-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Saavedra",
+    "published": "2024-11-24T02:13:00.000+02:00",
+    "title": "Trump Taps Dr. Janette Nesheiwat For U.S. Surgeon General",
+    "text": "— News — Trump Taps Dr. Janette Nesheiwat For U.S. Surgeon General She completed her medical residency at the University of Arkansas for Medical Sciences.\nBy Ryan Saavedra • Nov 24, 2024 DailyWire.com • Facebook\nX\nMail\nTerry Wyatt / Getty Images President-elect Donald Trump announced late this week that he has selected Dr. Janette Nesheiwat to serve as the next U.S. Surgeon General in his upcoming administration.\n“Dr. Nesheiwat is a double board-certified Medical Doctor with an unwavering commitment to saving and treating thousands of American lives,” Trump said in a statement.\nTrump said that Nesheiwat “is a fierce advocate and strong communicator for preventive medicine and public health” who “is committed to ensuring that Americans have access to affordable, quality healthcare, and believes in empowering individuals to take charge of their health to live longer, healthier lives.”\nThe 44-year-old was raised by a widowed immigrant mother who worked as a nurse, the Trump transition team said.\nBorn in New York, she graduated from South Florida in 2000 with a Biology degree. After completing U.S. Army Reserve Officer Training Corps, she pursued medical school in the Caribbean before completing her residency at the University of Arkansas for Medical Sciences.\n“Her expertise and leadership have been pivotal during some of the most challenging Healthcare crises of our time,” Trump said. “Dr. Janette provided on-the-ground medical treatment to Americans in the aftermath of Hurricane Katrina and the Joplin tornadoes. She is also a member of Samaritan’s Purse Disaster Assistance, Relief Team, and has provided lifesaving care during crises in Morocco, Haiti, and Poland.”\nCHECK OUT THE DAILY WIRE HOLIDAY GIFT GUIDE\nNesheiwat responded by saying that she was “deeply honored and humbled” to be nominated for the position.\n“Thank you, Mr. President, for your trust,” she said. “I pledge to work tirelessly to promote health, inspire hope, and serve our nation with dedication and compassion.”\nI am deeply honored and humbled by this nomination to serve as Surgeon General of the United States. Thank you, Mr. President, for your trust. I pledge to work tirelessly to promote health, inspire hope, and serve our nation with dedication and compassion @realDonaldTrump #MAHA pic.twitter.com/anKuzkYNcz\n— Dr Janette Nesheiwat (@DoctorJanette) November 23, 2024\nCreate a free account to join the conversation! Start Commenting Already have an account?\nLog in Got a tip worth investigating? Your information could be the missing piece to an important story. Submit your tip today and make a difference.\nSubmit Tip Don't miss anything Download our App Stay up-to-date on the latest\nnews, podcasts, and more.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of Arkansas for Medical Sciences",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. Army Reserve Officer Training Corps",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Caribbean",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "42f3eda34d915b934cbec70b1787e7635b8b0abc",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:38:33.127+02:00",
+    "updated": "2024-11-24T08:27:33.483+02:00"
+}

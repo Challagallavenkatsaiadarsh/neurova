@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "8633f3127c2ecbbd6b341e0a2589ac41c11f18e7",
+        "url": "https://www.deccanherald.com/world/us-charges-indian-national-with-conspiring-to-illegally-export-aviation-components-to-russia-3288290",
+        "site_full": "www.deccanherald.com",
+        "site": "deccanherald.com",
+        "site_section": "https://www.deccanherald.com/top-bengaluru-news",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Top Bengaluru News: Bengaluru News Today, Bengaluru Latest News and Headlines, Bengaluru Local News Updates | Deccan Herald",
+        "title": "US charges Indian national with conspiring to illegally export aviation components to Russia",
+        "title_full": "US charges Indian national with conspiring to illegally export aviation components to Russia",
+        "published": "2024-11-22T23:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.deccanherald.com/deccanherald%2F2024-11-22%2F9pvj380s%2Ffile74mey2evz001mok5vhp3.jpg?rect=0%2C0%2C600%2C315&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop",
+        "performance_score": 0,
+        "domain_rank": 2918,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8633f3127c2ecbbd6b341e0a2589ac41c11f18e7",
+    "url": "https://www.deccanherald.com/world/us-charges-indian-national-with-conspiring-to-illegally-export-aviation-components-to-russia-3288290",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-11-22T23:10:00.000+02:00",
+    "title": "US charges Indian national with conspiring to illegally export aviation components to Russia",
+    "text": "<p>Washington: The US has charged a 57-year-old Indian national for allegedly conspiring to export controlled US aviation components to end users in Russia, according to the Justice Department.</p>.<p>Sanjay Kaushik was arrested in Miami on October 17 and was indicted on Thursday, the Department of Justice said in a press release on Friday.</p>.<p>He was indicted for conspiring to illegally export aviation components with dual civilian and military applications to end users in Russia in violation of the Export Control Reform Act.</p>.<p>Kaushik is also charged with attempting to illegally export a navigation and flight control system from Oregon to Russia through India and with making false statements in connection with an export.</p>.All you need to know about Gautam Adani's US bribery indictment.<p>If convicted, he faces maximum penalties of 20 years in prison and up to USD 1 million for each count in the indictment.</p>.<p>According to the court documents, beginning as early as March 2023, following Russia’s full-scale invasion of Ukraine, Kaushik conspired with others to unlawfully obtain aerospace goods and technology from the US for entities in Russia.</p>.<p>The goods were purchased under the false pretence that they would be supplied to Kaushik and his Indian company when they were destined for Russian end users, according to the press release.</p>.<p>In one such instance, Kaushik and his co-conspirators purchased an Attitude Heading Reference System (AHRS), a device that provides navigation and flight control data for aircraft, from an Oregon-based supplier, federal prosecutors said.</p>.<p>Components such as the AHRS require a license from the Department of Commerce to be exported to certain countries, including Russia.</p>.<p>“To obtain an export license for the AHRS, Kaushik and his co-conspirators falsely claimed that Kaushik’s Indian company was the end purchaser and that the component would be used in a civilian helicopter,\\\" federal prosecutors said.</p>.<p>\\\"Kaushik and his co-conspirators obtained the AHRS – which was ultimately detained before it was exported from the United States – on behalf of and with the intention of shipping it, through India, to a customer in Russia,” they added.</p>",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sanjay Kaushik",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gautam Adani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Justice",
+                "sentiment": "none"
+            },
+            {
+                "name": "Justice Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:55:18.478+02:00",
+    "updated": "2024-11-23T02:17:00.590+02:00"
+}

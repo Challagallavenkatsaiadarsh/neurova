@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "83a7977a0ef769b18bbc5f5c94bcadf0a9ad7a31",
+        "url": "https://widgets.hindustantimes.com/india-news/jharkhand-assembly-election-results-2024-bjp-led-nda-takes-early-jmm-india-bloc-101732330146876.html",
+        "site_full": "widgets.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://widgets.hindustantimes.com/web-stories/lifestyle",
+        "site_categories": [
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "Lifestyle Web Stories: Check out the latest visual stories on fashion trends, beauty tips, health, travel and food. | Hindustan Times",
+        "title": "Jharkhand results 2024: BJP-led NDA takes early lead; JMM opens account too",
+        "title_full": "Jharkhand results 2024: BJP-led NDA takes early lead; JMM opens account too",
+        "published": "2024-11-23T04:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/PTI11-20-2024-000057B-0_1732330873041_1732330896538.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "83a7977a0ef769b18bbc5f5c94bcadf0a9ad7a31",
+    "url": "https://widgets.hindustantimes.com/india-news/jharkhand-assembly-election-results-2024-bjp-led-nda-takes-early-jmm-india-bloc-101732330146876.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T04:33:00.000+02:00",
+    "title": "Jharkhand results 2024: BJP-led NDA takes early lead; JMM opens account too",
+    "text": "Jharkhand results 2024: BJP-led NDA takes early lead; JMM opens account too\nExit polls predicted the NDA could win between 42 and 47 seats, while the JMM-led alliance is expected to secure 25 and 30 seats.\nThe Bharatiya Janata Party-led NDA in Jharkhand took early leads as the Election Commission of India began the counting of votes of the assembly election on Saturday, November 23.\nAccording to the data available at 8.20am, the NDA was leading in eight seats, while the JMM-led INDIA bloc was leading in only 3 seats.\nThe counting votes for the the 2024 Jharkhand assembly elections began at 8am. The counting, which will decide the fate of 81 seats in Jharkhand, is expected to reveal trends in the first few hours.\nIn Jharkhand, the first phase of polling took place on November 13, covering 43 of the 81 assembly seats. The contest is between the JMM-led alliance, comprising Congress, RJD, and CPI(ML), and the BJP-led NDA alliance, which includes AJSU, JD(U), and LJP. Exit polls predicted the NDA could win between 42 and 47 seats, while the JMM-led alliance is expected to secure 25 and 30 seats.\nVoter turnout in Jharkhand was reported at over 68.45 per cent on election day, surpassing the 2019 election turnout of 65 per cent. In the 2019 elections, the JMM won 30 seats, BJP 25, and Congress 16 seats. The results for all 81 constituencies in Jharkhand, along with the Maharashtra and bypoll results, will be declared on Saturday.\nThe bypolls were held in 48 assembly seats and two Lok Sabha seats across 15 states, with notable contests in Uttar Pradesh and Wayanad, Kerala, where Congress leader Priyanka Gandhi Vadra made her electoral debut.\n[India News](https://www.hindustantimes.com/india-news),\n[Weather Today](https://www.hindustantimes.com/weather),\n[Latest News](https://www.hindustantimes.com/latest-news),\n[Assembly Election 2024](https://www.hindustantimes.com/elections/assembly-election),\n[Maharashtra Election](https://www.hindustantimes.com/elections/assembly-election/maharashtra),\n[Jharkhand Election](https://www.hindustantimes.com/elections/assembly-election/jharkhand)along with\n[Election Results 2024 Live](https://www.hindustantimes.com/india-news/election-results-2024-live-updates-maharashtra-jharkhand-vidhan-sabha-result-today-bjp-congress-shiv-sena-jmm-vote-count-101732318367957.html),\n[Maharashtra Election Result Live](https://www.hindustantimes.com/india-news/maharashtra-election-result-2024-live-shiv-sena-bjp-congress-maha-assembly-election-results-today-latest-updates-23-nov-101732315652311.html)and\n[Jharkhand Election Result Live](https://www.hindustantimes.com/india-news/jharkhand-assembly-election-result-2024-live-updates-bjp-congress-jmm-election-results-today-23-nov-2024-eci-results-101732289411385.html).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "NDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:12:38.682+02:00",
+    "updated": "2024-11-23T05:12:38.682+02:00"
+}

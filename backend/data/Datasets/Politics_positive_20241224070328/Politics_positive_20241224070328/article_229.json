@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "d75719a1aa4b4ab5228e90c83e6afd658b6c09f2",
+        "url": "https://gvwire.com/2024/11/23/trump-taps-investor-scott-bessent-as-treasury-secretary",
+        "site_full": "gvwire.com",
+        "site": "gvwire.com",
+        "site_section": "https://www.gvwire.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Home - GV Wire",
+        "title": "Trump Taps Investor Scott Bessent as Treasury Secretary",
+        "title_full": "Trump Taps Investor Scott Bessent as Treasury Secretary",
+        "published": "2024-11-23T17:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 51368,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d75719a1aa4b4ab5228e90c83e6afd658b6c09f2",
+    "url": "https://gvwire.com/2024/11/23/trump-taps-investor-scott-bessent-as-treasury-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The New York Times",
+    "published": "2024-11-23T17:07:00.000+02:00",
+    "title": "Trump Taps Investor Scott Bessent as Treasury Secretary",
+    "text": "WASHINGTON — President-elect Donald Trump picked Scott Bessent to serve as Treasury secretary Friday, tapping a billionaire hedge fund manager to lead an economic agenda that is expected to be built around raising tariffs and cutting taxes.\nBessent, the founder of the investment firm Key Square Capital Management, has emerged as a central economic adviser to Trump over the past year. He has called for rolling back government subsidies, deregulating the economy and raising domestic energy production. Unlike many on Wall Street, Bessent, 62, has also defended the use of tariffs, which are Trump’s favorite economic tool.\n“Scott is widely respected as one of the World’s foremost International Investors and Geopolitical and Economic Strategists,” Trump said in a statement posted on social media. “Scott’s story is that of the American Dream.”\n“Together, we will Make America Rich Again, Prosperous Again, Affordable Again, and most importantly, Great Again,” Trump said.\nAlthough Bessent’s policy ideas are in lockstep with conservative economic principles, one aspect of his background could draw questions from Republicans. He rose to prominence in the finance world as a protégé of George Soros, a billionaire Democratic donor and longtime villain of the right wing, and served for years as his top money manager.\nRelated Story: What to Know About Pam Bondi, Trump’s New Pick for Attorney General\nThe selection came after intensive deliberation by Trump and his advisers, who debated for weeks about who should win the most prominent economic job in his administration. Bessent and Howard Lutnick, the CEO of Cantor Fitzgerald, tussled over the job before Lutnick was picked to be commerce secretary this week. Trump also considered tapping Kevin Warsh, a former Federal Reserve Board governor, and Marc Rowan, the CEO of Apollo Global Management, for the role.\nIf confirmed by the Senate, Bessent would take over a department with vast responsibilities that is at the core of the federal government. The Treasury Department issues debt to fund the government’s operations and pay its bills, including paying Social Security and veterans benefits.\nBut the most visible parts of Bessent’s job will be shepherding the administration’s tax plans through Congress, leading economic negotiations with China and overseeing the nation’s sanctions program.\n—\nThis article originally appeared in The New York Times .\nBy Alan Rappeport and Maggie Haberman\nc.2024 The New York Times Company",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nytimes.com/2024/11/22/business/trump-scott-bessent-treasury.html",
+        "https://nytimes.com/2024/11/22/business/trump-scott-bessent-treasury.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Key Square Capital Management",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:54:58.837+02:00",
+    "updated": "2024-11-24T01:54:58.837+02:00"
+}

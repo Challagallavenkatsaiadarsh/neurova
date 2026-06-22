@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "125f228fc644cb95767d7e49c213242867c1fac9",
+        "url": "https://abc7chicago.com/post/new-mural-throop-park-honors-violence-de-escalator-david-boogie-gonzales-killed-1973-pilsen-chicago-shooting/15578449",
+        "site_full": "abc7chicago.com",
+        "site": "abc7chicago.com",
+        "site_section": "https://abc7chicago.com",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment"
+        ],
+        "section_title": "abc7chicago.com - ABC7 WLS Chicago and Chicago News",
+        "title": "New mural honors slain violence de-escalator David 'Boogie' Gonzales near Pilsen's Throop Park",
+        "title_full": "New mural honors slain violence de-escalator David 'Boogie' Gonzales near Pilsen's Throop Park",
+        "published": "2024-11-24T01:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.abcotvs.com/dip/images/15579039_112324-wls-piekos-boogie-mural-5p-vid.jpg?w=1600",
+        "performance_score": 0,
+        "domain_rank": 3346,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "125f228fc644cb95767d7e49c213242867c1fac9",
+    "url": "https://abc7chicago.com/post/new-mural-throop-park-honors-violence-de-escalator-david-boogie-gonzales-killed-1973-pilsen-chicago-shooting/15578449",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Christian Piekos",
+    "published": "2024-11-24T01:15:00.000+02:00",
+    "title": "New mural honors slain violence de-escalator David 'Boogie' Gonzales near Pilsen's Throop Park",
+    "text": "CHICAGO (WLS) -- \"Boogie lives.\"\nThat is the message dozens of people heard on a cold Saturday morning in Pilsen's Throop Park.\n\"He's a movement. He's somebody that sacrificed his life for unity within Pilsen,\" said Victoria Guy, Boogie's niece.\nDavid \"Boogie\" Gonzales was a prominent Pilsen violence de-escalator, one of the first.\nHe worked to stop gang warfare along 18th Street but was tragically gunned down in a drive-by shooting at just 23 years old in 1973.\nHis niece, Victoria, says he lived to provide a sense of hope to young people in the community.\n\"He wanted to give the youth a different image or something else outside of these four blocks,\" she said.\nSEE ALSO | [How Pilsen transitioned from a Bohemian neighborhood to the heart of Chicago's Mexican community](https://abc7chicago.com/pilsen-chicago-history-neighborhood-gentrification/12312130/)\nTo carry on Boogie's legacy of peace, a colorful mural was unveiled next to Throop Park.\n\"I started listening to him and doing things that made me a better person,\" said muralist Rufus Linus Jr.\nThe muralist says he knew Boogie and is honored to help creatively share his memories with others.\nHe says it took him three weeks to complete.\n\"In the rain, in the cold. Day and night we worked hard, very hard,\" Rufus said.\nAld. Byron Sigcho-Lopez, who represents the 25th Ward, spoke during the mural unveiling, saying the tireless work to keep Boogie's memory alive will change lives.\n\"If we do not know our history, we cannot change it,\" he said.\nOrganizers are now passing a petition through the community to rename Throop Park in Boogie's name.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Victoria Guy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gonzales",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Throop Park",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "125f228fc644cb95767d7e49c213242867c1fac9",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:45:40.004+02:00",
+    "updated": "2024-11-24T01:45:40.004+02:00"
+}

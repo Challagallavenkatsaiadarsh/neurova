@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "e4733a1f18e493561bfdcd230b1bf04aec67feaa",
+        "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/24/contributions-of-unsung-heroes-will-be-brought-to-forefront-odisha-cm-mohan-charan-majhi",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Contributions of unsung heroes will be brought to forefront: Odisha CM Mohan Charan Majhi",
+        "title_full": "Contributions of unsung heroes will be brought to forefront: Odisha CM Mohan Charan Majhi",
+        "published": "2024-11-24T01:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2Fp99akhfr%2FCM.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e4733a1f18e493561bfdcd230b1bf04aec67feaa",
+    "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/24/contributions-of-unsung-heroes-will-be-brought-to-forefront-odisha-cm-mohan-charan-majhi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-24T01:11:00.000+02:00",
+    "title": "Contributions of unsung heroes will be brought to forefront: Odisha CM Mohan Charan Majhi",
+    "text": "BHUBANESWAR: Chief Minister Mohan Charan Majhi on Saturday said the state government will take all possible measures to keep the legacy of Dr Harekrushna Mahtab alive and his contributions will be recognised nationally.\nPaying tribute to Mahtab on his 125th birth anniversary at a state-level function organised by the Odia Language, Literature And Culture department here, the chief minister said the life and achievements of Mahtab are a significant chapter in Odisha’s social, political, and economic history.\n“A biopic on Mahtab’s life will be produced and a memorial will be erected at his birthplace Agarpada in Bhadrak district,” Majhi said. He said Mahtab was a freedom fighter, politician, writer and social reformer who played a crucial role in shaping Odisha’s destiny.\nMajhi said the state has been recognising only one family’s contributions to the freedom struggle for decades. The new government has paid tribute to the makers of modern Odisha and the multifaceted personalities who have made significant contributions to the state’s development.\n“Recognising others contributions does not diminish the greatness of a few and it is a healthy tradition. The state government will take all possible steps to bring all unsung heroes to the forefront,” he added.\n“Celebrating the 125th birth anniversary of Mahtab through a year-long national-level festival is a timely initiative. I express my gratitude to Prime Minister Narendra Modi and Union Home minister Amit Shah for this,” the CM said. The chief minister felicitated literary personalities - Shankar Lal Purohit, Nishamani Kar and Gobinda Chandra Chand for their contributions to the field of literature.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mohan Charan Majhi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Harekrushna Mahtab",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:48:19.697+02:00",
+    "updated": "2024-11-24T06:48:19.697+02:00"
+}

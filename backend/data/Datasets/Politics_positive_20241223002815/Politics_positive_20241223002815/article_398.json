@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "950caf6307ce40f2f2c947728eb3818e243c8e6e",
+        "url": "https://www.thenews.com.pk/print/1254099-pm-launches-project-to-restore-kachhi-canal",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "PM launches project to restore Kachhi canal",
+        "title_full": "PM launches project to restore Kachhi canal",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254099_051948_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "950caf6307ce40f2f2c947728eb3818e243c8e6e",
+    "url": "https://www.thenews.com.pk/print/1254099-pm-launches-project-to-restore-kachhi-canal",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@APP",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "PM launches project to restore Kachhi canal",
+    "text": "TAUNSA/ISLAMABAD: Prime Minister Shehbaz Sharif on Friday inaugurated the project for restoration of Kachhi Canal damaged by 2022 floods.\nAddressing the ceremony, Shehbaz told the gathering that the feasibility study of the Kachhi Canal Project was started in 1998 during Nawaz Sharif’s tenure and was completed in his second tenure after suffering a lot during Pervez Musharraf time.\nHe appreciated the Water and Power Development Authority (Wapda) and Minister for Planning Ahsan Iqbal and their respective team for accomplishing the repair project and assured the federal government’s all-out support for the second phase.\nThe prime minister also appreciated the Balochistan chief minister for reviving the merit-based order and launching the solarisation of tube-wells.\nSimilarly, he also spoke highly for the Punjab chief minister for launching the project of a cancer hospital, free tractor scheme for farmers to bring about the agricultural revolution and other initiatives in the education and health sectors.\nSeparately, the Ministry of Information Technology and Telecommunication presented a detailed action plan to the prime minister aimed at boosting the country’s IT exports to $25 billion in five years.\nThe prime minister, who had tasked the IT Ministry with the target, chaired a review meeting in Islamabad and appreciated the action plan, and instructed to ensure its implementation, according to a PM Office press release.\nThe action plan featured measures to bring reforms in different IT-related sectors and address the issues.\nIn his remarks, the prime minister said that there was no dearth of capable manpower and resources.\nThe effective use of resources and skill training of the manpower could take the IT exports even beyond the targeted $25 billion.\nHe asked all the relevant departments for collaborative efforts to address the challenges in the IT sector reforms and informed the participants that he would personally oversee the implementation process.\nThe prime minister instructed the Higher Education Commission to devise an action plan for youth’s education and skill training of international standards.\nCalling for implementing the proposals to meet the Gulf countries’ demand for IT experts, he asked the IT Ministry to define the targets and their timelines to enhance exports.\nIn this regard, he also directed to constitute a committee to ensure the implementation of the reforms and carry out necessary collaboration with different departments.\nIn the briefing, the prime minister was told that his decision to prioritise the IT sector led to a 34 percent increase in IT exports during the last four months.\nIt was informed that Pakistan’s IT ranking improved from 79 to 40, e-governance ranking by 14 points, and 2,500 new IT companies were registered.\nThe participants were informed that for the next five years, a $15 billion target has been set for IT sector exports, $10 billion for digitisation, and $1 billion for telecom exports.\nThe meeting was briefed on the Labor Management System aimed at capacity building of the workforce in collaboration with the educational institutions, using the demand data of the industries.\nAs the IT Ministry briefed about the proposed project for the facilitation of youth particularly the freelancers in remittances, the prime minister appreciated the measures regarding the international patent gateways and instructed for an immediate implementation.\nHe expressed satisfaction with the action plan on IT exports and lauded the IT minister and her team.\nFederal Economic Affairs Minister Ahad Khan Cheema, Minister of State for Information Technology Shaza Fatima Khawaja and relevant senior officers attended the meeting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shehbaz Sharif",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Pervez Musharraf",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nawaz Sharif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ahsan Iqbal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Power Development Authority",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kachhi Canal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Balochistan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:28:55.371+02:00",
+    "updated": "2024-11-23T02:28:55.371+02:00"
+}

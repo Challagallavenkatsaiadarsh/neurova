@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "fdbc0d9418f663afced52d2bff57d00d4a042025",
+        "url": "https://www.rawstory.com/trump-doj-2669986142",
+        "site_full": "www.rawstory.com",
+        "site": "rawstory.com",
+        "site_section": "http://www.rawstory.com/rs/feed/",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_ca",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Raw Story - Celebrating 20 Years of Independent Journalism",
+        "title": "Trump to fire Jack Smith's team — and order DOJ to investigate 2020 election: report",
+        "title_full": "Trump to fire Jack Smith's team — and order DOJ to investigate 2020 election: report",
+        "published": "2024-11-23T01:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.rawstory.com/media-library/trump-is-getting-freakier-and-devolving-into-sheer-lunacy-analysis.jpg?id=53842832&width=1200&height=600&coordinates=0%2C250%2C0%2C251",
+        "performance_score": 0,
+        "domain_rank": 3144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fdbc0d9418f663afced52d2bff57d00d4a042025",
+    "url": "https://www.rawstory.com/trump-doj-2669986142",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matthew Chapman",
+    "published": "2024-11-23T01:19:00.000+02:00",
+    "title": "Trump to fire Jack Smith's team — and order DOJ to investigate 2020 election: report",
+    "text": "Matthew Chapman November 22, 2024 6:19PM ET\nMatthew Chapman News Writer Matthew Chapman is a video game designer who attended Rensselaer Polytechnic Institute and lives in San Marcos, Texas. Before joining Raw Story, he wrote for Shareblue and AlterNet, specializing in election and policy coverage.\nSee Full Bio\nRepublican presidential nominee former U.S. President Trump visits North Carolina Source: REUTERS Donald Trump plans to purge the team that worked with special counsel Jack Smith to try to prosecute Trump and assemble teams to investigate the 2020 election, The Washington Post reported Friday.\nAccording to the report, Trump wants to immediately seek revenge against the federal prosecutors who helped outgoing special counsel Jack Smith file two criminal cases against him, firing every attorney working under him \"including career attorneys typically protected from political retribution, according to two individuals close to Trump’s transition.\"\nHe also plans to \"assemble investigative teams within the Justice Department to hunt for evidence in battleground states that fraud tainted the 2020 election,\" according to two people near the Trump transition team. Before narrowly winning the presidency in 2024, Trump lost the 2020 election and has repeatedly pushed baseless claims it was stolen. No audit in any battleground state has found evidence of fraud.\nALSO READ: A giant middle finger from a tiny craven man\nWhen asked for comment Trump's spokeswoman Karoline Leavitt said her boss \"campaigned on firing rogue bureaucrats who have engaged in the illegal weaponization of our American justice system, and the American people can expect he will deliver on that promise.\"\n\"One of the many reasons that President Trump won the election in a landslide is Americans are sick and tired of seeing their tax dollars spent on targeting the Biden-Harris Administration’s political enemies rather than going after real violent criminals in our streets,\" she said in a statement.\nThere is no evidence that the prosecutions against Trump were politically motivated. Moreover, under the Biden administration, violent crime dropped to nearly a 50-year low .\nThis comes after Trump stirred up a firestorm of controversy, including within his party, by nominating former Rep. Matt Gaetz (R-FL) to serve as attorney general, despite a House Ethics Committee report detailing allegations he engaged in child sex trafficking. After Gaetz withdrew, Trump nominated former Florida Attorney General Pam Bondi, another far-right Trump loyalist who represented Trump during his first impeachment trial .\nSmartNews Trump News For customer support contact support@rawstory.com . Report typos and corrections to corrections@rawstory.com . Stories Chosen For You READ COMMENTS - JOIN THE DISCUSSION Are you satisfied with President-elect Trump's nominations for office? D. Earl Stephens The America-attacking Trump is coming for our military — and then he's coming for us Matt Laslo GOP says good riddance to Gaetz — with most refusing even to say his name John Stoehr Until there’s a liberal media apparatus, the Democrats will live in Trump’s America",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jack Smith",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Karoline Leavitt",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Justice Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "Washington Post",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:27:42.433+02:00",
+    "updated": "2024-11-23T02:39:11.560+02:00"
+}

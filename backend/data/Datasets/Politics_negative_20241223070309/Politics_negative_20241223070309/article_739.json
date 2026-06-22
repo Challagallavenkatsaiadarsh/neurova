@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "bacdc25e02f0d1721473987e94c543c73eab2235",
+        "url": "https://www.newsbreak.com/wkbn-1589963/3686017272061-city-sues-to-get-money-back-in-development-scheme",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wkbn-1589963",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WKBN&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T21:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/4IKsTG_0wy6rjde00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bacdc25e02f0d1721473987e94c543c73eab2235",
+    "url": "https://www.newsbreak.com/wkbn-1589963/3686017272061-city-sues-to-get-money-back-in-development-scheme",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T21:53:00.000+02:00",
+    "title": "",
+    "text": "By Patty Coller ,\n3 hours ago\nYOUNGSTOWN, Ohio (WKBN) – The City of Youngstown filed a lawsuit this week trying to recoup some of the money it lost in a development scheme between former finance director David Bozanich and developer Dominic Marchionda.\nT he lawsuit goes back to the 2021 corruption scandal involving Bozanich, Marchionda, and the Erie Terminal and Flats at Wick projects.\nWhile Bozanich and Marchionda were both convicted of crimes in the scheme that shuffled money out of the city’s Water Fund for Marchionda’s projects, the city says it’s still owed $834,608 (minus $100,000 the city collected from Bozanich’s insurance bond as a fiduciary) plus costs and fees for the money that was fraudulently turned over to Marchionda’s projects in the bribery scheme.\nThe city also wants Bozanich to refund the salary he was paid while he was in cahoots with Marchionda.\nThe city has named Marchionda, Bozanich and the LLCs created by Marchionda for the Erie Terminal and Flats at Wick projects in the lawsuit.\nMarchionda responded to the lawsuit Friday questioning the city’s timing.\n“In regard to the curious timing of the city’s lawsuit, we intend to defend our company with the greatest respect to the legal process; a process that has already been exhausted against these entities and myself over a decade ago. It is our position that the current filing against our companies is redundant and retaliatory. We will provide more context and comments to the filing in the coming days and intend to counter the one-sided nature of the findings, of which we vehemently disagree and have the necessary documentation to disprove such findings.”\nDominic Marchionda, Erie Terminal Place LLC and US Campus Suites LLC A 2021 forensic audit by the state uncovered the scheme to fund Marchionda’s projects and the bribes given to Bozanich, who was later convicted of taking unlawful compensation and records tampering. Bozanich served less than a year in prison for the crimes.\nMarchionda pleaded guilty to four counts of tampering with records as part of a plea deal and was sentenced to five years of probation.\nThe lawsuit was filed Thursday in Mahoning County Common Pleas Court. A response from the defendants has not been recorded yet.\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WKBN.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wkbn.com/news/local-news/youngstown-developer-learns-sentences-in-corruption-case/",
+        "https://img.particlenews.com/image.php?url=4IKsTG_0wy6rjde00",
+        "https://www.wkbn.com/news/local-news/youngstown-news/",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4IKsTG_0wy6rjde00",
+        "https://www.wkbn.com/news/local-news/former-youngstown-leader-convicted-in-corruption-scandal-released-from-prison-early/",
+        "https://www.wkbn.com",
+        "https://wkbn.com/news/local-news/former-youngstown-leader-convicted-in-corruption-scandal-released-from-prison-early/",
+        "https://www.wkbn.com/news/local-news/youngstown-news",
+        "https://wkbn.com",
+        "https://www.wkbn.com/news/local-news/youngstown-developer-learns-sentences-in-corruption-case",
+        "https://www.img.particlenews.com/image.php?url=4IKsTG_0wy6rjde00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4IKsTG_0wy6rjde00",
+        "https://wkbn.com/news/local-news/youngstown-news/",
+        "https://www.wkbn.com/news/local-news/former-youngstown-leader-convicted-in-corruption-scandal-released-from-prison-early",
+        "https://wkbn.com/news/local-news/youngstown-developer-learns-sentences-in-corruption-case/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Patty Coller",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dominic Marchionda",
+                "sentiment": "none"
+            },
+            {
+                "name": "David Bozanich",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:22.775+02:00",
+    "updated": "2024-11-23T01:24:22.775+02:00"
+}

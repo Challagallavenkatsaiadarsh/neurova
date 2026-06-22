@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "5106501acd00654ead492bd0ee398133f0810d55",
+        "url": "https://www.telecompetitor.com/ntia-adds-seven-states-to-the-list-of-approved-digital-equity-capacity-grants",
+        "site_full": "www.telecompetitor.com",
+        "site": "telecompetitor.com",
+        "site_section": "http://feeds.feedburner.com/telecompetitor",
+        "site_categories": [
+            "television",
+            "entertainment"
+        ],
+        "section_title": "Telecompetitor",
+        "title": "NTIA Adds Seven States to the List of Approved Digital Equity Capacity Grants",
+        "title_full": "NTIA Adds Seven States to the List of Approved Digital Equity Capacity Grants",
+        "published": "2024-11-22T22:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 66324,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5106501acd00654ead492bd0ee398133f0810d55",
+    "url": "https://www.telecompetitor.com/ntia-adds-seven-states-to-the-list-of-approved-digital-equity-capacity-grants",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ian Doescher",
+    "published": "2024-11-22T22:30:00.000+02:00",
+    "title": "NTIA Adds Seven States to the List of Approved Digital Equity Capacity Grants",
+    "text": "Yesterday, the National Telecommunications and Information Administration (NTIA) approved seven more states’ applications for funding from the Digital Equity Capacity Grant Program.\nThe announcement said, “States will use this funding to implement their digital equity plans, which outline how they will empower individuals and communities with the tools and skills necessary to benefit from meaningful access to affordable, reliable, high-speed Internet service.”\nThe seven new approved awards include grants for New Hampshire, Oregon, South Carolina, South Dakota, Texas, Vermont, and Wyoming.\nAccording to the announcements, the grantees will use the NTIA digital equity funds in a variety of ways:\nNebraska: $6,500,627\nIncrease the number of broadband providers offering affordable plans for low-income households. Encourage and support the development or expansion of programs that provide digital skills training. Support efforts by hospitals, healthcare providers, associations, and other stakeholders to increase the use of telehealth. New Hampshire: $4,942,018\nSupport and expand programs for new and refurbished internet-enabled devices to ensure safe and effective use. Improve access to and awareness of technical support and training for using assistive devices, including assistive technologies for those with disabilities. Oregon: $9,947,586\nOnline safety and privacy training, including cybersecurity training as part of digital skills training conducted by selected partners. Encourage adoption of low-cost internet service options and increase access to affordable computing devices and technical support. South Carolina: $12,846,583\nAward mini-grants — up to $50,000 annually — in every county to increase access to internet-enabled devices, and digital skills training, and offer various life-essential training opportunities in personal finance, healthcare, and education. Develop a device recycling and refurbishment program to support distribution to covered households. Establish a digital navigators program to train individuals to work with covered populations to increase digital skills. South Dakota: $5,010,234\nPartner with organizations to create physical Digital Centers to help residents with in-person computer classes, assistance with enrollment in internet subsidy programs, or distribution of refurbished devices. Implement a standardized digital literacy curriculum and digital workforce certificate program to be offered at publicly accessible locations across South Dakota. Texas: $55,641,147\nEstablish a Digital Opportunity Grant Program to award subgrant funding competitively. Maintain, grow, promote, and make accessible a statewide digital opportunity asset inventory. Vermont: $5,299,150\nEstablish a community-based digital skilling and technical support program with multiple parts to meet the needs of Vermonters. Support access to devices through a program focused on procurement, refurbishment, and deployment of devices and assistive technology. Expand workforce development programs to include digital literacy training. Wyoming: $5,251,485\nRaise awareness of low-cost broadband service options and promote adoption. Wyoming Community College Commission (WCCC) will include access to computing devices and technical support as a component of its program. WCCC will provide digital literacy and skills and workforce training. “Today’s funding will make the internet more affordable and accessible – helping connect Granite Staters in all corners of our state,” said New Hampshire Senator Jeanne Shaheen.\nThe awards announced last week — as well as the 19 announced previously — come from the first round of the Digital Equity Capacity Grant Program , which made more than $800 million (of the total $1.44 billion State Digital Equity Capacity Grant Program) available to states.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Telecommunications and Information Administration",
+                "sentiment": "negative"
+            },
+            {
+                "name": "NTIA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Digital Equity Capacity Grant Program",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:27:43.155+02:00",
+    "updated": "2024-11-23T05:51:44.155+02:00"
+}

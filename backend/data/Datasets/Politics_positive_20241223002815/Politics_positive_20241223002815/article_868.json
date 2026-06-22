@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "95c41d43d7cf135664699cd6d8e2815867f52566",
+        "url": "https://www.bssnews.net/sports/225533",
+        "site_full": "www.bssnews.net",
+        "site": "bssnews.net",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Amorim's to-do list to make Man Utd great again | Sports",
+        "title_full": "Amorim's to-do list to make Man Utd great again | Sports",
+        "published": "2024-11-23T04:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "BD",
+        "main_image": "https://www.bssnews.net/assets/news_photos/2024/11/23/image-225533-1732329127.jpg",
+        "performance_score": 0,
+        "domain_rank": 82235,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "95c41d43d7cf135664699cd6d8e2815867f52566",
+    "url": "https://www.bssnews.net/sports/225533",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "BSS",
+    "published": "2024-11-23T04:30:00.000+02:00",
+    "title": "Amorim's to-do list to make Man Utd great again | Sports",
+    "text": "MANCHESTER, United Kingdom, Nov 23, 2024 (BSS/AFP) - Ruben Amorim takes charge of Manchester United for the first time at Ipswich on Sunday, confident that he is the man to revive the troubled Premier League club. Amorim arrives hailed as one of Europe's brightest coaching prospects after a highly successful spell at Sporting Lisbon. But the 39-year-old is United's sixth permanent appointment since legendary former boss Alex Ferguson retired in 2013. In the 11 years since, United have failed to challenge in either the Premier League or Champions League and currently sit 13th in the English top-flight. AFP Sport looks at the challenges Amorim faces to bring back United's glory days: Impose his style Two trophies in his two full seasons in charge was not enough to save Erik ten Hag as there was no reason to believe the Dutchman was capable of reversing a shocking run of results. Even when he did score impressive wins over the likes of Barcelona, Liverpool and Manchester City, Ten Hag relied on moments of individual brilliance from his stars rather than imposing a clear style of play. Amorim has earned his ticket to the Premier League after transforming the fortunes of Sporting over the past four years. His brand of attacking and energetic football saw Sporting finally step out of the shadow of Benfica and Porto to win the Portuguese league twice after a 19-year wait. \"As a coach you have to choose one way or another, I choose always 100 percent our way. I choose to risk a bit,\" he said at his unveiling on Friday. \"I believe so much in our way of playing, they will believe too. There is no second way.\" But he will have precious little time on the training ground to impose his philosophy as United face a gruelling run of 12 games between November 24 and January 5. Awaken the United 'graveyard' United's fall from grace has come despite continuing to spend colossal sums on transfer fees and wages. Over o600 million ($778 million) was spent over Ten Hag's five transfer windows on new signings but very few have proved value for money. David Moyes, Louis van Gaal, Jose Mourinho and Ole Gunnar Solskjaer were also chewed up and spat out by the pressures of managing United since Ferguson's departure. \"Every manager that comes to Manchester United, we start to think they're the problem at a certain point,\" said former United captain Gary Neville. \"Players bought for o50 million, o60 million, o70 million - even though other clubs want these players on the way in and they chose Manchester United - and it ends up being a graveyard for them.\" Amorim will have a greater pool of talent to work with than he did at Sporting. Getting the best out of those resources will be the key to his success. Bring back belief United fans have been beaten down by not only their own struggles in recent years but by watching rivals Manchester City and Liverpool take over as the dominant forces in the English game. Old Trafford is no longer the fortress it once was. Liverpool and Tottenham cruised to 3-0 victories in September, while Brighton, Bournemouth, Crystal Palace and Fulham won there last season. Amorim has to energise the crowd to give them cause to believe that this time managerial change will provide the answer. United captain Bruno Fernandes witnessed his new boss do just that at his former club and is hoping he can make a similar impact. \"I am a big fan of Sporting and watch a lot of their games. Ruben Amorim brought the excitement back to the club,\" said Fernandes. \"He transformed everything and brought everyone together.\" Amorim himself is not lacking in self-confidence that United have finally stumbled upon the right choice to turn the club around. \"I'm a little bit of a dreamer, I believe in myself. I believe in the club, we have the same mindset,\" he said. \"I want to try new things. You guys (the media) don't think it's possible, I do.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ruben Amorim",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Alex Ferguson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Manchester United",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Premier League",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ipswich",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            },
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:18:24.572+02:00",
+    "updated": "2024-11-23T05:18:24.572+02:00"
+}

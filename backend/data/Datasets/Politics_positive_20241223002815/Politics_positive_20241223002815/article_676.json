@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "b72dddf9c6589d68eaa9368a2e6dfe15b9b22933",
+        "url": "https://calgary.citynews.ca/video/2024/11/22/calgarys-green-line-alignment-update-is-on-the-tracks-2",
+        "site_full": "calgary.citynews.ca",
+        "site": "citynews.ca",
+        "site_section": "https://calgary.citynews.ca",
+        "site_categories": [
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Breaking News | Top Local Stories | CityNews Calgary",
+        "title": "Calgary’s Green Line alignment update is on the tracks",
+        "title_full": "Calgary’s Green Line alignment update is on the tracks",
+        "published": "2024-11-23T03:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/593482582001/a72e9623-c457-4ae0-b92b-a16cbc479018/7db1bf66-499b-47d1-b6ac-1055ce281842/1920x1080/match/image.jpg",
+        "performance_score": 0,
+        "domain_rank": 3960,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b72dddf9c6589d68eaa9368a2e6dfe15b9b22933",
+    "url": "https://calgary.citynews.ca/video/2024/11/22/calgarys-green-line-alignment-update-is-on-the-tracks-2",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T03:41:00.000+02:00",
+    "title": "Calgary’s Green Line alignment update is on the tracks",
+    "text": "Live Streaming 24/7\nCalgary’s Green Line alignment update is on the tracks\nRayn Rashid has more on a 'positive' meeting between Calgary Mayor Jyoti Gondek and the province on the future of the Green Line LRT.\n20m ago\nLatest Videos\n2:18\n[\n](https://calgary.citynews.ca/video/2024/11/22/clean-up-underway-after-an-explosion-in-calgarys-community-of-mahogany/)\nClean up underway after an explosion in Calgary’s community of Mahogany\nThe clean-up began after an explosion destroyed a Calgary home in the SE community of Mahogany Thursday afternoon. Phoenix Phillips talks to witnesses who recalled hearing the explosion and are surprised only one townhome was destroyed.\n26m ago\nMost Popular Today\nLatest Videos\n2:18\n[\n](https://calgary.citynews.ca/video/2024/11/22/clean-up-underway-after-an-explosion-in-calgarys-community-of-mahogany/)\nClean up underway after an explosion in Calgary’s community of Mahogany\nThe clean-up began after an explosion destroyed a Calgary home in the SE community of Mahogany Thursday afternoon. Phoenix Phillips talks to witnesses who recalled hearing the explosion and are surprised only one townhome was destroyed.\n26m ago\n1:12",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rayn Rashid",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jyoti Gondek",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:03:24.575+02:00",
+    "updated": "2024-11-23T04:03:24.575+02:00"
+}

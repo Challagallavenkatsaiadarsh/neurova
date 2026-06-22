@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "66e72cc5fbaca1f42d4d5acf608d57d8ebc67493",
+        "url": "https://radiojamaicanewsonline.com/local/jlp-expected-to-win-by-elections-in-south-trelawny-north-west-st-andrew",
+        "site_full": "radiojamaicanewsonline.com",
+        "site": "radiojamaicanewsonline.com",
+        "site_section": "http://www.radiojamaicanewsonline.com/election",
+        "site_categories": [
+            "health",
+            "cold_and_flu"
+        ],
+        "section_title": "Election | RJR News - Jamaican News Online",
+        "title": "JLP Expected To Win By-elections In South Trelawny, North West St. Andrew | RJR News - Jamaican News Online",
+        "title_full": "JLP Expected To Win By-elections In South Trelawny, North West St. Andrew | RJR News - Jamaican News Online",
+        "published": "2024-11-23T01:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JM",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 132550,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "66e72cc5fbaca1f42d4d5acf608d57d8ebc67493",
+    "url": "https://radiojamaicanewsonline.com/local/jlp-expected-to-win-by-elections-in-south-trelawny-north-west-st-andrew",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T01:40:00.000+02:00",
+    "title": "JLP Expected To Win By-elections In South Trelawny, North West St. Andrew | RJR News - Jamaican News Online",
+    "text": "Marisa Dalrymple-Philibert and Lloyd Gillings; as well as Duane Smith and Carl Marshall By Kimone Witter The ruling Jamaica Labour Party is expected to win the by-elections in Trelawny Southern and St. Andrew North Western as the People's National Party opted not to contest the polls. Former House Speaker Marisa Dalrymple-Philibert is seeking to represent the constituency on behalf of the Jamaica Labour Party for a fifth consecutive term. She resigned in September 2023 after the Integrity Commission ruled that she be charged for allegedly making false statements on her statutory declaration. Independent candidate, Lloyd Gillings, is challenging Mrs. Dalrymple-Philibert for the seat. Speaking with members of the media on Friday, Mrs. Dalrymple-Philibert said she would not declare victory until all the ballots are counted. While she was grateful for the support she observed, the JLP candidate insisted \"It's never over until the fat lady sings. I never assume until all the votes have been counted.\" Her opponent, Lloyd Gillings, believes she should have been disqualified from running for the seat, as there are still unanswered questions related to charges for breaching the Integrity Commission Act. \"I think it is unfair to South Trelawny for her to just walk out of the seat and walk back in,\" he added. St. Andrew North Western It was a beaming Duane Smith who cast his ballot at the Salvation Army church on Mannings Hill Road for the St. Andrew North Western by-election. Mr Smith is contesting the seat against independent candidate and former speaker of the House of Representatives Carl Marshall. The third candidate Rohan Banks pulled out at the eleventh hour. Mr. Smith is the councilor for the Chancery Hall Division in the Kingston and St. Andrew Municipal Corporation. He said his 12 years as a councillor has prepared him to address the needs of the constituency, including infrastructure and poor road conditions. Meanwhile, independent candidate Carl Marshall said his focus would be on education.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marisa Dalrymple-Philibert",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carl Marshall",
+                "sentiment": "none"
+            },
+            {
+                "name": "Duane Smith",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kimone Wi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lloyd Gillings",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "People's National Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jamaica Labour Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Integrity Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "South Trelawny",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:18:40.318+02:00",
+    "updated": "2024-11-23T03:15:35.559+02:00"
+}

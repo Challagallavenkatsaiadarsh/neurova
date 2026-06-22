@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "319c22913bb4c2c42b836f6ceed3ee2fd2059721",
+        "url": "https://sanangelolive.com/news/texas/2024-11-22/dps-first-mounted-patrol-unit-strengthen-border-security",
+        "site_full": "sanangelolive.com",
+        "site": "sanangelolive.com",
+        "site_section": "http://sanangelolive.com/rss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "San Angelo LIVE! - The largest news source in West Texas",
+        "title": "DPS: First Mounted Patrol Unit to Strengthen Border Security",
+        "title_full": "DPS: First Mounted Patrol Unit to Strengthen Border Security",
+        "published": "2024-11-23T02:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://sanangelolive.com/sites/default/files/styles/facebook/public/2024-11/image0020.jpeg?h=fbf4b26c&amp;itok=idAy--pb",
+        "performance_score": 0,
+        "domain_rank": 23571,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "319c22913bb4c2c42b836f6ceed3ee2fd2059721",
+    "url": "https://sanangelolive.com/news/texas/2024-11-22/dps-first-mounted-patrol-unit-strengthen-border-security",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "nickthompson",
+    "published": "2024-11-23T02:40:00.000+02:00",
+    "title": "DPS: First Mounted Patrol Unit to Strengthen Border Security",
+    "text": "AUSTIN, TX — The Texas Department of Public Safety has launched its first-ever Border Mounted Patrol Unit, a new initiative designed to enhance border security with the help of highly trained Texas Highway Patrol Troopers and their equine partners.\nThe launch was celebrated today, November 22, with the graduation of the inaugural 3E Mounted Horse Patrol Class. This class will patrol Texas' border terrain.\n“This marks a historic moment for the Texas Department of Public Safety,” said DPS Director Steven McCraw. “The launch of the Border Mounted Patrol Unit, along with the graduation of its first class, demonstrates our commitment to enhancing border security using innovative and adaptive strategies to protect Texans.”\nThe new mounted patrol unit will help bolster traditional ground patrols by using horses' unique capabilities to navigate difficult terrain along the Texas-Mexico border. The 3E unit will work in close coordination with local, state, and federal law enforcement agencies to locate and apprehend individuals attempting to bypass established border checkpoints.\nThe three graduated teams were experienced Texas Highway Patrol Troopers paired with Quarter Horses. The teams underwent an intensive six-week training program, which included four weeks of instruction through the Customs and Border Protection National Horse Patrol Program's Basic Training Course. During this training, the teams learned essential skills such as navigation, terrain adaptability, tracking, and law enforcement operations on horseback.\nAfter completing the classroom and field portions of the training, the teams spent an additional two weeks of on-the-job training, applying their skills in real-world scenarios. During this period, the 3E teams assisted in the apprehension of 11 individuals attempting to cross the border illegally and also helped the Kinney County Sheriff’s Office track suspects involved in bail-out attempts.\nThe newly trained teams will be stationed in Eagle Pass, Carrizo Springs, and Del Rio to begin their duties along the Texas border.\nMost Recent Videos\nPost a comment to this article here:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Steven McCraw",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Texas Department of Public Safety",
+                "sentiment": "negative"
+            },
+            {
+                "name": "DPS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:56:17.747+02:00",
+    "updated": "2024-11-23T02:56:17.747+02:00"
+}

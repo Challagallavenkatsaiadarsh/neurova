@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "6b9137a45fb7bdeb86eb42a1e9e88ffcd361645e",
+        "url": "https://www.bastillepost.com/global/article/4352136-strong-alliance-between-china-brazil-can-benefit-world-brazilian-news-director",
+        "site_full": "www.bastillepost.com",
+        "site": "bastillepost.com",
+        "site_section": "https://www.bastillepost.com/global",
+        "site_categories": [
+            "media",
+            "travel",
+            "japan",
+            "top_news_hk",
+            "top_news"
+        ],
+        "section_title": "Bastillepost",
+        "title": "Strong alliance between China, Brazil can benefit world: Brazilian news director",
+        "title_full": "Strong alliance between China, Brazil can benefit world: Brazilian news director",
+        "published": "2024-11-22T14:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "HK",
+        "main_image": "https://image.bastillepost.com/640x/wp-content/uploads/global/2024/11/8404887_1732314512002_a_FB.jpg",
+        "performance_score": 0,
+        "domain_rank": 69800,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6b9137a45fb7bdeb86eb42a1e9e88ffcd361645e",
+    "url": "https://www.bastillepost.com/global/article/4352136-strong-alliance-between-china-brazil-can-benefit-world-brazilian-news-director",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bastillepost",
+    "published": "2024-11-22T14:55:00.000+02:00",
+    "title": "Strong alliance between China, Brazil can benefit world: Brazilian news director",
+    "text": "The \"strong alliance\" between Brazil and China represents one of the most significant forces in international politics and offers hope for more inclusive and equitable global development, said Haroldo Ceravolo Sereza, news director of Brazilian news website Opera Mundi.\nTies between the two countries were strengthened this week as Chinese President Xi Jinping paid a state visit to Brazil at the invitation of his Brazilian counterpart Luiz Inacio Lula da Silva, with the two leaders attending a signing ceremony to formalize cooperation documents after their talks in the capital Brasilia on Wednesday.\nXi had arrived in Brasilia the previous day after attending the 19th G20 Summit in Rio de Janeiro.\nCeravolo pointed to the shared historical experiences which marks the partnership between the two countries, who this year celebrated the 50th anniversary of the establishment of bilateral ties.\n\"China and Brazil share a painful colonial history, each having suffered its own way under the violence of powerful empires. The desire for peace and negotiation prevails both among the people and their leaders, so I think this experience is very contrasted with the experience of Europe and the United States. It's a power that China and Brazil have to construct more democratic ones, where the negotiations are stronger than the weapons. So we think it's the biggest thing we can do together,\" he said in an interview on Thursday.\nBrazil has faced its own struggles in recent years, Ceravolo noted, with the significant de-industrialization seen in the country weakening its standing in international relations. However, he believes China's support can help galvanize the country and even benefit the world at large.\n\"Brazil has a challenge, that is [halt the] de-industrialization [in] the country. We lost many factories and industrialization [in the] last years. And I think that with an ally like China that understands the needs of its partners can help [us] do that. And a stronger Brazil and stronger China can make the world a better place to live,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Luiz Inacio Lula da Silva",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haroldo Ceravolo Sereza",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Opera Mundi",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:44:49.833+02:00",
+    "updated": "2024-11-23T01:44:49.833+02:00"
+}

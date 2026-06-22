@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "80c82f032e78ba8246d6687c990c617087df3117",
+        "url": "https://origin.mid-day.com/news/world-news/article/un-paves-way-for-treaty-on-crimes-against-humanity-23435081",
+        "site_full": "origin.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://origin.mid-day.com/lifestyle/nature-and-wildlife",
+        "site_categories": [
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Nature and Wildlife News: Explore the Wonders of the Natural World",
+        "title": "UN paves way for treaty on crimes against humanity",
+        "title_full": "UN paves way for treaty on crimes against humanity",
+        "published": "2024-11-24T02:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.mid-day.com/images/images/2024/nov/UN-paves_d.jpg",
+        "performance_score": 0,
+        "domain_rank": 6468,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "80c82f032e78ba8246d6687c990c617087df3117",
+    "url": "https://origin.mid-day.com/news/world-news/article/un-paves-way-for-treaty-on-crimes-against-humanity-23435081",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Agencies",
+    "published": "2024-11-24T02:22:00.000+02:00",
+    "title": "UN paves way for treaty on crimes against humanity",
+    "text": "A key UN General Assembly committee adopted a resolution late Friday paving the way for negotiations on a first-ever treaty on preventing and punishing crimes against humanity after Russia dropped amendments that would have derailed the effort. The resolution was approved by consensus by the assemblys legal committee, which includes all 193-member UN nations, after tense last-minute negotiations between its supporters and Russia that dragged through the day. The resolution calls for a time-bound process with preparatory sessions in 2026 and 2027, and three-week negotiating sessions in 2028 and 2029 to finalise a treaty on crimes against humanity. The ICC says crimes against humanity are committed as part of a large-scale attack on civilians and it lists 15 forms including murder, rape, imprisonment, enforced disappearances, sexual slavery, torture and deportation.But the ICC does not have jurisdiction over nearly 70 other countries. There are global treaties that cover war crimes, genocide and torture, but there has been no specific treaty addressing crimes against humanity. And according to sponsors of the resolution, led by Mexico and Gambia and backed by 96 other countries, this new treaty will fill the gap.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UN General Assembly",
+                "sentiment": "negative"
+            },
+            {
+                "name": "ICC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:23:11.970+02:00",
+    "updated": "2024-11-24T05:23:11.970+02:00"
+}

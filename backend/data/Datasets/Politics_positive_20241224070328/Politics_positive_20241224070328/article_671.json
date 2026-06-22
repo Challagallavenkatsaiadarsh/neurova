@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "5943d4abf1e91a83fc567e37b6b1a7c006d33bda",
+        "url": "https://www.newsbreak.com/wkrg-news-5-1589960/3686418459570-trump-names-seb-gorka-alex-wong-to-be-senior-national-security-staff",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wkrg-news-5-1589960",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WKRG News 5&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T09:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2I7Xyq_0wyWKAtL00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5943d4abf1e91a83fc567e37b6b1a7c006d33bda",
+    "url": "https://www.newsbreak.com/wkrg-news-5-1589960/3686418459570-trump-names-seb-gorka-alex-wong-to-be-senior-national-security-staff",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T09:21:00.000+02:00",
+    "title": "",
+    "text": "By The Hill Sophia Vento ,\n1 days ago\nPresident-elect Trump has tapped his first term alums Alex Wong and Sebastian Gorka to join his national security team for his second go-around.\nGorka will act as the deputy assistant to the president and as the senior director for counterterrorism while Wong will serve as assistant to the president and as the principal deputy national security advisor while, Trump said in a statement through his transition.\n“Since 2015, Dr. Gorka has been a tireless advocate for the America First Agenda and the MAGA Movement, serving previously as Strategist to the President in the first Trump Administration,” the release reads.\nGorka, who Trump noted is a “legal immigrant,” has over 30 years of national security experience. Gorka was born in the United Kingdom.\nDuring Trump’s first term, Wong was the deputy special representative for North Korea. He later served as the deputy assistant secretary for East Asian and Pacific affairs within the State Department.\nIn the statement, Trump said Wong helped broker his summit with Kim Jong Un in North Korea during his first term.\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to WKRG News 5.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wkrg.com",
+        "https://img.particlenews.com/image.php?url=2I7Xyq_0wyWKAtL00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=2I7Xyq_0wyWKAtL00",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=2I7Xyq_0wyWKAtL00",
+        "https://www.img.particlenews.com/image.php?url=2I7Xyq_0wyWKAtL00",
+        "https://wkrg.com"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Alex Won",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sebastian Gorka",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wong",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Agenda",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "MAGA Movement",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:46:33.197+02:00",
+    "updated": "2024-11-24T05:46:33.197+02:00"
+}

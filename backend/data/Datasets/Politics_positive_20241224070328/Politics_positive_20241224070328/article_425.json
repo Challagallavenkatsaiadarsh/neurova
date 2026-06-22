@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "e090f728e8f8534cd074f35f61a5bd494d47d835",
+        "url": "https://www.newindianexpress.com/thesundaystandard/2024/Nov/24/udf-celebrates-wayanad-victory-at-indira-bhavan",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "UDF celebrates Wayanad victory at Indira Bhavan",
+        "title_full": "UDF celebrates Wayanad victory at Indira Bhavan",
+        "published": "2024-11-23T22:26:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2F9x7tw1b8%2FC_32_1_CH0349_63682631.jpg?rect=0%2C27%2C450%2C236&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e090f728e8f8534cd074f35f61a5bd494d47d835",
+    "url": "https://www.newindianexpress.com/thesundaystandard/2024/Nov/24/udf-celebrates-wayanad-victory-at-indira-bhavan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Varsha Somaraj",
+    "published": "2024-11-23T22:26:00.000+02:00",
+    "title": "UDF celebrates Wayanad victory at Indira Bhavan",
+    "text": "THIRUVANANTHAPURAM: The air was thick with anticipation at Indira Bhavan on Saturday as the election results trickled in. Congress workers gathered at the state office to watch the by-election results live. All eyes were glued to the television screen.\nMM Hassan, Kodikkunnil Suresh, M Liju among many others sat together infront of the television, occasionally exchanging a knowing smile or a murmured comment.\nFor Wayanad, the mood was almost celebratory even before the official numbers rolled in. Priyanka Gandhi’s dominance in the constituency was more than expected.\nWith over six lakh votes, she had shattered her brother Rahul Gandhi’s record and cemented her strong poll debut. The supporters couldn’t contain their glee. Every small update brought cheers and applause in the room.\nHowever, the atmosphere ruffled a bit as the updates from Palakkad rolled in. Early leads for BJP’s C Krishnakumar had cast a shadow over the room. The supporters leaned forward in their seats, hands clasped, eyes glued to the screen. Conversations dropped to murmurs, and a nervous energy crept in. Youth Congress state president Rahul Mamkootathil’s win was crucial for the Congress's morale at the state office and a sweet revenge to the turncoat opponent.\nFor a brief moment, the tension was almost unbearable as the margins kept fluctuating. Then, as Mamkootathil began to pick up pace, the room became cautiously optimistic. Every round of counting brought him closer to victory. Supporters began chanting slogans, clapping, and waving flags.\nAs the margin grew to over 18,800 votes, the mood shifted entirely. The room exploded into celebrations, with party workers hugging each other, their faces alight. By the time the official results declared Mamkootathil the winner, supporters danced to drumbeats.\nThe dual wins were a shot of adrenaline for the party. Mahila Congress workers held up posters and placards and took to the roads raising slogans. Senior leaders and other congress workers shared sweets and celebrated after the party’s victory in both Palakkad and Wayanad in the by-elections.\nSupporters then lifted up a trolley bag mocking the others, in reference to the cash-for-vote allegation during the campaign.\n“Priyanka’s win is monumental. Though we knew she would draw huge margins, this was unexpected. Rahul won drawing a margin of 18,840 votes pushing the LDF candidate to the third spot. It was definitely the anti-incumbency factor that played a role in this outcome. Even in Chelakkara, LDF couldn’t maintain their previous margin, that shows how the anti-incumbency sentiment worked,” said M M Hassan",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kodikkunnil Suresh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Priyanka Gandhi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Krishnakumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rahul Gandhi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hassan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UDF",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:46:49.896+02:00",
+    "updated": "2024-11-24T03:46:49.896+02:00"
+}

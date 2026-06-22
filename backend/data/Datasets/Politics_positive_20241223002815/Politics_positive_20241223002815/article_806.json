@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "d2ed5ad1a5186746b638688ccdb43d1389f239d9",
+        "url": "https://www.local3news.com/local-news/sens-warnock-kennedy-propose-diasporalink-act-for-undersea-cables-to-africa/article_b483cdc0-a917-11ef-b698-0f440edc5e65.html",
+        "site_full": "www.local3news.com",
+        "site": "local3news.com",
+        "site_section": "http://www.local3news.com/search/?f=rss&t=article&c=local-news&l=50&s=start_time&sd=desc",
+        "site_categories": [],
+        "section_title": "www.local3news.com - RSS Results in local-news of type article",
+        "title": "Sens. Warnock & Kennedy propose DiasporaLink Act for undersea cables to Africa",
+        "title_full": "Sens. Warnock & Kennedy propose DiasporaLink Act for undersea cables to Africa",
+        "published": "2024-11-23T04:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/local3news.com/content/tncms/assets/v3/editorial/b/48/b483cdc0-a917-11ef-b698-0f440edc5e65/674103377838e.preview.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 19139,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d2ed5ad1a5186746b638688ccdb43d1389f239d9",
+    "url": "https://www.local3news.com/local-news/sens-warnock-kennedy-propose-diasporalink-act-for-undersea-cables-to-africa/article_b483cdc0-a917-11ef-b698-0f440edc5e65.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ekarnes@local3news.com (Emma Karnes)",
+    "published": "2024-11-23T04:21:00.000+02:00",
+    "title": "Sens. Warnock & Kennedy propose DiasporaLink Act for undersea cables to Africa",
+    "text": "featured Sens. Warnock & Kennedy propose DiasporaLink Act for undersea cables to Africa Emma Karnes Emma Karnes Digital Producer/Weekend Assignment Editor\nAuthor email Nov 22, 2024 8 hrs ago Facebook Twitter WhatsApp SMS Email Georgia's U.S. Sen. Raphael Warnock, here at a campaign rally in Macon on October 7, raised more than $26 million in the third quarter.\nElijah Nouvelage/Bloomberg/Getty Images Facebook Twitter WhatsApp SMS Email Print Copy article link Save Facebook Twitter WhatsApp SMS Email Print Copy article link Save Senators Reverend Raphael Warnock and John Kennedy have introduced a bipartisan legislation, the DiasporaLink Act, that promotes economic development and stronger US-African relations.\nThe legislation would direct a study to explore the cost, feasibility, and value of developing an undersea fiber-optic cable between the East Coast of the US and Africa, particularly focusing on Nigeria and Ghana.\n“This bipartisan effort is a crucial first step in strengthening America’s global leadership in the telecommunications space–something that impacts our daily lives in an increasingly digital world,” said Senator Warnock.\nThe cable would serve as both an instrument of national security and a digital commerce highway, with the hopes of boosting America's global political, economic, and military advantages. Additionally, it would \"represent America's commitment to countering the proliferation of China’s influence in the global telecommunications space and supporting our regional allies,\" says Warnock's State Press Secretary Matt Krack.\nUndersea cables, according to Krack, are internet highways anchored to the ocean floor that connect two continents. He says they are critical to global communication because they carry 99% of the world's internet traffic.\nAs of April 2022, the world has nearly 500 commercial undersea cable systems and over 1,300 landing stations, or the points where the cables make landfall. Currently, the US has direct cables to Europe and South America, but no direct cables to Africa.\n“Every day, China is laying the groundwork to dominate Africa by controlling internet infrastructure. Beijing is building undersea cables for intelligence transmission, financial transactions, and more. This bipartisan bill would help the U.S. defend American interests and support our friends in Africa against the predations of Communist China,” said Senator Kennedy.\nThe legislation could result in the following:\nSpurring economic development at landing stations in Africa by increasing reliable broadband access Strengthening data security in the United States and Africa Bolstering economic and diplomatic ties between the United States and African nations Facebook Twitter WhatsApp SMS Email Print Copy article link Save Emma Karnes Digital Producer/Weekend Assignment Editor\nAuthor email Emma Karnes Close Get email notifications on {{subject}} daily! Your notification has been saved. There was a problem saving your notification. {{description}}\nEmail notifications are only sent once a day, and only if there are new matching items.\nSave Manage followed notifications Close Followed notifications Please log in to use this feature Log In Don't have an account? Sign Up Today WATCH LIVE: Local 3 News LOCAL 3 WEATHER Trending Now UPDATE: Three Collegedale police officers investigated for forcible fondling of juvenile at UT game Sports bar awarded 'Best Burger in TN' opens in Chattanooga UPDATE: NTSB investigating Shallowford Road plane crash; aviation attorney shares more insight TBI says Venezuelan gang operating in Chattanooga; local law enforcement denies Cleveland restaurant gets low score when inspector finds blocked hand washing sink and excessive flies Fatal crash in Athens, TN claims life of 21-year-old woman Police in TN Valley explain Human Trafficking protocol after TBI warns of Venezuelan Gang activity First-ever walk-through light show at Chatt. Choo Choo features one-of-a-kind technology Man in Chattanooga arrested for brutal torture, murder of Arizona woman Local family concerned father's wife is taking advantage of him financially and emotionally Must See Video Baylor and McCallie rematch set plus Sequatchie Valley teams roll into state semis David Karnes' Saturday morning weather Chattanooga record shop faces back-to-back burglaries, lost $1,200 in merchandise",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Science and Technology"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Raphael Warnock",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John Kennedy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matt Krack",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "East Coast",
+                "sentiment": "none"
+            },
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:57:13.403+02:00",
+    "updated": "2024-11-23T13:24:34.940+02:00"
+}

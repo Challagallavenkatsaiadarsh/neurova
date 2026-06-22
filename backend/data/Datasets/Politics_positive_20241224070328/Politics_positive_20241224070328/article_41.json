@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "de07666f28d588942494e9a229045cb9320804af",
+        "url": "https://www.breitbart.com/politics/2024/11/23/javier-milei-announces-argentina-israel-alliance-against-terrorism",
+        "site_full": "www.breitbart.com",
+        "site": "breitbart.com",
+        "site_section": "http://breitbart.com/news",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "All News - Breitbart News Network",
+        "title": "Javier Milei Announces Argentina-Israel Alliance Against Terrorism",
+        "title_full": "Javier Milei Announces Argentina-Israel Alliance Against Terrorism",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 1,
+        "participants_count": 2,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.breitbart.com/media/2024/02/Isaac-Herzog-and-Javier-Milei-at-Kibbutz-Nir-Oz-3--640x335.jpg",
+        "performance_score": 0,
+        "domain_rank": 1703,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de07666f28d588942494e9a229045cb9320804af",
+    "url": "https://www.breitbart.com/politics/2024/11/23/javier-milei-announces-argentina-israel-alliance-against-terrorism",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Joel B. Pollak",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Javier Milei Announces Argentina-Israel Alliance Against Terrorism",
+    "text": "President Javier Milei of Argentina announced a new formal alliance with Israel on Thursday, calling it “a bilateral alliance for freedom, democracy, and against terrorism and dictatorships.”\nThe announcement came the same day as the International Criminal Court (ICC) approved warrants for the arrest of Israeli Prime Minister Benjamin Netanyahu and former Minister of Defense Yoav Gallant, over objections from the United States and Argentina as well.\nMilei, an admirer of Israel and the Jewish faith, slammed his predecessors for their closeness to the Iranian regime, which was responsible for a massive terror attack on the AMIA Jewish community center in Buenos Aires in 1994.\nHe pledged to support the fight against terrorism, and to stand up for the values of the West against their enemies.\nEarlier this year, during a visit to Israel, Milei signed a treaty on social rights with the Israeli government. He also visited Jewish holy sites and the community of Kibbutz Nir Oz, which was decimated by the October 7 terror attack.\n“We will never forget the inhuman attacks with [which] terrorism punished the Argentine people 30 years ago. And we also do not forget barbarism committed by the terrorist group Hamas on October 7th,” Milei said on Friday.\nHe demanded the unconditional release of 101 remaining hostages held by Hamas, including eight Argentinian citizens.\nJoel B. Pollak is Senior Editor-at-Large at Breitbart News and the host of Breitbart News Sunday on Sirius XM Patriot on Sunday evenings from 7 p.m. to 10 p.m. ET (4 p.m. to 7 p.m. PT). He is the author of The Agenda: What Trump Should Do in His First 100 Days , available for pre-order on Amazon. He is also the author of The Trumpian Virtues: The Lessons and Legacy of Donald Trump’s Presidency , now available on Audible. He is a winner of the 2018 Robert Novak Journalism Alumni Fellowship. Follow him on Twitter at @joelpollak .\nIsrael / Middle East National Security Politics Argentina Israel Javier Milei Terror",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.gov.il/en/pages/social-rights-agreement-between-lsrael-and-argentina",
+        "https://www.youtube.com/embed/OoRptabDAec?feature=oembed",
+        "https://twitter.com/joelpollak",
+        "https://youtube.com/embed/OoRptabDAec?feature=oembed",
+        "https://www.youtube.com/embed/OoRptabDAec",
+        "https://www.twitter.com/joelpollak",
+        "https://gov.il/en/pages/social-rights-agreement-between-lsrael-and-argentina"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Javier Milei",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Criminal Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "AMIA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:23:19.337+02:00",
+    "updated": "2024-11-24T02:04:38.454+02:00"
+}

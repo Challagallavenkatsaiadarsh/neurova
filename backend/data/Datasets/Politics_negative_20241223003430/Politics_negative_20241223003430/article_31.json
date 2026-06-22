@@ -1,0 +1,105 @@
+{
+    "thread": {
+        "uuid": "11a4564bd7e95a878946251c24708b90a930ecb4",
+        "url": "https://www.dawn.com/news/1874105/rawalpindi-court-issues-issues-non-bailable-arrest-warrant-for-bushra-bibi-in-ps190m-case",
+        "site_full": "www.dawn.com",
+        "site": "dawn.com",
+        "site_section": "https://dawncompk.wordpress.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news"
+        ],
+        "section_title": "The Dawn News - Home",
+        "title": "Rawalpindi court issues issues non-bailable arrest warrant for Bushra Bibi in £190m case",
+        "title_full": "Rawalpindi court issues issues non-bailable arrest warrant for Bushra Bibi in £190m case",
+        "published": "2024-11-22T14:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://i.dawn.com/large/2024/11/22182649465aae1.jpg?r=183038",
+        "performance_score": 0,
+        "domain_rank": 3117,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "11a4564bd7e95a878946251c24708b90a930ecb4",
+    "url": "https://www.dawn.com/news/1874105/rawalpindi-court-issues-issues-non-bailable-arrest-warrant-for-bushra-bibi-in-ps190m-case",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "none@none.com (Tahir Naseer)",
+    "published": "2024-11-22T14:37:00.000+02:00",
+    "title": "Rawalpindi court issues issues non-bailable arrest warrant for Bushra Bibi in £190m case",
+    "text": "A Rawalpindi accountability court issued a non-bailable arrest warrant on Friday for former first lady Bushra Bibi over her continuous absence in court hearings in the £190 million graft case.\nIn December last year, the National Accountability Bureau (NAB) had filed a corruption reference against PTI founder Imran Khan and seven others, including his wife, in connection with the Al-Qadir University.\nThe case alleges that Imran and Bushra Bibi obtained billions of rupees and land worth hundreds of kanals from Bahria Town Ltd for legalising Rs50 billion that was identified and returned to the country by the UK during the previous PTI government.\nThe couple were indicted in the case in February. On November 15, the Islamabad High Court (IHC) had issued a detailed order on the duo’s appeals seeking acquittal in the corruption reference and remanded the case back to the accountability court with a directive to decide it.\nThe accountability court had dismissed the acquittal petitions earlier this year, which was then challenged by Imran’s legal team before the IHC. The high court initially restrained the accountability court from passing a judgement, however, the stay order stood vacated with the detailed order.\nAccountability Judge Nasir Javed Rana presided over the hearing today at Adiala Jail. Bushra Bibi did not attend the hearing, having requested an exemption on medical grounds.\nThe hearing was adjourned to November 26 while the judge issued her non-bailable arrest warrant over continued non-attendance.\nThe warrant, addressed to NAB Deputy Director Mian Umar Nadeem, said she was “deliberately not appearing in before the court” and thus the watchdog was required and authorised to arrest and produce her before the court on the next hearing.\nShe was released from Adiala Jail on October 24, a day after being granted bail in a new Toshakhana case against her and Imran, ending nearly nine months of her detention.\nThe former first lady was taken into custody on January 31 after an Islamabad accountability court sentenced her and Imran to 14 years in jail in the Toshakhana reference.\nThe Peshawar High Court on Tuesday extended her protective bail till December 23 and directed law enforcement agencies not to arrest her till then in any of the cases.\nSeparately, Imran’s release order was issued today in the new Toshakhana case after he was granted bail by the IHC on Wednesday, according to his lawyer Khalid Yousaf Chaudry. The release order directed that Imran be released if he was not wanted in any other case.\nHe said the release order was also deposited with the Adiala Jail administration.\nHowever, the PTI founder was not released from Adiala Jail as he still needs to secure bail in nearly two dozen other cases. He was also arrested late on Wednesday night by Rawalpindi police on terrorism charges related to a September protest.\nCM Gandapur declared proclaimed absconder\nMeanwhile, it emerged today that Islamabad Anti-Terrorism Court Judge Tahir Abbas Sipra declared Khyber Pakhtunkhwa Chief Minister Ali Amin Gandapur a proclaimed absconder a day ago in a case registered at I-9 police station.\nThe order, a copy of which is available with Dawn.com, was issued on Thursday.\n“Ali Amin Gandapur has concealed himself deliberately in order to avoid his arrest,” the order read. “Therefore, accused Ali Amin Gandapur is hereby declared as proclaimed offender.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bushra Bibi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Imran Khan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Accountability Bureau",
+                "sentiment": "none"
+            },
+            {
+                "name": "Islamabad High Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Al-Qadir University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bahria Town Ltd",
+                "sentiment": "none"
+            },
+            {
+                "name": "PTI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:24.156+02:00",
+    "updated": "2024-11-23T00:05:24.156+02:00"
+}

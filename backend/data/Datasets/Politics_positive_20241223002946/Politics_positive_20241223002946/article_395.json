@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "9d26fb63e4b3550b68d501498a3a1fe92e39c39f",
+        "url": "https://www.cbsnews.com/boston/news/national-adoption-day-massachusetts",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://cbslocal.com#site-header:66",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+        "title": "Dozens of children welcomed into forever families on National Adoption Day in Massachusetts - CBS Boston",
+        "title_full": "Dozens of children welcomed into forever families on National Adoption Day in Massachusetts - CBS Boston",
+        "published": "2024-11-23T02:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/23/d11c2e8f-7905-407f-a2ef-bf91e8d7e018/thumbnail/1200x630/a0ba540a11e7b03e0f38e411ec17b533/adoption-day-pkg-transfer-frame-2373.jpg?v=b1635869826311f914073798d8df6484",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9d26fb63e4b3550b68d501498a3a1fe92e39c39f",
+    "url": "https://www.cbsnews.com/boston/news/national-adoption-day-massachusetts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:21:00.000+02:00",
+    "title": "Dozens of children welcomed into forever families on National Adoption Day in Massachusetts - CBS Boston",
+    "text": "More than 100 children and teenagers in foster care across Massachusetts were welcomed into their forever families Friday as part of National Adoption Day.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9d26fb63e4b3550b68d501498a3a1fe92e39c39f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:28:08.609+02:00",
+    "updated": "2024-11-23T05:11:15.885+02:00"
+}

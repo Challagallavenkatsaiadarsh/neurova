@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "6187c391d49d448f55d354dc7d1aba57b399c92d",
+        "url": "https://www.etvbharat.com/en/!state/agp-maintains-regional-stronghold-in-assam-by-elections-enn24112400730",
+        "site_full": "www.etvbharat.com",
+        "site": "etvbharat.com",
+        "site_section": "https://etvbharat.com/en/_kangana-ranaut",
+        "site_categories": [],
+        "section_title": "ETV Bharat News",
+        "title": "Asom Gana Parishad Maintains Regional Stronghold In Assam By-Polls",
+        "title_full": "Asom Gana Parishad Maintains Regional Stronghold In Assam By-Polls",
+        "published": "2024-11-24T01:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/24-11-2024/1200-675-22967743-858-22967743-1732414436102.jpg",
+        "performance_score": 0,
+        "domain_rank": 60830,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6187c391d49d448f55d354dc7d1aba57b399c92d",
+    "url": "https://www.etvbharat.com/en/!state/agp-maintains-regional-stronghold-in-assam-by-elections-enn24112400730",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ETV Bharat",
+    "published": "2024-11-24T01:44:00.000+02:00",
+    "title": "Asom Gana Parishad Maintains Regional Stronghold In Assam By-Polls",
+    "text": "Guwahati: In a decisive victory that reinforces the strength of regional politics in Assam, the Asom Gana Parishad (AGP) candidate Diptimayee Choudhary won the Bongaigaon constituency with the highest margin among all five seats in the recent by-elections. The win is particularly significant for the BJP's alliance partner, showcasing the enduring appeal of regional politics in the state.\nDiptimayee, a first-time candidate and wife of veteran politician Phanibhushan Choudhury, secured 74,734 votes, defeating Congress candidate Brajenjit Singha by a substantial margin of 35,164 votes. The victory comes despite initial internal party dissent over her candidature, with rebel candidate Sailendra Sarkar managing only 13,381 votes.\n\"I thank the voters and every worker of the BJP-AGP-UPPL alliance for ensuring my win,\" said Diptimayee in her post-victory address to the media. Her husband Phanibhushan Choudhury, who had previously won the seat eight consecutive times since 1985, emphasised the constituency's strong connection to regional politics.\n\"Bongaigaon has been a fortress of regional politics for four decades. The people here continue to trust the AGP because we've fulfilled their aspirations,\" stated Phanibhushan Choudhury. Despite a slightly lower voter turnout compared to the 2021 assembly elections, he remained confident about AGP's sustained popularity in the region, asserting that regional political forces remain undiminished in Bongaigaon.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Phanibhushan Choudhury",
+                "sentiment": "none"
+            },
+            {
+                "name": "Diptimayee Choudhary",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sailendra Sarkar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Asom Gana Parishad",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Assam",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:26:38.353+02:00",
+    "updated": "2024-11-24T04:26:38.353+02:00"
+}

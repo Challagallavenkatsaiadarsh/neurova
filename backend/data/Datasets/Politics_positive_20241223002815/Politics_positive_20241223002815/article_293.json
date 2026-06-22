@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "55af94480c7ed97275f785386409b9238f8aea0d",
+        "url": "https://www.cbsnews.com/news/donald-trump-expected-to-pick-scott-bessent-treasury-secretary-source",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.cbsnews.com/cbs-weekender/",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS News Weekender - Streaming Friday at 5 p.m. ET/PT on the CBS News app",
+        "title": "Trump expected to select Scott Bessent for Treasury secretary, source says - CBS News",
+        "title_full": "Trump expected to select Scott Bessent for Treasury secretary, source says - CBS News",
+        "published": "2024-11-23T01:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/22/f8d010a7-ffd0-4080-afcd-2ce60891509a/thumbnail/1200x630/e8b3befc566674974ae586ac6183c6f3/gettyimages-2161768439.jpg?v=b1635869826311f914073798d8df6484",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55af94480c7ed97275f785386409b9238f8aea0d",
+    "url": "https://www.cbsnews.com/news/donald-trump-expected-to-pick-scott-bessent-treasury-secretary-source",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T01:35:00.000+02:00",
+    "title": "Trump expected to select Scott Bessent for Treasury secretary, source says - CBS News",
+    "text": "Scott Bessent, the founder of the Connecticut-based hedge fund Key Square Group, had been making a full-court press for the post.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "55af94480c7ed97275f785386409b9238f8aea0d",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:42:00.799+02:00",
+    "updated": "2024-11-24T06:07:27.966+02:00"
+}

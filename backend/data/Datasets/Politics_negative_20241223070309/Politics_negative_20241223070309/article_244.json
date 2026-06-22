@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "1737da3751ccbae469e0ac33718201dd54d0f7fa",
+        "url": "https://www.hrreporter.com/focus-areas/diversity/municipalitys-new-mayor-council-members-refuse-to-pledge-allegiance-to-king-charles/389921",
+        "site_full": "www.hrreporter.com",
+        "site": "hrreporter.com",
+        "site_section": "https://hrreporter.com/rss",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "legal_issues"
+        ],
+        "section_title": "Canadian HR Reporter",
+        "title": "Municipality's new mayor, council members refuse to pledge allegiance to King Charles",
+        "title_full": "Municipality's new mayor, council members refuse to pledge allegiance to King Charles",
+        "published": "2024-11-22T20:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://cdn-res.keymedia.com/cms/images/ca/126/0437_638678846019784369.png",
+        "performance_score": 0,
+        "domain_rank": 55490,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1737da3751ccbae469e0ac33718201dd54d0f7fa",
+    "url": "https://www.hrreporter.com/focus-areas/diversity/municipalitys-new-mayor-council-members-refuse-to-pledge-allegiance-to-king-charles/389921",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jim Wilson",
+    "published": "2024-11-22T20:03:00.000+02:00",
+    "title": "Municipality's new mayor, council members refuse to pledge allegiance to King Charles",
+    "text": "'This is being done with no disrespect to His Majesty King Charles'\nWork by the council of the second-largest municipality in Yukon has been at a standstill since the new mayor and a number of council members declined to swear allegiance to\n King Charles III during their Nov. 5 swearing-in ceremony.\nStephen Johnson, mayor-elect of Dawson City, said he and the four-member council refused to take Canada’s official oath due to concerns about the Crown’s historical relationship with Indigenous communities, according to a report from\n The Canadian Press.\n“We can’t do anything legally required of us under Yukon’s Municipal Act... so we are sort of, kind of council, and I’m sort of, kind of the mayor,” Johnson said in the CP report posted on the\n Toronto Star.\n“It’s a bit of a sticky situation.”\nThe refusal to take the Oath of Allegiance was initially prompted by Councillor Darwyn Lynn, a member of the Tr’ondëk Hwëch’in First Nation. Johnson said Lynn expressed discomfort pledging allegiance to the Crown due to its historical impact on Indigenous Peoples.\nLynn’s decision led to a collective response from the council. Johnson said, “This is being done with no disrespect to His Majesty King Charles. And also we’re not doing this to go, ‘Rah, rah, look at us,’ to poke everybody across Canada, to get rid of the Crown. It was just something we wanted to do together to show solidarity in what we do here in this town.”\nHere’s how one company successfully\n reached out to Indigenous communities.\nYukon’s Municipal Act\nUnder the Yukon’s Municipal Act, elected officials are required to take the Oath of Allegiance and an oath of office, said Johnson in the report.\nThe Oath of Allegiance requires officials to affirm they “will be faithful and bear true allegiance to His Majesty King Charles III” and his “heirs and successors according to law,” according to CP.\nIf a person elected to council fails to take the oaths within 40 days after the election, “their election shall be considered null and void and their office vacant,” according to the\n Municipal Act.\nWith a Dec. 10 deadline looming, Johnson said the council has sought an alternative oath and is awaiting a response from Yukon’s Department of Community Services.\nThe territory also has indicated it wants to avoid a byelection, said Johnson in the report.\nThe territory is reviewing the council's request to swear a different oath, a\n Community Services spokesperson told CP.\nIn April, members of Parliament voted to kill a bill introduced by a private member in New Brunswick that would have allowed parliamentarians to opt out of swearing the oath, according to CP.\nThere is rampant\n discrimination against Black and racialized employees at Canada’s Privy Council Office (PCO), according to a previous report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Charles III",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Stephen Johnson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Darwyn Lynn",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:29:38.793+02:00",
+    "updated": "2024-11-23T00:29:38.793+02:00"
+}

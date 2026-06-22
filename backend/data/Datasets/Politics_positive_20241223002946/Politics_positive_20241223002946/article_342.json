@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "ce9a8d396bd96795fd3d2feccf33f641cbda3b08",
+        "url": "https://wjactv.com/news/local/centre-county-voter-turnout-surpasses-74-despite-election-night-bomb-threat-and-recounts",
+        "site_full": "wjactv.com",
+        "site": "wjactv.com",
+        "site_section": "https://wjactv.com/news/local",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "Centre County voter turnout surpasses 74% despite election night bomb threat and recounts",
+        "title_full": "Centre County voter turnout surpasses 74% despite election night bomb threat and recounts",
+        "published": "2024-11-23T00:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wjactv.com/resources/media2/16x9/1280/986/center/90/72526b2c-9d98-4291-90d8-bc2bc3daa817-thumb_25297.png",
+        "performance_score": 0,
+        "domain_rank": 39279,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ce9a8d396bd96795fd3d2feccf33f641cbda3b08",
+    "url": "https://wjactv.com/news/local/centre-county-voter-turnout-surpasses-74-despite-election-night-bomb-threat-and-recounts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Gary Sinderson",
+    "published": "2024-11-23T00:29:00.000+02:00",
+    "title": "Centre County voter turnout surpasses 74% despite election night bomb threat and recounts",
+    "text": "CENTRE COUNTY, Pa (WJAC) — In Centre County, it took over two weeks to finalize the general election results in a post-election phase that had several surprises.\nFirst, it was a bomb threat on election night at Centre County's election headquarters.\nThen, problems with scanners meant a recount of 14 thousand ballots, as well as officials expressing frustration about false reports on how mail-in and absentee ballots were being tabulated by the county.\n“This particular situation is very disturbing. We were thrown into a bucket of soup with counties that would thumb their nose at reasonable decisions from our state supreme court. That was not us.”\nLate Thursday afternoon, the county election board was still reviewing ballots, mainly in the U.S. Senate recount, with some ballots not clearly marked.\n“In this particular instance, you're trying to discern voter intent.”\nThe results for the Senate race recount, after several ballots were inspected, equaled the exact same vote total as the original count.\n“Those five ballots would be included, so we’re spot on.”\nOne official termed it the most recounted election in county history.\n“There was a total of 81,425 ballots cast. Of those, 56,992 were on Election Day, and 24,008 were absentee or mail-in.”\nWith the final numbers in, the voter turnout in Centre County was estimated at just over 74 percent.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:03:12.882+02:00",
+    "updated": "2024-11-23T02:03:12.882+02:00"
+}

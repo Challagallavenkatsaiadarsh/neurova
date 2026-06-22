@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "e0509be86aec36f0ee0b5159cc42b4e2d07d7ff6",
+        "url": "https://www.icis.com/explore/resources/news/2024/11/22/11053515/eurozone-uk-business-activity-and-outlook-weaken-in-november",
+        "site_full": "www.icis.com",
+        "site": "icis.com",
+        "site_section": "https://icis.com/explore/resources/news/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News Library | ICIS",
+        "title": "Eurozone, UK business activity and outlook weaken in November | ICIS",
+        "title_full": "Eurozone, UK business activity and outlook weaken in November | ICIS",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.icis.com/explore/wp-content/themes/icis-2020/assets/images/social-share-image.png",
+        "performance_score": 0,
+        "domain_rank": 20590,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e0509be86aec36f0ee0b5159cc42b4e2d07d7ff6",
+    "url": "https://www.icis.com/explore/resources/news/2024/11/22/11053515/eurozone-uk-business-activity-and-outlook-weaken-in-november",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Graeme Paterson",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Eurozone, UK business activity and outlook weaken in November | ICIS",
+    "text": "LONDON (ICIS)–Eurozone business activity fell in November with confidence in the year-ahead outlook also weakening.\nThe decline in output came as business activity in the service sector decreased for the first time in 10 months to join manufacturing in contraction territory, S&P Global said in its flash Purchasing Managers’ Index (PMI) report.\nThe Hamburg Commercial Bank (HCOB) composite and services business activity indexes both hit a 10-month low, with manufacturing and manufacturing output at two-month lows, according to survey data collected 12-20 November.\nHCOB PMI Indexes Nov Oct Composite Output 48.1 50.0 Services Business Activity 49.2 51.6 Manufacturing Output 45.1 45.8 Manufacturing 45.2 46.0 A figure above 50 in the index indicates expansion, and below 50 contraction.\n“For the first time since the opening month of the year, both monitored sectors saw output decrease in November as services joined manufacturing in contraction,” S&P said.\nBusiness sentiment for the year ahead fell sharply and was the lowest since September 2023, mainly driven by the service sector where optimism fell to a two-year low.\nCyrus de la Rubia, chief economist at HCOB, said recent political events may have been a factor in the weaker business performance.\n“It is no surprise really, given the political mess in the biggest eurozone economies lately – France’s government is on shaky ground, and Germany’s heading for early elections,” the economist said.\n“Throw in the election of Donald Trump as US president, and it is no wonder the economy is facing challenges. Businesses are just navigating by sight.”\nIn the UK, business activity also fell in November to end a 12-month period of sustained expansion.\nAll the PMI indicators were down from the previous month, with a sustained drop in private sector employment amid weaker business optimism and rising cost inflation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:38:47.845+02:00",
+    "updated": "2024-11-23T00:38:47.845+02:00"
+}

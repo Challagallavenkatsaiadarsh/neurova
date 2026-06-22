@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "e24de5924cca3d905b2e479dff66af3d245baa26",
+        "url": "https://news.grabien.com/story/susan-glasser-we-re-eight-years-and-two-weeks-in-the-trump-era-and-gop",
+        "site_full": "news.grabien.com",
+        "site": "grabien.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Susan Glasser: We’re Eight Years and Two Weeks in the Trump Era and GOP Is Much More Compliant to Him :: Grabien News",
+        "title_full": "Susan Glasser: We’re Eight Years and Two Weeks in the Trump Era and GOP Is Much More Compliant to Him :: Grabien News",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://storagealpha9.grabien.com/clipsbank/2704/framelarge/2704920.jpg",
+        "performance_score": 0,
+        "domain_rank": 39382,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e24de5924cca3d905b2e479dff66af3d245baa26",
+    "url": "https://news.grabien.com/story/susan-glasser-we-re-eight-years-and-two-weeks-in-the-trump-era-and-gop",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Susan Glasser: We’re Eight Years and Two Weeks in the Trump Era and GOP Is Much More Compliant to Him :: Grabien News",
+    "text": "EXCERPT: GLASSER: \"Yeah, I so agree with you. I think that what Trump does is he shifts the contours and defiance the terms of the debate about what’s acceptable and not. So, okay, fine, maybe even pro-Trump Republican senators can agree that serious allegations of sexual misconduct might disqualify you from being the attorney general of the United States. Again, so then we’ve shifted our perspective about what’s acceptable and what's not. I would also say to people that looking at Trump’s potential appointments the next level down in these agencies, remember, Trump is now essentially proposing to install a large number of his personal lawyers, people who were fighting the Justice Department on his behalf, as the people who would oversee. He explicitly talks about his agenda at the Justice Department as seeking to stop the 'weaponization' of it against him. We saw, in doing our book on the first Trump presidency, a through line for him has always been, pressuring those who work for him to seek to use the instruments of the Justice Department and the FBI on his own behalf. I think that’s the question that probably you’re going to want to see senators asking directly of all of these appointees. But this is not the Republican Party of eight years ago. That’s the other thing. We’re not two weeks into the Trump era. We are eight years and two weeks into the Trump era. It’s a much more compliant party.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Susan Glasser",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Justice Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "FBI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:55:09.063+02:00",
+    "updated": "2024-11-23T01:55:09.063+02:00"
+}

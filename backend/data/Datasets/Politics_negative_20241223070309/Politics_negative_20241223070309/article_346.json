@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "c755cbbdbd4f45efe2192ec32ad7fd8478f94eeb",
+        "url": "https://newsukraine.rbc.ua/news/russia-launched-strikes-on-zaporizhzhia-and-1732313263.html",
+        "site_full": "newsukraine.rbc.ua",
+        "site": "rbc.ua",
+        "site_section": "https://newsukraine.rbc.ua",
+        "site_categories": [
+            "top_news_ua",
+            "top_news_pl",
+            "top_news_il",
+            "top_news_cz",
+            "top_news_sk",
+            "top_news"
+        ],
+        "section_title": "Ukraine News today - Latest news &amp; Video | RBC-Ukraine",
+        "title": "Russia launched strikes on Zaporizhzhia and region, causing damage and destruction",
+        "title_full": "Russia launched strikes on Zaporizhzhia and region, causing damage and destruction",
+        "published": "2024-11-22T23:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://newsukraine.rbc.ua/static/img/_/p/_pozhezhniki_ryatuvalniki_mistse_prilotu_gettyimages_1883952924_f7bdfcac204e6deabe71a8b4db2d5388_1300x820_838f2124e45355e305dce75c3ba8cd9d_650x410.jpg",
+        "performance_score": 0,
+        "domain_rank": 8713,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c755cbbdbd4f45efe2192ec32ad7fd8478f94eeb",
+    "url": "https://newsukraine.rbc.ua/news/russia-launched-strikes-on-zaporizhzhia-and-1732313263.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RBC-Ukraine",
+    "published": "2024-11-22T23:20:00.000+02:00",
+    "title": "Russia launched strikes on Zaporizhzhia and region, causing damage and destruction",
+    "text": "Russia launched strikes on Zaporizhzhia and region, causing damage and destruction\nOn the evening of November 22, Russia launched two strikes on the Zaporizhzhia region, one targeting the broader area and the other hitting the regional center directly, states Ivan Fedorov, the head of the Zaporizhzhia Regional Military Administration.\nExplosions were reported at approximately 22:01. Earlier, Ukraine’s Air Force had twice warned of guided aerial bomb launches by Russian tactical aviation targeting the Zaporizhzhia region. Alerts about these attacks were issued at 21:30 and 21:58, indicating the trajectory of the bombs towards Zaporizhzhia.\nFollowing the explosions, Ivan Fedorov confirmed that two strikes had been recorded.\nOne of the strikes hit a settlement in the region, causing significant damage to a farming facility.\nThe second strike directly targeted Zaporizhzhia.\n\"Warehouses belonging to private businesses were partially destroyed. The blast wave and debris damaged nearby residential buildings,\" Fedorov stated.\nHe added that, according to preliminary information, there were no casualties. Emergency services are currently operating at the impact sites.\nOn the night of November 18, Russian forces attacked Zaporizhzhia with over 10 Shahed drones. That assault left more than 10,000 electricity consumers without power.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:40:17.156+02:00",
+    "updated": "2024-11-23T00:40:17.156+02:00"
+}

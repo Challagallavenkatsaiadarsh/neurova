@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "6b15d3a85adf91cac1f9aad77be7d7e976ad3e07",
+        "url": "https://www.jamaicaobserver.com/2024/11/22/watch-pnp-supporter-alleges-voter-intimidation-morant-bay-election",
+        "site_full": "www.jamaicaobserver.com",
+        "site": "jamaicaobserver.com",
+        "site_section": "https://www.jamaicaobserver.com/page2",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Page2 - Jamaica Observer",
+        "title": "WATCH: PNP supporter alleges voter intimidation in Morant Bay by-election",
+        "title_full": "WATCH: PNP supporter alleges voter intimidation in Morant Bay by-election",
+        "published": "2024-11-23T00:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JM",
+        "main_image": "https://img.youtube.com/vi/4WAu2L0s-W0/sddefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 8397,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6b15d3a85adf91cac1f9aad77be7d7e976ad3e07",
+    "url": "https://www.jamaicaobserver.com/2024/11/22/watch-pnp-supporter-alleges-voter-intimidation-morant-bay-election",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:20:00.000+02:00",
+    "title": "WATCH: PNP supporter alleges voter intimidation in Morant Bay by-election",
+    "text": "WATCH: PNP supporter alleges voter intimidation in Morant Bay by-election\nST THOMAS, Jamaica — A supporter of the People’s National Party (PNP) is hinting at some level of voter intimidation, which he says, has interrupted the voting process at times in the Morant Bay Division by-election in St Thomas.\nSpeaking with Observer Online, the party worker said they have been having some challenges at some polling stations since morning.\n“Comrade Julian Robinson, who is a member of parliament and spokesperson for finance for the Opposition, he wanted to just go into the yard to have a look this morning and the security, both sides — one day police and the regular Jamaica Constabulary police — stopped him from going inside,” he shared, criticising the police for their actions which he said were not partial.\n“Now, there was intimidation at the gate most times by the other side of people [JLP]. The security force of the Jamaica Constabulary did nothing in my judgment that would be reasonable to say ‘we are not partial,” he continued.\nThe PNP supporter noted in particular that Andrew Holness, the leader of the Jamaica Labour Party, and his entourage arrived at the location shortly after midday, and were welcomed with open gates unlike PNP’s Robinson.\n“Just at about 1 o’clock, 12:30 thereabout, an entourage came down on an already narrow street. An entourage was led by the security force with the prime minister of this country. The gates were open wide,” he said.\n“The gates which housed the five polling divisions at that particular time of day was open wide. At least 20 people, which would have been said to be the prime minister’s entourage, walked all over the compound, including PD (polling division) 100. I was told they entered,” he continued.\nNoting that the entourage made a mockery of PNP supporters, he claimed that poling was halted for at least 15 minutes.\n“And that’s immediate polling. People would have been traumatised. People didn’t want to come because the amount of police who were on the streets. I think it is a national disgrace,” he said.\nHe continued, “I also think that the basic rules and regulations of this country have been put aside for just authority —authority in the fact that you do whatever you want to do, others are not as privileged. I ask that people of this country look to see where our party are going.”\nPointing to the significance of PD 100, the supporter explained, “We have PDs, five PDs inside it, which forms a cluster of Church Corner and Morant Bay. Winning these PDs would mean a lot to winning the division. Intimidation at any level on one part would mean that somebody else stands to benefit.”\nLabelling the incident as a “national disgrace”, the Michael Manley era PNP supporter said, “The fact is that in the Morant Bay division, we all know that the amount of money that is being spent and in the night last night, people were getting material, $100,000. The PNP cannot do anything like that but people would want to vote. Allow them to vote. Allow them to vote free of fear. Allow them to vote without being intimidated. And I say this because I’m hurt. I’m badly hurt as a citizen of this country who looks for better.”\n— Alicia Dunkley-Willis",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Julian Robinson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Andrew Holness",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "PNP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Observer Online",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:02:37.982+02:00",
+    "updated": "2024-11-23T01:02:37.982+02:00"
+}

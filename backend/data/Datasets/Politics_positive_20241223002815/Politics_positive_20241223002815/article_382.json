@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "ec416eb5e9e9341f0a830bd814f92d6b289347c8",
+        "url": "https://www.dailywire.com/news/trump-taps-billionaire-hedge-fund-manager-scott-bessent-for-treasury-secretary",
+        "site_full": "www.dailywire.com",
+        "site": "dailywire.com",
+        "site_section": "https://www.dailywire.com/feeds/rss.xml",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Daily Wire - Breaking News, Videos &amp; Podcasts",
+        "title": "Trump Taps Billionaire Hedge Fund Manager Scott Bessent For Treasury Secretary",
+        "title_full": "Trump Taps Billionaire Hedge Fund Manager Scott Bessent For Treasury Secretary",
+        "published": "2024-11-23T00:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dw-wp-production.imgix.net/2024/11/GettyImages-2161768439-scaled.jpeg?w=1200&amp;h=800&amp;ixlib=react-9.3.0",
+        "performance_score": 0,
+        "domain_rank": 4723,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ec416eb5e9e9341f0a830bd814f92d6b289347c8",
+    "url": "https://www.dailywire.com/news/trump-taps-billionaire-hedge-fund-manager-scott-bessent-for-treasury-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Saavedra",
+    "published": "2024-11-23T00:10:00.000+02:00",
+    "title": "Trump Taps Billionaire Hedge Fund Manager Scott Bessent For Treasury Secretary",
+    "text": "President-elect [Donald Trump](https://www.dailywire.com/topic/donald-trump) has reportedly nominated Scott Bessent to be the next U.S. Treasury Secretary after Trump takes office in January.\n“I am most pleased to nominate Scott Bessent to serve as the 79th Secretary of the Treasury of the United States. Scott is widely respected as one of World’s foremost International Investors and Geopolitical and Economic Strategists,” Trump said in a statement.\n🚨NEW: President Trump announces the nomination of Scott Bessent as Treasury Secretary.\n[pic.twitter.com/nFII1dRqd2]— Trump War Room (@TrumpWarRoom)\n[November 23, 2024]\nThe 62-year-old billionaire hedge fund manager, who is the founder of Key Square Capital Management, advised Trump on economic policy during his most recent presidential campaign.\nBessent rose to prominence as the chief investment officer at Soros Fund Management, founded by Democrat megadonor George Soros.\n[CHECK OUT THE DAILY WIRE HOLIDAY GIFT GUIDE](https://get.dailywire.com/gift-guide/)\nHe led the firm’s efforts betting against currencies, which brought in billions of dollars in profit.\nThe president-elect also noted that Bessent “has long been a strong advocate of the America First Agenda.”\nTrump reportedly likes him because he “converted to the MAGA movement” after working for Soros, CNN [reported](https://www.cnn.com/2024/11/22/politics/scott-bessent-treasury-secretary-trump?Date=20241122&Profile=cnnbrk&utm_content=1732317247&utm_medium=social&utm_source=twitter).\nThis is breaking news story; refresh the page for updates.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "George Soros",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Soros Fund Management",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ec416eb5e9e9341f0a830bd814f92d6b289347c8",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:21:21.843+02:00",
+    "updated": "2024-11-24T06:10:12.770+02:00"
+}

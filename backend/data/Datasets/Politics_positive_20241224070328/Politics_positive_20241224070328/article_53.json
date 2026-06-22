@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "e3d35942af21cd108f437e7a953c2b11515ca53e",
+        "url": "https://www.countypress.co.uk/news/national/24746358.single-ticket-holder-scoops-saturdays-7-4m-lotto-jackpot",
+        "site_full": "www.countypress.co.uk",
+        "site": "countypress.co.uk",
+        "site_section": "https://www.countypress.co.uk/news/national",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "National News | Isle of Wight County Press",
+        "title": "Single ticket-holder scoops Saturday’s £7.4m Lotto jackpot",
+        "title_full": "Single ticket-holder scoops Saturday’s £7.4m Lotto jackpot",
+        "published": "2024-11-23T23:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "https://www.countypress.co.uk/resources/images/18801907.jpg/?type=og-image",
+        "performance_score": 0,
+        "domain_rank": 96215,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e3d35942af21cd108f437e7a953c2b11515ca53e",
+    "url": "https://www.countypress.co.uk/news/national/24746358.single-ticket-holder-scoops-saturdays-7-4m-lotto-jackpot",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PA News Agency",
+    "published": "2024-11-23T23:49:00.000+02:00",
+    "title": "Single ticket-holder scoops Saturday’s £7.4m Lotto jackpot",
+    "text": "A single ticket-holder has won the £7.4 million jackpot in Saturday’s Lotto draw and players have been advised to check their tickets.\nAndy Carter, senior winners’ adviser at Allwyn, operator of The National Lottery, said: “Brilliant news, one lucky ticket-holder has won tonight’s £7.4 million Lotto jackpot.\n“November is proving to be a lucky month for Lotto players, as tonight’s big win follows on from the two lucky ticket-holders who won £2.6 million each when they shared the £5.2 million jackpot in the draw on November 6.\n“Players are urged to check their tickets and to give us a call if they think they are tonight’s lucky winner.\n“The National Lottery is celebrating 30 years of changing lives. Since it launched, over 7,400 millionaires have been made and more than £50 billion has been raised for good causes with more than 700,000 individual grants awarded.\n“This money supports our nation’s heritage, the arts and sport, as well as helping grassroots projects in every local community.”\nWednesday’s estimated jackpot is £2 million, the National Lottery said.\nThe jackpot winner matched all six main numbers to win £7,418,062 while no players matched five and the bonus ball for £1 million.\nThe winning Lotto numbers were 03, 08, 13, 33, 39, 44 and the bonus number was 56.\nSet of balls 11 and draw machine Arthur were used.\nOne ticket-holder matched all five numbers to win the £350,000 top prize in Lotto HotPicks, which uses the same numbers as the Lotto draw.\nThirteen players won £13,000 for matching four of the five numbers.\nThe winning Thunderball numbers were 05, 17, 27, 37, 39 and the Thunderball number was 13.\nNo ticket-holders won £500,000 for matching all five numbers and the Thunderball, while two players won £5,000 for matching five numbers.\nHouse Rules\nWe do not moderate comments, but we expect readers to adhere to certain rules in the interests of open and accountable debate.\n[Read the rules here](/misc/comments)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andy Carter",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Lottery",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:29:08.434+02:00",
+    "updated": "2024-11-24T00:29:08.434+02:00"
+}

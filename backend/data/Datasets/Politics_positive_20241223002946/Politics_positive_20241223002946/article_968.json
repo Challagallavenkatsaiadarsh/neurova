@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "a5e4426ccae5da4f7d65a656b4676d63c1919c60",
+        "url": "https://www.denver7.com/politics/trump-nominates-project-2025-co-author-to-head-the-office-of-management-and-budget",
+        "site_full": "www.denver7.com",
+        "site": "denver7.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Trump nominates Project 2025 co-author to head the Office of Management and Budget",
+        "title_full": "Trump nominates Project 2025 co-author to head the Office of Management and Budget",
+        "published": "2024-11-23T02:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ewscripps.brightspotcdn.com/dims4/default/cdb6402/2147483647/strip/true/crop/2000x1050+0+129/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F76%2F00%2F3d7ee97f4c6eafb3ea587e74b41b%2Fap24214674180614.jpg",
+        "performance_score": 0,
+        "domain_rank": 3933,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a5e4426ccae5da4f7d65a656b4676d63c1919c60",
+    "url": "https://www.denver7.com/politics/trump-nominates-project-2025-co-author-to-head-the-office-of-management-and-budget",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Scripps News Staff",
+    "published": "2024-11-23T02:44:00.000+02:00",
+    "title": "Trump nominates Project 2025 co-author to head the Office of Management and Budget",
+    "text": "President-elect Donald Trump has nominated Russell Vought to direct the Office of Management and Budget in his new administration.The department manages the president's proposed annual budget and also oversees and coordinates other agencies in the executive branch, working to synchronize their efforts and goals.Vought served in the same post during Trump's first term. His appointment for a new term is subject to Senate confirmation.\\\"Russ has spent many years working in public policy in Washington, D.C., and is an aggressive cost cutter and deregulator who will help us implement our America first agenda across all agencies,\\\" Trump said in a statement on the nomination. \\\"Russ knows exactly how to dismantle the deep state and end weaponized government, and he will help us return self governance to the people.\\\"RELATED STORY | Project 2025: Dismantle Dept. of Education, cut taxes and restrict abortionVought is the author of a key chapter of the Heritage Foundation's Project 2025, the wide-ranging conservative policy proposal that aims to give the president more direct control of the government. It proposes cuts to federal civil servants, and programs to make it easier to fire them and shrink pensions, while increasing the number of political appointees. It also tackles a slew of social issues, from imprisoning people who create or distribute pornography, to loosening certain child labor laws, enforcing book bans and ending LGBTQ+ rights initiatives.It makes changes to tariffs, corporate tax rates, abolishes the Department of Education and severely limits the Federal Reserve.In the chapter dealing with the executive office of the president, Vought lays out how he believes the office he is nominated for ought to operate:\\\"The Director must view his job as the best, most comprehensive approximation of the President’s mind as it pertains to the policy agenda while always being ready with actual options to effect that agenda within existing legal authorities and resources,\\\" Vought writes. \\\"Once its reputation as the keeper of “commander’s intent” is established, then and only then does OMB have the ability to shape the most efficient way to pursue an objective.\\\"During his campaign, Trump denied that he was involved with Project 2025 or its goals.\\\"I have nothing to do with Project 2025,\\\" Trump said during the presidential debate on ABC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Russ",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Office of Management and Budget",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dismantle Dept. of Education",
+                "sentiment": "none"
+            },
+            {
+                "name": "Heritage Foundation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "D.C.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a5e4426ccae5da4f7d65a656b4676d63c1919c60",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:00:19.696+02:00",
+    "updated": "2024-11-23T06:00:19.696+02:00"
+}

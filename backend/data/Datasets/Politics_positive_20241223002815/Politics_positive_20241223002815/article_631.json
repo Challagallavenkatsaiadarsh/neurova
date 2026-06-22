@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "2fd412565779e6419cf8009ce5a9479811239852",
+        "url": "https://justthenews.com/government/congress/ernst-selected-lead-new-doge-caucus-senate",
+        "site_full": "justthenews.com",
+        "site": "justthenews.com",
+        "site_section": "https://justthenews.com/misty-severi",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Misty Severi | Just The News",
+        "title": "Joni Ernst to lead new DOGE caucus in the Senate",
+        "title_full": "Joni Ernst to lead new DOGE caucus in the Senate",
+        "published": "2024-11-23T01:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://justthenews.com/sites/default/files/styles/social_media_share/public/2023-07/GettyImages-1258642023.jpg?h=2a748876&amp;itok=KxpPsCvZ",
+        "performance_score": 0,
+        "domain_rank": 14208,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2fd412565779e6419cf8009ce5a9479811239852",
+    "url": "https://justthenews.com/government/congress/ernst-selected-lead-new-doge-caucus-senate",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Misty Severi",
+    "published": "2024-11-23T01:51:00.000+02:00",
+    "title": "Joni Ernst to lead new DOGE caucus in the Senate",
+    "text": "Joni Ernst to lead new DOGE caucus in the Senate\nRepublican Georgia Rep. Marjorie Taylor Greene will lead the House's counterpart, which is a subcommittee of the House Oversight Committee.\nIowa's Republican Sen. Joni Ernst was tapped on Friday to lead the Senate's new Department of Government Efficiency (DOGE) caucus, which is expected to coordinate with Elon Musk and Vivek Ramaswamy reduce federal spending.\nPresident-elect Donald Trump [announced the formation of DOGE](https://justthenews.com/politics-policy/trump-taps-musk-ramaswamy-lead-department-government-efficiency) earlier this month and gave Musk and Ramaswamy the sweeping mission to \"dismantle Government Bureaucracy, slash excess regulations, cut wasteful expenditures, and restructure Federal Agencies.\"\nRepublican Georgia Rep. Marjorie Taylor Greene will lead the [House's counterpart](https://justthenews.com/government/congress/marjorie-taylor-greene-lead-subcommittee-will-work-department-government), which is a subcommittee of the House Oversight Committee.\n“The tables are finally turning, the knives are out, and waste is on the chopping block,” Ernst said in a statement [reported by Politico](https://www.politico.com/live-updates/2024/11/22/congress/a-senate-doge-caucus-00191360). “The Senate DOGE Caucus is ready to carry out critical oversight in Congress and use our legislative force to fight against the entrenched bureaucracy, trim the fat, and get Washington back to work for Americans.”\nErnst reportedly met with Ramaswamy at Mar-a-Lago on Thursday night to discuss the new caucus.\nOther members of the new caucus include Republican Sens. Ted Budd of North Carolina, Rick Scott of Florida, John Cornyn of Texas, Roger Marshall of Kansas, James Lankford of Oklahoma, and Mike Lee of Utah.\n“We look forward to partnering with the Senate to downsize government. Grateful to Sen. Joni Ernst for her excellent suggestions yesterday!” Ramaswamy [posted](https://x.com/VivekGRamaswamy/status/1860077973204009310) to X on Friday.\nMisty Severi is an evening news reporter for Just The News. You can [follow her on X](https://twitter.com/MistySeveri) for more coverage.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/MistySeveri",
+        "https://x.com/VivekGRamaswamy/status/1860077973204009310",
+        "https://www.politico.com/live-updates/2024/11/22/congress/a-senate-doge-caucus-00191360",
+        "https://www.x.com/VivekGRamaswamy/status/1860077973204009310",
+        "https://www.twitter.com/MistySeveri",
+        "https://politico.com/live-updates/2024/11/22/congress/a-senate-doge-caucus-00191360"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marjorie Taylor Greene",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joni Ernst",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vivek Ramaswamy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "negative"
+            },
+            {
+                "name": "House Oversight Committee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:46:42.582+02:00",
+    "updated": "2024-11-23T03:46:42.582+02:00"
+}

@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "1526728cd56e992c82bbe2fc800916c49098d277",
+        "url": "https://www.aninews.in/news/national/politics/every-possibility-that-india-alliance-govt-will-be-formed-congress-ashok-gehlot20241123044410",
+        "site_full": "www.aninews.in",
+        "site": "aninews.in",
+        "site_section": "https://www.htsyndication.com/articles#home",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "HTDS Content Services is South Asia&rsquo;s biggest syndication news agency with a vast collection of News, Images and Cartoons. Apart from Hindustan Times and Mint, HTDS Content Services disseminates a wide spectrum of licensed content from more than 200 publications. The content is packaged and syndicated to a broad range of global clients. HTDS Content Services also offers a rare collection of images and cartoons from Hindustan Times Archives",
+        "title": "\"Every possibility that INDIA alliance govt will be formed\": Congress' Ashok Gehlot",
+        "title_full": "\"Every possibility that INDIA alliance govt will be formed\": Congress' Ashok Gehlot",
+        "published": "2024-11-23T01:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20241122231341.jpg",
+        "performance_score": 0,
+        "domain_rank": 7747,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1526728cd56e992c82bbe2fc800916c49098d277",
+    "url": "https://www.aninews.in/news/national/politics/every-possibility-that-india-alliance-govt-will-be-formed-congress-ashok-gehlot20241123044410",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "aninews.in",
+    "published": "2024-11-23T01:44:00.000+02:00",
+    "title": "\"Every possibility that INDIA alliance govt will be formed\": Congress' Ashok Gehlot",
+    "text": "Jaipur (Rajasthan) [India], November 23 (ANI): Ahead of the counting of votes for the [Maharashtra Election 2024](/topic/maharashtra-election-2024), former Rajasthan Chief Minister and [Congress leader](/topic/congress-leader) [Ashok Gehlot](/topic/ashok-gehlot) stated that there is a strong possibility of the [INDIA alliance](/topic/india-alliance) forming the government. \"Congress and the [INDIA alliance](/topic/india-alliance) are fully prepared in [Mumbai](/topic/mumbai). Tomorrow, we will reach there and stay. All the arrangements for the counting of votes have been made; now, let's see what happens tomorrow. There is every possibility that the [INDIA alliance](/topic/india-alliance) government will be formed... I will be in [Mumbai](/topic/mumbai) tomorrow. All the arrangements have been made, and I have just spoken to them,\" said [Ashok Gehlot](/topic/ashok-gehlot) on Friday. The elections for the 288 seats in the Maharashtra Assembly were held on November 20. Meanwhile, the State's Chief Electoral Officer, S Chockalingam, praised the efforts of the Election Commission's officers and employees, noting that the [Election Commission of India](/topic/election-commission-of-india) (ECI) dedicated significant \"focus, attention, and time\" to the Maharashtra polls. \"The [Election Commission of India](/topic/election-commission-of-india) gave a lot of focus, attention, and time to Maharashtra this time. Every strategy was conceptualised and implemented with high precision. This resulted in a significant increase in the voter list between the Parliamentary election and the current election. Efforts were made to make voting easier, particularly in a city like [Mumbai](/topic/mumbai), where we faced some challenges during the Parliamentary elections. However, this time, everyone appreciated the arrangements,\" he said. \"So much work has been done. The Election Commission thanks all the voters who turned out to vote on the day to ensure history is created... We have recorded a 5 per cent increase in voter turnout. We want to thank everyone. Nearly six lakh officers and employees worked tirelessly to welcome voters and ensure a smooth voting process,\" he added. In Maharashtra, the BJP is in alliance with the Eknath Shinde-led Shiv Sena and Ajit Pawar-led Nationalist Congress Party (NCP), collectively referred to as the Mahayuti. The Mahayuti faces stiff competition from the opposition Maha Vikas Aghadi (MVA), which includes the Congress, Uddhav Thackeray-led Shiv Sena, and Sharad Pawar-led NCP. A party or coalition needs to secure at least 145 seats to achieve a majority in the 288-seat assembly. (ANI)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ashok Gehlot Jaipur",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Rajasthan",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:06:43.928+02:00",
+    "updated": "2024-11-24T05:37:44.017+02:00"
+}

@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "28bf5e48473b6f4e5783b8fb2b6aa12f26369b41",
+        "url": "https://www.newsbreak.com/yourcentralvalley-com-1589714/3686174428052-help-bring-dolly-parton-s-imagination-library-to-fresno-county",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/yourcentralvalley-com-1589714",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "YourCentralValley.com&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T23:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/3D8SZL_0wyGqEVB00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "28bf5e48473b6f4e5783b8fb2b6aa12f26369b41",
+    "url": "https://www.newsbreak.com/yourcentralvalley-com-1589714/3686174428052-help-bring-dolly-parton-s-imagination-library-to-fresno-county",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T23:16:00.000+02:00",
+    "title": "",
+    "text": "By Cristina Lombardo ,\n2 hours ago\nFRESNO COUNTY, Calif. ( KSEE/KGPE ) – More than $200,000 have been raised to bring Dolly Parton’s Imagination Library to Fresno County, Fresno Councilmember, Tyler Maxwell announced Friday.\nDolly Parton’s Imagination Library program expands to Tulare County Maxwell says he successfully advocated for $150,000 to bring Dolly Parton’s Imagination Library to the county. According to Maxwell, this was the first step towards the fundraising goal of $400,000.\nAccording to Dolly Parton’s Imagination Library website , it is a book gifting program that mails free, high-quality books to children from birth to age five, regardless of the family’s income.\n“Together, we can provide over 70,000 young children the tools they need to reach their fullest potential,” Maxwell said.\nEarly contributions from Valley Children’s Healthcare, Producers Dairy, the Fresno County Superintendent of Schools and Maxwell’s $150,000 donation raised a total of $230,000 for the program.\nMaxwell says that with $170,000 left to raise, he is asking for the public’s financial support to help the county bring Dolly Parton’s Imagination Library to over 70,000 children in the years ahead.\nTo donate, click here .\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to CBS47 and KSEE24 | News from YourCentralValley.com.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?url=3D8SZL_0wyGqEVB00",
+        "https://imaginationlibrary.com/",
+        "https://www.yourcentralvalley.com",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=3D8SZL_0wyGqEVB00",
+        "https://lfcfresno.org/fresno-county-dolly-parton-imagination-library/",
+        "http://www.yourcentralvalley.com",
+        "http://yourcentralvalley.com",
+        "https://www.lfcfresno.org/fresno-county-dolly-parton-imagination-library/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=3D8SZL_0wyGqEVB00",
+        "https://yourcentralvalley.com",
+        "https://img.particlenews.com/image.php",
+        "https://lfcfresno.org/fresno-county-dolly-parton-imagination-library",
+        "https://www.imaginationlibrary.com/",
+        "https://imaginationlibrary.com",
+        "https://www.img.particlenews.com/image.php?url=3D8SZL_0wyGqEVB00"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Cristina Lombardo",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tyler Maxwell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dolly Parton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Valley Children’s Healthcare",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:57:30.394+02:00",
+    "updated": "2024-11-23T01:57:30.394+02:00"
+}

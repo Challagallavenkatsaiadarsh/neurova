@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "6216d32393a2a89a42f079f79afaf823f1b66740",
+        "url": "https://www.hindustantimes.com/cities/bengaluru-news/we-defeated-bjp-and-jd-s-cm-siddaramaiah-after-congress-wins-bypolls-in-karnataka-101732413949316.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "'We defeated BJP and JD(S)': CM Siddaramaiah after Congress wins bypolls in Karnataka",
+        "title_full": "'We defeated BJP and JD(S)': CM Siddaramaiah after Congress wins bypolls in Karnataka",
+        "published": "2024-11-24T03:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/24/1600x900/PTI10-02-2024-000253B-0_1728568939401_1732414056927.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6216d32393a2a89a42f079f79afaf823f1b66740",
+    "url": "https://www.hindustantimes.com/cities/bengaluru-news/we-defeated-bjp-and-jd-s-cm-siddaramaiah-after-congress-wins-bypolls-in-karnataka-101732413949316.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-24T03:41:00.000+02:00",
+    "title": "'We defeated BJP and JD(S)': CM Siddaramaiah after Congress wins bypolls in Karnataka",
+    "text": "Karnataka Chief Minister Siddaramaiah on Saturday said that despite BJP and JD(S) levelling numerous allegations against the party, the Congress won the all three seats in Karnataka bypolls and defeated BJP and JD(S).The Congress won all three Assembly bypolls in Karnataka, Shiggaon, Sandur, and Channapatna defeating two BJP candidates and a JD(S) candidate.\"By-elections for three assembly constituencies have been held. I knew that we would win all three seats and we did...The BJP claimed they would win all three seats and alleged many lies against our government and guarantees. They raised the MUDA issue and Waqf issue...We defeated the BJP and JD(S), even after they joined hands and levelled numerous allegations against us. They resorted to fake allegations and a misinformation campaign was spread against us, \" Siddaramaiah said addressing a press conference.\"The Maharashtra government even advertised, saying the Siddaramaiah government hasn't implemented the five guarantees. I said I would retire and leave politics if those guarantees weren't fulfilled,\" he added.Congress' Yasir Pathan defeated former CM Basavraj Bommai's son in Shigagaon while BJP turncoat CP Yogeshwara defeated HD Kumaraswamy's son Nikhil by a massive margin in Channapatna. Congress candidate Annapoorna Tukaram accepted the winning certificate from the returning officer after securing 93,616 votes, defeating BJP's Bangara Hanumantha by 9,649 votes in Sandur.Karnataka CM also congratulated Congress leader Priyanka Gandhi Vadra for winning Wayanad bypoll. She won by a margin with a margin of over four lakh votes.He called the results of Maharashtra elections \"big setback\" for Congress and congratulated Jharkhand Chief Minister Hemant Soren for India alliance vicotry in Jharkhand.\"It is a big setback for us in Maharashtra. In Jharkhand, we won. I congratulate Hemant Soren,\" he said.The ruling Mahayuti alliance scored a landslide victory in Maharashtra assembly polls.In Jharkhand, the ruling JMM led the ruling coalition to a convincing victory. The polling in Jhakhand was held in two phases and in Maharashtra in single phase. (Also Read: Karnataka bypoll results: Congress wins all 3 seats, Nikhil Kumaraswamy and Bharat Bommai face setback)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Karnataka",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:25:39.446+02:00",
+    "updated": "2024-11-24T05:37:30.293+02:00"
+}

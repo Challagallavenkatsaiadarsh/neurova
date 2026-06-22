@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "00ce17a55413528422aab529e9735e570d7514a8",
+        "url": "https://www.ghanabusinessnews.com/2024/11/24/raila-odinga-vows-to-revitalize-trade-union-activities-across-africa",
+        "site_full": "www.ghanabusinessnews.com",
+        "site": "ghanabusinessnews.com",
+        "site_section": "https://www.ghanabusinessnews.com",
+        "site_categories": [
+            "japan",
+            "travel"
+        ],
+        "section_title": "Ghana Business News — Ghana’s Premier Business News Portal",
+        "title": "Raila Odinga vows to revitalize trade union activities across Africa",
+        "title_full": "Raila Odinga vows to revitalize trade union activities across Africa",
+        "published": "2024-11-24T05:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GH",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75412,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "00ce17a55413528422aab529e9735e570d7514a8",
+    "url": "https://www.ghanabusinessnews.com/2024/11/24/raila-odinga-vows-to-revitalize-trade-union-activities-across-africa",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "emmakd",
+    "published": "2024-11-24T05:40:00.000+02:00",
+    "title": "Raila Odinga vows to revitalize trade union activities across Africa",
+    "text": "Africa/International Raila Odinga vows to revitalize trade union activities across Africa On Nov 24, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Raila Odinga",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Trade Unions for Advancing Social Justice",
+                "sentiment": "none"
+            },
+            {
+                "name": "OATUU",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "00ce17a55413528422aab529e9735e570d7514a8",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:18:45.770+02:00",
+    "updated": "2024-11-24T11:05:45.292+02:00"
+}

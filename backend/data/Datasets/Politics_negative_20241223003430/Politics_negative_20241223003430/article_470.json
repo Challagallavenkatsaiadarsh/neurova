@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "0bd9f90379e6b2c48200bf4e030e4581adb7c541",
+        "url": "https://headlineusa.com/charlotte-man-charged-w-selling-guns-to-illegal-immigrants",
+        "site_full": "headlineusa.com",
+        "site": "headlineusa.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "Charlotte Man Charged w/ Selling Guns to Illegal Immigrants",
+        "title_full": "Charlotte Man Charged w/ Selling Guns to Illegal Immigrants",
+        "published": "2024-11-23T00:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://headlineusa.com/wp-content/uploads/2022/09/AP22257703881119-scaled-e1667106621648.jpg",
+        "performance_score": 0,
+        "domain_rank": 73715,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0bd9f90379e6b2c48200bf4e030e4581adb7c541",
+    "url": "https://headlineusa.com/charlotte-man-charged-w-selling-guns-to-illegal-immigrants",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ken Silva",
+    "published": "2024-11-23T00:39:00.000+02:00",
+    "title": "Charlotte Man Charged w/ Selling Guns to Illegal Immigrants",
+    "text": "( Ken Silva , Headline USA ) Charges were recently unsealed against a Charlotte resident who allegedly purchased as many as 100 firearms for [illegal immigrants](/tag/illegal-immigrants) in the area. According to an [ATF](/tag/atf) agent’s affidavit, the defendant, Walter Adonai Rivera Chinchilla, came on the ATF’s radar after DHS’s [Homeland Security Investigations](/tag/homeland-security), or HSI, seized a shipment of weapons that was heading to Honduras. HSI investigators tracked six 9mm pistols that were purchased by Chinchilla in July 2024. ATF investigators then approached the gun shop that sold to Chinchilla, pulling surveillance video that showed him with two other men. A gun store employee told the ATF that the men were Hispanic. The ATF then set up a sting on Chinchilla. On Oct. 2, an undercover ATF agent met with him at The Aisle Pawn Shop in Mooresville, North Carolina. Chinchilla apparently purchased firearms from the pawn shop and then sold them to the undercover ATF agent. “Once the transaction was complete, CHINCHILLA and the UC began discussing the trafficking of firearms. During this conversation, which was audio and video recorded, CHINCHILLA advised that he had a contact that could smuggle firearms out of the United States for a fee,” the ATF agent’s affidavit said. Chinchilla spoke with the undercover ATF agent again on Oct. 8, allegedly saying that it would cost about $1,800 to smuggle six firearms to Mexico. He had several more interactions with the undercover agent before his arrest. Chinchilla had a detention hearing on Nov. 5, and U.S. District Judge David Keesler ordered him to remain in jail. The Probation Office had recommended that Chinchilla be released on bond, but Judge Keesler disregarded that recommendation. “Probation recommends a bond. However, the government’s forecast suggests that Defendant has repeatedly made illegal purchases of firearms (perhaps as many as 60 to 100 total) for persons who could not otherwise legally obtain them,” Judge Keesler said on Nov. 8, explaining his reason to keep Chinchilla detained. “He has multiple failures to appear on traffic offenses; frankly, it appears he rarely went to court on any of his multiple traffic cases. His father is a native of Honduras and may be in the process of moving back there.” Judge Keesler did add that he might reconsider his decision if Chinchilla can “lock down some things—like greater corroboration of employment, more detail about the proposed residence in Rock Hill, and perhaps a proposed third−party custodian.” Chinchilla was indicted by a grand jury on Nov. 18. His lawyers then filed a motion to have him released. He’s set to be arraigned this Tuesday, and his motion to be released on bond will presumably be considered then. Ken Silva is a staff writer at Headline USA. Follow him at x.com/jd_cashless .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/jd_cashless",
+        "https://storage.courtlistener.com/recap/gov.uscourts.ncwd.117936/gov.uscourts.ncwd.117936.3.1.pdf?utm_source=substack&utm_medium=email",
+        "https://www.x.com/jd_cashless",
+        "https://www.storage.courtlistener.com/recap/gov.uscourts.ncwd.117936/gov.uscourts.ncwd.117936.3.1.pdf?utm_source=substack&utm_medium=email",
+        "https://storage.courtlistener.com/recap/gov.uscourts.ncwd.117936/gov.uscourts.ncwd.117936.3.1.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ken Silva",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Walter Adonai Rivera Chinchilla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ATF",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:51:35.534+02:00",
+    "updated": "2024-11-23T00:51:35.534+02:00"
+}

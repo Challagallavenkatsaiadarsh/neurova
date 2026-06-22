@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "ca06a9baf58fc0e259b6481196214451eb216c4b",
+        "url": "https://denvergazette.com/outtherecolorado/news/nation-world/trump-names-dave-weldon-as-his-pick-to-direct-the-cdc/article_25b29fd1-d677-5d8c-864b-09947a4a4fb7.html",
+        "site_full": "denvergazette.com",
+        "site": "denvergazette.com",
+        "site_section": "https://outtherecolorado.com/home",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Denver News, Sports & Business | Denver Gazette",
+        "title": "Trump names Dave Weldon as his pick to direct the CDC | outtherecolorado.com",
+        "title_full": "Trump names Dave Weldon as his pick to direct the CDC | outtherecolorado.com",
+        "published": "2024-11-22T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/denvergazette.com/content/tncms/custom/image/2a9ec014-bf5e-11ed-8535-d7ffcfb5a876.png?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 17923,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ca06a9baf58fc0e259b6481196214451eb216c4b",
+    "url": "https://denvergazette.com/outtherecolorado/news/nation-world/trump-names-dave-weldon-as-his-pick-to-direct-the-cdc/article_25b29fd1-d677-5d8c-864b-09947a4a4fb7.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T06:00:00.000+02:00",
+    "title": "Trump names Dave Weldon as his pick to direct the CDC | outtherecolorado.com",
+    "text": "By Julie Steenhuysen\nCHICAGO (Reuters) - U.S. President-elect Donald Trump on Friday announced Dave Weldon, a former congressman and a medical doctor, as his choice for director of the Centers for Disease Control and Prevention, a sweeping agency with a $17.3 billion budget used as a public health model around the world.\nThe CDC tracks and responds to infectious disease outbreaks, including recommending licensed vaccines such as routine vaccines used in childhood and those given during the COVID-19 pandemic.\nWeldon, 71, served in the U.S. House of Representatives representing Florida's 15th district from 1995-2009. He did not seek reelection in 2008.\n\"Dave will proudly restore the CDC to its true purpose, and will work to end the Chronic Disease Epidemic,\" Trump said in a statement.\nStarted in 1946 to combat the spread of malaria in the United States, the CDC is now charged with providing leadership, information and scientific expertise in preventing and controlling a range of disease in addition to managing infectious disease outbreaks. Roughly two thirds of its budget funds state and local health agencies' public health and prevention activities.\nA key role of the agency and one that infectious disease experts are watching closely is its role in reviewing and making recommendations about the use of licensed vaccines, aided by a panel of outside experts known as the Advisory Committee on Immunization Practices.\nThose recommendations are then reviewed by the CDC director who has the authority to accept or overrule them.\nThe CDC director reports to the Secretary of Health and Human Services, a role for which Trump has selected Robert F. Kennedy Jr., an avowed vaccine skeptic and critic of the CDC.\nUnlike past appointments, the CDC director post will require Senate confirmation starting in 2025 due to a provision in the recent omnibus budget.\nWeldon would replace Dr. Mandy Cohen, an internal medicine physician and former chief of the North Carolina Department of Health and Human Services, where she led the state's response to the COVID-19 pandemic.\nThe CDC has roughly 12,000 full time employees and a discretionary budget of $9.248 billion in 2024.\n(Reporting by Julie Steenhuysen; additional reporting by Costas Pitas; editing by Rami Ayyub and Leslie Adler)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Julie Steenhuysen",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dave Weldon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dave",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Centers for Disease Control and Prevention",
+                "sentiment": "none"
+            },
+            {
+                "name": "CDC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ca06a9baf58fc0e259b6481196214451eb216c4b",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:33:22.912+02:00",
+    "updated": "2024-11-23T03:33:22.912+02:00"
+}

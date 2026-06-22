@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "3cae2feada3e5e98575ff18e3c970ab8af1a4243",
+        "url": "https://www.crimeonline.com/2024/11/22/ex-cop-amber-guyger-ordered-to-pay-100m-for-killing-man-in-his-own-apartment",
+        "site_full": "www.crimeonline.com",
+        "site": "crimeonline.com",
+        "site_section": "https://www.crimeonline.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Crime Online &#8211; Breaking crime news, cold cases, missing people, and more from Nancy Grace",
+        "title": "Ex-Cop Amber Guyger Ordered to Pay $100M for Killing Man in His Own Apartment",
+        "title_full": "Ex-Cop Amber Guyger Ordered to Pay $100M for Killing Man in His Own Apartment",
+        "published": "2024-11-22T21:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 41792,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3cae2feada3e5e98575ff18e3c970ab8af1a4243",
+    "url": "https://www.crimeonline.com/2024/11/22/ex-cop-amber-guyger-ordered-to-pay-100m-for-killing-man-in-his-own-apartment",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Leigh Egan",
+    "published": "2024-11-22T21:10:00.000+02:00",
+    "title": "Ex-Cop Amber Guyger Ordered to Pay $100M for Killing Man in His Own Apartment",
+    "text": "Amber Guyger, the former Dallas police officer who was convicted of murder,\nCBS News reports that a jury convicted Guyger of murdering 26-year-old Botham Jean in his apartment six years ago . In Wednesday, she was ordered to pay the Jean family $98.6 million in a civil lawsuit.\nAs CrimeOnline previously reported , Guyger claimed she mistakenly entered Jean’s apartment, believing it was her own, before shooting him.\nGuyger is serving a 10-year prison sentence for murder after claiming she confused Botham Jean’s apartment with her own. The body camera was not recording at the time, as she was off duty. She lost her appeal two years ago and became eligible for parole on September 29.\nThe civil lawsuit filed against Guyger alleged that she used excessive force, leading to Jean’s death. Following the verdict, the Jean family’s attorneys, including civil rights lawyer Ben Crump, issued the following statement.\n“This verdict stands as a powerful testament to Botham’s life and the profound injustice of his death. On September 6, 2018, Botham was doing nothing more than sitting in his own home, eating ice cream, when Amber Guyger –– an off-duty officer –– wrongly entered his apartment and fatally shot him. This case laid bare critical issues of racial bias and police accountability that cannot be ignored. Today’s verdict sends a clear message that law enforcement officers who commit crimes cannot be insulated from the consequences of their actions.”\nGuyger chose to waive her right to participate in the trial and began representing herself in February 2022.\nIn response, Guyger’s criminal defense attorney Toby Shook said if Guyger had the money to pay, she would have already done so.\n“ She prays for the family every day ,” Shook, told The Washington Post. “She has expressed terrible sorrow and hopes the verdict brings peace to the family.”\nShook added to that shed’s currently “destitute.”\nShe is currently incarcerated at the Department of Corrections Mountain View unit in Gatesville, Texas, after being denied parole earlier this year.\nCheck back for updates.\nJoin Nancy Grace for her new online video series designed to help you protect what you love most — your children.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://omny.fm/shows/crime-stories-with-nancy-grace/pregnant-mom-25-missing-familys-desperate-plea-whe/embed",
+        "https://www.washingtonpost.com/nation/2024/11/21/botham-jean-dallas-police-killing-amber-guyger/",
+        "https://www.crimestopshere.com/",
+        "https://www.cbsnews.com/texas/news/amber-guyger-civil-lawsuit-dallas-botham-jean/",
+        "https://washingtonpost.com/nation/2024/11/21/botham-jean-dallas-police-killing-amber-guyger/",
+        "https://www.omny.fm/shows/crime-stories-with-nancy-grace/pregnant-mom-25-missing-familys-desperate-plea-whe/embed",
+        "https://www.crimestopshere.com",
+        "https://www.cbsnews.com/texas/news/amber-guyger-civil-lawsuit-dallas-botham-jean",
+        "https://cbsnews.com/texas/news/amber-guyger-civil-lawsuit-dallas-botham-jean/",
+        "https://crimestopshere.com/",
+        "https://www.washingtonpost.com/nation/2024/11/21/botham-jean-dallas-police-killing-amber-guyger"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Botham Jean",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ben Crump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Guyger",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBS News",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:00:08.871+02:00",
+    "updated": "2024-11-23T07:05:01.229+02:00"
+}

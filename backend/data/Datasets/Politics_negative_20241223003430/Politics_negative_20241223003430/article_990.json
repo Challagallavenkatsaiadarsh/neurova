@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "3e174f02a94ebc9fb6b06b46698c1d45f18a900b",
+        "url": "https://tribune.com.pk/story/2511333/bushras-arrest-warrant-issued-in-190m-case",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://tribune.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "International News, Latest News, Breaking News  | The Express Tribune",
+        "title": "Bushra s arrest warrant issued in 190m case",
+        "title_full": "Bushra s arrest warrant issued in 190m case",
+        "published": "2024-11-22T22:47:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.tribune.com.pk/media/images/2607795-bushrabibi-1708437970-775-640x4801708446194-0/2607795-bushrabibi-1708437970-775-640x4801708446194-0.jpg",
+        "performance_score": 0,
+        "domain_rank": 4084,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3e174f02a94ebc9fb6b06b46698c1d45f18a900b",
+    "url": "https://tribune.com.pk/story/2511333/bushras-arrest-warrant-issued-in-190m-case",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Correspondent",
+    "published": "2024-11-22T22:47:00.000+02:00",
+    "title": "Bushra s arrest warrant issued in 190m case",
+    "text": "An Accountability Court has issued non-bailable arrest warrant of Bushra Bibi, wife of Pakistan Tehreek-e-Insaf founder Imran Khan, for her perpetual absence from the court hearing in the £190m reference.\nJudge Nasir Javed Rana conducted the hearing of the case at Adiala Jail. PTI founder Imran Khan was produced before the court but his spouse Bushra Bibi skipped the hearing for the eighth-time in a row.\nHer counsel submitted a plea on her behalf seeking exemption from the court hearing but the judge rejected the request.\nTaking exception to Bushra Bibi's continuous absence from the court hearing, the judge issued her non-bailable arrest warrant and directed the IO and deputy director NAB to arrest her and produce before the court on November 26.\nMeanwhile, FIA has also moved the Islamabad High Court (IHC) for cancellation of Bushra Bibi's bail for her continuous absence from the court hearing in Toshakhana case.\nThe FIA submitted that Bushra Bibi has not been appearing in court even though the court had directed in the order at the time of granting her bail that she would not misuse her bail.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our\n[Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bushra Bibi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Nasir Javed Rana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Imran Khan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Islamabad High Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "PTI",
+                "sentiment": "none"
+            },
+            {
+                "name": "FIA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Toshakhana",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:54:21.718+02:00",
+    "updated": "2024-11-23T01:54:21.718+02:00"
+}

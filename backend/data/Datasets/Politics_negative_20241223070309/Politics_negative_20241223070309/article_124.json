@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "609a0973e96eaae6282121159bf761c60be2e88e",
+        "url": "https://english.almayadeen.net/news/politics/iof-soldiers-fall-prey-to-al-qassam-ambush-in-gaza",
+        "site_full": "english.almayadeen.net",
+        "site": "almayadeen.net",
+        "site_section": "https://english.almayadeen.net",
+        "site_categories": [
+            "top_news_iq",
+            "top_news_ma",
+            "top_news_eg",
+            "top_news"
+        ],
+        "section_title": "Home Page  |  Al Mayadeen English",
+        "title": "IOF soldiers fall prey to Al-Qassam ambush in Gaza | Al Mayadeen English",
+        "title_full": "IOF soldiers fall prey to Al-Qassam ambush in Gaza | Al Mayadeen English",
+        "published": "2024-11-22T20:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://alpha-en-media.almayadeen.net/media/image/2024/11/17/e09a0c90-8633-4eba-a1b4-34877f21ed17.jpg?width=1000",
+        "performance_score": 0,
+        "domain_rank": 12555,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "609a0973e96eaae6282121159bf761c60be2e88e",
+    "url": "https://english.almayadeen.net/news/politics/iof-soldiers-fall-prey-to-al-qassam-ambush-in-gaza",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Al Mayadeen English",
+    "published": "2024-11-22T20:39:00.000+02:00",
+    "title": "IOF soldiers fall prey to Al-Qassam ambush in Gaza | Al Mayadeen English",
+    "text": "IOF soldiers fall prey to Al-Qassam ambush in Gaza\nThe Al-Qassam Brigades orchestrate a three-step ambush in Rafah City, eliminating Israeli occupation soldiers, a Merkava tank, and an Israeli bulldozer.\nThe [Palestinian Resistance in the Gaza Strip](https://english.almayadeen.net/news/politics/resistance-defends-gaza--iof-admit-troops-shortage-to-contro) continues executing significant operations and complex ambushes as the Battle of Al-Aqsa Flood persists for its 412th day against the Israeli invaders.\nAl-Qassam's vigorous ambush\nThe[ al-Qassam Brigades](https://english.almayadeen.net/news/politics/hezbollah-s-3-stage-ambush-kills-invading-israeli-force--res), the military wing of Hamas, carried out a multifaceted operation targeting Israeli soldiers and vehicles near the Burj Awad junction in Rafah city.\nIn detail, the al-Qassam fighters had monitored and intercepted a number of occupation soldiers in the area, sniping four using their Al-Ghoul sniper rifle, confirming the deaths of two soldiers.\nImmediately after a Merkava tank advanced to their rescue, two Al Yasin 105 charges were propelled at it, setting it ablaze.\nAn Israeli military bulldozer was then deployed to retrieve the charred tank and soldiers, but was also targeted with another Al Yasin 105 charge. A rescue helicopter was seen landing to evacuate the casualties.\nIn this context, Al Mayadeen's correspondent in Gaza reported heavy artillery shelling as the helicopter landed in easternmost Rafah city.\nAl-Qassam fighters were also able to target an Israeli force that had taken shelter in a home in the [Jabalia refugee camp, north Gaza](https://english.almayadeen.net/news/politics/2-israeli-massacres-kill-88-palestinians-in-northern-gaza), with a TBG shell, resulting in confirmed casualties.\nThe al-Quds Brigades and al-Nasser Salah al-Din Brigades announced that they jointly targeted an Israeli occupation command and control center in Juhr al-Deek with 60mm mortar shells.\nMeanwhile, the al-Aqsa Martyrs Brigades shelled an occupation command and control center near the Civil Administration area east of Jabalia Refugee Camp in northern Gaza with a salvo of 107 rockets.\nAt the same time, Israeli media reported the death of a soldier from the Givati Brigade during a battle in northern Gaza.\nDaily resistance\nAl-Qassam Brigades on Thursday said that its fighters [confronted an Israeli infantry force](https://english.almayadeen.net/news/politics/palestinian-resistance-continues-to-confront-iof-in-northern), of 15 troops, in Beit Lahia, in the northern Gaza Strip. Al-Qassam fighters were able to eliminate members of the infantry force in close-quarters battles, on Thursday.\nThe Brigades also targeted a Merkava tank, using a tandem charge rocket-propelled grenade (RPG), near the al-Saftawi area, west of the Jabalia camp, in the northern Gaza Strip.\nMeanwhile, the al-Quds Brigades, the military wing of the Palestinian Islamic Jihad movement, in cooperation with the Martyr Abu Ali Mustafa Brigades, the military wing of the Popular Front for the Liberation of Palestine, reported targeting Israeli occupation soldiers and the Abu Arayban site in the Netzarim axis with mortar shells.\nFurthermore, Al Mayadeen's correspondent in Gaza reported that \"fierce confrontations continue between the Resistance and the occupation army in northern Gaza.\"\nThe Israeli occupation army later acknowledged that a soldier from the Givati Brigade was killed during a battle in the northern Gaza Strip.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Al-Qassam",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Al Yasin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hamas",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza Strip",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rafah City",
+                "sentiment": "none"
+            },
+            {
+                "name": "Burj Awad",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:15:57.305+02:00",
+    "updated": "2024-11-23T00:15:57.305+02:00"
+}

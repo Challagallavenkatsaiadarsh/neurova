@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "cb20785a4b215657688495fd8b7e0cca50f4178e",
+        "url": "https://www.cbc.ca/news/canada/nova-scotia/electoral-boundaries-sydney-victoria-glace-bay-jaime-battiste-1.7391253",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.cbc.ca/news/local",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "Cape Breton MP loses court challenge to stop changes to electoral boundary | CBC News",
+        "title_full": "Cape Breton MP loses court challenge to stop changes to electoral boundary | CBC News",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.6733917.1732312359!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/jaime-battiste.jpg",
+        "performance_score": 0,
+        "domain_rank": 342,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cb20785a4b215657688495fd8b7e0cca50f4178e",
+    "url": "https://www.cbc.ca/news/canada/nova-scotia/electoral-boundaries-sydney-victoria-glace-bay-jaime-battiste-1.7391253",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tom Ayers",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "Cape Breton MP loses court challenge to stop changes to electoral boundary | CBC News",
+    "text": "Sydney-Victoria Liberal MP Jaime Battiste has lost his bid to retain his old riding boundaries.\nLast year, a federal electoral boundaries commission proposed redrawing the district to take Eskasoni and Wagmatcook First Nations out of the riding and rename it Sydney-Glace Bay.\nThe rest of Cape Breton Island was already joined with parts of Guysborough County in the Cape Breton-Canso riding, but with the addition of Antigonish County, it will be renamed Cape Breton-Canso-Antigonish.\nBattiste posted a letter on his Facebook page on Friday afternoon, saying his court challenge of the proposed Sydney-Victoria boundary changes was unsuccessful.\nThe new riding of Sydney-Glace Bay will have about 10,000 more people than the existing electoral district, with a population total of just over 82,000.\nThe two-term MP, who was first elected in 2019 and has a law degree from Dalhousie University, lives on reserve in Eskasoni and has been a treaty adviser to Mi'kmaw First Nations.\nIn his court challenge, Battiste said boundary changes that take Eskasoni out of the riding are unconstitutional and go against treaty rights and the United Nations Declaration on the Rights of Indigenous Peoples.\nOn Friday, Battiste said he intends to run for the Liberals in the new riding of Sydney-Glace Bay, which he said still contains about three-quarters of the constituents from the existing district.\nLiberal MP Mike Kelloway currently represents Cape Breton-Canso and is expected to run in the new riding of Cape Breton-Canso-Antigonish.\nBoundary changes across Canada are expected to take effect for the next general election.\nMORE TOP STORIES\nN.S. man accused of 2nd-degree murder found not criminally responsible Man loses bid to get charges dismissed in case of body found in burned-out car Victoria County councillor declared elected after returning officer draws name from box 74-year-old man in Sydney found safe after being reported missing Nova Scotia's main party leaders spar in final TV debate of election campaign",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/jaimebattistecb/posts/pfbid0NtbWXZBGr2qD6wBF2UrSXVeg2M6oQkL718AKTLM9nYS8voMCEnpYKYbLACMrpC24l",
+        "https://facebook.com/jaimebattistecb/posts/pfbid0NtbWXZBGr2qD6wBF2UrSXVeg2M6oQkL718AKTLM9nYS8voMCEnpYKYbLACMrpC24l"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jaime Battiste",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBC News Sydney-Victoria Liberal",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Wagmatcook First Nations",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dalhousie University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Cape Breton Island",
+                "sentiment": "none"
+            },
+            {
+                "name": "Guysborough County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cape Breton-Canso",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eskasoni",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:18:34.220+02:00",
+    "updated": "2024-11-23T00:18:34.220+02:00"
+}

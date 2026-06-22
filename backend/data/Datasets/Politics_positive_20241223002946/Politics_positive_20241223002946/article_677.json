@@ -1,0 +1,112 @@
+{
+    "thread": {
+        "uuid": "665ca69a313f9300cb65e0b2ba32f04065b37b60",
+        "url": "https://www.plenglish.com/news/2024/11/22/french-friends-of-cuba-are-decorated-in-paris",
+        "site_full": "www.plenglish.com",
+        "site": "plenglish.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T02:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.plenglish.com/wp-content/uploads/2024/11/cuba-francia-solidaridad-condecorados-2.jpg",
+        "performance_score": 0,
+        "domain_rank": 28728,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "665ca69a313f9300cb65e0b2ba32f04065b37b60",
+    "url": "https://www.plenglish.com/news/2024/11/22/french-friends-of-cuba-are-decorated-in-paris",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "foxsports.com.au",
+    "published": "2024-11-23T02:54:00.000+02:00",
+    "title": "",
+    "text": "At the proposal of the Cuban Institute of Friendship with the Peoples (ICAP) and the Cuban Workers’ Confederation (CTC), President Miguel Díaz-Canel issued Presidential Decree 895 to grant the decorations.\nThe award was received here by the presidents of the associations Cuba Coopération France (CubaCoop), Víctor Fernández; France Cuba, Fabrice Leclerc; Cuba Si France, Charly Bouhana; and Montpellier Cuba Solidarité, Jean Michel Grammond, and the anti-fascist resistance fighter Léon Landini, co-founder of the Pole of Communist Rebirth in France.\nIn the introduction to the ceremony, the ICAP director for Europe, Rigoberto Zarza, highlighted the honorees’ trajectory of support for Cuba, its people and its Revolution, and the various events that they have led against the aggression by the United States and its consequences in recent years.\nWe have come here to express our eternal affection and deep gratitude, he stressed.\nZarza mentioned the commitment of Fernández, Leclerc, Bouhana, Grammond and Landini in the fight against the blockade that Washington has imposed on Cuba for more than 60 years, their participation in various solidarity campaigns, the donations, the publications to help understand Cuba’s reality, the attendance at forums and other actions to support the Caribbean country.\nICAP President Fernando González and Cuban Ambassador to France Otto Vaillant were in charge of presenting the medals.\njg/arc/wmr",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jean Michel Grammond",
+                "sentiment": "none"
+            },
+            {
+                "name": "Miguel Díaz-Canel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Víctor Fernández",
+                "sentiment": "none"
+            },
+            {
+                "name": "Fabrice Leclerc",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rigoberto Zarza",
+                "sentiment": "none"
+            },
+            {
+                "name": "Charly Bouhana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Léon Landini",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Montpellier Cuba Solidarité",
+                "sentiment": "none"
+            },
+            {
+                "name": "ICAP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:04:06.554+02:00",
+    "updated": "2024-11-23T06:13:54.897+02:00"
+}

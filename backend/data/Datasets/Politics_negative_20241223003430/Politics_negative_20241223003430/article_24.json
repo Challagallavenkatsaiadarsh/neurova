@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "f234f102ed82f6d819b6b933978e361e8e2a72e3",
+        "url": "https://tucson.com/news/local/longtime-marana-mayor-ed-honea-dies/image_464f8c2c-a917-11ef-861f-8b119b025d87.html",
+        "site_full": "tucson.com",
+        "site": "tucson.com",
+        "site_section": "http://azstarnet.com/search/?f=rss&amp;t=article&amp;c=business/local&amp;l=50&amp;s=start_time&amp;sd=desc",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "tucson.com - RSS Results",
+        "title": "Longtime Marana Mayor Ed Honea dies",
+        "title_full": "Longtime Marana Mayor Ed Honea dies",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/4/64/464f8c2c-a917-11ef-861f-8b119b025d87/6740f53d6ac95.image.jpg?crop=1612%2C907%2C0%2C189&amp;resize=1120%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 4293,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f234f102ed82f6d819b6b933978e361e8e2a72e3",
+    "url": "https://tucson.com/news/local/longtime-marana-mayor-ed-honea-dies/image_464f8c2c-a917-11ef-861f-8b119b025d87.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jim Davis, Arizona Daily Star, File 2006",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Longtime Marana Mayor Ed Honea dies",
+    "text": "- Jim Davis, Arizona Daily Star, File 2006 - Updated Most Popular - [Arizona Senate candidate John McLean killed in Tucson crash](/news/local/government-politics/elections/tucson-police-crash-john-mclean-vince-leach-fatal-dui-michael-martin-creel/article_93e04b0e-a38e-11ef-91ee-5b085698a588.html) - [A Tucson Walmart is about to get super-sized](/news/local/subscriber/a-tucson-walmart-is-about-to-get-super-sized/article_ffa37a2a-a5f3-11ef-9b62-cfb0ddd15c7e.html) - [Believers bought airplane for dead preacher thinking he’d rise from grave to fly in it](/life-entertainment/nation-world/faith-values/voice-of-god-centers-global-enterprise/article_c3c8d518-6485-11ef-98be-4f5e78f73f7a.html) - [Work begins on massive sports & entertainment venue in Tucson](/news/local/business/sports-entertainment-venue-tucson-mosaic-quarter/article_836855ec-a784-11ef-9bdc-f32a22f49a96.html) - [Tucson church manipulates members' finances, acts as 'bank,' critics say](/news/local/ex-members-allege-financial-abuse-by-church/article_d256c424-6407-11ef-8199-67be9967d721.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest",
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jim Davis",
+                "sentiment": "negative"
+            },
+            {
+                "name": "John M",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ed Honea",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Arizona Daily Star",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Arizona Senate",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:04:25.992+02:00",
+    "updated": "2024-11-23T00:04:25.992+02:00"
+}

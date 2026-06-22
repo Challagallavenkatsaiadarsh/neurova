@@ -1,0 +1,126 @@
+{
+    "thread": {
+        "uuid": "a3483db7a4f1593280795afb55897c4b703ddfa0",
+        "url": "https://www.hindustantimes.com/india-news/kalpana-grows-in-stature-in-no-time-101732389021234.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/india-news",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "India News: Latest India News, Read today's breaking news headlines in India and current Updates | Hindustan Times",
+        "title": "Kalpana grows in stature in no time",
+        "title_full": "Kalpana grows in stature in no time",
+        "published": "2024-11-23T20:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/JMM-candidate-Kalpana-Soren-being-greeted-by-suppo_1732389012509.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3483db7a4f1593280795afb55897c4b703ddfa0",
+    "url": "https://www.hindustantimes.com/india-news/kalpana-grows-in-stature-in-no-time-101732389021234.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T20:40:00.000+02:00",
+    "title": "Kalpana grows in stature in no time",
+    "text": "Kalpana Soren made her first public appearance on a political stage on March 4 this year, a little over a month after her husband and Jharkhand chief minister Hemant Soren was arrested by the Enforcement Directorate (ED) over money laundering charges linked to a land deal case. Since then, the 39-year-old has emerged as a firebrand leader of the ruling Jharkhand Mukti Morcha (JMM). On Saturday, she won the assembly election from Gandey constituency in Giridih district, defeating her rival Muniya Devi of the Bharatiya Janata Party (BJP) with a margin of 17,142 votes. She had earlier won a bypoll from the assembly seat in June.Her political rise, having started her journey while her husband was incarcerated, was prominently exhibited during the Lok Sabha elections this summer, where she campaigned vigorously for the party.Her husband Hemant Soren also acknowledged the vital role she played in the party when he was arrested.“You saw how we fared in the Lok Sabha polls (the JMM-Congress alliance won five of 14 seats). If I had been out of jail, we would have done so much better. At the time, Kalpana Soren worked as a one-man army and this time there were two of us,” Soren said soon after his party-led INDIA bloc comfortable won the Jharkhand assembly polls.JMM leaders said that before the start of her political journey on March 4 at the JMM’s 51st Foundation Day celebration, her focus was solely confined to managing her family and running a play school. An MBA and BTech graduate, Kalpana Soren continued to keep a low profile even after her husband became the chef minister in 2019.Political commentators said that in less than a year’s time she has turned out to be a mature politician and a star campaigner — not just for the JMM but also the INDIA bloc —consolidating women votes for the coalition.“Circumstances changed Kalpana Soren in 2024… (Earlier) I had the responsibility of family. Now, I have been entrusted with another responsibility by Guruji (father-in-law Shibu Soren) and the party,” she had told reporters in a political rally.A JMM leader said her popularity has reached to such a level that she emerged as the most sought after leader of the INDIA bloc in the campaigning for the assembly polls. “We had more requests for her campaign than the CM,” a JMM campaign manager said, signifying her importance to the electoral success of the JMM-led coalition on Saturday.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hemant Soren",
+                "sentiment": "none"
+            },
+            {
+                "name": "Muniya Devi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Enforcement Directorate",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jharkhand Mukti Morcha",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kalpana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Giridih",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gandey",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:53:01.523+02:00",
+    "updated": "2024-11-24T04:09:52.528+02:00"
+}

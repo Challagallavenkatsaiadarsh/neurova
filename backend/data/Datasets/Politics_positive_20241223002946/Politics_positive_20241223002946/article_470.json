@@ -1,0 +1,120 @@
+{
+    "thread": {
+        "uuid": "81c68d26bb38f3e38c0da3b314f87ad03004e3e4",
+        "url": "https://clutchpoints.com/maple-leafs-news-toronto-signs-player-after-matthew-knies-injury",
+        "site_full": "clutchpoints.com",
+        "site": "clutchpoints.com",
+        "site_section": "https://clutchpoints.com/feed",
+        "site_categories": [
+            "pro_basketball",
+            "sports"
+        ],
+        "section_title": "ClutchPoints",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 11367,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "81c68d26bb38f3e38c0da3b314f87ad03004e3e4",
+    "url": "https://clutchpoints.com/maple-leafs-news-toronto-signs-player-after-matthew-knies-injury",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "",
+    "text": "{\"content\": \" The [Toronto Maple Leafs lost forward Matthew Knies](\\\"https://clutchpoints.com/maple-leafs-news-matthew-knies-ruled-out-golden-knights-scary-hit\\\") after he was hit by Vegas Golden Knights defenseman Zach Whitecloud during Wednesday’s game at Scotiabank Arena. Earlier today, the Leafs announced that they’ve placed him on Injured Reserve, opening up a big spot in their lineup. To fill the gap, they’ve officially signed forward Alex Nylander, the brother of star forward William Nylander, [to a one-year contract](\\\"https://x.com/Sportsnet/status/1860055345433084087\\\"). The younger Nylander who was drafted with the eighth overall pick by the Buffalo Sabres in the 2016 NHL Draft, has been playing with the American Hockey League affiliate Toronto Marlies this season. \\nMeanwhile, Leafs players [like Simon Benoit, who confronted Whitecloud](\\\"https://www.tsn.ca/nhl/toronto-maple-leafs-matthew-knies-ruled-out-for-sunday-s-game-against-utah-hockey-club-1.2208566\\\"), are [still sour over his hit that knocked Knies](\\\"https://clutchpoints.com/maple-leafs-news-fans-let-refs-have-it-after-controversial-matthew-knies-hit\\\") from the lineup, via TSN. “I think his feet were off the ice when he hit Kniesy right to the head, so I had to go in there and just protect my teammate,” Benoit said. \\n“It was just not a good hit, I don’t think it’s a good call.” \\nHowever, head coach Craig Berube didn’t quite see it that way, saying that hits like that are part of the game. \\n“It\\u2019s a hockey hit. It\\u2019s been around forever, it\\u2019s a clean hit,” Berube said. “It\\u2019s a tough play. He’s in a vulnerable position a little bit. The guy was on him from behind and it’s a tough play. It is, but it\\u2019s hockey. That\\u2019s part of the game.” \\nThe Leafs are off until Sunday when they host the Utah Hockey Club at Scotiabank Arena. \\nThe younger Nylander has suited up for the Buffalo Sabres, Chicago Blackhawks, Pittsburgh Penguins and Columbus Blue Jackets during his career, and has scored 25 goals to go with 24 assists in 121 career NHL contests. \\nHe also has eight goals and four assists in 14 games played with the Toronto Marlies this season. \\nThe post [Maple Leafs sign player after Matthew Knies injury](\\\"https://clutchpoints.com/maple-leafs-news-toronto-signs-player-after-matthew-knies-injury\\\") appeared first on [ClutchPoints](\\\"https://clutchpoints.com\\\").",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.tsn.ca/nhl/toronto-maple-leafs-matthew-knies-ruled-out-for-sunday-s-game-against-utah-hockey-club-1.2208566\\",
+        "https://x.com/Sportsnet/status/1860055345433084087\\",
+        "https://clutchpoints.com\\",
+        "https://www.clutchpoints.com\\",
+        "https://tsn.ca/nhl/toronto-maple-leafs-matthew-knies-ruled-out-for-sunday-s-game-against-utah-hockey-club-1.2208566\\",
+        "https://www.x.com/Sportsnet/status/1860055345433084087\\"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matthew Knies",
+                "sentiment": "negative"
+            },
+            {
+                "name": "William Nylander",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zach Whitecloud",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alex Nylander",
+                "sentiment": "none"
+            },
+            {
+                "name": "Simon Benoit",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Toronto Maple Leafs",
+                "sentiment": "negative"
+            },
+            {
+                "name": "American Hockey League",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scotiabank Arena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Toronto Marlies",
+                "sentiment": "none"
+            },
+            {
+                "name": "Buffalo Sabres",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:50:28.337+02:00",
+    "updated": "2024-11-28T04:26:15.025+02:00"
+}

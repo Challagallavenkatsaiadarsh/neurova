@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "2bed9b18e3eb3ae48a9c03b842914a7a938cb750",
+        "url": "https://www.pentictonherald.ca/news/article_05842efa-a917-11ef-8095-cb1ed8e50ae1.html",
+        "site_full": "www.pentictonherald.ca",
+        "site": "pentictonherald.ca",
+        "site_section": "http://www.pentictonherald.ca/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "media",
+            "education",
+            "business"
+        ],
+        "section_title": "www.pentictonherald.ca - RSS Results in news of type article",
+        "title": "NDP MLAs off to Tinseltown",
+        "title_full": "NDP MLAs off to Tinseltown",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/pentictonherald.ca/content/tncms/assets/v3/editorial/6/03/6033c6c6-a917-11ef-983e-03c7198b687b/6740f58801f4b.image.jpg?crop=1000%2C525%2C0%2C112&amp;resize=1000%2C525&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 130639,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2bed9b18e3eb3ae48a9c03b842914a7a938cb750",
+    "url": "https://www.pentictonherald.ca/news/article_05842efa-a917-11ef-8095-cb1ed8e50ae1.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ron Seymour The Kelowna Courier",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "NDP MLAs off to Tinseltown",
+    "text": "Three members of the NDP government are off to Los Angeles this week to promote B.C. as a place to film movies and television shows.\nMinister of Finance Brenda Bailey, Minister of Tourism Spencer Chandra Herbert, and Parliamentary Secretary for Arts and Film Nina Kreiger will head up the delegation.\nThey are members of the NDP government that was sworn in last week following the October election.\n“We are getting to work right away to ensure the film industry continues to choose B.C. as a leading destination for filmmakers worldwide,” Bailey said in an NDP government release.\nThe trio of NDP MLAs are intent on building “strong international relationships” to support the province’s film and TV industry, per the release.\nBC Conservative MLA Gavin Dew, MLA for Kelowna Mission and the party’s shadow minister for economic development, was critical of the NDP MLAs trip to Los Angeles.\n“Our film and television sector is important, but before heading off on international junkets I would welcome the ministers to visit Kelowna. They could learn how the NDP’s changes to tax credits have undermined the growth of our local animation sector,” Dew told The Kelowna Courier.\n“While they’re at it, they could learn how the NDP’s sledgehammer short-term rental rules have cratered our tourism sector,” Dew added. “We’ll be happy to offer better solutions on both fronts.”\nAcross B.C., the film and TV industry supports 47,500 jobs and is worth $3.3 billion in economic activity, the government says. The Okanagan Film Commission says that crews spent $70 million in the Valley in 2022 filming 46 films, TV shows, and commercials.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:09:33.504+02:00",
+    "updated": "2024-11-23T02:09:33.504+02:00"
+}

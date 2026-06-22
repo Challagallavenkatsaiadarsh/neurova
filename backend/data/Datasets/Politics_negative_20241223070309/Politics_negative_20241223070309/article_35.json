@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "55a3e420b51f35350c8ef651bc82dc584d8dfe99",
+        "url": "https://www.thedailybeast.com/cant-be-much-donald-trump-jr-floats-buying-msnbc-to-elon-musk",
+        "site_full": "www.thedailybeast.com",
+        "site": "thedailybeast.com",
+        "site_section": "https://thedailybeast.com/arc/outboundfeeds/rss/articles",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "‘Can’t Be Much’: Donald Trump Jr. Floats Buying MSNBC to Elon Musk",
+        "title_full": "‘Can’t Be Much’: Donald Trump Jr. Floats Buying MSNBC to Elon Musk",
+        "published": "2024-11-22T23:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thedailybeast.com/resizer/v2/NNL7VZUONJDNHMCNYE5LMN5JLQ.png?smart=true&amp;auth=3366a4d1123e96fd9b0ce64c3e251b97628f6039c415fe11f90761d8427260f3&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 721,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "55a3e420b51f35350c8ef651bc82dc584d8dfe99",
+    "url": "https://www.thedailybeast.com/cant-be-much-donald-trump-jr-floats-buying-msnbc-to-elon-musk",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Liam Archacki",
+    "published": "2024-11-22T23:48:00.000+02:00",
+    "title": "‘Can’t Be Much’: Donald Trump Jr. Floats Buying MSNBC to Elon Musk",
+    "text": "‘Can’t Be Much’: Donald Trump Jr. Floats Buying MSNBC to Elon Musk\nDonald Trump Jr. mocked MSNBC for its declining ratings on Friday as he and Elon Musk toyed with the prospect of buying the left-leaning cable news channel—apparently in jest. The exchange on X was kicked off when the president-elect’s eldest child responded to a post from the finance meme account @WallStreetMav that suggested that MSNBC was “up for sale” amid reports that Comcast, its parent firm, was spinning the network and other cable assets off into their own company. “Hey @elonmusk I have the funniest idea ever!!!” Don Jr. wrote, to which the world’s richest man responded, “How much does it cost?” Don Jr. apparently couldn’t pass up the chance for a dig at the network that often criticizes his father. “I mean it can’t be much,” he https://x.com/DonaldJTrumpJr/status/1860044555896390126. “Look at the ratings.” The channel’s struggles—with ratings down 40 percent from this time last year, per Nielsen—reportedly have star host Rachel Maddow taking a $5 million pay cut, meaning she’ll earn a $25 million salary over the next five years rather than the $30 million she currently receives.\nADVERTISEMENT\nADVERTISEMENT",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Elon Musk\nDonald Trump Jr.",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Rachel Maddow",
+                "sentiment": "none"
+            },
+            {
+                "name": "Don Jr.",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MSNBC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Comcast",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:40.043+02:00",
+    "updated": "2024-11-23T00:05:40.043+02:00"
+}

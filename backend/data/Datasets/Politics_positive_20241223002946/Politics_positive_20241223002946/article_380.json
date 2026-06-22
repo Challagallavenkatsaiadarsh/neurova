@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "eb44f386b2e5f09f40ed6f998a8e69492b7e52c8",
+        "url": "https://www.investopedia.com/trump-picks-hedge-fund-exec-scott-bessent-for-treasury-secretary-reports-say-8750655",
+        "site_full": "www.investopedia.com",
+        "site": "investopedia.com",
+        "site_section": "https://feeds.distribution.dotdashmeredith.com/v3/rss/0bc233c2-1ee9-4ea4-b1d7-85f945156f11",
+        "site_categories": [
+            "investing",
+            "finance"
+        ],
+        "section_title": "Investopedia - Latest Stories",
+        "title": "Trump Picks Hedge Fund Manager Scott Bessent for Treasury Secretary, Reports Say",
+        "title_full": "Trump Picks Hedge Fund Manager Scott Bessent for Treasury Secretary, Reports Say",
+        "published": "2024-11-23T02:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.investopedia.com/thmb/otxeKOdCVtOT_Fqh5trqmFXvrsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2164096881-fa18e34c204d44af9bf45dcd6829d1f4.jpg",
+        "performance_score": 0,
+        "domain_rank": 232,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "eb44f386b2e5f09f40ed6f998a8e69492b7e52c8",
+    "url": "https://www.investopedia.com/trump-picks-hedge-fund-exec-scott-bessent-for-treasury-secretary-reports-say-8750655",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "David Marino-Nachison",
+    "published": "2024-11-23T02:10:00.000+02:00",
+    "title": "Trump Picks Hedge Fund Manager Scott Bessent for Treasury Secretary, Reports Say",
+    "text": "President-elect Donald Trump has chosen Scott Bessent to lead the Treasury Department, according to various media reports late Friday.\nThe reports, citing people familiar with the matter, indicate an end to a period where several high-profile names were discussed as possible replacements for Janet Yellen , who was appointed by President Biden after leading the Federal Reserve.\nAs Treasury Secretary, Bessent would take charge of the government's finances, managing the $36 trillion national debt , as well as oversee the Internal Revenue Service and the Office of the Comptroller of the Currency , a banking regulator.\nBessent is the founder of Key Square Group, a money-management firm. \"The failure of Bidenomics is clear,\" he wrote in an opinion piece in The Wall Street Journal earlier this month. \"But Mr. Trump has turned around the economy before, and he is ready to do so again.\"\nAmong the other names believed to be considered by Trump were Kevin Warsh, a former Fed governor, and Marc Rowan, the CEO of private equity giant Apollo Global Management.\nTrump's second cabinet continues to take shape. Among the economic positions remaining: chair of the Council of Economic Advisers. Trump is also reportedly considering several candidates to replace Jerome Powell as chair of the Federal Reserve when his term ends in 2026.\nDo you have a news tip for Investopedia reporters? Please email us at tips@investopedia.com Article Sources Investopedia requires writers to use primary sources to support their work. These include white papers, government data, original reporting, and interviews with industry experts. We also reference original research from other reputable publishers where appropriate. You can learn more about the standards we follow in producing accurate, unbiased content in our editorial policy. The Washington Post. \" Trump expected to pick Scott Bessent as treasury secretary .\"\nThe Wall Street Journal. \" Trump Picks Scott Bessent as Treasury Secretary .\"\nThe Wall Street Journal. \" Markets Hail Trump's Economics .\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?",
+        "https://www.wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe",
+        "https://www.washingtonpost.com/business/2024/11/22/scott-bessent-treasury-secretary-trump-cabinet-pick/",
+        "https://www.wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a",
+        "https://www.washingtonpost.com/business/2024/11/22/scott-bessent-treasury-secretary-trump-cabinet-pick",
+        "https://washingtonpost.com/business/2024/11/22/scott-bessent-treasury-secretary-trump-cabinet-pick/",
+        "https://wsj.com/opinion/markets-hail-trumps-economics-he-will-repair-biden-damage-pro-growth-investment-boost-f3954dbe",
+        "https://wsj.com/politics/trump-treasury-secretary-scott-bessent-cabinet-2470c09a?"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Janet Yellen",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kevin Warsh",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marc Rowan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Treasury Department",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Apollo Global Management",
+                "sentiment": "none"
+            },
+            {
+                "name": "Internal Revenue Service",
+                "sentiment": "none"
+            },
+            {
+                "name": "Key Square Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Federal Reserve",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:19:01.158+02:00",
+    "updated": "2024-11-28T08:12:14.611+02:00"
+}

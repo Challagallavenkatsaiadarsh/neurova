@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "564043f9671de1886e7a237fa149436724c3b695",
+        "url": "https://www.tribuneindia.com/news/punjab/rebel-upsets-aaplecart-in-barnala-dhaliwal-in-saddle",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/punjab",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Punjab News (ਪੰਜਾਬ ਖ਼ਬਰਾਂ): Latest News, Breaking News & Updates- Tribune India",
+        "title": "Rebel upsets AAPlecart in Barnala, Dhaliwal in saddle - The Tribune",
+        "title_full": "Rebel upsets AAPlecart in Barnala, Dhaliwal in saddle - The Tribune",
+        "published": "2024-11-24T01:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/674222ee309b1-12311438CD-_23-NOV-2024-CONG-CANDIDATE-KALA-DHILLON-RECEIVING-CERTIFICATE-OF-ELECTION-IN-BARNALA.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "564043f9671de1886e7a237fa149436724c3b695",
+    "url": "https://www.tribuneindia.com/news/punjab/rebel-upsets-aaplecart-in-barnala-dhaliwal-in-saddle",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sushil Goyal",
+    "published": "2024-11-24T01:50:00.000+02:00",
+    "title": "Rebel upsets AAPlecart in Barnala, Dhaliwal in saddle - The Tribune",
+    "text": "Congress candidate Kuldeep Singh Dhillon (Kala Dhillon) secured the Barnala Assembly seat today by defeating his nearest rival Harinder Singh Dhaliwal of AAP by a margin of 2,157 votes. Dhillon polled 28,254 votes and Dhaliwal 26,097.\nIn the 2022 Assembly elections, Gurmeet Singh Meet Hayer had won the seat by a margin of 37,622 votes. The seat fell vacant following his election to the Lok Sabha from Sangrur in June this year, necessitating a bypoll on the Barnala Assembly seat. The polling was held on November 20.\nDespite farmers opposing the BJP in the byelection, the party candidate Kewal Singh Dhillon finished third by securing 17,958 votes. In the 2022 Assembly elections, BJP candidate Dheeraj Kumar had got 9,122 votes.\nAn AAP rebel and Independent candidate, Gurdeep Singh Batth, got 16,899 votes. The SAD (A) candidate, Govind Singh Sandhu, lost his security deposit as he failed to get one-sixth of the valid polled votes. He got only 7,900 votes.\nAfter logging the victory, the Congress candidate, along with his supporters, including a former Barnala district president of the party Makhan Sharma, received the Certificate of Election from the Returning Officer-cum-Barnala SDM Gurbir Singh Kohli. Later, Dhillon and his supporters took out a victory procession.\nThe defeat of AAP candidate Harinder Singh Dhaliwal was being attributed to Batth, who secured 16,899 votes. It is believed that a major chunk of the AAP votes was grabbed by Batth.\nBatth was the Barnala district president of AAP for more than six years, but he raised a banner of revolt on being denied the party ticket for the Barnala byelection and filed his nomination papers as an Independent candidate.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kuldeep Singh Dhillon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kala Dhillon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gurmeet Singh Meet Hayer",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harinder Singh Dhaliwal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kewal Singh Dhillon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Gurdeep Singh Batth",
+                "sentiment": "none"
+            },
+            {
+                "name": "Govind Singh Sandhu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dheeraj Kumar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tribune Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:16:07.550+02:00",
+    "updated": "2024-11-24T06:16:07.550+02:00"
+}

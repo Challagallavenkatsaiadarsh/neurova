@@ -1,0 +1,109 @@
+{
+    "thread": {
+        "uuid": "4a1e4b69da28f29a1ab8b2c5d2ad49a50fa615c6",
+        "url": "https://www.thenews.com.pk/print/1254438-priyanka-wins-wayanad-lok-sabha-seat-by-huge-margin",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Priyanka wins Wayanad Lok Sabha seat by huge margin",
+        "title_full": "Priyanka wins Wayanad Lok Sabha seat by huge margin",
+        "published": "2024-11-24T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-24/l_1254438_052109_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4a1e4b69da28f29a1ab8b2c5d2ad49a50fa615c6",
+    "url": "https://www.thenews.com.pk/print/1254438-priyanka-wins-wayanad-lok-sabha-seat-by-huge-margin",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Desk",
+    "published": "2024-11-24T06:00:00.000+02:00",
+    "title": "Priyanka wins Wayanad Lok Sabha seat by huge margin",
+    "text": "THE Congress has retained the two Lok Sabha seats for which byelections were held recently. AICC general secretary Priyanka Gandhi Vadra has won Wayanad in Kerala by a landslide margin while the party’s Ravindra Vasantrao Chavan has won Nanded in Maharashtra by a thin margin of 1,457 votes. In Wayanad, Ms. Vadra defeated CPI’s Satyan Mokeri by a margin of 4,10,931 votes, which is higher than the margin of 3,64,422 votes by which her brother Rahul Gandhi won the seat in the 2024 general elections. In 2019, Mr. Gandhi’s winning margin was 4,31,770 votes. Ms. Vadra got about 65% of the votes polled and Mr. Mokeri got 22.08%. BJP’s Navya Haridas got more than 11% of the votes. The byelection to Wayanad was required after Mr. Gandhi decided to vacate it to retain Raebareli seat, which too he won in the 2024 general elections. Prosecutors will in coming week ask court in southern city Avignon to sentence 51 men Both executives have not discussed specific measures to keep TikTok running in United States Economy has improved somewhat over past few months, and reason for this is IMF programme, says Humayun Bessent, chief executive officer of Key Square Group, has called for extension of tax cuts from Trump’s first term Chief of Malaysian Royal Air Force, who is of Pakistani origin, paid visit to his native Beir, Haripur, on Saturday Local and official sources say first explosion took place in Irab area in jurisdiction of Loy Mamond Police Station",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Priyanka Gandhi Vadra",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Satyan Mokeri",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rahul Gandhi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wayanad Lok",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kerala",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:32:02.157+02:00",
+    "updated": "2024-11-24T06:32:02.157+02:00"
+}

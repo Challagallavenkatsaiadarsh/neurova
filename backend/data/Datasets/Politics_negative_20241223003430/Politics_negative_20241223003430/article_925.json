@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "72a63b5e000889d104bc8718e5700ea46e88d166",
+        "url": "https://www.justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense",
+        "site_full": "www.justice.gov",
+        "site": "justice.gov",
+        "site_section": "https://www.justice.gov/usao-mdfl",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "legal_issues",
+            "us_government_resources"
+        ],
+        "section_title": " Middle District of Florida |  Middle District of Florida",
+        "title": "Middle District of Florida | Jury Finds Convicted Sex Offender Guilty Of Attempted Child Sex Offense | United States Department of Justice",
+        "title_full": "Middle District of Florida | Jury Finds Convicted Sex Offender Guilty Of Attempted Child Sex Offense | United States Department of Justice",
+        "published": "2024-11-22T20:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.justice.gov/sites/all/modules/features/doj_sharing/images/doj-seal-fb.jpg",
+        "performance_score": 0,
+        "domain_rank": 544,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "72a63b5e000889d104bc8718e5700ea46e88d166",
+    "url": "https://www.justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "justice.gov",
+    "published": "2024-11-22T20:50:00.000+02:00",
+    "title": "Middle District of Florida | Jury Finds Convicted Sex Offender Guilty Of Attempted Child Sex Offense | United States Department of Justice",
+    "text": "Press Release Jury Finds Convicted Sex Offender Guilty Of Attempted Child Sex Offense Friday, November 22, 2024 Share Facebook X LinkedIn Email For Immediate Release U.S. Attorney's Office, Middle District of Florida Orlando, Florida – United States Attorney Roger B. Handberg announces that a federal jury has found Chad Allen Pease (48, Fort Pierce) guilty of attempting to entice a minor to engage in sexual activity and committing a felony offense involving a minor when required to register as a sex offender. Pease faces a minimum penalty of 20 years, up to life, in federal prison. He must also forfeit a cellphone which he used in the commission of the offense.\nAccording to testimony and evidence presented at trial, on February 3, 2024, Pease began communicating with an undercover law enforcement officer (UC) whom Pease believed to be the father of a 13-year-old girl. During the course of the conversation, Pease made plans to meet up with the UC and his “daughter” so that Pease could sexually assault the child. Pease drove 18 miles to the meeting location and conducted countersurveillance before fleeing the scene. Nevertheless, law enforcement was able to identify Pease, reconstruct his activities that evening, and later arrest him at his residence in Fort Pierce.\nPease was previously convicted of a sex offense in 2008 after sending explicit photographs and traveling to have sex with someone he believed to be a 13-year-old girl. He has been required to register as a sex offender ever since.\nThis case was investigated by Homeland Security Investigations and the Osceola County Sheriff’s Office, with assistance from the Federal Bureau of Investigation’s Cellular Analysis Survey Team and the Polk County Sheriff’s Office. It is being prosecuted by Assistant United States Attorney Richard Varadan and Special Assistant United States Attorney Matthew Del Mastro.\nThe case was brought as part of Project Safe Childhood, a nationwide initiative launched in May 2006 by the Department of Justice to combat the growing epidemic of child sexual exploitation and abuse. Led by the United States Attorney’s Offices and the Criminal Division’s Child Exploitation and Obscenity Section, Project Safe Childhood marshals federal, state, and local resources to locate, apprehend, and prosecute individuals who sexually exploit children, and to identify and rescue victims. For more information about Project Safe Childhood, please visit www.justice.gov/psc.\nUpdated November 22, 2024",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.linkedin.com/shareArticle?mini=true&url=https://www.justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense&title=Jury",
+        "http://twitter.com/intent/tweet?url=https://www.justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense&text=Jury",
+        "http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense",
+        "http://linkedin.com/shareArticle?mini=true&url=https://justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense&title=Jury",
+        "http://www.facebook.com/sharer/sharer.php",
+        "http://twitter.com/intent/tweet",
+        "http://facebook.com/sharer/sharer.php?u=https://justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense",
+        "http://twitter.com/intent/tweet?url=https://justice.gov/usao-mdfl/pr/jury-finds-convicted-sex-offender-guilty-attempted-child-sex-offense&text=Jury",
+        "http://www.linkedin.com/shareArticle"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Roger B. Handberg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chad Allen Pease",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United States Department of Justice Press",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:44:31.990+02:00",
+    "updated": "2024-11-23T01:44:31.990+02:00"
+}

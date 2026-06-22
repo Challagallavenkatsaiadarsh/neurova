@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "fde587798338b0165e43d45b79904ac5f3e06424",
+        "url": "https://www.wgnsradio.com/article/90026/congratulations-lt-ferrell-and-sgt-sandlin-on-your-promotions",
+        "site_full": "www.wgnsradio.com",
+        "site": "wgnsradio.com",
+        "site_section": "https://wgnsradio.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WGNS Radio",
+        "title": "Congratulations Lt. Ferrell and Sgt. Sandlin on your promotions - WGNS Radio",
+        "title_full": "Congratulations Lt. Ferrell and Sgt. Sandlin on your promotions - WGNS Radio",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bw-wgnsce-site.s3.amazonaws.com/article_images/0vazm7CsGCZPXPYpcNyXwv1U7Fnur8F4S7h4Ua5o.png",
+        "performance_score": 0,
+        "domain_rank": 92630,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fde587798338b0165e43d45b79904ac5f3e06424",
+    "url": "https://www.wgnsradio.com/article/90026/congratulations-lt-ferrell-and-sgt-sandlin-on-your-promotions",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Congratulations Lt. Ferrell and Sgt. Sandlin on your promotions - WGNS Radio",
+    "text": "Murfreesboro, TN - Murfreesboro Police Chief Michael Bowen has proud promoted Sergeant Zachary Ferrell to the rank of lieutenant and Officer Joshua Sandlin to sergeant.\nChief Bown noted, \"Ferrell and Sandlin's promotions are not only a recognition of their leadership skills and dedication but also a testament to their commitment to serving our department and the residents of the City of Murfreesboro.\"\nLt. Zachary Ferrell\nFerrell joined the Murfreesboro Police Department in August 2011. He is currently the FACT Commander and has over 300 hours of crash investigation training. He has also served as a sergeant in the Uniformed Division and as a Field Training Officer (FTO). Ferrell recently completed the Northwestern University Center for Public Safety: School of Police Staff and Command. He received a Bachelor of Science Degree in Criminal Justice from Middle Tennessee State University and is also a Siegel High School graduate. Ferrell has been assigned to the Uniformed Division Traffic Unit.\nSgt. Joshua Sandlin\nSandlin began his employment with the department in June 2018. He served as a Field Training Officer and a member of the Special Operations Unit (SOU). Sandlin is a graduate of the University of Tennessee at Martin where he earned a Bachelor of Science degree in Agriculture Business Farm and Ranch Management.\nFerrell and Sandlin were recognized at a promotion ceremony at Murfreesboro Police headquarters on Friday, November 15, 2024.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ferrell",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Bowen",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zachary Ferrell\nFerrell",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Joshua Sandlin\nSandlin",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WGNS Radio Murfreesboro",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Northwestern University Center for Public Safety: School of Police Staff",
+                "sentiment": "none"
+            },
+            {
+                "name": "Murfreesboro Police Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "Siegel High School",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:38:33.579+02:00",
+    "updated": "2024-11-24T01:38:33.579+02:00"
+}

@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "d6a22478948389d1f77c025e1a4dfd8136b5a365",
+        "url": "https://nypost.com/2024/11/22/us-news/majority-of-americans-approve-of-trumps-plans-and-policies-for-the-future-warm-feelings-at-an-all-time-high-poll",
+        "site_full": "nypost.com",
+        "site": "nypost.com",
+        "site_section": "https://nypost.com/feed",
+        "site_categories": [
+            "social",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_il",
+            "top_news_dk",
+            "top_news_se",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news_at",
+            "top_news"
+        ],
+        "section_title": "New York Post",
+        "title": "Majority of Americans approve of Trump's plans and policies for the future -- 'warm' feelings at an all-time high: poll",
+        "title_full": "Majority of Americans approve of Trump's plans and policies for the future -- 'warm' feelings at an all-time high: poll",
+        "published": "2024-11-23T01:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://nypost.com/wp-content/uploads/sites/2/2024/11/americans-express-warmer-feelings-toward-94143847.jpg?quality=75&#038;strip=all&#038;w=1024",
+        "performance_score": 0,
+        "domain_rank": 357,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d6a22478948389d1f77c025e1a4dfd8136b5a365",
+    "url": "https://nypost.com/2024/11/22/us-news/majority-of-americans-approve-of-trumps-plans-and-policies-for-the-future-warm-feelings-at-an-all-time-high-poll",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Victor Nava",
+    "published": "2024-11-23T01:06:00.000+02:00",
+    "title": "Majority of Americans approve of Trump's plans and policies for the future -- 'warm' feelings at an all-time high: poll",
+    "text": "Majority of Americans approve of Trump’s plans and policies for the future: poll More than half of Americans support President-elect Donald Trump’s general agenda as he prepares for his second term in the White House, according to a poll released Friday. The Pew Research Center survey found 53% of Americans “somewhat” or “strongly” approve of the president-elect’s agenda, while 46% disapprove. Support for Trump’s second-term plans broke along party lines, with 88% of Republicans and Republican-leaning independents approving and 82% of Democrats and Democratic leaners disapproving. Nearly 60% of respondents indicated they were confident in the 78-year-old president-elect’s ability to make good decisions about economic policy , the survey found. Majorities also expressed confidence in Trump when it comes to issues related to law enforcement and criminal justice (54%), immigration (53%) and foreign policy (53%). Most Americans (55%) described Trump as “mentally sharp,” and 51% said they believe he will keep his campaign promises. The post-election positive vibes toward Trump have never been stronger, the poll found, with 43% giving the 45th president a “warm” or “very warm” rating on Pew’s “feeling thermometer.” In contrast, Trump’s warm rating was only 34% after the 2020 election and 36% after the 2016 contest. More Americans indicated that they were satisfied with the direction of the country post-election (29%) than in October (23%), but a massive majority of 70% remain dissatisfied with the way things are going. The vast majority of respondents (70%) anticipate a smooth presidential transition, and Trump’s post-election conduct was described as “excellent” or “good” by 53% – far higher than the incoming president’s 28% rating four years ago. But Trump received low marks in questions related to national unity, with just 31% describing his efforts to bring the country together after Election Day as “good” or “excellent.” Only 14% of respondents said they expect partisan relations to improve during Trump’s second term, and 45% felt divisions between Republicans and Democrats would widen with Trump in the Oval Office. The pollster notes that over the past decade, Americans have been highly skeptical of partisan relations improving post-election, with no more than 21% after the 2020 election predicting an improvement. The national post-election survey of 9,609 adults was conducted between Nov. 12-17, and the Pew Research Center cautioned that most of its interviews were completed before several of Trump’s Cabinet nominees were announced, including Robert F. Kennedy Jr. for secretary of Health and Human Services and Matt Gaetz for attorney general.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.pewresearch.org/politics/2024/11/22/public-narrowly-approves-of-trumps-plans-most-are-skeptical-he-will-unify-the-country/",
+        "https://pewresearch.org/politics/2024/11/22/public-narrowly-approves-of-trumps-plans-most-are-skeptical-he-will-unify-the-country/",
+        "https://www.pewresearch.org/politics/2024/11/22/public-narrowly-approves-of-trumps-plans-most-are-skeptical-he-will-unify-the-country"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dan Gallagher",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pew Research Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "SEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "d6a22478948389d1f77c025e1a4dfd8136b5a365",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:13:39.182+02:00",
+    "updated": "2024-11-23T02:34:10.289+02:00"
+}

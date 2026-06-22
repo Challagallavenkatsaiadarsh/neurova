@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "1f03420a64488ca0b379d28073664abb2544f876",
+        "url": "https://www.sentinelassam.com/topheadlines/npps-mehtab-chandee-sangma-wins-gambegre-bye-poll-in-meghalaya",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://www.sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "NPP’s Mehtab Chandee Sangma wins Gambegre bye-poll in Meghalaya",
+        "title_full": "NPP’s Mehtab Chandee Sangma wins Gambegre bye-poll in Meghalaya",
+        "published": "2024-11-24T01:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-24%2Fmmuqxvqe%2FMehtaab-Sangma.jpeg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f03420a64488ca0b379d28073664abb2544f876",
+    "url": "https://www.sentinelassam.com/topheadlines/npps-mehtab-chandee-sangma-wins-gambegre-bye-poll-in-meghalaya",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-24T01:06:00.000+02:00",
+    "title": "NPP’s Mehtab Chandee Sangma wins Gambegre bye-poll in Meghalaya",
+    "text": "A Correspondent\nSHILLONG: National People's Party (NPP) candidate and Meghalaya Chief Minister Conrad Sangma's wife, Mehtab Chandee Sangma, won the Gambegre bye-election.\nMehtab defeated her closest rival, Sadhiarani Sangma of the All India Trinamool Congress (AITC), by a margin of 4,594 votes.\nWhile the\nNPP candidate secured 12,666 votes, AITC candidate Sadhiarani polled 8,075 votes. Congress' Jingjang Marak polled 7,687 votes.\nPreviously the seat was held by Saleng A Sangma of the Congress. He had to vacate the seat after winning the Tura Lok Sabha seat.\nSpeaking to reporters, Mehtab said that the message is loud and clear that people have voted for change and development.\n\"Previously, we could never win this seat, but the people of Gambegre have voted for change. The whole of Garo Hills and Meghalaya is experiencing it at the moment with the NPP in the government. We will do our best to ensure that we do the best for the people,\" the newly elected MLA said.\nMeanwhile, the Chief Minister and national president of the NPP said that it was heartening to see that people voted for development even as he added that the party will ensure that it does whatever possible to fulfill the promises.\n\"There are many challenges, but we will do our best to serve the people of Gambegre,\" he said.\nSangma also thanked all the party workers, leaders, MLAs, and MDCs who worked hard to ensure that their candidate's win.\nAlso Read:\nHek Backs NPP’s Withdrawal in Manipur, Reaffirms BJP-NPP Alliance in Meghalaya\nAlso Watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Conra",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mehtab Chandee Sangma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sadhiarani Sangma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Saleng A Sangma",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jingjang Marak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National People's Party",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "All India Trinamool Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "AITC",
+                "sentiment": "none"
+            },
+            {
+                "name": "MLA",
+                "sentiment": "none"
+            },
+            {
+                "name": "NPP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Meghalaya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lok",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:23:19.218+02:00",
+    "updated": "2024-11-24T06:23:19.218+02:00"
+}

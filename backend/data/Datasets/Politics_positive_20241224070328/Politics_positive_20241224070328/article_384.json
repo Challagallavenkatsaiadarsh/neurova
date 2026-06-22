@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "c4d3ff381060f50734cad8c12c77e9846aba3e47",
+        "url": "https://www.mid-day.com/amp/mumbai/mumbai-news/video/maharashtra-elections-2024--bjp-lled-mahayutis-historic-win-against-mva-check-out-key-highlights-watch-video-1076868",
+        "site_full": "www.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://www.mid-day.com/amp",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Latest Mumbai News | India news | Entertainment News | Latest News in Mumbai, Headlines, Live Updates and Coverage | Mid-Day",
+        "title": "Maharashtra elections 2024: BJP-led Mahayuti's historic win against MVA, Check out key highlights",
+        "title_full": "Maharashtra elections 2024: BJP-led Mahayuti's historic win against MVA, Check out key highlights",
+        "published": "2024-11-23T06:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6468,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c4d3ff381060f50734cad8c12c77e9846aba3e47",
+    "url": "https://www.mid-day.com/amp/mumbai/mumbai-news/video/maharashtra-elections-2024--bjp-lled-mahayutis-historic-win-against-mva-check-out-key-highlights-watch-video-1076868",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Web Developer",
+    "published": "2024-11-23T06:19:00.000+02:00",
+    "title": "Maharashtra elections 2024: BJP-led Mahayuti's historic win against MVA, Check out key highlights",
+    "text": "2024-11-23 09:19 PM IST\nBJP-led Mahayuti alliance emerged victorious, defeating the Congress-led Maha Vikas Aghadi (MVA) coalition. As the results drop out, Here are the key highlights from the Maharashtra Assembly Elections 2024, In Baramati, Maharashtra Deputy Chief Minister Ajit Pawar, from the Nationalist Congress Party (NCP), secured a resounding victory with a margin of over 1 lakh votes. Ajit Pawar received 1,81,132 votes, while his nearest rival, Yugendra Pawar from the NCP-SP alliance, got 80,233 votes, making the victory margin 1,00,899 votes. In Mumbai, Shiv Sena (UBT) leader Aaditya Thackeray won from the Worli constituency, defeating Shinde Sena`s Milind Deora by more than 8,000 votes. Meanwhile, in Mahim, Shiv Sena (UBT) candidate Mahesh Sawant triumphed over MNS chief Raj Thackeray`s son, Amit Thackeray, securing 50,213 votes compared to Amit`s 33,062. Watch video for more.\n[Maharashtra Election Result 2024: Huge celebration at BJP office, Fadnavis welcomed with Dhol-Nagada](https://www.mid-day.com/amp/mumbai/mumbai-news/video/maharashtra-election-result-2024-huge-celebration-at-bjp-office-fadnavis-welcomed-with-dhol-nagada-1076867)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Aaditya Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amit Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yugendra Pawar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mahesh Sawant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Raj Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Milind Deora",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "MVA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mahim",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:16:41.798+02:00",
+    "updated": "2024-11-24T03:16:41.798+02:00"
+}

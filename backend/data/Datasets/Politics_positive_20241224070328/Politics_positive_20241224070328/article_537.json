@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "64d303fb14b790f9cd90e02382b8ae3daaa8c461",
+        "url": "https://www.newindianexpress.com/thesundaystandard/2024/Nov/24/priyanka-gandhis-4-lakh-victory-margin-betters-her-brother-rahuls-in-wayanad",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://newindianexpress.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "newindianexpress",
+        "title": "Priyanka Gandhi’s 4 lakh victory margin betters her brother Rahul’s in Wayanad",
+        "title_full": "Priyanka Gandhi’s 4 lakh victory margin betters her brother Rahul’s in Wayanad",
+        "published": "2024-11-23T23:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-24%2Fxkllnrlc%2FWhatsApp-Image-2024-11-23-at-17.18.16.jpeg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "64d303fb14b790f9cd90e02382b8ae3daaa8c461",
+    "url": "https://www.newindianexpress.com/thesundaystandard/2024/Nov/24/priyanka-gandhis-4-lakh-victory-margin-betters-her-brother-rahuls-in-wayanad",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-23T23:12:00.000+02:00",
+    "title": "Priyanka Gandhi’s 4 lakh victory margin betters her brother Rahul’s in Wayanad",
+    "text": "NEW DELHI: Congress general secretary Priyanka Vadra Gandhi made her electoral debut with a bang with a massive victory in the bypoll for the Wayanad Lok Sabha constituency in Kerala, vacated by brother Rahul Gandhi. Her margin of victory - by over 4.1 lakh votes - bettered Rahul’s 3.6 lakh vote margin.\nThe party also won byelections to all three assembly seats in Karnataka, wresting one each from the BJP and JD(S), while retained Palakkad in Kerala.\nBypolls were also held for several assembly constituencies in over a dozen states, including UP, which witnessed polling in nine seats. The ruling BJP retaining its five constituencies and wrested two from the Samajwadi Party.\nIn West Bengal, the ruling TMC won all the six assembly constituencies, including Madarihat it wrested from the BJP.\nThe ruing NDA in Bihar pocketed all four seats — Belaganj, Imamganj, Tarari and Ramgarh. The NDA swept the bypolls to eight Assembly seats in the Northeast.\n5 ON 7 IN RAJASTHAN\nIn Rajasthan, the BJP won five of seven seats while the Congress secured a win in Dausa. The ruling AAP in Punjab wrested Gidderbaha, Dera Baba Nanak and Chabbewal from the Congress but lost the Barnala seat to the grand old party",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Priyanka Gandhi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Priyanka Vadra Gandhi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rahul Gandhi",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Samajwadi Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            },
+            {
+                "name": "TMC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wayanad Lok",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Bengal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karnataka",
+                "sentiment": "none"
+            },
+            {
+                "name": "RAJASTHAN",
+                "sentiment": "none"
+            },
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kerala",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "64d303fb14b790f9cd90e02382b8ae3daaa8c461",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:42:14.872+02:00",
+    "updated": "2024-11-24T04:42:14.872+02:00"
+}

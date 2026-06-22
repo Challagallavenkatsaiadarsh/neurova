@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "f2d5ec8bec4292cbcaeddb335b8fb2d1ea5c3e44",
+        "url": "https://www.si.com/nfl/patriots/news/new-england-patriots-jerod-mayo-addresses-robert-kraft-hall-fame-snub",
+        "site_full": "www.si.com",
+        "site": "si.com",
+        "site_section": "https://www.si.com/nfl",
+        "site_categories": [
+            "sports"
+        ],
+        "section_title": "NFL News - Sports Illustrated",
+        "title": "New England Patriots HC Addresses Robert Kraft Hall of Fame Snub",
+        "title_full": "New England Patriots HC Addresses Robert Kraft Hall of Fame Snub",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_3814,h_2145,x_0,y_283/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/patriots_country/01jdakq0kxwywpeycxcj.jpg",
+        "performance_score": 0,
+        "domain_rank": 1275,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f2d5ec8bec4292cbcaeddb335b8fb2d1ea5c3e44",
+    "url": "https://www.si.com/nfl/patriots/news/new-england-patriots-jerod-mayo-addresses-robert-kraft-hall-fame-snub",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Evan Massey",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "New England Patriots HC Addresses Robert Kraft Hall of Fame Snub",
+    "text": "Patriots HC Addresses Robert Kraft Hall of Fame Snub\n[New England Patriots](https://www.si.com/nfl/patriots) owner Robert Kraft has been [snubbed from being a Hall of Fame pick](https://www.si.com/nfl/patriots/news/new-england-patriots-coach-responds-odd-robert-kraft-drake-maye-report) this year.\nIn each of the last three years, Kraft has been named a semifinalist. Unfortunately, he just doesn't seem to be able to get the nod.\nAt this point in time, there is belief that he continues being passed over due to Spygate and Deflategate. Those two scandals have tarnished his reputation, as well as many others who were with the [Patriots](https://www.si.com/nfl/patriots/news/new-england-patriots-jacoby-brissett-could-end-giants) during that period of time.\nFollowing the news that Kraft was snubbed once again, first-year head coach [Jerod Mayo spoke out](https://x.com/ByMarkDaniels/status/1859979836980392276) with a short and sweet message.\n\"I don't think there's anyone more deserving,\" Mayo said.\nOriginally taking over as the owner of the New England franchise back in 1994, Kraft has helped lead the team to a lot of success. He has been a part of six Super Bowl wins and has been around for 10 Super Bowl appearances.\nThe man who was selected over Kraft was Ralph Hay. He co-founded the NFL and then owned the Canton Bulldogs. After four years, he sold the team.\nNeedless to say, this has turned into a bit of a controversial choice.\nAll Patriots fans want to see Kraft receive the honor that he is due. Mayo is 100 percent right that there is no one more deserving.\nSadly, Kraft's reputation being tarnished might play in a role in continuing to delay his Hall of Fame honor.\nHopefully, Kraft will end up making it into the Hall of Fame in the near future. It's a travesty that he has not been given that honor yet.\nAs for how his team is currently doing, the [Patriots](https://www.si.com/nfl/patriots/news/three-wide-receiver-options-new-england-patriots) are 3-8 this season. They have a promising new franchise quarterback in Drake Maye and a lot of money to spend in the offseason should they choose to do so.\nKraft may have been snubbed from the Hall of Fame, but he does have quite a few reasons to be excited about the future of his franchise.\n[Make sure you bookmark New England Patriots on SI for the latest news, exclusive interviews, film breakdowns and so much more!](https://www.si.com/nfl/patriots)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://x.com/ByMarkDaniels/status/1859979836980392276",
+        "https://www.x.com/ByMarkDaniels/status/1859979836980392276"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Kraft",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jerod Mayo",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hall of Fame",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:52:37.883+02:00",
+    "updated": "2024-11-23T00:52:37.883+02:00"
+}

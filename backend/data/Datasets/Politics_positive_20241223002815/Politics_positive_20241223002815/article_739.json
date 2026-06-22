@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "9ec30ca9a821dd8534acf483dab72cc53018049d",
+        "url": "https://www.ntd.com/sebastian-gorka-alex-wong-to-join-trump-administration-as-senior-national-security-staff_1030544.html",
+        "site_full": "www.ntd.com",
+        "site": "ntd.com",
+        "site_section": "https://www.ntd.com/feed",
+        "site_categories": [
+            "real_estate",
+            "architects"
+        ],
+        "section_title": "RSS Feed | NTD",
+        "title": "Sebastian Gorka, Alex Wong to Join Trump Administration as Senior National Security Staff",
+        "title_full": "Sebastian Gorka, Alex Wong to Join Trump Administration as Senior National Security Staff",
+        "published": "2024-11-23T04:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.ntd.com/assets/uploads/2024/11/id1030545-Epoch_Times9A6A8800.jpg",
+        "performance_score": 0,
+        "domain_rank": 21073,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9ec30ca9a821dd8534acf483dab72cc53018049d",
+    "url": "https://www.ntd.com/sebastian-gorka-alex-wong-to-join-trump-administration-as-senior-national-security-staff_1030544.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NTD Newsroom",
+    "published": "2024-11-23T04:09:00.000+02:00",
+    "title": "Sebastian Gorka, Alex Wong to Join Trump Administration as Senior National Security Staff",
+    "text": "President-elect Donald J. Trump has announced two new picks for his national security team, including a veteran of his first term familiar to many radio listeners.\nSebastian Gorka, who served as a deputy assistant to the president in 2017, will reprise that role while also serving as counterterrorism director in the administration.\nGorka hosts a widely syndicated radio program.\n“Since 2015, Dr. Gorka has been a tireless advocate for the America First Agenda and the MAGA Movement,” Trump wrote in his announcement on Nov. 22.\nAlex Wong, who served in the State Department during the first term, will also have a deputy assistant to the president role and serve as principal deputy national security advisor. Trump has picked Rep. Michael Waltz (R-Fla.) as his choice for the national security advisor role.\nWong also held a special position in relation to North Korea. In his announcement of the picks, Trump noted that Wong had helped facilitate his high-profile meeting with the leader of that nuclear-armed country, Kim Jong-Un, during his first administration.\nFrom [The Epoch Times](https://www.theepochtimes.com/us/sebastian-gorka-alex-wong-to-join-trump-administration-as-senior-national-security-staff-5764876)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Wong",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald J. Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sebastian Gorka",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Waltz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kim Jong-Un",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Agenda",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "MAGA Movement",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9ec30ca9a821dd8534acf483dab72cc53018049d",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:35:25.477+02:00",
+    "updated": "2024-11-23T17:15:28.571+02:00"
+}

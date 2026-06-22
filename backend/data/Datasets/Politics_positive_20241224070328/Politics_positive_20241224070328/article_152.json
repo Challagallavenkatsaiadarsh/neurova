@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "7983cd0c141710f318a21ad6fb1066f19402d198",
+        "url": "https://soygrowers.com/news-releases/asa-congratulates-rollins-on-secretary-of-ag-nomination",
+        "site_full": "soygrowers.com",
+        "site": "soygrowers.com",
+        "site_section": "https://soygrowers.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "American Soybean Association - Meeting Agricultural Needs Globally",
+        "title": "ASA Congratulates Rollins on Secretary of Ag Nomination - American Soybean Association",
+        "title_full": "ASA Congratulates Rollins on Secretary of Ag Nomination - American Soybean Association",
+        "published": "2024-11-24T00:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 131655,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7983cd0c141710f318a21ad6fb1066f19402d198",
+    "url": "https://soygrowers.com/news-releases/asa-congratulates-rollins-on-secretary-of-ag-nomination",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T00:52:00.000+02:00",
+    "title": "ASA Congratulates Rollins on Secretary of Ag Nomination - American Soybean Association",
+    "text": "Back\nNov 23, 2024\nThe American Soybean Association congratulates former Trump policy advisor Brooke Rollins on being selected by President-elect Donald Trump as nominee to serve as the next U.S. Department of Agriculture Secretary.\nJosh Gackle, ASA president and soy farmer from Kulm, North Dakota, said, “We appreciate that Rollins holds a degree in agriculture development and grew up on a farm and that she will bring that perspective, along with her policy experience from the previous Trump administration, to the role. The mission carried out by USDA is vital to the continued success both domestically and abroad for U.S. soybean farmers. ASA welcomes the opportunity to share the importance of soy in the U.S. economy and work with the department and this nominee upon her confirmation on issues critical to farmers.”\nUSDA has offices in states and counties across the country and a purview that includes farm and nutrition programs, crop insurance, forestry, home and farm lending, food safety, rural development, agricultural research, trade, and more.\nASA looks forward to working with Rollins on priorities ranging from farm bill to biotechnology, biofuels support to agricultural trade, among other issues that impact soy growers and agriculture at large.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Josh Gackle",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Agriculture",
+                "sentiment": "none"
+            },
+            {
+                "name": "USDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:20:38.265+02:00",
+    "updated": "2024-11-24T01:20:38.265+02:00"
+}

@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "bbc4e4d9beb0629247ef8dfae05c0d2bf9bf2721",
+        "url": "https://www.29news.com/2024/11/22/uva-launches-new-national-security-institute",
+        "site_full": "www.29news.com",
+        "site": "29news.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "UVA launches new national security institute",
+        "title_full": "UVA launches new national security institute",
+        "published": "2024-11-23T00:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-wvir-prod.gtv-cdn.com/resizer/v2/LOWNL234ABA4HCLL6V2JBDLLS4.bmp?auth=8d2f5d6367b6e14ae2e71958ffdd6cec1245c0398ae37e66ff3e005f0674d06a&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 26093,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bbc4e4d9beb0629247ef8dfae05c0d2bf9bf2721",
+    "url": "https://www.29news.com/2024/11/22/uva-launches-new-national-security-institute",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maggie Glass",
+    "published": "2024-11-23T00:57:00.000+02:00",
+    "title": "UVA launches new national security institute",
+    "text": "CHARLOTTESVILLE, Va. (WVIR) - The University of Virginia is launching a new institute centered on national security.\nThe National Security Data and Policy Institute opened Friday, November 22.\nFriday morning, university leaders, the Director of National Intelligence, and Virginia Senator Mark Warner gathered in UVA’s rotunda to celebrate its opening.\nThe institute’s new director Phillip Potter said right off the bat he has priorities.\nOne is dealing with a massive influx of data.\n“How do you make sense of what is a chaotic data environment?” Potter asked.\nAnother is keeping up with global competitors.\n“How do you know when you are doing well in technological areas? What areas may the US be thriving in from a research sector? What areas they may be falling behind in?” Potter said.\nTo answer those questions, UVA’s National Security Data and Policy Institute will gather experts in data science, artificial intelligence, research and public policy.\n“The ability to bring that all together at this institute at UVA could be absolutely critical,” Senator Mark Warner said.\nThis all comes as the U.S. faces ongoing security threats. Warner said it’s more than just the government that needs to pay attention to what we are dealing with.\n“The Chinese have infiltrated all of our telecom networks. That means they can pick individuals, and listen to their calls, see their text messaging,” Warner said.\nWith a $20-million two-year contract, the institute is setting off to identify those threats and protect Americans.\n“I’m thrilled to get going,” Potter siad.\nThe institute will be located in Charlottesville off 10th St. NW\nDo you have a story idea? Send us your news tip here .\nCopyright 2024 WVIR. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Phillip Potter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Warner",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of Virginia",
+                "sentiment": "negative"
+            },
+            {
+                "name": "National Intelligence",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:19:40.208+02:00",
+    "updated": "2024-11-23T03:04:37.160+02:00"
+}

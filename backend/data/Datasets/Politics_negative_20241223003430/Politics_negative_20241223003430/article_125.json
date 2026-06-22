@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "289fb843109804e6e55c09d94214b7f79531b050",
+        "url": "https://www.mainepublic.org/health/2024-11-22/medical-professionals-object-to-robert-f-kennedy-jrs-nomination",
+        "site_full": "www.mainepublic.org",
+        "site": "mainepublic.org",
+        "site_section": "https://www.mainepublic.org",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Maine Public | Home | Maine Public",
+        "title": "Medical professionals object to Robert F. Kennedy Jr's nomination",
+        "title_full": "Medical professionals object to Robert F. Kennedy Jr's nomination",
+        "published": "2024-11-22T21:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/3bfec5c/2147483647/strip/true/crop/5712x2999+0+643/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb1%2F1d%2F65f2cfc34757bb7c01e0793ece52%2Fimg-7921.jpg",
+        "performance_score": 0,
+        "domain_rank": 22220,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "289fb843109804e6e55c09d94214b7f79531b050",
+    "url": "https://www.mainepublic.org/health/2024-11-22/medical-professionals-object-to-robert-f-kennedy-jrs-nomination",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Madi Smith",
+    "published": "2024-11-22T21:51:00.000+02:00",
+    "title": "Medical professionals object to Robert F. Kennedy Jr's nomination",
+    "text": "Medical professionals object to Robert F. Kennedy Jr's nomination\nMedical professionals and activists spoke at Portland City Hall on Friday to protest Robert F. Kennedy Jr.'s nomination as Department of Health and Human Services secretary.\nDr. Patrica Hymanson, a former Maine state representative, said Kennedy Jr.'s anti-vaccine and lack of leadership experience concern her most.\n\"Mainers deserve a leader at HHS who follows science and who is committed to strengthening healthcare policies not torching them,\" Hymanson said.\nSpeakers also pointed to Kennedy Jr's 2023 comments about \"giving infectious diseases a break\" and his belief that infectious diseases are not a major threat to human health as reasons for concern.\nMark Gallagher, representative from Protect our Care Maine, says Kennedy Jr.'s anti-vaccine beliefs and expected policies will lead to increases in a varied of infectious diseases like measles.\n\"When Donald Trump nominate Robert F. Kennedy Jr. as Secretary of Health and Human Services his message was we are going to make eradicated diseases great again. It is a scary and troubling thought, it is a scary and troubling nomination,\" Gallagher said.\nSpeakers called on Senators Susan Collins and Angus King to reject Kennedy Jr's nomination.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Patrica Hymanson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Gallagher",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Department of Health and Human Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City Hall",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:16:05.741+02:00",
+    "updated": "2024-11-28T03:39:50.689+02:00"
+}

@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "0d6eb7320feca811bafd892376af48d39595f42b",
+        "url": "https://www.spacewar.com/reports/US_committed_to_diplomatic_resolution_in_Lebanon_999.html",
+        "site_full": "www.spacewar.com",
+        "site": "spacewar.com",
+        "site_section": "http://www.spacewar.com/spacewar.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Military Space News, Nuclear Weapons, Missile Defense",
+        "title": "US committed to 'diplomatic resolution' in Lebanon",
+        "title_full": "US committed to 'diplomatic resolution' in Lebanon",
+        "published": "2024-11-23T22:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.spxdaily.com/images-hg/lebanon-flag-artwork-hg.jpg",
+        "performance_score": 0,
+        "domain_rank": 52994,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d6eb7320feca811bafd892376af48d39595f42b",
+    "url": "https://www.spacewar.com/reports/US_committed_to_diplomatic_resolution_in_Lebanon_999.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T22:11:00.000+02:00",
+    "title": "US committed to 'diplomatic resolution' in Lebanon",
+    "text": "Austin \"reiterated US commitment to a diplomatic resolution in Lebanon that allows Israeli and Lebanese civilians to return safely to their homes on both sides of the border\" in his call with Israel Katz, a Pentagon spokesperson said.\nA spokesman for Katz said the defence minister underscored that Israel would \"continue to act decisively in response to Hezbollah's attacks on civilian populations in Israel\".\nDuring the call, \"Katz commended US efforts to facilitate de-escalation in Lebanon, emphasized Israel's commitment to restoring security that would enable northern residents to return to their homes safely\", his spokesman said.\nUS envoy Amos Hochstein was in Lebanon and Israel this week, meeting with both countries' senior officials, to try to negotiate an end to the war.\nIn the call Austin also \"urged the Government of Israel to continue to take steps to improve the dire humanitarian conditions in Gaza and emphasized the US commitment to securing the release of all hostages, including US citizens.\"\nIsrael has been fighting in Gaza since October 2023, when a cross-border attack by Hamas militants resulted in the deaths of 1,206 people, mostly civilians, according to an AFP tally of Israeli official figures.\nDuring the attack, militants took 251 hostages, of whom 97 are still held in Gaza, including 34 the army says are dead.\nIsrael's retaliatory campaign has led to the deaths of 44,176 people in Gaza, most of them civilians, according to figures from the Hamas-run territory's health ministry which the United Nations considers reliable.\nIsrael is currently engaged in fierce fighting with Hamas ally Hezbollah in Lebanon. Both groups are backed by Israel's arch-foe Iran.\nLebanon said Saturday an Israeli air strike in the heart of Beirut that brought down a residential building killed at least 15 people.\nIsrael stepped up its campaign against Hezbollah in late September, targeting its strongholds in Lebanon.\nThe health ministry in Beirut says more than 3,650 people have been killed since October 2023, when Hezbollah began trading fire with Israel in solidarity with Hamas.\nThe United Nations and others have repeatedly decried humanitarian conditions in the Gaza Strip, particularly in the north of the Palestinian territory, where Israel said Friday it had killed two commanders involved in Hamas's October 7, 2023 attack.\nIn his call with Katz, Austin also discussed ongoing Israeli operations and reaffirmed Washington's \"ironclad commitment to Israel's security\", the Pentagon said.\nRelated Links\nSpace War News\n|\n|\n|",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Leban",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Amos Hochstein",
+                "sentiment": "none"
+            },
+            {
+                "name": "Katz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pentagon",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:52:04.742+02:00",
+    "updated": "2024-11-24T05:52:04.742+02:00"
+}

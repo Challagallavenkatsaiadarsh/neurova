@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "f51e82befa9c64bb2d99fc6bf5d4d18db0bfcda0",
+        "url": "https://www.newarab.com/news/us-committed-diplomatic-resolution-lebanon",
+        "site_full": "www.newarab.com",
+        "site": "newarab.com",
+        "site_section": "https://www.newarab.com/rss.xml",
+        "site_categories": [],
+        "section_title": "The New Arab ",
+        "title": "US committed to 'diplomatic resolution' in Lebanon",
+        "title_full": "US committed to 'diplomatic resolution' in Lebanon",
+        "published": "2024-11-24T03:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newarab.com/sites/default/files/styles/600x338/public/2185257211.jpeg?h=a5f2f23a&amp;itok=TCBUv93b",
+        "performance_score": 0,
+        "domain_rank": 12311,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f51e82befa9c64bb2d99fc6bf5d4d18db0bfcda0",
+    "url": "https://www.newarab.com/news/us-committed-diplomatic-resolution-lebanon",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The New Arab Staff & Agencies",
+    "published": "2024-11-24T03:46:00.000+02:00",
+    "title": "US committed to 'diplomatic resolution' in Lebanon",
+    "text": "US committed to 'diplomatic resolution' in Lebanon Defence Secretary Lloyd Austin stressed that the United States was dedicated to a diplomatic resolution in Lebanon and urged Israel to improve \"dire\" conditions in Gaza in a call Saturday with his Israeli counterpart. Austin \"reiterated US commitment to a diplomatic resolution in Lebanon that allows Israeli and Lebanese civilians to return safely to their homes on both sides of the border\" in his call with Israel Katz , a Pentagon spokesperson said. A spokesman for Katz said the defence minister underscored that Israel would \"continue to act decisively in response to Hezbollah's attacks on civilian populations in Israel\". During the call, \"Katz commended US efforts to facilitate de-escalation in Lebanon, emphasized Israel's commitment to restoring security that would enable northern residents to return to their homes safely\", his spokesman said. US envoy Amos Hochstein was in Lebanon and Israel this week, meeting with both countries' senior officials to try to negotiate an end to the war. In the call, Austin also \"urged the Government of Israel to continue to take steps to improve the dire humanitarian conditions in Gaza and emphasized the US commitment to securing the release of all hostages, including US citizens.\" Israel's war on Gaza has led to the deaths of 44,176 people in Gaza, most of them civilians, according to figures from the Gaza Health Ministry, which the United Nations considers reliable. Israel is currently engaged in its war on Lebanon, where Hezbollah is based. Both groups are backed by Israel's arch-foe Iran. Lebanon said Saturday that an Israeli airstrike in the heart of Beirut that brought down a residential building killed at least 15 people. Israel stepped up its campaign against Hezbollah in late September, targeting its strongholds in Lebanon. The health ministry in Beirut says over 3,650 people have been killed since October 2023, when Hezbollah began trading fire with Israel in solidarity with Hamas. The United Nations and others have repeatedly decried humanitarian conditions in the Gaza Strip, particularly in the north of the Palestinian territory. In his call with Katz, Austin also discussed ongoing Israeli operations and reaffirmed Washington's \"ironclad commitment to Israel's security\", the Pentagon said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lloyd Austin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Amos Hochstein",
+                "sentiment": "none"
+            },
+            {
+                "name": "Katz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pentagon",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:15:08.020+02:00",
+    "updated": "2024-11-24T06:17:50.148+02:00"
+}

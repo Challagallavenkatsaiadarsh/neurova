@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "ec9eb81ce75ca4bf23631f143c52b27cc2f734a6",
+        "url": "https://www.timesnownews.com/world/us/us-news/us-navy-begins-building-two-aircraft-carriers-at-once-article-115578760",
+        "site_full": "www.timesnownews.com",
+        "site": "timesnownews.com",
+        "site_section": "https://www.timesnownews.com/latest-news",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News - Get Latest News Today Live, India Latest News | Times Now",
+        "title": "Historic First! US Navy Begins Construction Of Two Aircraft Carriers Together",
+        "title_full": "Historic First! US Navy Begins Construction Of Two Aircraft Carriers Together",
+        "published": "2024-11-22T23:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.tnn.in/thumb/msid-115579274,thumbsize-2027870,width-1280,height-720,resizemode-75/115579274.jpg",
+        "performance_score": 0,
+        "domain_rank": 3465,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ec9eb81ce75ca4bf23631f143c52b27cc2f734a6",
+    "url": "https://www.timesnownews.com/world/us/us-news/us-navy-begins-building-two-aircraft-carriers-at-once-article-115578760",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Times Now Digital",
+    "published": "2024-11-22T23:39:00.000+02:00",
+    "title": "Historic First! US Navy Begins Construction Of Two Aircraft Carriers Together",
+    "text": "The United States, home to the world's largest aircraft carrier fleet with 11 currently in service, is set to make history by constructing two \\\"flattops\\\" simultaneously in a single dry dock for the first time. Huntington Ingalls Industries, the largest military shipbuilder in the United States, announced on Tuesday that its Newport News Shipbuilding division in Virginia has successfully transferred the mid-body hull section of the third Gerald R. Ford-class aircraft carrier, the Enterprise. This came after the flooding of the dry dock with more than 100 million gallons of water on October 31, which floated the section of Enterprise's hull for the first time. This would enable the hull to shift from the east end of the dry dock to the west, where construction on the warship will continue. Meanwhile, assembly of the Enterprise's sister ship, Doris Miller—the fourth Gerald R. Ford-class aircraft carrier—will begin at the east end of the same dry dock early next year. The builder characterised that as a \\\"historic first\\\" in dual construction of the Gerald R. Ford class. China, home to the world's largest navy with a fleet of over 370 ships and submarines, is, according to reports, developing a nuclear propulsion system for a carrier-sized warship. All three of its \\\"flattops\\\" are conventionally powered. United States' law requires the Navy to maintain \\\"not less than 11 operational aircraft carriers,\\\" a fleet consisting of two classes of nuclear-powered \\\"flattops\\\", including 10 Nimitz-class ships and the USS Gerald R. Ford. The designer and builder of US aircraft carriers Huntington Ingalls Industries said modification of the dry dock and a two-ship contract have helped assemble the Enterprise and the Doris Miller simultaneously in the same dry dock Get Latest News Live on Times Now along with Breaking News and Top Headlines from US News, World and around the world.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gerald R. Ford-class",
+                "sentiment": "none"
+            },
+            {
+                "name": "Doris Miller",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Huntington Ingalls Industries",
+                "sentiment": "none"
+            },
+            {
+                "name": "Newport News Shipbuilding",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:40:17.674+02:00",
+    "updated": "2024-11-23T02:40:17.674+02:00"
+}

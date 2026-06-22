@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "ff75b8a4586debea4e605c48ca0086dce60ea2e1",
+        "url": "https://www.aa.com.tr/en/middle-east/palestine-slams-israeli-defense-ministers-decision-to-suspend-administrative-arrest-for-illegal-settlers/3401762",
+        "site_full": "www.aa.com.tr",
+        "site": "aa.com.tr",
+        "site_section": "https://www.aa.com.tr/en/rss/default?cat=live",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news_tr",
+            "top_news"
+        ],
+        "section_title": "Anadolu Ajansı Güncel Haberler",
+        "title": "Palestine slams Israeli defense minister's decision to suspend administrative arrest for illegal settlers",
+        "title_full": "Palestine slams Israeli defense minister's decision to suspend administrative arrest for illegal settlers",
+        "published": "2024-11-22T21:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/23/thumbs_b_c_80dd8a893bd9986d484eca9ebafd19a9.jpg?v=015338",
+        "performance_score": 0,
+        "domain_rank": 1762,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ff75b8a4586debea4e605c48ca0086dce60ea2e1",
+    "url": "https://www.aa.com.tr/en/middle-east/palestine-slams-israeli-defense-ministers-decision-to-suspend-administrative-arrest-for-illegal-settlers/3401762",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T21:53:00.000+02:00",
+    "title": "Palestine slams Israeli defense minister's decision to suspend administrative arrest for illegal settlers",
+    "text": "Middle East\nPalestine slams Israeli defense minister's decision to suspend administrative arrest for illegal settlers\nForeign Ministry says Israeli Defense Minister Katz's decision will \"encourage supremacist settlers to commit acts of terrorism against Palestinians and their properties'\nRAMALLAH, Palestine\nPalestine on Friday condemned Israeli Defense Minister Israel Katz's decision to suspend administrative detention orders against illegal Israeli settlers, fearing that it will encourage “supremacists” to commit more crimes against Palestinians.\nEarlier on Friday, the Israeli Ministry of Defense announced Katz’s decision to suspend administrative detention orders against illegal Israeli settlers accused of attacking Palestinians in the occupied West Bank.\nIn a statement, the Palestinian Foreign Ministry said Katz’s decision will \"encourage supremacist settlers to commit acts of terrorism against Palestinians and their properties, escalate crimes against them, and further foster their impunity.\"\nThe statement noted that only a few illegal Israeli settlers were detained as \"token arrests\" as part of a revolving door policy.\nThe ministry demanded \"an international effective action to rein in settlers’ militias, end their impunity,\" and protect Palestinians from Israeli occupation violations.\nPeace Now, which monitors and opposes Israeli settlement activities in the occupied territories, said in a statement that \"the cancellation of administrative detention orders for settlers alone is a cynical and reckless move that whitewashes and normalizes the rise of Jewish terrorism under the cover of war.\"\nAdministrative detention, which relies on undisclosed evidence, has predominantly been used against Palestinians, with 3,443 currently held in Israeli prisons, according to the Palestinian prisoners' affairs groups.\nThere are no official Israeli figures on illegal settlers subjected to administrative detention, but estimates indicate that only a few have ever been detained under this law.\nAccording to Peace Now, there are more than 720,000 illegal settlers in the occupied West Bank, including East Jerusalem.\nTension has been running high in the West Bank due to Israel’s brutal war on the Gaza Strip, which has killed over 44,000 people, mostly women and children, following a Hamas attack last year.\nNearly 795 Palestinians have since been killed and over 6,400 others injured by Israeli army fire in the occupied territory, according to the Health Ministry.\nIn July, the International Court of Justice issued a landmark advisory opinion that declared Israel's decades-long occupation of Palestinian land “illegal” and demanded the evacuation of all existing settlements in the West Bank and East Jerusalem.\n*Writing by Ahmed Asmar\nAnadolu Agency website contains only a portion of the news stories offered to subscribers in the AA News Broadcasting System (HAS), and in summarized form. Please contact us for subscription options.\nGlobal experts discuss financing energy transition at Istanbul Energy Forum\nUK premier discusses Russia-Ukraine war with NATO chief\nMpox continues to be international public health emergency, says WHO chief\nWHO chief expresses 'deep concern' after Israeli airstrikes on Gaza Strip\nNATO chief to visit Türkiye for talks on Monday\nRelated news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Israel Katz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Palestinian Foreign Ministry",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "West Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "RAMALLAH",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:15:52.504+02:00",
+    "updated": "2024-11-23T01:15:52.504+02:00"
+}

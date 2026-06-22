@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "bed549871de7e673328cd4aea55b5faf18a3b7dc",
+        "url": "https://www.foxla.com/news/national-adoption-day-2024-los-angeles-county",
+        "site_full": "www.foxla.com",
+        "site": "foxla.com",
+        "site_section": "https://foxla.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "FOX 11 Los Angeles",
+        "title": "National Adoption Day unites 200+ LA County children with new families",
+        "title_full": "National Adoption Day unites 200+ LA County children with new families",
+        "published": "2024-11-23T22:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.foxla.com/www.foxla.com/content/uploads/2024/11/1280/720/johnchristmanandreasorrentinoadammunoz.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 7301,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bed549871de7e673328cd4aea55b5faf18a3b7dc",
+    "url": "https://www.foxla.com/news/national-adoption-day-2024-los-angeles-county",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Matthew Seedorff",
+    "published": "2024-11-23T22:15:00.000+02:00",
+    "title": "National Adoption Day unites 200+ LA County children with new families",
+    "text": "More than 200 children from Los Angeles County celebrated their official adoption Saturday just ahead of Thanksgiving .\"They’ve been with us almost their whole lives,\" said Amy Campion, adopting two young children. \"So, I’m not sure they understand the gravity of today, but they’re excited.\"As part of National Adoption Day, judges opened the courthouse in Monterey Park Saturday morning for the adoption hearings.Roughly 130 parents adopted the more than 215 children into their families.\"For any of the kids that see this, you will find the right parent when you feel it,\" said Adam Munoz.Within the foster care system, Munoz has been living with John Christman and Andrea Sorrentino since he was 10 years old. Now, as a 15-year-old, they’re in front of a judge officially signing Adam into the family.\"We’re thankful and grateful,\" said John and Andrea. \"It’s finally official.\" Los Angeles Mayor Karen Bass was at the event, celebrating as one of her own staff members made an adoption.\"It’s a powerful reminder of the importance of family,\" said Bass.On Saturday, the Milner family was also back as a success story. Sixteen years ago, they adopted Alexander as a 2-year-old.\"It shows us [a reminder of] what we did,\" said the Milners. \"Now, he’s 18. He doesn’t have to age out. He’s aging out, and he’s in a home.\"\"It can be [a] grueling [process],\" said Akemi Arakiki, Presiding Judge of Juvenile Court in L.A. County. \"Some of these children have been in the system for years.\"There are more than 20,000 children in the LA County’s foster care system.On Saturday, about 215 of those children officially became members of new families.\"[It’s] like an endless hug from someone you miss for so long,\" said Munoz. \"That you just hug for so long, like you want to be with them forever.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Andrea Sorrentino",
+                "sentiment": "none"
+            },
+            {
+                "name": "John Christman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Amy Campion",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adam Munoz",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:45:43.649+02:00",
+    "updated": "2024-11-24T12:11:50.949+02:00"
+}

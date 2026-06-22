@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "f57355af429cb3622fe27397d8af9d509187f9ef",
+        "url": "https://origin.mid-day.com/mumbai/mumbai-news/article/maharashtra-elections-2024-what-a-win-bjp-23435058",
+        "site_full": "origin.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://origin.mid-day.com/mumbai",
+        "site_categories": [
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Mumbai News, Mumbai Latest News, Mumbai breaking news, Mumbai Today Live Updates | Mid-Day",
+        "title": "Maharashtra Elections 2024: A Landmark Victory for BJP!",
+        "title_full": "Maharashtra Elections 2024: A Landmark Victory for BJP!",
+        "published": "2024-11-24T09:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.mid-day.com/images/images/2024/nov/Amin-Patel-a_d.jpg",
+        "performance_score": 0,
+        "domain_rank": 6468,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f57355af429cb3622fe27397d8af9d509187f9ef",
+    "url": "https://origin.mid-day.com/mumbai/mumbai-news/article/maharashtra-elections-2024-what-a-win-bjp-23435058",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Hemal Ashar",
+    "published": "2024-11-24T09:01:00.000+02:00",
+    "title": "Maharashtra Elections 2024: A Landmark Victory for BJP!",
+    "text": "As reactions fly in thick ‘n fast, allies and adversaries say their piece about the maha battle that saw a maha win for the Mahayuti. Niranjan Shetty, chief spokesperson, Bharatiya Janata Party (BJP) Mumbai said, It is obvious that the people have chosen good and stable governance. The BJP had been accused of playing the communal card. Sentences like: ‘batenge toh katenge were cherry-picked from a 45-minute address about development. The BJPs philosophy is to bring everybody together and unite them. The Mughal emperors wanted to divide us. This time, it was the Opposition trying to divide us on lines of caste and religion, which the people rejected. Dhrutiman Joshi Swadesh Khetawat, vice-president of Vishwa Hindu Parishad (VHP) Konkan Pranth claimed, People gave voice to what they were feeling, feelings that had been suppressed. That is the crux. When there is an atmosphere that is designed to make a Hindu feel fearful or hesitant to say he is a Hindu and he goes to a temple, somewhere those repressed feelings are going to find expression. Here, it was at the ballot box. Grassroots RSS worker Dhrutiman Joshi said, The RSS worked hard on the ground to mobilise some lethargic voters to get out of their homes and vote. The RSS did not tell them who to vote for but to go out and vote. While on the ground I sensed that people were against the appeasement policies of Uddhav Thackeray. There was huge anger. They also disagreed with Rahul Gandhis bid of divisive caste politics. Victorious Congress leader Amin Patel from Mumbadevi stated he wanted to, thank every voter, though the overall results of the party were not up to expectations. For Shinde Senas Shaina NC who lost from the Mumbadevi constituency, This mandate makes it clear that the Mahayuti is here to stay. People have accepted a model of good governance. I think vote bank and appeasement politics resonate with some, which is a sad fact. This is till people realise that development will impact and change lives. The Aam Aadmi Party (AAP), though not contesting directly Mumbai working president of AAP Ruben Mascarenhas stated, The AAP was working to defeat the BJPs tyranny, corruption and politics of hate in Maharashtra. We humbly accept the mandate of the people. We fought the good fight. There is certainly a need for greater introspection. It will be back to the drawing board for us.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Niranjan Shetty",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vishwa Hindu Parishad",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:06:57.909+02:00",
+    "updated": "2024-11-24T05:06:57.909+02:00"
+}

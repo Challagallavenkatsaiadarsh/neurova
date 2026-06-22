@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "09101e86b24f634d4424d988f2dde50955a6f936",
+        "url": "https://www.ecowatch.com/alliance-to-end-plastic-waste-greenpeace-investigation.html",
+        "site_full": "www.ecowatch.com",
+        "site": "ecowatch.com",
+        "site_section": "https://www.ecowatch.com/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "EcoWatch",
+        "title": "Alliance to End Plastic Waste Members Created 1,000x More Plastic Than They Cleaned Up, Greenpeace Investigation Finds",
+        "title_full": "Alliance to End Plastic Waste Members Created 1,000x More Plastic Than They Cleaned Up, Greenpeace Investigation Finds",
+        "published": "2024-11-22T23:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.ecowatch.com/wp-content/uploads/2024/11/peh-landfill.jpeg",
+        "performance_score": 0,
+        "domain_rank": 3950,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "09101e86b24f634d4424d988f2dde50955a6f936",
+    "url": "https://www.ecowatch.com/alliance-to-end-plastic-waste-greenpeace-investigation.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Paige Bennett",
+    "published": "2024-11-22T23:37:00.000+02:00",
+    "title": "Alliance to End Plastic Waste Members Created 1,000x More Plastic Than They Cleaned Up, Greenpeace Investigation Finds",
+    "text": "In 2019, a group of major companies from around the world agreed to form the Alliance to End Plastic Waste (AEPW), an alliance that set out to reduce the amount of plastic flowing into the environment by around 15 million metric tons by the end of 2023. But according to a new report by Unearthed, a Greenpeace investigative journalism team, the initiative members have actually produced more than 1,000 times the amount of plastic than they’ve cleaned up in the 2019 to 2023 timeframe. The report found that the initiative was established by American Chemistry Council (ACC), a trade association, and a PR company. According to Unearthed, the project aimed to “change the conversation – away from short-term simplistic bans of plastic.” The Unearthed team examined data provided by Wood Mackenzie, a consultancy firm, and found that five companies that are major players in the alliance, including Shell, ExxonMobil, TotalEnergies, ChevronPhillips and Dow, were producing more plastic in just two days than the total amount of plastic the alliance has cleaned up since 2019. As Mother Jones reported, these companies produced 132 million metric tons of polyethylene and polypropylene alone in the 2019-2023 timeframe, not including other types of plastics or the plastic produced by other member companies in the alliance. “The recycling schemes they’re promoting can barely make a dent in all the plastic these companies are pumping out,” said Will McCallum, co-executive director at Greenpeace UK, as reported by Mother Jones. “They’re letting the running tap flood the house while trying to scoop up the water with a teaspoon. The only solution is to cut the amount of plastic produced in the first place.” AEPW got rid of its target to divert 15 million metric tons of plastic waste last year. According to Packaging Insights, the alliance achieved only 0.2% of its targets and said that the 15 million metric ton benchmark “was just too ambitious.” As a Planet Tracker spokesperson told Packaging Insights, the alliance’s goal to invest $1.5 billion in plastic waste cleanup over a five-year timeline was just a drop in the bucket compared to the $400 billion going toward expanding plastic manufacturing. So far, members have only invested around $375 million, Unearthed reported. “It’s hard to imagine a clearer example of greenwashing in this world,” Bill McKibben, environmental campaigner, told Unearthed. “The oil and gas industry — which is pretty much the same thing as the plastics industry — has been at this for decades.” The Unearthed investigative report comes during the latest round of global plastics treaty negotiations in Busan, South Korea. Alliance members, along with the ACC, have been present for the negotiations and have argued against plastic bans, saying that plastic waste, not plastic production, was the problem. A 2023 report estimated that without a strong global plastics treaty, plastic consumption could increase from 261 million metric tons in 2019 to 451 million metric tons by 2050. Plastic production already doubled from 2000 to 2019, and the amount of plastic waste could triple by 2060, a 2023 study by the World Economic Forum found. Aileen Lucero, an EcoWaste Coalition campaigner, told Unearthed, “To fix this planetary health crisis, we need to address the underlying problems of hazardous chemical inputs in plastic manufacturing and the unbridled production of disposable plastics.” Subscribe to get exclusive updates in our daily newsletter! By signing up, you agree to the Terms of Use and Privacy Policy & to receive electronic communications from EcoWatch Media Group, which may include marketing promotions, advertisements and sponsored content.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Wood Mackenzie",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Greenpeace Investigation Finds Alliance",
+                "sentiment": "negative"
+            },
+            {
+                "name": "American Chemistry Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "ExxonMobil",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shell",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:35:31.577+02:00",
+    "updated": "2024-11-23T01:38:45.523+02:00"
+}

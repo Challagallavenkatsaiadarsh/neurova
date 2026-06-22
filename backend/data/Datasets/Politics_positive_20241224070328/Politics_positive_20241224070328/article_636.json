@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "e9353b475893418c322114f0ac059faf2f4be9c2",
+        "url": "https://www.wionews.com/world/donald-trump-taps-brooke-rollins-for-agriculture-secretary-ready-to-make-agriculture-great-again-778735",
+        "site_full": "www.wionews.com",
+        "site": "wionews.com",
+        "site_section": "https://www.wionews.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "WION: Breaking News, Latest News, World, South Asia, India, Pakistan, Bangladesh News &amp; Analysis - Latest World News",
+        "title": "Donald Trump taps Brooke Rollins for agriculture secretary: Ready to make agriculture great again",
+        "title_full": "Donald Trump taps Brooke Rollins for agriculture secretary: Ready to make agriculture great again",
+        "published": "2024-11-24T05:27:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://cdn.wionews.com/sites/default/files/2024/11/24/467692-00036n37ux.jpg",
+        "performance_score": 0,
+        "domain_rank": 5568,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e9353b475893418c322114f0ac059faf2f4be9c2",
+    "url": "https://www.wionews.com/world/donald-trump-taps-brooke-rollins-for-agriculture-secretary-ready-to-make-agriculture-great-again-778735",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@wion",
+    "published": "2024-11-24T05:27:00.000+02:00",
+    "title": "Donald Trump taps Brooke Rollins for agriculture secretary: Ready to make agriculture great again",
+    "text": "US President-elect Donald Trump has named Brooke Rollins, president of the America First Policy Institute, as his choice for agriculture secretary. “As our next Secretary of Agriculture, Brooke will spearhead the effort to protect American Farmers, who are truly the backbone of our Country,” said the US president-elect in a statement, highlighting the significance of her appointment.\"/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Glen Rose",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "American Food Self-Sufficiency",
+                "sentiment": "none"
+            },
+            {
+                "name": "American Farmers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:29:54.138+02:00",
+    "updated": "2024-11-24T17:19:32.286+02:00"
+}

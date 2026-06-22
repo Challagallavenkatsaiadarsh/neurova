@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "ee4ca3fa7969980e5e9e07d400def90c50fd773f",
+        "url": "https://www.adn.com/nation-world/2024/11/23/trump-selects-brooke-rollins-to-be-agriculture-secretary",
+        "site_full": "www.adn.com",
+        "site": "adn.com",
+        "site_section": "http://www.adn.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Anchorage Daily News: Alaska News, Politics, Outdoors, Science and Events - Anchorage Daily News",
+        "title": "Trump selects Brooke Rollins to be agriculture secretary",
+        "title_full": "Trump selects Brooke Rollins to be agriculture secretary",
+        "published": "2024-11-24T01:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.adn.com/resizer//-o5EWZsXQaFSlaFGnfmk22teHbA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/adn/CIDG5E3JVFKT4Z5SRMLC456I2Y.jpg",
+        "performance_score": 0,
+        "domain_rank": 3692,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ee4ca3fa7969980e5e9e07d400def90c50fd773f",
+    "url": "https://www.adn.com/nation-world/2024/11/23/trump-selects-brooke-rollins-to-be-agriculture-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@adndotcom",
+    "published": "2024-11-24T01:09:00.000+02:00",
+    "title": "Trump selects Brooke Rollins to be agriculture secretary",
+    "text": "President-elect Donald Trump announced on Saturday that he has picked Brooke Rollins, a former Trump White House policy adviser, to serve as secretary of agriculture.\n“It is my Great Honor to nominate Brooke L. Rollins, from the Great State of Texas, to serve as the 33rd United States Secretary of Agriculture,” Trump said in a statement, later adding, “Brooke’s commitment to support the American Farmer, defense of American Food Self-Sufficiency, and the restoration of Agriculture-dependent American Small Towns is second to none.”\nRollins is the president and CEO of the America First Policy Institute, a group that has put together policy proposals for a second Trump term. The organization is chaired by Linda McMahon, Trump’s pick for education secretary. Rollins previously led the White House Domestic Policy Council during Trump’s first term. Before joining the Trump administration she led the Texas Public Policy Foundation, a conservative think tank.\nIn his statement on Saturday announcing Rollins’s appointment, Trump highlighted her “practitioner’s experience” with agriculture, including pointing to her upbringing “upbringing in the small and Agriculture-centered town of Glen Rose, Texas” as well as her involvement in “guiding her four kids in their show cattle careers.”\nRollins subsequently thanked Trump, writing on X, “It will be the honor of my life to fight for America’s farmers and our Nation’s agricultural communities. This is big stuff for a small-town ag girl from Glen Rose, TX.”\n[Trump pushes past the sting of Matt Gaetz’s exit with a flurry of new picks]\nThe secretary of agriculture is responsible for overseeing various farm, ranching and forestry industries as well as regulating aspects of food quality, safety and nutrition labeling. The biggest portion of the U.S. Department of Agriculture’s budget manages overseeing several crucial welfare programs such as free school lunches and food stamps.\nThe president-elect’s incoming agriculture secretary is also expected to play a role in shaping Trump’s plans for sweeping tariffs, which in his last term saw the American agriculture industry hit hard with huge counter-tariffs by allied countries and rivals alike.\nTrump’s pick to lead the Department of Health and Human Services, Robert F. Kennedy Jr., has vowed to play a role in the administration’s role in shaping the agriculture industry, but Trump and his allies have also proposed making large cuts to the Supplemental Nutrition Assistance Program, which is under USDA’s purview.\nRollins was one of the names floated to serve as Trump’s incoming White House chief of staff, but the role ended up going to Susie Wiles, his top campaign adviser.\n- - -\nAzi Paybarah contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brooke Rollins",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Brooke L. Rollins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Linda McMahon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "White House Domestic Policy Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "America First Policy Institute",
+                "sentiment": "none"
+            },
+            {
+                "name": "American Food Self-Sufficiency",
+                "sentiment": "none"
+            },
+            {
+                "name": "Texas Public Policy Foundation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:06:25.135+02:00",
+    "updated": "2024-11-24T02:06:25.135+02:00"
+}

@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "f3923e46c5d83559a98a3f804fd85448fed15c0a",
+        "url": "https://www.devdiscourse.com/article/health/3167710-trump-nominates-martin-makary-to-lead-fda-a-bold-move-for-us-healthcare",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/south-asia",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "South Asia News: International Development News, Breaking News, India News",
+        "title": "Trump Nominates Martin Makary to Lead FDA: A Bold Move for U.S. Healthcare | Health",
+        "title_full": "Trump Nominates Martin Makary to Lead FDA: A Bold Move for U.S. Healthcare | Health",
+        "published": "2024-11-23T00:38:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_02_17_130752.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f3923e46c5d83559a98a3f804fd85448fed15c0a",
+    "url": "https://www.devdiscourse.com/article/health/3167710-trump-nominates-martin-makary-to-lead-fda-a-bold-move-for-us-healthcare",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T00:38:00.000+02:00",
+    "title": "Trump Nominates Martin Makary to Lead FDA: A Bold Move for U.S. Healthcare | Health",
+    "text": "U.S. President-elect Donald Trump has nominated Dr. Martin Makary to head the FDA, aiming to streamline processes and improve public health standards. Makary, a Johns Hopkins surgeon and author, emphasizes reducing overtreatment in healthcare and questioned COVID vaccine mandates, signaling a shift in the agency's direction. In a significant reshuffle, U.S. President-elect Donald Trump has appointed Dr. Martin Makary, a respected surgeon and author, to lead the U.S. Food and Drug Administration (FDA). This nomination aims to revamp the agency, responsible for regulating drugs, devices, and food safety within the nation's vast healthcare market. Dr. Makary is widely known for his work at Johns Hopkins Hospital and his recent book, 'Blind Spots: When Medicine Gets It Wrong.' He has been vocal about the issue of overtreatment in American healthcare, calling it an epidemic. Makary's appointment suggests an upcoming shift in the FDA's focus towards addressing inefficiencies and unnecessary treatments. Makary will report to the nominee for the Department of Health and Human Services, Robert F. Kennedy Jr., if confirmed by the Senate. Under his leadership, the FDA may introduce reforms to expedite the approval of medical cures and treatments, aligning with Trump's vision of cutting bureaucratic red tape. (With inputs from agencies.) ALSO READ [Maharashtra IMA Pushes for Healthcare Reforms and Safety Measures](/article/headlines/3149668-maharashtra-ima-pushes-for-healthcare-reforms-and-safety-measures)[Niger’s Road to Recovery: Economic and Educational Reforms for Sustainable Growth](/article/law-order/3149735-nigers-road-to-recovery-economic-and-educational-reforms-for-sustainable-growth)[UNHRC Urges Human Rights Reforms in Pakistan Amid Rising Concerns](/article/international/3149675-unhrc-urges-human-rights-reforms-in-pakistan-amid-rising-concerns)[Political Tensions Surge in Bangladesh: BNP's Call for Reforms Amid Interim Government](/article/politics/3150658-political-tensions-surge-in-bangladesh-bnps-call-for-reforms-amid-interim-government)[Czech Pension Reform: A New Era of Retirement](/article/business/3150555-czech-pension-reform-a-new-era-of-retirement)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Martin Makary",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U.S. Food and Drug Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johns Hopkins Hospital",
+                "sentiment": "none"
+            },
+            {
+                "name": "FDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:17:37.797+02:00",
+    "updated": "2024-11-23T03:54:49.992+02:00"
+}

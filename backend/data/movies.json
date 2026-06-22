@@ -1,0 +1,14 @@
+{
+  "interstellar": {
+    "director": "Christopher Nolan",
+    "cast": ["Matthew McConaughey", "Anne Hathaway"],
+    "box_office": "$733 million",
+    "release_year": 2014
+  },
+  "avatar": {
+    "director": "James Cameron",
+    "cast": ["Sam Worthington", "Zoe Saldana"],
+    "box_office": "$2.923 billion",
+    "release_year": 2009
+  }
+}

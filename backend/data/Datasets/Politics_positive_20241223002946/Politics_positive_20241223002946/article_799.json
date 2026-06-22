@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "b3c3606adc14d25f0ea0a5abb268f467cb0abc83",
+        "url": "https://www.thenews.com.pk/print/1254025-449-new-posts-of-sub-inspectors-approved",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk/today",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "Today's Newspaper - Latest News, Top Headlines, Breaking News - thenews.com.pk",
+        "title": "449 new posts of sub-inspectors approved",
+        "title_full": "449 new posts of sub-inspectors approved",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254025_050301_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b3c3606adc14d25f0ea0a5abb268f467cb0abc83",
+    "url": "https://www.thenews.com.pk/print/1254025-449-new-posts-of-sub-inspectors-approved",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Our Correspondent",
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "449 new posts of sub-inspectors approved",
+    "text": "LAHORE : The Punjab Home Department Friday approved 449 new posts for sub-inspectors (SIs).\nAccording to details, the approval was granted for the creation of SI posts in place of 449 traffic wardens (abolished).\nThe new posts will be filled based on departmental promotions according to merit and the posts are for Rawalpindi, Faisalabad, Multan, and Bahawalpur districts.\nAccording to Punjab Police spokesperson,\n125 posts have been approved for Rawalpindi region, 129 for Faisalabad region, 125 for Bahawalpur region, and 70 for Multan region.\nThe district-wise breakdown of the vacancies is: 70 for Rawalpindi, 20 for Attock, 18 for Jhelum, 17 for Chakwal, 75 for Faisalabad, 30 for Jhang, 13 for Toba Tek Singh, 11 for Chiniot, 37 for Multan, 13 for Vehari, 12 for Khanewal, 8 for Lodhran, 48 for Bahawalpur, 31 for Bahawalnagar, and 46 for Rahimyar Khan.\nPolice personnel detain supporters the Pakistan Tehreek-e-Insaf during a protest in Lahore on October 5, 2024. —...\nInspector General Police Punjab Dr Usman Anwar addressing an event on December 17, 2023. —...\nParticipants pose for a group photo during the 7th international conference on 'Mental Health and Rehabilitation:...\nVC Punjab University Prof Dr Muhammad Ali Shah assumes charge as the VC of Government College University , Lahore,...\nDG Youth Affairs and Sports Punjab Khizar Afzaal sits in a meeting image released on November 4, 2024. —...\nDIG Muhammad Faisal Kamran seen in this image. — lahorepolice.punjab.gov.pk/file LAHORE : DIG Muhammad Faisal...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rahimyar Khan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Usman Anwar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Punjab Home Department",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Vehari",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:53:43.265+02:00",
+    "updated": "2024-11-23T04:53:43.265+02:00"
+}

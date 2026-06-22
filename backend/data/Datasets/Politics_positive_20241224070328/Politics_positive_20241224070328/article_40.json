@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "82a654c021e34fd3392b79f50f74bd88ef787fe1",
+        "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-taps-former-white-house-aide-as-agriculture-chief-completing",
+        "site_full": "www.theglobeandmail.com",
+        "site": "theglobeandmail.com",
+        "site_section": "http://www.theglobeandmail.com",
+        "site_categories": [
+            "tech",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "The Globe and Mail: Canadian, World, Politics and Business News &amp; Analysis",
+        "title": "Trump taps former White House aide as agriculture chief, completing proposed slate of Cabinet secretaries - The Globe and Mail",
+        "title_full": "Trump taps former White House aide as agriculture chief, completing proposed slate of Cabinet secretaries - The Globe and Mail",
+        "published": "2024-11-23T21:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.theglobeandmail.com/resizer/v2/LD22OTRJEBGFVFUX36HXIFSXBY.jpg?auth=8bff90660a543df5f42761a98d1a03a8fa36792a8233bef33dcb8ddaaf464485&amp;width=1200&amp;height=800&amp;quality=80&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 607,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "82a654c021e34fd3392b79f50f74bd88ef787fe1",
+    "url": "https://www.theglobeandmail.com/world/us-politics/article-trump-taps-former-white-house-aide-as-agriculture-chief-completing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Bill Barrow, Adriana Gomez Licon And Zeke Miller",
+    "published": "2024-11-23T21:56:00.000+02:00",
+    "title": "Trump taps former White House aide as agriculture chief, completing proposed slate of Cabinet secretaries - The Globe and Mail",
+    "text": "The nomination must be confirmed by the Senate, which will be controlled by Republicans when Trump takes office Jan. 20, 2025",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:22:47.443+02:00",
+    "updated": "2024-11-24T04:20:21.649+02:00"
+}

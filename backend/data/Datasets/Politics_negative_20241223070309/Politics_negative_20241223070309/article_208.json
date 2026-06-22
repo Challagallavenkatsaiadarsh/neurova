@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "69cfe34d2b91c9c12b7d35ddb90d54c8f66720fd",
+        "url": "https://news.bloomberglaw.com/daily-tax-report-state/nyc-proposal-to-restrict-property-tax-challenges-draws-fire",
+        "site_full": "news.bloomberglaw.com",
+        "site": "bloomberglaw.com",
+        "site_section": "https://news.bloomberglaw.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Bloomberg Law News",
+        "title": "NYC Proposal to Restrict Property Tax Challenges Draws Fire",
+        "title_full": "NYC Proposal to Restrict Property Tax Challenges Draws Fire",
+        "published": "2024-11-23T00:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+        "performance_score": 0,
+        "domain_rank": 2125,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "69cfe34d2b91c9c12b7d35ddb90d54c8f66720fd",
+    "url": "https://news.bloomberglaw.com/daily-tax-report-state/nyc-proposal-to-restrict-property-tax-challenges-draws-fire",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Danielle Muoio Dunn",
+    "published": "2024-11-23T00:05:00.000+02:00",
+    "title": "NYC Proposal to Restrict Property Tax Challenges Draws Fire",
+    "text": "New York City real estate lawyers fought back Friday against a Department of Finance proposal to limit how taxpayers can challenge property assessments that determine their yearly tax bills.\nThe department said in its [rule notice](https://rules.cityofnewyork.us/rule/amendment-of-rules-relating-to-request-for-review-process-and-clerical-error-administrative-review-process/) that it aims to “reorganize and consolidate” two processes for arguing against assessments and taxation, at least in part to limit the city’s exposure to prolonged protests. But tax attorneys said at a hearing on the proposal that the revisions unfairly make it harder to contest assessments that can result in higher tax bills.\nAttorneys criticized proposed limitations, including reduced time for challenging clerical ...\nLearn more about Bloomberg Tax or Log In to keep reading:\nLearn About Bloomberg Tax\nFrom research to software to news, find what you need to stay ahead.\nAlready a subscriber?\nLog in to keep reading or access research tools.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://rules.cityofnewyork.us/rule/amendment-of-rules-relating-to-request-for-review-process-and-clerical-error-administrative-review-process/",
+        "https://rules.cityofnewyork.us/rule/amendment-of-rules-relating-to-request-for-review-process-and-clerical-error-administrative-review-process",
+        "https://www.rules.cityofnewyork.us/rule/amendment-of-rules-relating-to-request-for-review-process-and-clerical-error-administrative-review-process/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Department of Finance",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "69cfe34d2b91c9c12b7d35ddb90d54c8f66720fd",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:26:13.923+02:00",
+    "updated": "2024-11-23T00:26:13.923+02:00"
+}

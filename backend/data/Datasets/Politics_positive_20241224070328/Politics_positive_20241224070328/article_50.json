@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "f913392d6c1d02c52ff730db41e12d7105adefc2",
+        "url": "https://www.thedailystar.net/news/bangladesh/news/form-resistance-against-discriminations-3760101",
+        "site_full": "www.thedailystar.net",
+        "site": "thedailystar.net",
+        "site_section": "https://thedailystar.net/news/bangladesh",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Bangladesh | The Daily Star",
+        "title": "Form resistance against discriminations",
+        "title_full": "Form resistance against discriminations",
+        "published": "2024-11-23T20:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "BD",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 5236,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f913392d6c1d02c52ff730db41e12d7105adefc2",
+    "url": "https://www.thedailystar.net/news/bangladesh/news/form-resistance-against-discriminations-3760101",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Correspondent",
+    "published": "2024-11-23T20:00:00.000+02:00",
+    "title": "Form resistance against discriminations",
+    "text": "Form resistance against discriminations\nTo create a discrimination-free Bangladesh, resistance must be built against those promoting inequality, said Prof Anu Muhammad yesterday.\nHe also said inclusivity cannot be achieved by exploiting and depriving the working-class people.\nAnu Muhammad, former professor of economics at Jahangirnagar University, made the remarks addressing a rally, titled \"Unity in Diversity,\" organised by civic platform Gonotantrik Odhikar Committee at the Central Shaheed Minar in the capital.\n\"We have seen garment workers fighting for their arrears for a long time, which is a just demand. There has also been unrest over battery-run auto-rickshaws, which provide livelihoods to a large number of people. The government can take the initiative to fix the defects in these vehicles. But why will those be banned?\" said Anu Muhammad.\n\"We know this government has an anti-discrimination stance, but we have not seen any signs of it yet. At this rally, we want to convey the message that Bangladesh is a country of many races, religions, and languages,\" he added.\nAt the programme, Mikel Changma of United People's Democratic Front said, \"The government that came to power has been oppressing the people of our Chittagong Hill Tracts.\"\n\"Even after a 'second independence,' we have witnessed with great pain that the CHT remains in the same condition,\" he added.\nHe called for an end to military rule in the CHT, the establishment of democratic governance, and the resolution of land disputes.\nThe rally featured songs by ethnic communities, performances of Hijra community artists, and many others. There were also dramas, dances, and various other performances.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Anu Muhammad",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jahangirnagar University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Central Shaheed Minar",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:28:45.289+02:00",
+    "updated": "2024-11-24T00:28:45.289+02:00"
+}

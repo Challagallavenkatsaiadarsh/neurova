@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "3933a11aa209c38dff08faac85531e92c493e2c6",
+        "url": "https://www.hellenicshippingnews.com/kremlin-says-new-u-s-sanctions-are-an-attempt-to-hinder-russian-gas-exports",
+        "site_full": "www.hellenicshippingnews.com",
+        "site": "hellenicshippingnews.com",
+        "site_section": "https://www.hellenicshippingnews.com",
+        "site_categories": [
+            "shopping"
+        ],
+        "section_title": "Hellenic Shipping News Worldwide | Hellenic Shipping News Worldwide, Online Daily Newspaper on Hellenic and International Shipping",
+        "title": "Kremlin says new U.S. sanctions are an attempt to hinder Russian gas exports",
+        "title_full": "Kremlin says new U.S. sanctions are an attempt to hinder Russian gas exports",
+        "published": "2024-11-22T23:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "GR",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 19378,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3933a11aa209c38dff08faac85531e92c493e2c6",
+    "url": "https://www.hellenicshippingnews.com/kremlin-says-new-u-s-sanctions-are-an-attempt-to-hinder-russian-gas-exports",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T23:00:00.000+02:00",
+    "title": "Kremlin says new U.S. sanctions are an attempt to hinder Russian gas exports",
+    "text": "The Kremlin on Friday said that new U.S. sanctions on Russia’s Gazprombank were an attempt by Washington to hinder the export of Russian gas, but saida solution would be found.\nWashington imposed new sanctions on Gazprombank on Thursday that prevent the lender from handling any new energy-related transactions that touch the U.S. financial system, ban its trade with Americans and freeze its U.S. assets.\nGazprombank is one of Russia’s largest banks and is partially owned by Kremlin-owned gas company Gazprom GAZP.MM. Ukraine has been urging the U.S. to impose more sanctions on the bank, which receives payments for natural gas from Gazprom’s customers in Europe.\nAsked whether the sanctions were an effort to stop European buyers still wanting Russian gas from buying it and whether Russia would fight for the right to supply gas to them, Kremlin spokesman Dmitry Peskov said: “The answer to both parts of your question is yes.”\nPeskov said he could not yet answer questions on where future gas payments would be directed and whether Gazprombank would continue to maintain the accounts of foreign gas buyers.\n“Of course, options will be found,” he said. “Complete blocking measures against a country like Russia are impossible. It may take some time for this, but a solution will still be found.”\nSource: Reuters (Reporting by Dmitry Antonov; Writing by Alexander Marrow; editing by Guy Faulconbridge/Andrew Osborn)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Washin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dmitry Peskov",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Gazprombank",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kremlin",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:04:45.874+02:00",
+    "updated": "2024-11-23T01:04:45.874+02:00"
+}

@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "9da1f346bd6696025e0386ef7734cec12c3c9c4e",
+        "url": "https://guardian.ng/news/govt-monopoly-nbma-calls-for-independent-laboratories-on-gmos",
+        "site_full": "guardian.ng",
+        "site": "guardian.ng",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Govt monopoly: NBMA calls for independent laboratories on GMOs — News — The Guardian Nigeria News – Nigeria and World News",
+        "title_full": "Govt monopoly: NBMA calls for independent laboratories on GMOs — News — The Guardian Nigeria News – Nigeria and World News",
+        "published": "2024-11-22T22:35:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "NG",
+        "main_image": "https://guardian.ng/wp-content/uploads/2024/11/images-37.jpeg",
+        "performance_score": 0,
+        "domain_rank": 4695,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9da1f346bd6696025e0386ef7734cec12c3c9c4e",
+    "url": "https://guardian.ng/news/govt-monopoly-nbma-calls-for-independent-laboratories-on-gmos",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kareem Azeez",
+    "published": "2024-11-22T22:35:00.000+02:00",
+    "title": "Govt monopoly: NBMA calls for independent laboratories on GMOs — News — The Guardian Nigeria News – Nigeria and World News",
+    "text": "The Director General of National Biosafety Management Agency, Agnes Asagbara says independent laboratories should be allowed to also conduct tests on genetically modified products to break government monopoly\nBriefing the journalists on the state of biosafety in Abuja, Asagbara stressed that the recent attack on the agency by anti-GMO groups was baseless, saying, it is crucial to address the unfounded allegations and reassure the public of their unwavering commitment to safety.\nAsagbara also explained that genetically modified organism products approved by the agency must have undergone rigorous scientific scrutiny and followed by strict regulatory procedures to ensure they meet the global safety standards, but we still want third parties to be involved.\nThe Director General emphatically stated that the negative statements circulating in some sections of the press are not only misleading but lack credible scientific backing, and these anti-GMO groups aimed at spreading fear and misinformation in the public space.\n[Ad]\n“We ask these organizations to present verifiable scientific evidence for their claims. Our agency relies on sound scientific research and internationally recognized protocols to make informed decisions,” she emphasized.\n“Our mandate is to protect the health of Nigerians and the environment, and we will not compromise on this.It is important to understand that without the agency Nigeria would have become a dumping ground for unregulated, and potentially harmful GMO products.”\nAsagbara therefore argued that biotechnology offers us tools to address food security challenges, increase productivity, and combat climate change, adding that the agency is committed to promoting scientific literacy and acceptance of innovation.\n“We will continue to work tirelessly to ensure that our regulatory approaches are transparent, science-based, and in the best interest of Nigeria,” she added.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Agnes Asagbara",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "National Biosafety Management Agency",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:21:37.327+02:00",
+    "updated": "2024-11-23T00:21:37.327+02:00"
+}

@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "3f87b4f6e9f2d69bc78372be2f36699ca22037d2",
+        "url": "https://www.foxnews.com/politics/trump-picks-former-florida-rep-dr-dave-weldon-director-cdc",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://noticias.foxnews.com",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Trump picks former Florida Rep. Dr. Dave Weldon as director of CDC | Fox News",
+        "title_full": "Trump picks former Florida Rep. Dr. Dave Weldon as director of CDC | Fox News",
+        "published": "2024-11-23T03:09:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/gettyimages-74887883.jpg",
+        "performance_score": 0,
+        "domain_rank": 317,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f87b4f6e9f2d69bc78372be2f36699ca22037d2",
+    "url": "https://www.foxnews.com/politics/trump-picks-former-florida-rep-dr-dave-weldon-director-cdc",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Rumpf-Whitten",
+    "published": "2024-11-23T03:09:00.000+02:00",
+    "title": "Trump picks former Florida Rep. Dr. Dave Weldon as director of CDC | Fox News",
+    "text": "President-elect Trump announced that former Rep. Dr. Dave Weldon, R-Fla., is his pick as the director of the Centers for Disease Control and Prevention (CDC).\n\"In addition to being a Medical Doctor for 40 years, and an Army Veteran, Dave has been a respected conservative leader on fiscal and social issues, and served on the Labor/HHS Appropriations Subcommittee, working for Accountability on HHS and CDC Policy and Budgeting,\" Trump said in the Friday evening announcement.\n\"Dave also served in a leading role in Government Oversight and Reform Committee Hearings, addressing issues within HHS and CDC. Dave has successfully worked with the CDC to enact a ban on patents for human embryos,\" Trump said.\nTrump said that Dr. Weldon will play a key part in \"Making America Healthy Again,\" saying that he will work on correcting \"past errors.\"\n\"Americans have lost trust in the CDC and in our Federal Health Authorities, who have engaged in censorship, data manipulation, and misinformation,\" he said.\n\"Given the current Chronic Health Crisis in our Country, the CDC must step up and correct past errors to focus on the Prevention of Disease. The current Health of Americans is critical, and CDC will play a big role in helping to ensure Americans have the tools and resources they need to understand the underlying causes of diseases, and the solutions to cure these diseases,\" Trump added.\nGET TO KNOW DONALD TRUMP'S CABINET: WHO HAS THE PRESIDENT-ELECT PICKED SO FAR?\nTrump said that Dr. Weldon \"understands American Family Values.\"\n\"As a father of two and a husband of 45 years, Dave understands American Family Values, and views Health as one of utmost importance,\" he said. \"Dave will prioritize Transparency, Competence, and High Standards at CDC. Dave will proudly restore the CDC to its true purpose, and will work to end the Chronic Disease Epidemic, and Make America Healthy Again!\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dave Weldon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Scott J. Ferrell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CDC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Centers for Disease Control and Prevention",
+                "sentiment": "none"
+            },
+            {
+                "name": "HHS Appropriations Subcommittee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "R-Fla.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "3f87b4f6e9f2d69bc78372be2f36699ca22037d2",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:33:53.153+02:00",
+    "updated": "2024-11-23T10:01:00.189+02:00"
+}

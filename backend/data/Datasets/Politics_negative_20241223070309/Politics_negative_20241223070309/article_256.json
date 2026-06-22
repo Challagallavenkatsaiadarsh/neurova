@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "5a9165016a45cd107379638420b68482cefff524",
+        "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-senior-transit-pass-cost-change-budget-1.7391079",
+        "site_full": "www.cbc.ca",
+        "site": "cbc.ca",
+        "site_section": "https://www.cbc.ca/news/canada/ottawa",
+        "site_categories": [
+            "media",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Ottawa - CBC News",
+        "title": "Hike to seniors transit pass would be halved under new proposal | CBC News",
+        "title_full": "Hike to seniors transit pass would be halved under new proposal | CBC News",
+        "published": "2024-11-22T23:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://i.cbc.ca/1.7386057.1731938313!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/oc-transpo-confederation-line-1-lrt-hurdman-station.jpg",
+        "performance_score": 0,
+        "domain_rank": 342,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a9165016a45cd107379638420b68482cefff524",
+    "url": "https://www.cbc.ca/news/canada/ottawa/ottawa-senior-transit-pass-cost-change-budget-1.7391079",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "English",
+    "published": "2024-11-22T23:20:00.000+02:00",
+    "title": "Hike to seniors transit pass would be halved under new proposal | CBC News",
+    "text": "Ottawa city councillors are set to debate a 60 per cent hike to the monthly seniors transit pass which would see those riders pay $78.50 per month.\nThat's half the increase initially proposed for seniors passes in the 2025 draft budget, but it still goes much further than the five per cent hike to base fares.\nIn an email about the changes sent to councillors on Friday afternoon and reviewed by CBC News, Mayor Mark Sutcliffe alluded to considerable backlash .\nHe said the working group he's on that's tackling the substantial $120-million hole in the transit budget reviewed options and also decided to maintain one of two free transit days for seniors.\nSundays would no longer be free days.\nHere's where Ottawa's draft budget will cost you more City ready to reconsider 120% hike to transit passes for seniors, mayor says \"The City of Ottawa is committed to fostering affordability, accessibility, and inclusivity for all residents, especially seniors who rely heavily on public transit,\" reads the motion set to be debated at Monday's transit commission meeting.\n\"Maintaining free transit days on Wednesdays and adjusting the senior discount to 42% off the price of an adult monthly pass would align Ottawa more closely with similar cities and reflect the City's commitment to equitable transit access,\" it said.\nThe original plan has these fares for people age 65 and over go from from about $49 to $108 a month.\nThe mayor's email says low-income seniors will still be able to take advantage of the $58.25 EquiPass.\nCouncillors are set to direct staff to fund the change in fares with a $820,000 decrease in the amount of money the budget was directing to the transit capital reserve.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mark Sutcliffe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CBC News",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:30:49.350+02:00",
+    "updated": "2024-11-23T00:30:49.350+02:00"
+}

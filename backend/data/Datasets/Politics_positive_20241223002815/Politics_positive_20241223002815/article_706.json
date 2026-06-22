@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "6f8bf6977b15aa78dda8509ed4382f747e6ba2de",
+        "url": "https://gazette.com/news/us-world/investors-see-treasury-pick-bessent-as-calming-us-bond-market-worries/article_9a9dc408-bab6-5a0d-b4b2-7b59a2dd83c6.html",
+        "site_full": "gazette.com",
+        "site": "gazette.com",
+        "site_section": "https://investing.einnews.com:443/rss",
+        "site_categories": [
+            "media",
+            "education",
+            "business"
+        ],
+        "section_title": "Investing News",
+        "title": "Investors see Treasury pick Bessent as calming US bond market worries | U.S. & World | gazette.com",
+        "title_full": "Investors see Treasury pick Bessent as calming US bond market worries | U.S. & World | gazette.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/f/d3/fd3ca888-17a5-56f0-a1b7-ebf5e5b73fc5/6741075bf01bd.image.jpg?crop=800%2C420%2C0%2C56&amp;resize=800%2C420&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 5432,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f8bf6977b15aa78dda8509ed4382f747e6ba2de",
+    "url": "https://gazette.com/news/us-world/investors-see-treasury-pick-bessent-as-calming-us-bond-market-worries/article_9a9dc408-bab6-5a0d-b4b2-7b59a2dd83c6.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Investors see Treasury pick Bessent as calming US bond market worries | U.S. & World | gazette.com",
+    "text": "By Davide Barbuscia (Reuters) -President-elect Donald Trump's choice of Scott Bessent for Treasury secretary could lift some of the gloom that has pervaded the sagging U.S. government bond market in recent weeks, investors said. Trump on Friday said he had chosen Bessent, a prominent investor, as Treasury secretary, a key cabinet position with vast influence over economic, regulatory and international affairs. The selection comes after days of speculation that weighed on Treasury markets already dogged by worries over a potential rebound in inflation and increase in the federal budget deficit from Trump’s economic plans such as tax cuts and import tariffs. The benchmark U.S. 10-year yield, which moves inversely to bond prices, is hovering near a five-month high following a weeks-long selloff in Treasuries. Uncertainty over who would fill the Treasury role added to the selloff in recent days, investors said. “This is the big thing everyone’s been waiting for,” said Michael Purves, CEO of Tallbacken Capital Advisors in New York. “There was some level of anxiety priced in that Trump was going to pick someone who was not good or some kind of absolute tariff fanatic, so this is a very good answer for Wall Street.” The Treasury secretary oversees U.S. economic and tax policy, and Trump's nominee will be tasked with carrying out his plans. As a result, the investment world, from global bond traders to U.S. corporate treasurers, is keenly interested in his pick's economic views and the kind of counsel they will give Trump behind closed doors. \"The beauty of this nomination is that Bessent is a fiscal conservative,\" said Joe McCann, founder and CEO of cryptocurrency fund Assymetric. \"Since the election, 30-year bond yields have ripped higher, on the expectation that Donald Trump will bring about higher deficits,\" he said. \"Now this sets the stage for more fiscal discipline, which the market is really going to welcome.\" Bessent, who did not immediately respond to a request for comment, has advocated for tax reform and deregulation, particularly to spur more bank lending and energy production, as noted in a recent opinion piece he wrote for The Wall Street Journal. Christopher Hodge, economist for U.S. at Natixis, hopes Bessent can present a markets-focused perspective that could mitigate the chances of extreme tariffs or a trade war. Trump has floated the idea of slapping a 60% tariff on Chinese goods and at least a 10% levy on all other imports. \"Someone attuned to markets will be able to convey the potential risks,\" Hodge said. Ed Al-Hussainy, senior interest rate strategist at Columbia Threadneedle, said any new Treasury secretary would come under scrutiny from investors eager to know the person's views on key aspects of the job, from managing the maturing structure of U.S. government debt to how the person would react in a recession or during episodes of global financial turmoil. “We have a lot of people who are very isolationist,” Al-Hussainy said, before the announcement. “So if the next secretary is an isolationist, a financial crisis outside of the U.S. probably gets a little bit worse as a result of that.” Investors are also focused on the new administration’s position on the independence of the Federal Reserve because central bank policy is a key factor in Treasury price moves. Trump in August said the president should have a \"say\" in Fed decisions, and according to media reports, his allies have drafted proposals to erode the Fed's independence. \"I hope the Fed stays independent because that’s good for the bond market,” said Campe Goodman, Wellington Management Company fixed income portfolio manager, earlier on Friday. (Reporting by Davide Barbuscia; Additional reporting by Saeed Azhar, Suzanne McGee and Ira Iosebashvili; Writing by Ira Iosebashvili; Editing by Cynthia Osterman and Leslie Adler)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Davide Barbuscia",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Michael Purves",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Reuters",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tallbacken Capital Advisors",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "6f8bf6977b15aa78dda8509ed4382f747e6ba2de",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:19:08.873+02:00",
+    "updated": "2024-11-23T04:19:08.873+02:00"
+}

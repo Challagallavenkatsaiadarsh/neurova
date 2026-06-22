@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "89bacbd14cae33f6db655fbb039230d1a49e2952",
+        "url": "https://whatreallyhappened.com/NEW/stories/us-senator-threatens-invasion-netherlands",
+        "site_full": "whatreallyhappened.com",
+        "site": "whatreallyhappened.com",
+        "site_section": "https://whatreallyhappened.com/NEW/rss.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "What Really Happened - The History The Government Hopes You Never Learn",
+        "title": "US senator threatens invasion of the Netherlands",
+        "title_full": "US senator threatens invasion of the Netherlands",
+        "published": "2024-11-22T23:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 19070,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "89bacbd14cae33f6db655fbb039230d1a49e2952",
+    "url": "https://whatreallyhappened.com/NEW/stories/us-senator-threatens-invasion-netherlands",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "MikeRivero",
+    "published": "2024-11-22T23:23:00.000+02:00",
+    "title": "US senator threatens invasion of the Netherlands",
+    "text": "US Senator Tom Cotton has lashed out at the International Criminal Court (ICC) over its decision to issue an arrest warrant for Israeli Prime Minister Benjamin Netanyahu. He invoked a US law which greenlights the use of military force against the Netherlands-based court.\nThe Republican senator threatened the ICC by referring to the American Service-Members’ Protection Act, informally referred to as the ‘Hague Invasion Act’, which permits the US president to use “all means necessary and appropriate” to free Americans or allied individuals detained at the request of the court.\nThe ICC on Thursday issued arrest warrants for Netanyahu and former Israeli Defense Minister Yoav Gallant, accusing them of war crimes and crimes against humanity in connection with the Gaza conflict. Chief prosecutor Karim Khan also announced similar charges against Hamas military leader Mohammed Deif.\nCotton condemned the ICC in a post on X on Thursday, branding it a “kangaroo court” and labeling its chief prosecutor, Karim Khan, a “deranged fanatic.”\n“Woe to him and anyone who tries to enforce these outlaw warrants. Let me give them all a friendly reminder: the American law on the ICC is known as The Hague Invasion Act for a reason. Think about it,” Cotton warned.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tom Cotton",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohammed Deif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            },
+            {
+                "name": "Karim Khan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Criminal Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hamas",
+                "sentiment": "none"
+            },
+            {
+                "name": "ICC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:22:21.492+02:00",
+    "updated": "2024-11-23T00:22:21.492+02:00"
+}

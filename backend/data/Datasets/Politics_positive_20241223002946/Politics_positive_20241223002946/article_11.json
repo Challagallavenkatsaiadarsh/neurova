@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "864123483c8d7e80bafede47501c5337a3820f01",
+        "url": "https://www.nbcnewyork.com/long-island/charges-dropped-pro-palestinian-protester-arrested-long-island-mask-ban/6010334",
+        "site_full": "www.nbcnewyork.com",
+        "site": "nbcnewyork.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Charges dropped against pro-Palestinian protester arrested under Long Island mask ban \\u2013 NBC New York",
+        "title_full": "Charges dropped against pro-Palestinian protester arrested under Long Island mask ban \\u2013 NBC New York",
+        "published": "2024-11-22T22:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.nbcnewyork.com/2024/10/Nassau-County-police-generic.jpg?quality=85&#038;strip=all&#038;resize=1200%2C675",
+        "performance_score": 0,
+        "domain_rank": 2383,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "864123483c8d7e80bafede47501c5337a3820f01",
+    "url": "https://www.nbcnewyork.com/long-island/charges-dropped-pro-palestinian-protester-arrested-long-island-mask-ban/6010334",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Philip Marcelo",
+    "published": "2024-11-22T22:51:00.000+02:00",
+    "title": "Charges dropped against pro-Palestinian protester arrested under Long Island mask ban \\u2013 NBC New York",
+    "text": "Prosecutors in New York dropped charges Friday against a kaffiyeh-wearing, pro-Palestinian protester who was among the first people arrested under a local face mask ban that’s stirred free speech concerns.\nNassau County District Attorney Anne Donnelly’s office confirmed it moved to dismiss the charges against Xavier Roa during a court hearing on Long Island.\n“The case was investigated extensively and upon conclusion NCDA determined that the allegations could not be proven beyond a reasonable doubt and moved to dismiss the charges,” spokesperson Nicole Turso said in a statement.\nRoa’s lawyer Geoffrey Stewart hailed the decision as a “big victory” for his client and “for civil liberties,” but argued the law itself “should be struck from the books.”\n“This case shows that the law can, and in all likelihood will be abused by law enforcement because the law is unconstitutionally vague,” he said in an email.\nStewart has maintained that Roa acted respectfully and complied with officers as he peacefully exercised his constitutionally protected free speech rights during a protest outside an orthodox synagogue in September.\nThe North Bellmore resident was detained under Nassau County’s Mask Transparency Act, which bans people from wearing masks to conceal their identity in public. It includes exemptions for people who wear masks “for health, safety, religious or cultural purposes.”\nThe county’s Republican-controlled Legislature approved the law in August in response to “antisemitic incidents, often perpetrated by those in masks” since the start of the Israel-Hamas war last year.\nRoa, who faced up to a year in jail and a $1,000 fine if convicted of the misdemeanor charge, was the first protester arrested under the ban.\nThe New York chapter of the Council on American-Islamic Relations and other groups denounced it at the time as proof that the local law was being used as a “silencing tactic” against Palestinian supporters.\nNassau County police said Roa had been attempting to conceal his identity as he led others in pro-Palestinian chants. They also said he told officers he was wearing the scarf in solidarity with Palestinians and not for exempted medical or religious purposes.\nIn videos showing some of the arrest, Roa wears the kaffiyeh around his neck as he’s led away in handcuffs.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Geoffrey Stewart",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anne Donnelly",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nicole Turso",
+                "sentiment": "none"
+            },
+            {
+                "name": "Xavier Roa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NBC New York Prosecutors",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            },
+            {
+                "name": "Island",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:27.875+02:00",
+    "updated": "2024-11-23T13:57:59.020+02:00"
+}

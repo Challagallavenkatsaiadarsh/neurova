@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "1f57d270dd2431fba0bdcbfc39a6b0b0335165c0",
+        "url": "https://taiwannews.com.tw/news/5978052",
+        "site_full": "taiwannews.com.tw",
+        "site": "taiwannews.com.tw",
+        "site_section": "https://taiwannews.com.tw",
+        "site_categories": [
+            "top_news_tw",
+            "top_news"
+        ],
+        "section_title": "Taiwan News - Voice of the People, Bridge to the World",
+        "title": "Tsai Ing-wen urges global support for Taiwan Strait peace | Taiwan News | Nov. 24, 2024 10:04",
+        "title_full": "Tsai Ing-wen urges global support for Taiwan Strait peace | Taiwan News | Nov. 24, 2024 10:04",
+        "published": "2024-11-24T04:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TW",
+        "main_image": "https://image.taiwannews.com.tw/2024%2F11%2F24%2F8d13c05a083e4ddba4bd2eab23a6a7d9.png",
+        "performance_score": 0,
+        "domain_rank": 5675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 1,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f57d270dd2431fba0bdcbfc39a6b0b0335165c0",
+    "url": "https://taiwannews.com.tw/news/5978052",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T04:04:00.000+02:00",
+    "title": "Tsai Ing-wen urges global support for Taiwan Strait peace | Taiwan News | Nov. 24, 2024 10:04",
+    "text": "TAIPEI (Taiwan News) — Former President Tsai Ing-wen (蔡英文) called for continued support for peace and stability in the Taiwan Strait on Saturday (Nov. 23).\nIn a speech at the Halifax International Security Forum (HISF), Tsai thanked the democratic community for its contributions and consistent support for peace in the Taiwan Strait, CNA [reported](https://www.cna.com.tw/news/aipl/202411240014.aspx). The former president noted the frequent reaffirmations that regional stability is essential to global peace and prosperity in G7 and EU summits.\nTsai also thanked nations including Canada for upholding freedom of navigation in the Taiwan Strait. Such actions are crucial for Taiwan’s safety and the broader international free trade system, she said.\nTsai reflected on Taiwan’s resilience over the past half-century amid challenges posed by China. Provocations and changing information environments have only made Taiwanese society more pragmatic, she said. As Taiwan strengthens its defense, it remains committed to working with regional stakeholders to find peaceful solutions and establish long-term stability.\nThe former president announced that the next HISF would be held in Taiwan next year. Taiwan looks forward to collaborating with all who share our vision and values, she said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cna.com.tw/news/aipl/202411240014.aspx",
+        "https://cna.com.tw/news/aipl/202411240014.aspx"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tsai Ing-wen",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Halifax International Security Forum",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Strait",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:15:12.655+02:00",
+    "updated": "2024-11-24T05:15:12.655+02:00"
+}

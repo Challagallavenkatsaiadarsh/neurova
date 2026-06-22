@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "8520ede2dab1249b1caa865944076332a4d58631",
+        "url": "https://www.ibtimes.com/tech-ceo-blasted-asking-candidates-pay-him-thousands-apply-unpaid-role-now-insists-it-was-just-3752347",
+        "site_full": "www.ibtimes.com",
+        "site": "ibtimes.com",
+        "site_section": "http://www.ibtimes.com/rss/economy/asia-pacific",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "International Business Times",
+        "title": "Tech CEO Blasted for Asking Candidates to Pay Him Thousands to Apply for Unpaid Role; Now Insists It Was Just a Stunt | IBTimes",
+        "title_full": "Tech CEO Blasted for Asking Candidates to Pay Him Thousands to Apply for Unpaid Role; Now Insists It Was Just a Stunt | IBTimes",
+        "published": "2024-11-23T00:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d.ibtimes.com/en/full/4563956/zomato-job-ad.png",
+        "performance_score": 0,
+        "domain_rank": 1159,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8520ede2dab1249b1caa865944076332a4d58631",
+    "url": "https://www.ibtimes.com/tech-ceo-blasted-asking-candidates-pay-him-thousands-apply-unpaid-role-now-insists-it-was-just-3752347",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "M.B. Mack",
+    "published": "2024-11-23T00:54:00.000+02:00",
+    "title": "Tech CEO Blasted for Asking Candidates to Pay Him Thousands to Apply for Unpaid Role; Now Insists It Was Just a Stunt | IBTimes",
+    "text": "A tech CEO is facing backlash after advertising a controversial job that required candidates to pay a hefty fee for the opportunity to work an unpaid role, only to later claim it was just a stunt.In a tweet posted November 20 by Zomato's CEO, Deepinder Goyal, he announced a unique opportunity for a chief of staff position at his company. However, the post came with one catch: candidates must pay 2 million rupees (roughly $23,670) and work without pay for the first year.The fee was purportedly intended for donation to the charity Feeding India, and the role was framed as a \"learning opportunity\" with the promise of significant career growth, CNN reported.Following the scrutiny, Goyal clarified that the requirement to pay a fee was a \"filter,\" designed to find candidates who saw the opportunity for more than just a job.\"We have received more than 18,000 applications. This wasn't just another hiring post. As some people pointed out, the 'you have to pay us 20 lacs' was just a filter, to find people who had the power to appreciate the opportunity of a fast track career, without getting bogged down by the constraints in front of them,\" Goyal wrote.Despite this clarification, the episode raised questions about privilege and exploitation, with many criticizing the CEO.\"Guys basically he is trying to uplift those who are already uplifted. A person who can pay 20 Lakh as a joining \"fee\" ( or forced charity), & Also can survive without salary would rarely be having the kind of 'Hunger' you are expecting,\" one user wrote.\"Had check for a moment if it's April 1 ... I'm OK with this being an unpaid 1 yr internship if you honestly call it that,\" another added.The role has now stopped accepting applications, with Goyal reviewing over the following week.Originally published by Latin Times",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.latintimes.com/topics/ceo",
+        "https://www.latintimes.com/topic/tech",
+        "https://edition.cnn.com/2024/11/21/business/zomato-job-for-fee-stunt-intl-hnk/index.html",
+        "https://www.latintimes.com/tech-ceo-blasted-asking-candidates-pay-him-thousands-apply-unpaid-role-now-insists-it-was-just-566820",
+        "https://x.com/deepigoyal/status/1859215826425159991",
+        "https://latintimes.com/topic/tech",
+        "https://www.x.com/deepigoyal/status/1859215826425159991",
+        "https://latintimes.com/topics/ceo",
+        "https://latintimes.com/tech-ceo-blasted-asking-candidates-pay-him-thousands-apply-unpaid-role-now-insists-it-was-just-566820",
+        "https://www.edition.cnn.com/2024/11/21/business/zomato-job-for-fee-stunt-intl-hnk/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deepinder Goyal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Zomato",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CNN",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:00:51.716+02:00",
+    "updated": "2024-11-23T05:22:42.627+02:00"
+}

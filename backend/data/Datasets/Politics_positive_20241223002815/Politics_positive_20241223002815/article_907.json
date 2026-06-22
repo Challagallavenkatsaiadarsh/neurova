@@ -1,0 +1,132 @@
+{
+    "thread": {
+        "uuid": "00ec83be8fb676063a7387418f672478aabdc802",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-election-results-2024-i-will-win-the-election-comfortably-says-shiv-sena-ubt-candidate-mahesh-sawant/articleshow/115586204.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "http://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Times of India",
+        "title": "Maharashtra Election Results 2024: I will win the election comfortably, says ​​Shiv Sena (UBT) candidate Mahesh Sawant | Mumbai News - Times of India",
+        "title_full": "Maharashtra Election Results 2024: I will win the election comfortably, says ​​Shiv Sena (UBT) candidate Mahesh Sawant | Mumbai News - Times of India",
+        "published": "2024-11-23T04:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115586469,width-1070,height-580,imgsize-1439278,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "00ec83be8fb676063a7387418f672478aabdc802",
+    "url": "https://timesofindia.indiatimes.com/city/mumbai/maharashtra-election-results-2024-i-will-win-the-election-comfortably-says-shiv-sena-ubt-candidate-mahesh-sawant/articleshow/115586204.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TOI City Desk",
+    "published": "2024-11-23T04:52:00.000+02:00",
+    "title": "Maharashtra Election Results 2024: I will win the election comfortably, says ​​Shiv Sena (UBT) candidate Mahesh Sawant | Mumbai News - Times of India",
+    "text": "NEW DELHI: As vote counting for the Maharashtra Assembly elections began on Saturday moring, several candidates visited Mumbai's Shree Siddhivinayak Temple to offer prayers.Shiv Sena (UBT) candidate from Mahim Assembly seat Mahesh Sawant also visited the shrine to offer prayes and expressed confidence that he will win the election comfortably.— PTI_News (@PTI_News) \\\"I will win the election comfortably. I don't consider Sada Sarvankar and Amit Thackeray as any challenge to me. I know that Sada Sarvankar was elected because of us. We used to work day and night for him during elections,\\\" said Sawant.Read more: Election Result 2024The Mahayuti alliance, comprising the BJP, Shiv Sena, and NCP, is competing with the MVA alliance, which includes Congress, Shiv Sena (UBT), and NCP (SP).Read more: Maharashtra Election Result 2024The polling for the Maharashtra Legislative Assembly took place on Wednesday. The voter turnout was recorded at 66.05%, higher than the 61% turnout in the 2019 assembly elections.Both the Mahayuti and MVA alliances see the increased voter turnout as a positive indicator for their respective campaigns.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amit Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sada Sarvankar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mahesh Sawant",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maharashtra Assembly",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Mumbai News - Times",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:35:14.826+02:00",
+    "updated": "2024-11-29T22:49:31.213+02:00"
+}

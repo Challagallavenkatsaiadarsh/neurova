@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "4125b51d5449a2e43d985d8e6ee8564585c96520",
+        "url": "https://www.gulf-times.com/article/695174/business/qatars-economic-fundamentals-are-strong-hsbc-economists",
+        "site_full": "www.gulf-times.com",
+        "site": "gulf-times.com",
+        "site_section": "https://www.gulf-times.com/rssFeed/2",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "Qatar’s economic fundamentals are strong: HSBC economists",
+        "title_full": "Qatar’s economic fundamentals are strong: HSBC economists",
+        "published": "2024-11-23T18:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "QA",
+        "main_image": "https://www.gulf-times.com/gulftimes/uploads/images/2024/11/23/thumbs/300x300/250910.jpg",
+        "performance_score": 0,
+        "domain_rank": 11290,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4125b51d5449a2e43d985d8e6ee8564585c96520",
+    "url": "https://www.gulf-times.com/article/695174/business/qatars-economic-fundamentals-are-strong-hsbc-economists",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "info@gulf-times.com (Gulf Times)",
+    "published": "2024-11-23T18:07:00.000+02:00",
+    "title": "Qatar’s economic fundamentals are strong: HSBC economists",
+    "text": "HSBC's top economists gathered in Doha to present their outlook for Qatar's economy at the bank's annual 'Economic Roadshow' event.\nThe successful engagement brought together key clients and stakeholders for a series of global, regional and local economic updates.\nThe economists highlighted Qatar's position as one of the few economies globally still growing above trend. The country's ongoing investments and economic diversification efforts were cited as key drivers of this strong performance.\nHSBC Qatar Chief Executive Abdul Hakeem Mostafawi commented: \"The insights shared by our economists underscore Qatar's economic resilience and growth potential. As Qatar continues to diversify and invest in key sectors, we see significant opportunities for global investors to be part of Qatar’s long-term growth.\"\nHSBC’s Chief Economist for CEEMEA Simon Williams added: \"Qatar's economic fundamentals remain strong, supported by prudent fiscal management and strategic investments. While global headwinds persist, Qatar is well-positioned to navigate these challenges and continue its growth trajectory.\"\nMore than 150 clients and business leaders in Doha attended the presentations which were made by the HSBC Global Research economics team which, in addition to Simon Williams, included Senior Economic Adviser, Stephen King and Global Economist, James Pomeroy.\nHSBC's top economists gathered in Doha to present their outlook for Qatar's economy at the bank's annual 'Economic Roadshow' event.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abdul Hakeem Mostafawi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Simon Williams",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "HSBC",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4125b51d5449a2e43d985d8e6ee8564585c96520",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:14:00.900+02:00",
+    "updated": "2024-11-24T07:14:00.900+02:00"
+}

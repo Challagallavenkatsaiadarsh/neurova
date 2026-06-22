@@ -1,0 +1,117 @@
+{
+    "thread": {
+        "uuid": "29893b9be91e35512e780018da7150938a3db8b1",
+        "url": "https://www.hindustantimes.com/cities/mumbai-news/cong-retains-nanded-lok-sabha-seat-in-nail-biting-finish-101732390640342.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Cong retains Nanded Lok Sabha seat in nail-biting finish",
+        "title_full": "Cong retains Nanded Lok Sabha seat in nail-biting finish",
+        "published": "2024-11-23T21:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/09/30/1600x900/Cities_2_1727682787081_1727682795666.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "29893b9be91e35512e780018da7150938a3db8b1",
+    "url": "https://www.hindustantimes.com/cities/mumbai-news/cong-retains-nanded-lok-sabha-seat-in-nail-biting-finish-101732390640342.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T21:07:00.000+02:00",
+    "title": "Cong retains Nanded Lok Sabha seat in nail-biting finish",
+    "text": "MUMBAI: In a nail-biting finish, the Congress retained the Nanded Lok Sabha seat in the by-poll that was simultaneously held with the state Assembly polls. Ravindra Chavan of the Congress defeated Santukrao Hambarde of the Bharatiya Janata Party (BJP) by just 1,457 votes. The poll was necessitated because of the death of Vasantrao Chavan, who died in August this year after having been elected to the Lok Sabha seat in June when he had defeated BJP’s sitting MP Prataprao Chikhalikar. The late leader’s son Ravindra Chavan was the Congress nominee this time and polled 586,788 votes, including 8,524 postal votes, against the 585,331 votes bagged by BJP candidate Hambarde. The poll authorities in the constituency had announced the BJP candidate’s victory after the counting of votes of all rounds. However, the Congress demanded re-counting of the votes, and the recounting of the postal ballot helped Chavan win by 1,457 votes. Chavan’s victory is significant for the Congress as all the nine Assembly seats in the Nanded district have been won by the Mahayuti. The victory has also helped the Congress in retaining its tally of 99 members in Parliament. The Vanchit Bahujan Aghadi candidate in the constituency, Avinash Bhosikar, polled 80,179 votes making it tougher for the Congress candidate to broaden the winning margin. “While all the Assembly seats in Nanded went to Mahayuti, Chavan retained the seat just because of the sympathy factor owing to the death of his father,” commented Santosh Kulkarni, a political analyst from Nanded.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ravindra Chavan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Santukrao Hambarde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vasantrao Chavan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Lok",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:45:33.223+02:00",
+    "updated": "2024-11-24T05:37:27.144+02:00"
+}

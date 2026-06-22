@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "0f798aec7ac014613534e963bc6919f13734da67",
+        "url": "https://www.dailywire.com/news/trump-taps-former-nfl-star-for-hud-secretary",
+        "site_full": "www.dailywire.com",
+        "site": "dailywire.com",
+        "site_section": "https://www.dailywire.com/feeds/rss.xml",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Daily Wire - Breaking News, Videos &amp; Podcasts",
+        "title": "Trump Taps Former NFL Star For HUD Secretary",
+        "title_full": "Trump Taps Former NFL Star For HUD Secretary",
+        "published": "2024-11-24T03:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dw-wp-production.imgix.net/2024/11/Scott-Turner-scaled.jpg?w=1200&amp;h=800&amp;ixlib=react-9.3.0",
+        "performance_score": 0,
+        "domain_rank": 4723,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0f798aec7ac014613534e963bc6919f13734da67",
+    "url": "https://www.dailywire.com/news/trump-taps-former-nfl-star-for-hud-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Saavedra",
+    "published": "2024-11-24T03:41:00.000+02:00",
+    "title": "Trump Taps Former NFL Star For HUD Secretary",
+    "text": "President-elect\n[Donald Trump](https://www.dailywire.com/topic/donald-trump) announced late this week that he has selected Scott Turner to be the next Secretary of Housing and Urban Development (HUD).\n“Scott is an NFL Veteran, who, during my First Term, served as the First Executive Director of the White House Opportunity and Revitalization Council (WHORC), helping to lead an Unprecedented Effort that Transformed our Country’s most distressed communities,” Trump said in a statement.\n“Those efforts, working together with former HUD Secretary, Ben Carson, were maximized by Scott’s guidance in overseeing 16 Federal Agencies which implemented more than 200 policy actions furthering Economic Development,” Trump continued. “Under Scott’s leadership, Opportunity Zones received over $50 Billion Dollars in Private Investment!”\nTurner said that he was “thrilled to continue the outstanding work we began in your last administration at HUD with an incredible team.”\n“I am deeply humbled by your confidence in my nomination,” Turner said. “I would also like to express the sincerest of gratitude to my mentor, Secretary @RealBenCarson. Few people are as compassionate and gracious as he is, and I am aware that I have big shoes to fill.”\n[CHECK OUT THE DAILY WIRE HOLIDAY GIFT GUIDE](https://get.dailywire.com/gift-guide/)\nTurner said that the men and women who were forgotten during the Biden-era will be honored during the Trump administration.\n“Lastly, I am eternally grateful to my wonderful wife Robin, my son Solomon, and the many incredible friends who have supported me on this journey,” he said. “We have an important mission ahead. To God be the glory. Let’s get to work!”\nThank you, Mr. President. I am thrilled to continue the outstanding work we began in your last administration at HUD with an incredible team. I am deeply humbled by your confidence in my nomination.\nI would also like to express the sincerest of gratitude to my mentor, Secretary…\n[pic.twitter.com/X2ZJLSrfGI]\n— Scott Turner (@sturnerofficial)\n[November 23, 2024]\nTurner played college football at the University of Illinois before being drafted in the seventh round of the 1995 NFL draft.\nHe played nine seasons in the NFL between the Washington Redskins, San Diego Chargers, and Denver Broncos.\nTurner later won an election to serve as a state representative in Texas.\n“Scott is the Founder & CEO of his Family’s Foundation, Community Engagement & Opportunity Council (CEOC), working to revitalize communities across America through Sports, Mentorship, and Economic Opportunity,” the Trump transition team added. “He is also on the Board of the American Cornerstone Institute, and an Associate Pastor at Prestonwood Baptist Church.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Turner",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ben Carson",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "HUD",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Revitalization Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "White House",
+                "sentiment": "none"
+            },
+            {
+                "name": "NFL",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "0f798aec7ac014613534e963bc6919f13734da67",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:57:55.407+02:00",
+    "updated": "2024-11-24T06:10:49.663+02:00"
+}

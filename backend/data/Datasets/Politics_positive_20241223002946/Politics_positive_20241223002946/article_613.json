@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "965bdcaa1f681387997e7e678031ddff88be6ba2",
+        "url": "https://democraticunderground.com/10143345186",
+        "site_full": "democraticunderground.com",
+        "site": "democraticunderground.com",
+        "site_section": "https://democraticunderground.com/?com=latest_threads",
+        "site_categories": [],
+        "section_title": "Latest Discussions - Democratic Underground Forums",
+        "title": "Trump Picks Key Figure in Project 2025 for Powerful Budget Role",
+        "title_full": "Trump Picks Key Figure in Project 2025 for Powerful Budget Role",
+        "published": "2024-11-23T03:29:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.democraticunderground.com/imgs/du100x100.gif",
+        "performance_score": 0,
+        "domain_rank": 10738,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "965bdcaa1f681387997e7e678031ddff88be6ba2",
+    "url": "https://democraticunderground.com/10143345186",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T03:29:00.000+02:00",
+    "title": "Trump Picks Key Figure in Project 2025 for Powerful Budget Role",
+    "text": "Source: NYTPresident-elect Donald J. Trump on Friday picked a key figure in Project 2025 to lead the Office of Management and Budget, elevating a longtime ally who has spent the last four years making plans to rework the American government to enhance presidential power. The would-be nominee, Russell T. Vought, would oversee the White House budget and help determine whether federal agencies comport with the presidents policies. The role requires Senate confirmation unless Mr. Trump is able to make recess appointments. The choice of Mr. Vought would bring in a strongly ideological figure who played a pivotal role in Mr. Trumps first term, when he also served as budget chief. Among other things, he helped come up with the idea of having Mr. Trump use emergency power to circumvent Congresss decision about how much to spend on a border wall. -snip- Mr. Voughts role in Project 2025 was to oversee executive orders and other unilateral actions that Mr. Trump could take during his first six months in office, with the goal of tearing down and rebuilding executive branch institutions in a way that would enhance presidential power. -snip-Read more: https://www.nytimes.com/2024/11/22/us/politics/russell-vought-office-of-management-and-budget.html",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nytimes.com/2024/11/22/us/politics/russell-vought-office-of-management-and-budget.html",
+        "https://nytimes.com/2024/11/22/us/politics/russell-vought-office-of-management-and-budget.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald J. Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Russell T. Vought",
+                "sentiment": "none"
+            },
+            {
+                "name": "Voughts",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trumps",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Office of Management and Budget",
+                "sentiment": "none"
+            },
+            {
+                "name": "White House",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:39:19.762+02:00",
+    "updated": "2024-11-23T03:39:19.762+02:00"
+}

@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "d310c22fad2a744c4a2608c430325027f2941eee",
+        "url": "https://www.arcamax.com/politics/opeds/s-3494332",
+        "site_full": "www.arcamax.com",
+        "site": "arcamax.com",
+        "site_section": "https://www.arcamax.com/politics/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "",
+        "title": "Editorial: Let's not let political chaos distract us from the unfolding climate catastrophe",
+        "title_full": "Editorial: Let's not let political chaos distract us from the unfolding climate catastrophe",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.arcamax.com/arcamax-200-icon.png",
+        "performance_score": 0,
+        "domain_rank": 34144,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d310c22fad2a744c4a2608c430325027f2941eee",
+    "url": "https://www.arcamax.com/politics/opeds/s-3494332",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ArcaMax Publishing, Inc.",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Editorial: Let's not let political chaos distract us from the unfolding climate catastrophe",
+    "text": "Editorial: Let's not let political chaos distract us from the unfolding climate catastrophe\nPublished in [Op Eds](/politics/opeds/)\nWith so much chaos in the world, from the United States’ slide toward authoritarianism to the wars in Gaza, Lebanon and Ukraine, you could be forgiven for not being focused on what’s going on this week in Baku, Azerbaijan.\nWorld leaders are gathered there for the annual United Nations climate talks. Their task at the summit, known as COP29, is arguably the most important one in the world: to determine how to execute and build on virtually every nation’s commitment to reduce fossil fuel combustion to protect humanity from a dire and growing threat.\nThis is no time to look away or diminish the urgency and importance of those pledges and imperatives.\nNegotiations this year are particularly concerned with how to raise up to $1 trillion a year in climate finance to help the world’s developing and vulnerable nations, which have caused little of the pollution that is heating up the planet but are already facing the brunt of the consequences. The rich countries that are overwhelmingly responsible for the crisis, having spewed far more greenhouse gases into the atmosphere, are predictably resistant to paying more.\nAs the conference approached its scheduled end this week, the U.N.’s climate chief chided negotiators for digging in their heels and wasting time with bluffing and brinkmanship. Even if a strong agreement is hammered out, there is no real assurance against backtracking. The agreement that emerged from last year’s conference called for “transitioning away” from fossil fuels for the first time, but a year later, countries have made no substantial progress on doing so.\nThe backdrop of these talks isn’t exactly encouraging, either. They’re being held in a petrostate for the third year in a row and are again awash with fossil fuel lobbyists. The host country, whose president told conference attendees that oil and gas are a “ gift of God,” plans to ramp up fossil fuel production over the next decade. Some nations and corporations, meanwhile, have been retreating from their climate commitments.\nIt doesn’t help that Donald Trump, president-elect of the world’s largest historical carbon emitter, has a long history of making false statements about climate science and renewable energy. He has announced a series of Cabinet choices who have misrepresented the reality of climate change. His pick for Energy secretary, oil and gas services executive Chris Wright, has falsely asserted that “there is no climate crisis” and “there is no such thing as clean energy or dirty energy.”\nBut just as we can’t outrun the laws of physics that underlie global warming, we can’t afford more delay in ending the dangerous burning of fossil fuels. None of our procedural, political or financial excuses for inaction mean anything if we continue to pump the atmosphere full of greenhouse gases that endanger life on this planet as we know it.\nThis year is already expected to be the hottest in recorded history, while global carbon emissions are on track to increase an additional 0.8%, reaching another record high. U.N. Secretary-General António Guterres called 2024 a “master class in climate destruction.”\nEarth has already warmed 2.3 degrees Fahrenheit since the preindustrial era and is on track to heat up a total of 4.7 to 5.6 degrees. That ensures more deadly and destructive heat waves, storms, floods and droughts unless we do more, fast, to drive down emissions.\nIs there hope? Of course. Electric vehicles are spreading rapidly across the world, and renewable sources such as wind and solar accounted for 30% of global energy generation last year — a figure expected to grow even faster this year. We are still in the early stages of a generational shift toward a new and better energy system, and it seems clear that we’re never going back to the dirty, fossil-fueled economy of the past. As Guterres said last week, “The clean energy revolution is here. No group, no business and no government can stop it.”\nBut world leaders need to act quickly and decisively to accelerate the transition. Renewable energy must continue to grow dramatically to outpace rising demand for electricity as economies shift to carbon-free vehicles and appliances.\nPolitical setbacks, missed targets and failed ambitions are certainly alarming and demoralizing in the context of such a threat. But we must keep up the fight. Every ton of pollution and fraction of a degree of warming we can prevent will reduce human suffering and ecological damage. If we take action, we don’t need to resign ourselves to the worst possible future.\n©2024 Los Angeles Times. Visit at latimes.com. Distributed by Tribune Content Agency, LLC.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:20:51.016+02:00",
+    "updated": "2024-11-23T01:20:51.016+02:00"
+}

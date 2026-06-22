@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "5a249b4c266819140cbf077a43d1f16292f3dfb9",
+        "url": "https://www.kfvs12.com:443/2024/11/22/state-lawmakers-mull-sheriff-prosecutor-retirement-funding-after-amendment-6-defeat",
+        "site_full": "www.kfvs12.com",
+        "site": "kfvs12.com",
+        "site_section": "https://kfvs12.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "KFVS12 | Heartland News, Weather, and Sports | Cape Girardeau, MO",
+        "title": "State lawmakers mull sheriff, prosecutor retirement funding after Amendment 6 defeat",
+        "title_full": "State lawmakers mull sheriff, prosecutor retirement funding after Amendment 6 defeat",
+        "published": "2024-11-23T00:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gray-kfvs12-prod.gtv-cdn.com/resizer/v2/OVH2NXVIAJHYXNTJTFLYU23HOQ.png?auth=f3748fa0b4770e7667e6cec270a4f01bd72523bed8ab3529ac8dd904b7b12b72&amp;width=1200&amp;height=600&amp;smart=true",
+        "performance_score": 0,
+        "domain_rank": 18101,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a249b4c266819140cbf077a43d1f16292f3dfb9",
+    "url": "https://www.kfvs12.com:443/2024/11/22/state-lawmakers-mull-sheriff-prosecutor-retirement-funding-after-amendment-6-defeat",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@kfvsnews",
+    "published": "2024-11-23T00:49:00.000+02:00",
+    "title": "State lawmakers mull sheriff, prosecutor retirement funding after Amendment 6 defeat",
+    "text": "State lawmakers mull sheriff, prosecutor retirement funding after Amendment 6 defeat\nWith fees still deemed unconstitutional, legislators seek alternative revenue solutions\nJEFFERSON CITY, Mo. (KFVS) - After Missouri voters rejected Amendment 6 in the 2024 general election, the Missouri Sheriff’s Retirement System is once again at risk of impending insolvency if state lawmakers fail to find a new funding alternative.\nAn initial projection by the MSRS said it would effectively dry up within the next decade. Since that projection, county sheriffs began contributing 5% of their salaries into the system, contributing less than $500,000 of the $3.1 million needed each year to fully fund the pensions of Missouri’s retired sheriffs and county prosecutors.\n“I think the sheriffs have a very moderate system, and so I think it’s one that could be easily corrected, but it needs to be done sooner than later, because the more it drags out, the bigger hole you dig into it,” said State Rep. Barry Hovis, R-Whitewater, who chairs the House Committee on Pensions. “I think it’s important that we be able to fix this, and we’ll just have to look at some alternative measures out there.”\nHovis said his committee will put a high priority on finding those alternatives in the upcoming legislative session.\nThe committee’s ranking Democrat said the system is likely going to need a major, if not complete, overhaul.\n“Basically, now we’re going to be creating a new pension system midway down the road, and so there’s going to be a lot of negotiation into how to fine-tune making that happen,” Clemens said. “Now, we’ve got some road maps and other public pensions to help us through that but, we’re still going to have to create basically a new pension system, and we see the sheriffs are already participating, and that’s the thing that we need to have happen. It’s about the employer participating.”\nThe Missouri Sheriff’s Retirement System is currently 73% funded, according to officials.\nMissouri employs 116 sheriffs, about 10% of whom retire each year.\nCopyright 2024 KFVS. All rights reserved.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Barry Hovis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "House Committee on Pensions",
+                "sentiment": "none"
+            },
+            {
+                "name": "MSRS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:01:13.046+02:00",
+    "updated": "2024-11-23T01:01:13.046+02:00"
+}

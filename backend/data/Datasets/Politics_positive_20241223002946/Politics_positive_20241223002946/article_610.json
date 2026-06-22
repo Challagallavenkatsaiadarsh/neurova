@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "a2064c626fa0d5a7f82f05cd41b812826fc37553",
+        "url": "https://dallasvoice.com/trump-nominates-gay-man-for-treasury-secretary",
+        "site_full": "dallasvoice.com",
+        "site": "dallasvoice.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Trump nominates gay man for Treasury secretary",
+        "title_full": "Trump nominates gay man for Treasury secretary",
+        "published": "2024-11-23T03:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://dallasvoice.com/wp-content/uploads/2024/11/Bassent.jpg",
+        "performance_score": 0,
+        "domain_rank": 48855,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a2064c626fa0d5a7f82f05cd41b812826fc37553",
+    "url": "https://dallasvoice.com/trump-nominates-gay-man-for-treasury-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tammye",
+    "published": "2024-11-23T03:33:00.000+02:00",
+    "title": "Trump nominates gay man for Treasury secretary",
+    "text": "Donald Trump announced today (Friday, Nov. 22) that he is nominating hedge fund executive Scott Besent, a top fundraising for the Trump campaign, to serve as secretary of the Treasury in his second administration. Bessent is a married gay man with two children. Charles Moran, president of Log Cabin Republicans, hailed Bessent’s nomination as “a reminder of President Trump’s love and respect for LGBT Americans.”\nIn a statement announcing his nomination of Bessent, Trump said Bessent will “help me usher in a new Golden Age for the United States.”\n“Unlike in past administrations, we will ensure than no Americans will be left behind in the next and greatest economic boom, and Scott will lead that effort for me,” the statement continued.\nMoran, in a statement issued after Trump’s announcement, called Bessent “a terrific choice to become the next Treasury secretary,” adding that “Log Cabin Republicans applaud President Trump for his pick.”\nMoran continued, “As one of the most brilliant minds in the financial space and a vocal supporter of President Trump’s economic agenda, Bessent will be a strong asset to help President Trump put America back on the path to financial security and economic prosperity. His nomination is another step in President Trump’s steadfast determination to fill his administration with the most qualified people for the job who can help carry out his agenda. … The Log Cabin Republicans looks forward to working with Bessent and other LGBT allies who have been asked to serve in his administration, like RFK Jr., Pam Bondi, Tulsi Gabbard, Matt Whitaker and others, to carry out President Trump’s agenda.”\nBessent currently serves as chief executive and chief investment officer at the New York-based hedge fund Key Square Capital Management, which he founded in 2015, according to NBC News . Before establishing the hedge fund, Bessent was the top investment officer for Soros Fund Management from 2011 to 2015. He worked as managing partner of Soros Fund Management’s London office from 1991 to 2000 and taught economic history as an adjunct professor at his alma mater, Yale University, from 2006 to 2010.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcnews.com/politics/donald-trump/trump-picks-scott-bessent-serve-treasury-secretary-rcna180171",
+        "https://nbcnews.com/politics/donald-trump/trump-picks-scott-bessent-serve-treasury-secretary-rcna180171"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bese",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Charles Moran",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bessent",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:38:04.266+02:00",
+    "updated": "2024-11-23T04:27:50.467+02:00"
+}

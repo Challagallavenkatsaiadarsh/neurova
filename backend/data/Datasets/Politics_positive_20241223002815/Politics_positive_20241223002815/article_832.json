@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "f4f78d0e46a926d7b426e2b38f0df1a0f6439ebb",
+        "url": "https://www.amnesty.org/en/latest/news/2024/11/states-must-negotiate-robust-treaty-crimes-against-humanity-after-resolution",
+        "site_full": "www.amnesty.org",
+        "site": "amnesty.org",
+        "site_section": "https://www.amnesty.org/en/latest/news",
+        "site_categories": [
+            "society"
+        ],
+        "section_title": "News Archives - Amnesty International",
+        "title": "Global: States must negotiate a robust treaty on crimes against humanity after breakthrough resolution",
+        "title_full": "Global: States must negotiate a robust treaty on crimes against humanity after breakthrough resolution",
+        "published": "2024-11-23T01:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://www.amnesty.org/en/wp-content/uploads/2024/07/64298-1024x683.jpg",
+        "performance_score": 0,
+        "domain_rank": 953,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f4f78d0e46a926d7b426e2b38f0df1a0f6439ebb",
+    "url": "https://www.amnesty.org/en/latest/news/2024/11/states-must-negotiate-robust-treaty-crimes-against-humanity-after-resolution",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@amnesty",
+    "published": "2024-11-23T01:20:00.000+02:00",
+    "title": "Global: States must negotiate a robust treaty on crimes against humanity after breakthrough resolution",
+    "text": "In response to the UN General Assembly’s Sixth Committee adopting a resolution to advance to formal negotiations over a Convention on the Prevention and Punishment of Crimes against Humanity, Amnesty International’s Secretary General, Agnès Callamard, said:\n“This a vital and encouraging step towards strengthening international law and global cooperation in combatting crimes against humanity. It is long overdue and all the more welcome at a time when too many states are intent on wrecking international law and universal standards. It is a clear sign that states are ready to reinforce the international justice framework and clamp down on safe havens from investigation and prosecution for perpetrators of these heinous crimes.\n“After years of informal discussions, UN Member States must now negotiate a robust convention to both prevent and punish crimes against humanity. The treaty would be a powerful and essential tool for supporting victims and survivors in securing justice, truth and reparation. We urge states to seize this unique opportunity to fill glaring gaps in international law, to better combat impunity and deter potential perpetrators.\nThis a vital and encouraging step towards strengthening international law and global cooperation in combatting crimes against humanity.\nAgnès Callamard, Amnesty International’s Secretary General\n“While it is disappointing that the timeline for preparations and negotiations has now been extended and scheduled for 2026 to 2029, and potentially beyond that, what’s important is that this process will deliver a viable convention.\n“We call on states to ensure that victims and survivors, as well as civil society at large, can meaningfully and effectively participate in the negotiation process. We will do everything in our power to make sure the future convention is as strong and protective of human rights as possible.”\nThe resolution in the Sixth Committee to advance to formal negotiations on the treaty was introduced by 99 co-sponsoring states and adopted by consensus.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Agnès Callamard",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "UN General Assembly",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Amnesty International",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f4f78d0e46a926d7b426e2b38f0df1a0f6439ebb",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:06:59.046+02:00",
+    "updated": "2024-11-23T05:06:59.046+02:00"
+}

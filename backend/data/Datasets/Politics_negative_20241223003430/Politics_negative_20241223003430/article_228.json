@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "f12ff448edd7aceab2626f55e923ecb74b9d5655",
+        "url": "https://www.newsmax.com/finance/streettalk/trump-oil-gas/2024/11/22/id/1189126",
+        "site_full": "www.newsmax.com",
+        "site": "newsmax.com",
+        "site_section": "https://newsmax.com/finance",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "\r\n\tNewsmax Finance | Business News - Financial Saving &amp; Investing | Newsmax.com\r\n",
+        "title": "JPMorgan Sees Drop in Oil Prices Under Trump | Newsmax.com",
+        "title_full": "JPMorgan Sees Drop in Oil Prices Under Trump | Newsmax.com",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=3b8ff7a7-c0b7-44ba-8788-8e1e2905beff&amp;SiteName=Newsmax",
+        "performance_score": 0,
+        "domain_rank": 2382,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f12ff448edd7aceab2626f55e923ecb74b9d5655",
+    "url": "https://www.newsmax.com/finance/streettalk/trump-oil-gas/2024/11/22/id/1189126",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@newsmax",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "JPMorgan Sees Drop in Oil Prices Under Trump | Newsmax.com",
+    "text": "Friday, 22 November 2024 04:56 PM EST\nJ.P.Morgan Friday predicted a decline in oil prices during President-elect Donald Trump's upcoming term, citing his commitment to defeating inflation by reducing energy prices. The investment bank anticipates a large surplus of 1.3 million barrels per day and an average Brent price of $73 in 2025, falling to below $60 by 2026.\nHowever, it expects prices to end 2025 below $70, with West Texas Intermediate at $64. By 2026, the average Brent forecast is $61 and WTI at $57, assuming that OPEC+ maintains current production levels.\nThe bank sees global oil demand growth decelerating from 1.3 mbd this year to 1.1 mbd next year, adding that China is expected to lead oil demand growth for the last time before India takes the lead in 2026.\n\"Trump’s energy agenda presents downside risks to oil prices from deregulation and increased U.S. production, while also posing upside risks by exerting pressure on Iran, Venezuela, and possibly Russia to limit their oil exports and revenues,\" J.P.Morgan said.\nIn 2026, some OPEC members may consider increasing oil production, given the pattern of periodic oil market volatility over the past decade, particularly in 2014 and 2020.\nThis could potentially trigger another market reset starting in 2026, the bank noted. The Organization of the Petroleum Exporting Countries and its allies led by Russia, the group known as OPEC+, which pumps around half the world's oil, has already delayed a plan to gradually lift production by several months this year.\nOPEC+ members are slated to convene on Dec. 1. Brent futures rose 94 cents, or 1.3%, to settle at $75.17 a barrel. U.S. West Texas Intermediate crude rose $1.14, or 1.6%, to settle at $71.24.\n© 2024 Thomson/Reuters. All rights reserved.\nReceive breaking news and original analysis - sent right to your inbox.\nNewsmax, Moneynews, Newsmax Health, and Independent. American. are registered trademarks of Newsmax Media, Inc. Newsmax TV, and Newsmax World are trademarks of Newsmax Media, Inc.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:28:00.491+02:00",
+    "updated": "2024-11-23T00:28:00.491+02:00"
+}

@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "380cf094c050d949fc17e3269620d1f296e4d758",
+        "url": "https://www.etvbharat.com/en/!state/west-bengal-by-election-results-2024-tmc-bjp-cpim-congress-naihati-haroa-medinipur-taldangra-sitai-madarihat-winners-enn24112300692",
+        "site_full": "www.etvbharat.com",
+        "site": "etvbharat.com",
+        "site_section": "https://etvbharat.com/en/_lok-sabha-elections-2024",
+        "site_categories": [],
+        "section_title": "ETV Bharat News",
+        "title": "West Bengal By-election Results 2024: TMC Leads In All 6 Assembly Seats",
+        "title_full": "West Bengal By-election Results 2024: TMC Leads In All 6 Assembly Seats",
+        "published": "2024-11-23T03:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/23-11-2024/1200-675-22960245-150-22960245-1732333684063.jpg",
+        "performance_score": 0,
+        "domain_rank": 60830,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "380cf094c050d949fc17e3269620d1f296e4d758",
+    "url": "https://www.etvbharat.com/en/!state/west-bengal-by-election-results-2024-tmc-bjp-cpim-congress-naihati-haroa-medinipur-taldangra-sitai-madarihat-winners-enn24112300692",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ETV Bharat",
+    "published": "2024-11-23T03:30:00.000+02:00",
+    "title": "West Bengal By-election Results 2024: TMC Leads In All 6 Assembly Seats",
+    "text": "Kolkata: The TMC was surging ahead of its rivals in all six Assembly seats as counting of postal ballots and the EVM votes for the West Bengal bypolls was underway, on Saturday.\nThe counting of votes began at 8 am.\nThe constituencies that went to the polls are Naihati, Haroa, Medinipur, Taldangra, Sitai (SC), and Madarihat (ST).\nAccording to our reporters from the ground, TMC was leading in Naihati constituency in North 24 Parganas and Taldangra constituency in Bankura.\nThe Election Commission, however, is yet to come out with any trend as of now on its website.\nFive of these seats are in the TMC's stronghold in south Bengal, while Madarihat, which was won by the BJP in 2021, remains a saffron bastion in the northern part of the state.\nThe by-elections were necessitated following the resignation of MLAs who had won seats in the 2024 Lok Sabha elections, leaving their assembly constituencies vacant.\nThe by-polls on November 13 saw a voter turnout of around 69.29 per cent.\nHowever, the election process was marred by sporadic incidents of violence, including a crude bomb attack in Bhatpara, near the Naihati Assembly constituency, which claimed the life of a local TMC worker.\nThe Left Front has ditched Congress in the present contest. The party looks at it as a means to test its relevance. The grand old party, under its new state chief Suvankar Sarkar, has fielded candidates in all six constituencies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "TMC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "West Bengal",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:08:47.432+02:00",
+    "updated": "2024-11-23T06:08:47.432+02:00"
+}

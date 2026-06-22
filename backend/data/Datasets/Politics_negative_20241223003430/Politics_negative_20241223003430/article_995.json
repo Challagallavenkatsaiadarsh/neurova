@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "98b1647bb5505c08e6f236acb6bcef1f21222403",
+        "url": "https://pledgetimes.com/sanchez-gomez-several-ministers-and-the-psoe-sue-aldama-as-a-prior-step-to-filing-a-complaint",
+        "site_full": "pledgetimes.com",
+        "site": "pledgetimes.com",
+        "site_section": "https://www.pledgetimes.com",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Pledge Times -",
+        "title": "Sánchez, Gómez, several ministers and the PSOE sue Aldama as a prior step to filing a complaint",
+        "title_full": "Sánchez, Gómez, several ministers and the PSOE sue Aldama as a prior step to filing a complaint",
+        "published": "2024-11-22T22:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 71730,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "98b1647bb5505c08e6f236acb6bcef1f21222403",
+    "url": "https://pledgetimes.com/sanchez-gomez-several-ministers-and-the-psoe-sue-aldama-as-a-prior-step-to-filing-a-complaint",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin_l6ma5gus",
+    "published": "2024-11-22T22:08:00.000+02:00",
+    "title": "Sánchez, Gómez, several ministers and the PSOE sue Aldama as a prior step to filing a complaint",
+    "text": "The PSOE has presented this Friday the lawsuit in which it requests the act of conciliation prior to the presentation of the joint complaint for insults and slander against the alleged achiever of the ‘Koldo case’, the businessman Victor de Aldama after his voluntary statement before the judge of the National Court.\nThe lawsuit has been filed on behalf of the President of the Government, Pedro Sanchez his wife, Begoña Gómez; the ministers Angel Victor Torres and María Jesús Montero, her Chief of Staff, Carlos Moreno; the former minister and president of the Generalitat, Salvador Illa and the secretary of organization of the socialists, Santos Cerdan .\nIn the lawsuit, the PSOE has claimed the request for the holding of a prior conciliation act to the filing of a criminal complaint for an alleged crime of libel and slander, under article 804 of the Criminal Procedure Law and articles 139 et seq. of the Voluntary Jurisdiction Law.\nFor the socialists, the businessman’s statements are “absolutely false, defamatory, insulting and slanderous”, since attack “in an absolutely serious way against the honor of important members of the Government and the PSOE” already Begoña Gómez “with a clear intention to affect” also the Executive as a whole and the party.\nIn its arguments, the PSOE points out that De Aldama’s confession is “premeditated, tortious and absolutely serious”, which have been carried out “for absolutely spurious purposes” and with an “obvious political purpose” that, as they point out, they do not know “if they obey exclusively their own interests or also those of third parties, as well as if they have been carried out motu proprio or in exchange for price, reward or promise.”\nInsults and slander “But in any case,” they reiterate in the lawsuit, “they cannot fraudulently rely on the right of defense, which allows lies in their own favor, since given their obvious seriousness and public significance, They cannot be protected by impunity for speaking out within an ongoing procedure,” they emphasize.\nFor this reason, in the PSOE they understand that the statements may be some insults and slander included in articles 205 and 208 of the Penal Code and which, in addition, “also have the character of public crimes committed against the aforementioned authorities in the exercise of their positions.”\nThus, the plaintiffs, in their personal capacity, and the PSOE, as a legal entity, present this action prior to filing the corresponding criminal complaint against the businessman for his statement, for which demands that De Aldama “retract what was stated committing to immediately cease all activities that tend to damage prestige, image and honor.”\n#Sánchez #Gómez #ministers #PSOE #sue #Aldama #prior #step #filing #complaint",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sánchez",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Begoña Gómez",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Victor de Aldama",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "María Jesús Montero",
+                "sentiment": "none"
+            },
+            {
+                "name": "Santos Cerdan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Carlos Moreno",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pedro Sanchez",
+                "sentiment": "none"
+            },
+            {
+                "name": "Salvador Illa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "PSOE",
+                "sentiment": "negative"
+            },
+            {
+                "name": "National Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:55:09.813+02:00",
+    "updated": "2024-11-23T01:55:09.813+02:00"
+}

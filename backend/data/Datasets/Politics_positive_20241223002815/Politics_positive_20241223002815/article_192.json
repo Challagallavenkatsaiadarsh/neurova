@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "56a25989cd8c92535f7c16917d9ea5dcfd8b1622",
+        "url": "https://www.cityandstatepa.com/policy/2024/11/gov-josh-shapiro-announces-153-million-funding-septa/401258/?oref=ng-homepage-top-story",
+        "site_full": "www.cityandstatepa.com",
+        "site": "cityandstatepa.com",
+        "site_section": "https://cityandstatepa.com",
+        "site_categories": [
+            "illegal_content"
+        ],
+        "section_title": "Home | City &amp; State Pennsylvania",
+        "title": "Gov. Josh Shapiro announces $153 million in funding for SEPTA",
+        "title_full": "Gov. Josh Shapiro announces $153 million in funding for SEPTA",
+        "published": "2024-11-22T20:32:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.cityandstatepa.com/media/img/cd/2024/11/22/26920_gov_septa_03/open-graph.jpg",
+        "performance_score": 0,
+        "domain_rank": 80206,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "56a25989cd8c92535f7c16917d9ea5dcfd8b1622",
+    "url": "https://www.cityandstatepa.com/policy/2024/11/gov-josh-shapiro-announces-153-million-funding-septa/401258/?oref=ng-homepage-top-story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Harrison Cann",
+    "published": "2024-11-22T20:32:00.000+02:00",
+    "title": "Gov. Josh Shapiro announces $153 million in funding for SEPTA",
+    "text": "Josh Shapiro\nGov. Josh Shapiro announces $153 million in funding for SEPTA\nThe governor directed the Department of Transportation to flex federal highway capital funds to prevent the transit agency’s ‘death spiral’\nAt the direction of Gov. Josh Shapiro, PennDOT is offering a new transfer – not on a service line, but in the form of a financial lifeline to save SEPTA from a “death spiral.”\nShapiro joined local leaders at the Frankford Transportation Center in Northeast Philadelphia Friday morning to announce a $153 million funding deal struck between state and local officials and the transit authority – a transfer that will direct funds for seven highway projects across the state to uplift the struggling transit agency.\n“SEPTA faces serious challenges and is in desperate need of more funding. Without urgent support, they are going to be forced to dramatically raise prices and to cut services in a significant way. I’m here to tell you, we can’t let that happen,” Shapiro said Friday. “We’re going to continue to move the ball down the field, put points on the board and celebrate our collective success.”\nShapiro said on Tuesday he will “not let SEPTA fail” even as the agency faces a $240 million structural deficit and is expected to announce major cuts and fare hikes. He came through on that promise in part on Friday by ensuring six months of funding for SEPTA and coming to an agreement with Philadelphia’s collar counties to lend financial support to the system that their residents also rely on.\nOfficials unveiled the funding more than a week after SEPTA announced plans to raise fare prices and make severe service cuts in the face of a fiscal crisis due partly to the end of federal pandemic relief aid.\nState Rep. Matt Bradford, who represents part of Montgomery County, said the move grants officials some leeway in finding a long-term solution.\nIt's not an either-or; it’s both, and we can do both – House and Senate, Democrat, Republican, bipartisan, rural, suburban, urban – every portion of Pennsylvania sinks or swims when we make these investments in roads, bridges and transit,” Bradford said. “We are going to spend the next six months in the most serious way possible to get this over the line, and we’re not going to let party, politics or region stand in the way.”\nMontgomery County officials confirmed the county’s new budget will increase our SEPTA funding from $8.3 million in 2024 to $9.4 million in 2025 to support operations and infrastructure upgrades, and additional support from surrounding counties could be up to $20 million in total.\nDuring Philadelphia City Council hearings this week on the proposed 76ers arena in Center City, SEPTA officials said the cash-strapped authority cannot afford to expand the Jefferson Station to better accommodate an arena.\n“The reality is that SEPTA simply cannot assume these new costs within the framework of its operating budget,” Scott Sauer, SEPTA’s interim general manager, said Tuesday during a daylong hearing devoted to the development.\nShapiro claimed the influx in funding will prevent SEPTA from implementing those fare hikes and service cuts until at least July, adding that the transit authority still needs to receive more support in the next state budget in the summer.\nThe announcement also comes a day after SEPTA’s largest union called off a potentially crippling strike after reaching a tentative contract agreement with the transit agency Thursday.\nBrian Pollitt, president of the 5,000-member Transit Workers Union Local 234, said he was close to calling a strike this week, but held off to avoid inconveniencing SEPTA riders.\n“I was a former bus operator, so I know how the patrons need the system. I didn’t want them to have to go through a stoppage,” he said at a press conference Wednesday. “I would definitely call it, but I tried to continue talking, continue talking, and I guess my strategy worked.”\nThe one-year contract extension for the union includes increases to worker pay and pensions as well as initiatives to improve worker safety – including a pilot project to install bulletproof enclosures for bus drivers.\nSauer noted that despite the tentative contract agreement, SEPTA needs continued financial support, calling on the legislature to approve a budget boost for transit programs statewide that has been proposed by Shapiro.\nKen Lawrence, chairman of SEPTA’s board of commissioners, ended Friday’s press conference reiterating the task in front of lawmakers to find a long-term solution for the agency.\n“All of Pennsylvania benefits from investing in mass transit and investing in SEPTA…We can pause some of the draconian measures under consideration to survive an additional fare increase and service cuts,” Lawrence said. “I want to thank my friend, Governor Shapiro, for allowing us to breathe, for throwing us that lifeline, while we continue to work on a permanent funding solution.”\nNEXT STORY:\n[\n5 bills signed into law this week\n](/policy/2024/11/5-bills-signed-law-week/401165/?oref=cspa-next-story)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Josh Shapiro",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SEPTA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Transportation",
+                "sentiment": "none"
+            },
+            {
+                "name": "PennDOT",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:09:08.232+02:00",
+    "updated": "2024-11-23T01:09:08.232+02:00"
+}

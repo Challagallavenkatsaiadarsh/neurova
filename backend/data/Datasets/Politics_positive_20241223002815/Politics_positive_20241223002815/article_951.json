@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "1b848065a7d26156395dfeb04dc83023f3585bbe",
+        "url": "https://www.hawaiipublicradio.org/local-news/2024-11-22/department-of-planning-and-permitting-has-decrease-in-permitting-backlog",
+        "site_full": "www.hawaiipublicradio.org",
+        "site": "hawaiipublicradio.org",
+        "site_section": "https://www.hawaiipublicradio.org",
+        "site_categories": [
+            "media",
+            "music",
+            "entertainment"
+        ],
+        "section_title": "Hawai‘i Public Radio | Hawai&#x27;i Public Radio",
+        "title": "Department of Planning and Permitting has decrease in permitting backlog",
+        "title_full": "Department of Planning and Permitting has decrease in permitting backlog",
+        "published": "2024-11-23T00:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://npr.brightspotcdn.com/dims4/default/4e3a570/2147483647/strip/true/crop/4032x2117+0+228/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2c%2F67%2F027d7e394ea599bb68ea5f548ba5%2Fap23089789805439.jpg",
+        "performance_score": 0,
+        "domain_rank": 27665,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b848065a7d26156395dfeb04dc83023f3585bbe",
+    "url": "https://www.hawaiipublicradio.org/local-news/2024-11-22/department-of-planning-and-permitting-has-decrease-in-permitting-backlog",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashley Mizuo",
+    "published": "2024-11-23T00:50:00.000+02:00",
+    "title": "Department of Planning and Permitting has decrease in permitting backlog",
+    "text": "Honolulu Planning Department cuts down backlog\nThe Honolulu Department of Planning and Permitting’s new technology has allowed the code review process to decrease to just nine days for residential permits.\nSix months ago, the code review process for a residential permit took half a year.\nThe code review process has been the largest hurdle for the department to solve its permitting backlog, which has now dropped below 10,000.\nThe code review process for commercial permits is now down to just two months. In May, it took nine months.\nThe new technology also lets people track their permits in real-time and view the code reviewer’s comments. These technological improvements were funded by $6 million of federal funds.\nDPP Director Dawn Takeuchi Apuna hopes that the department will continue to improve the process.\n“All these process improvements, we just want to be, state of the art, the fastest that we can be right now,” she said.\n“We're below some of the requirements in law and rules, but we're going to be well below that. And that's our goal. We don't want to just get out from under the backlog. We want to be very fast and have customers be very pleased with the services that we provide.”\nContractors said that one commercial code review may take two months — but it’s common to have to go through multiple cycles. They said it’s due to DPP code reviewers going through the full plans each time instead of just the revisions, despite DPP's [administrative rules](https://www.honolulu.gov/rep/site/dpp/dpp_docs/rules-administration-of-codes.pdf) limiting subsequent review cycles to just revisions.\n“The problem is nobody approves it in one review cycle, so those 2 months need to be multiplied by the number of review cycles,” said Geena Thielen, the Building Industry Association of Hawaii’s chair of codes.\n“No set of plans is perfect and codes are subject to interpretation. We often disagree with DPP’s interpretation, but change our plans to placate them.”\nApuna said it usually takes about one to three cycles on average to get approved. She’s working with staff to make improvements to that process, but if plans keep coming back with comments they should take a harder look at their design professional.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.honolulu.gov/rep/site/dpp/dpp_docs/rules-administration-of-codes.pdf",
+        "https://honolulu.gov/rep/site/dpp/dpp_docs/rules-administration-of-codes.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:50:26.003+02:00",
+    "updated": "2024-11-28T13:34:44.918+02:00"
+}

@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "79471c55356eb8408e70217b29b6181f6ca7a07c",
+        "url": "https://www.texasfootball.com/article/2024/11/23/smu-clinches-acc-championship-game-berth?ref=article_preview_img",
+        "site_full": "www.texasfootball.com",
+        "site": "texasfootball.com",
+        "site_section": "https://texasfootball.com",
+        "site_categories": [
+            "football",
+            "sports"
+        ],
+        "section_title": "Texas High School Football - Coverage From Dave Campbell's Texas Football",
+        "title": "SMU Clinches ACC Championship Game Berth",
+        "title_full": "SMU Clinches ACC Championship Game Berth",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://txfbstatic.blob.core.windows.net/txfb-static/img/articles/banner/GettyImages-2185588419-1123205417.jpg",
+        "performance_score": 0,
+        "domain_rank": 55842,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "79471c55356eb8408e70217b29b6181f6ca7a07c",
+    "url": "https://www.texasfootball.com/article/2024/11/23/smu-clinches-acc-championship-game-berth?ref=article_preview_img",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "SMU Clinches ACC Championship Game Berth",
+    "text": "SMU head coach Rhett Lashlee told his players this week that the No.13 College Football Playoff ranking, despite one loss to Big 12 leader BYU, wasn't because the Playoff Committee disrespected them. Rather, it just didn't expect them.\nBut the 2024 Mustangs were both unexpected and disrespected.\nFlorida State, Clemson and North Carolina voted against [SMU](https://www.texasfootball.com/team/smu-mustangs?ref=search) entering the ACC because they didn't think the Mustangs were worthy of their conference. And, frankly, the ACC only deemed SMU worthy once several deep-pocketed donors ponied up to allow the university to forgo nine years of television revenue.\nFlorida State tried to sue its way out of the conference when the ACC overruled its veto, and didn't mince words on one of the biggest reasons it was doing so.\n\"The additions of Cal, Stanford and SMU were made over the strenuous objections of FLORIDA STATE and other ACC member institutions,\" Florida State's Board of Trustees wrote. \"The ACC also tapped SMU, which has never been a member of a Power Five (soon to be Power Four) Conference and which the Big 12 had been passing on for years.\"\nNow, that school on the Hilltop is the first team to clinch an ACC Championship Game berth in its first season in a Power Four conference.\nSMU's entry into the ACC was a legal pay-to-play 40 years after the NCAA banished them for paying players, a high-stakes gamble on Lashlee and the roster he built. In an [ESPN piece by Dave Wilson](https://www.espn.com/college-football/story/_/id/41136586/smu-football-acc-death-penalty-return-2024), SMU Chairman of the Board David Miller summed up the billionaires' sentiment for leaving a couple hundred million dollars on the table just to have a seat at it.\n\"Is our expectation that we're going to be able to compete for championships within two to three years?\" Miller asked. \"The answer to that is yes.\"\nFlorida State, Clemson and North Carolina thought that absurd. Sometimes, the haters are right. SMU did it in one.\n\"Today's a big stinkin' deal,\" Lashlee said after a 33-7 win over Virginia. \"But the job's not done.\"\nSMU made it to a conference championship last year, too. But the donors went all in for a chance to make that conference championship game a Playoff game. And in that game the Mustangs will play a team that didn't respect them before the season, trying to impress a Committee that didn't expect them. Their gamble already paid off and they're playing with house money; all-in and with nothing to lose.That's what makes them so dangerous.\nThis article is available to our Digital Subscribers.\nClick \"Subscribe Now\" to see a list of subscription offers.\nAlready a Subscriber? Sign In to access this content.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Sport",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.espn.com/college-football/story/_/id/41136586/smu-football-acc-death-penalty-return-2024",
+        "https://espn.com/college-football/story/_/id/41136586/smu-football-acc-death-penalty-return-2024"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rhett Lashlee",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Stanford",
+                "sentiment": "none"
+            },
+            {
+                "name": "SMU",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:28:01.313+02:00",
+    "updated": "2024-11-24T00:28:01.313+02:00"
+}

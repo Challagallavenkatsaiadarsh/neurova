@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "be0f9bd05e57445a4ca913408871ba4cf861ea2d",
+        "url": "https://www.theblaze.com/columns/opinion/rfk-jr-s-confirmation-would-be-a-blow-to-big-pharma-and-a-big-win-for-health",
+        "site_full": "www.theblaze.com",
+        "site": "theblaze.com",
+        "site_section": "http://theblaze.com//stories/feed",
+        "site_categories": [
+            "television",
+            "entertainment"
+        ],
+        "section_title": "Blaze Media",
+        "title": "RFK Jr.’s confirmation would be a blow to Big Pharma and a big win for health",
+        "title_full": "RFK Jr.’s confirmation would be a blow to Big Pharma and a big win for health",
+        "published": "2024-11-23T03:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.theblaze.com/media-library/rfk-jr-s-confirmation-would-be-a-blow-to-big-pharma-and-a-big-win-for-health.jpg?id=54883114&width=1200&height=600&coordinates=0%2C85%2C0%2C86",
+        "performance_score": 0,
+        "domain_rank": 3558,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "be0f9bd05e57445a4ca913408871ba4cf861ea2d",
+    "url": "https://www.theblaze.com/columns/opinion/rfk-jr-s-confirmation-would-be-a-blow-to-big-pharma-and-a-big-win-for-health",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kelly Victory",
+    "published": "2024-11-23T03:00:00.000+02:00",
+    "title": "RFK Jr.’s confirmation would be a blow to Big Pharma and a big win for health",
+    "text": "Photo by John Moore/Getty Images",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:22:14.301+02:00",
+    "updated": "2024-11-23T04:03:41.617+02:00"
+}

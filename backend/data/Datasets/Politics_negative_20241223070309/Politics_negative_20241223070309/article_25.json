@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "de32b4e2971fe6ad96ec1d3cbfb0193d811abae1",
+        "url": "https://www.ktvo.com/news/local/usda-denies-iowas-request-to-ban-snap-purchases-of-lab-grown-proteins-and-egg-substitutes",
+        "site_full": "www.ktvo.com",
+        "site": "ktvo.com",
+        "site_section": "http://www.ktvo.com",
+        "site_categories": [],
+        "section_title": "chevron-right",
+        "title": "USDA denies Iowa's request to ban SNAP purchases of lab-grown proteins and egg substitutes",
+        "title_full": "USDA denies Iowa's request to ban SNAP purchases of lab-grown proteins and egg substitutes",
+        "published": "2024-11-22T05:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://ktvo.com/resources/media/07eb4689-8135-4151-86f2-af0db3fd7534-large16x9_usda.png",
+        "performance_score": 0,
+        "domain_rank": 90463,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "de32b4e2971fe6ad96ec1d3cbfb0193d811abae1",
+    "url": "https://www.ktvo.com/news/local/usda-denies-iowas-request-to-ban-snap-purchases-of-lab-grown-proteins-and-egg-substitutes",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tyler Downey",
+    "published": "2024-11-22T05:57:00.000+02:00",
+    "title": "USDA denies Iowa's request to ban SNAP purchases of lab-grown proteins and egg substitutes",
+    "text": "The U.S. Department of Agriculture denied Iowa's request to prohibit SNAP benefits from being used to buy lab-grown meat or egg substitutes, as [The Gazette reports](https://www.thegazette.com/state-government/feds-reject-iowa-request-to-bar-food-assistance-dollars-from-buying-meat-egg-substitutes/), recently obtained the letter denying the waiver on Wednesday.\nThe Iowa Department of Health and Human Services' waiver request said that cultivated protein and egg substitutes \"may not\" be as nutritious as meat and eggs.\nIowa Republicans in favor of the measure also raised concerns about lab-grown products putting Iowa's livestock farmers and poultry producers in jeopardy.\nThe USDA denied the request, saying it did not provide information on how it would raise nutrition levels for Iowans or how the state would measure the effects of lab-grown products being banned.\nThe USDA also said that the waiver request did not meet any of the four criteria needed for a waiver, those being:\nThe waiver was denied in a letter from the USDA to the Iowa Department of Health and Human Services from July 12, but The Gazette only just received the letter earlier this week.\nNeither Iowa Gov. Kim Reynolds nor Iowa Department of Health and Human Services Director Kelly Garcia responded to The Gazette's request for comment Thursday.\nIowa legislature passed Senate File 2391, which banned meat and egg substitutes, last spring.\nThe new law also bans lab-grown meat substitutes from being served in Iowa school meals.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.thegazette.com/state-government/feds-reject-iowa-request-to-bar-food-assistance-dollars-from-buying-meat-egg-substitutes/",
+        "https://www.thegazette.com/state-government/feds-reject-iowa-request-to-bar-food-assistance-dollars-from-buying-meat-egg-substitutes",
+        "https://thegazette.com/state-government/feds-reject-iowa-request-to-bar-food-assistance-dollars-from-buying-meat-egg-substitutes/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "de32b4e2971fe6ad96ec1d3cbfb0193d811abae1",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:04:26.462+02:00",
+    "updated": "2024-11-23T00:04:26.462+02:00"
+}

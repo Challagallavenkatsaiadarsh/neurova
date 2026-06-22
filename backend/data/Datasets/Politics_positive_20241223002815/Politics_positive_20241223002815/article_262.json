@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "a5f3345828b8b7a9e38b5dbbb10a77089d39d81b",
+        "url": "https://ny1.com/nyc/all-boroughs/news/2024/11/22/staten-island-gets-first-female-borough-commander",
+        "site_full": "ny1.com",
+        "site": "ny1.com",
+        "site_section": "http://www.ny1.com/services/contentfeed.nyc%7call-boroughs%7cnews.landing.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NYC Headlines | Spectrum News NY1",
+        "title": "Staten Island gets first female borough commander",
+        "title_full": "Staten Island gets first female borough commander",
+        "published": "2024-11-22T21:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://s7d2.scene7.com/is/image/TWCNews/Victoria_Female_Borough_Commander_Melissa_Eger_NY_112224",
+        "performance_score": 0,
+        "domain_rank": 4556,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a5f3345828b8b7a9e38b5dbbb10a77089d39d81b",
+    "url": "https://ny1.com/nyc/all-boroughs/news/2024/11/22/staten-island-gets-first-female-borough-commander",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Victoria Manna",
+    "published": "2024-11-22T21:50:00.000+02:00",
+    "title": "Staten Island gets first female borough commander",
+    "text": "Pictured on a wall at the 121st Precinct are all of Staten Island’s past borough commanding officers, all of whom were men. But things look different now.\nMelissa Eger is now the first female to step into the role. Eger, who grew up on Staten Island, has been with the NYPD for more than 25 years.\nWhat You Need To Know Melissa Eger is Staten Island's first female borough commanding officer\nEger has been with the NYPD for over 25 years\nShe previously served as commanding officer for the chief of the department's domestic violence unit “Things have changed a lot from when I came on in 1999 as a young police officer,\" Eger said. \"There's more women now.\"\nAfter patroling the streets as an officer and working her way up the ranks, she served as commanding officer for the chief of the department's domestic violence unit.\n“As a CO of domestic violence, I interacted with advocacy groups, hearing voices of survivors. I worked closely with the mayor's office to end domestic and gender-based violence. And I just really learned a lot, you know, how we operate” Eger said.\nNow, she says one of her top priorities on Staten Island is retail theft. She says retail theft in the borough is up by 9% so far this year compared to the same time last year.\n“The Staten Island retail community has gone through a lot since the legislative reforms of 2020. We see the same recidivists committing multiple retail thefts at the same retail locations,\" Eger said.\nAs the holiday season approaches, Eger says the department will be working closely with the Staten Island district attorney’s office to combat recidivism.\n“They have initiatives for retail theft where they are looking to hold these retail recidivists accountable, who hit multiple times at locations, stealing small amounts of items, but returning over and over,\" Eger said. \"So, you know, we're looking together to aggregate those charges and hold them accountable for a higher crime.\"\nCombating crime is a responsibility she says she takes seriously, but it's not her only mission. She wants more leaders who look like her.\n\"Certainly not enough, especially in the executive ranks. So it's a big responsibility for me to represent recruits and mentor,\" Eger said.\nThe reason: Studies show more female officers improve police performance and trust, despite the hurdles of acceptance in the ranks.\n“Women are more reticent to take positions of advancement, sergeant, lieutenant, and especially captain and above for fear of not being able to also have a family as well,\" Eger said. \"And I agree, it's a challenge. But I have a family. I have three children. And it's not easy, but it is rewarding. And I think managing a family really helps you manage your team.\"\nEger was sworn in on Oct. 23.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Melissa Eger",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Staten Island",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:32:44.775+02:00",
+    "updated": "2024-11-23T01:32:44.775+02:00"
+}

@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "5a932a3a1c2825833f3a0e05334e98daaa322e3f",
+        "url": "https://www.siasat.com/ghmc-mayor-vijayalaxmi-joins-caste-census-drive-in-kachiguda-3135804",
+        "site_full": "www.siasat.com",
+        "site": "siasat.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "education",
+            "top_news_in",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "GHMC Mayor Vijayalaxmi joins caste census drive in Kachiguda",
+        "title_full": "GHMC Mayor Vijayalaxmi joins caste census drive in Kachiguda",
+        "published": "2024-11-23T00:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://cdn.siasat.com/wp-content/uploads/2024/11/GHMC-Mayor-joining-Telangana-Caste-Census.jpg",
+        "performance_score": 0,
+        "domain_rank": 16655,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5a932a3a1c2825833f3a0e05334e98daaa322e3f",
+    "url": "https://www.siasat.com/ghmc-mayor-vijayalaxmi-joins-caste-census-drive-in-kachiguda-3135804",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "folsomlocalnews.com",
+    "published": "2024-11-23T00:54:00.000+02:00",
+    "title": "GHMC Mayor Vijayalaxmi joins caste census drive in Kachiguda",
+    "text": "Hyderabad: The Greater Hyderabad Municipal Corporation (GHMC) Mayor Gadwal Vijayalaxmi on Friday, November 22, said that the Telangana government's caste census aims to ensure that its welfare programmes efficiently reach the deserving people of the state. She was speaking after joining the caste census team and inspecting the survey process in Kachiguda. The Mayor asked the surveyors about the number of households they could cover on a normal day and the challenges the surveyors faced in the process. The GHMC Mayor said that the comprehensive house-to-house family survey process has been re-examined at the field level in each division and explained to the people why the caste census is being conducted. She said that the collection of social, economic, educational, political, employment and caste details would help the government to form policies and welfare programmes, that would help the citizens. Also ReadTelangana caste census covers 83 pc of households Joining the enumerators, the GHMC Mayor went to a handful of households to take the survey in the Kachiguda neighbourhood and took their feedback on the survey questions and process. The Mayor assured that the details provided by the citizens would remain confidential and they would be rewarded with more efficient policies from the state government. Mayor Vijayalaxmi also urged the citizens to be informed and not believe in false propaganda, which is spread among the society to create misconceptions. MLC Balmuri Venkat, who joined the Hyderabad Mayor on the visit, said that the comprehensive house-to-house family survey undertaken historically by the Telangana government stands as a compass for the country. Encouraging the citizens to take part in the survey, the MLC said that this survey will be the basis for tomorrow's public policies and a better future for Telangana and its people.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/intent/tweet?text={post_title}&url={post_link}&via=TheSiasatDaily",
+        "https://pinterest.com/pin/create/button/?url={post_link}&description={post_title}&media={post_img}",
+        "https://www.linkedin.com/shareArticle?mini=true&url={post_full_link}&title={post_title}",
+        "https://api.whatsapp.com/send?text={post_title}%20{post_link}",
+        "https://telegram.me/share/url?url={post_link}&text={post_title}",
+        "https://www.facebook.com/dialog/send?app_id=5303202981&display=popup&link={post_link}&redirect_uri={post_link}",
+        "https://www.facebook.com/sharer.php?u={post_link}",
+        "https://pinterest.com/pin/create/button/",
+        "https://facebook.com/dialog/send?app_id=5303202981&display=popup&link={post_link}&redirect_uri={post_link}",
+        "https://www.api.whatsapp.com/send?text={post_title}%20{post_link}",
+        "https://linkedin.com/shareArticle?mini=true&url={post_full_link}&title={post_title}",
+        "https://telegram.me/share/url",
+        "https://facebook.com/sharer.php?u={post_link}",
+        "https://www.facebook.com/dialog/send",
+        "https://www.linkedin.com/shareArticle",
+        "https://www.twitter.com/intent/tweet?text={post_title}&url={post_link}&via=TheSiasatDaily",
+        "https://www.facebook.com/sharer.php",
+        "https://www.pinterest.com/pin/create/button/?url={post_link}&description={post_title}&media={post_img}",
+        "https://api.whatsapp.com/send",
+        "https://twitter.com/intent/tweet",
+        "https://www.telegram.me/share/url?url={post_link}&text={post_title}"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gadwal Vijayalaxmi",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Greater Hyderabad Municipal Corporation",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kachiguda",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:09:29.543+02:00",
+    "updated": "2024-11-27T08:38:28.313+02:00"
+}

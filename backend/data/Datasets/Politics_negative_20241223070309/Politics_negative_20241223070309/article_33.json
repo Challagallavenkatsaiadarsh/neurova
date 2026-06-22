@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "3965373d413a42fa02121f60eee6c666e23bddfb",
+        "url": "https://www.policemag.com:443/patrol/news/15708975/pittsburgh-city-leaders-voice-concerns-about-police-staffing",
+        "site_full": "www.policemag.com",
+        "site": "policemag.com",
+        "site_section": "https://www.policemag.com:443/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | Police Magazine",
+        "title": "Pittsburgh City Leaders Voice Concerns About Police Staffing",
+        "title_full": "Pittsburgh City Leaders Voice Concerns About Police Staffing",
+        "published": "2024-11-22T22:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 28390,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3965373d413a42fa02121f60eee6c666e23bddfb",
+    "url": "https://www.policemag.com:443/patrol/news/15708975/pittsburgh-city-leaders-voice-concerns-about-police-staffing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T22:46:00.000+02:00",
+    "title": "Pittsburgh City Leaders Voice Concerns About Police Staffing",
+    "text": "Several Pittsburgh City Council members on Thursday voiced concerns about dwindling staffing levels for the city’s police force and called for an increased police presence throughout the city.\nCouncil members said they wanted to see more police at community events, mingling with people in the neighborhoods they protect and responding to even low-level crimes that currently are handled through telephone and online reporting systems.\nBut that’s increasingly difficult, officials acknowledged, as the bureau is understaffed, [TribLive](https://triblive.com/local/pittsburgh-police-staffing-woes-spark-concern-among-council-members/) reports.\nMost officials have pegged the bureau’s ideal size at 900 uniformed officers. But Mayor Ed Gainey in his 2024 spending plan dropped the budgeted number of officers to 850, acknowledging that the bureau would not be able to reach the 900 threshold.\nHis proposed budget for 2025 includes funding for 800 uniformed officers.\nCara Cruz, a public safety spokesperson, said there are 719 sworn officers currently, plus 64 recruits currently working to become full-fledged officers.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://triblive.com/local/pittsburgh-police-staffing-woes-spark-concern-among-council-members/",
+        "https://www.triblive.com/local/pittsburgh-police-staffing-woes-spark-concern-among-council-members/",
+        "https://triblive.com/local/pittsburgh-police-staffing-woes-spark-concern-among-council-members"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:35.876+02:00",
+    "updated": "2024-11-23T00:05:35.876+02:00"
+}

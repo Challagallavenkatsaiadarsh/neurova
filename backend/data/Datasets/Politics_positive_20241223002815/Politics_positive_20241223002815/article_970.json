@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "5d5f21e1cde8fab77bbc9b67e3215775a6840c57",
+        "url": "https://www.devdiscourse.com/article/health/3167772-television-doc-takes-center-stage-trump-picks-janette-nesheiwat-as-surgeon-general",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/east-africa",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "East Africa Edition: International Development News | Devdiscourse",
+        "title": "Television Doc Takes Center Stage: Trump Picks Janette Nesheiwat as Surgeon General | Health",
+        "title_full": "Television Doc Takes Center Stage: Trump Picks Janette Nesheiwat as Surgeon General | Health",
+        "published": "2024-11-23T03:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_18_59_07_8553443.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d5f21e1cde8fab77bbc9b67e3215775a6840c57",
+    "url": "https://www.devdiscourse.com/article/health/3167772-television-doc-takes-center-stage-trump-picks-janette-nesheiwat-as-surgeon-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T03:25:00.000+02:00",
+    "title": "Television Doc Takes Center Stage: Trump Picks Janette Nesheiwat as Surgeon General | Health",
+    "text": "Television Doc Takes Center Stage: Trump Picks Janette Nesheiwat as Surgeon General\nDonald Trump has selected family doctor and Fox News contributor Janette Nesheiwat as the new Surgeon General, emphasizing her strong communication skills. Nesheiwat's background includes disaster relief and media contributions. Her appointment maintains Trump's trend of choosing media personalities for key roles in his administration.\nIn a move aligning with his penchant for selecting media-savvy individuals, U.S. President-elect Donald Trump has announced Janette Nesheiwat, a family medicine doctor and previous Fox News contributor, as his choice for surgeon general. Trump's decision underscores the value he places on communication skills in his administration.\nDr. Nesheiwat brings a wealth of experience, having worked on the front lines of disaster relief during the COVID-19 pandemic and other crises like Hurricane Katrina. Her media presence has discussed health topics from the mpox strain to public health education.\nNesheiwat's nomination awaits Senate confirmation, as she transitions from her role as a media figure to a significant government position. Her selection continues a pattern seen in Trump's administration, emphasizing the importance of communication and public engagement in healthcare leadership.\n(With inputs from agencies.)\nALSO READ\n[Delhi's Meat Shop Crackdown: Ensuring Public Health Safety](/article/health/3159268-delhis-meat-shop-crackdown-ensuring-public-health-safety)[Donald Trump announces nomination of popular Fox News host, Army veteran Pete Hegseth as his defense secretary.](/article/Newsalert/3155357-donald-trump-announces-nomination-of-popular-fox-news-host-army-veteran-pete-hegseth-as-his-defense-secretary)[Health News Roundup: Key Developments in Pharmaceuticals and Public Health](/article/health/3159663-health-news-roundup-key-developments-in-pharmaceuticals-and-public-health)[Reforming Prison Health: A Public Health Imperative](/article/health/3156587-reforming-prison-health-a-public-health-imperative)[Trump Taps Fox News Doctor for Surgeon General Role](/article/health/3167715-trump-taps-fox-news-doctor-for-surgeon-general-role)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Health",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T06:01:17.024+02:00",
+    "updated": "2024-11-23T06:01:17.024+02:00"
+}

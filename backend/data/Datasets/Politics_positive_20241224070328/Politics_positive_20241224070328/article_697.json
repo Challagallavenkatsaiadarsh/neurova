@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "08725243030a73e28f248688c7f2d2be72ad5a72",
+        "url": "https://www.eurasiareview.com/24112024-eni-launches-hull-of-nguya-flng-confirming-schedule-of-congo-lngs-phase-2-startup",
+        "site_full": "www.eurasiareview.com",
+        "site": "eurasiareview.com",
+        "site_section": "https://www.eurasiareview.com",
+        "site_categories": [
+            "media",
+            "law_government_and_politics",
+            "politics"
+        ],
+        "section_title": "Eurasia Review &#8211; A Journal of Analysis and News",
+        "title": "Eni Launches Hull Of Nguya FLNG, Confirming Schedule Of Congo LNG’s Phase 2 Startup",
+        "title_full": "Eni Launches Hull Of Nguya FLNG, Confirming Schedule Of Congo LNG’s Phase 2 Startup",
+        "published": "2024-11-24T03:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 11052,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "08725243030a73e28f248688c7f2d2be72ad5a72",
+    "url": "https://www.eurasiareview.com/24112024-eni-launches-hull-of-nguya-flng-confirming-schedule-of-congo-lngs-phase-2-startup",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eurasia Review",
+    "published": "2024-11-24T03:06:00.000+02:00",
+    "title": "Eni Launches Hull Of Nguya FLNG, Confirming Schedule Of Congo LNG’s Phase 2 Startup",
+    "text": "Eni announced Saturday the launch of the hull of the Nguya Floating Liquefied Natural Gas (FLNG) facility in Wison shipyard in Nantong, China.\nThe state-of-the-art FLNG will have a liquefaction capacity of 2.4 million tons per annum (MTPA), and will complement the existing Tango FLNG, which is operational since December 2023 with a capacity of 0.6 MTPA, bringing the total liquefaction capacity of Congo LNG project to 3 MTPA by the end of 2025. The ceremony was attended by the Minister of Hydrocarbons of the Republic of Congo, Bruno Jean Richard Itoua.\nGuido Brusco, Eni’s Chief Operating Officer, Global Natural Resources, said: “We celebrate this milestone together with our partners as a testament of the solid collaboration between Eni and the Republic of Congo. We have been the first to believe in the value of Congo’s gas, primarily for domestic power generation, and then for export. With the successful launch of the Nguya FLNG hull, the Congo LNG Project has reached an impressive milestone of 40 million hours worked without any Lost Time Injuries. This achievement underscores the project’s ongoing progress in valorizing Congo’s gas resources, while capitalizing on local and international opportunities to deliver further value for our stakeholders”.\nThe timely launch of the hull confirms the company’s industry-leading time-to-market performances. Completion activities for Nguya FLNG have progressed at 80%, while overall Phase 2 timing – from FLNG contract award to startup – is expected to amount to less than 3 years, leveraging Eni’s fast-track approach that allows the execution of engineering, construction and commissioning activities seamlessly to rapidly develop new projects.\nNguya FLNG has a reduced carbon footprint thanks to its design and technology, and to its zero-flaring approach, in line with Eni’s decarbonisation strategy.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bruno Jean Richard Itoua",
+                "sentiment": "none"
+            },
+            {
+                "name": "Guido Brusco",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Startup Eni",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Republic of",
+                "sentiment": "none"
+            },
+            {
+                "name": "Wison",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:52:21.232+02:00",
+    "updated": "2024-11-24T05:52:21.232+02:00"
+}

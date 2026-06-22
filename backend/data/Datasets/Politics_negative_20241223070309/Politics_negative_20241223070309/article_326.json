@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "6d14a7449109263c728f3ca730eb18c3a2470033",
+        "url": "https://www.theepochtimes.com/world/duty-to-act-senator-calls-for-access-to-unredacted-report-on-alleged-foreign-collusion-5764602",
+        "site_full": "www.theepochtimes.com",
+        "site": "theepochtimes.com",
+        "site_section": "https://www.theepochtimes.com/uk-europe",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Latest News and Updates from the UK and Europe | The Epoch Times",
+        "title": "‘Duty to Act’: Senator Calls for Access to Unredacted Report on Alleged Foreign Collusion",
+        "title_full": "‘Duty to Act’: Senator Calls for Access to Unredacted Report on Alleged Foreign Collusion",
+        "published": "2024-11-23T00:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.theepochtimes.com/assets/uploads/2024/01/22/id5571520-baseimage-2024-01-22T163441.719-1-1080x720.jpg",
+        "performance_score": 0,
+        "domain_rank": 1635,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d14a7449109263c728f3ca730eb18c3a2470033",
+    "url": "https://www.theepochtimes.com/world/duty-to-act-senator-calls-for-access-to-unredacted-report-on-alleged-foreign-collusion-5764602",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Andrew Chen",
+    "published": "2024-11-23T00:17:00.000+02:00",
+    "title": "‘Duty to Act’: Senator Calls for Access to Unredacted Report on Alleged Foreign Collusion",
+    "text": "A senator concerned about foreign interference in the Upper House is calling for Senate leaders to be granted access to an uncensored intelligence report that claims parliamentarians colluded with foreign actors.\nThe report, released by the National Security and Intelligence Committee of Parliamentarians (NSICOP) on June 3, said that some parliamentarians were “semi-witting or witting” participants in foreign interference efforts against Canada, though it did not disclose the names of those allegedly implicated.\n[addressed](https://sencanada.ca/en/content/sen/chamber/441/debates/240db_2024-11-21-e)his colleagues in the Red Chamber on Nov. 21, noting that officials with security clearance who read the unredacted version of the report have offered conflicting statements about the existence of collusion.\n“Absent from all these claims and counterclaims is any informed commentary from members of this chamber,” he said. “That is because, unlike their counterparts in the House of Commons, no leader of a recognized group in the Senate has been permitted to read the unredacted report.”\nDowne noted that it had been nearly six months since the initial report was released, and said the fact that no leader in the Senate had been able to see the full report during that time was “nothing short of a disgrace.”\nDowne further pointed out the nuance in Trudeau’s statement, noting that the prime minister did not specify “members of the House of Commons,” but rather “parliamentarians,” which includes senators.\nEarlier, during Senate question period on Nov. 21, Downe asked Sen. Marc Gold, the government representative in the Senate, whether any minister, political staffer, or federal government employee had informed him that senators were named in the unredacted NSICOP report.\n“The answer is no, I haven’t heard any such matter,” Gold said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://sencanada.ca/en/content/sen/chamber/441/debates/240db_2024-11-21-e",
+        "https://www.sencanada.ca/en/content/sen/chamber/441/debates/240db_2024-11-21-e"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Downe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Upper House",
+                "sentiment": "negative"
+            },
+            {
+                "name": "House of Commons",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:38:18.156+02:00",
+    "updated": "2024-11-23T00:38:18.156+02:00"
+}

@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "b843fe057bd3035e185ee96bf74b28863664151e",
+        "url": "http://www.china.org.cn/world/2024-11/23/content_117565056.htm",
+        "site_full": "www.china.org.cn",
+        "site": "china.org.cn",
+        "site_section": "http://www.china.org.cn/world/index.htm",
+        "site_categories": [
+            "japan",
+            "travel"
+        ],
+        "section_title": "World - The latest world news headlines from China.org.cn",
+        "title": "China-Serbia roundtable highlights cultural cooperation - China.org.cn",
+        "title_full": "China-Serbia roundtable highlights cultural cooperation - China.org.cn",
+        "published": "2024-11-23T02:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 2790,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b843fe057bd3035e185ee96bf74b28863664151e",
+    "url": "http://www.china.org.cn/world/2024-11/23/content_117565056.htm",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "董庆沛",
+    "published": "2024-11-23T02:06:00.000+02:00",
+    "title": "China-Serbia roundtable highlights cultural cooperation - China.org.cn",
+    "text": "视频播放位置\n下载安装Flash播放器 A roundtable on China-Serbia cultural cooperation was held Friday in Belgrade, focusing on enhancing bilateral relations through cultural exchanges.\nHighlighting the significance of bilateral relations, Marina Ragus, deputy speaker of the Serbian parliament and head of the parliamentary friendship group with China, noted the historical and cultural bonds between the two nations, particularly during challenging times.\nRagus advocated for strengthening cultural ties, saying, \"Culture is the best bridge for the two nations to get to know each other.\" She proposed additional study tours and cultural programs to deepen connections.\nShe also highlighted the economic benefits brought to Serbia through cooperation with China, particularly via the Belt and Road Initiative.\nChinese Ambassador to Serbia Li Ming spoke highly of the growth of cultural exchanges between the two countries. He highlighted events such as the celebration of the Chinese Lunar Year of the Dragon, dragon boat races, poetry recitals, and tea art demonstrations in the country.\nThe roundtable was organized by the Chinese Embassy in Serbia, the Chinese Cultural Center in Belgrade, the National Assembly of Serbia, and the Serbian ministry of culture. Members of Serbia's parliamentary friendship group with China also visited a Confucius exhibition on the sidelines of the meeting.\nThe event marked the beginning of a series of dialogues aimed at fostering deeper ties and exploring opportunities for further collaboration between the two nations.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Arts, Culture and Entertainment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "http://www.adobe.com/cn/products/flashplayer/",
+        "http://adobe.com/cn/products/flashplayer/",
+        "http://www.adobe.com/cn/products/flashplayer"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ragus",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:55:33.771+02:00",
+    "updated": "2024-11-23T03:55:33.771+02:00"
+}

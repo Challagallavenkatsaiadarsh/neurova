@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "7d58202d1fcf0d2b4c9d7fa2ccfb539a23888330",
+        "url": "https://unn.ua/en/news/us-believes-chinese-hackers-are-already-preparing-for-war-reuters",
+        "site_full": "unn.ua",
+        "site": "unn.ua",
+        "site_section": "https://unn.com.ua/en",
+        "site_categories": [
+            "top_news_ua",
+            "top_news"
+        ],
+        "section_title": "Operational news of Ukraine and the World | Ukrainian National News UNN",
+        "title": "US believes Chinese hackers are already preparing for war - Reuters",
+        "title_full": "US believes Chinese hackers are already preparing for war - Reuters",
+        "published": "2024-11-23T00:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "UA",
+        "main_image": "https://unn.ua/img/2024/11/22/1732317259-2862-large.webp",
+        "performance_score": 0,
+        "domain_rank": 30765,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7d58202d1fcf0d2b4c9d7fa2ccfb539a23888330",
+    "url": "https://unn.ua/en/news/us-believes-chinese-hackers-are-already-preparing-for-war-reuters",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olga Rozgon",
+    "published": "2024-11-23T00:15:00.000+02:00",
+    "title": "US believes Chinese hackers are already preparing for war - Reuters",
+    "text": "US believes Chinese hackers are already preparing for war - Reuters\nKyiv • UNN\nThe United States warns that Chinese hackers are preparing for a potential conflict over the compromise of critical infrastructure. The US Cyber Command takes offensive and defensive measures against China's cyber operations.\nThe United States is preparing for a possible hacker attack from China. In particular, on critical infrastructure networks. This was reported by Reuters, according to UNN.\nDetails\nIt is noted that Morgan Adamski, the executive director of the US Cyber Command, said that he believes that Chinese-related cyber operations are currently aimed at gaining an advantage in the event of a major conflict with the United States.\nIn particular, officials were warned that Chinese-linked hackers have compromised IT networks and taken steps to conduct destructive attacks in the event of a conflict.\nAnd Adamski said that the US government is “conducting globally synchronized activities, both offensive and defensive, that focus on degrading and undermining China's cyber operations around the world.” According to him, public examples include exposure of operations, sanctions, indictments, law enforcement actions, and cybersecurity consultations involving many countries.\nAt the same time, China denies cyber operations against American organizations.\n[Chinese hackers attacked Trump and Vance's phonesOct 25 2024, 09:04 PM • 16996 views](/en/news/chinese-hackers-attacked-trump-and-vances-phones)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:23:22.204+02:00",
+    "updated": "2024-11-23T01:23:22.204+02:00"
+}

@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "673682deb70c9730b827c991accf3ab6a04c8716",
+        "url": "https://www.pwcva.gov/news/county-residents-give-positive-results-2024-community-survey",
+        "site_full": "www.pwcva.gov",
+        "site": "pwcva.gov",
+        "site_section": "https://www.pwcva.gov/news",
+        "site_categories": [],
+        "section_title": "News landing page",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 50760,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "673682deb70c9730b827c991accf3ab6a04c8716",
+    "url": "https://www.pwcva.gov/news/county-residents-give-positive-results-2024-community-survey",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@pwcgov",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "",
+    "text": "The Prince William Board of County Supervisors recently reviewed results from the 2024 Community Survey, revealing that county residents overall hold a positive view of living in Prince William County. The survey was conducted by Polco and the National Research Center from May 10 to July 14, 2024.\nPrince William County has conducted resident surveys since 1993. Previous surveys have been conducted via phone. The survey this year was done by mail using a probability-based sample; and for the first time, there was an opportunity for all residents to participate in an open participation survey.\nThe survey assessed resident satisfaction in overall quality of life and key areas that align with the county’s quadrants of government: Government Operations, Performance and Innovation; Mobility, Economic Growth and Resiliency; Health, Wellbeing and Environmental Sustainability; and Safe and Secure Community.\nThe results highlight strong ratings for quality of life and county services. According to the responses of the probability-based survey, eight in 10 respondents rated the overall quality of life as excellent or good, seven in 10 gave excellent or good ratings to the quality of county services, and five in 10 rated the value of county services for taxes paid as excellent or good.\nWhile overall satisfaction was high, residents highlighted areas for improvement. The top challenges identified were crime, taxes and data centers. When asked about the most important action to improve quality of life, 17 percent of respondents prioritized safety and security, followed by nine percent citing transportation, nine percent limiting data centers, and seven percent reducing traffic.\nOther key takeaways from the survey include:\nResidents are satisfied with recreational opportunities, with library services at 91 percent, quality of athletics fields at 84 percent and recreation opportunities including trails, boating, fishing and picnicking garnering an 83 percent satisfaction rate.\nDespite a slight decrease in feelings of safety in neighborhoods and commercial areas, police and fire and rescue services maintained high satisfaction levels.\nEngagement and satisfaction with county departments are high.\nSafety and education tops the list of most important strategic planning areas.\n“These surveys provide valuable insights into the needs and challenges of our community and empowers residents to play an active role in shaping their future,” said County Executive Chris Shorter. “The results are used to guide strategic decisions and help to align our strategic plan outcomes with the direct input from our residents as to what they want in our community. We remain committed to addressing areas for improvement and building on this strong foundation to ensure our county continues to be a place where individuals, families and businesses want to locate.”\nThe complete [results of the 2024 Community Survey can be viewed ](https://www.pwcva.gov/department/office-executive-management/community-survey)[here](https://www.pwcva.gov/department/office-executive-management/community-survey).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Research Center",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "William County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:11:34.332+02:00",
+    "updated": "2024-11-23T01:11:34.332+02:00"
+}

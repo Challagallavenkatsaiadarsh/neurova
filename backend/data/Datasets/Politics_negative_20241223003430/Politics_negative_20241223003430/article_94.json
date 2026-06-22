@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "9f5ca1f72b3b4c82bc4befbf0f65bf8e2d22601e",
+        "url": "https://tylerpaper.com/news/national/vladimir-putin-warned-that-the-kremlin-had-the-right-to-strike-countries-supplying-ukraine-with/image_e51f674b-33b0-5a6f-8dd4-ce922256325c.html",
+        "site_full": "tylerpaper.com",
+        "site": "tylerpaper.com",
+        "site_section": "https://tylerpaper.com/search",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Search | tylerpaper.com",
+        "title": "Vladimir Putin warned that the Kremlin had the right to strike countries supplying Ukraine with weapons used to hit targets inside Russia | National | tylerpaper.com",
+        "title_full": "Vladimir Putin warned that the Kremlin had the right to strike countries supplying Ukraine with weapons used to hit targets inside Russia | National | tylerpaper.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/tylerpaper.com/content/tncms/assets/v3/editorial/e/51/e51f674b-33b0-5a6f-8dd4-ce922256325c/673fb12eb765e.image.jpg?crop=328%2C328%2C92%2C0&amp;resize=200%2C200&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 21394,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9f5ca1f72b3b4c82bc4befbf0f65bf8e2d22601e",
+    "url": "https://tylerpaper.com/news/national/vladimir-putin-warned-that-the-kremlin-had-the-right-to-strike-countries-supplying-ukraine-with/image_e51f674b-33b0-5a6f-8dd4-ce922256325c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vyacheslav PROKOFYEV",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "Vladimir Putin warned that the Kremlin had the right to strike countries supplying Ukraine with weapons used to hit targets inside Russia | National | tylerpaper.com",
+    "text": "Vladimir Putin warned that the Kremlin had the right to strike countries supplying Ukraine with weapons used to hit targets inside Russia - Vyacheslav PROKOFYEV - Updated Tags As featured on Russian President Vladimir Putin said Thursday that the conflict in Ukraine had characteristics of a \"global\" war and did not rule out strikes on Western countries. Trending Topics - ['They deserve it': Hispanic achievements take center stage at Tyler HBA luncheon](/news/business/they-deserve-it-hispanic-achievements-take-center-stage-at-tyler-hba-luncheon/article_72bc6b5c-a860-11ef-ae83-9b3c16d3c15b.html) - [UT system moves to allow free tuition for qualifying students](/news/education/ut-system-moves-to-allow-free-tuition-for-qualifying-students/article_1b81af9e-a786-11ef-98bb-1f5dc5ab3b52.html) - [Susan Kay Blalock](/obituaries/susan-kay-blalock/article_bb7f022b-58e3-592d-bacb-7452690565e9.html) - [How will the new UT Promise Plus expansion work? Eltife explains tuition-free program.](/news/education/how-will-the-new-ut-promise-plus-expansion-work-eltife-explains-tuition-free-program/article_08a3ce9a-a7b1-11ef-b29b-43448534f582.html) - [Vigil in downtown Tyler honors victims, survivors of domestic violence](/news/local/vigil-in-downtown-tyler-honors-victims-survivors-of-domestic-violence/article_e270fad6-a84b-11ef-8c6d-2322af133c50.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Susan Kay Blalock",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eltife",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:12:09.279+02:00",
+    "updated": "2024-11-23T00:12:09.279+02:00"
+}

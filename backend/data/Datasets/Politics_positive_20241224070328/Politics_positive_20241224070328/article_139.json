@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "c66f1380c11397bcff7bd5ee55b0c6574c97e73a",
+        "url": "https://www.thenews.com.pk/print/1254373-project-being-launched-to-solve-potable-water-issue-says-mna",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "Project being launched to solve potable water issue, says MNA",
+        "title_full": "Project being launched to solve potable water issue, says MNA",
+        "published": "2024-11-24T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-24/l_1254373_035435_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c66f1380c11397bcff7bd5ee55b0c6574c97e73a",
+    "url": "https://www.thenews.com.pk/print/1254373-project-being-launched-to-solve-potable-water-issue-says-mna",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Our Correspondent",
+    "published": "2024-11-24T00:00:00.000+02:00",
+    "title": "Project being launched to solve potable water issue, says MNA",
+    "text": "MANSEHRA: Pakistan Muslim League-Nawaz (PMLN) central senior vice-president and MNA Sardar Mohammad Yousuf said on Saturday that the federal government would launch a mega project to address the potable water issues faced by the residents of the area. “We have been working on a trilateral potable water supply scheme worth Rs21 billion with the support of the federal and provincial governments and Kingdom of Saudi Arabia,” he told a meeting attended by the tehsil chairman and heads of various departments. Mansehra’s tehsil chairman Sheikh Mohammad Shafee briefed Sardar Yousuf about the issues of water scarcity, graveyards and streetlights. “The underground water table in the city and its suburbs has dropped significantly, drying up wells and hand pumps and creating severe water scarcity,” Yousuf said. He added that the federal and provincial governments have completed formalities for launching the mega gravity flow water supply scheme. “We are also working on another interim water supply project to ensure potable water for residents until the completion of the gravity flow scheme,” he added. Sardar Yousuf said that the city and its surrounding areas also face an acute space shortage in existing burial graveyards. A worker walks by steel rolls at a steel plant in Changshou, Chongqing, China, on August 6, 2018. —ReutersISLAMABAD:... Iran’s Consul General in Quetta, Hassan Darvish Wand.— pakistan.mfa.ir website/fileQUETTA: Iran’s Consul... Shipping activity can be seen at Port Qasim, Karachi. — APP/FileISLAMABAD: During the current fiscal year,... Mayor Peshawar Zubair Ali speaking to media persons. — Facebook/Zubair Ali Mayor Peshawar/FilePESHAWAR: Mayor Haji... This representational image shows a large number of stems of trees. — Unsplash/FileALPURI: The local Forest... Tehreek-e-Insaf leader, MNA Shandana Gulzar Khan along with others addresses media persons during a press conference...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sardar Mohammad",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mohammad Shafee",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sardar Yousuf",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:11:41.611+02:00",
+    "updated": "2024-11-24T04:59:22.253+02:00"
+}

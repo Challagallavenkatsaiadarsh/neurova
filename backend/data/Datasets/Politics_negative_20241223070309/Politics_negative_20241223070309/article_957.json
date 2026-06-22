@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "226894289bd1cdbf2095c869fbab9484c6d5b19f",
+        "url": "https://calgary.citynews.ca/2024/11/22/alberta-premier-calls-out-federal-rebates-and-gst-holiday",
+        "site_full": "calgary.citynews.ca",
+        "site": "citynews.ca",
+        "site_section": "http://www.660news.com/feed",
+        "site_categories": [
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "CityNews Calgary",
+        "title": "Alberta premier calls-out federal rebates, GST holiday",
+        "title_full": "Alberta premier calls-out federal rebates, GST holiday",
+        "published": "2024-11-23T00:33:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://calgary.citynews.ca/wp-content/blogs.dir/sites/8/2024/10/259a0831e058980bcaf3e5504aca075cdaa7a9d713f03b5b7930eec2ab2ff84d.jpg",
+        "performance_score": 0,
+        "domain_rank": 3960,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "226894289bd1cdbf2095c869fbab9484c6d5b19f",
+    "url": "https://calgary.citynews.ca/2024/11/22/alberta-premier-calls-out-federal-rebates-and-gst-holiday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cole Fortner",
+    "published": "2024-11-23T00:33:00.000+02:00",
+    "title": "Alberta premier calls-out federal rebates, GST holiday",
+    "text": "Posted Nov 22, 2024 3:33 pm. Last Updated Nov 22, 2024 3:52 pm. Alberta Premier Danielle Smith is calling out Prime Minister Justin Trudeau over his government’s plan to give out $250 rebates to Canadians and pause GST on certain foods, some alcohol, and children’s clothes and Christmas toys, ahead of a potential federal election. “The rebate is going to be timed for the new election, I think it’s pretty obvious what they’re trying to do here,” said Smith on Friday. “Because, if they genuinely wanted to deliver tax relief across the board in a fair way, they would end the carbon tax, they would end the tax on gasoline and diesel, and end the tax on home heating fuel.” “Instead, they decided to do something really political, that’s going to cause a lot of headaches for retailers.” RELATED: Liberals plan to send $250 cheques to Canadians, temporarily cutting GST on some items But how is the prime minister’s cheques and GST holiday different than Premier Smith’s affordability payments and fuel tax pause given out to Albertans in the months leading up to the last provincial election? Political experts say other than some small details, it isn’t. “They’re all short-term measures. And she mentions the timing. I looked and the timing is exactly the same. The affordability payments were announced in November 2022 before the spring election in May 2023,” said Brendan Boyd, a political science professor at MacEwan University. For her part, Premier Smith told the media her government’s affordability measures came at a time when Albertans needed it. “When we were at the height of our inflation crisis, you have to remember we were seeing inflation rates of 5 and 6 per cent, we saw gas an oil prices peak at the same time, we saw electricity prices peak at the same time,” said Smith. “That’s why we gave our fuel tax reprieve when we did, that cost us somewhere in the order of $2.8 billion to deliver that relief.” Boyd says while a $250 cheque and a slight GST holiday won’t be enough to change the tide of the upcoming federal election, he says Trudeau may be taking some lessons from the U.S. federal election earlier this month. “There’s been a real recognition in the post-mortem of the U.S. election that the democrats have lost working-class voters in swing states and across the board,” said Boyd. “And I think you’re seeing some of this recognition from the Trudeau government and the Liberals think this is something we need to address.” “I think it shows this is maybe part of the strategy going forward over the next, however long til election, is a concerted attempt to win back working-class voters.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:50:21.177+02:00",
+    "updated": "2024-11-23T03:43:54.089+02:00"
+}

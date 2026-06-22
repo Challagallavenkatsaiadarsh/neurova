@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "2b4e84c17019952bd9f715c32152e7551bdbdfad",
+        "url": "https://news.knowledia.com/ca/en/articles/google-search-change-my-vote-spiked-after-trump-s-win-0e7105f292bd95d450572649a64fe25ab67d7fba",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/ca/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "Google Search 'Change My Vote' Spiked After Trump's Win?",
+        "title_full": "Google Search 'Change My Vote' Spiked After Trump's Win?",
+        "published": "2024-11-23T01:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b4e84c17019952bd9f715c32152e7551bdbdfad",
+    "url": "https://news.knowledia.com/ca/en/articles/google-search-change-my-vote-spiked-after-trump-s-win-0e7105f292bd95d450572649a64fe25ab67d7fba",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Aleksandra Wrona",
+    "published": "2024-11-23T01:18:00.000+02:00",
+    "title": "Google Search 'Change My Vote' Spiked After Trump's Win?",
+    "text": "The spike allegedly indicated a sense of regret among those who voted for Trump. In mid-November 2024, a rumor spread that there was a notable surge in Google searches for the phrase \"change my vote\" and similar following Donald Trump's victory in the U.S. presidential election. This spike allegedly indicated a sense of voter remorse among those who cast their ballots for Trump.\nThe claim spread on social media platforms including X (formerly Twitter), Instagram, Threads, and TikTok. Similar claims also appeared in several news articles. For instance, a Nov. 13, 2024, Newsweek article on the topic claimed \"queries about 'how to change my vote' spiked on the morning of Election Day.\"\nWhat Google Trends Data Says\nSocial media posts on the topic often included screenshots from Google Trends, a tool that analyzes the relative popularity of search terms over a specified period. It assigns a value from 0 to 100 to indicate the search interest for a term, where 100 represents the peak popularity within the chosen timeframe.\nOn Nov. 20, 2024, we performed a Google Trends search for three queries mentioned most frequently in social media posts (for the past 30 days):\nhow to change my vote;\nchange my vote;\ncan i change my vote.\nBelow you can see the results, indicating there was a significant surge on Election Day, as well as on Nov. 13, 2024:\n(Google Trends)\nOn Nov. 14, 2024, one X user noted \"there may be some level of Streisand effect going on here because people are looking it up to check the claim that it's trending,\" referring to a phenomenon in which an attempt to draw attention away from something only serves to…\nAleksandra Wrona",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.snopes.com/news/2024/11/22/trump-change-my-vote-search/",
+        "https://www.snopes.com/news/2024/11/22/trump-change-my-vote-search",
+        "https://snopes.com/news/2024/11/22/trump-change-my-vote-search/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Google",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Newsweek",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:25:50.915+02:00",
+    "updated": "2024-11-23T01:25:50.915+02:00"
+}

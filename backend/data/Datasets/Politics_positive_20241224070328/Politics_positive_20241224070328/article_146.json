@@ -1,0 +1,121 @@
+{
+    "thread": {
+        "uuid": "8c4dfdec478d50cdb4145da49ed1ab4cdbacea4d",
+        "url": "https://timesofindia.indiatimes.com/city/kanpur/two-criminals-arrested-in-kanpur-encounter-with-police-cash-and-weapons-seized/articleshow/115609012.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/india/uttar-pradesh",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "UP News, Latest Uttar Pradesh News Headlines, उत्तर प्रदेश समाचार - Times of India",
+        "title": "Two Criminals Arrested in Kanpur Encounter with Police; Cash and Weapons Seized | Kanpur News - Times of India",
+        "title_full": "Two Criminals Arrested in Kanpur Encounter with Police; Cash and Weapons Seized | Kanpur News - Times of India",
+        "published": "2024-11-23T20:57:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8c4dfdec478d50cdb4145da49ed1ab4cdbacea4d",
+    "url": "https://timesofindia.indiatimes.com/city/kanpur/two-criminals-arrested-in-kanpur-encounter-with-police-cash-and-weapons-seized/articleshow/115609012.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TNN",
+    "published": "2024-11-23T20:57:00.000+02:00",
+    "title": "Two Criminals Arrested in Kanpur Encounter with Police; Cash and Weapons Seized | Kanpur News - Times of India",
+    "text": "Kanpur: The Akbarpur Kotwali police in Kanpur Dehat district nabbed two criminals following an encounter while another managed to flee on Friday night. The police also recovered Rs 51,605 cash along with firearms, ammunition and a vehicle from the accused.On Friday night, Akbarpur police station Inspector Satish Kumar and his team attempted to intercept a car near Jhadi Baba Temple along Jainpur-Takatauli Road. However, the occupants attempted to dodge the cops by opening fire at them. When the police retaliated, one of the three occupants of the car sustatined bullet injury in the right leg. He was identified as Nand Kishore Rajput alias Nandu, aresident of Nandpur under Dibiyapur police station in Auraiya district. Another accused who was also nabbed in the exchange of fire was Brijesh Kumar Gautam of Nimujhara in Auraiya district.However, their associate, Sajjan from Nandpur Umri under Dibiyapur police station in Auraiya district, escaped due to darkness. Injured Nand Kishore Rajput later admitted to CHC Akbarpur. Police seized a country-made pistol, two used shells, a 315 cartridge, stolen money worth Rs 51,605, and a vehicle. Sadar CO Tanu Upadhyay confirmed that cases were lodged under theft, Arms Act, and other relevant sections in this connection. The suspects will face court proceedings while efforts are on to nab the third accused.During interogation, the accused confessed to have committed five thefts across the district.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brijesh Kumar Gautam",
+                "sentiment": "none"
+            },
+            {
+                "name": "Satish Kumar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sajjan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Dehat",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jhadi Baba",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nandpur",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:16:28.754+02:00",
+    "updated": "2024-11-24T01:16:28.754+02:00"
+}

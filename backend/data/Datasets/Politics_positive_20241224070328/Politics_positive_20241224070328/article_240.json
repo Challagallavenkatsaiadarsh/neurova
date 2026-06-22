@@ -1,0 +1,114 @@
+{
+    "thread": {
+        "uuid": "e1508f42e008d239053b3c11440fa9b4ef4f1594",
+        "url": "https://www.cbsnews.com/baltimore/news/mary-pat-clarke-dies-86-councilwoman-impact-on-baltimore-city",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://www.cbsnews.com/baltimore/",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS Baltimore - Breaking News, Sports, First Alert Weather &amp; Community Journalism",
+        "title": "Mary Pat Clarke dies at 86, leaving behind a lasting impact on Baltimore City - CBS Baltimore",
+        "title_full": "Mary Pat Clarke dies at 86, leaving behind a lasting impact on Baltimore City - CBS Baltimore",
+        "published": "2024-11-24T01:36:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets2.cbsnewsstatic.com/hub/i/r/2024/11/23/1718c2b0-e3bb-4e96-9aba-2da6221443ed/thumbnail/1200x630/0fc4e9cb2e6a4dc4fb4fa11e0e9d5e5b/mary.png?v=b1635869826311f914073798d8df6484",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e1508f42e008d239053b3c11440fa9b4ef4f1594",
+    "url": "https://www.cbsnews.com/baltimore/news/mary-pat-clarke-dies-86-councilwoman-impact-on-baltimore-city",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T01:36:00.000+02:00",
+    "title": "Mary Pat Clarke dies at 86, leaving behind a lasting impact on Baltimore City - CBS Baltimore",
+    "text": "By Janay Reece\nUpdated on: November 24, 2024 / 3:53 PM EST / CBS Baltimore\nMary Pat Clarke dies at 86, leaving behind a lasting impact on Baltimore City",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.facebook.com/JanayReeceWDBJ7",
+        "https://www.instagram.com/janayreece_tv/",
+        "https://facebook.com/JanayReeceWDBJ7",
+        "https://instagram.com/janayreece_tv/",
+        "https://www.instagram.com/janayreece_tv"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mary Pat Clarke",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Odette Ramos",
+                "sentiment": "none"
+            },
+            {
+                "name": "Joe",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Baltimore City Council",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cathedral of Mary",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:59:06.099+02:00",
+    "updated": "2024-11-25T09:01:37.855+02:00"
+}

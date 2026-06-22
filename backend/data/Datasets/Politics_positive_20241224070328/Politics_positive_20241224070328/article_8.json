@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "3fb3765b7ccf5422df6dcdf73a58d450d3cdfca9",
+        "url": "https://www.dvidshub.net/news/486022/compacaf-attends-historic-t-6c-aircraft-delivery-vietnam",
+        "site_full": "www.dvidshub.net",
+        "site": "dvidshub.net",
+        "site_section": "https://www.dvidshub.net/rss/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "DVIDS RSS Feed: News",
+        "title": "COMPACAF Attends Historic T-6C Aircraft Delivery to Vietnam",
+        "title_full": "COMPACAF Attends Historic T-6C Aircraft Delivery to Vietnam",
+        "published": "2024-11-23T23:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://d1ldvf68ux039x.cloudfront.net/thumbs/photos/2411/8768985/1000w_q95.jpg",
+        "performance_score": 0,
+        "domain_rank": 5037,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3fb3765b7ccf5422df6dcdf73a58d450d3cdfca9",
+    "url": "https://www.dvidshub.net/news/486022/compacaf-attends-historic-t-6c-aircraft-delivery-vietnam",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Staff Sgt. Elizabeth Taranto",
+    "published": "2024-11-23T23:44:00.000+02:00",
+    "title": "COMPACAF Attends Historic T-6C Aircraft Delivery to Vietnam",
+    "text": "PHAN THIET AIR BASE, Vietnam -- General Kevin Schneider, commander of Pacific Air Forces, attended a ceremony here Nov. 20, 2024, marking the historic delivery of the first five T-6C Texan II aircraft to the Vietnam Air Defence Air Force. The delivery signifies a milestone for the U.S. Air Force and the Vietnam ADAF, with the full complement of 12 T-6C aircraft scheduled for delivery by 2025. “Today’s arrival of the first T-6 aircraft to the Vietnam Air Defence Air Force represents the promise we made to assist in your air force modernization efforts,” Schneider said. “This moment reflects our shared commitment to peace and the rule of law in the region.” The T-6C Texan II is a next-generation military trainer designed to prepare pilots for a wide range of missions. The Vietnam ADAF will incorporate the T-6C aircraft into its pilot training program at Phan Thiet Air Base, advancing its airpower capabilities. “With these aircraft and your well-trained forces, Vietnam, along with the United States and our international partners, will continue to deliver peace and stability,” Schneider said. “This ensures Vietnam is better prepared to deter threats facing your nation and the region.” The United States remains committed to supporting Vietnam’s defense resilience in alignment with Vietnam’s conditions and needs. This collaboration strengthens a defense relationship rooted in shared security interests, regional stability, and respect for international laws. Date Taken: | 11.20.2024 | Date Posted: | 11.23.2024 16:44 | Story ID: | 486022 | Location: | PHAN THIET , VN | Web Views: | 6 | Downloads: | 0 | This work, COMPACAF Attends Historic T-6C Aircraft Delivery to Vietnam, by [SSgt Elizabeth Taranto](/portfolio/1217805/elizabeth-taranto), identified by DVIDS , must comply with the restrictions shown on https://www.dvidshub.net/about/copyright.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Schneider",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Pacific Air Forces",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vietnam Air Defence Air Force",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. Air Force",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:06:09.242+02:00",
+    "updated": "2024-11-24T00:08:46.934+02:00"
+}

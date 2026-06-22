@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "e7156f5a9a100e55cf337985e7542027f9b4cfe0",
+        "url": "https://www.kdrv.com/news/national/matt-gaetz-says-he-s-not-returning-to-congress-next-year/image_f5bdac8f-4cd8-55f6-a646-36d5ea39352c.html",
+        "site_full": "www.kdrv.com",
+        "site": "kdrv.com",
+        "site_section": "http://www.kdrv.com/search/?f=rss&amp;t=article&amp;l=50&amp;s=start_time&amp;sd=desc&amp;k%5b%5d=%23topstory",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.kdrv.com - RSS Results",
+        "title": "Matt Gaetz says he’s not returning to Congress next year",
+        "title_full": "Matt Gaetz says he’s not returning to Congress next year",
+        "published": "2024-11-23T01:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/kdrv.com/content/tncms/assets/v3/editorial/f/5b/f5bdac8f-4cd8-55f6-a646-36d5ea39352c/6741102fa43e6.image.jpg?crop=1763%2C926%2C0%2C124&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 37087,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7156f5a9a100e55cf337985e7542027f9b4cfe0",
+    "url": "https://www.kdrv.com/news/national/matt-gaetz-says-he-s-not-returning-to-congress-next-year/image_f5bdac8f-4cd8-55f6-a646-36d5ea39352c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Patrick T. FallonAFP/Getty Images/File via CNN Newsource",
+    "published": "2024-11-23T01:13:00.000+02:00",
+    "title": "Matt Gaetz says he’s not returning to Congress next year",
+    "text": "Matt Gaetz says he’s not returning to Congress next year\n- Patrick T. FallonAFP/Getty Images/File via CNN Newsource\n- Updated\n0\nWeather Alert\n...FLOOD WARNING IN EFFECT UNTIL MIDNIGHT PST FRIDAY NIGHT... ...REPLACES FLOOD WATCH... * WHAT...Flooding caused by excessive rainfall and snow melt is expected. * WHERE...Portions of southwest Oregon, including Coos, Curry, Jackson, and Josephine counties and western Siskiyou County in northern California. * WHEN...Until midnight PST Friday Night. * IMPACTS...Flooding of rivers, creeks, streams, and other low-lying and flood-prone locations is expected. * ADDITIONAL DETAILS... - At 1227 PM PST, satellite estimates and rain gauge data indicate heavy rain in the warned area. Between 1 and 6 inches of rain have fallen. - Additional rainfall amounts of 3 to 7 inches are possible in the warned area. Some areas will receive snowfall and then switch to rainfall. Rain can melt the snow and cause a higher runoff response than rainfall alone. - http://www.weather.gov/safety/flood PRECAUTIONARY/PREPAREDNESS ACTIONS... Turn around, don't drown when encountering flooded roads. Most flood deaths occur in vehicles. &&\nCurrently in Medford\n56°F\nCloudy\n59°F / 47°F\n4 PM\n54°F\n5 PM\n52°F\n6 PM\n50°F\n7 PM\n48°F\n8 PM\n47°F\n© Copyright 2024\nAllen Media Broadcasting, P.O. Box 4220 Medford, OR |[Terms of Use](/site/terms.html)|[Privacy Policy](/site/privacy.html)Powered by",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Siskiyou County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:32:45.060+02:00",
+    "updated": "2024-11-23T01:32:45.060+02:00"
+}

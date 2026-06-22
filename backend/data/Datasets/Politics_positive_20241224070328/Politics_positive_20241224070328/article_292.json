@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "67f77fa4f7b5837df4d9a5be2d6278055c608313",
+        "url": "https://www.freepressjournal.in/elections-2018/maharashtra-elections-results-2024-vidya-thakur-retains-goregaon-seat-defeats-shiv-sena-ubt-candidate",
+        "site_full": "www.freepressjournal.in",
+        "site": "freepressjournal.in",
+        "site_section": "https://www.freepressjournal.in/feed",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Free Press Journal",
+        "title": "Maharashtra Elections Results 2024: Vidya Thakur Retains Goregaon Seat, Defeats Shiv Sena (UBT) Candidate",
+        "title_full": "Maharashtra Elections Results 2024: Vidya Thakur Retains Goregaon Seat, Defeats Shiv Sena (UBT) Candidate",
+        "published": "2024-11-23T21:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/freepressjournal/2024-11-24/dbw245u1/IMG7418.jpeg",
+        "performance_score": 0,
+        "domain_rank": 9736,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "67f77fa4f7b5837df4d9a5be2d6278055c608313",
+    "url": "https://www.freepressjournal.in/elections-2018/maharashtra-elections-results-2024-vidya-thakur-retains-goregaon-seat-defeats-shiv-sena-ubt-candidate",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "RUCHA KANOLKAR",
+    "published": "2024-11-23T21:04:00.000+02:00",
+    "title": "Maharashtra Elections Results 2024: Vidya Thakur Retains Goregaon Seat, Defeats Shiv Sena (UBT) Candidate",
+    "text": "Thakur’s victory over Sameer Kamalakar Desai of the Shiv Sena (Uddhav Balasaheb Thackeray), who secured 56,445 votes, highlights the BJP’s continued hold on this key constituency in Maharashtra’s Mumbai Suburban district.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vidya Jayaprakash Thakur",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Vidya Thakur",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Uddhav Balasaheb Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sameer Kamalakar Desai",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shiv Sena",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:29:38.883+02:00",
+    "updated": "2024-11-24T03:12:45.262+02:00"
+}

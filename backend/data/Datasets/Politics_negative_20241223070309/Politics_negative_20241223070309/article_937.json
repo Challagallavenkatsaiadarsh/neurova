@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "b0eaf1162d3615ec4a7addc920838eb9937835b2",
+        "url": "https://www.scmp.com/news/world/united-states-canada/article/3287821/matt-gaetz-says-he-wont-return-congress-after-dropping-out-trumps-attorney-general-pick",
+        "site_full": "www.scmp.com",
+        "site": "scmp.com",
+        "site_section": "https://www.scmp.com/news/world",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_hk",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest World News &amp; Headlines | South China Morning Post",
+        "title": "Matt Gaetz says he won’t return to Congress after dropping out as Trump’s Attorney General pick | South China Morning Post",
+        "title_full": "Matt Gaetz says he won’t return to Congress after dropping out as Trump’s Attorney General pick | South China Morning Post",
+        "published": "2024-11-23T01:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/11/23/dadd70a9-4d8d-47e0-ad3c-bf73354119f7_c37a8a6e.jpg?itok=4f5uuAhc&amp;v=1732319057",
+        "performance_score": 0,
+        "domain_rank": 582,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b0eaf1162d3615ec4a7addc920838eb9937835b2",
+    "url": "https://www.scmp.com/news/world/united-states-canada/article/3287821/matt-gaetz-says-he-wont-return-congress-after-dropping-out-trumps-attorney-general-pick",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-11-23T01:44:00.000+02:00",
+    "title": "Matt Gaetz says he won’t return to Congress after dropping out as Trump’s Attorney General pick | South China Morning Post",
+    "text": "Former US lawmaker Matt Gaetz said on Friday he will not return to Congress next year, a day after he withdrew as US president-elect Donald Trump’s nominee to lead the Department of Justice amid allegations of drug use and sex with minors.\\n“I’m still going to be in the fight but it’s going to be a from a new perch. I do not intend to join the 119th Congress,” Gaetz, a Florida Republican who had won another term in Congress, said in an interview with right-wing activist Charlie Kirk.\\nWhen he was nominated by Trump last week for the nation’s top law enforcement role, Gaetz resigned from Congress and said he did not intend to return when the new session begins in January.\\nBut his withdrawal raised questions about whether he would try to reclaim his seat in the House of Representatives.\\nGaetz faced an uphill climb to win confirmation in the Senate, as a House ethics panel investigated allegations of having sex with an underage 17-year-old girl and illicit drug use. He has denied wrongdoing.\\nGaetz’s resignation leaves Republicans with an even tighter majority in the House next year. The party has won 218 seats to Democrats’ 214, with Republicans leading in another two of the three seats that remain uncalled.\\n\\nA Gaetz spokesperson did not immediately respond to a request for comment.\\nHis seat representing his heavily Republican district in Florida will remain vacant until a special election on April 1, 2025, according to the Florida Department of State.\\nGaetz is the first cabinet-level nominee for Trump’s coming administration to withdraw, though several have faced scrutiny over past behaviour.\\nAnother Trump nominee, former Fox News personality Pete Hegseth, who was tapped as defence secretary, has also been engulfed in controversy for alleged sexual assault.\\nTrump moved to nominate former Florida attorney general and loyalist Pam Bondi following Gaetz’s withdrawal.\\nGaetz praised Bondi and said she is likely to have an easier time winning Senate approval.\\n“Pam Bondi’s confirmation won’t have the same sharp edges mine would have,” he said. “I had a full-time job explaining to senators that maybe a tweet I sent about them was rash.”\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Charlie Kirk",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "House of Representatives",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:47:50.564+02:00",
+    "updated": "2024-11-23T06:03:52.488+02:00"
+}

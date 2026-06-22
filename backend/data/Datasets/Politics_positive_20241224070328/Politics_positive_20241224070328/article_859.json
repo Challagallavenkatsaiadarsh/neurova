@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "d7cdaa8a2aa94e56bf635e79d0d3d5a02a4a744e",
+        "url": "https://www.nwaonline.com/news/2024/nov/23/ua-system-trustees-ok-changes-to-foreign-language/?news",
+        "site_full": "www.nwaonline.com",
+        "site": "nwaonline.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "UA System trustees OK changes to foreign-language degrees, recognize Razorback band on 150th anniversary",
+        "title_full": "UA System trustees OK changes to foreign-language degrees, recognize Razorback band on 150th anniversary",
+        "published": "2024-11-24T05:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wehco.media.clients.ellingtoncms.com/img/photos/2024/11/23/ARK_TAMU_band_crop_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+        "performance_score": 0,
+        "domain_rank": 14689,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d7cdaa8a2aa94e56bf635e79d0d3d5a02a4a744e",
+    "url": "https://www.nwaonline.com/news/2024/nov/23/ua-system-trustees-ok-changes-to-foreign-language/?news",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ryan Anderson",
+    "published": "2024-11-24T05:31:00.000+02:00",
+    "title": "UA System trustees OK changes to foreign-language degrees, recognize Razorback band on 150th anniversary",
+    "text": "FAYETTEVILLE -- The University of Arkansas System board of trustees approved several academic changes at several campuses -- and a resolution recognizing the venerable University of Arkansas, Fayetteville band program -- during their meeting held Thursday and Friday. Those academic changes include 100% online delivery of UA-Fayetteville's Bachelor of Arts in Advertising and Public Relations, effective fall 2025. UA will also remove the Bachelor of Arts in Arabic, French, German, Italian with concentration in Literary and Cultural Studies and Transactional Studies, and Spanish, all effective next fall. The university is reconfiguring the Bachelor of Arts in Classical Studies with concentrations in Cultures, Reception, and Digital Humanities and Greek/Latin Language into a Bachelor of Arts in World Languages, Literatures, effective next fall. The reconfigured degree will offer concentrations in: Classical Studies Cultures and Digital Humanities, Classical Studies Language, Arabic, French, German, Italian Literary and Cultural Studies, Italian Transnational Studies, and Spanish (with the Spanish concentration 100% online). The",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Education",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "University of Arkansas System",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Digital Humanities",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:15:37.649+02:00",
+    "updated": "2024-11-24T07:15:37.649+02:00"
+}

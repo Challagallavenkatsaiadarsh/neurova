@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "ddf801ddfa0272fca1c1d5f1b3510d0a632f68fd",
+        "url": "https://www.usatoday.com/story/news/politics/elections/2024/11/22/trump-fox-news-surgeon-general/76510351007",
+        "site_full": "www.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "https://www.pjstar.com/news/elections",
+        "site_categories": [
+            "media",
+            "dating",
+            "society",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_dk",
+            "top_news_th",
+            "top_news_fi",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Peoria, IL Election Results 2024: Latest Updates and Winners",
+        "title": "Dr. Janette Nesheiwat, Fox News medical contributor, picked as US Surgeon General",
+        "title_full": "Dr. Janette Nesheiwat, Fox News medical contributor, picked as US Surgeon General",
+        "published": "2024-11-23T03:34:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/11/23/USAT/76510815007-1798811547.jpg?auto=webp&crop=3199,1800,x0,y480&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 153,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ddf801ddfa0272fca1c1d5f1b3510d0a632f68fd",
+    "url": "https://www.usatoday.com/story/news/politics/elections/2024/11/22/trump-fox-news-surgeon-general/76510351007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", USA TODAY",
+    "published": "2024-11-23T03:34:00.000+02:00",
+    "title": "Dr. Janette Nesheiwat, Fox News medical contributor, picked as US Surgeon General",
+    "text": "Dr. Janette Nesheiwat, Fox News medical contributor, picked as US Surgeon General\n[President-elect Donald Trump](https://www.usatoday.com/news/politics/donald-trump/) announced Friday that he had picked Dr. Janette Nesheiwat, a Fox News medical contributor, to serve as the U.S. Surgeon General.\n“Dr. Nesheiwat is a fierce advocate and strong communicator for preventive medicine and public health,” Trump said in a statement. “She is committed to ensuring that Americans have access to affordable, quality healthcare, and believes in empowering individuals to take charge of their health to live longer, healthier lives.\"\nTrump announced the Nesheiwat pick on a whirlwind night of rapid-fire nominations that also included [Scott Bessent as Treasury secretary](https://www.usatoday.com/story/news/politics/elections/2024/11/22/scott-bessent-trump-treasury-secretary/76200432007/); Rep. Lori Chavez-DeRemer, R-Ore., as Labor secretary; Russ Vought as director of Office and Budget Management; Scott Turner as secretary of Department of Housing and Urban Development; Marty Makary as Food and Drug Administration commissioner; and Dave Weldon director of the Centers for Disease Control and Prevention.\nA graduate of the University of South Florida, Nesheiwat completed her medical residency at University of Arkansas Medical Center in Fayetteville and completed ER rotations with Johns Hopkins University.\nShe’s an author of “Beyond the Stethoscope: Miracles in Medicine,” which is touted as offering stories of miraculous recoveries, experiences in the ER, and global medical missions that illuminate the transformative power of prayer and unwavering dedication to healing and service, according to a description of the book by its publisher.\nNesheiwat currently serves as a Medical Director at CityMD, a network of urgent care centers in New York and New Jersey. Previously, she served as a physician at Washington Regional Medical Center and at Northwest Medical Hospital.\nAs a medical news correspondent, Nesheiwat hosted an educational medical television show entitled Family Health Today as well as Health Minute with Dr. Janette on KNWA-TV, an NBC affiliate in Northwest Arkansas, according to her bio listed on Fox News website. Fox News representatives said that effective Friday, she will be leaving her position with Fox.\nNesheiwat provided on-the-ground medical treatment to Americans in the aftermath of Hurricane Katrina and the Joplin tornadoes, according to the statement from Trump.\nContributing: Joey Garrison",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "negative"
+            },
+            {
+                "name": "University of Arkansas Medical Center",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johns Hopkins University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ddf801ddfa0272fca1c1d5f1b3510d0a632f68fd",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:44:23.254+02:00",
+    "updated": "2024-11-23T12:09:37.974+02:00"
+}

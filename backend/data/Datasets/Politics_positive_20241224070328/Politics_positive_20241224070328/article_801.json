@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "b8b7eb05e4ef1b930c2cd0847c20ad6a79ed6a65",
+        "url": "https://www.newindianexpress.com/states/andhra-pradesh/2024/Nov/24/andhra-pradesh-cm-lauds-pm-modi-for-maha-victory",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Andhra Pradesh CM lauds PM Modi for ‘Maha’ victory",
+        "title_full": "Andhra Pradesh CM lauds PM Modi for ‘Maha’ victory",
+        "published": "2024-11-24T01:23:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2Fv53r8jlx%2Fvictory.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b8b7eb05e4ef1b930c2cd0847c20ad6a79ed6a65",
+    "url": "https://www.newindianexpress.com/states/andhra-pradesh/2024/Nov/24/andhra-pradesh-cm-lauds-pm-modi-for-maha-victory",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-24T01:23:00.000+02:00",
+    "title": "Andhra Pradesh CM lauds PM Modi for ‘Maha’ victory",
+    "text": "VIJAYAWADA: Chief Minister N Chandrababu Naidu congratulated the Maha Yuti for registering a resounding victory in the Maharashtra Assembly elections.\n“Congratulations to the Mahayuti Alliance on securing a historic mandate in Maharashtra. This victory reflects people’s continued trust in the leadership of the Hon’ble Prime Minister Shri @narendramodi Ji, whose strategic vision, transformative policies and devotion to the people are paving the way for a Viksit Bharat to emerge,” Naidu posted on ‘X’.\nSimilarly, Andhra Pradesh BJP President and Rajamahendravaram MP Daggubati Purandeswari congratulated Prime Minister Narendra Modi and the Maha Yuti powered by the saffron party for their massive electoral victory.\nSpeaking to mediapersons at Vijayawada International Airport, Purandeswari expressed her gratitude to the people of Maharashtra for their overwhelming support. “The people of Maharashtra have blessed the BJP-led alliance, putting an end to the divisive politics of the Congress-led Maha Vikas Aghadi. This is not just a victory for the Maha Yuti, but a mandate for development and safety under the leadership of Narendra Modi,” she said.\nMeanwhile, jubilant celebrations erupted at the BJP State Office in Vijayawada, with party leaders and supporters bursting crackers and chanting slogans, ‘Narendra Modi Zindabad’. BJP State general secretary Madhukar kickstarted the celebrations. Other leaders including Uppalapati Sri Niwas Raju, M Venkata Subbaiah, and Nagalakshmiwere present at the celebrations.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Chandrababu Naidu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Daggubati Purandeswari",
+                "sentiment": "none"
+            },
+            {
+                "name": "Shri @narendramodi Ji",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maha Vikas Aghadi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "International Airport",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:48:10.373+02:00",
+    "updated": "2024-11-24T06:48:10.373+02:00"
+}

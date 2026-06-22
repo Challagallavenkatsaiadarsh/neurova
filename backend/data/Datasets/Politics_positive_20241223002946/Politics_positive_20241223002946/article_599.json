@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "7446061baee2183724d2355f8257cb1ed951d342",
+        "url": "https://www.washingtonexaminer.com/news/white-house/3239962/trump-taps-lori-chavez-deremer-labor-secretary",
+        "site_full": "www.washingtonexaminer.com",
+        "site": "washingtonexaminer.com",
+        "site_section": "https://outtherecolorado.com/home",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media"
+        ],
+        "section_title": "Denver News, Sports & Business | Denver Gazette",
+        "title": "Trump taps Lori Chavez-DeRemer for Labor Secretary",
+        "title_full": "Trump taps Lori Chavez-DeRemer for Labor Secretary",
+        "published": "2024-11-23T01:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/11/Lori-Chavez-DeRemer-.webp",
+        "performance_score": 0,
+        "domain_rank": 1732,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7446061baee2183724d2355f8257cb1ed951d342",
+    "url": "https://www.washingtonexaminer.com/news/white-house/3239962/trump-taps-lori-chavez-deremer-labor-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Annabella Rosciglione",
+    "published": "2024-11-23T01:51:00.000+02:00",
+    "title": "Trump taps Lori Chavez-DeRemer for Labor Secretary",
+    "text": "Chavez-DeRemer, a one-term congresswoman, recently lost reelection to Rep.-elect Janelle Bynum (D-OR). Had Chavez-DeRemer won the race, Trump’s pick would have narrowed the Republican’s already thin House majority . The announcement of her nomination won instant plaudits from Sean O’Brien, the president of the Teamsters union, who praised Trump for “putting American workers first.” CLICK HERE TO READ MORE FROM THE WASHINGTON EXAMINER “Congratulations to @LChavezDeRemer on your nomination! North America’s strongest union is ready to work with you every step of the way to expand good union jobs and rebuild our nation’s middle class. Let’s get to work!” he wrote on X .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Labor"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nytimes.com/interactive/2024/us/elections/house-election-swing-districts.html",
+        "https://x.com/LChavezDeRemer",
+        "https://x.com/TeamsterSOB/status/1860118006820479289",
+        "https://nytimes.com/interactive/2024/us/elections/house-election-swing-districts.html",
+        "https://www.x.com/LChavezDeRemer",
+        "https://www.x.com/TeamsterSOB/status/1860118006820479289"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:33:24.576+02:00",
+    "updated": "2024-11-23T03:36:56.876+02:00"
+}

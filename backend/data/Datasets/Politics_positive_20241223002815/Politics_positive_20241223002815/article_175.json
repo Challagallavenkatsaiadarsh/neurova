@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "5124161528cf747f07242508ec0b75c99afc2c4e",
+        "url": "https://www.jamaicaobserver.com/2024/11/22/bartlett-chang-happy-strong-voter-turnout-aenon-town",
+        "site_full": "www.jamaicaobserver.com",
+        "site": "jamaicaobserver.com",
+        "site_section": "https://www.jamaicaobserver.com/page2",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Page2 - Jamaica Observer",
+        "title": "Bartlett, Chang happy with strong voter turnout in Aenon Town",
+        "title_full": "Bartlett, Chang happy with strong voter turnout in Aenon Town",
+        "published": "2024-11-23T00:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JM",
+        "main_image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2024/11/WhatsApp-Image-2024-11-22-at-4.53.29-PM-1024x944.jpeg",
+        "performance_score": 0,
+        "domain_rank": 8397,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5124161528cf747f07242508ec0b75c99afc2c4e",
+    "url": "https://www.jamaicaobserver.com/2024/11/22/bartlett-chang-happy-strong-voter-turnout-aenon-town",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:15:00.000+02:00",
+    "title": "Bartlett, Chang happy with strong voter turnout in Aenon Town",
+    "text": "Bartlett, Chang happy with strong voter turnout in Aenon Town\nCLARENDON, Jamaica — With just under 40 per cent of voters turning out by 2:00 pm in the Aenon Town Division in Clarendon, two heavyweights of the Jamaica Labour Party (JLP), Edmond Bartlett and General Secretary Dr Horace Chang are confident that this is a sign of victory for their candidate.\nAccording to Bartlett, the atmosphere is right and the JLP supporters are excited to show up for their candidate, Suzette Barton.\n“It’s been a very interesting energy in the entire area as we move around. The voting pattern is typical of by-elections, but I’m beginning to see upticks and what is very clear is that the JLP supporters are coming out to vote and they are very buoyant and they are very excited about supporting their candidate,” said Bartlett as he told Observer Online that he is encouraged by the numbers.\n“We are not saying that our candidate should win like the other side is saying. We’re saying that our candidate will win because of the numbers we’ve been crunching. And as you notice when I go around, I don’t just go around to profile, I try to get numbers. Numbers is what win. Election is a numbers game,” added Bartlett.\nIn the meantime Chang said the turnout so far is representative of a normal local government election.\n“This Aenon Town election is a real election… The turnout is running like a normal election. We are over 20 per cent at this hour [long before 2:00 pm]. So they should make what is considered a normal parish council election turnout,” said Chang.\nThe veteran JLP campaign strategist said he expects the JLP will keep the seat after the ballots are counted this evening.\n“I am satisfied with the operation… I don’t see any challenges. Both parties are out, but I’m confident my team is doing a good job and we expect a good result this afternoon,” added Chang.\nHe argued that the JLP supporters appreciated former councillor Majorie McLeod-McFarlane, who died this year and this has encouraged them to cast their ballot for the JLP.\n“They have a lot of love for the candidate who died. There are persons who’ve turned out just out of respect for her. So I feel good about the outcome for this evening,” added Chang who expects the party’s candidate Suzette Barton to defeat the PNP’s Delroy Dawson.\n— Oneil Madden",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Horace Chang",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Edmond Bartlett",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Suzette Barton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jamaica Labour Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "JLP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aenon Town\nCLARENDON",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:02:39.640+02:00",
+    "updated": "2024-11-23T01:02:39.640+02:00"
+}

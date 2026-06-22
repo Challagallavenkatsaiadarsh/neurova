@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "87a0fb5e80f1eb2fbf051f474c5fcf0978a68dc7",
+        "url": "https://www.thehansindia.com/andhra-pradesh/bjp-activists-elated-in-guntur-924108",
+        "site_full": "www.thehansindia.com",
+        "site": "thehansindia.com",
+        "site_section": "https://www.thehansindia.com/technology/gadgets",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Gadgets",
+        "title": "BJP activists elated in Guntur",
+        "title_full": "BJP activists elated in Guntur",
+        "published": "2024-11-24T05:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://assets.thehansindia.com/h-upload/2024/11/24/1500001-bjp.jpg",
+        "performance_score": 0,
+        "domain_rank": 13895,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "87a0fb5e80f1eb2fbf051f474c5fcf0978a68dc7",
+    "url": "https://www.thehansindia.com/andhra-pradesh/bjp-activists-elated-in-guntur-924108",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "VL Syamsundar",
+    "published": "2024-11-24T05:00:00.000+02:00",
+    "title": "BJP activists elated in Guntur",
+    "text": "Just In\nBJP leaders celebrated the Mahayuti’s victory in Maharashtra at the Sankar Vilas Centre in Guntur city on Saturday.\nGuntur : BJP leaders celebrated the Mahayuti’s victory in Maharashtra at the Sankar Vilas Centre in Guntur city on Saturday.\nThe party activists burst crackers and distributed sweets.\nSpeaking on the occasion, senior BJP leader Jupudi Ranga Raju hailed the party’s victory in Maharashtra Assembly elections. He pointed out that Mahayuti has won over 230 Assembly seats. He thanked the voters of Maharashtra for supporting the BJP-led Mahayuti alliance. By voting for Mahayuti, the voters in Maharashtra extended their full support to the leadership of PM Modi, he said.\nBJP leaders Yadlapati Swaruparani, Sankkayala Umasankar, Palapati Ravi Kumar, Kokkera Srinivas Yadav and Velagaleti Gangadhar were among those who participated in the victory celebrations.\n© 2024 Hyderabad Media House Limited/The Hans India. All rights reserved. Powered by [hocalwire.com](http://hocalwire.com/)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bejan Daruwalla",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sheraton Hyderabad Hotel",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:38:35.169+02:00",
+    "updated": "2024-11-24T08:01:25.833+02:00"
+}

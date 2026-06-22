@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "66404a14ace993001e65706e523a78d40f6869c3",
+        "url": "https://northcountrynow.com/stories/stec-blasts-federal-decision-to-reduce-operating-hours-at-four-northern-border-crossings,273585",
+        "site_full": "northcountrynow.com",
+        "site": "northcountrynow.com",
+        "site_section": "https://northcountrynow.com/massena",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Massena - North Country Now",
+        "title": "Stec blasts federal decision to reduce operating hours at four northern border crossings",
+        "title_full": "Stec blasts federal decision to reduce operating hours at four northern border crossings",
+        "published": "2024-11-23T00:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 80220,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "66404a14ace993001e65706e523a78d40f6869c3",
+    "url": "https://northcountrynow.com/stories/stec-blasts-federal-decision-to-reduce-operating-hours-at-four-northern-border-crossings,273585",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:05:00.000+02:00",
+    "title": "Stec blasts federal decision to reduce operating hours at four northern border crossings",
+    "text": "Sen. Dan Stec (R,C-Queensbury) today expressed his outrage over the decision by United States Customs and Border Protection to reduce operating hours at four northern border crossings in New York …\nSen. Dan Stec (R,C-Queensbury) today expressed his outrage over the decision by United States Customs and Border Protection to reduce operating hours at four northern border crossings in New York State.\nGiven the unique relationship between communities on both sides of the U.S.-Canadian border, as well as the turmoil created in this region by the illegal immigration crisis, the move to reduce these operating hours will have a major impact on the safety and well-being of thousands of New Yorkers.\n“Communities along the U.S.-Canadian border have a special bond, with residents on each side serving to assist the other as firefighters and EMS first responders,” said Stec.\n“Just today because of this mutual assistance pact, two Canadian fire companies used one of these crossings to respond to a structure fire in Chateaugay. Emergencies don’t happen on a planned timetable; if a community along the border is in need of assistance, a closed crossing means emergency crews will have to take substantive, lengthy detours to provide aid. It can quite literally be the difference between life and death. In less than a day, I’ve already heard from multiple fire departments and first responders about how much more difficult this will make emergency response in our rural communities.\n“Someone needs to tell federal officials and Democrat leaders that you can’t have a part-time border.”\nStec represents New York's 45th Senate District which includes part of St. Lawrence County.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dan Stec",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United States Customs",
+                "sentiment": "none"
+            },
+            {
+                "name": "EMS",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chateaugay",
+                "sentiment": "none"
+            },
+            {
+                "name": "State",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:16:14.312+02:00",
+    "updated": "2024-11-23T01:16:14.312+02:00"
+}

@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "9228c6cdcb3f6b6d5666bff4dd7591d971e74a4f",
+        "url": "https://radio.gov.pk/23-11-2024/pakistan-uk-agree-to-enhance-bilateral-ties-in-diverse-sectors",
+        "site_full": "radio.gov.pk",
+        "site": "radio.gov.pk",
+        "site_section": "https://radio.gov.pk",
+        "site_categories": [
+            "law_government_and_politics",
+            "us_government_resources",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "RADIO PAKISTAN",
+        "title": "Pakistan, UK agree to enhance bilateral ties in diverse sectors",
+        "title_full": "Pakistan, UK agree to enhance bilateral ties in diverse sectors",
+        "published": "2024-11-23T05:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://newsimage.radio.gov.pk/20241123/14988435281732331819.jpg",
+        "performance_score": 0,
+        "domain_rank": 70022,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9228c6cdcb3f6b6d5666bff4dd7591d971e74a4f",
+    "url": "https://radio.gov.pk/23-11-2024/pakistan-uk-agree-to-enhance-bilateral-ties-in-diverse-sectors",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@RadioPakistan",
+    "published": "2024-11-23T05:28:00.000+02:00",
+    "title": "Pakistan, UK agree to enhance bilateral ties in diverse sectors",
+    "text": "Minister for Law, Azam Nazeer Tarar, held a meeting with the UK Parliamentary Under-Secretary of State for the Middle East, Afghanistan, and Pakistan, Hamish Falconer in Islamabad.\nThe meeting focused on strengthening bilateral cooperation in human rights, justice reforms, and addressing climate change challenges.\nDuring the meeting, Azam Nazeer Tarar outlined Pakistan’s progress in human rights, particularly emphasizing the National Action Plan on Human Rights, which provides a robust framework for policy reforms and the implementation of international conventions.\nFurthermore, the meeting addressed the effective protection of minority rights under Articles 20–36 of the Constitution of Pakistan.\nOn climate change, the Minister briefed the UK delegation about the recent constitutional amendment that recognizes the right to a clean, healthy, and sustainable environment as a fundamental right.\nHamish Falconer commended Pakistan’s proactive measures to improve human rights and justice systems and welcomed the constitutional recognition of climate action as a fundamental right.\nHe assured the UK’s continued support in advancing these priorities, particularly through technical assistance and collaborative programs aimed at achieving global human rights and environmental goals.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Azam Nazeer Tarar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hamish Falconer",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:28:08.141+02:00",
+    "updated": "2024-11-23T05:28:08.141+02:00"
+}

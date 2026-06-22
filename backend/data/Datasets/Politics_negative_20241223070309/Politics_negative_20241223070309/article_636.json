@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "db818565ac50817b8ca09029266f13985efb93a1",
+        "url": "https://money.usnews.com/investing/news/articles/2024-11-22/guessing-game-over-trumps-treasury-pick-adds-to-us-bond-markets-negative-mood",
+        "site_full": "money.usnews.com",
+        "site": "usnews.com",
+        "site_section": "http://www.usnews.com/rss/usnews.rss",
+        "site_categories": [
+            "investing",
+            "credit_debt_and_loans",
+            "finance",
+            "mutual_funds",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_us",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "U.S. News",
+        "title": "Guessing Game Over Trump's Treasury Pick Adds to US Bond Market's Negative Mood",
+        "title_full": "Guessing Game Over Trump's Treasury Pick Adds to US Bond Market's Negative Mood",
+        "published": "2024-11-23T00:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.usnews.com/dims4/USNEWS/ada79e7/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ffa%2Fb22c764e1e6f4415776cd806a8a144%2Ftag%3Areuters.com%2C2024%3Anewsml_LYNXMPEKAL0VD%3A12024-11-22T222400Z_1_LYNXMPEKAL0VD_RTROPTP_3_USA-ELECTION-WALL-STREET.JPG",
+        "performance_score": 0,
+        "domain_rank": 301,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "db818565ac50817b8ca09029266f13985efb93a1",
+    "url": "https://money.usnews.com/investing/news/articles/2024-11-22/guessing-game-over-trumps-treasury-pick-adds-to-us-bond-markets-negative-mood",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Reuters",
+    "published": "2024-11-23T00:24:00.000+02:00",
+    "title": "Guessing Game Over Trump's Treasury Pick Adds to US Bond Market's Negative Mood",
+    "text": "Reuters\nFILE PHOTO: A view shows a hat in support of Republican Donald Trump, after he won the U.S. presidential election, at the New York Stock Exchange (NYSE) in New York City, U.S., November 6, 2024. REUTERS/Andrew Kelly/File Photo\nBy Davide Barbuscia\n(Reuters) - Investors are hoping President-elect Donald Trump will name a Treasury secretary soon who will assuage their concerns about the Republican's policy promises that have weighed on an already sagging U.S. government bond market.\nThe benchmark U.S. 10-year yield, which moves inversely to bond prices, is hovering near a five-month high as traders fret about the potential for a rebound in inflation and increase in the federal budget deficit from Trump’s economic plans such as tax cuts and import tariffs.\nMore recently, uncertainty over who will fill the Treasury role has added to investor concerns.\nThe latest leg of the Treasury selloff is due to worries over “fiscal concerns, increased spending and (the) Treasury secretary,” said George Catrambone, head of fixed income and trading at DWS.\nAccording to a Wall Street Journal report on Thursday, former investment banker Kevin Warsh, who served on the Federal Reserve Board, is one of Trump's Treasury secretary candidates on the understanding that he could later become Fed chairman. That deepened uncertainty and fueled investors’ hopes that a resolution would be quick in coming.\nOther top candidates include investor Scott Bessent and Apollo Global Management Chief Executive Marc Rowan. Wagers on who will get the job have drawn over $5 million in bets on the Polymarket prediction platform with Warsh in the lead, followed closely by Bessent.\nThe Treasury secretary oversees U.S. economic and tax policy, and Trump's nominee will be tasked with carrying out his plans. As a result, the investment world, from global bond traders to U.S. corporate treasurers, is keenly interested in the individual's economic views and the kind of counsel they will give Trump behind closed doors.\n Campe Goodman, Wellington Management Company fixed income portfolio manager, said yields would ease if Trump nominated a Treasury secretary who makes a point of addressing worries that key Trump policies will add to the budget deficit and inflation.\n“I think whoever (Trump) gets is probably going to talk a little more fiscally responsible than the market expects,” he said. “I think he’ll want someone who talks somewhat responsibly.”\nAnalysts at BMO Capital Markets said investor anxiety over the pick has been comparatively subdued because all three top contenders “fall into the category of qualified adults in the room” though the market prefers the question be settled quickly.\nInvestors are also focused on the new administration’s position on Fed independence since central bank policy is a key factor in Treasury price moves.\nTrump in August said the president should have a \"say\" in Fed decisions, and according to media reports, his allies have drafted proposals to erode the Fed's independence.\n\"I hope the Fed stays independent because that’s good for the bond market,” said Goodman.\nSponsored Bank Accounts\n(Reporting by Davide Barbuscia; Writing by Ira Iosebashvili; Editing by Cynthia Osterman)\nCopyright 2024 Thomson Reuters .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:14:42.556+02:00",
+    "updated": "2024-11-23T01:14:42.556+02:00"
+}

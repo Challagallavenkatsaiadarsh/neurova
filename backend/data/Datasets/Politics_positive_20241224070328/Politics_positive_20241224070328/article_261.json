@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "5d5faa23049c43698f88ebaa098208131f489ea7",
+        "url": "https://www.bnnbloomberg.ca:443/investing/commodities/2024/11/23/cop29-ends-with-deal-on-climate-finance-after-bitter-fight",
+        "site_full": "www.bnnbloomberg.ca",
+        "site": "bnnbloomberg.ca",
+        "site_section": "https://bnnbloomberg.ca/investing",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Investing Insights, Market Trends News and Analysis – BNN Bloomberg",
+        "title": "COP29 Ends With Deal on Climate Finance After Bitter Fight",
+        "title_full": "COP29 Ends With Deal on Climate Finance After Bitter Fight",
+        "published": "2024-11-24T00:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.bnnbloomberg.ca/resizer/v2/QE2WGQGQMSO2RM4GYFJ3S5WEUM.jpg?smart=true&amp;auth=5d59c0334044c9048ec2e3f5ebd8c69330a11b3134feb7b71384ae6e7108db62&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 2802,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d5faa23049c43698f88ebaa098208131f489ea7",
+    "url": "https://www.bnnbloomberg.ca:443/investing/commodities/2024/11/23/cop29-ends-with-deal-on-climate-finance-after-bitter-fight",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jennifer A. Dlouhy, John Ainger, Akshat Rathi, Alfred Cang",
+    "published": "2024-11-24T00:40:00.000+02:00",
+    "title": "COP29 Ends With Deal on Climate Finance After Bitter Fight",
+    "text": "(Bloomberg) -- Nearly 200 countries agreed to triple the amount of money available to help developing countries confront rapidly warming temperatures.\nBut the deal reached at the close of the two-week COP29 summit in Azerbaijan resulted from fractious and at times openly hostile negotiations, producing an agreement that even its supporters may see as insufficient and disappointing. The process of global climate cooperation will lurch forward from here under the weight of heavier existential questions.\nRich countries have pledged to provide at least $300 billion annually by 2035, through a wide variety of sources, including public finance as well as bilateral and multilateral deals. The agreement also calls on parties to work toward unleashing a total of $1.3 trillion a year, with most of it expected to come through private financing.\nDeveloped and developing countries entered the negotiations far apart on what was necessary yet realistic. At one point on Saturday, the talks even appeared to be on the brink of collapse, before the mood lifted late in the evening following numerous closed-door meetings.\n“It was hard fought” and the amount of financing “is at the boundary between what is politically achievable today in developed countries and what would make a difference in developing countries,” said Avinash Persaud, special advisor on climate change to the President of the Inter-American Development Bank.\nRich nations are grappling with a slew of fiscal and political constraints, including inflation, constrained budgets and rising populism. The election of Donald Trump and his threat to pull the US out of the landmark Paris climate agreement also hung over the COP29 summit early on.\nUnder a compromise to get a deal over the line, rich nations eventually agreed to commit $50 billion more than what a draft agreement on Friday called for. They had also made any agreement contingent on reaffirming last year’s COP28 outcome in Dubai that included a vow to transition away from fossil fuels.\nA separate text calls on parties to “contribute to the global efforts” toward that landmark agreement, without explicitly naming fossil fuels.\n‘Too Little’\nThe promised funding, however, falls short of the trillions of dollars poor and vulnerable nations say they need to climate-proof their economies. They also want more of that money to come in the form of grants and other affordable financial support, since market-based loans risk deepening their debt burdens.\nThe deal’s adoption came over the objections of India, whose delegates had raised their hands in an attempt to intervene, and as the gavel fell, walked up to the stage in a failed bid to get attention.\nLeena Nandan, India’s secretary of the ministry of environment, forest and climate change, called the deal inadequate. “The goal is too little, too distant,” she said, her speech punctuated frequently by applause and cheers.\nStill, for some the result will likely serve as proof the COP process is still the best approach for coordinating global action to meet the escalating challenges of climate change.\n“COP29 took place in tough circumstances but multilateralism is alive and more necessary than ever,” Laurence Tubiana, chief executive office of European Climate Foundation, an architect of the landmark Paris Agreement.\nThe new agreement will help inform individual country commitments for cutting greenhouse gas emissions by 2035 as well as the next round of UN climate talks in Brazil. Many developing nations have emphasized the scale of available climate finance is directly tied to how quickly they can build emission-free energy and how ambitious they can be in setting carbon-reducing targets due in February.\n(Updates with reactions from the fifth paragraph.)\n©2024 Bloomberg L.P.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Bloomberg",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "5d5faa23049c43698f88ebaa098208131f489ea7",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:10:01.582+02:00",
+    "updated": "2024-11-24T02:10:01.582+02:00"
+}

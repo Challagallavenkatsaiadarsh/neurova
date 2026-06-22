@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "2b9d378a3757d258e8ba77860fc7e00aabd5d91d",
+        "url": "https://www.newsbreak.com/13wmaz-524559/3686050201024-washington-county-deputies-arrest-3-in-contraband-seizure-per-report",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://newsbreak.com/tennille-ga",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Tennille, GA Local News and More | NewsBreak",
+        "title": "Washington County deputies arrest 3 in contraband seizure, per report",
+        "title_full": "Washington County deputies arrest 3 in contraband seizure, per report",
+        "published": "2024-11-22T23:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/2xmZX2_0wy8xQAb00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b9d378a3757d258e8ba77860fc7e00aabd5d91d",
+    "url": "https://www.newsbreak.com/13wmaz-524559/3686050201024-washington-county-deputies-arrest-3-in-contraband-seizure-per-report",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "13WMAZ",
+    "published": "2024-11-22T23:17:00.000+02:00",
+    "title": "Washington County deputies arrest 3 in contraband seizure, per report",
+    "text": "13WMAZ 2 hours ago 2 hours ago Comments / YOU MAY ALSO LIKE 13WMAZ59 minutes ago Mississippi News Group3 days ago WWPW Power 105.31 day ago 13WMAZ3 days ago Uncovering Florida16 days ago 13WMAZ2 days ago 13WMAZ1 day ago Golden Gate Media3 days ago The Mirror US2 days ago 13WMAZ2 days ago Robert Russell Shaneyfelt12 days ago 13WMAZ1 day ago The Current GA29 days ago Explore Beaufort SC19 days ago Angry Ben3 hours ago Golden Gate Media12 days ago Dianna Carney1 day ago Arizona Luminaria6 days ago Funeral home gives grieving family dirt from 6-month-old's grave site as a 'replacement' for the remains they lost: Lawsuit Law & Crime1 day ago Dianna Carney1 day ago The Shenandoah (PA) Sentinel19 days ago The HD Post5 hours ago The HD Post10 days ago Jacksonville Today22 days ago Jacksonville Today24 days ago Arizona Luminaria9 days ago Explore Beaufort SC24 days ago Northern Kentucky Tribune21 days ago Jacksonville Today11 days ago Dianna Carney11 days ago Get updates delivered to you daily. Free and customizable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Robert Russell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dianna",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WWPW Power",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:39:50.276+02:00",
+    "updated": "2024-11-23T01:39:50.276+02:00"
+}

@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "51877c9a453c406258811e232031df62bb428e52",
+        "url": "https://local12.com/news/local/issue-election-integrity-more-questions-arise-over-recent-nky-election-issues-problems-precinct-voting-voters-boone-county-union-contest-results-outcome-ballots-redo-registered-voter-cincinnati-ohio",
+        "site_full": "local12.com",
+        "site": "local12.com",
+        "site_section": "https://local12.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "chevron-right",
+        "title": "'An issue of election integrity': More questions arise over recent NKY election issues",
+        "title_full": "'An issue of election integrity': More questions arise over recent NKY election issues",
+        "published": "2024-11-22T22:53:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://local12.com/resources/media2/16x9/1280/986/center/90/182cb51a-926a-486b-b762-756d96be1dda-UNIONVOTINGFOLO112224.transfer_frame_2271.jpeg",
+        "performance_score": 0,
+        "domain_rank": 10090,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "51877c9a453c406258811e232031df62bb428e52",
+    "url": "https://local12.com/news/local/issue-election-integrity-more-questions-arise-over-recent-nky-election-issues-problems-precinct-voting-voters-boone-county-union-contest-results-outcome-ballots-redo-registered-voter-cincinnati-ohio",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "James Pilcher, WKRC",
+    "published": "2024-11-22T22:53:00.000+02:00",
+    "title": "'An issue of election integrity': More questions arise over recent NKY election issues",
+    "text": "UNION, Ky. (WKRC) - New records reveal that no voters from the city of Union cast ballots in Precinct 15 at Shirley Mann Elementary School during the recent election, despite the city being included in that precinct.\nLawyer Steve Megerle, representing Commissioner Doug Bine, who finished fifth by 65 votes, is preparing to contest the results.\n\"The more we peel back the onion, the more irregularities we find and the more problems. And this is certainly an issue of election integrity,\" Megerle said.\nBoone County Clerk Justin Crigler previously acknowledged that voters at two Union precincts received incorrect ballots, preventing them from voting in the city commission election, while non-Union residents did vote in that race.\nA judge ruled a recount unnecessary due to the obvious nature of the problems, [suggesting a possible partial or full redo of the city election.](https://local12.com/news/local/recount-ruled-out-northern-kentucky-election-special-election-possible-boone-county-union-voters-voting-ballot-issues-polling-locations-incorrect-politics-political-race-judge-ruling-precincts-trump-kamala-local-cincinnati) Despite this, the Board of Elections certified the election on November 15, which Crigler said was required by law.\nCrigler declined an on-camera interview but stated that no registered voters reside in the part of the precinct within the city of Union, creating a so-called \"ghost\" precinct. Consequently, he said that no Union-specific ballots were sent there.\nHe added that his office is prepared to participate in the pending contest action and has been cooperative with the inquiry to date.\n\"This office must and always will uphold the highest standard of transparency, and I will ensure the integrity of every vote and every election here in Boone County,\" Crigler said.\nMegerle and others argue that at least one building in that area could house voters, and even one disenfranchised vote could pose an issue.\n\"It was probably less than a hundred votes from second place to fifth place. So, in a case like this, every vote matters, and this is very discouraging that the more that this is going on, the more we're finding, the more we're discovering,\" Megerle said.\nHe also raised the possibility of an impact on the Florence City Council election, given the same location of the precinct, questioning if any Union voters were given Florence ballots.\nCara Stewart, who represents Brian Garner, the fourth-place finisher, said:\n\"I do believe that the new information deserves attention. We do need to figure out exactly what's going on.\"\nEric Dulaney, who finished second, expressed his desire for resolution and called for the Kentucky Attorney General to review the Boone County Clerk's Office to ensure proper procedures are followed.\n\"We need to ensure that this doesn't happen to anyone else or happen to us in the future. I mean, I'm thinking of the forest for the trees,\" Dulaney said.\nThe Boone County Board of Elections will meet Monday behind closed doors in executive session to discuss potential lawsuits and solutions, which could include holding the election again in the affected precincts. However, state law may require a new election for the entire city if more voters are impacted.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:41:50.406+02:00",
+    "updated": "2024-11-23T00:41:50.406+02:00"
+}

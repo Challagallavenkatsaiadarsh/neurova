@@ -1,0 +1,71 @@
+{
+    "thread": {
+        "uuid": "a7ccc51275de884586fd7934c3868cffe9cc6d7e",
+        "url": "https://www.seattletimes.com/nation-world/how-many-americans-have-guns-new-poll-finds-spike-in-ownership-among-one-group",
+        "site_full": "www.seattletimes.com",
+        "site": "seattletimes.com",
+        "site_section": "https://www.seattletimes.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "The Seattle Times The Seattle Times",
+        "title": "How many Americans have guns? New poll finds spike in ownership among one group",
+        "title_full": "How many Americans have guns? New poll finds spike in ownership among one group",
+        "published": "2024-11-22T23:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.seattletimes.com/wp-content/uploads/2024/11/11222024_whoguns-tzrNov22_tzr_130955.jpg?d=1200x630",
+        "performance_score": 0,
+        "domain_rank": 957,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a7ccc51275de884586fd7934c3868cffe9cc6d7e",
+    "url": "https://www.seattletimes.com/nation-world/how-many-americans-have-guns-new-poll-finds-spike-in-ownership-among-one-group",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brendan Rascius",
+    "published": "2024-11-22T23:18:00.000+02:00",
+    "title": "How many Americans have guns? New poll finds spike in ownership among one group",
+    "text": "The gun ownership rate among Republican women has increased significantly in recent years, new polling reveals.\nAccording to Gallup’s annual gun ownership survey — which groups results in six-year clusters — [33% of GOP women owned guns](https://news.gallup.com/poll/653621/gun-ownership-rates-spiked-among-republican-women.aspx) between 2019 and 2024. That is a 14-point increase from 2007 to 2012, when 19% of Republican women owned firearms.\nThe poll, which sampled 6,425 adults from around the country, has a margin of error of about 1 percentage point.\nThe overall gun ownership rate, meanwhile, has held steady at about 30% due to decreases in ownership among several demographics.\nFor example, 29% of Democratic men owned firearms between 2019 and 2024, representing a 7-point decrease from 2007 to 2012. Similarly, 39% of independent men owned guns during the most recent survey period, marking a 5-point decline from 2007 to 2012.\nDespite these trends, men are still far more likely to own guns than women — 43% versus 20%. However, the gender gap has narrowed from 30 points in 2007 to 2012 to 23 points in 2019 to 2024.\nThe partisan gap, on the other hand, has grown.\nIn 2007 to 2012, there was a 16-point gap between the gun ownership rates of Republicans (38%) and Democrats (22%). Now, that gap stands at 28 points — with nearly half of Republicans, 47%, and just 19% of Democrats owning guns.\nThe poll also found large differences in gun ownership rates based on geography. In 2019 to 2024, 51% of rural residents owned guns, while 20% of large city residents said the same. Similarly, during the most recent survey period, 40% of Southern residents owned guns, while 19% of Eastern residents said the same.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:28.269+02:00",
+    "updated": "2024-11-23T00:25:43.269+02:00"
+}

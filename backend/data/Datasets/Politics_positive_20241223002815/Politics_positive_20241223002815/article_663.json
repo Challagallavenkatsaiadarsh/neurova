@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "983e6616097fa076ae198fa7e7f4b4fae79de022",
+        "url": "https://www.kens5.com/article/news/local/tejano-musician-bobby-pulido-announces-retirement/503-26db0ae8-ceac-4ccd-aa57-6afcb5feabaa",
+        "site_full": "www.kens5.com",
+        "site": "kens5.com",
+        "site_section": "https://www.kens5.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "San Antonio&#x27;s Leading Local News: Weather, Traffic, Sports and more | San Antonio, Texas | kens5.com",
+        "title": "Bobby Pulido announces farewell tour, plans to run for political office in 2026",
+        "title_full": "Bobby Pulido announces farewell tour, plans to run for political office in 2026",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.kens5.com/assets/KIII/images/a22a64b5-1596-4dc5-8544-aaa266cd952a/20241122T135047/a22a64b5-1596-4dc5-8544-aaa266cd952a_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 10776,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "983e6616097fa076ae198fa7e7f4b4fae79de022",
+    "url": "https://www.kens5.com/article/news/local/tejano-musician-bobby-pulido-announces-retirement/503-26db0ae8-ceac-4ccd-aa57-6afcb5feabaa",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Mia Valdez",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Bobby Pulido announces farewell tour, plans to run for political office in 2026",
+    "text": "CORPUS CHRISTI, Texas — Tejano musician Bobby Pulido has announced plans for a farewell tour set to take place next year. Pulido also announced that he plans to pursue political office in 2026. In a video posted to Facebook on Thursday, the beloved musician said he had given the decision a lot of thought, and it was not made hastily. \"I feel like my life has come full circle,\" he said, referencing his past studies in political science at St. Mary's University in San Antonio and a lifetime interest in public service. Pulido did not disclose what office he plans to run for or any other details, but said that in due time, the public will know what he stands for and how he 'plans to serve his people.' \"I've reached generations of people through my music and have been very blessed to have felt their love,\" Pulido said. \"Next year, I'll be celebrating 30 years in the music business, and to be quite honest, I'm enjoying the most success I've ever had.\" \"But like the saying goes, all things must come to an end.\" This is a developing story. Stay with 3NEWSfor the latest updates. More from 3News on KIIITV.com: [Thomas J. Henry to donate to food banks, end Thanksgiving turkey giveaways](/article/news/local/thomas-j-henry-to-donate-to-food-banks-ending-thanksgiving-turkey-giveaways/503-87f6c50e-646e-4976-921f-35fdd8bc95a9)[Enjoy free admission to 3 local museums for the holidays](/article/news/local/free-admission-to-local-museums/503-da846987-21f1-4515-bdbf-d4d292c19a16)[What races will Corpus Christi residents be asked to vote for in the runoff election?](/article/news/politics/elections/corpus-christi-runoff-election/503-74588630-c5ed-43ca-90b6-1dc4084edad0)[Getting the run around trying to find a primary care doctor? You're not alone](/article/news/local/corpus-christi-shortage-of-primary-care-doctors/503-cbb3f2df-e98f-4701-a336-c7dac6431002)[Police increase patrols on Shoreline to prevent racing, reckless driving](/article/news/local/police-increase-patrols-to-prevent-reckless-driving/503-546e06ae-ddc7-4a61-9a9d-1392a4059615)[King head football coach Foster moves to district-level job, CCISD announces](/article/sports/high-school/king-head-football-coach-moving-to-district-level-job/503-330afd32-53f5-435a-a3af-e54adc09f7c2)[Department of Health confirms Alice student contracted tuberculosis](/article/news/local/alice-high-school-student-tuberculosis-department-of-state-health-services/503-a0105518-62b0-4c06-bbae-e9e308d21a3c) Subscribe to our YouTube channel for your daily news and exclusive extended interviews. Do you have a news tip? Tell 3! Email [tell3@kiiitv.com](mailto:tell3@kiiitv.com) so we can get in touch with you about your story should we have questions or need more information. We realize some stories are sensitive in nature. Let us know if you'd like to remain anonymous.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.youtube.com/@KIIITV",
+        "https://youtube.com/@KIIITV"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobby Pulido",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "St. Mary's University",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:01:00.723+02:00",
+    "updated": "2024-11-23T04:52:33.506+02:00"
+}

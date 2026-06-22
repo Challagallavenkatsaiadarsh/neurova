@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "91ee3ae22d313d1613ec1d57024751618842652c",
+        "url": "https://performanceracing.com/magazine/industry-news/11-22-2024/friends-laguna-seca-terminates-management-agreement-ad-narigi",
+        "site_full": "performanceracing.com",
+        "site": "performanceracing.com",
+        "site_section": "https://performanceracing.com/rss.xml",
+        "site_categories": [],
+        "section_title": "Performance Racing Industry",
+        "title": "Friends of Laguna Seca Terminates Management Agreement With A&D Narigi Consulting",
+        "title_full": "Friends of Laguna Seca Terminates Management Agreement With A&D Narigi Consulting",
+        "published": "2024-11-22T23:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://performanceracing.com/sites/default/files/2024-11/LagunaSeca-1400x600.jpg",
+        "performance_score": 0,
+        "domain_rank": 113340,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "91ee3ae22d313d1613ec1d57024751618842652c",
+    "url": "https://performanceracing.com/magazine/industry-news/11-22-2024/friends-laguna-seca-terminates-management-agreement-ad-narigi",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ajh",
+    "published": "2024-11-22T23:18:00.000+02:00",
+    "title": "Friends of Laguna Seca Terminates Management Agreement With A&D Narigi Consulting",
+    "text": "Friends of Laguna Seca Terminates Management Agreement With A&D Narigi Consulting\nFriends of Laguna Seca, the group managing WeatherTech Raceway Laguna Seca in Monterey, California, and A&D Narigi Consulting will terminate the management agreement between the two parties, effective December 31.\nA&D Narigi decided that the termination of the management agreement is the best step forward for Laguna Seca and for Friends to execute its long-term vision for the facility, the company said in a statement announcing the decision.\n\"Since 2020, A&D Narigi, LLC has done a great service to Monterey County and Laguna Seca Recreation Area, including WeatherTech Raceway Laguna Seca, in returning the operations of the facility to profitability and in the many improvements made to the park during the past few years, including the new racing surface and Mission Foods Bridge,\" stated Ross Merrill, president of the Friends of Laguna Seca. \"Friends will take over management of Laguna Seca while retaining all existing employees. We are looking forward to a bright future for Laguna Seca under our new operating structure.\"\n\"I have put a lot of time and effort into Laguna Seca Recreation Area and WeatherTech Raceway, and I am extremely proud of my teams' efforts, which have yielded impressive results, as well as my personal and professional commitment to its future these past five years\", stated John Narigi, president of A&D Narigi Consulting, LLC.\nFor more information, click here.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Corporate Governance and CSR"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ross Merrill",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "WeatherTech Raceway Laguna Seca",
+                "sentiment": "none"
+            },
+            {
+                "name": "A&D Narigi Consulting",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:35:31.640+02:00",
+    "updated": "2024-11-23T01:35:31.640+02:00"
+}

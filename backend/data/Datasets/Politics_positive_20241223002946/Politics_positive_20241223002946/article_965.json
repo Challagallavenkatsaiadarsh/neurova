@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "cb76fe4e4ccc14583760fccfc4b9e53c0253b682",
+        "url": "https://crisis24.garda.com/alerts/2024/11/spain-activists-to-demonstrate-in-madrid-and-valencia-nov-24",
+        "site_full": "crisis24.garda.com",
+        "site": "garda.com",
+        "site_section": "https://crisis24.garda.com",
+        "site_categories": [],
+        "section_title": "Crisis24 | Actionable Risk Management",
+        "title": "Activists to march in central Madrid and protest at Plaza de la Virgen in Valencia, Spain, Nov. 24....",
+        "title_full": "Activists to march in central Madrid and protest at Plaza de la Virgen in Valencia, Spain, Nov. 24....",
+        "published": "2024-11-23T04:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 18650,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cb76fe4e4ccc14583760fccfc4b9e53c0253b682",
+    "url": "https://crisis24.garda.com/alerts/2024/11/spain-activists-to-demonstrate-in-madrid-and-valencia-nov-24",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Crisis24",
+    "published": "2024-11-23T04:17:00.000+02:00",
+    "title": "Activists to march in central Madrid and protest at Plaza de la Virgen in Valencia, Spain, Nov. 24....",
+    "text": "22 Nov 2024 | 11:50 PM UTC\nSpain: Activists to demonstrate in Madrid and Valencia Nov. 24\nActivists to march in central Madrid and protest at Plaza de la Virgen in Valencia, Spain, Nov. 24. Heightened security likely.\nActivists plan to march in central Madrid and protest at Placa de la Verge/Plaza de la Virgen in Valencia on Nov. 24. The purpose of the demonstrations is to denounce the government's response to severe flooding that occurred in Valencia Province on Oct. 29. Demonstrators in Madrid will gather at the Atocha Roundabout at 12:00 before marching to the Congreso de los Diputados on Carrera de San Jeronimo. Protesters in Valencia plan to rally at Placa de la Verge/Plaza de la Virgen 12:00-14:00. It was not immediately clear how many participants may attend the gatherings.\nPolice will likely deploy along the march route in Madrid and near Placa de la Verge/Plaza de la Virgen in Valencia to facilitate the gatherings. Movements by demonstrators or road closures by police will likely disrupt travel near the demonstration areas. Low-level confrontations between demonstrators and law enforcement officers, frustrated motorists, or opposed individuals cannot be ruled out.\nAvoid the affected areas as a standard precaution. Allow additional time if traveling near the protest sites. Strictly heed all instructions from law enforcement officers. Immediately depart the area at the first sign that any security disturbance may occur.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Province",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:58:00.076+02:00",
+    "updated": "2024-11-23T05:58:00.076+02:00"
+}

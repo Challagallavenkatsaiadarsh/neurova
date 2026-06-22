@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "0fbe5ebf8aeffa808360e5e5a34a4ff8b067ec9f",
+        "url": "https://www.deccanherald.com/india/rajasthan/rajasthan-congress-chief-demands-jpc-probe-against-adani-group-3288206",
+        "site_full": "www.deccanherald.com",
+        "site": "deccanherald.com",
+        "site_section": "https://www.deccanherald.com/india/maharashtra",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Maharashtra News: Maharashtra News Today, Maharashtra Latest News and Headlines, Maharashtra Local News Updates | Deccan Herald",
+        "title": "Rajasthan Congress chief demands JPC probe against Adani Group",
+        "title_full": "Rajasthan Congress chief demands JPC probe against Adani Group",
+        "published": "2024-11-22T23:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.deccanherald.com/deccanherald%2F2024-11-22%2F06ri59bu%2Fdotasra.PNG?rect=0%2C10%2C340%2C179&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop",
+        "performance_score": 0,
+        "domain_rank": 2918,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0fbe5ebf8aeffa808360e5e5a34a4ff8b067ec9f",
+    "url": "https://www.deccanherald.com/india/rajasthan/rajasthan-congress-chief-demands-jpc-probe-against-adani-group-3288206",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PTI",
+    "published": "2024-11-22T23:04:00.000+02:00",
+    "title": "Rajasthan Congress chief demands JPC probe against Adani Group",
+    "text": "US prosecutors have accused industrialist Adani of allegedly being part of a scheme to bribe Indian officials of about Rs 2,200 crore in exchange for favorable terms for solar power contracts. PTI Last Updated : 22 November 2024, 23:34 IST Follow Us :\nComments ADVERTISEMENT Published 22 November 2024, 23:34 IST India News Indian Politics Rajasthan Adani JPC probe Follow us on : Follow Us",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Govind Singh Dotasra",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gautam Adani",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Rajasthan Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Adani Group",
+                "sentiment": "negative"
+            },
+            {
+                "name": "JPC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joint Parliamentary Committee",
+                "sentiment": "none"
+            },
+            {
+                "name": "SEBI",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kashmir",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:43:05.875+02:00",
+    "updated": "2024-11-23T02:15:02.586+02:00"
+}

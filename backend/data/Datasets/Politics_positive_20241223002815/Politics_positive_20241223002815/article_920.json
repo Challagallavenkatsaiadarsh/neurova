@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "4b6cd5baf109890ffb2f36a4539446bcd308ce17",
+        "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/bjd-to-demand-special-category-tag-for-odisha-in-parliament",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "BJD to demand special category tag for Odisha in Parliament",
+        "title_full": "BJD to demand special category tag for Odisha in Parliament",
+        "published": "2024-11-23T00:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/TNIE%2Fimport%2F2018%2F3%2F14%2Foriginal%2FPTI1_23_2018_000044B.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b6cd5baf109890ffb2f36a4539446bcd308ce17",
+    "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/bjd-to-demand-special-category-tag-for-odisha-in-parliament",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-23T00:12:00.000+02:00",
+    "title": "BJD to demand special category tag for Odisha in Parliament",
+    "text": "BHUBANESWAR: The demand for special category state status to Odisha will be top on the BJD’s agenda during the winter session of Parliament which begins from November 25.\nThis was decided at the BJD’s Parliamentary party meeting presided over by party president Naveen Patnaik at Naveen Niwas here on Friday.\nBJD’s Rajya Sabha member Sasmit Patra told mediapersons that the special category status demand was raised by Naveen when he was the chief minister of Odisha. The BJP had also promised the special category status for the state in its manifesto for 2014 elections. However, it has completely forgotten the promise.\nPatra said the BJD president has asked party MPs to focus on issues in the interest of the 4.5 crore people of Odisha. “The BJP government has compromised the interest of the state in the Polavaram dam project which will submerge thousands of acres of land in Malkangiri district and displace 6,000 tribal people from their villages. The BJD will also raise this issue during the session,” he said.\nThe BJD leader said another issue before the party will be the Mahanadi river water dispute between Odisha and Chhattisgarh. The BJD will want to know the progress of the talks between Odisha and Chhattisgarh governments in this regard.\nThe BJD will also demand opening of branches of AIIMS at Balasore, Sambalpur and Koraput. Withdrawal of GST on Kendu leaf and inclusion of Ho, Mundari, Bhumij, Kui and Saora language in the 8th schedule of the Constitution will other major demands of the party.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Naveen Patnaik",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sasmit Patra",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Mahanadi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:40:21.450+02:00",
+    "updated": "2024-11-23T05:40:21.450+02:00"
+}

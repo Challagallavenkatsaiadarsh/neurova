@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "c6d13ac6dab4798c4a67d01d522f9892fffd592f",
+        "url": "https://news.knowledia.com/in/en/articles/jussie-smollett-empire-actor-has-conviction-for-faking-attack-in-chicago-6aa343660fec85b3f86456ceaff0f59be6c9fb20",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/in/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "Jussie Smollett: Empire actor has conviction for faking attack in Chicago overturned",
+        "title_full": "Jussie Smollett: Empire actor has conviction for faking attack in Chicago overturned",
+        "published": "2024-11-23T01:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c6d13ac6dab4798c4a67d01d522f9892fffd592f",
+    "url": "https://news.knowledia.com/in/en/articles/jussie-smollett-empire-actor-has-conviction-for-faking-attack-in-chicago-6aa343660fec85b3f86456ceaff0f59be6c9fb20",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tim Jones",
+    "published": "2024-11-23T01:54:00.000+02:00",
+    "title": "Jussie Smollett: Empire actor has conviction for faking attack in Chicago overturned",
+    "text": "The Illinois Supreme Court agreed with Smollet's lawyers that his rights had been violated when he was prosecuted, despite charges initially being dropped when he reached a plea deal. US actor Jussie Smollett, who was jailed for staging a racist and homophobic attack against himself in 2019, has successfully overturned his conviction.\nIn 2021, a jury found the former star of the television drama Empire guilty of five counts of felony disorderly conduct.\nHe was sentenced to 150 days in prison but served just six before being freed pending an appeal.\nSmollett - who is gay and black - told police he was the victim of an attack by two masked strangers in Chicago in January 2019. He claimed they threw a noose around his neck and poured chemicals on him while yelling racist and homophobic slurs.\nHe was arrested a month later and accused of paying two brothers $3,500 (£2,777) to stage the attack in an effort to raise his profile.\nIt prompted a huge investigation which reportedly amounted to around two dozen officers and 3,000 staff hours.\nPlease use Chrome browser for a more accessible video player 0:59 In 2022, Smollett told the court in Chicago: 'I did not do…\nTim Jones",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://news.sky.com/story/jussie-smollett-empire-actor-has-conviction-for-faking-attack-in-chicago-overturned-13257968",
+        "https://www.news.sky.com/story/jussie-smollett-empire-actor-has-conviction-for-faking-attack-in-chicago-overturned-13257968"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Jussie Smollett",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Illinois Supreme Court",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:01:04.896+02:00",
+    "updated": "2024-11-23T02:01:04.896+02:00"
+}

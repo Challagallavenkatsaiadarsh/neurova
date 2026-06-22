@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "54efa85a80b127cf70264230d9c8124df39e8dd1",
+        "url": "https://www.wusa9.com/article/news/local/dc/bowser-nominates-new-director-for-the-office-of-neighborhood-safety-and-engagement-onse/65-cbbf7e7f-a792-4375-ac27-520026c46e1d",
+        "site_full": "www.wusa9.com",
+        "site": "wusa9.com",
+        "site_section": "https://wusa9.com/dcnews",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Washington DC News | wusa9.com",
+        "title": "'We've achieved results' | Bowser nominates new director for the Office of Neighborhood Safety and Engagement",
+        "title_full": "'We've achieved results' | Bowser nominates new director for the Office of Neighborhood Safety and Engagement",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.wusa9.com/assets/WUSA/images/9959e4d3-2680-4422-880f-d43c4a6cf2da/20241122T225533/9959e4d3-2680-4422-880f-d43c4a6cf2da_1140x641.jpg",
+        "performance_score": 0,
+        "domain_rank": 5695,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54efa85a80b127cf70264230d9c8124df39e8dd1",
+    "url": "https://www.wusa9.com/article/news/local/dc/bowser-nominates-new-director-for-the-office-of-neighborhood-safety-and-engagement-onse/65-cbbf7e7f-a792-4375-ac27-520026c46e1d",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rafael Sanchez-Cruz",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "'We've achieved results' | Bowser nominates new director for the Office of Neighborhood Safety and Engagement",
+    "text": "WASHINGTON — After more than a year leading D.C.'s Office of Neighborhood Safety and Engagement (ONSE) , Mayor Muriel Bowser has tapped Kwelli Sneed to lead the agency that is charged with reducing gun violence in the city. \"Kwelli has the organizational and administrative skills and demonstrated grit through tough times to lead this organization, and we've achieved results,\" Bowser said during the Friday afternoon announcement. Bowser pointed at this year's 35% drop in violent crime and credited Sneed for her role in reducing violence in the District. \"She has helped the agency achieve a 34% reduction in gun violence in our 25 priority areas,\" she said. Sneed, a native Washingtonian with more than 15 years of experience in D.C. government, says her coordination with the violence interruption groups has been a key priority as she leads the agency. \"Sitting at the table, doing conflict mapping, understanding how to deploy the services better,\" Sneed said. ONSE is charged with a series of programs aimed at reducing violence across the city. Pathways is a transitional employment program for young adults between the ages of 18 to 35 who have been identified as being at risk of participating or being victims of violent crime. Safe Passage helps D.C. students get home safely to and from schools. If confirmed, Sneed would take control of ONSE at a time of heavy scrutiny for their violence interruption programs following [the indictment of Councilmember Trayon White](/article/news/investigations/trayon-white-federal-bribery-charges-facing-expulsion-from-dc-council-invesitgation-wrapping-up/65-7533cb99-c6a6-4b36-a8c8-10c1768bbb70). The Ward 8 councilmember is facing a single felony count following an FBI investigation that accuses him of accepting cash payments and negotiating future kickbacks to pressure DC government agencies to renew violence interruption contracts worth over $5 million. One of the agencies involved in the investigation is ONSE \"This was not an indictment on ONSE or the work that ONSE does. We wake up every day to provide great services and violence interruption and we participate and work with any investigations that are asked. And I would like to add that I am not under investigation,\" Sneed responded when asked about her agency's involvement into the investigation of alleged bribery. The Bowser administration conducted a review following White's indictment. The investigation determined no wrong doing by the ONSE employees and included some recommendations to strengthen the oversight and monitoring of the groups that receive the violence interruption grants. Deputy Mayor of Public Safety and Justice Lindsey Appiah says a system has been established to not only assure the grant recipients follow through with their work and provide proper documentation, but the agency has also taken on additional tasks that were once done externally. Moving forward, Sneed says she plans to expand her violence interruption program beyond the current 25 communities where the programs are operating. Her goal is to move into all eight wards.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://onse.dc.gov/biography/kwelli-d-sneed",
+        "https://onse.dc.gov/service/pathways-program",
+        "https://safepassage.dc.gov/",
+        "https://onse.dc.gov/",
+        "https://www.onse.dc.gov/",
+        "https://www.onse.dc.gov/biography/kwelli-d-sneed",
+        "https://safepassage.dc.gov",
+        "https://www.safepassage.dc.gov/",
+        "https://onse.dc.gov",
+        "https://www.onse.dc.gov/service/pathways-program"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Muriel Bowser",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kwelli Sneed",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "D.C.",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:38:40.391+02:00",
+    "updated": "2024-11-23T02:02:32.527+02:00"
+}

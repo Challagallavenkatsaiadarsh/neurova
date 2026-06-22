@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "c0c386311c019bba0e244c127ca9e4d1d22000fd",
+        "url": "https://news.knowledia.com/GB/en/articles/are-you-worried-about-vladimir-putin-directly-threatening-the-uk-take-555630257647fc2d43046572c8a6deb21d397600?source=rss",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/GB/en/feed",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "United Kingdom - Knowledia News",
+        "title": "Are you worried about Vladimir Putin directly threatening the UK? Take our poll and have your say",
+        "title_full": "Are you worried about Vladimir Putin directly threatening the UK? Take our poll and have your say",
+        "published": "2024-11-22T23:51:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c0c386311c019bba0e244c127ca9e4d1d22000fd",
+    "url": "https://news.knowledia.com/GB/en/articles/are-you-worried-about-vladimir-putin-directly-threatening-the-uk-take-555630257647fc2d43046572c8a6deb21d397600?source=rss",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "( Image: Getty)",
+    "published": "2024-11-22T23:51:00.000+02:00",
+    "title": "Are you worried about Vladimir Putin directly threatening the UK? Take our poll and have your say",
+    "text": "Vladimir Putin has warned the UK it's now 'directly involved' in the war with Russia, threatening missile strikes using a new weapon. As tensions rise, we ask if you're worried about the growing risks of a wider conflict with Britain in the crosshairs? Are you worried about Vladimir Putin directly threatening the UK? Take our poll and have your say\nAre you worried about Putin directly threatening the UK?\nWith tensions escalating, Vladimir Putin has now come out with a direct warning to the UK, saying Russia could target Britain with strikes from a 'new' kind of missile. It comes amid Russia ramping up its rhetoric, stoking fears that the war could spread beyond Ukraine and pull Western nations like the UK into the conflict.\nAnd last night, Russia's UK ambassador, Andrei Kelin, took things a step further. He told Sky News that by supplying Ukraine with longer-range missiles, the UK was now 'directly involved' in the war. When asked if that meant Britain was now part of the fighting, Kelin didn't mince words: \"Absolutely, Britain and UK is now directly involved in this war, because this firing cannot happen without NATO staff, British…\n( Image: Getty)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.mirror.co.uk/news/politics/you-worried-vladimir-putin-directly-34164583",
+        "https://mirror.co.uk/news/politics/you-worried-vladimir-putin-directly-34164583"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Andrei Kelin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:44.154+02:00",
+    "updated": "2024-11-23T00:08:44.154+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "628f1b73c8f7f19c29fbc73f5464db7eba80f2c4",
+        "url": "https://www.newindianexpress.com/states/andhra-pradesh/2024/Nov/24/union-minister-promises-to-solve-all-problems-of-small-marginal-ryots-in-guntur",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Union Minister promises to solve all problems of small & marginal ryots in Guntur",
+        "title_full": "Union Minister promises to solve all problems of small & marginal ryots in Guntur",
+        "published": "2024-11-24T01:12:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2Flsdw8fxp%2FMinister.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "628f1b73c8f7f19c29fbc73f5464db7eba80f2c4",
+    "url": "https://www.newindianexpress.com/states/andhra-pradesh/2024/Nov/24/union-minister-promises-to-solve-all-problems-of-small-marginal-ryots-in-guntur",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-24T01:12:00.000+02:00",
+    "title": "Union Minister promises to solve all problems of small & marginal ryots in Guntur",
+    "text": "GUNTUR: Union Minister of State for Rural Development and Communications Dr Pemmasani Chandra Sekhar assured that all necessary action would be taken to resolve the issues faced by farmers.\nSpeaking at the Zilla Parishad (ZP) general body meeting of the erstwhile Guntur district on Saturday, Pemmasani addressed the concerns of farmers and highlighted measures being taken to support them.\nHe confirmed that the procurement issues of cotton farmers had been resolved. He instructed officials of the Cotton Corporation of India (CCI) to procure cotton even with high moisture content, providing relief to farmers. The Minister assured that any issues raised by farmers would be addressed without fail.\nZP Chairperson Henry Christina said after the coalition government came to power, Chief Minister N Chandrababu Naidu and Deputy Chief Minister K Pawan Kalyan directly deposited funds from the 15th Finance Commission into panchayat accounts. She criticised the previous YSRCP government for diverting panchayat funds, which stunted village development.\nThe officials discussed various issues related to agriculture, education, health, and water resources. Several MLCs, officials and others attended the meeting.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pemmasani Chandra Sekhar",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Henry Christina",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:48:36.803+02:00",
+    "updated": "2024-11-24T06:48:36.803+02:00"
+}

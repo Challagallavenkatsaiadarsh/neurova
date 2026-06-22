@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "5d590d0882a70cbd40a2338adbc330306947f55a",
+        "url": "https://english.kyodonews.net/news/2024/11/a25c08014ea0-us-says-n-korea-ready-for-nuclear-test-awaits-political-go-ahead.html",
+        "site_full": "english.kyodonews.net",
+        "site": "kyodonews.net",
+        "site_section": "https://japan.shafaqna.com/",
+        "site_categories": [
+            "media",
+            "rugby",
+            "sports"
+        ],
+        "section_title": "\r\n\t\t日本のニュース\t",
+        "title": "U.S. says North Korea ready for nuclear test, awaits political go-ahead",
+        "title_full": "U.S. says North Korea ready for nuclear test, awaits political go-ahead",
+        "published": "2024-11-23T15:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.kyodonews.net/english/public/images/posts/3636af587b7dc6233f41ca33b8afb0af/image_l.jpg",
+        "performance_score": 0,
+        "domain_rank": 5856,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 4
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d590d0882a70cbd40a2338adbc330306947f55a",
+    "url": "https://english.kyodonews.net/news/2024/11/a25c08014ea0-us-says-n-korea-ready-for-nuclear-test-awaits-political-go-ahead.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KYODO NEWS",
+    "published": "2024-11-23T15:17:00.000+02:00",
+    "title": "U.S. says North Korea ready for nuclear test, awaits political go-ahead",
+    "text": "North Korea is only a \"political decision\" away from carrying out its seventh nuclear test, a senior U.S. official said Friday, at a time when the world is closely watching for any shifts in Pyongyang's policy direction in connection with Donald Trump's upcoming return to the White House. \"The United States assesses that (North Korea) has prepared its Punggye-ri test site for its potential seventh explosive nuclear test,\" said Alexandra Bell, deputy assistant secretary of state for nuclear affairs. At a conference in Washington organized by the Korea Society, she said, \"Such a test would constitute a grave escalation of tensions in the region and present a security risk to the entire world,\" warning also that Pyongyang's actions to date have shown that it is determined to advance its nuclear and missile development programs. In late October, South Korea's military intelligence agency said that North Korea had completed preparations for a nuclear test at the key site located in the northeast of the country for a possible test before the U.S. presidential election. In the days leading up to the Nov. 5 election, North Korea test-fired an intercontinental ballistic missile for the first time in almost a year. The ICBM, which North Korea calls its new Hwasong-19, flew for about 85 minutes, the longest duration registered yet in any such test by Pyongyang. In addition to the ICBM, North Korea test-fired multiple short-range ballistic missiles just ahead of the election. Since Trump emerged as the decisive winner over Vice President Kamala Harris, however, North Korea has halted its saber-rattling. The president-elect has said he plans to \"get along\" with the country's leader Kim Jong Un as he sought to do in his first term. North Korea's previous nuclear test, conducted in September 2017, was by far its most powerful ever. It took place in the first year of Trump's presidency, before he and Kim held the inaugural summit between U.S. and North Korean leaders in Singapore in June the following year. Related coverage: [North Korea ratifies defense treaty with Russia amid Ukraine war](/news/2024/11/5aabf5f24e6c-n-korea-ratifies-defense-treaty-with-russia-amid-ukraine-war.html) [North Korea launches short-range missiles ahead of U.S. election](/news/2024/11/b4c2fc357c6d-urgent-north-korea-launches-suspected-ballistic-missile-japan-govt.html) [North Korea says missile fired Thurs. was new ICBM, Hwasong-19](/news/2024/11/40e977b4d2f1-update1-n-korea-says-missile-fired-thurs-was-new-icbm-hwasong-19.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alexandra Bell",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Pyongyang",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:21:47.857+02:00",
+    "updated": "2024-11-23T01:21:47.857+02:00"
+}

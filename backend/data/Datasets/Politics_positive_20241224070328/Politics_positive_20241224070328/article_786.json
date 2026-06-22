@@ -1,0 +1,130 @@
+{
+    "thread": {
+        "uuid": "1f93905dfd0be7291cec0db2bffd97669ac859b3",
+        "url": "https://www.ndtv.com/india-news/maharashtra-assembly-election-results-2024-the-ladki-behen-scheme-that-powered-bjp-mahayuti-to-big-win-7092461",
+        "site_full": "www.ndtv.com",
+        "site": "ndtv.com",
+        "site_section": "https://ndtv.com/india-news/5-facts-on-parliament-security-breach-mastermind-lalit-jha-who-surrendered-to-cops-4676773",
+        "site_categories": [
+            "media",
+            "health",
+            "cold_and_flu",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_gb",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Who Is Lalit Jha? The 'Mastermind' Behind Parliament Security Breach",
+        "title": "Maharashtra Assembly Election Results 2024: The 'Ladki Behen' Scheme That Powered BJP-Mahayuti To Big Win",
+        "title_full": "Maharashtra Assembly Election Results 2024: The 'Ladki Behen' Scheme That Powered BJP-Mahayuti To Big Win",
+        "published": "2024-11-24T03:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://c.ndtvimg.com/2024-11/a67hm5t_ladki-behen-yojana_625x300_24_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "performance_score": 0,
+        "domain_rank": 851,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1f93905dfd0be7291cec0db2bffd97669ac859b3",
+    "url": "https://www.ndtv.com/india-news/maharashtra-assembly-election-results-2024-the-ladki-behen-scheme-that-powered-bjp-mahayuti-to-big-win-7092461",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NDTV News Desk",
+    "published": "2024-11-24T03:42:00.000+02:00",
+    "title": "Maharashtra Assembly Election Results 2024: The 'Ladki Behen' Scheme That Powered BJP-Mahayuti To Big Win",
+    "text": "The Bharatiya Janata Party (BJP)-led Mahayuti alliance secured a resounding victory in the Maharashtra Assembly Elections, winning 235 out of 288 seats. The BJP alone clinched a historic 132 seats, propelled by the success of its flagship Mukhyamantri-Meri Ladki Behan Yojana, a women-centric scheme that emerged as a game-changer in this election. Held on November 20, the single-phase election saw a direct battle between the ruling Mahayuti and the opposition Maha Vikas Aghadi (MVA). The Mahayuti coalition, comprising the BJP, Eknath Shinde's Shiv Sena, Ajit Pawar's NCP , and smaller allies, managed to decisively retain power, while the MVA, led by Congress and Uddhav Thackeray's Shiv Sena (UBT), struggled to make significant gains. The Ladki Behan Yojana proved instrumental in winning over women voters. The scheme provides Rs 1,500 monthly financial aid to women, with three instalments already disbursed to over two crore beneficiaries in the state. In a bid to consolidate this support, the Mahayuti pledged to increase the amount to Rs 2,100 per month if re-elected, while Eknath Shinde further promised Rs 3,000 per month. Women voters played a crucial role in the Mahayuti's success , with over 3.06 crore women participating in the elections. Their turnout was especially significant in 12 constituencies where they outnumbered male voters. The ruling coalition's targeted welfare schemes, including the Mahila Sashaktikaran Yojana for education and skill development, resonated strongly with women, particularly in rural and semi-urban areas. Promoted Listen to the latest songs, only on JioSaavn.com The opposition MVA countered with promises like Rs 3,000 monthly aid for women and free bus travel under the Mahalakshmi Scheme. However, these failed to match the credibility of the Mahayuti's schemes, with many women voters opting for the proven benefits of the Ladki Behan Yojana. The scheme was not without controversy. A Public Interest Litigation in the Bombay High Court sought to challenge it, alleging political motivations. However, the court upheld the scheme, recognizing its adherence to due process. Chief Minister Eknath Shinde criticised the opposition for opposing the initiative initially and later incorporating similar promises into their agenda.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.jiosaavn.com/featured/new-music-this-week/Ns2UZo9qDvI",
+        "https://www.jiosaavn.com",
+        "https://jiosaavn.com",
+        "https://jiosaavn.com/featured/new-music-this-week/Ns2UZo9qDvI"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ladki Behan Yojana",
+                "sentiment": "none"
+            },
+            {
+                "name": "Maha Vikas Aghadi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eknath Shinde",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ajit Pawar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Shiv Sena",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "MVA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "1f93905dfd0be7291cec0db2bffd97669ac859b3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:41:38.135+02:00",
+    "updated": "2024-11-29T10:38:31.094+02:00"
+}

@@ -1,0 +1,107 @@
+{
+    "thread": {
+        "uuid": "238afa93a1b46d354307e75a62503e6bd34ac069",
+        "url": "https://home.nzcity.co.nz/news/article.aspx?id=411276&fm=psp,tst",
+        "site_full": "home.nzcity.co.nz",
+        "site": "nzcity.co.nz",
+        "site_section": "https://home.nzcity.co.nz/default.aspx",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "\r\n\tNZCity Personal Start Page \r\n",
+        "title": "Five remaining Bali Nine members could soon be transferred to Australia - 23-Nov-2024 - NZ International news",
+        "title_full": "Five remaining Bali Nine members could soon be transferred to Australia - 23-Nov-2024 - NZ International news",
+        "published": "2024-11-22T13:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "NZ",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 57353,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "238afa93a1b46d354307e75a62503e6bd34ac069",
+    "url": "https://home.nzcity.co.nz/news/article.aspx?id=411276&fm=psp,tst",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T13:00:00.000+02:00",
+    "title": "Five remaining Bali Nine members could soon be transferred to Australia - 23-Nov-2024 - NZ International news",
+    "text": "23 November 2024\nThe remaining members of the Bali Nine could return to Australia in time for Christmas after Prime Minister Anthony Albanese lobbied the new Indonesian President Prabowo Subianto for their release.\nMr Albanese made a direct request to Mr Subianto on the sidelines of this month’s APEC summit in Peru that Australian men Scott Rush, Matthew Norman, Si-Yi Chen, Martin Stephens, and Michael Czugaj be transferred to Australian prisons to continue serving their sentences.\nSenior Indonesian minister Yusril Ihza Mahendra said his government will consider Mr Albanese's request and make a decision in December, meaning the five men could be transferred to Australia as early as next month.\nHe said that other countries have made similar requests about their inmates, including France and the Philippines.\nIt is anticipated that if they return, the men are likely to serve additional time but are unlikely to continue their life sentences.\nAll five men are serving life sentences in Indonesian prisons with no chance of release for their role in the 2005 attempt to smuggle more than 8 kilograms of heroin out of Indonesia.\nThe heroin had a value of over $4 million at the time.\nConvicted drug smuggler Renae Lawrence, the only member of the Bali Nine to be released from an Indonesian prison, said in 2020 she feared for the mental health of the five men, who were \"losing hope\".\n\"When we were arrested in 2005, Matthew Norman, Michael Czugaj, Scott Rush, Martin Stephens and Si Yi Chen were all very young men,\" Lawrence wrote.\n\"Matthew Norman was the youngest at 18 years of age and Czugaj and Rush were just 19.\n\"If they had received the same sentence as me [they] may well have been back in Australia by now.\n\"Their families constantly travel to Indonesia to visit their sons at great expense, yet their anguish remains and as each year goes by these young men are losing hope.\"\nThe Bali Nine ringleaders, Andrew Chan and Myuran Sukumaran, were executed in 2015 and another member, Tan Duc Than Nguyen, died of cancer earlier this year.\nABC",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yusril Ihza Mahendra",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anthony Albanese",
+                "sentiment": "none"
+            },
+            {
+                "name": "Prabowo Subianto",
+                "sentiment": "none"
+            },
+            {
+                "name": "Martin Stephens",
+                "sentiment": "none"
+            },
+            {
+                "name": "Michael Czugaj",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matthew Norman",
+                "sentiment": "none"
+            },
+            {
+                "name": "Scott Rush",
+                "sentiment": "none"
+            },
+            {
+                "name": "Si-Yi Chen",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "APEC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "238afa93a1b46d354307e75a62503e6bd34ac069",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:16:57.307+02:00",
+    "updated": "2024-11-23T02:16:57.307+02:00"
+}

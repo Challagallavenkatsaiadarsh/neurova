@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "259aa2d2adac1e3315c558cda914c25477aea46a",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-high-court-orders-immediate-removal-of-encroachments-on-jaipur-roads/articleshow/115609237.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/india/rajasthan",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Rajasthan News, Latest Rajasthan News Headlines &amp; Live Updates - Times of India",
+        "title": "Rajasthan High Court Orders Immediate Removal of Encroachments on Jaipur Roads | Jaipur News - Times of India",
+        "title_full": "Rajasthan High Court Orders Immediate Removal of Encroachments on Jaipur Roads | Jaipur News - Times of India",
+        "published": "2024-11-23T21:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115609232,width-1070,height-580,imgsize-34866,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "259aa2d2adac1e3315c558cda914c25477aea46a",
+    "url": "https://timesofindia.indiatimes.com/city/jaipur/rajasthan-high-court-orders-immediate-removal-of-encroachments-on-jaipur-roads/articleshow/115609237.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TNN",
+    "published": "2024-11-23T21:07:00.000+02:00",
+    "title": "Rajasthan High Court Orders Immediate Removal of Encroachments on Jaipur Roads | Jaipur News - Times of India",
+    "text": "Jaipur: A division bench of Rajasthan High Court has ordered Jaipur Development Authority (JDA) to remove encroachments on a public road and ensure its width reaches 48 metre from Khatipura Tiraha to Sirsi Road. The court, comprising Justice Inderjeet Singh and Justice Vinod Kumar Bharwani, has given JDA a two-month deadline to complete the task.During Thursday's hearing on a petition regarding road encroachments, JDA counsel Amit Kuri informed the court about existing encroachments from 200 feet Sirsi Road Bypass to Khatipura Tiraha and onwards to Queens Road.Kuri said, \\\"We informed the court that there are 274 encroachments on the road. We will soon serve notices under section 72 of the JDA Act, 1982 and after deciding the objections the encroachments would be removed.\\\"The court ordered JDA to remove all illegal encroachments, including permanent constructions, fencing, and other structures. The authority must decide on objections from affected parties within seven days of receiving them and clear the road within two months.In a related development, the same bench heard a Public Interest Litigation (PIL) regarding encroachments on the 200-feet wide sector road parallel to Kalwar Road and Niwaru Road in Jhotwara. The bench directed JDA commissioner to file an affidavit detailing the encroachment status and submit an action plan for their removal.Aslam Khan, counsel for petitioner Liyaqat Khan, said, the court has warned that if JDA fails to file the required affidavit, the commissioner will need to appear personally before the court on Dec 2. The court's directive aims to address the growing concern of illegal encroachments.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vinod Kumar Bharwani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Inderjeet Singh",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Rajasthan High Court",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jaipur Development Authority",
+                "sentiment": "negative"
+            },
+            {
+                "name": "JDA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Khatipura Tiraha",
+                "sentiment": "none"
+            },
+            {
+                "name": "Road",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:08:06.723+02:00",
+    "updated": "2024-11-24T00:08:06.723+02:00"
+}

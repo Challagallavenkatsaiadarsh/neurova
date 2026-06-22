@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "4b3dc21d6b91e39c360f14b698079d76be41eeca",
+        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1247159",
+        "site_full": "www.daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://www.daijiworld.com/home",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+        "title": "Singapore: Lee Hsien Loong supports Lawrence Wong to lead ruling party - Daijiworld.com",
+        "title_full": "Singapore: Lee Hsien Loong supports Lawrence Wong to lead ruling party - Daijiworld.com",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "http://daijiworld.com/images/daijiSquareLogo.png",
+        "performance_score": 0,
+        "domain_rank": 24675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b3dc21d6b91e39c360f14b698079d76be41eeca",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1247159",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Singapore: Lee Hsien Loong supports Lawrence Wong to lead ruling party - Daijiworld.com",
+    "text": "Singapore, Nov 24 (IANS): Lee Hsien Loong, Secretary-General of Singapore's ruling People's Action Party (PAP), said he would propose to the new central executive committee to elect Lawrence Wong, also Prime Minister of the country, as the next Secretary-General. Lee, also Singapore's senior minister, made the remarks at the PAP Conference on Sunday, reports Xinhua news agency. Lee announced that he would continue in the central executive committee in a supporting and advisory role. Lawrence Wong, who was elected deputy secretary-general in 2022, said the PAP would continue to refresh itself to better meet the needs of a changing society and uphold core values such as honesty, integrity, and incorruptibility. Noting that he would lead PAP to compete in the next general election, Wong urged the party members to work hard for every vote and win the mandate to govern. PAP was founded in 1954 and has been the ruling party of Singapore since its independence in 1965. Disclaimer: Please write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article. Please note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request. Hence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lee Hsien Loong",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Lawrence Wong",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IANS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Xinhua",
+                "sentiment": "none"
+            },
+            {
+                "name": "PAP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:18:11.507+02:00",
+    "updated": "2024-11-24T08:40:57.107+02:00"
+}

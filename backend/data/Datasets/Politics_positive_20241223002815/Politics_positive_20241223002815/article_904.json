@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "3f87d6222649a6ae67bd6af9af7846371955fcfe",
+        "url": "https://www.ans.org/news/article-6094/senate-approves-nrc-chair-hansons-renomination",
+        "site_full": "www.ans.org",
+        "site": "ans.org",
+        "site_section": "https://www.ans.org/news/article-6235",
+        "site_categories": [],
+        "section_title": "NRC chair voices support for Philippines under 123 Agreement -- ANS / Nuclear Newswire",
+        "title": "Senate approves NRC chair Hanson’s renomination -- ANS / Nuclear Newswire",
+        "title_full": "Senate approves NRC chair Hanson’s renomination -- ANS / Nuclear Newswire",
+        "published": "2024-11-23T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 18415,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3f87d6222649a6ae67bd6af9af7846371955fcfe",
+    "url": "https://www.ans.org/news/article-6094/senate-approves-nrc-chair-hansons-renomination",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T04:00:00.000+02:00",
+    "title": "Senate approves NRC chair Hanson’s renomination -- ANS / Nuclear Newswire",
+    "text": "Hanson\nNuclear Regulatory Commission chair Christopher Hanson was renominated today by a Senate vote of 81–17 for a five-year term expiring June 30, 2029.\nEarlier, in May, the U.S. Senate Environment and Public Works Committee voted 18–1 to advance Hanson’s renomination to the NRC. Hanson has been a commissioner since 2020 and was named chair by President Biden in January 2021.\n“The American Nuclear Society commends the Senate for confirming the renomination of Christopher T. Hanson as chair of the U.S. NRC,” said American Nuclear Society Executive Director/Chief Executive Officer Craig Piercy. “We look forward to Chair Hanson’s continued leadership in ensuring the safe and efficient operation of our existing nuclear power plants and in developing a robust licensing framework for new nuclear technologies. The NRC is vital in ensuring the safe use of nuclear technology for zero-carbon energy, cancer detection and treatment, food safety, and more.”\nBackground: Hanson was nominated for a seat on the commission by President Trump in February 2020 to fill the vacancy created by the resignation of Stephen Burns. His appointment was confirmed by the Senate in May of that year.\nHe has more than two decades of government and private-sector experience in nuclear energy, fuel cycle, security, and radioactive waste issues. Prior to joining the NRC, Hanson served as a staff member on the Senate Appropriations Committee’s Energy and Water Subcommittee under Sen. Dianne Feinstein (D., Calif.), and before that he was a senior advisor in the Department of Energy’s Office of Nuclear Energy. Hanson also was a consultant at Booz Allen Hamilton, where he led multiple engagements for government and industry.\nSupport: During the Senate committee vote on Hanson, ranking member Shelley Moore Capito (R., W. Va.) cited several commitments the chair has made to improving the NRC:\nTo improve the timeliness and efficiency of the NRC’s review and approval process to keep operating reactors on line. To increase efficiency of advanced reactor licensing. To improve the NRC’s culture to better carry out its mission. To streamline the NRC’s internal operations. To take accountability and fix the NRC’s shortcomings. Tags:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Christopher Hanson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Christopher T. Hanson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Craig Piercy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Biden",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NRC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "U.S. Senate Environment and Public Works Committee",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "ANS / Nuclear Newswire Hanson\nNuclear Regulatory Commission",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:33:26.664+02:00",
+    "updated": "2024-11-23T05:33:26.664+02:00"
+}

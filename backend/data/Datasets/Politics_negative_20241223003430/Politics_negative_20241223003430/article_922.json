@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "6f05ccd15b75903cef389897b6c8ebe3725018ab",
+        "url": "https://executivegov.com/2024/11/us-russia-ukraine-sabotage",
+        "site_full": "executivegov.com",
+        "site": "executivegov.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "US Warns Against Russia-Backed Sabotage Attacks in Europe",
+        "title_full": "US Warns Against Russia-Backed Sabotage Attacks in Europe",
+        "published": "2024-11-22T18:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://executivegov-media.s3.amazonaws.com/2024/11/22/21/f5/dd/c9/38/b0/34/24/defense-industrial-base.png",
+        "performance_score": 0,
+        "domain_rank": 43252,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6f05ccd15b75903cef389897b6c8ebe3725018ab",
+    "url": "https://executivegov.com/2024/11/us-russia-ukraine-sabotage",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kristen Smith",
+    "published": "2024-11-22T18:16:00.000+02:00",
+    "title": "US Warns Against Russia-Backed Sabotage Attacks in Europe",
+    "text": "Joint security guidance from various U.S. agencies warned American companies about Russia\\u2019s recruitment of criminals to launch sabotage attacks against Europe\\u2019s defense industrial base, military installations, logistics facilities and public utilities to undermine allied support for Ukraine.\n\\nAuthored by the National Counterintelligence and Security Center, the FBI and several Department of Defense agencies, the advisory published on Thursday by the Office of the Director of National Intelligence encouraged U.S. companies, particularly those supporting entities involved in the Ukraine conflict or other ongoing geopolitical conflicts, to remain vigilant and enhance their security efforts to defend against potential Russian sabotage activity.\n\\n \\nTable of Contents\n\\n Toggle\n\\n Attacks on Behalf of Russia, Belarus \\nThe guidance, titled Safeguarding the U.S. Defense Industrial Base and Private Industry Against Sabotage, cited recent arson and sabotage attacks that targeted a Ukraine-linked business in London and various infrastructure in Poland on behalf of Russia and Belarus to highlight threats posed by the engagement of the Russian intelligence services with criminals.\n\\nTo secure the U.S. defense industrial base from such attacks, the document provides indicators of potential sabotage activity, mitigation steps and information on where to report incidents.\n\\n Protection Against Acts of Sabotage \\nPotential sabotage indicators include explicit or implied threats to facilities or personnel; online posts by individuals noting their intent to commit violence; and drone or small unmanned aircraft systems operating near facilities, staff or systems or employees who bring unauthorized cameras, tools or software into the workplace.\n\\nU.S. companies are advised to engage with law enforcement and intelligence agencies to be informed about potential threats and best security practices; enhance security posture by providing regular training on security awareness and ensuring physical security, cybersecurity monitoring and surveillance of key system nodes; and improve the security of the supply chain to deter and mitigate sabotage attacks.\n\\nThe entities are encouraged to report suspicious activities to the FBI and the Cybersecurity and Infrastructure Security Agency.\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.dni.gov/index.php/ncsc-newsroom/4028-ncsc-and-partners-provide-security-guidance-to-us-defense-industrial-base-regarding-russian-sabotage-activity-in-europe",
+        "https://www.dni.gov/files/NCSC/documents/products/FINAL_Safeguarding_DIB_Against_Sabotage.pdf",
+        "https://dni.gov/files/NCSC/documents/products/FINAL_Safeguarding_DIB_Against_Sabotage.pdf",
+        "https://dni.gov/index.php/ncsc-newsroom/4028-ncsc-and-partners-provide-security-guidance-to-us-defense-industrial-base-regarding-russian-sabotage-activity-in-europe"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:43:46.896+02:00",
+    "updated": "2024-11-23T03:54:54.520+02:00"
+}

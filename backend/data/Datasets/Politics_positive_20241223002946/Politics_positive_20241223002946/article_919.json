@@ -1,0 +1,85 @@
+{
+    "thread": {
+        "uuid": "1b428c210dd87165c3834807a11df0a24ef4de68",
+        "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/odisha-governmet-to-amend-excise-laws-to-tackle-illicit-liquor-drug-trade-minister-prithiviraj-harichandan",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Odisha Governmet to amend Excise laws to tackle illicit liquor, drug trade: Minister Prithiviraj Harichandan",
+        "title_full": "Odisha Governmet to amend Excise laws to tackle illicit liquor, drug trade: Minister Prithiviraj Harichandan",
+        "published": "2024-11-23T00:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-07%2Feac3748c-e326-4f53-801c-bfccbbbf3ddd%2Fnewindianexpress_2024-07_3d2d3271-ae47-4286-9906-cf3fe5f217c3_New_Project___2024_07_04T094804_443.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1b428c210dd87165c3834807a11df0a24ef4de68",
+    "url": "https://www.newindianexpress.com/states/odisha/2024/Nov/23/odisha-governmet-to-amend-excise-laws-to-tackle-illicit-liquor-drug-trade-minister-prithiviraj-harichandan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Express News Service",
+    "published": "2024-11-23T00:14:00.000+02:00",
+    "title": "Odisha Governmet to amend Excise laws to tackle illicit liquor, drug trade: Minister Prithiviraj Harichandan",
+    "text": "BHUBANESWAR: In a bid to tackle the problem of illicit liquor trade and drug trafficking more effectively, the state government is working on amending the existing laws to make punishment for such offences more stringent, Excise Minister Prithiviraj Harichandan said on Friday.\nAsserting that the government has zero tolerance to such illegal activities, Prithiviraj Harichandan said the changes to the laws will be made during the ensuing Assembly session from November 26.\n“Discussions have been initiated at the government-level to introduce changes in the excise policy for preventing trade of illicit liquor and curbing drug trafficking. Besides punishment, fines will also be increased to make them an effective deterrence to such activities,” he said.\nThe amendments will focus on strengthening enforcement to dismantle illegal liquor producing units and the drug trafficking network. The state government will adopt a joint strategy with Narcotics Control Bureau (NCB) to demolish the networks facilitating the distribution of illicit substances across the state. Crackdown on illicit liquor and drugs will be intensified, he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Prithiviraj Harichandan",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Narcotics Control Bureau",
+                "sentiment": "none"
+            },
+            {
+                "name": "NCB",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:40:20.260+02:00",
+    "updated": "2024-11-23T05:40:20.260+02:00"
+}

@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "85869c068602b7c6b1e4130ceb545e31a2e2618c",
+        "url": "https://hudsonvalleyone.com/2024/11/22/bill-west-dies",
+        "site_full": "hudsonvalleyone.com",
+        "site": "hudsonvalleyone.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Bill West dies - Hudson Valley One",
+        "title_full": "Bill West dies - Hudson Valley One",
+        "published": "2024-11-23T00:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://hudsonvalleyone.com/wp-content/uploads/2018/02/candle.jpg",
+        "performance_score": 0,
+        "domain_rank": 62677,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "85869c068602b7c6b1e4130ceb545e31a2e2618c",
+    "url": "https://hudsonvalleyone.com/2024/11/22/bill-west-dies",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "HV1 Staff",
+    "published": "2024-11-23T00:43:00.000+02:00",
+    "title": "Bill West dies - Hudson Valley One",
+    "text": "Bill West, a former chair of the Ulster County Legislature and a Woodstock town supervisor in the 1960s, has died.\nAn honest old-fashioned Republican leader in a time of major political change, West pushed for efficient government at all levels and for economic development. He was also the longtime chair of the Woodstock Republican Committee.\n“Bill’s contributions extended beyond government,” present county legislative chair Peter Criswell said in a statement on November 22. “He was instrumental in ensuring the Town of Woodstock acquired the Andy Lee Memorial Field, now a cherished community resource. He also revived the Woodstock Christmas Eve Program, which continues to bring joy to Woodstockers and visitors alike.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://g.adspeed.net/ad.php?do=js&#038;zid=118226&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://g.adspeed.net/ad.php?do=js&#038;zid=81834&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://g.adspeed.net/ad.php?do=js&#038;zid=118224&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://g.adspeed.net/ad.php?do=js&#038;zid=78695&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://www.g.adspeed.net/ad.php?do=js&#038;zid=78695&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://www.g.adspeed.net/ad.php?do=js&#038;zid=118226&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://www.g.adspeed.net/ad.php?do=js&#038;zid=81834&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://www.g.adspeed.net/ad.php?do=js&#038;zid=118224&#038;oid=14246&#038;wd=-1&#038;ht=-1&#038;target=_blank",
+        "https://g.adspeed.net/ad.php"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill West",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Geddy Sveikauskas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Peter Criswell",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Woodstock Republican Committee",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "One Bill West",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:34:34.050+02:00",
+    "updated": "2024-11-23T01:56:50.429+02:00"
+}

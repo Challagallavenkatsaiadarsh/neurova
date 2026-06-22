@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "1c6ae98165b6b7eb13f9311781f1e46394ac86c0",
+        "url": "https://www.dailyherald.com/20241122/news/aqua-illinois-customers-to-see-water-bill-hike-in-the-new-year",
+        "site_full": "www.dailyherald.com",
+        "site": "dailyherald.com",
+        "site_section": "https://dailyherald.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News",
+        "title": "Aqua Illinois customers to see water bill hike in the new year",
+        "title_full": "Aqua Illinois customers to see water bill hike in the new year",
+        "published": "2024-11-22T22:48:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://imengine.public.prod.pdh.navigacloud.com/?uuid=45097146-5e85-5c70-845c-a71ff2c138e4&function=fit&type=preview",
+        "performance_score": 0,
+        "domain_rank": 3875,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1c6ae98165b6b7eb13f9311781f1e46394ac86c0",
+    "url": "https://www.dailyherald.com/20241122/news/aqua-illinois-customers-to-see-water-bill-hike-in-the-new-year",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "y Andrew Adams",
+    "published": "2024-11-22T22:48:00.000+02:00",
+    "title": "Aqua Illinois customers to see water bill hike in the new year",
+    "text": "SPRINGFIELD — Following almost a year of legal battles and fierce public opposition from many customers, water utility Aqua Illinois is set to raise its rates in 2025. The privately owned water utility has not released an estimate of the exact impact the increase will have on customer bills in 14 northern Illinois counties. But the approved increase represents a 43% reduction from the utility’s original request, which would have raised bills by an estimated $30 per month, according to the Citizens Utility Board consumer advocacy group. State regulators at the Illinois Commerce Commission approved the rate increase on Thursday – but not before the drastic reduction. In its initial requested rate hike from January, Aqua wanted to collect an additional $19.2 million from customers to pay for infrastructure upgrades, costs associated with taking over existing water systems and paying out a 10.8% return to investors. But regulators cut the overall request, allowing the company to collect $11.6 million from customers while paying out a 9.6% return to investors. The company argued throughout the case that the increase was necessary to recover costs from upgrading water systems to ensure safe water delivery. “In the six years since our last rate increase, we made significant upgrades to water and wastewater facilities and infrastructure across Illinois,” Aqua said in a statement to Capitol News Illinois. “This rate decision highlights Aqua’s commitment to aggressively invest in infrastructure to improve service and reliability for our customers.” ICC Commissioner Stacey Paradis said after the decision Thursday that the five-member panel “did not come to this decision lightly.” “The commission regulates large water utilities and ensures they provide safe and adequate service,” Paradis said. “Transparent infrastructure investments and long-term planning are essential to ensure water and wastewater service meets regulatory requirements, environmental goals and customer needs.” ICC commissioners also approved a new scheme for Aqua’s low-income customers. Starting in July, eligible customers with household incomes below 150% of the federal poverty level – about $48,000 for a family of four – will be able to receive a 70% discount on the portion of their bill that’s based on water usage. Paradis noted that this move “is just a first step.” In explaining the ICC’s decision, ICC Chair Doug Scott said that, despite approving Aqua’s proposed formula for calculating rates, the commissioners worried that the company “may be unnecessarily shifting costs to residential ratepayers.” To that end, the ICC is requiring Aqua to begin the process of creating a discount program for the entire bill with multiple tiers based on income. Those changes must be proposed by Jan. 1, 2027, or as part of Aqua’s next rate case, whichever is sooner. This mirrors similar requirements recently placed on gas utilities by the ICC. Those discount programs, which went into effect last month, offer low-income households up to between 75% and 83% off their entire bill, depending on their income and which company they buy gas from. The head of AARP Illinois, a group that advocates for the interests of those age 50 and over, also reacted positively to the news. AARP Illinois State Director Philippe Largent said he was “heartened” by Scott’s focus on consumers in his public statement. “I think the biggest takeaway is this notion that we as Illinois should not have to choose between basics: food, water, medicine vs. rent,” Largent said. Largent also noted that he would have liked to see the low-income discount go into effect in January alongside the rate increase. Many of the most vocal – and most adversely impacted – Aqua Illinois customers formally lodged comments in this case, asking the ICC to cut the rate increase entirely, citing concerns over already high bills and water quality. In 2019, water in University Park had lead levels that exceeded state regulations due to Aqua changing water sources, inadvertently stripping a protective coating from old lead pipes. The state quickly sued the company to force compliance. The lawsuit ended in July with a consent order requiring free lead testing and the company to distribute grants to remedy home lead contamination. At a public hearing in August, the issue was an animating factor in residents’ desire to see the rate increase cut. Residents of Crystal Lake, Buffalo Grove and other suburban communities also requested aggressive cuts to, or outright rejection of, the rate increase at a separate public hearing in McHenry County, citing discolored water in a few local systems. Representatives of the company say that issue will be addressed, although the timeline for those remedies is not finalized. [terms of service](/info/terms-of-service/#conduct), click the \"flag\" link in the lower-right corner of the comment box. To find our more, read our [FAQ](/info/comments/).",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Economy, Business and Finance",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Illinois Commerce Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Citizens Utility Board",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aqua",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:09.039+02:00",
+    "updated": "2024-11-23T00:33:04.366+02:00"
+}

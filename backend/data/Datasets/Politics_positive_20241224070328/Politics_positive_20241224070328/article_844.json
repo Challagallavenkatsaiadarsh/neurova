@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "2ff5cb8e1fc82bfeaedd3da345bb54839647a495",
+        "url": "https://www.cbsnews.com/philadelphia/news/lawnside-new-jersey-vigil-hate-crime",
+        "site_full": "www.cbsnews.com",
+        "site": "cbsnews.com",
+        "site_section": "https://cbslocal.com#site-header:66",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment",
+            "top_news_ca",
+            "top_news_ph",
+            "top_news_iq",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_za",
+            "top_news_sg",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "CBS Local - Your local news and live free 24/7 streaming news",
+        "title": "South Jersey community holds peace vigil after an act of hate of racist graffiti in historic town - CBS Philadelphia",
+        "title_full": "South Jersey community holds peace vigil after an act of hate of racist graffiti in historic town - CBS Philadelphia",
+        "published": "2024-11-24T07:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/11/24/0e9a5029-90c9-4aa1-a80d-9f701b6396e9/thumbnail/1200x630/286a31bb89fcbecff9b8412883495fa0/23pkg-rh-lawnside-graffiti-vigil-transfer-frame-2176.jpg?v=b1635869826311f914073798d8df6484",
+        "performance_score": 0,
+        "domain_rank": 199,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2ff5cb8e1fc82bfeaedd3da345bb54839647a495",
+    "url": "https://www.cbsnews.com/philadelphia/news/lawnside-new-jersey-vigil-hate-crime",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CBS News",
+    "published": "2024-11-24T07:03:00.000+02:00",
+    "title": "South Jersey community holds peace vigil after an act of hate of racist graffiti in historic town - CBS Philadelphia",
+    "text": "An act of hate in a historic town in South Jersey has triggered an outpouring of love and support.\nOn a cold and blustery Saturday night, dozens of people paused to sing and stand together with flashlights and candles to shine a light on love and unity.\n\"It's amazing. I don't even know these people. These are people from different cultures coming together for solidarity for one reason for all of us to be together,\" said Dawn Hines, her heart filled with joy.\nThe show of support came two weeks after the fence behind her home in Lawnside was tagged with racist graffiti , which included a racial slur and offensive symbols.\n\"This hate cannot and must not be ignored,\" said Sharon Ritz, who helped organize a peace vigil.\nThe act of hate was devastating for the predominantly Black community, which officials call the first independent self-governing African American municipality north of the Mason-Dixon line. But Hines said ever since it's brought everyone closer.\n\"My neighbors that I normally see and we do the hi and bye...now my neighbors are actually friends now, we've all come together,\" said Hines, who has lived in her home for 20 years.\n\"We're definitely a community that stands together and we support each other,\" said Aliyah Barbee, who lives in Lawnside.\nThe peace vigil held behind Hines' home, was organized by Embracing race - the conversation , a local group working to dismantle racism.\n\"The main message is love but also we are not going to tolerate hate and we really are going to stand with our brothers and sisters who are the victims of hate,\" said Mary Anne Degenhart, who co-founded the group.\nAfter the bias incident, community members helped spray paint over the graffiti. Then, Hines said a local fence company recently stepped in and replaced her fence for free. Hines called it a thoughtful act that reminded her she's not alone.\n\"I feel a lot better, I'm able to sleep better, and then just the outpouring of love, this shows that love is winning and hate isn't. I'm just happy,\" Hines said.\nLawnside Police is investigating this as a hate crime, and we're told the investigation is ongoing.\nMore from CBS News Families displaced by Norristown fire stay at shelter, community steps up Shawnee High School wins state championships in soccer and girls tennis Thanksgiving feast hosted for the second year by Collingdale councilwoman Christmas Village draws big crowds over holiday weekend despite cold weather Black Friday deals lead shoppers to pack stores across Philadelphia region In: Camden County New Jersey Hate Crime Racism Ryan Hughes Ryan Hughes joined CBS News Philadelphia in June 2022. He previously worked at WPTV in West Palm Beach, Florida, where he's covered stories ranging from weeks on the Surfside condo collapse, to the impact of Hurricane Dorian in the Bahamas, and the Super Bowl in Miami.\nTwitter Facebook Instagram",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://embracingraceconversation.org/",
+        "https://www.embracingraceconversation.org/",
+        "https://embracingraceconversation.org"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sharon Ritz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dawn Hines",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "South Jersey",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2ff5cb8e1fc82bfeaedd3da345bb54839647a495",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:09:23.111+02:00",
+    "updated": "2024-11-30T23:51:31.029+02:00"
+}

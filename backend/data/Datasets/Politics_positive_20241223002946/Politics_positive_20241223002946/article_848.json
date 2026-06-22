@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "58d79feb7a61e06cf515feebf642393a127bf173",
+        "url": "https://www.lelezard.com/en/news-21617842.html",
+        "site_full": "www.lelezard.com",
+        "site": "lelezard.com",
+        "site_section": "https://www.lelezard.com/en/news-rss/all",
+        "site_categories": [
+            "canada",
+            "travel"
+        ],
+        "section_title": "Le Lézard : All news",
+        "title": "New Press Freedom Center at the National Press Club To Be Launched Nov 25",
+        "title_full": "New Press Freedom Center at the National Press Club To Be Launched Nov 25",
+        "published": "2024-11-22T23:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.lelezard.com/img/theme/lezard2.png",
+        "performance_score": 0,
+        "domain_rank": 97106,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "58d79feb7a61e06cf515feebf642393a127bf173",
+    "url": "https://www.lelezard.com/en/news-21617842.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T23:07:00.000+02:00",
+    "title": "New Press Freedom Center at the National Press Club To Be Launched Nov 25",
+    "text": "Subjects: AVO , DEI New Press Freedom Center at the National Press Club To Be Launched Nov 25\nWASHINGTON , Nov. 22, 2024 /PRNewswire/ --\nNews Advisory:\nEvent: Launch of Press Freedom Center at the National Press Club\nWhere: National Press Club, 529 14 th Street NW, Washington, D.C. 13 th Floor\nWhen: Nov. 25 (Panel starts at 6:30pm , doors open at 6)\nContact: Bill McCarren , 202-662-7534; or [email protected] for the National Press Club\nThe National Press Club, the world's leading professional organization for journalists, is proud to announce the opening of the Press Freedom Center, a vital new initiative dedicated to defending press freedom and supporting journalists in danger around the world.\nWith the increase in state-sponsored hostage taking and repressive governments, more journalists are under threat and in dangerous situations. Meanwhile, concerns exist about the future of domestic reporters in the U.S.\nThe Press Freedom Center at the National Press Club represents a new chapter in the Club's role as a leader in press freedom.\nThe Center's mission is to defend press freedom by assisting detained, threatened or exiled journalists through advocacy, direct support and community.\nThe Center will focus on campaigns advocating the release of detained journalists, providing support for journalists who have been exiled from their home countries and are trying to settle in the U.S., and assisting domestic journalists and news organizations.\nThe Press Freedom Center's dedicated staff and resources will allow the Club to sustain its important press freedom work into the future and take the Club's impact and advocacy to a new level.\nThe PFC will be headed by Bill McCarren , who has spent more than a decade tirelessly working to support journalists in need. McCarren, in his previous role as Club Executive Director, was a key player in ensuring the freedom of Washington Post Tehran Bureau Chief Jason Rezaian from an Iranian prison in 2016. McCarren also supported Rezaian and his wife Yegi as they recovered and made a home in D.C. Rezaian, who has become a powerful press freedom leader in his own right, will join the Center as the Chair of the Advisory Board. Rezaian was recently named Director of Press Freedom Initiatives at The Washington Post.\nDuring the November 25 launch event, McCarren and Rezaian will speak on the future of the Center and the challenges facing journalists at a panel during the event.\nThe National Press Club has worked for the release of detained American journalists, including Evan Gershkovich , Alsu Kurmasheva and Austin Tice . Partnering with families, news organizations and government officials, the Club kept these reporters in the spotlight while holding high-profile events and private meetings to push for their release.\nThe Club has also aided journalists who have fled to the U.S. after facing threats of death or detention in their home countries. Since 2017, the Club has fought for Mexican reporter Emilio Gutierrez Soto to receive asylum in the U.S., while assisting him along the way including helping to get him out of prison/detention. The Club has also assisted Mohammad Mosaed , Yalda Moaiery, and dozens of others.\nThe National Press Club has pledged $500,000 toward the Center, a record gift in the Club's 117-year history. The National Press Club Journalism Institute, which will continue to lead the Club's training program, will be the fiscal sponsor of the Center and has contributed an additional $100,000 toward the Center.\nRegistration\nThis event is open to working press. Press must register to attend at [email protected] . Attendance by others is invitation only.\nFounded in 1908, the National Press Club is the world's leading professional organization for journalists. With 3,000 members representing nearly every leading journalism organization, the Club is a leading voice for press freedom in the U.S. and worldwide.\nSOURCE National Press Club\nNews published on 22 november 2024 at 22:07 and distributed by:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://mma.prnewswire.com/media/1876197/NPC_v1_Logo.html",
+        "http://www.prnewswire.fr/",
+        "http://prnewswire.fr/",
+        "https://www.mma.prnewswire.com/media/1876197/NPC_v1_Logo.html",
+        "http://www.prnewswire.fr"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bill McCarren",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "New Press Freedom Center",
+                "sentiment": "negative"
+            },
+            {
+                "name": "National Press Club\nThe National Press Club",
+                "sentiment": "neutral"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:13:01.634+02:00",
+    "updated": "2024-11-23T05:13:01.634+02:00"
+}

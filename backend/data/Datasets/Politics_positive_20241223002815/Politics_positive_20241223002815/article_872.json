@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "52ef405427bc6636b40a8418fe6fe35a397268c2",
+        "url": "https://www.ktbs.com/news/national_politics/mn-first-kenyan-born-state-legislator-elected/video_e3e219f8-5357-5144-9965-05ce4a5977e2.html",
+        "site_full": "www.ktbs.com",
+        "site": "ktbs.com",
+        "site_section": "https://www.ktbs.com/search/?f=rss&amp",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "www.ktbs.com - RSS Results",
+        "title": "MN: FIRST KENYAN-BORN STATE LEGISLATOR ELECTED | News | ktbs.com",
+        "title_full": "MN: FIRST KENYAN-BORN STATE LEGISLATOR ELECTED | News | ktbs.com",
+        "published": "2024-11-23T04:40:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/e/3e/e3e219f8-5357-5144-9965-05ce4a5977e2/67414301eff21.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 25868,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "52ef405427bc6636b40a8418fe6fe35a397268c2",
+    "url": "https://www.ktbs.com/news/national_politics/mn-first-kenyan-born-state-legislator-elected/video_e3e219f8-5357-5144-9965-05ce4a5977e2.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T04:40:00.000+02:00",
+    "title": "MN: FIRST KENYAN-BORN STATE LEGISLATOR ELECTED | News | ktbs.com",
+    "text": "3 Minute Smile Spirit of Christmas Ways To Save With SWEPCO 70th Anniversary 2024 Vote Behind The Badge One Class At A Time Paws To Care\nWire MN: FIRST KENYAN-BORN STATE LEGISLATOR ELECTED Nov 22, 2024 40 mins ago Comments Facebook Twitter WhatsApp SMS Email Print Copy article link Save MINNESOTA FIRST KENYAN-BORN STATE LEGISLATOR DEMOCRAT POLITICS\nFacebook Twitter WhatsApp SMS Email Print Copy article link Save Load comments Trending Now Four Million Americans Could Lose Health Coverage Once ACA Credits Expire Woman killed in Fant Parkway wreck identified Tragic end to search for missing skydiver in Gilliam Investigation into 22 cars stolen from Shreveport auto-mall heats up Texas education board approves optional Bible-infused curriculum for elementary schools Local Events News & Weather Email Updates Success! An email has been sent to with a link to confirm list signup.\nError! There was an error processing your request.\nLocal Breaking News Local breaking news delivered as it happens.\n7:00 am Headlines News headlines delivered at 7:00 am Monday - Friday.\n12:00 pm Headlines News headlines delivered at Noon Monday - Friday.\n4:00 pm Headlines News headlines delivered at 4:00 pm Monday - Friday.\nDaily Forecast Weather forecast delivered at 9:00 am daily.\nContests Keep up with all of our contests.\nYou must select at least one email list. Please enter a valid email address. Sign up Manage your lists View Full Screen Stocks Market Data by TradingView var bFoundOrigin = true; var sOriginID = null; var sOriginURL = scrubURL('https://www.ktbs.com/tncms/search/mlt/?origin=e3e219f8-5357-5144-9965-05ce4a5977e2&app=editorial&inline=infinity&type=article%2Ccollection%2Cvideo%2Cyoutube'); // original url scrubbed for preview var sFirstID = null; var bFirstRun = true; var bShowAd = true; var bInfiniStop = false; var sInfinityType = 'summary_siderail'; var displayedRegions = { 0: false, 1: false, 3: false, 5: false, 8: false }; function populateInfinitySet(sURL) { sURL = scrubURL(sURL); // Until the origin paramter for cms.search.mlt functions, we have to start/stop the looping on our own // This will require not displaying any assets until we hit oAsset. // Then we loop through and display until we've been through everything up to our origin $.ajax(sURL).then(function(oResponse, sStatus, oXHR) { var sNextUrl = null; var counter = 0; var rPositions = [1,3,5,8]; var displayRegion = function(rNum) { var iRegions = { 1: 'first', 3: 'third', 5: 'fifth', 8: 'eighth' }; if (displayedRegions[rNum]) { return ''; } if (typeof displayedRegions[rNum] !== 'undefined') { displayedRegions[rNum] = true; } var id = rNum > 0 ? '#infinity-asset-after-' + iRegions[rNum] : '#infinity-asset-top'; var content = $(id).html().trim(); var row = ' ' + content + ' '; if ($(content).html() == \"\") { row = ''; } return row; }; if (typeof oResponse.next_url == 'undefined') { // URL supplied is no good. Revert to original URL sNextUrl = sOriginURL; } else { sNextUrl = scrubURL(oResponse.next_url); } // Manage response if (typeof oResponse.assets != 'undefined' && oResponse.assets.length > 0) { // Remove old more data $(\"#infinite-more\").remove(); // Build infinity set $.each(oResponse.assets, function(index) { if (index == 1 && sOriginID == null) { sOriginID = oResponse.assets[0].id; } // Display assets once origin is found if (bFoundOrigin == true) { if (this.id == sOriginID) { bInfiniStop = true; sNextUrl = null; $(\"#infinite-more\").remove(); } else if (bInfiniStop == false && this.id != 'e3e219f8-5357-5144-9965-05ce4a5977e2') { // Display asset var sHTML = ''; if (this.content) { if (sInfinityType == 'summary_sticky_siderail') { if (counter == 0) { sHTML += displayRegion(counter); } counter++; sHTML += ' ' + this.content + '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/intent/tweet?&text=MN%3A%20FIRST%20KENYAN-BORN%20STATE%20LEGISLATOR%20ELECTED&via=ktbs&url=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fnational_politics%2Fmn-first-kenyan-born-state-legislator-elected%2Fvideo_e3e219f8-5357-5144-9965-05ce4a5977e2.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+        "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fnational_politics%2Fmn-first-kenyan-born-state-legislator-elected%2Fvideo_e3e219f8-5357-5144-9965-05ce4a5977e2.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+        "https://www.tradingview.com",
+        "https://wa.me/?text=https://www.ktbs.com/news/national_politics/mn-first-kenyan-born-state-legislator-elected/video_e3e219f8-5357-5144-9965-05ce4a5977e2.html",
+        "https://wa.me/?text=https://ktbs.com/news/national_politics/mn-first-kenyan-born-state-legislator-elected/video_e3e219f8-5357-5144-9965-05ce4a5977e2.html",
+        "https://tradingview.com",
+        "https://www.twitter.com/intent/tweet?&text=MN%3A%20FIRST%20KENYAN-BORN%20STATE%20LEGISLATOR%20ELECTED&via=ktbs&url=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fnational_politics%2Fmn-first-kenyan-born-state-legislator-elected%2Fvideo_e3e219f8-5357-5144-9965-05ce4a5977e2.html%3Futm_medium%3Dsocial%26utm_source%3Dtwitter%26utm_campaign%3Duser-share",
+        "https://wa.me/",
+        "https://www.facebook.com/sharer/sharer.php",
+        "https://facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.ktbs.com%2Fnews%2Fnational_politics%2Fmn-first-kenyan-born-state-legislator-elected%2Fvideo_e3e219f8-5357-5144-9965-05ce4a5977e2.html%3Futm_medium%3Dsocial%26utm_source%3Dfacebook%26utm_campaign%3Duser-share",
+        "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Facebook Twitter",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Fant Parkway",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:20:44.787+02:00",
+    "updated": "2024-11-23T05:20:44.787+02:00"
+}

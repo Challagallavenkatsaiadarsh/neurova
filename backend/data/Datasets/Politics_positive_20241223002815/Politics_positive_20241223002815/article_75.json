@@ -1,0 +1,67 @@
+{
+    "thread": {
+        "uuid": "829127c2a4f7b876d0d10a0eaf2a9693089125ed",
+        "url": "https://itemlive.com/2024/11/22/lynn-mayor-honored-at-gateway-cities-innovation-summit",
+        "site_full": "itemlive.com",
+        "site": "itemlive.com",
+        "site_section": "https://www.itemlive.com",
+        "site_categories": [],
+        "section_title": "Home - Itemlive",
+        "title": "Lynn mayor honored at Gateway Cities Innovation Summit",
+        "title_full": "Lynn mayor honored at Gateway Cities Innovation Summit",
+        "published": "2024-11-23T00:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://itemlive.com/wp-content/uploads/2024/11/Gateway-Cities-2024-268-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 55298,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "829127c2a4f7b876d0d10a0eaf2a9693089125ed",
+    "url": "https://itemlive.com/2024/11/22/lynn-mayor-honored-at-gateway-cities-innovation-summit",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "For the Item",
+    "published": "2024-11-23T00:20:00.000+02:00",
+    "title": "Lynn mayor honored at Gateway Cities Innovation Summit",
+    "text": "Lynn mayor honored at Gateway Summit",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "829127c2a4f7b876d0d10a0eaf2a9693089125ed",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:33:50.926+02:00",
+    "updated": "2024-11-23T20:34:44.912+02:00"
+}

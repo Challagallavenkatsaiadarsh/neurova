@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "2e8e4f26cac92af05cf8d4257193f31d1916b7ce",
+        "url": "https://www.crossroadstoday.com/news/politics/national-politics/trump-s-intel-pick-was-placed-on-government-watch-list-for-overseas-travel-and-foreign/article_bb8c101e-1b1c-5ab1-a2a0-d08d861fb874.html",
+        "site_full": "www.crossroadstoday.com",
+        "site": "crossroadstoday.com",
+        "site_section": "https://www.crossroadstoday.com/news",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "News | crossroadstoday.com",
+        "title": "Trump’s intel pick was placed on government watch list for overseas travel and foreign connections | National Politics | crossroadstoday.com",
+        "title_full": "Trump’s intel pick was placed on government watch list for overseas travel and foreign connections | National Politics | crossroadstoday.com",
+        "published": "2024-11-22T23:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/crossroadstoday.com/content/tncms/custom/image/324fd832-652e-11ed-8535-43b834212626.png?resize=600%2C315",
+        "performance_score": 0,
+        "domain_rank": 73016,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2e8e4f26cac92af05cf8d4257193f31d1916b7ce",
+    "url": "https://www.crossroadstoday.com/news/politics/national-politics/trump-s-intel-pick-was-placed-on-government-watch-list-for-overseas-travel-and-foreign/article_bb8c101e-1b1c-5ab1-a2a0-d08d861fb874.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Katie Bo Lillis, Zachary Cohen and Holmes Lybrand, CNN",
+    "published": "2024-11-22T23:52:00.000+02:00",
+    "title": "Trump’s intel pick was placed on government watch list for overseas travel and foreign connections | National Politics | crossroadstoday.com",
+    "text": "(CNN) — Tulsi Gabbard, Donald Trump’s pick to lead the intelligence community , was briefly placed on a Transportation Security Administration list that prompts additional security screening before flights after her overseas travel patterns and foreign connections triggered a government algorithm earlier this year, three sources familiar with the matter told CNN.\nGabbard was quickly removed from the list, a little-known program called “Quiet Skies,” after going public with claims she had been added to a “secret terror watchlist.”\nGabbard has claimed she was put on the list because she had criticized then-presidential candidate Kamala Harris in an interview with Fox News — something two of the sources flatly denied had anything to do with it.\n“The TSA placed me on the Quiet Skies domestic terror watchlist in what I can only describe as the ultimate betrayal,” she said in a post on X in September. “The Harris-Biden regime has now labeled me a domestic terror threat. Why? They see me as a threat to their power.”\nThe episode has raised eyebrows among security officials, who point to Gabbard’s history of unusual relationships overseas. As a member of Congress in 2017, she worked outside of official channels to travel to Syria to meet with President Bashar al-Assad.\nCNN has reached out to Gabbard for comment.\nThe circumstances that led to Gabbard’s inclusion on Quiet Skies may be entirely benign, these sources said. But for a nominee for a top position — much less the director of national intelligence — to have been placed on a government watchlist of any kind is highly unusual, if not unprecedented, several US officials said.\nUnder normal circumstances, one official said, Gabbard would be forced to explain the underlying foreign travel or contacts in question during her background check.\nBut Trump has indicated that he may eschew the normal background check process for his top nominees, raising questions about what, if anything, Gabbard will be required to disclose — or whether national security officials will even be given an opportunity to assess if Gabbard’s conduct posed any risk.\nThe Quiet Skies algorithm looks at travel patterns, foreign connections and other data in a variety of government holdings, and if triggered, leads to additional security screening at the airport by Air Marshals. But it is not associated with the FBI’s terrorist watch list. Security officials from multiple agencies told CNN that the program is known inside the government for having far laxer standards for inclusion.\nTSA would not confirm Gabbard was on the list when asked by CNN but noted the program “is not a terrorist watchlist.”\n“TSA uses multi-layered security processes to protect the nation’s transportation systems to ensure freedom of movement for people and commerce,” the agency said in a statement. “TSA’s Quiet Skies program uses a risk-based, random, unpredictable approach to transportation security, to include identifying passengers and applying enhanced security measures.”\nThe statement continued: “TSA’s Quiet Skies program, which is not a terrorist watchlist, leverages USG intelligence information and databases to apply screening measures to a limited number of passengers for a limited period of time. Simply matching to a risk-based rule does not constitute derogatory information about an individual.”\nThe episode adds another specter of uncertainty to a nominee whose history of unorthodox foreign policy positions — in particular public statements that critics say echo Russian talking points — has already left some GOP senators profoundly uncomfortable.\nThe-CNN-Wire\n™ & © 2024 Cable News Network, Inc., a Warner Bros. Discovery Company. All rights reserved.\n​THE-CNN-WIRE (TM) & © 2024 CABLE NEWS NETWORK, INC., A TIME WARNER COMPANY. ALL RIGHTS RESERVED.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.cnn.com/2024/11/21/politics/tulsi-gabbard-director-national-intelligence-distrust/index.html",
+        "https://cnn.com/2024/11/21/politics/tulsi-gabbard-director-national-intelligence-distrust/index.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tulsi Gabbard",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Kamala Harris",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Transportation Security Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNN",
+                "sentiment": "none"
+            },
+            {
+                "name": "TSA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2e8e4f26cac92af05cf8d4257193f31d1916b7ce",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:26:30.458+02:00",
+    "updated": "2024-11-23T00:26:30.458+02:00"
+}

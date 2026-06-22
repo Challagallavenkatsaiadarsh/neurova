@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "0b4ee045abdfd6a5fa25643eccc009a4477c5ec0",
+        "url": "https://www.nny360.com/top_stories/adultery-legal-again-in-new-york-gov-hochul-signs-bill-repealing-1907-law/article_610f7d08-8a47-5af9-bf17-9c574a1fe0f3.html",
+        "site_full": "www.nny360.com",
+        "site": "nny360.com",
+        "site_section": "https://nny360.com/search/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Search | nny360.com",
+        "title": "Adultery legal again in New York: Gov. Hochul signs bill repealing 1907 law | Top Stories | nny360.com",
+        "title_full": "Adultery legal again in New York: Gov. Hochul signs bill repealing 1907 law | Top Stories | nny360.com",
+        "published": "2024-11-23T00:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/c/71/c717b947-720e-5ae5-9710-bfcfac446a37/66bbca76c2bae.image.jpg?crop=1662%2C873%2C0%2C187&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 31997,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0b4ee045abdfd6a5fa25643eccc009a4477c5ec0",
+    "url": "https://www.nny360.com/top_stories/adultery-legal-again-in-new-york-gov-hochul-signs-bill-repealing-1907-law/article_610f7d08-8a47-5af9-bf17-9c574a1fe0f3.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ALEX GAULT",
+    "published": "2024-11-23T00:55:00.000+02:00",
+    "title": "Adultery legal again in New York: Gov. Hochul signs bill repealing 1907 law | Top Stories | nny360.com",
+    "text": "It’s now legal to cheat on your spouse in New York.\nOn Friday, Gov. Kathleen C. Hochul signed a bill repealing a more-than-century old law on the books in New York that made cheating in a marriage, formally called adultery, illegal. The act had been a misdemeanor, with those convicted subject to up to 90 days in jail, although the 1907 law had been rarely used in recent decades.\nAccording to archives of the Batavia Daily News maintained by Johnson Newspapers, the last time someone was charged with adultery was 2010, when police charged a married woman for having public sex with another man in a park in the Genesee County city. The adultery charges were dropped during the ensuing court case.\nWith the repeal in place, effective immediately on Friday, New York is the fifth state to invalidate existing adultery laws in the last decade. Only 17 states in the U.S. ever had a law outlawing adultery in the first place.\nIn a statement, the governor said she felt it ironic that she was signing a bill to end the legal prohibition of adultery, seeing as she’s been married to her husband for 40 years.\n“I know that people often have complex relationships,” she said. These matters should clearly be handled by these individuals and not our criminal justice system. Let’s take this silly, outdated statute off the books, once and for all.”\nJohnson Newspapers 7.1",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=739228;type=js;sw=",
+        "https://www.ads.empowerlocal.co/adserve/;ID=181918;size=0x0;setID=739228;type=js;sw="
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kathleen C. Hochul",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Batavia Daily News",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johnson Newspapers",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Genesee County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:06:43.486+02:00",
+    "updated": "2024-11-23T02:06:43.486+02:00"
+}

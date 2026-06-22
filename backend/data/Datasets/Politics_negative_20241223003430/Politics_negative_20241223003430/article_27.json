@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "523068f444cf0024ec836d58c02623ac37a5ed03",
+        "url": "https://signalscv.com/2024/11/illinois-supreme-court-reverses-smolletts-conviction-for-hate-crime-hoax",
+        "site_full": "signalscv.com",
+        "site": "signalscv.com",
+        "site_section": "https://www.signalscv.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Santa Clarita Valley Signal | #1 source for breaking and local news | Santa Clarita Valley Signal",
+        "title": "Illinois Supreme Court reverses Smollett’s conviction for hate crime hoax",
+        "title_full": "Illinois Supreme Court reverses Smollett’s conviction for hate crime hoax",
+        "published": "2024-11-22T20:37:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 16773,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "523068f444cf0024ec836d58c02623ac37a5ed03",
+    "url": "https://signalscv.com/2024/11/illinois-supreme-court-reverses-smolletts-conviction-for-hate-crime-hoax",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Signal Contributor",
+    "published": "2024-11-22T20:37:00.000+02:00",
+    "title": "Illinois Supreme Court reverses Smollett’s conviction for hate crime hoax",
+    "text": "By Tom Ozimek\nContributing Writer\nThe Illinois Supreme Court has overturned former “Empire” actor Jussie Smollett’s felony conviction for orchestrating a fake hate crime, finding that his prosecution violated due process because it ran afoul of a non-prosecution deal he entered into in an earlier, related case.\nIn a Thursday opinion, the state’s high court decided to reverse Smollett’s 2021 conviction on felony disorderly conduct charges for falsely reporting a hate crime because, in 2019, the Cook County state’s attorney’s office dismissed similar charges against him via a legal doctrine known as noelle prosequi. This action ended his prosecution without a determination of guilt or innocence, and involved a non-prosecution agreement in which the charges were dropped in exchange for Smollett forfeiting his $10,000 bond and completing community service.\nA special prosecutor was later assigned to the case and recommended that Smollett be retried.\nA grand jury found him guilty in December 2021 of five counts of felony disorderly conduct, and he was sentenced to 150 days in jail, $120,106 restitution to the city of Chicago, and a $25,000 fine.\nSmollett appealed, with the case ending up before the Illinois Supreme Court, which on Thursday reversed his conviction.\nIn the Thursday opinion, Justice Elizabeth Rochford noted that Smollett had fulfilled the terms of a binding negotiated settlement with the Cook County state’s attorney’s office, and that the government must honor such agreements or risk “total nullification of the bargaining system between the prosecution and the defense.”\n“Today we resolve a question about the state’s responsibility to honor the agreements it makes with defendants,” Rochford wrote.\n“Specifically, we address whether a dismissal of a case by nolle prosequi allows the state to bring a second prosecution when the dismissal was entered as part of an agreement with the defendant and the defendant has performed his part of the bargain. We hold that a second prosecution under these circumstances is a due process violation, and we therefore reverse defendant’s conviction.”\nThe Illinois Supreme Court sent Smollett’s case back to the trial court to enter a formal dismissal of charges.\nSmollett ended up serving only six days of his 150-day jail sentence after being released while his conviction appeal played out.\nThe case stems from Smollett’s claims to law enforcement that, in January 2019, he was confronted by two masked men in a dark Chicago street, who threw a noose over his neck, poured chemicals on him, yelled racist and homophobic slurs, while expressing support for then-President Donald Trump.\nPolice arrested Smollett about a month after he filed the hate crime complaint, citing evidence that the actor had paid two brothers $3,500 to orchestrate the attack to raise his business-show profile.\nSmollett, who knew the men from his work on the “Empire” television show, testified that he did not recognize them and did not know they were the ones attacking him.\nSmollett continues to maintain his innocence.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ju",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Smollett",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tom Ozimek",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Illinois Supreme Court",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:04:44.522+02:00",
+    "updated": "2024-11-23T00:04:44.522+02:00"
+}

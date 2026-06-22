@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "4054d0c50a99e5022e04aa361a660e6db4be5d6a",
+        "url": "https://www.tribuneindia.com/news/j-k/shopkeepers-go-on-strike-against-proposed-vaishno-devi-ropeway",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "News Headlines: Top News Today & Breaking News | Tribune India",
+        "title": "Shopkeepers go on strike against proposed Vaishno Devi ropeway - The Tribune",
+        "title_full": "Shopkeepers go on strike against proposed Vaishno Devi ropeway - The Tribune",
+        "published": "2024-11-22T22:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/6740c487c4beb-03101-20241003068L-scaled.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4054d0c50a99e5022e04aa361a660e6db4be5d6a",
+    "url": "https://www.tribuneindia.com/news/j-k/shopkeepers-go-on-strike-against-proposed-vaishno-devi-ropeway",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Correspondent",
+    "published": "2024-11-22T22:58:00.000+02:00",
+    "title": "Shopkeepers go on strike against proposed Vaishno Devi ropeway - The Tribune",
+    "text": "Shopkeepers go on strike against proposed Vaishno Devi ropeway\nShopkeepers, pony-owners and proprietors of other business establishments went on a three- day strike in Katra town, the base camp of Vaishno Devi pilgrimage, against the decision of the authorities to build a ropeway that will reduce the travel time of the pilgrims to the cave shrine.\nShri Mata Vaishno Devi Shrine Board (SMVDSB) Chief Executive Officer Anshul Garg had recently announced that a ropeway will be constructed from Tarakote Marg to the temple area that will reduce the travel journey on 13-km path from over 4-5 hours to only 6 minutes.\nLakhs of pilgrims visit Vaishni Devi shrine in Trikuta Hills every year that generates revenue not only for local business establishments of Katra but for the entire Jammu and Kashmir. Most of the pilgrims visit several scenic regions in the UT, which generates income for the locals.\nAnshul Garg had recently said, “The board has finally decided to implement the ropeway project. Concerns of local stakeholders will also be considered during the project’s implementation.”\nThe shopkeepers and others who believe their businesses will be impacted due to the ropeway had protested even last year against the proposed project of the shrine board. While the project was not discussed for some months, the authorities decided to go ahead with it recently.\nProtest demonstrations were held at different sites in Katra against the ropeway on Friday during which the stakeholders warned the authorities not to go ahead with the project.\nThe shopkeepers, especially on the track route of the shrine from Katra, have claimed that the construction of the ropeway will directly impact their businesses as the pilgrims will directly reach the Bhawan area bypassing their shops. The pony-owners have also expressed similar concerns.\nJ&K unit of Shiv Sena has also announced its support to the strike declared by local traders, horse and pony service operators on the pilgrimage route.\nParty’s J&K unit chief Manish Sahni said, “We are not against development and facilities, but if it has a negative impact on local traders and employment, we will stand against it”.\n“The devotees coming to visit Vaishno Devi shrine by ropeway will also bypass the holy sites of Banganga, Charan Paduka, Ardhkunwari, Garbhjoon, which is an injustice towards these pilgrims,” he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vaishno Devi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Anshul Garg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Tarakote Marg",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trikuta Hills",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kashmir",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:32:02.258+02:00",
+    "updated": "2024-11-23T01:32:02.258+02:00"
+}

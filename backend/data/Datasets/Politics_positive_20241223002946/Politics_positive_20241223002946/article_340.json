@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "4b662f977103842b4f967eb2f1fb24d4b97018a4",
+        "url": "https://www.campusreform.org/article/38-million-in-government-grant-money-going-to-gender-equity-database-at-vcu-/26869",
+        "site_full": "www.campusreform.org",
+        "site": "campusreform.org",
+        "site_section": "https://campusreform.org/api/RSS",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Campus Reform",
+        "title": "$3.8 million in government grant money going to gender equity database at VCU",
+        "title_full": "$3.8 million in government grant money going to gender equity database at VCU",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.campusreform.org/eyJidWNrZXQiOiJjYW1wdXMucmVmb3JtIiwia2V5IjoiMjY4NjkvNjBiNzIxN2EtOTQ2MC00ZTE4LTlkOWUtMzRlMTZlMjVmYzZkLnBuZyIsImVkaXRzIjp7ImdyYXlzY2FsZSI6ZmFsc2UsInJlc2l6ZSI6eyJ3aWR0aCI6MTAwMH19fQ==",
+        "performance_score": 0,
+        "domain_rank": 24428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4b662f977103842b4f967eb2f1fb24d4b97018a4",
+    "url": "https://www.campusreform.org/article/38-million-in-government-grant-money-going-to-gender-equity-database-at-vcu-/26869",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brendan McDonald",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "$3.8 million in government grant money going to gender equity database at VCU",
+    "text": "$3.8 million in government grant money going to gender equity database at VCU\nThe university’s Institute for Women’s Health is receiving the grant.\nThe grant is worth $3.8 million.\n[Brendan McDonald '25](/profile?pid=6098527)| New Hampshire Correspondent\nThe Virginia Commonwealth University’s Institute for Women’s Health has received millions in federal government grant money to increase gender diversity in STEM fields.\nThe university announced the grant, awarded by the National Institutes of Health, in a Nov. 12 press release. The grant, worth $3.8 million, is called the “VCU National Coordinating Center for Advancing Gender Inclusive Excellence.” The Institute is the “sole recipient” of the grant, according to the press release.\n[[RELATED: National Science Foundation gives $2 million to Pratt Institute to promote ‘climate literacy’ and ‘climate justice’]]https://www.campusreform.org/article/national-science-foundation-gives-2-million-pratt-institute-promote-climate-literacy-climate-justice/26612\nThe grant recipients emphasize that there is a gap in funding dedicated to increasing gender equity. The money will go toward creating a database to evaluate whether institutions are performing well in gender equity.\n“What’s missing is the development of a central hub to support and advance gender equity programs through collecting, validating, evaluating and disseminating strategies and outcomes,” Susan Kornstein, the executive director of the Institute, said in the university’s news article. “And that’s what this grant will make possible.”\nThe Institute for Women’s Health is “the only community of scholars across VCU that conducts, promotes, and integrates interdisciplinary research, education, and community engagement in women’s health and sex/ gender differences.”\nThe Institute’s National Coordinating Center for Advancing Gender Inclusive Excellence (AGIE) has an ongoing partnership with the National Institutes of Health to increase gender equity in STEM.\nThe institution’s mission is “to develop an interactive, dynamic, and evidence-based repository to improve access to resources, tools, technologies, expertise, and strategies that address gender-based inequities in the STEMM academic and research workforce,” its website says\nUnder President Biden’s administration, many government grants have gone toward diversity efforts at colleges and universities.\nA recently released report found that a fourth of National Science Foundation grants fund diversity, equity, and inclusion initiatives. “Billions of taxpayer dollars have been awarded to projects that divide Americans and support investigations or publications that are of questionable scientific value,” the report said.\n[[RELATED: Illinois bill would give colleges taxpayer dollars for each minority student enrolled]]https://www.campusreform.org/article/illinois-bill-give-colleges-taxpayer-dollars-minority-student-enrolled-/26526\nMeanwhile, the Department of Education continues to award tens of millions for equity initiatives for “underserved students.”\nCampus Reform contacted the Institute for Women’s Health for comment. This story will be updated accordingly.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Brendan McDonald",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "VCU",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Virginia Commonwealth University’s Institute for Women’s Health",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Institutes of Health",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Science Foundation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pratt Institute",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:03:00.879+02:00",
+    "updated": "2024-11-23T02:03:00.879+02:00"
+}

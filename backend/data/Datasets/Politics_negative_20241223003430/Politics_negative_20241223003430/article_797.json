@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "c11ce9eac4436a6a28400299f44e0716f6a80c32",
+        "url": "https://tribune.net.ph/2024/11/22/pbbm-hints-at-barmm-poll-delay",
+        "site_full": "tribune.net.ph",
+        "site": "tribune.net.ph",
+        "site_section": "https://tribune.net.ph/feed",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news"
+        ],
+        "section_title": "tribune",
+        "title": "PBBM hints at BARMM poll delay",
+        "title_full": "PBBM hints at BARMM poll delay",
+        "published": "2024-11-23T01:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "https://media.assettype.com/tribune%2F2024-10-23%2Fxcx5hf4g%2FPresident-Marcos-at-NDRRMC.jpg?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 47818,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c11ce9eac4436a6a28400299f44e0716f6a80c32",
+    "url": "https://tribune.net.ph/2024/11/22/pbbm-hints-at-barmm-poll-delay",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TDT",
+    "published": "2024-11-23T01:25:00.000+02:00",
+    "title": "PBBM hints at BARMM poll delay",
+    "text": "Presidential Communications Office TDT Published on: 22 Nov 2024, 23:25\nCopied\nPresident Ferdinand Marcos Jr. has signaled a potential delay in the first parliamentary elections for the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM), citing the Supreme Court’s decision to separate the province of Sulu from the region.\n“We might not be able to do it next year considering the Supreme Court decision separating the province of Sulu from the Bangsamoro region,” Marcos said.\nThe President explained that the SC decision has triggered a series of changes that could complicate the electoral process.\n“We are still studying it because of the many implications in terms of changes which were triggered by the SC decision. Maybe we might not be able to do it by May next year,” said Marcos.\nSeveral key figures in the Bangsamoro region, including Senate President Francis Escudero and House Speaker Martin Romualdez, have also called for the postponement. They argue that the exclusion of Sulu and the need for electoral reconfiguration require additional time to ensure a credible and inclusive election.\nA significant number of BARMM governors, mayors, and members of the Bangsamoro Transition Authority have expressed support for the postponement, citing concerns about the potential impact on voter representation and the overall integrity of the electoral process.\nThe Moro National Liberation Front (MNLF) and other key stakeholders have also joined the call for a delay, emphasizing the importance of a well-prepared and fair election.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/intent/tweet?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay&text=PBBM%20hints%20at%20BARMM%20poll%20delay&hashtags=",
+        "https://api.whatsapp.com/send?text=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay",
+        "https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay&title=PBBM%20hints%20at%20BARMM%20poll%20delay",
+        "https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay",
+        "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay&text=PBBM%20hints%20at%20BARMM%20poll%20delay&hashtags=",
+        "https://www.api.whatsapp.com/send?text=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay",
+        "https://linkedin.com/shareArticle?url=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay&title=PBBM%20hints%20at%20BARMM%20poll%20delay",
+        "https://www.linkedin.com/shareArticle",
+        "https://facebook.com/sharer.php?u=https%3A%2F%2Ftribune.net.ph%2F2024%2F11%2F22%2Fpbbm-hints-at-barmm-poll-delay",
+        "https://www.facebook.com/sharer.php",
+        "https://api.whatsapp.com/send",
+        "https://twitter.com/intent/tweet"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:28:05.336+02:00",
+    "updated": "2024-11-23T01:28:05.336+02:00"
+}

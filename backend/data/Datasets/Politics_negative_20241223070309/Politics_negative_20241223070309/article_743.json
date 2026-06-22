@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "86a67aab4b56d02c5780c1ec255e30f02704b1e6",
+        "url": "https://www.wdrb.com/news/wdrb-video/us-officials-confirm-russia-launched-hypersonic-missiles-into-ukraine/video_6362df37-03e0-532c-ad91-11219a3703bc.html",
+        "site_full": "www.wdrb.com",
+        "site": "wdrb.com",
+        "site_section": "https://www.wdrb.com/news/wdrb-video",
+        "site_categories": [
+            "media",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Wdrb-video | wdrb.com",
+        "title": "US officials confirm Russia launched hypersonic missiles into Ukraine | Wdrb-video | wdrb.com",
+        "title_full": "US officials confirm Russia launched hypersonic missiles into Ukraine | Wdrb-video | wdrb.com",
+        "published": "2024-11-22T06:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/6/36/6362df37-03e0-532c-ad91-11219a3703bc/6740bfb553f84.image.jpg?crop=1280%2C672%2C0%2C23&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 9357,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "86a67aab4b56d02c5780c1ec255e30f02704b1e6",
+    "url": "https://www.wdrb.com/news/wdrb-video/us-officials-confirm-russia-launched-hypersonic-missiles-into-ukraine/video_6362df37-03e0-532c-ad91-11219a3703bc.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T06:00:00.000+02:00",
+    "title": "US officials confirm Russia launched hypersonic missiles into Ukraine | Wdrb-video | wdrb.com",
+    "text": "US officials confirm Russia launched hypersonic missiles into Ukraine\n- Updated\nPoll\nMost Popular\nArticles\n[2 people arrested in connection to Oldham County hit-and-run that killed elderly woman](/news/crime-reports/2-people-arrested-in-connection-to-oldham-county-hit-and-run-that-killed-elderly-woman/article_336d1b34-a8f8-11ef-8fe4-873f114aa8ca.html)[Tiffanie Lucas learns her sentence for killing her 2 sons in their Bullitt County home](/news/crime-reports/tiffanie-lucas-learns-her-sentence-for-killing-her-2-sons-in-their-bullitt-county-home/article_bb519252-a8dd-11ef-8347-d300085b1398.html)[Kroger plans Black Friday lottery for 1,000 bottles of Pappy Van Winkle bourbon](/news/business/kroger-plans-black-friday-lottery-for-1-000-bottles-of-pappy-van-winkle-bourbon/article_112cc094-a694-11ef-b856-af4373b84d5e.html)[Louisville man charged after 3-year-old daughter dies of self-inflicted gunshot wound](/news/louisville-man-charged-after-3-year-old-daughter-dies-of-self-inflicted-gunshot-wound/article_f0c74f96-a813-11ef-82ec-cf834e10926f.html)[Woman dies after being hit by car Friday morning on Fern Valley Road](/news/woman-dies-after-being-hit-by-car-friday-morning-on-fern-valley-road/article_478db01c-a8c9-11ef-9198-3bdbc072a5b8.html)[One of Louisville's most dangerous roads is getting major makeover](/news/one-of-louisvilles-most-dangerous-roads-is-getting-major-makeover/article_a90d3be2-a846-11ef-a566-1f8c40945e56.html)[Major Kentucky coal company shutting down operations, displacing 300 workers](/news/business/major-kentucky-coal-company-shutting-down-operations-displacing-300-workers/article_f0b869b8-a769-11ef-b7b3-e39491c193a0.html)[Drivers caught street racing in Louisville face steep fines, vehicle impoundments](/news/crime-reports/drivers-caught-street-racing-in-louisville-face-steep-fines-vehicle-impoundments/article_2de7d380-a87a-11ef-b5ff-a35be653a943.html)[Tow truck procession travels down I-65 to honor Suburban Towing CEO Irvin Johns](/news/tow-truck-procession-travels-down-i-65-to-honor-suburban-towing-ceo-irvin-johns/article_17a7f154-a848-11ef-850a-4f20faa77442.html)[Family of man ‘strangled’ to death seeks federal investigation of Kentucky police officers](/wdrb-investigates/family-of-man-strangled-to-death-seeks-federal-investigation-of-kentucky-police-officers/article_adbb3c08-a8e0-11ef-8f45-4bf53946acdd.html)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Financial and Economic News"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tiffanie Lucas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kroger",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Bullitt County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:24:32.524+02:00",
+    "updated": "2024-11-23T01:24:32.524+02:00"
+}

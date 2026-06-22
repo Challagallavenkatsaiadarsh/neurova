@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "2cb8f8fdab0d9331a545acd4c9015cf9a0fa986f",
+        "url": "https://tribune.com.pk/story/2511508/pakistan-iran-to-achieve-10b-bilateral-trade-target",
+        "site_full": "tribune.com.pk",
+        "site": "tribune.com.pk",
+        "site_section": "https://tribune.com.pk/pakistan",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Pakistan News, Latest News Pakistan, Pakistan Headline | The Express Tribune ",
+        "title": "Pakistan Iran to achieve 10b bilateral trade target",
+        "title_full": "Pakistan Iran to achieve 10b bilateral trade target",
+        "published": "2024-11-23T22:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://i.tribune.com.pk/media/images/2104847-iranpakistanflags-15744817001634616067-01705486462-0/2104847-iranpakistanflags-15744817001634616067-01705486462-0.jpg",
+        "performance_score": 0,
+        "domain_rank": 4084,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2cb8f8fdab0d9331a545acd4c9015cf9a0fa986f",
+    "url": "https://tribune.com.pk/story/2511508/pakistan-iran-to-achieve-10b-bilateral-trade-target",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Our Correspondent",
+    "published": "2024-11-23T22:03:00.000+02:00",
+    "title": "Pakistan Iran to achieve 10b bilateral trade target",
+    "text": "The Iranian Consul General in Quetta, Hassan Darvishwand, has expressed optimism about achieving the $10 billion bilateral trade target between Pakistan and Iran through mutual cooperation.\nSpeaking during a meeting with officials and members of the Chamber of Commerce and Industry Quetta Balochistan, he assured full support in addressing trade challenges.\nDuring the meeting, President of the Chamber of Commerce and Industry Quetta, Muhammad Ayub Mariani, along with Senior Vice President Haji Akhtar Kakar and Vice President Engineer Mir Vice Khan Kakar, briefed the Iranian Consul General about obstacles hampering bilateral trade.\nThey also presented suggestions to enhance trade and requested action to resolve key issues, including the matter of i-forms, for which the Chamber has obtained an injunction from the Supreme Court.\nThe Iranian Consul General pledged to convey these concerns to relevant authorities and reiterated Iran's commitment to removing barriers to trade.\nHe emphasized that achieving the $10 billion trade target would result in significant economic benefits for both nations.\nOn the occasion, the newly elected officials of the Chamber were congratulated, with hopes expressed for their continued efforts in promoting trade. The Chamber of Commerce and Industry presented a commemorative shield to Hassan Darvishwand in recognition of his efforts to strengthen Pak-Iran trade ties.\nThis meeting is expected to yield positive outcomes, further enhancing economic collaboration between the two neighboring countries.\nIt may be recalled that in July this year, during a full-day meeting in the Iranian border town of Zahedan, the Pak-Iran Joint Border Trade Committee deliberated on border concerns, the growth of bilateral trade, and improvements in immigration procedures and transportation.\nCOMMENTS\nComments are moderated and generally will be posted if they are on-topic and not abusive.\nFor more information, please see our [Comments FAQ](/comments-policy)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Hassan Darvishwand",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Muhammad Ayub Mariani",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haji Akhtar Kakar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Khan Kakar",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Chamber of Commerce and Industry Quetta",
+                "sentiment": "none"
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:20:27.862+02:00",
+    "updated": "2024-11-24T02:20:27.862+02:00"
+}

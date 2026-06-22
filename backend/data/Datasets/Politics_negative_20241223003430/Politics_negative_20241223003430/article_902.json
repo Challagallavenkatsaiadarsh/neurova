@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "1a66222884003b4e370db61f2530e2cae7fab695",
+        "url": "https://punchng.com/kano-gov-mourns-death-of-umaru-pates-mother",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "https://www.punchng.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Punch newspapers - Breaking News, Nigerian News &amp; Top Stories",
+        "title": "Kano gov mourns death of Umaru Pate’s mother",
+        "title_full": "Kano gov mourns death of Umaru Pate’s mother",
+        "published": "2024-11-23T01:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 6171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "1a66222884003b4e370db61f2530e2cae7fab695",
+    "url": "https://punchng.com/kano-gov-mourns-death-of-umaru-pates-mother",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tukur Muntari",
+    "published": "2024-11-23T01:00:00.000+02:00",
+    "title": "Kano gov mourns death of Umaru Pate’s mother",
+    "text": "The Kano State Governor, Abba Kabir Yusuf, has expressed profound sorrow over the death of Hajiya Hussaina, the mother of Prof Umaru Pate,",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Abba Kabir Yusuf",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Umaru Pate",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Hajiya Hussaina",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Sanusi Dawakin-Tofa",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:40:49.659+02:00",
+    "updated": "2024-11-23T03:33:26.152+02:00"
+}

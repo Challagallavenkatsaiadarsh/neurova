@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "039eac2cc8399800f2c78ae1a9d44cb0c24ee1e7",
+        "url": "https://www.lansingcitypulse.com/stories/muslim-democrat-removed-from-harris-campaign-event-takes-legal-action-against-royal-oak-venue,117767",
+        "site_full": "www.lansingcitypulse.com",
+        "site": "lansingcitypulse.com",
+        "site_section": "https://www.lansingcitypulse.com/radio-tv",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "City Pulse",
+        "title": "Muslim Democrat removed from Harris campaign event takes legal action against Royal Oak venue",
+        "title_full": "Muslim Democrat removed from Harris campaign event takes legal action against Royal Oak venue",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 65886,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "039eac2cc8399800f2c78ae1a9d44cb0c24ee1e7",
+    "url": "https://www.lansingcitypulse.com/stories/muslim-democrat-removed-from-harris-campaign-event-takes-legal-action-against-royal-oak-venue,117767",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kyle Davidson (via Michigan Advance)",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "Muslim Democrat removed from Harris campaign event takes legal action against Royal Oak venue",
+    "text": "Getty Images\nAfter being removed from a campaign rally for Vice President Kamala Harris in October, a former Democratic candidate for U.S. House is suing the venue, arguing he was removed on account of his religion, race or ethnicity.\nAhmed Ghanim, who unsuccessfully sought the Democratic nomination for Michigan’s 11th Congressional District, attended a rally for Harris held at the Royal Oak Music Theatre on Oct. 21, after receiving a confirmed invitation. According to the suit, Ghanim was later approached by U.S. Secret Service agents and escorted to the back of the venue.\n[In a video of the incident](https://www.facebook.com/61557910178784/videos/pcb.122165480558263672/1089063469467635), Ghanim asks why he is being removed from the venue, to which one of the agents responds “I’m not kicking you out. The venue is kicking you out.” His suit notes that Ghanim is a Muslim, racially Egyptian, and ethnically Arab and was the only attendee to be removed from the event.\nAccording to a [report from The Detroit News](https://www.detroitnews.com/story/news/politics/2024/10/22/harris-campaign-regrets-muslims-removal-from-rally-says-hes-welcome/75796758007/), the Harris Campaign later said it “regrets this action and its impact on Dr. Ghanim and the community, and he is welcome at future events.”\nWhile Ghanim has publicly called for a ceasefire in Israel’s war on Gaza and criticized Harris and President Joe Biden for their policies supporting Israel, he told the News “They kicked me out without ― providing zero reasons provided to me. I didn’t have anything. There is no provocation. I didn’t even have any like a Palestinian kaffiyeh, any signs or a banner, nothing. None of that is allowed inside.”\nIn the suit filed with the United States District Court for the Eastern District of Michigan Southern Division on Thursday, Ghanim argues he was subjected to intentional discrimination in violation of the Civil Rights Act of 1964 and denied public accommodation in violation of Michigan’s Elliot-Larsen Civil Rights Act. He has also requested damages for intentional infliction of emotional distress.\nThe theater will have 21 days to respond to the suit after being provided with a copy of the summons in a civil action, issued Friday.\nCourt records do not currently identify an attorney for Royal Oak Music Theatre, and a request for comment left with the theater was not immediately returned.\nNo comments on this item\n[Please log in to comment by clicking here](/login.html?referer=%2Fstories%2Fmuslim-democrat-removed-from-harris-campaign-event-takes-legal-action-against-royal-oak-venue%2C117767)\n[\nSupport City Pulse - Donate Today!\n](https://lansingcitypulse.ac-page.com/donate)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Crime, Law and Justice"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://lansingcitypulse.ac-page.com/donate",
+        "https://www.detroitnews.com/story/news/politics/2024/10/22/harris-campaign-regrets-muslims-removal-from-rally-says-hes-welcome/75796758007/",
+        "https://www.facebook.com/61557910178784/videos/pcb.122165480558263672/1089063469467635",
+        "https://www.detroitnews.com/story/news/politics/2024/10/22/harris-campaign-regrets-muslims-removal-from-rally-says-hes-welcome/75796758007",
+        "https://facebook.com/61557910178784/videos/pcb.122165480558263672/1089063469467635",
+        "https://www.lansingcitypulse.ac-page.com/donate",
+        "https://detroitnews.com/story/news/politics/2024/10/22/harris-campaign-regrets-muslims-removal-from-rally-says-hes-welcome/75796758007/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kamala Harris",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ahmed Ghanim",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "U.S. Secret Service",
+                "sentiment": "none"
+            },
+            {
+                "name": "U.S. House",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:33:49.197+02:00",
+    "updated": "2024-11-23T00:33:49.197+02:00"
+}

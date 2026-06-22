@@ -1,0 +1,73 @@
+{
+    "thread": {
+        "uuid": "ecae0b867d7bbd93a7c81f20dba78a644f78535c",
+        "url": "https://see.news/putin-signs-law-allowing-volunteers-fighting-in-ukraine-write-off-unpaid-debts",
+        "site_full": "see.news",
+        "site": "see.news",
+        "site_section": "https://see.news/category/business",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Business",
+        "title": "Putin Signs Law Allowing Volunteers Fighting in Ukraine Write off Unpaid Debts | Sada Elbalad",
+        "title_full": "Putin Signs Law Allowing Volunteers Fighting in Ukraine Write off Unpaid Debts | Sada Elbalad",
+        "published": "2024-11-24T07:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AL",
+        "main_image": "https://i2.wp.com/see.news/images/2024/11/-1732427120-0.jpg?resize=920%2C550&amp;ssl=1",
+        "performance_score": 0,
+        "domain_rank": 108062,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ecae0b867d7bbd93a7c81f20dba78a644f78535c",
+    "url": "https://see.news/putin-signs-law-allowing-volunteers-fighting-in-ukraine-write-off-unpaid-debts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@",
+    "published": "2024-11-24T07:45:00.000+02:00",
+    "title": "Putin Signs Law Allowing Volunteers Fighting in Ukraine Write off Unpaid Debts | Sada Elbalad",
+    "text": "Taarek Refaat Russian President Vladimir Putin signed a law on Saturday allowing volunteers fighting in Ukraine to write off their unpaid debts, which could reach up to $100,000, the Russian government said.\nThe legislation is seen as a powerful incentive for Russian citizens to join the military in the nearly three-year-old war, as Russia seeks new ways to recruit fighters as its forces are depleted.\nThe law states that those who sign a one-year contract to fight in Ukraine after December 1, 2024, can write off unpaid debts that have been subject to court orders, including those owed to spouses, and allows recruits to write off debts that were not settled before December 1 of next year.\nThe total amount of unpaid debts that can be written off under the law is 10 million rubles, or about $96,000 at current exchange rates, and the Russian parliament approved the bill earlier this month, according to Agence France-Presse.\nThe law is primarily aimed at young Russians of military age, who are more likely to take out loans amid high interest rates and a lack of cash savings, despite the country’s high home ownership rate.\n“The new law is a significant development, as previously only fighters could defer loan repayments,” Sergey Krivenko of Citizen Army Law noted on Telegram, adding that the legislation applies to those drafted for military service and “special military operations” in Ukraine.\nAccording to political analyst Georgy Bovt, “the Russian authorities are working to increase the incentive to sign professional service contracts,” stressing that the new legislation offers “another way to get rid of the burden of loans, albeit for hundreds of thousands of people.”\nAccording to a report by the Central Bank of Russia, more than 13 million Russians have taken out three or more loans this year, a 20% increase compared to last year, with the average amount owed by those with three or more loans amounting to 1.4 million rubles (about $13,400).\nRussian soldiers serving on the front lines are paid above the national average, an additional factor that encourages some to join the military. Ukraine has also passed similar laws allowing fighters to obtain preferential loan terms and, in some cases, write off debts, in a move to boost the ability to recruit soldiers to face military challenges.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vladimir Putin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:05:16.102+02:00",
+    "updated": "2024-11-29T15:06:10.951+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "7c14538fd8fb9c644579749de1f72f4bce1f97a0",
+        "url": "https://theglobalherald.com/news/arrest-warrant-issued-for-israeli-prime-minister-netanyahu-by-icc-impact-on-uk-visits-discussed",
+        "site_full": "theglobalherald.com",
+        "site": "theglobalherald.com",
+        "site_section": "https://www.theglobalherald.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Global Herald - News, Business, Lifestyle &amp; More",
+        "title": "Arrest Warrant Issued for Israeli Prime Minister Netanyahu by ICC, Impact on UK Visits Discussed",
+        "title_full": "Arrest Warrant Issued for Israeli Prime Minister Netanyahu by ICC, Impact on UK Visits Discussed",
+        "published": "2024-11-22T23:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 62116,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7c14538fd8fb9c644579749de1f72f4bce1f97a0",
+    "url": "https://theglobalherald.com/news/arrest-warrant-issued-for-israeli-prime-minister-netanyahu-by-icc-impact-on-uk-visits-discussed",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Desk",
+    "published": "2024-11-22T23:03:00.000+02:00",
+    "title": "Arrest Warrant Issued for Israeli Prime Minister Netanyahu by ICC, Impact on UK Visits Discussed",
+    "text": "\\n Netanyahu\\u2019s Legal Challenges in the UK \\nIsraeli Prime Minister Benjamin Netanyahu may face arrest should he enter the United Kingdom, as an international warrant has been issued against him. This announcement was clarified by spokespeople from Downing Street, indicating that the UK government would adhere to its legal responsibilities.\n\\n Details of the ICC Warrant \\nOn Thursday, the International Criminal Court (ICC) announced an arrest warrant for Netanyahu along with former Israeli defense minister Yoav Gallant. The charges stem from alleged war crimes related to the ongoing conflict in Gaza.\n\\nThe ICC mandates that its member states, including the UK, comply with arrest warrants issued by the court. This legal framework requires states to take action upon receiving such requests.\n\\n Government Response \\nWhen pressed about the situation regarding Netanyahu\\u2019s potential detention in the UK, a spokesman for the Prime Minister\\u2019s office refrained from discussing hypothetical scenarios. However, he asserted, \\u201cThe government would fulfil its obligations under the act and indeed its legal obligations.\\u201d\n\\nThis refers to the International Criminal Court Act 2001, which outlines the process for how the UK must handle arrest warrants issued by the ICC. According to the act, a designated minister is required to transmit the warrant to the appropriate judicial authority, who must endorse it if deemed valid. The spokesman reaffirmed the government\\u2019s commitment to complying with both domestic and international law.\n\\nAt this time, there is no confirmation regarding which government official might handle the ICC warrant, nor whether legal advice from Attorney General Lord Hermer has been sought on this matter.\n\\n Diplomatic Considerations \\nDespite the legal complexities, the Prime Minister\\u2019s spokesman emphasized the importance of maintaining dialogue with Israel, describing it as \\u201ca key partner across a range of areas.\\u201d\n\\n Reaction to the ICC Warrant \\nIn a separate context, Lord Hermer articulated last month that any advice he provides in relation to an arrest warrant would strictly adhere to legal standards, uninfluenced by political contexts. He noted, \\u201cMy advice on an arrest warrant for Mr. Netanyahu would be legal advice, based on analysis of the law.\\u201d\n\\nAfter the announcement of the ICC warrants, Downing Street conveyed that it respects the independence of the ICC and prioritizes efforts for an immediate ceasefire in the conflict-ridden Gaza region.\n\\n Global Reactions \\nIn addition to the arrest warrant for Netanyahu, the ICC also issued a warrant for Hamas military leader Mohammed Deif over alleged war crimes connected to the recent attacks on Israel. The response from various political figures continues to evolve, highlighted by Shadow Foreign Secretary Dame Priti Patel\\u2019s critique of the ICC, asserting that it improperly equates Israel\\u2019s actions with those of Hamas and calling for the UK government to challenge the ICC\\u2019s decision.\n\\nThe implications of these warrants will hinge on the actions taken by the ICC\\u2019s 124 member states, which do not include Israel or the United States. The U.S. President Joe Biden has characterized the ICC\\u2019s move against Netanyahu as \\u201coutrageous,\\u201d arguing there is no equivalence between Israel and Hamas.\n\\nBoth Israeli and Hamas leadership have rejected the allegations of war crimes put forth by the ICC, adding further complexity to an already intricate international legal scenario.\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "ICC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "International Criminal Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:30.089+02:00",
+    "updated": "2024-11-23T00:01:30.089+02:00"
+}

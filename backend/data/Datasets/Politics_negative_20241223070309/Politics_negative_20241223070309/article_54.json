@@ -1,0 +1,99 @@
+{
+    "thread": {
+        "uuid": "0998abfb0361620325bb77a3a032f6ce96e4368d",
+        "url": "https://wrestletalk.com/news/bobby-lashley-compares-aew-hurt-syndicate-roman-reigns-paul-heyman",
+        "site_full": "wrestletalk.com",
+        "site": "wrestletalk.com",
+        "site_section": "https://www.wrestletalk.com",
+        "site_categories": [
+            "sports"
+        ],
+        "section_title": "WrestleTalk - Daily news from WWE, AEW, NJPW and more",
+        "title": "Bobby Lashley Compares AEW Star Joining Hurt Syndicate To Roman Reigns Aligning With Paul Heyman",
+        "title_full": "Bobby Lashley Compares AEW Star Joining Hurt Syndicate To Roman Reigns Aligning With Paul Heyman",
+        "published": "2024-11-22T23:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 76104,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0998abfb0361620325bb77a3a032f6ce96e4368d",
+    "url": "https://wrestletalk.com/news/bobby-lashley-compares-aew-hurt-syndicate-roman-reigns-paul-heyman",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "SP3",
+    "published": "2024-11-22T23:20:00.000+02:00",
+    "title": "Bobby Lashley Compares AEW Star Joining Hurt Syndicate To Roman Reigns Aligning With Paul Heyman",
+    "text": "Former two-time WWE Champion Bobby Lashley has addressed potentially teased AEW Hurt Syndicate member.\nOn AEW Fright Night Dynamite (October 30), Bobby Lashley made his debut in the company and reunited with MVP and Shelton Benjamin to form the Hurt Syndicate.\nOutside of feuding with Swerve Strickland, the group has also teased various new members to join their ranks. The most notable member of the AEW roster who has received a business card from MVP is former WWE star Ricochet.\nAppearing on the Lame Guys podcast , Bobby Lashley was asked about Ricochet potentially joining the Hurt Syndicate. He answered:\n“We’re going to put an ad in Indeed [laughs]. I love Ricochet. I think everybody loves Ricochet. You see that guy in the ring, he’s ridiculous.”\n“I think Ricochet would be a great option. I don’t know if he’s going to be that person. Does he have that dog in him? We asked him several times and he goes, ‘I do. I do. I do.'”\n“Everybody says that. What’s cool about him is he runs into the same category I did. I was such a babyface and people still see me as a babyface.”\n“When I’m with the Hurt Business and I link up with MVP, they’re like, ‘Alright, he’s a heel.’ It helped me because having a heel manager helps a babyface make that switch.”\nComparing MVP and The Hurt Syndicate joining forces with Ricochet to Roman Reigns aligning with Paul Heyman, Lashley said:\n“Roman (Reigns) and Paul (Heyman). Ricochet could be. With him, it would be a different kind of grit that he would have.”\n“That’s what we did with Cedric. Cedric’s stuff is so pretty and flashy, we’re like, ‘Stop it. Just smash this dude in his face.'”\n“At the same time, I still pull for Lio. I think Lio would be awesome in the group, too. Either one of those guys would be incredible in the group,”\nBobby Lashley will face Swerve Strickland in a singles match, while Ricochet will challenge Konosuke Takeshita for the AEW International Championship this Saturday, November 23 at AEW Full Gear.\nFor more AEW news follow this link here.\nTranscription via Fightful\nTo make sure you stay up to date with all the biggest wrestling and WrestleTalk news, join our exclusive WhatsApp channel by clicking this link !",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Social Issue",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.fightful.com/wrestling/bobby-lashley-does-ricochet-have-dog-him-join-hurt-syndicate",
+        "https://www.wrestlingmasterclass.com/",
+        "https://whatsapp.com/channel/0029VaWjRis9WtC3S0zSQy0d",
+        "https://podcasts.apple.com/us/podcast/the-bobby-lashley-interview-pt-2-the-lame-guys/id1713272645?i=1000677644235",
+        "https://www.podcasts.apple.com/us/podcast/the-bobby-lashley-interview-pt-2-the-lame-guys/id1713272645?i=1000677644235",
+        "https://www.whatsapp.com/channel/0029VaWjRis9WtC3S0zSQy0d",
+        "https://podcasts.apple.com/us/podcast/the-bobby-lashley-interview-pt-2-the-lame-guys/id1713272645",
+        "https://www.wrestlingmasterclass.com",
+        "https://fightful.com/wrestling/bobby-lashley-does-ricochet-have-dog-him-join-hurt-syndicate",
+        "https://wrestlingmasterclass.com/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bobby Lashley",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Paul Heyman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Shelton Benjamin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "AEW",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:08:20.373+02:00",
+    "updated": "2024-11-23T00:08:20.373+02:00"
+}

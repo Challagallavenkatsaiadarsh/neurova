@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "3cec6d2b2a991176e44644a1b0f363acf516c447",
+        "url": "https://www.devdiscourse.com/article/politics/3167703-trump-chooses-alex-wong-for-deputy-national-security-adviser-role",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/news-analysis/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Trump Chooses Alex Wong for Deputy National Security Adviser Role | Politics",
+        "title_full": "Trump Chooses Alex Wong for Deputy National Security Adviser Role | Politics",
+        "published": "2024-11-23T00:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_05_8739542.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3cec6d2b2a991176e44644a1b0f363acf516c447",
+    "url": "https://www.devdiscourse.com/article/politics/3167703-trump-chooses-alex-wong-for-deputy-national-security-adviser-role",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T00:20:00.000+02:00",
+    "title": "Trump Chooses Alex Wong for Deputy National Security Adviser Role | Politics",
+    "text": "Trump Chooses Alex Wong for Deputy National Security Adviser Role\nDonald Trump, President-elect of the United States, has appointed former State Department official Alex Wong as the deputy national security adviser. Wong, known for his role in negotiating the Summit with North Korean Leader Kim Jong Un during Trump's first term, will bring experience to the position.\n[Devdiscourse News Desk](/devdiscourse-stories)| Washington DC | Updated: 23-11-2024 06:20 IST | Created: 23-11-2024 06:20 IST\n- Country:\n- United States\nIn a recent announcement, U.S. President-elect Donald Trump revealed his decision to appoint Alex Wong as deputy national security adviser.\nWong is a former State Department official who notably served as deputy special representative for North Korea during Trump's first term.\nTrump highlighted Wong's pivotal involvement in negotiating the Summit with North Korean Leader Kim Jong Un, emphasizing his experience for the role.\nAdvertisement\nALSO READ\n[Erdogan Advocates Dialogue, Trump Administration for Ukraine Peace](/article/law-order/3150145-erdogan-advocates-dialogue-trump-administration-for-ukraine-peace)[Trump Administration to Propel Musk's Mars Mission](/article/science-environment/3151664-trump-administration-to-propel-musks-mars-mission)[Bitcoin Skyrockets: Trump Administration Boosts Cryptocurrency Boom](/article/politics/3152543-bitcoin-skyrockets-trump-administration-boosts-cryptocurrency-boom)[Kim Jong Un's Drone Strategy: North Korea's New Military Tactics Unveiled](/article/law-order/3158355-kim-jong-uns-drone-strategy-north-koreas-new-military-tactics-unveiled)[Hope for a Swift End: Zelenskiy's Optimism with Trump Administration](/article/politics/3159288-hope-for-a-swift-end-zelenskiys-optimism-with-trump-administration)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Alex Wong",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Kim Jong Un",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Trump Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:56:21.889+02:00",
+    "updated": "2024-11-23T02:56:21.889+02:00"
+}

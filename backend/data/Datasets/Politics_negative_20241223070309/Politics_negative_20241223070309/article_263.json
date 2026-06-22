@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "9e42b4cbc5890a264bd4f0738003ac2ca58e6aa2",
+        "url": "https://www.catholicnewsagency.com/news/260657/priest-accused-of-being-involved-in-alleged-plot-to-assassinate-president-of-brazil",
+        "site_full": "www.catholicnewsagency.com",
+        "site": "catholicnewsagency.com",
+        "site_section": "https://www.catholicnewsagency.com/rss/news.xml",
+        "site_categories": [
+            "religion",
+            "catholicism"
+        ],
+        "section_title": "Catholic News Agency",
+        "title": "Priest accused of being involved in alleged plot to assassinate president of Brazil",
+        "title_full": "Priest accused of being involved in alleged plot to assassinate president of Brazil",
+        "published": "2024-11-22T23:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.catholicnewsagency.com/storage/image/p.jose.eduardo.jpg?jpg",
+        "performance_score": 0,
+        "domain_rank": 4643,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9e42b4cbc5890a264bd4f0738003ac2ca58e6aa2",
+    "url": "https://www.catholicnewsagency.com/news/260657/priest-accused-of-being-involved-in-alleged-plot-to-assassinate-president-of-brazil",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CNA",
+    "published": "2024-11-22T23:50:00.000+02:00",
+    "title": "Priest accused of being involved in alleged plot to assassinate president of Brazil",
+    "text": "Sao Paulo, Brazil, Nov 22, 2024 / 16:50 pm On Nov. 21, Brazil’s Federal Police charged Father José Eduardo de Oliveira e Silva of the Diocese of Osasco in São Paulo state as part of a group of 37 people that includes former President Jair Bolsonaro on suspicion of plotting the violent abolition of the democratic rule of law, plotting a coup d’état, and belonging to a criminal organization. According to authorities, the publication of t he list of defendants in the final report of the investigation into the alleged coup d’état was authorized by the country’s Supreme Federal Court. The charges stem from the investigation by the Federal Police into an alleged plot to assassinate then-President-elect Luiz Inácio Lula da Silva, his vice president, Geraldo Alckmin, and Supreme Court Justice Alexandre de Moraes. Military personnel and military police have already been detained in connection with the investigation. Despite the announcement by the police, the public prosecutor’s office is not obliged to go forward with prosecuting the persons implicated or the alleged crimes being charged. The priest’s defense attorney, Miguel Vidigal, told ACI Digital, CNA’s Portuguese-language news partner, that “the press release by the Federal Police with the list of defendants is one more abuse by those responsible for the investigation, and publishing it on the police department’s official website contaminates the entire institution.” “Who authorized the Federal Police to break the secrecy of the investigations? As far as we know, [Supreme Court] Justice Alexandre de Moraes decreed absolute secrecy,” the attorney said. “So far there is no decision by [him] that voids such determination,” he added. “Less than seven days after giving testimony to the Federal Police,” Father José Eduardo “sees his name in print [on the list] by the Federal Police as one of those indicted by investigators.” The same investigators didn’t shy away from breaking the law and international treaties by combing through the priest’s conversations and spiritual direction that are guaranteed to be confidential, Vidigal denounced. In February, the priest was the subject of a raid and seizure operation by the Federal Police that was authorized by Supreme Court Justice Alexandre de Moraes. The priest was accused of being part of the “legal core” of the alleged coup d'état, for which former president Bolsonaro, advisers, allies, military personnel, and former ministers of his government were also investigated. This story was first published by ACI Digital, CNA’s Portuguese-language news partner. It has been translated and adapted by ACI Prensa/CNA.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Luiz Inácio Lula da Silva",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alexandre de Moraes",
+                "sentiment": "none"
+            },
+            {
+                "name": "Geraldo Alckmin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jair Bolsonaro",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oliveira",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Supreme Federal Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Supreme Court",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "São Paulo",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9e42b4cbc5890a264bd4f0738003ac2ca58e6aa2",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:32:15.121+02:00",
+    "updated": "2024-11-28T01:19:53.676+02:00"
+}

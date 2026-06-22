@@ -1,0 +1,108 @@
+{
+    "thread": {
+        "uuid": "7aac87ef682c75567ba48e77dedcf1e93d5b228c",
+        "url": "https://catholicvote.org/trump-celebrates-end-to-sham-lawfare-as-judge-cancels-new-york-sentencing",
+        "site_full": "catholicvote.org",
+        "site": "catholicvote.org",
+        "site_section": "https://www.catholicvote.org",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Home - CatholicVote org",
+        "title": "Trump celebrates end to ‘sham lawfare’ as judge cancels New York sentencing",
+        "title_full": "Trump celebrates end to ‘sham lawfare’ as judge cancels New York sentencing",
+        "published": "2024-11-22T23:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 51712,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7aac87ef682c75567ba48e77dedcf1e93d5b228c",
+    "url": "https://catholicvote.org/trump-celebrates-end-to-sham-lawfare-as-judge-cancels-new-york-sentencing",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "CV News Feed",
+    "published": "2024-11-22T23:10:00.000+02:00",
+    "title": "Trump celebrates end to ‘sham lawfare’ as judge cancels New York sentencing",
+    "text": "CV NEWS FEED // The judge in the controversial Manhattan “hush money” case against Donald Trump on Friday indefinitely delayed sentencing the president-elect in what has been hailed as a major victory for the 45th and soon-to-be 47th president.\nJudge Juan Merchan granted Trump’s “request to file a motion to dismiss the charges in New York v. Trump and removed the sentencing date for the president-elect from the schedule,” FOX News reported .\n“Merchan said Trump attorneys have until Dec. 2 to file their motion for dismissal,” FOX added.\nThe judge also ordered that New York County District Attorney Alvin Bragg then has until the following week to issue a response.\nBragg, a Democrat, controversially spearheaded the case against Trump when he was the Republican Party’s presumptive presidential nominee. The case was widely seen as politically motivated.\nFOX further noted:\nMerchan also confirmed the stay in sentencing for Trump, which was requested by both Trump’s and Bragg’s attorneys. The sentencing was scheduled for Nov. 26, but on Friday, Merchan said that date “is adjourned.”\nBREAKING: It's official. Trump's sentencing in New York is canceled indefinitely. pic.twitter.com/PL45QlCrGO\n— Kyle Cheney (@kyledcheney) November 22, 2024 Steven Cheung, Trump’s incoming White House communications director, celebrated the news as “a decisive win for President Trump” in a Friday afternoon statement.\n“President Trump won a landslide victory as the American People have issued a mandate to return him to office and dispose of all remnants of the Witch Hunt cases,” Cheung wrote. “All of the sham lawfare attacks against President Trump are now destroyed and we are focused on Making America Great Again.”\nThe Trump team reacts to Judge Merchan delaying his sentencing indefinitely and allowing him to file a motion to dismiss the charges in his criminal case:\n\"All of the sham lawfare attacks against Pres. Trump are now destroyed and we are focused on Making America Great Again.\" pic.twitter.com/pRjPbk2Rls\n— Alex Salvi (@alexsalvinews) November 22, 2024 CatholicVote previously reported : “On May 30, a Manhattan jury convicted Trump of 34 felony counts of falsifying business records – prompting extensive backlash.”\n“Trump has consistently maintained his innocence, while a chorus of critics from across the political spectrum have held that the case was politically charged ‘lawfare’ and should never have been brought in the first place,” CatholicVote added:\nUltimately, the May guilty verdict did not prevent Trump from defeating Democratic presidential nominee Vice President Kamala Harris in November – prompting many analysts to contend that the Manhattan case, and the various other legal accusations levied against Trump, backfired on Democrats.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://t.co/pRjPbk2Rls",
+        "https://www.foxnews.com/politics/new-york-judge-grants-trump-request-file-motion-dismiss-case-cancels-sentencing-indefinitely",
+        "https://twitter.com/kyledcheney/status/1859984235739918468?ref_src=twsrc%5Etfw",
+        "https://twitter.com/alexsalvinews/status/1860035332907143325?ref_src=twsrc%5Etfw",
+        "https://t.co/PL45QlCrGO",
+        "https://raisedonors.com/catholic-vote/become-a-champion",
+        "https://www.twitter.com/kyledcheney/status/1859984235739918468?ref_src=twsrc%5Etfw",
+        "https://twitter.com/kyledcheney/status/1859984235739918468",
+        "https://twitter.com/alexsalvinews/status/1860035332907143325",
+        "https://foxnews.com/politics/new-york-judge-grants-trump-request-file-motion-dismiss-case-cancels-sentencing-indefinitely",
+        "https://www.raisedonors.com/catholic-vote/become-a-champion",
+        "https://www.t.co/PL45QlCrGO",
+        "https://www.t.co/pRjPbk2Rls",
+        "https://www.twitter.com/alexsalvinews/status/1860035332907143325?ref_src=twsrc%5Etfw"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Juan Merchan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alvin Bragg",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Republican Party",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:16:49.895+02:00",
+    "updated": "2024-11-23T03:16:49.895+02:00"
+}

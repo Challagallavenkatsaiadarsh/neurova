@@ -1,0 +1,129 @@
+{
+    "thread": {
+        "uuid": "09d45179a62223a19bce1a9fa0fc0209bb661306",
+        "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2024/11/23/celtics-asst-gm-mike-zarren-surprised-by-pres-bidens-hoops-acumen/76526948007",
+        "site_full": "celticswire.usatoday.com",
+        "site": "usatoday.com",
+        "site_section": "https://celticswire.usatoday.com",
+        "site_categories": [
+            "sports",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_dk",
+            "top_news_th",
+            "top_news_fi",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Celtics Wire: Your Go-To Source for Boston Celtics News, Analysis, and Updates",
+        "title": "Boston Celtics vice president Mike Zarren surprised by President Biden's hoops knowledge",
+        "title_full": "Boston Celtics vice president Mike Zarren surprised by President Biden's hoops knowledge",
+        "published": "2024-11-24T00:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/11/23/SCEL/76527410007-2186012399.jpg?auto=webp&crop=5393,3034,x0,y0&format=pjpg&width=1200",
+        "performance_score": 0,
+        "domain_rank": 153,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "09d45179a62223a19bce1a9fa0fc0209bb661306",
+    "url": "https://celticswire.usatoday.com/story/sports/nba/celtics/2024/11/23/celtics-asst-gm-mike-zarren-surprised-by-pres-bidens-hoops-acumen/76526948007",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": ", Celtics Wire",
+    "published": "2024-11-24T00:43:00.000+02:00",
+    "title": "Boston Celtics vice president Mike Zarren surprised by President Biden's hoops knowledge",
+    "text": "The Boston Celtics recently visited the White House to be feted by US President Joe Biden for winning the 2025 NBA Championship, and fans of the game were surprised to hear the level of awareness of some of the finer-grained statistical details of that 2023-24 championship roster. None more so perhaps than Celtics Vice President of Basketball Operations Mike Zarren. \"The basketball stats community has come a long way: the President of the United States is talking about points per possession!\" tweeted the Boston exec. Biden, for his part, raised eyebrows with his knowledge of Boston's historic scoring in that title-winning season. \"More points per possession than any team in NBA history,\" pointed out the US president via Boston Dot Com's Conor Ryan . \"Through the playoffs — beating the (Miami) Heat in five, (Cleveland Cavaliers) in five, the (Indiana) Pacers in four. Then you dominated (the) Dallas (Mavericks) on both ends of the floor.\" \"And now that 18th championship banner hangs in the rafters,\" added Biden. \"With the start of the new season, you’re hungry for more.\" And so far, with a 13-3 record, the Celtics find themselves with the second-best record in the league with a win over the team ahead of them in the standings (the Cavs). If a championship hangover is a common problem for reigning champs, it seems having a healthy appetite for another banner is a great way to get back to feeling like world-beaters, as the president alludes. If you enjoy this pod, check out the \"How Bout Them Celtics,\" \"First to the Floor,\" \"Celtics Lab,\" and the many other New England sports podcasts available on the CLNS Media network. Listen to the \"Celtics Lab\" podcast on: Apple Podcasts: https://apple.co/3zBKQY6 Spotify: https://spoti.fi/3GfUPFi",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.boston.com/sports/boston-celtics/2024/11/21/boston-celtics-white-house-joe-biden-nba-championship-title-18/",
+        "https://spoti.fi/3GfUPFi",
+        "https://x.com/mikezarren/status/1859719912408875282",
+        "https://apple.co/3zBKQY6",
+        "https://www.spoti.fi/3GfUPFi",
+        "https://www.apple.co/3zBKQY6",
+        "https://www.x.com/mikezarren/status/1859719912408875282",
+        "https://www.boston.com/sports/boston-celtics/2024/11/21/boston-celtics-white-house-joe-biden-nba-championship-title-18",
+        "https://boston.com/sports/boston-celtics/2024/11/21/boston-celtics-white-house-joe-biden-nba-championship-title-18/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mike Zarren",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joe Biden",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Conor Ryan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Boston Celtics",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Cleveland Cavaliers",
+                "sentiment": "none"
+            },
+            {
+                "name": "Boston Dot Com",
+                "sentiment": "none"
+            },
+            {
+                "name": "NBA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "White House",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:31:32.739+02:00",
+    "updated": "2024-11-24T01:31:32.739+02:00"
+}

@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "e7caa2f5dd10bd8621f0a078ff6a53a283867045",
+        "url": "https://www.thedailybeast.com/cnn-anchor-confronts-democratic-gov-who-backed-rfk-jr",
+        "site_full": "www.thedailybeast.com",
+        "site": "thedailybeast.com",
+        "site_section": "https://www.thedailybeast.com/arc/outboundfeeds/rss/articles",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics",
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "",
+        "title": "CNN Anchor Confronts Democratic Gov. Who Backed RFK Jr.",
+        "title_full": "CNN Anchor Confronts Democratic Gov. Who Backed RFK Jr.",
+        "published": "2024-11-23T00:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thedailybeast.com/resizer/v2/M2DL5RUKF5HNZG3X5ESC45BRCE.png?smart=true&amp;auth=2dae6e87963bdaa725582ac13d994d0a7f9b19e9d33ba771f46be30d3e80afcc&amp;width=1200&amp;height=630",
+        "performance_score": 0,
+        "domain_rank": 721,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e7caa2f5dd10bd8621f0a078ff6a53a283867045",
+    "url": "https://www.thedailybeast.com/cnn-anchor-confronts-democratic-gov-who-backed-rfk-jr",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Amethyst Martinez",
+    "published": "2024-11-23T00:42:00.000+02:00",
+    "title": "CNN Anchor Confronts Democratic Gov. Who Backed RFK Jr.",
+    "text": "CNN’s Dana Bash challenged a Democratic governor’s reasoning for backing Robert F. Kennedy Jr. to lead the Department of Health and Human Service, and she did not hold back.\nFollowing RFK Jr.’s health secretary nomination, many questioned his qualifications to lead the department in light of his history of sharing outlandish medical beliefs.\nHowever, Colorado Gov. Jared Polis, a Democrat, told Bash on CNN that he was raised to have a “glass is half full” perspective, and he is trying to remain optimistic about RFK Jr.\nADVERTISEMENT\nBash pushed back against Polis with more of Kennedy’s unfounded claims in which he alleged vaccines cause autism, suggested AIDs was not caused by HIV, and a claim that 1918’s influenza was “vaccine-induced.”\nBash also mentioned Kennedy’s past claim that “COVID-19 was targeted to attack ‘Caucasians and Black people,’” and spare Ashkenazi Jewish people and Chinese people.\n“I’m an Ashkenazi Jew and I got COVID,” said Bash. “I get that, you believe sir, that RFK Jr. does make important points...but can you just explain why that outlays just some of what I listed?”\nPolis responded, “To be clear, those things are completely false,” adding that he supported Kamala Harris for president. “We have to find a way to of course rebut those things, and say, ‘These are the facts,’ but also, look for opportunities where we can,” he said.\nPolis then listed things he hoped will move forward under Kennedy, such as reducing harmful pesticide use, cutting prices on prescription drugs and improving America’s nutrition.\nBash then asked Polis if he was concerned about a vaccination decrease in Colorado schools from 2023-2024.\n“Again, I encourage everyone to look at the data. It’s not something people should do at the point of a gun, it’s something people should do because it helps save the lives of those that they love the most,” said Polis.\nA few days ago, the governor sparked outrage on X after tweeting his support for Kennedy.\n“Science must remain THE cornerstone of our nation’s health policy and the science-backed decision to get vaccinated improves public health and safety. But if as a country we follow the science we would also be far more concerned about the impact of pesticides on public health, ag policy on nutrition, and the lack of access to prescription drugs due to drug high prices,” he wrote. “This is why I am for a major shake-up in institutions like the FDA that have been barriers to lowering drug costs and promoting healthy food choices. Lest there by any doubt, I am vaccinated as is my family.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Dana Bash",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jared Polis",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "CNN",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Health and Human Service",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "e7caa2f5dd10bd8621f0a078ff6a53a283867045",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:32:12.380+02:00",
+    "updated": "2024-11-23T01:32:12.380+02:00"
+}

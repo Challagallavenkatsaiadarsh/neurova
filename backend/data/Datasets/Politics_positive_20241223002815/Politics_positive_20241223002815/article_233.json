@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "121a90cbba5586878731446f6ce2423eba96909c",
+        "url": "https://news.knowledia.com/za/en/articles/why-republicans-think-their-senate-majority-could-last-the-decade-from-416ce25cdd210127b524e831ab7471f8b14f446b",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/za/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "Why Republicans think their Senate majority could last the decade: From the Politics Desk",
+        "title_full": "Why Republicans think their Senate majority could last the decade: From the Politics Desk",
+        "published": "2024-11-23T01:08:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "121a90cbba5586878731446f6ce2423eba96909c",
+    "url": "https://news.knowledia.com/za/en/articles/why-republicans-think-their-senate-majority-could-last-the-decade-from-416ce25cdd210127b524e831ab7471f8b14f446b",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Politics Desk",
+    "published": "2024-11-23T01:08:00.000+02:00",
+    "title": "Why Republicans think their Senate majority could last the decade: From the Politics Desk",
+    "text": "Republicans predict their newly won 53-seat Senate majority in the 2024 election could give the party control of the chamber for several cycles to come. Welcome to the online version of From the Politics Desk, an evening newsletter that brings you the NBC News Politics team's latest reporting and analysis from the White House, Capitol Hill and the campaign trail.\nIn today's edition, senior national politics reporter Sahil Kapur explores why it won't be easy for the Democrats to claw back control of the Senate anytime soon. Plus, politics reporters Allan Smith and Vaughn Hillyard examine how Donald Trump's transition team is turning to the much-maligned Project 2025 to fill jobs in the administration.\nSign up to receive this newsletter in your inbox every weekday here.\nSenate GOP campaign chief: Our majority could last all decade\nBy Sahil Kapur\nOutgoing National Republican Senatorial Committee Chair Steve Daines is throwing down the gauntlet, predicting that the GOP's newly won 53-seat majority in the 2024 election could give the party control of the chamber for several cycles to come.\n\"We're grateful that we have those additional seats beyond the 51 majority. I think it bodes well for us to keep the majority through the rest of the decade,\" Daines, of Montana, told NBC News.\nRepublicans picked off four Democratic-held seats in the red states of West Virginia, Montana and Ohio, and the purple state of Pennsylvania. The GOP held serve in red-leaning Florida and Texas, where Democrats were hoping for a miracle. For their part, Democrats held their ground in Arizona, Michigan, Nevada and Wisconsin, despite Donald Trump carrying all of those states.\nBut what about Daines' prediction? It's bold, yet plausible.\nDemocrats just had a nightmare of a map, so the landscape will only get better from here. But not that much better in 2026 or 2028, barring a dramatic political realignment.\nThe 2026 map follows the 2020 cycle, in which Democrats won 50 seats and flipped the Senate with the tie-breaking vote of Vice President Kamala Harris. The party's best hope of a pickup in two years is in Maine, where the…\nThe Politics Desk",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.nbcnews.com/politics/republicans-senate-majority-decade-politics-desk-rcna181394",
+        "https://nbcnews.com/politics/republicans-senate-majority-decade-politics-desk-rcna181394"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Vaughn Hillyard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Steve Daines",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sahil Kapur",
+                "sentiment": "none"
+            },
+            {
+                "name": "Allan Smith",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Senate GOP",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "NBC News Politics",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:21:23.011+02:00",
+    "updated": "2024-11-23T01:21:23.011+02:00"
+}

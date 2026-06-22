@@ -1,0 +1,124 @@
+{
+    "thread": {
+        "uuid": "771f2ca7773aee6ec8033f2140da863832d6f0d3",
+        "url": "https://todayheadline.co/5002321-trump-names-chavez-deremer-for-labor-secretary",
+        "site_full": "todayheadline.co",
+        "site": "todayheadline.co",
+        "site_section": "https://www.todayheadline.co",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Today Headline - Breaking News For Today",
+        "title": "Trump names Chavez-DeRemer for Labor secretary",
+        "title_full": "Trump names Chavez-DeRemer for Labor secretary",
+        "published": "2024-11-23T03:11:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 199551,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "771f2ca7773aee6ec8033f2140da863832d6f0d3",
+    "url": "https://todayheadline.co/5002321-trump-names-chavez-deremer-for-labor-secretary",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sivan2500",
+    "published": "2024-11-23T03:11:00.000+02:00",
+    "title": "Trump names Chavez-DeRemer for Labor secretary",
+    "text": "President-elect Trump has tapped Rep. Lori Chavez-DeRemer (R-Ore.), to serve as Labor secretary in his new administration.\nChavez-DeRemer had the backing of the Teamsters before she was officially picked by Trump. She served for one term in the House and lost her reelection bid to Democrat Janelle Bynum in November.\nTrump’s pick for Labor is one of his last Cabinet picks. Trump’s victory over Vice President Harris was in part fueled by working-class Americans, who shifted back towards the Republican Party in 2024.\nTeamsters President Sean O’Brien addressed the Republican National Convention in July after big labor has historically backed Democrats. Teamsters then announced in September that it would skip its presidential endorsement last cycle and opted to not back Trump or Harris.\nChavez-DeRemer is one of a few other Republican members of Congress to be named for Trump’s Cabinet, including Reps. Elise Stefanik (N.Y.) for United Nations ambassador, Mike Waltz (Fla.) for national security adviser, and Matt Gaetz (Fla.) for attorney general.\nChavez-DeRemer’s nomination though does not impact the GOP House majority for next Congress because she lost her reelection bid.\nSource link",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Corporate News and Profiles"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thehill.com/homenews/5002321-trump-names-chavez-deremer-for-labor-secretary/",
+        "https://thehill.com/homenews/5002321-trump-names-chavez-deremer-for-labor-secretary",
+        "https://www.thehill.com/homenews/5002321-trump-names-chavez-deremer-for-labor-secretary/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Lori Chavez-DeRemer",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Elise Stefanik",
+                "sentiment": "none"
+            },
+            {
+                "name": "Janelle Bynum",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sean O’Brien",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mike Waltz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Harris",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Republican Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "United Nations",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "House",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:32:37.946+02:00",
+    "updated": "2024-11-23T04:32:37.946+02:00"
+}

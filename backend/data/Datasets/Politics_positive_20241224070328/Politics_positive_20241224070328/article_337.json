@@ -1,0 +1,103 @@
+{
+    "thread": {
+        "uuid": "5d26f5e77e63108efbd409e60db4fe3322257c02",
+        "url": "https://indianexpress.com/article/cities/lucknow/in-ups-phulpur-its-kurmi-card-pays-as-bjp-retains-stronghold-for-third-time-on-the-trot-9687004",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://indianexpress.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+        "title": "In UP’s Phulpur, its Kurmi card pays as BJP retains stronghold for third time on the trot",
+        "title_full": "In UP’s Phulpur, its Kurmi card pays as BJP retains stronghold for third time on the trot",
+        "published": "2024-11-24T00:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/Phulpur.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5d26f5e77e63108efbd409e60db4fe3322257c02",
+    "url": "https://indianexpress.com/article/cities/lucknow/in-ups-phulpur-its-kurmi-card-pays-as-bjp-retains-stronghold-for-third-time-on-the-trot-9687004",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Manish Sahu",
+    "published": "2024-11-24T00:01:00.000+02:00",
+    "title": "In UP’s Phulpur, its Kurmi card pays as BJP retains stronghold for third time on the trot",
+    "text": "With the victory of its candidate Deepak Patel, the BJP's gambit again to field a Kurmi face from the Phulpur Assembly constituency seems to have paid dividends. The state's ruling party retained the seat, which has a sizeable number of Kurmi voters, for the third consecutive term. It not only aimed to consolidate support from the Kurmis but also the upper-caste communities. The Yadav voters, the largest dominant group second only to Kurmis, were also expected to play a key role in determining the election outcome. Interestingly, Pooja Pal, the SP MLA from Chail in Kaushambi, campaigned extensively for Patel, often referring to her husband's murder and highlighting the justice she got under Chief Minister Yogi Adityanath’s government. The bypoll in Phulpur was necessitated after sitting BJP MLA Praveen Singh Patel won in the recently held Lok Sabha elections. Praveen Patel had won from the Assembly seat for two straight terms on a BJP ticket. This by-election gave the BJP two reasons to celebrate. First, Samajwadi Party MLA Pooja Pal campaigned in support of Deepak Patel, signaling cross-party backing. Her husband, former BSP MLA Raju Pal, was murdered in a daylight shootout in Prayagraj in 2005 and gangster-turned-politician Atiq Ahmed and his brother Ashraf were prime suspects in the case. The two were shot dead last year while in police custody. Six others involved in the killing were sentenced to life imprisonment in March this year. Also, Congress leader Suresh Chandra Yadav’s decision to defy his party's directive to contest the election gave the BJP another reason to celebrate. It only created confusion among the Congress and SP workers. Yadav contested as an independent, leading to his expulsion from the Congress for six years. Deepak Patel secured 78,289 votes, defeating Samajwadi Party’s Mujtaba Siddiqui, his closest rival, by a margin of 11,305 votes. BSP’s Jitendra Kumar Singh came third with 20,342 votes, while Suresh Chandra secured just 1,389 votes. Deepak Patel's mother Kesari Devi won the 2019 Lok Sabha elections from Phulpur. Patel, who won in the 2012 Assembly election from Karachhana seat on BSP ticket, joined the BJP in 2018.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Deepak Patel",
+                "sentiment": "none"
+            },
+            {
+                "name": "Manish Sahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pooja Pal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kaushambi",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:54:36.650+02:00",
+    "updated": "2024-11-24T03:16:26.473+02:00"
+}

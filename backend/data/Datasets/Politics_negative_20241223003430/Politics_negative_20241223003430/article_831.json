@@ -1,0 +1,72 @@
+{
+    "thread": {
+        "uuid": "7cdb8605deaad46efa78c6b2c96a356e9659adbe",
+        "url": "https://news.knowledia.com/us/en/articles/no-musk-s-starlink-network-was-not-used-to-hack-2024-election-5d68dd7d27b347817f443b37c1563265b2aba3d5",
+        "site_full": "news.knowledia.com",
+        "site": "knowledia.com",
+        "site_section": "https://news.knowledia.com/us/en",
+        "site_categories": [
+            "uncategorized"
+        ],
+        "section_title": "Knowledia News",
+        "title": "No, Musk's Starlink Network Was Not Used To 'Hack' 2024 Election",
+        "title_full": "No, Musk's Starlink Network Was Not Used To 'Hack' 2024 Election",
+        "published": "2024-11-23T01:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "GB",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 75004,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7cdb8605deaad46efa78c6b2c96a356e9659adbe",
+    "url": "https://news.knowledia.com/us/en/articles/no-musk-s-starlink-network-was-not-used-to-hack-2024-election-5d68dd7d27b347817f443b37c1563265b2aba3d5",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Anna Rascouët-Paz",
+    "published": "2024-11-23T01:18:00.000+02:00",
+    "title": "No, Musk's Starlink Network Was Not Used To 'Hack' 2024 Election",
+    "text": "Elon Musk's Starlink satellite network was used to tally swing state votes during the 2024 election, allowing him to \"rig\" or \"hack\" the election in favor of Trump. Claim: Rating: About this rating Unfounded\nWeeks after the 2024 U.S. presidential election, claims circulated that Elon Musk, founder of SpaceX and supporter of Republican President-elect Donald Trump, had handed Trump the victory by hacking election results using Starlink, his satellite internet company. Snopes rated this rumor unfounded.\nFor example, on Nov. 21, 2024, an X user reposted a video in which a woman claimed \"Yes, Kamala [Harris, the Democratic presidential candidate] did win. Starlink and Elon Musk-y... Starlink and Elon Musk-y...\" (archived):\nThe post had amassed 129,200 views and 3,000 likes as of this writing.\nDays after the election, one post amplifying the rumor on X included a video clip of a report on the connectivity of Tulare County in California's Central Valley (archived):\n(@JamesTate121 / X)\n\"Elon Musk used Starlink to hack our elections so he can have nice things while inflicting pain on Americans,\" the post read. The video said:\nRegistrar Michelle Baldwin says access to connectivity was improved this year thanks to Starlink satellite internet. She adds technical difficulties with a tabulator machine were quickly fixed and did not impact the count. Five of the 10 volunteers assigned to the Exeter poll location did not show up, but Baldwin says all of the sites still ran smoothly.\nThis X post had gained 214,500 views and 7,600 likes as of this writing, but this claim and questions surrounding it appeared several times on the social media platform, as well as on Reddit, and TikTok.\nThe video was part of a longer news report by ABC30, a television channel in Fresno, California. The report indicated that the election process had gone well in Tulare County, a rural area of the state. But the flurry of suspicions reached Snopes readers as well, who emailed us asking to confirm if Musk had indeed used his company to rig the election.\nOne post on X (archived) referred to a nine-minute video by TikTok user @etheria77 which it said had…\nAnna Rascouët-Paz",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.snopes.com/fact-check/musk-starlink-network-2024-election/",
+        "https://snopes.com/fact-check/musk-starlink-network-2024-election/",
+        "https://www.snopes.com/fact-check/musk-starlink-network-2024-election"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:32:06.209+02:00",
+    "updated": "2024-11-23T01:32:06.209+02:00"
+}

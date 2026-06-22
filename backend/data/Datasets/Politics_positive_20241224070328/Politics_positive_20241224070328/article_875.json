@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "f78d3724f66cd1a823319cfd0c9b4c7900ef742a",
+        "url": "https://www.sentinelassam.com/more-news/national-news/mp-raghav-chadha-lauds-aam-aadmi-partys-victory-in-punjab",
+        "site_full": "www.sentinelassam.com",
+        "site": "sentinelassam.com",
+        "site_section": "https://www.sentinelassam.com/feed",
+        "site_categories": [
+            "under_construction",
+            "non_standard_content"
+        ],
+        "section_title": "sentinelassam-english",
+        "title": "MP Raghav Chadha lauds Aam Aadmi Party’s victory in Punjab",
+        "title_full": "MP Raghav Chadha lauds Aam Aadmi Party’s victory in Punjab",
+        "published": "2024-11-24T02:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/sentinelassam-english%2F2024-11-24%2Farwav0i9%2F333151-aap-chadda.avif?w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 57134,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f78d3724f66cd1a823319cfd0c9b4c7900ef742a",
+    "url": "https://www.sentinelassam.com/more-news/national-news/mp-raghav-chadha-lauds-aam-aadmi-partys-victory-in-punjab",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sentinel Digital Desk",
+    "published": "2024-11-24T02:14:00.000+02:00",
+    "title": "MP Raghav Chadha lauds Aam Aadmi Party’s victory in Punjab",
+    "text": "New Delhi: Aam Aadmi Party MP Raghav Chadha on Saturday lauded the party’s victory in the assembly by-polls in Punjab, where the AAP has won three out of the four seats.\nTaking to social media platform X, Chadha gave heartfelt congratulations to all the AAP Punjab volunteers and supporters on the win and said that under the leadership of AAP National Convenor Arvind Kejriwal and Punjab Chief Minister Bhagwant Mann, the people’s trust in AAP’s policies and politics was growing stronger.\n“Heartfelt congratulations to all AAP Punjab volunteers and supporters on winning 3 seats in the assembly by-polls. Under the visionary leadership of Arvind Kejriwal ji and Bhagwant Mann ji, the people’s trust in our welfare policies and honest politics is growing stronger. Onwards to greater victories!” the AAP MP said.\nPunjab Minister Aman Arora also congratulated the party and said that these three wins have taken the AAP’s tally to 94 in the 117-seat state assembly.\n“Heartiest congratulations to Arvind Kejriwal ji, under whose dynamic leadership & guidance AAP Punjab has won 3 out of 4 seats, taking tally to 94 MLAs in Bhagwant Mann Govt & A big gratitude to the electorate & all our volunteers, Office bearers & leaders for their hard work,” Arora said.\nAam Aadmi Party National Convenor Arvind Kejriwal also expressed their gratitude towards the people of Punjab after the party won three out of the four seats available for the state assembly by-polls on Saturday.\n“The people of Punjab have once again expressed their faith in the ideology of the Aam Aadmi Party and the work of our government by giving three out of four seats to the Aam Aadmi Party in the by-elections. Many thanks to the people of Punjab and many congratulations to everyone,” Kejriwal said on X. (ANI)\nAlso Read: Kerala Bypoll Results: All three political fronts maintain status quo\nAlso Watch:",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Raghav Chadha",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Arvind Kejriwal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bhagwant Mann",
+                "sentiment": "none"
+            },
+            {
+                "name": "Aman Arora",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Aam Aadmi Party",
+                "sentiment": "negative"
+            },
+            {
+                "name": "AAP Punjab",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:25:28.854+02:00",
+    "updated": "2024-11-24T07:25:28.854+02:00"
+}

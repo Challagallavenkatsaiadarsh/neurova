@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "2b80b33767ec48f18e11321422ab45a81e7514fa",
+        "url": "https://www.fijitimes.com.fj/inflatable-boats-boat-ramp-to-help-fiji-patrol-its-waters",
+        "site_full": "www.fijitimes.com.fj",
+        "site": "fijitimes.com.fj",
+        "site_section": "https://www.fijitimes.com.fj:443/feed",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "The Fiji Times",
+        "title": "Inflatable boats & boat ramp to help Fiji patrol its waters",
+        "title_full": "Inflatable boats & boat ramp to help Fiji patrol its waters",
+        "published": "2024-11-22T14:43:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "FJ",
+        "main_image": "https://www.fijitimes.com.fj/wp-content/uploads/2024/11/presser.png",
+        "performance_score": 0,
+        "domain_rank": 45833,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2b80b33767ec48f18e11321422ab45a81e7514fa",
+    "url": "https://www.fijitimes.com.fj/inflatable-boats-boat-ramp-to-help-fiji-patrol-its-waters",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANISH CHAND",
+    "published": "2024-11-22T14:43:00.000+02:00",
+    "title": "Inflatable boats & boat ramp to help Fiji patrol its waters",
+    "text": "Fijian and U.S. officials cemented one defence agreement and opened talks on another, with the US Secretary of Defence Lloyd Austin, announcing U.S. would soon deliver several rigid-hull inflatable boats and a boat ramp to help Fiji patrol its waters. Mr Austin also came to launch talks on a status-of-forces agreement, another document that deepens a bilateral defence relationship (SOFA). It will lay out the legal status of U.S. troops and dependents in a foreign country, including civil and criminal jurisdiction. “The SOFA will enable us to deploy and redeploy forces in support of Fiji and help us train with the Fijians on a very routine basis,” Austin said.’ “I look for routine rotations, training rotations, where possible, to be conducted,” plus continued work with the Nevada National Guard. Austin said “there is no notion” of permanently basing U.S. troops in Fiji. “We did not have any discussions like that.” If SOFA negotiations are concluded as expected next year, Fiji will join several dozen nations that already have such agreements with the United States.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Austin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Nevada National Guard",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:55:47.171+02:00",
+    "updated": "2024-11-23T06:25:51.652+02:00"
+}

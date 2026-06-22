@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "9bea36e3fb8ee1c594486844ff7a3a6f85d74a7a",
+        "url": "https://www.devdiscourse.com/article/politics/3167763-bjps-strong-start-in-jharkhand-assembly-count",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "http://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "BJP's Strong Start in Jharkhand Assembly Count | Politics",
+        "title_full": "BJP's Strong Start in Jharkhand Assembly Count | Politics",
+        "published": "2024-11-23T03:03:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/03_08_2024_14_53_03_1432739.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9bea36e3fb8ee1c594486844ff7a3a6f85d74a7a",
+    "url": "https://www.devdiscourse.com/article/politics/3167763-bjps-strong-start-in-jharkhand-assembly-count",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T03:03:00.000+02:00",
+    "title": "BJP's Strong Start in Jharkhand Assembly Count | Politics",
+    "text": "BJP's Strong Start in Jharkhand Assembly Count\nThe BJP is leading in 25 of Jharkhand's 81 assembly seats during the counting of postal ballots. Meanwhile, JMM is ahead in 10 seats as tallying continues. The Election Commission has not yet released any trends. Jharkhand held elections over two phases on November 13 and 20.\n- Country:\n- India\nThe Bharatiya Janata Party (BJP) emerged as a frontrunner in the Jharkhand assembly elections, leading in 25 out of the 81 seats as the counting of postal ballots commenced on Saturday, according to TV channel reports.\nThe polling process for deciding the fate of the 81-seat assembly began at 8 AM sharp with the counting of votes. However, the Election Commission has not officially released any trends on its website so far.\nThe elections in Jharkhand were conducted in two phases, with voters casting their ballots for 43 seats on November 13 and the remaining 38 on November 20.\n(With inputs from agencies.)\nAdvertisement\nALSO READ\n[Decisive Encounter: Terrorists Neutralized in Baramulla](/article/law-order/3149713-decisive-encounter-terrorists-neutralized-in-baramulla)[You all know my affinity with Maharashtra: PM Narendra Modi at Dhule in his first rally for November 20 state assembly elections.](/article/Newsalert/3149829-you-all-know-my-affinity-with-maharashtra-pm-narendra-modi-at-dhule-in-his-first-rally-for-november-20-state-assembly-elec)[Police Arrest Trio After Cow Slaughter Encounter in Meerut](/article/law-order/3149824-police-arrest-trio-after-cow-slaughter-encounter-in-meerut)[AAP's Charge to Triumph: Kejriwal Rallies Troops for Delhi Elections](/article/politics/3149841-aaps-charge-to-triumph-kejriwal-rallies-troops-for-delhi-elections)[Maharashtra Elections: Crackdown on Illicit Activities Yields Huge Seizures](/article/politics/3149812-maharashtra-elections-crackdown-on-illicit-activities-yields-huge-seizures)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bharatiya Janata Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "JMM",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Baramulla",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:43:23.954+02:00",
+    "updated": "2024-11-23T05:43:23.954+02:00"
+}

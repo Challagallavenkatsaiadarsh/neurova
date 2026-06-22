@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "3a765cc48c3ac2dc3d8a853eda013498bcd0c7cb",
+        "url": "https://www.semafor.com/article/11/22/2024/trump-taps-scott-bessent-as-treasury-secretary?ref=biztoc.com",
+        "site_full": "www.semafor.com",
+        "site": "semafor.com",
+        "site_section": "https://biztoc.com",
+        "site_categories": [],
+        "section_title": "BizToc",
+        "title": "Trump taps Scott Bessent as Treasury secretary | Semafor",
+        "title_full": "Trump taps Scott Bessent as Treasury secretary | Semafor",
+        "published": "2024-11-23T02:07:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.semafor.com/5c8addc2f01e2a5e95e13b4d61c4a74b10183287-7970x5316.png?rect=0,566,7970,4184&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+        "performance_score": 0,
+        "domain_rank": 7175,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3a765cc48c3ac2dc3d8a853eda013498bcd0c7cb",
+    "url": "https://www.semafor.com/article/11/22/2024/trump-taps-scott-bessent-as-treasury-secretary?ref=biztoc.com",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "https://www.semafor.com/author/shelby-talcott, https://www.semafor.com/author/liz-hoffman",
+    "published": "2024-11-23T02:07:00.000+02:00",
+    "title": "Trump taps Scott Bessent as Treasury secretary | Semafor",
+    "text": "The News Donald Trump named Scott Bessent as his Treasury Secretary, putting the veteran investor in charge of an economic agenda of lower taxes and economic protectionism. The appointment will end a waiting game on Wall Street, which had watched with alarm as Trump appointed partisan warriors with thin resumes to top positions in law enforcement, national security, and healthcare. Bessent was the most vocal of the final Treasury candidates in his support of Trump, publishing an op-ed in Fox News in support of tariffs last week as his chances of getting the job seemed to be shrinking. But he has spent his career in global markets and was, for a time, a senior executive at George Soros’ investment fund, revered on Wall Street for its bold and profitable bets on the direction of the world economy. Know More Bessent beat out three serious contenders: former Federal Reserve official Kevin Warsh, Apollo CEO Marc Rowan, and Sen. Bill Hagerty, a Tennessee Republican. Any one of them would have been a relatively uncontroversial pick, especially compared to some of Trump’s other nominees. Tulsi Gabbard, tapped to oversee the agency in charge of US intelligence integration, and Fox News host Pete Hegseth to run the Defense Department, have both been criticized for their lack of experience. The president-elect’s first choice for attorney general, Matt Gaetz, withdrew after Republican senators expressed concerns. Step Back Bessent was an early favorite for the job, after spending months as an adviser to the Trump campaign and an occasional guest in Palm Beach. But a late charge from billionaire Howard Lutnick, a Trump loyalist in charge of staffing the incoming administration, to take the job for himself threw the process into chaos and opened space for Rowan and Hagerty to become serious contenders. Lutnick was later chosen as Commerce secretary.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.semafor.com%2Farticle%2F11%2F22%2F2024%2Ftrump-taps-scott-bessent-as-treasury-secretary&text=Trump%20taps%20Scott%20Bessent%20as%20Treasury%20secretary",
+        "https://wa.me/?text=Trump%20taps%20Scott%20Bessent%20as%20Treasury%20secretary%20https%3A%2F%2Fwww.semafor.com%2Farticle%2F11%2F22%2F2024%2Ftrump-taps-scott-bessent-as-treasury-secretary",
+        "https://wa.me/",
+        "https://www.twitter.com/intent/tweet?url=https%3A%2F%2Fwww.semafor.com%2Farticle%2F11%2F22%2F2024%2Ftrump-taps-scott-bessent-as-treasury-secretary&text=Trump%20taps%20Scott%20Bessent%20as%20Treasury%20secretary",
+        "https://twitter.com/intent/tweet",
+        "https://www.wa.me/?text=Trump%20taps%20Scott%20Bessent%20as%20Treasury%20secretary%20https%3A%2F%2Fwww.semafor.com%2Farticle%2F11%2F22%2F2024%2Ftrump-taps-scott-bessent-as-treasury-secretary"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Liz Hoffman",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "none"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:31:47.363+02:00",
+    "updated": "2024-11-23T02:34:50.409+02:00"
+}

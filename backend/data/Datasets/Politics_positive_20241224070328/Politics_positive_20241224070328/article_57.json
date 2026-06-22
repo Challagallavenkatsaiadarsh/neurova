@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "54a661d5d422dd981073feeff55e3c0836b031e0",
+        "url": "https://www.theepochtimes.com/us/middletown-city-council-adopts-64-million-budget-for-2025-post-5765128",
+        "site_full": "www.theepochtimes.com",
+        "site": "theepochtimes.com",
+        "site_section": "https://news.whatfinger.com/feed",
+        "site_categories": [
+            "media",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Whatfinger Wire News",
+        "title": "Middletown City Council Adopts $64 Million Budget for 2025",
+        "title_full": "Middletown City Council Adopts $64 Million Budget for 2025",
+        "published": "2024-11-23T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://img.theepochtimes.com/assets/uploads/2023/07/19/id5409295-CYD02897-1200x720-700x420.jpeg",
+        "performance_score": 0,
+        "domain_rank": 1635,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "54a661d5d422dd981073feeff55e3c0836b031e0",
+    "url": "https://www.theepochtimes.com/us/middletown-city-council-adopts-64-million-budget-for-2025-post-5765128",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cara Ding",
+    "published": "2024-11-23T23:56:00.000+02:00",
+    "title": "Middletown City Council Adopts $64 Million Budget for 2025",
+    "text": "Middletown City Council on Nov. 19 unanimously adopted a $64 million budget for 2025, which is about 5 percent, or $3 million, higher than that of the current year. The budget covers the growing city’s main operating expenses as well as water and sewer funds. levy limit formula under state law, according to Mayor Joseph DeStefano. Two major cost drivers are employee pension and health insurance payments, which are up by 8.8 and 18.81 percent, respectively, within the city’s main operating fund, or general fund. “We have made deals with our unions, offering an alternative health plan, which is working a little bit. Otherwise, this 18.8 percent would have been much higher,” DeStefano said during his budget presentation at the Nov. 19 council meeting. Employee salaries and benefits account for three-quarters of the city’s operational costs. According to the budget presentation, the city currently employs 200 full-time employees. Another major cost driver is a new three-year contract with Empress Ambulance Services. The city will pay the company $722,140 in 2025 for two dedicated ambulances providing basic and advanced life support services to city residents around the clock. The ambulance services contract has a yearly increase of 5 percent. Last year, the city signed its first annual contract with Empress, but the expenses were covered by the federal COVID-19 grant under the American Rescue Plan Act. “Unless there is some movement on the state and county level, this seems to be a permanent expense for the residents of our city,” DeStefano said at the council meeting. He told The Epoch Times that he is also looking at other potential options, such as having the municipal fire department take up the ambulance services in the future. Currently, the fire department provides basic life support services and falls third in line in medical emergency calls, following Empress and mutual aid, according to DeStefano. “It would require investments like additional hirings in the department and capital equipment, so we’d have to do a cost analysis of it. Now we are happy with the Empress,” he said. Much of the increase in the operational costs is offset by a projected sales tax jump, according to DeStefano. The city expects to reap $15.7 million from sales tax revenues in 2025, up by about $1.5 million from the current year. At the council meeting, DeStefano thanked city treasurer Leonora Liz and her staff, city council president Miguel Rodrigues, and councilman and finance committee chair Joseph Masi for their work in the budgeting process, which jumpstarted in May. Next year, the city will continue to work with federal and state governments for major infrastructure grants in water, sewer, and urban redevelopments, according to DeStefano. He highlighted approved grants for raw water line replacements, a new downtown garage, a renovated city court location, and the ongoing citywide sidewalk improvements. He said 95 percent of the $30 million plus sidewalk project is funded by grant money. On Nov. 21, the City Council also approved the hiring of WSP at a cost not to exceed $60,000 for technical assistance in a new application for sidewalk replacement grants under a federal grant program called Rebuilding American Infrastructure with Sustainability and Equity. “That would help us do sidewalk replacements in our residential neighborhoods—under the law, the property owners are responsible for maintaining the sidewalks, but we don’t want to put that burden on our homeowners,” DeStefano told The Epoch Times.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.osc.ny.gov/files/local-government/property-tax-cap/pdf/formula.pdf",
+        "https://osc.ny.gov/files/local-government/property-tax-cap/pdf/formula.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Joseph DeStefano",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Middletown City Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Empress Ambulance Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "54a661d5d422dd981073feeff55e3c0836b031e0",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:31:05.100+02:00",
+    "updated": "2024-11-24T00:31:05.100+02:00"
+}

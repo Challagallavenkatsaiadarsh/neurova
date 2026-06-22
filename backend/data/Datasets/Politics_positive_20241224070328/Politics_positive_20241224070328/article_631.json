@@ -1,0 +1,118 @@
+{
+    "thread": {
+        "uuid": "3bab90e030c36feb5e44b97cc50f4d28b95ec16c",
+        "url": "https://www.hindustantimes.com/cities/pune-news/mahayuti-covers-pimpri-chinchwad-and-bhosari-101732391236972.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://hindustantimes.com/cities",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "City News: City Latest News, Metro City News Today and Headlines | Hindustan Times",
+        "title": "Mahayuti covers Pimpri, Chinchwad and Bhosari",
+        "title_full": "Mahayuti covers Pimpri, Chinchwad and Bhosari",
+        "published": "2024-11-23T21:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/In-Bhosari--BJP-s-sitting-MLA-Mahesh-Landge-defeat_1732391232908.jpg",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3bab90e030c36feb5e44b97cc50f4d28b95ec16c",
+    "url": "https://www.hindustantimes.com/cities/pune-news/mahayuti-covers-pimpri-chinchwad-and-bhosari-101732391236972.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T21:17:00.000+02:00",
+    "title": "Mahayuti covers Pimpri, Chinchwad and Bhosari",
+    "text": "Mahayuti covers Pimpri, Chinchwad and Bhosari\nIn Chinchwad, BJP’s Shankar Jagtap retained the seat with a landslide victory, defeating NCP (SP) candidate Rahul Kalate by 103,865 votes\nThe Mahayuti alliance swept all three assembly constituencies in Pimpri-Chinchwad.\nIn Bhosari, BJP’s sitting MLA Mahesh Landge defeated MVA’s Ajit Gavhane of NCP (Sharad Pawar faction) by 63,765 votes. Landge secured 213,624 votes (56.91%), while Gavhane, contesting his first assembly election, garnered 149,859 votes (39.92%). Landge attributed his victory to extensive development work in the constituency. However, his winning margin was less compared to the 2019 assembly polls, when he defeated Vilas Lande by 77,567 votes, with 159,295 votes (60.45%).\nIn Chinchwad, BJP’s Shankar Jagtap retained the seat with a landslide victory, defeating NCP (SP) candidate Rahul Kalate by 103,865 votes. Jagtap received 234,678 votes (60.51%), while Kalate, a four-time contender (including a bypoll), secured 131,458 votes (33.8%).\nJagtap said it is the victory of Chinchwad constituency voters, and dedicated it to Late Laxman Jagtap. “The opposition candidate was put up on the insistence of MP Amol Kolhe and the NCP (SP) had to bear the loss. Just because of the love of people towards Sharad Pawar, the opposition candidate got over 1 lakh votes,” he said.\nJagtap, a first-time candidate, is the brother-in-law of sitting MLA Ashwini Jagtap and the brother of late BJP leader Laxman Jagtap, who represented the Chinchwad constituency since its inception in 2008.\nIn Pimpri, NCP candidate and sitting MLA Anna Bansode defeated Sulakshana Shilwant-Dhar of NCP (SP) by 36,664 votes. Bansode received 109,239 votes (53.71%), while Shilwant-Dhar, a first-time candidate, garnered 72,575 votes (35.68%).\n“This is the triumph of people’s unity, and I dedicate it to Ajit Pawar,” Bansode said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shankar Jagtap",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Rahul Kalate",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sharad Pawar",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vilas Lande",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "MVA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Chinchwad",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:25:06.537+02:00",
+    "updated": "2024-11-24T05:25:06.537+02:00"
+}

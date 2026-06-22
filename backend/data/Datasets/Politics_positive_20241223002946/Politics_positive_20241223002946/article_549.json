@@ -1,0 +1,111 @@
+{
+    "thread": {
+        "uuid": "9c252e7659ac5c357273a4303ab195312bc6d5d3",
+        "url": "https://www.foxnews.com/politics/trump-nominates-former-fox-news-contributor-dr-janette-nesheiwat-surgeon-general",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://foxnews.com",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Fox News - Breaking News Updates | Latest News Headlines | Photos &amp; News Videos",
+        "title": "Trump nominates former Fox News contributor Dr. Janette Nesheiwat as surgeon general | Fox News",
+        "title_full": "Trump nominates former Fox News contributor Dr. Janette Nesheiwat as surgeon general | Fox News",
+        "published": "2024-11-23T02:54:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.foxnews.com/foxnews.com/content/uploads/2024/11/gettyimages-1010885758.jpg",
+        "performance_score": 0,
+        "domain_rank": 317,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9c252e7659ac5c357273a4303ab195312bc6d5d3",
+    "url": "https://www.foxnews.com/politics/trump-nominates-former-fox-news-contributor-dr-janette-nesheiwat-surgeon-general",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Sarah Rumpf-Whitten",
+    "published": "2024-11-23T02:54:00.000+02:00",
+    "title": "Trump nominates former Fox News contributor Dr. Janette Nesheiwat as surgeon general | Fox News",
+    "text": "President-elect Trump has nominated Dr. Janette Nesheiwat as surgeon general.In a statement on Friday evening, Trump said that Dr. Nesheiwat is a \"fierce advocate and strong communicator for preventative medicine and public health.\" GET TO KNOW DONALD TRUMP'S CABINET: WHO HAS THE PRESIDENT-ELECT PICKED SO FAR? Dr. Janette Nesheiwat at the 2018 CHARM Back To School Bash in Nashville, Tenn. (Terry Wyatt/Getty Images) \"I am proud to announce that Dr. Janette Nesheiwat will be the Nation’s Doctor as the United States Surgeon General. Dr. Nesheiwat is a double board-certified Medical Doctor with an unwavering commitment to saving and treating thousands of American lives,\" he said.Nesheiwat is a former Fox News medical contributor. CLICK HERE TO GET THE FOX NEWS APP \"Dr. Nesheiwat is a fierce advocate and strong communicator for preventive medicine and public health,\" he said. \"She is committed to ensuring that Americans have access to affordable, quality healthcare, and believes in empowering individuals to take charge of their health to live longer, healthier lives.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.drjanette.net/",
+        "https://www.drjanette.net",
+        "https://drjanette.net/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Terry Wyatt",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Fox News",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "9c252e7659ac5c357273a4303ab195312bc6d5d3",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:18:06.369+02:00",
+    "updated": "2024-11-23T03:47:05.319+02:00"
+}

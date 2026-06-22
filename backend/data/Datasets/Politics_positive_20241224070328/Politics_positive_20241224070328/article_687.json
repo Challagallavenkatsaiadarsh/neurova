@@ -1,0 +1,106 @@
+{
+    "thread": {
+        "uuid": "da2e5b3b5ef2dd19462c393ad2ee6a83975fa427",
+        "url": "https://www.nation.com.pk/24-Nov-2024/turkey-s-erdogan-hails-courageous-icc-warrants-for-israeli-leaders",
+        "site_full": "www.nation.com.pk",
+        "site": "nation.com.pk",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Turkey’s Erdogan hails ‘courageous’ ICC warrants for Israeli leaders",
+        "title_full": "Turkey’s Erdogan hails ‘courageous’ ICC warrants for Israeli leaders",
+        "published": "2024-11-24T04:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PK",
+        "main_image": "https://www.nation.com.pk/print_images/large/2024-11-24/turkey-s-erdogan-hails-courageous-icc-warrants-for-israeli-leaders-1732414404-6373.jpg",
+        "performance_score": 0,
+        "domain_rank": 11559,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "da2e5b3b5ef2dd19462c393ad2ee6a83975fa427",
+    "url": "https://www.nation.com.pk/24-Nov-2024/turkey-s-erdogan-hails-courageous-icc-warrants-for-israeli-leaders",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NEWS WIRE",
+    "published": "2024-11-24T04:13:00.000+02:00",
+    "title": "Turkey’s Erdogan hails ‘courageous’ ICC warrants for Israeli leaders",
+    "text": "Istanbul - Turkey’s President Recep Tayyip Erdogan on Saturday praised the “courageous decision” of the International Criminal Court to",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Tayyip Erdogan",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Benjamin Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mohammed Deif",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yoav Gallant",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "International Criminal Court",
+                "sentiment": "none"
+            },
+            {
+                "name": "Hamas",
+                "sentiment": "none"
+            },
+            {
+                "name": "ICC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Gaza",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:50:36.767+02:00",
+    "updated": "2024-11-24T08:06:29.045+02:00"
+}

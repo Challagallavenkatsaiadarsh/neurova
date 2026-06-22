@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "417a4d3213c7da48d8468d6c414a65297529bf15",
+        "url": "https://www.jamaicaobserver.com/2024/11/22/watch-pnps-delroy-dawson-elated-aenon-town-election-win",
+        "site_full": "www.jamaicaobserver.com",
+        "site": "jamaicaobserver.com",
+        "site_section": "https://jamaicaobserver.com/regional",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Regional - Jamaica Observer",
+        "title": "WATCH: PNP’s Delroy Dawson elated with Aenon Town by-election win",
+        "title_full": "WATCH: PNP’s Delroy Dawson elated with Aenon Town by-election win",
+        "published": "2024-11-23T02:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "JM",
+        "main_image": "https://img.youtube.com/vi/c-Yr9kxs--4/sddefault.jpg",
+        "performance_score": 0,
+        "domain_rank": 8397,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "417a4d3213c7da48d8468d6c414a65297529bf15",
+    "url": "https://www.jamaicaobserver.com/2024/11/22/watch-pnps-delroy-dawson-elated-aenon-town-election-win",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:30:00.000+02:00",
+    "title": "WATCH: PNP’s Delroy Dawson elated with Aenon Town by-election win",
+    "text": "WATCH: PNP’s Delroy Dawson elated with Aenon Town by-election win\nCLARENDON, Jamaica — Delroy Dawson of the People’s National Party (PNP) has won the Aenon Town Division by-election.\nA preliminary count of ballot boxes revealed that Dawson won with 1,646 votes (50.8 per cent) ahead of Jamaica Labour Party’s Suzette Barton’s 1,592 (49.2 per cent).\nAccording to the Electoral Office of Jamaica, the preliminary voter turnout was 46.8 per cent.\nSpeaking with Observer Online, Dawson shared that he was happy with the results.\n“I am so elated this afternoon. I can’t even talk, it’s the greatest feeling in a long while. Hard work brings success. I’m feeling so proud of myself, the team, the party leader, everybody who come out and really work hard. It’s really a hard, hard task but we did it and it is very, very, very rewarding this evening,” Dawson said.\nHe praised PNP President Mark Golding for his support throughout the campaign period which he said helped him to secure the win.\n“I couldn’t do it without him. I could not do it without the team, the external, everybody who comes together. It was just amazing. But as you know, when PNP unite, it is a force to recognise. You just cannot lose it when you unite. This is just the first step to showing Jamaica that the party is ready and just waiting to give them the great reward that they are waiting for,” he continued.\nDawson said he expects the party to win the next General Election once they are united.\n“The PNP, once we are united and which we are, we will win. There’s no doubt about it that we will win the general election. Today shows that the PNP is ready. The amount of resources that the other party put in place, we could not match them. But with the help of God and all the teams, we were victorious. And I just want to say thanks to the almighty God for this victory,” he told Observer Online.\n— Oneil Madden",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Delroy Dawson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Suzette Barton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Golding",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "PNP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jamaica Labour Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Observer Online",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "CLARENDON",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:13:02.485+02:00",
+    "updated": "2024-11-23T03:13:02.485+02:00"
+}

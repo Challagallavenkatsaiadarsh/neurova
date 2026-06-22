@@ -1,0 +1,83 @@
+{
+    "thread": {
+        "uuid": "aeb5213754b99896b910624fd1c4c5a7f38b0828",
+        "url": "https://www.kaaltv.com/news/indian-boarding-schools-apology-sparks-renewed-reconciliation-efforts-in-minnesota",
+        "site_full": "www.kaaltv.com",
+        "site": "kaaltv.com",
+        "site_section": "https://kaaltv.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "ABC 6 News &#8211; kaaltv.com",
+        "title": "Indian boarding schools apology sparks renewed reconciliation efforts in Minnesota",
+        "title_full": "Indian boarding schools apology sparks renewed reconciliation efforts in Minnesota",
+        "published": "2024-11-23T05:15:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.kaaltv.com/wp-content/uploads/2024/11/Boarding-school-history.png",
+        "performance_score": 0,
+        "domain_rank": 39996,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "aeb5213754b99896b910624fd1c4c5a7f38b0828",
+    "url": "https://www.kaaltv.com/news/indian-boarding-schools-apology-sparks-renewed-reconciliation-efforts-in-minnesota",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kirsten Swanson KSTP",
+    "published": "2024-11-23T05:15:00.000+02:00",
+    "title": "Indian boarding schools apology sparks renewed reconciliation efforts in Minnesota",
+    "text": "Indian boarding schools apology sparks renewed reconciliation efforts in Minnesota\n(KSTP) — Gabe Desrosiers describes it as ironic.\nThe University of Minnesota Morris teacher works to preserve and pass on the very thing that the federal government once sought to eradicate.\nThe campus sits on land that was once the Morris Industrial School for Indians, a federally run boarding school that suppressed Indigenous children’s culture in an attempt at forced assimilation.\n“This was a place once that, you know, forbade Native students to learn about song and dance, to learn about language,” Desrosiers said. “This is what I do here on campus.”\nDesrosiers is reminded of that history every day. His office is housed in the last remaining building from the campus’ boarding school era. The two-story brick building served as the boy’s dormitory.\n“You can feel the presence of the children that were once here,” he said during a recent interview.\nThe Morris campus is one of 20 sites in Minnesota identified in a federal investigation released this summer by the U.S. Department of the Interior.\nFollowing the extensive probe, the federal government is making amends for the first time in history.\nLate last month, President Joe Biden visited the Gila River Indian Community in Arizona and offered a formal apology to the Native families who have endured generational trauma as a result of the assimilation policies of the time.\n“It’s horribly, horribly wrong,” the president remarked. “A sin on our soul.”\nAs the federal government takes responsibility for the policy of the time, school leaders at U of M Morris are moving ahead in their commitment to researching the school’s past.\nFor decades, starting in the late 1800s, the government removed Native children from their families and sent them to boarding schools.\nPhotos from the era show the students with their hair cut off and dressed in uniforms.\nIn 2021, 5 INVESTIGATES traveled to Pipestone, Minn., the location of another federal Indian boarding school.\nElders in the community recounted memories of the sprawling campus they remember from their youth.\nThe federal investigation acknowledged that children endured harsh treatment in these schools and found 973 children died while attending boarding schools.\nBut U of M Morris Chancellor Janet Ericksen said those findings are incomplete.\n“If you talk to anyone in a Native community around here, of course students died in boarding schools,” she said during an interview. “They knew it. They knew their relatives had died at this particular boarding school.”\nFor nearly three decades, students and professors at the school have researched the boarding school era, attempting to learn more about what happened to the children who were sent here.\nEricksen’s predecessor launched an effort to search the campus and surrounding grounds for any evidence of burial sites or other human remains.\n“We don’t have anything definitive to suggest that there are, but that’s why we keep looking,” she said.\nDesrosiers said while it was important to hear Biden’s apology, the government must follow it with action.\n“Doing that research and uncovering facts are important to begin the process of truth telling,” he said.\nThe federal investigation lays out multiple recommendations for how to move forward, including investments in programs that support Native Americans and tribes, building a national memorial and identifying and repatriating the remains of children who never made it home.\nNext summer, Chancellor Ericksen said the school will partner with a private firm to search the campus using ground penetrating radar.\nThe decision on what to do with any discoveries, however, will be left to Native people in the community.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gabe Des",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Desrosiers",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "University of Minnesota Morris",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:39:26.005+02:00",
+    "updated": "2024-11-23T05:39:26.005+02:00"
+}

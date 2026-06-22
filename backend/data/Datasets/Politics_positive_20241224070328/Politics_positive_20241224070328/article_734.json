@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "056490789452a8cd50f139feb7c3814ed00a7265",
+        "url": "https://manilastandard.net/news/314527445/dpwh-reiterates-commitment-to-building-pbbms-infrastructure-projects.html",
+        "site_full": "manilastandard.net",
+        "site": "manilastandard.net",
+        "site_section": "https://www.manilastandard.net",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Manila Standard – Defining the News",
+        "title": "DPWH reiterates commitment to building PBBM’s infrastructure projects",
+        "title_full": "DPWH reiterates commitment to building PBBM’s infrastructure projects",
+        "published": "2024-11-24T03:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "PH",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 27741,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "056490789452a8cd50f139feb7c3814ed00a7265",
+    "url": "https://manilastandard.net/news/314527445/dpwh-reiterates-commitment-to-building-pbbms-infrastructure-projects.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Vince Lopez",
+    "published": "2024-11-24T03:56:00.000+02:00",
+    "title": "DPWH reiterates commitment to building PBBM’s infrastructure projects",
+    "text": "The Department of Public Works and Highways (DPWH) expressed its commitment to implementing infrastructure projects under President Ferdinand Marcos Jr.’s administration to help build resilient and sustainable communities.\nIn a news forum in Quezon City on Saturday, DPWH Director Alex Bote stated that the DPWH, in partnership with other concerned government agencies, is making headway in improving local access roads, which are expected to have a significant impact, particularly on agriculture and trade.\n“We are into the improvement of local access roads that will have a significant impact on our agriculture, trade, and industries. We have convergence programs here with other line agencies of the government,” Bote said.\n“DPWH will continue to implement various programs that will make communities resilient and sustainable,” he added.\nThe DPWH is one of the government line agencies leading the implementation of several Infrastructure Flagship Projects (IFPs) under the “Build, Better, More” initiative.\nAccording to Bote, the DPWH is currently leading at least 30 flagship projects from this list.\nThere are a total of 186 IFPs with a projected total cost of PhP9.6 trillion. These projects are expected to improve physical connectivity, water resources, agriculture, health, digital connectivity, power and energy, education, and more.\nOf these projects, four have already been completed, according to the National Economic and Development Authority (NEDA).\nIn addition to this, 67 projects are ongoing; 30 are approved for implementation; five are awaiting government approval; 37 are under project preparation; and 43 are under pre-project implementation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ferdinand Marcos Jr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Alex Bote",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:10:18.626+02:00",
+    "updated": "2024-11-24T06:10:18.626+02:00"
+}

@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "97a91a2cbd21a1339b8d615b2be2905e0d86d1f7",
+        "url": "https://www.morningstar.com/news/pr-newswire/20241122ph64833/nasa-leadership-to-visit-strengthen-cooperation-with-mexico",
+        "site_full": "www.morningstar.com",
+        "site": "morningstar.com",
+        "site_section": "https://www.morningstar.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Latest Market Headlines | Morningstar",
+        "title": "NASA Leadership to Visit, Strengthen Cooperation with Mexico | Morningstar",
+        "title_full": "NASA Leadership to Visit, Strengthen Cooperation with Mexico | Morningstar",
+        "published": "2024-11-23T00:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.contentstack.io/v3/assets/blt4eb669caa7dc65b2/blta7dd42ebdd7b93b8/61899b34a3c7df383578294c/morningstar-og.png",
+        "performance_score": 0,
+        "domain_rank": 1889,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "97a91a2cbd21a1339b8d615b2be2905e0d86d1f7",
+    "url": "https://www.morningstar.com/news/pr-newswire/20241122ph64833/nasa-leadership-to-visit-strengthen-cooperation-with-mexico",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:28:00.000+02:00",
+    "title": "NASA Leadership to Visit, Strengthen Cooperation with Mexico | Morningstar",
+    "text": "NASA Leadership to Visit, Strengthen Cooperation with Mexico\nNASA Leadership to Visit, Strengthen Cooperation with Mexico\nPR Newswire\nWASHINGTON, Nov. 22, 2024\nWASHINGTON, Nov. 22, 2024 /PRNewswire/ -- NASA Deputy Administrator Pam Melroy and Nicola Fox, associate administrator for NASA's Science Mission Directorate, will travel to Mexico City on Sunday, Nov. 24, for a multi-day trip to build on previous engagements and advance scientific and technological collaboration between the United States and Mexico.\nThis visit will focus on fostering partnerships in astronomy and astrophysics research, as well as highlighting opportunities for economic, educational, and science, technology, engineering, and math collaborations between the two nations.\nMelroy's trip will include high-level meetings with senior Mexican government officials, including the secretariat-designate for Science, Technology, Humanities, and Innovation. Melroy and Fox also will meet with leaders from academia, industry, and scientific institutions. These discussions will emphasize expanding cooperation in space science, with particular focus on Mexico's growing astronomy programs.\nThis visit builds on Melroy's trip to Mexico City earlier this year and reflects NASA's commitment to advancing international cooperation in space and science for the benefit of all.\nFor more information about NASA's international partnerships, visit:\nView original content to download multimedia:[https://www.prnewswire.com/news-releases/nasa-leadership-to-visit-strengthen-cooperation-with-mexico-302314627.html](https://www.prnewswire.com/news-releases/nasa-leadership-to-visit-strengthen-cooperation-with-mexico-302314627.html)\nSOURCE NASA\nMore in Markets\nFOMC minutes, personal income report, and Macy’s earnings ahead.\nWhat’s Happening in the Markets This Week\nInvestors are worried about what’s next for healthcare companies under Trump.\nHealthcare Stocks Got Crushed After the Election—Is It Time to Buy?\nKey insights on market sentiment and investment strategies from our 2024 surveys.\nHow the US Presidential Election Affected Investors in 2024\nMore in Stocks\nSea and Spotify saw the largest valuation bumps among US-listed stocks covered by Morningstar analysts.\n10 Stocks With the Largest Fair Value Estimate Increases After Q3 Earnings\n8 undervalued tech stocks offer attractive prices in a predominantly overvalued sector.\nThe Best Tech Stocks to Buy\nThese stock picks stand to benefit most from developing artificial intelligence technologies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.prnewswire.com/news-releases/nasa-leadership-to-visit-strengthen-cooperation-with-mexico-302314627.html",
+        "https://prnewswire.com/news-releases/nasa-leadership-to-visit-strengthen-cooperation-with-mexico-302314627.html"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nicola Fox",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pam Melroy",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "NASA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Science Mission Directorate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:01:15.139+02:00",
+    "updated": "2024-11-23T01:01:15.139+02:00"
+}

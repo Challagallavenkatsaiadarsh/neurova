@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "92a6e4bb95579793e9767459759d018b49b70c03",
+        "url": "https://theglobalherald.com/news/jury-determines-conor-mcgregor-committed-assault-orders-compensation",
+        "site_full": "theglobalherald.com",
+        "site": "theglobalherald.com",
+        "site_section": "https://www.theglobalherald.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "The Global Herald - News, Business, Lifestyle &amp; More",
+        "title": "Jury Determines Conor McGregor Committed Assault, Orders Compensation",
+        "title_full": "Jury Determines Conor McGregor Committed Assault, Orders Compensation",
+        "published": "2024-11-22T19:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 62116,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "92a6e4bb95579793e9767459759d018b49b70c03",
+    "url": "https://theglobalherald.com/news/jury-determines-conor-mcgregor-committed-assault-orders-compensation",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "News Desk",
+    "published": "2024-11-22T19:13:00.000+02:00",
+    "title": "Jury Determines Conor McGregor Committed Assault, Orders Compensation",
+    "text": "\\n Court Ruling on Assault Case Involving Conor McGregor \\nA jury in Dublin has concluded that mixed martial arts fighter Conor McGregor was responsible for the assault of a woman who had previously accused him of rape. The court found McGregor liable for the incident, which reportedly took place in December 2018.\n\\n Details of the Case \\nThe plaintiff, Nikita Hand, filed a civil lawsuit against McGregor, seeking compensation for the alleged assault. The jury delivered its verdict after deliberating for several hours. As a result of the decision, McGregor has been ordered to pay damages exceeding \\u20ac248,000 to Hand.\n\\n Background of the Incident \\nThe alleged assault occurred at the Beacon Hotel in Dublin on December 9, 2018. The case had attracted significant media attention, leading to a highly publicized trial as both parties presented their accounts during the proceedings.\n\\n Trial Proceedings \\nThe jury\\u2019s deliberation commenced on Thursday afternoon, ultimately leading to a verdict confirming McGregor\\u2019s assault on Hand. This verdict marks a crucial point in a case that has attracted widespread attention and sparked discussions about accountability within high-profile individuals.\n\\nThis breaking news is under ongoing review, and further details may emerge as the situation develops.\n\\n",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Conor McGregor",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Hotel",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:24.682+02:00",
+    "updated": "2024-11-23T00:01:24.682+02:00"
+}

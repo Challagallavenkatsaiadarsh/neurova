@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "f88e95ad654c0a7cc533836dbef5d3ade2467519",
+        "url": "https://www.newsbreak.com/news/3686433084446-adena-ishii-will-be-berkeley-s-next-mayor",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/berkeley-ca",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "Berkeley, CA Local News and More | NewsBreak",
+        "title": "Adena Ishii will be Berkeley's next mayor",
+        "title_full": "Adena Ishii will be Berkeley's next mayor",
+        "published": "2024-11-23T06:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/166P8G_0wyXFffE00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f88e95ad654c0a7cc533836dbef5d3ade2467519",
+    "url": "https://www.newsbreak.com/news/3686433084446-adena-ishii-will-be-berkeley-s-next-mayor",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "berkeleyscanner.com",
+    "published": "2024-11-23T06:21:00.000+02:00",
+    "title": "Adena Ishii will be Berkeley's next mayor",
+    "text": "berkeleyscanner.com 1 days ago 1 days ago Comments / YOU MAY ALSO LIKE Golden Gate Media2 days ago Golden Gate Media5 days ago Mississippi News Group11 days ago Uncovering Florida10 days ago Dianna Carney2 days ago Dianna Carney3 days ago Golden Gate Media14 days ago The HD Post1 day ago David Heitz13 days ago Bucks County Beacon23 days ago L.A. TACO26 days ago Dianna Carney1 day ago The HD Post11 days ago Dianna Carney11 days ago Arizona Luminaria10 days ago The HD Post8 days ago Alamogordo Conservative Daily14 days ago David Heitz10 days ago Dianna Carney26 days ago The HD Post11 days ago ‘Stay in line’: reports of voting-rights violations continue despite court ruling to keep 9 Apache County polls open Arizona Luminaria17 days ago Dianna Carney11 days ago David Heitz27 days ago Arizona Luminaria28 days ago Many older, low-income or disabled KYians may qualify for Medicare, Medicaid Dual Special Needs Plan Northern Kentucky Tribune4 days ago Northern Kentucky Tribune22 days ago Dianna Carney1 day ago Jude Folly1 day ago The Politicians10 days ago The Politicians7 days ago Get updates delivered to you daily. Free and customizable.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adena Ishii",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Dianna",
+                "sentiment": "none"
+            },
+            {
+                "name": "David",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Berkeley",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:48:30.973+02:00",
+    "updated": "2024-11-24T05:48:30.973+02:00"
+}

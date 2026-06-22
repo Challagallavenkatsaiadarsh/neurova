@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "787100337fe6faed8e34ea4d3e5a392f9bd50aa3",
+        "url": "https://www.hindustantimes.com/india-news/worli-election-result-aditya-thackeray-leads-against-milind-deora-101732333585318.html",
+        "site_full": "www.hindustantimes.com",
+        "site": "hindustantimes.com",
+        "site_section": "https://www.hindustantimes.com",
+        "site_categories": [
+            "media",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_kw",
+            "top_news_sa",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_my",
+            "top_news_iq",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "News: Today’s News Headlines, Breaking News India, World News and Cricket News | Hindustan Times",
+        "title": "Worli election result: Aditya Thackeray leads against Milind Deora",
+        "title_full": "Worli election result: Aditya Thackeray leads against Milind Deora",
+        "published": "2024-11-23T05:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://www.hindustantimes.com/ht-img/img/2024/11/23/1600x900/Thackeray_1732333691641_1732333691863.JPG",
+        "performance_score": 0,
+        "domain_rank": 887,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "787100337fe6faed8e34ea4d3e5a392f9bd50aa3",
+    "url": "https://www.hindustantimes.com/india-news/worli-election-result-aditya-thackeray-leads-against-milind-deora-101732333585318.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@httweets",
+    "published": "2024-11-23T05:22:00.000+02:00",
+    "title": "Worli election result: Aditya Thackeray leads against Milind Deora",
+    "text": "Aditya Thackeray, the son of Shiv Sena (UBT) chief Uddhav Thackeray, is leading in the Worli assembly constituency, early trends showed on Saturday morning. He is contesting against Shiv Sena leader Milind Deora.Aditya Thackeray is the incumbent MLA from the Worli constituency. In the 2019 Maharashtra assembly election, Aditya Thackeray polled over 69 per cent votes, defeating NCP's Suresh Mane.Earlier this year, Milind Deora quit the Congress and joined the Eknath Shinde-led Shiv Sena.The Bharatiya Janata Party-led Mahayuti alliance has taken a huge early lead as the Election Commission counted postal ballots.At 9.30 am, the Mahayuti was leading in 121 seats. The Maha Vikas Aghadi (MVA) is leading in 27 seats.Aditya Thackeray was the first person from the Thackeray clan to have contested the elections.Also read: Election results: BJP-led Mahayuti leads in over 100 seats, show early trendsHis grandfather Bal Thackeray, his father Uddhav Thackeray and his uncle Raj Thackeray never contested an assembly election.Aditya Thackeray's cousin, Amit Thackeray, is also contesting the 2024 Maharashtra assembly election.Milind Deora also comes from an illustrious political family. His father was Murli Deora, a Congress stalwart.Also read: Who will be next Maharashtra CM? Conundrum for Mahayuti, MVA ahead of assembly poll resultscontested and won the 2004 general election. He was the youngest MP of the 14th Lok Sabha. He was again elected as an MP from the South Mumbai constituency.However, since 2014, Shiv Sena's Arvind Sawant has been winning the Lok Sabha polls from Mumbai South.The Counting began at 8 am on Saturday for the 2024 Jharkhand and Maharashtra assembly elections, along with the by-poll results in 15 states.All eyes are on the outcome of the battle between the ruling BJP-led Mahayuti coalition and the Maha Vikas Aghadi (MVA) alliance, which is seeking to make a comeback.There will be a minimum of 20 rounds of counting in each assembly segment.With inputs from PTI",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Milind Deora Worli",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Aditya Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Uddhav Thackeray",
+                "sentiment": "none"
+            },
+            {
+                "name": "Suresh Mane",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:55:57.204+02:00",
+    "updated": "2024-11-23T06:14:24.433+02:00"
+}

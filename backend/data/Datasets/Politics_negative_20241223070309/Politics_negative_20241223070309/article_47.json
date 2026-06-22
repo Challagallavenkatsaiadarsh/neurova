@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "8640121adf59bfafaab143bb15a797e19d9c4b0a",
+        "url": "https://www.nbc-2.com/article/florida-flag-desantis-palm-beach-deputies-killed-crash/62991613",
+        "site_full": "www.nbc-2.com",
+        "site": "nbc-2.com",
+        "site_section": "https://nbc-2.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "NBC2 News and Weather - Southwest Florida News",
+        "title": "NBC2 NEWS AT 5 PM",
+        "title_full": "NBC2 NEWS AT 5 PM",
+        "published": "2024-11-22T23:19:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/gettyimages-1174560562-6740f01514b97.jpg?crop=1.00xw:0.846xh;0,0&amp;resize=1200:*",
+        "performance_score": 0,
+        "domain_rank": 10084,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8640121adf59bfafaab143bb15a797e19d9c4b0a",
+    "url": "https://www.nbc-2.com/article/florida-flag-desantis-palm-beach-deputies-killed-crash/62991613",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zach Scott",
+    "published": "2024-11-22T23:19:00.000+02:00",
+    "title": "NBC2 NEWS AT 5 PM",
+    "text": "Gov. Ron DeSantis orders flags at half-staff, honoring 2 Palm Beach deputies killed in crash\nFlorida Gov. Ron DeSantis ordered U.S. and state flags to be flown at half-staff in honor of two deputies who were struck and killed in a crash in Palm Beach County.\nOn Thursday, Palm Beach County Sheriff's Office Corporal Luis Paez and Deputy Sheriff Ralph Waller were struck and killed on Southern Boulevard.\nOfficials said the deputies were off the roadway, waiting on battery cables, when a woman driving an SUV tried to pass a car before losing control and colliding with the three deputies.\nPaez and Waller were taken to the hospital, where they ultimately succumbed to injury.\nWest Palm Beach's [WPBF](https://www.wpbf.com/article/florida-crash-southern-boulevard-palm-beach-county/62976256) reported the third deputy has undergone surgery and is stable but in critical condition.\nAccording to a release from DeSantis, Paez began serving his community in 1988 as a corrections deputy before serving as a motor deputy for more than 20 years.\nWaller served with the Royal Palm Beach Police Department before starting with PBCSO in 2008.\n\"These brave officers who made the ultimate sacrifice will always be remembered for their courage and service,\" the release said.\nDeSantis ordered that the flags be flown at half-staff at all local and state buildings, installations and grounds through Palm Beach County from 3 p.m. to sunset on Thursday and Tuesday, Dec. 3.\nDOWNLOAD the free [NBC2 News app](https://qrco.de/wbbhapp) for your latest news and weather alerts.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://qrco.de/wbbhapp",
+        "https://www.wpbf.com/article/florida-crash-southern-boulevard-palm-beach-county/62976256",
+        "https://www.qrco.de/wbbhapp",
+        "https://wpbf.com/article/florida-crash-southern-boulevard-palm-beach-county/62976256"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:07:10.048+02:00",
+    "updated": "2024-11-23T00:52:59.967+02:00"
+}

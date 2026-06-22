@@ -1,0 +1,75 @@
+{
+    "thread": {
+        "uuid": "20a52b08ef88daf446c5ef67973d81f6cc1b1e4e",
+        "url": "https://www.cpr.org/2024/11/22/colorado-springs-homelessness-plan-housing-cleanups",
+        "site_full": "www.cpr.org",
+        "site": "cpr.org",
+        "site_section": "https://www.cpr.org/feed",
+        "site_categories": [
+            "music",
+            "entertainment"
+        ],
+        "section_title": "Colorado Public Radio",
+        "title": "New plan to address homelessness in Colorado Springs calls for more aggressive camp cleanups, more affordable housing",
+        "title_full": "New plan to address homelessness in Colorado Springs calls for more aggressive camp cleanups, more affordable housing",
+        "published": "2024-11-23T02:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wp-cpr.s3.amazonaws.com/uploads/2024/11/CPR50704-1024x683.jpg",
+        "performance_score": 0,
+        "domain_rank": 6754,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "20a52b08ef88daf446c5ef67973d81f6cc1b1e4e",
+    "url": "https://www.cpr.org/2024/11/22/colorado-springs-homelessness-plan-housing-cleanups",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Dan Boyce",
+    "published": "2024-11-23T02:44:00.000+02:00",
+    "title": "New plan to address homelessness in Colorado Springs calls for more aggressive camp cleanups, more affordable housing",
+    "text": "A new five-year plan to address homelessness in Colorado Springs outlines a broad series of 60 action items across six major focus areas, ranging from homeless prevention efforts to outreach and shelter options as well as long term housing.\n“It is important that we strike the balance between compassion and public safety, and that's what this document reflects,” Colorado Springs Mayor Yemi Mobolade said Thursday during the unveiling of the city’s [2025 Homelessness Response Plan. ](https://wp-cpr.s3.amazonaws.com/uploads/2024/11/2025-homelessness-response-action-plan-FINAL-FOR-WEB.pdf)\nThe Springs has seen the number of unhoused residents drop while other Front Range cities have seen their numbers increase. The latest Point in Time surveys show the total unhoused population in the Springs decreased 12 percent in the last year. [Over that time,](https://denverite.com/2024/08/14/denver-homelessness-point-in-time-count-2024/?utm_source=chatgpt.com) the unhoused population in Denver rose by 10 percent.\nResidents listed enforcement and encampment cleanup as the top priority. In response, the plan calls for increasing the Police Department’s Homeless Outreach Team from six members to eight. Mobolade also plans to up the city’s use of technology to map the location of camps.\nHomeless advocacy groups worried about the negative effects for those who don’t comply with cleanup orders.\n“Increased policing typically results in more tickets, more jail time, more clogged up court systems,” Kristy Milligan with local services organization Westside Cares said. “Then ultimately things on people's records prohibit them from attaining the housing and the employment that would create the conditions for them to flourish.”\nMilligan also praised much of the response plan, particularly its focus on increasing long term affordable housing options for the very poor. The city celebrated the opening of The Commons, its first permanent supportive housing complex [and one focused on unhoused families](https://www.rmpbs.org/blogs/news/the-commons-an-affordable-housing-journey?utm_source=chatgpt.com), in April of 2023. Milligan said overall she thinks the city is “very well positioned” to be a Colorado leader in addressing homelessness.\nAnd Colorado Spring’s Point in Time Data gives officials like Milligan hope. However, Point in Time surveys are exactly that — a survey of the unhoused population on one single night, usually in the dead of winter.\n“We agree the point in time count is just a snapshot and we know that it is not entirely accurate,” said Aimee Cox, the city’s chief housing and homelessness officer. “However, if the methodology is consistent, it should show a trend line over time that we can rely on.”\nCox said the new Homelessness Response Plan calls for more robust data collection to get a better sense of the city’s true unhoused population.\nAlso in attendance at the Thursday press conference were several members of the year-old [Colorado Springs Homeless Union](https://www.cpr.org/2023/11/03/homeless-union-forms-in-colorado-springs-as-city-and-county-weigh-proposal-on-camp-cleanups/). Member Bradley Breitkreuz said his biggest hurdle has been juggling the logistics involved in moving the half-mile between shower and shelter services at the Springs Rescue Mission and food served at the Marian House Soup Kitchen.\n“It's always one or the other. It's either hygiene, food or work. And you can't get work without hygiene,” Breitkreuz said. “There's always one thing in the loop missing that keeps us from getting ahead as a homeless person.”\nThe new plan was developed following a year and a half of public meetings and stakeholder working groups as well as a text message poll conducted by the city.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Yemi Mobolade",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:50:08.216+02:00",
+    "updated": "2024-11-23T03:45:50.416+02:00"
+}

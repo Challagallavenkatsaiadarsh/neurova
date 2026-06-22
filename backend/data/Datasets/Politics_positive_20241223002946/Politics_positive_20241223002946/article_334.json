@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "06814a3fb68363aa02f9827ed57891776de8af16",
+        "url": "https://www.chicagotribune.com/2024/11/22/aurora-city-council-to-vote-on-using-grant-money-for-laptop-computers-for-police-fire-departments",
+        "site_full": "www.chicagotribune.com",
+        "site": "chicagotribune.com",
+        "site_section": "https://www.chicagotribune.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Chicago Tribune - Chicago News, Sports, Weather, Business & Things to Do",
+        "title": "Aurora City Council to vote on using grant money for laptop computers for police, fire departments",
+        "title_full": "Aurora City Council to vote on using grant money for laptop computers for police, fire departments",
+        "published": "2024-11-22T18:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 529,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "06814a3fb68363aa02f9827ed57891776de8af16",
+    "url": "https://www.chicagotribune.com/2024/11/22/aurora-city-council-to-vote-on-using-grant-money-for-laptop-computers-for-police-fire-departments",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Steve Lord",
+    "published": "2024-11-22T18:10:00.000+02:00",
+    "title": "Aurora City Council to vote on using grant money for laptop computers for police, fire departments",
+    "text": "The Aurora City Council will vote Tuesday on using money from a federal grant to replace police and fire laptop computers and some closed-circuit TV cameras.\nAldermen will vote on using money from the federal Department of Justice Office of Community Oriented Policing Services, or COPS, Technology and Equipment Program received earlier this year.\nThe city already accepted the $2.28 million grant, which is given to provide funding for projects which improve police effectiveness and the flow of information among law enforcement agencies, local government service providers and the communities they serve, according to a city memo.\nEarlier this year, the City Council approved about $1.23 million of the money for forensic lab equipment, as well as CCTV equipment.\nWhat aldermen will vote on Tuesday is using the remaining about $1.05 million to buy laptops for both the police and fire departments, and additional CCTV equipment.\nThe city memo said that police officers, paramedics and fire crews need “ruggedized” laptops they can rely on in all situations and weather conditions. The laptops the city purchased have exceeded their warranty life, and the city wants to replace them with better models.\nThe grant would cover the first-year lease costs of $872,634. The city would look at using Emergency Telephone Service Board money to cover the second and third years, which has been done previously for both the police and fire departments.\nAfter the laptop costs, and some other associated costs, the city would have $107,924 remaining of the original $2.28 million grant. Public Safety officials want to use that for any other costs related to closed-circuit TV needs.\nThe entire grant has to be spent by the end of 2024.\nslord@tribpub.com",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Aurora City Council",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Department of Justice Office of Community Oriented Policing Services",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:00:55.438+02:00",
+    "updated": "2024-11-23T02:00:55.438+02:00"
+}

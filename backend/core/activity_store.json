@@ -1,0 +1,47 @@
+{
+    "likes": {
+        "current_user": []
+    },
+    "replies": {
+        "current_user": [
+            {
+                "post_id": "MOm2DRHE3IFdhpTCS4k4",
+                "username": "user",
+                "text": "hi",
+                "image": "https://res.cloudinary.com/dnvbot91o/image/upload/v1780801751/neurova_posts/endijcaihmjmpoplqqgf.png",
+                "source": "feed",
+                "space_id": "MOm2DRHE3IFdhpTCS4k4"
+            }
+        ]
+    },
+    "reposts": {
+        "current_user": []
+    },
+    "shares": {
+        "current_user": [
+            {
+                "post_id": "MOm2DRHE3IFdhpTCS4k4",
+                "username": "user",
+                "text": "hi",
+                "image": "https://res.cloudinary.com/dnvbot91o/image/upload/v1780801751/neurova_posts/endijcaihmjmpoplqqgf.png",
+                "source": "feed",
+                "space_id": "MOm2DRHE3IFdhpTCS4k4"
+            }
+        ]
+    },
+    "bookmarks": {
+        "current_user": []
+    },
+    "reports": {
+        "current_user": [
+            {
+                "post_id": "drDJdlxrc7jfPKd2wZmY",
+                "username": "user",
+                "text": "",
+                "image": "",
+                "source": "feed",
+                "space_id": "drDJdlxrc7jfPKd2wZmY"
+            }
+        ]
+    }
+}

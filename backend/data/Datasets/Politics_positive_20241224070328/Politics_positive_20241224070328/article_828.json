@@ -1,0 +1,77 @@
+{
+    "thread": {
+        "uuid": "9faf1b6632384d2920d66ee305970fb5ed7f0482",
+        "url": "https://www.koreaherald.com/view.php?ud=20241124050008",
+        "site_full": "www.koreaherald.com",
+        "site": "koreaherald.com",
+        "site_section": "https://koreaherald.com/view.php?ud=20241117050070",
+        "site_categories": [
+            "media",
+            "top_news_kr",
+            "top_news"
+        ],
+        "section_title": "\r\nPresidential office criticized for haste over potential Trump meeting",
+        "title": "Fire extinguishers now mandatory for vehicles carrying 5 or more - The Korea Herald",
+        "title_full": "Fire extinguishers now mandatory for vehicles carrying 5 or more - The Korea Herald",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "KR",
+        "main_image": "https://res.heraldm.com/content/image/2024/11/24/20241124050011_0.jpg",
+        "performance_score": 0,
+        "domain_rank": 3375,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9faf1b6632384d2920d66ee305970fb5ed7f0482",
+    "url": "https://www.koreaherald.com/view.php?ud=20241124050008",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "No Kyung-min",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Fire extinguishers now mandatory for vehicles carrying 5 or more - The Korea Herald",
+    "text": "Fire extinguishers now mandatory for vehicles carrying 5 or more\n[By No Kyung-min](/search/list_reporter.php?byline=No+Kyung-min)\nPublished : Nov. 24, 2024 - 13:48\nStarting next month, all newly registered cars seating for five or more passengers will be required to have a fire extinguisher, fire authorities said Sunday.\nCurrently, the mandatory installation of fire extinguishers applies to vehicles that carry seven or more passengers.\nAccording to the National Fire Agency, the change aligns with the revision of the Act on Installation and Management of Firefighting Systems, set to take effect in December after a three-year grace period.\nThe mandate does not apply retroactively to registered vehicles but covers newly registered or ownership-transferred cars.\nNew car owners must equip their vehicles with extinguishers labeled \"automotive use,\" which confirm that they meet proper inspection standards. Authorities recommend storing the fire extinguisher in easily accessible locations, such as near the driver’s seat.\nThe new rule aims to ensure rapid responses to the increasing number of car fires. Data from the National Fire Data System shows that 11,398 car fires occurred from 2021 to 2023, resulting in 27 deaths and 149 injuries. On average, this translates to 3,799 cases per year.\nMore from Headlines\n-\nS. Korea not to attend Sado mine memorial: foreign ministry\n-\nTrump picks ex-N. Korea policy official as his principal deputy national security adviser\n-\nSouth Korean military plans to launch new division for future warfare",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "National Fire Agency",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:02:58.034+02:00",
+    "updated": "2024-11-24T07:02:58.034+02:00"
+}

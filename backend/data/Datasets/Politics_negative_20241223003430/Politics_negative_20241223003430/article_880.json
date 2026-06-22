@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "b5cf0b14951f6efac57f418952aa2a48e75abe2d",
+        "url": "https://www.newsbreak.com/wsoc-charlotte-523006/3686111286480-gastonia-immigration-attorney-sees-panic-over-trump-s-deportation-plan",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/wsoc-charlotte-523006",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "WSOC Charlotte&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/4SrkD3_0wyCpip000?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "b5cf0b14951f6efac57f418952aa2a48e75abe2d",
+    "url": "https://www.newsbreak.com/wsoc-charlotte-523006/3686111286480-gastonia-immigration-attorney-sees-panic-over-trump-s-deportation-plan",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "",
+    "text": "By Ken Lemon ,\n1 hours ago An immigration attorney in Gastonia says the fear over President-elect Donald Trump’s plan of mass deportations is real, and she can feel it over the calls for help.\nPeople worry that deportation will start soon after the inauguration for anyone without permanent status, but there’s no quick way to get that.\nChannel 9′s Ken Lemon spoke with one woman in Gastonia who asked not to show her face out of fear of deportation. Through tears in her eyes, she said her biggest wish is for her kid to graduate high school.\nShe’s a mother of two who came here from Honduras about four years ago. She works in construction and lives in fear.\n“[We] stay at home to not go to places where they can risk themselves being deported,” a translator said for her.\nShe even worries if it will be safe to send her 13-year-old and 5-year-old sons to school.\n“What’s going to happen if [Immigration and Customs Enforcement] goes to the school and tries to get them?” she said through a translator.\nImmigration attorney Sharon Dove told Lemon she’s getting more questions from her clients.\n“People are terrified, that is not an exaggeration,” Dove said.\nDove said 98% of her clients are Spanish-speaking, and many of them believed they didn’t have to rush to get asylum or a Green Card. Then, former president Trump won the election on a promise of mass deportations.\n“Now, they are calling us in a panic,” Dove said.\nShe said the Charlotte immigration court has one of the lowest approval rates in the country for people seeking permanent status; only 10% of people are successful. Charlotte’s immigration court is backlogged on top of that; anyone hoping for a speedy hearing without a date scheduled soon may be asking for too much.\n“No, there’s not much hope of that,” Dove said.\nGaston County Board of Commissioners Chairman Chad Brown said it’s not right to let everyone into the county without becoming citizens.\n“If I invite you to my house for dinner, I don’t want you walking through my window to come in and eat my food. You can walk through the front door,” Brown said.\nAdvocates told Lemon that people who are here without documentation are afraid that self-reporting will put them in a spotlight, and that will get them deported.\nSome, like the woman from Honduras, worry their entire family can be deported.\n(VIDEO: Sheriff McFadden reacts to ICE compliance bill)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=4SrkD3_0wyCpip000",
+        "https://img.particlenews.com/image.php?url=4SrkD3_0wyCpip000",
+        "https://img.particlenews.com/image.php",
+        "https://www.img.particlenews.com/image.php?url=4SrkD3_0wyCpip000",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=4SrkD3_0wyCpip000"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Ken Lemon",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sharon Dove",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Customs Enforcement",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:38:24.116+02:00",
+    "updated": "2024-11-23T01:38:24.116+02:00"
+}

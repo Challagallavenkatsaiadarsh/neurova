@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "301b495f803579e33a7876b942817b68f9a4928d",
+        "url": "https://www.devdiscourse.com/article/politics/3167767-priyanka-gandhi-vadra-takes-lead-in-wayanad-bypoll",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://www.devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "Priyanka Gandhi Vadra Takes Lead in Wayanad Bypoll | Politics",
+        "title_full": "Priyanka Gandhi Vadra Takes Lead in Wayanad Bypoll | Politics",
+        "published": "2024-11-23T03:13:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/19_11_2024_15_00_42_2167712.jpg?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "301b495f803579e33a7876b942817b68f9a4928d",
+    "url": "https://www.devdiscourse.com/article/politics/3167767-priyanka-gandhi-vadra-takes-lead-in-wayanad-bypoll",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T03:13:00.000+02:00",
+    "title": "Priyanka Gandhi Vadra Takes Lead in Wayanad Bypoll | Politics",
+    "text": "Priyanka Gandhi Vadra Takes Lead in Wayanad Bypoll\nPriyanka Gandhi Vadra, Congress-led UDF candidate, leads by over 35,000 votes in the Wayanad Lok Sabha bypoll in Kerala. The counting of votes began at 8 am, with Priyanka in the lead according to initial reports by the Election Commission. There are 16 candidates, with Priyanka making her electoral debut.\n- Country:\n- India\nIn an electrifying political atmosphere in Wayanad, Congress-led UDF candidate Priyanka Gandhi Vadra is currently leading by over 35,000 votes after the first hour of ballot counting in the Lok Sabha bypoll, as reported by various TV channels.\nThe Election Commission confirms that Priyanka has secured a lead of 4,374 votes as the vote counting commenced at 8 am, starting with postal ballots.\nThe bypoll, contested by 16 candidates including political veterans and newcomers, saw Priyanka making her debut in the political arena against CPI(M)-led LDF's Sathyan Mokeri and BJP-headed NDA's Navya Haridas.\n(With inputs from agencies.)\nAdvertisement",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Priyanka Gandhi Vadra",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Sathyan Mokeri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Election Commission",
+                "sentiment": "none"
+            },
+            {
+                "name": "UDF",
+                "sentiment": "none"
+            },
+            {
+                "name": "NDA",
+                "sentiment": "none"
+            },
+            {
+                "name": "LDF",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Wayanad Lok",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kerala",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:46:47.515+02:00",
+    "updated": "2024-11-23T05:46:47.515+02:00"
+}

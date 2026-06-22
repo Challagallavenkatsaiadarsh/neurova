@@ -1,0 +1,110 @@
+{
+    "thread": {
+        "uuid": "6d99d8579988777f2ec2ed5e935864b671d627f0",
+        "url": "https://www.tribuneindia.com/news/punjab/congress-stand-on-adani-vindicated-warring",
+        "site_full": "www.tribuneindia.com",
+        "site": "tribuneindia.com",
+        "site_section": "https://www.tribuneindia.com/news/punjab",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news"
+        ],
+        "section_title": "Punjab News (ਪੰਜਾਬ ਖ਼ਬਰਾਂ): Latest News, Breaking News & Updates- Tribune India",
+        "title": "Congress stand on Adani vindicated: Warring - The Tribune",
+        "title_full": "Congress stand on Adani vindicated: Warring - The Tribune",
+        "published": "2024-11-23T01:50:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://publish.tribuneindia.com/wp-content/uploads/2024/11/6740c91509ce1-12211408CD-_221124_MS3_LD_PPCC-CHIEF-AMARINDER-S-RAJA-WARRING-PC.jpg",
+        "performance_score": 0,
+        "domain_rank": 4428,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6d99d8579988777f2ec2ed5e935864b671d627f0",
+    "url": "https://www.tribuneindia.com/news/punjab/congress-stand-on-adani-vindicated-warring",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Tribune News Service",
+    "published": "2024-11-23T01:50:00.000+02:00",
+    "title": "Congress stand on Adani vindicated: Warring - The Tribune",
+    "text": "Congress stand on Adani vindicated: Warring\nPunjab Pradesh Congress Committee president Amrinder Singh Raja Warring today said the indictment of Gautam Adani by the US government vindicated the Congress stand and charges against the Adani Group.\nHe said the development vindicated the Congress party’s ‘Hum Adani ke hain kaun’ campaign, which raised 100 questions about Prime Minister Narendra Modi’s close relationship with the tycoon.\n“It is evident that the institutions tasked with investigating white-collar crime — SEBI, the Enforcement Directorate, the CBI and the Income Tax Department — have not only failed to investigate Adani despite credible allegations, but have also seen their few probes halted by orders from the higher authorities,” he pointed out.\nHe alleged that these agencies had instead been misused to facilitate acquisition of airports, ports, media companies, and cement plants by Adani. “The agencies have also been weaponised to target Opposition politicians, dismantle their parties, and imprison their Chief Ministers,” he said.\nOn his expectations a day ahead of the result of the four Assembly elections tomorrow, Warring said, “I don’t want to say 4-0 like the ‘13-0’ rant of CM Bhagwant Mann Mann ahead of the last Lok Sabha elections. But I am confident that we shall be performing well.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amrinder Sin",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gautam Adani",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Tribune Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Warring\nPunjab Pradesh Congress Committee",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Enforcement Directorate",
+                "sentiment": "none"
+            },
+            {
+                "name": "Adani Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "SEBI",
+                "sentiment": "none"
+            },
+            {
+                "name": "CBI",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:20:25.727+02:00",
+    "updated": "2024-11-23T03:20:25.727+02:00"
+}

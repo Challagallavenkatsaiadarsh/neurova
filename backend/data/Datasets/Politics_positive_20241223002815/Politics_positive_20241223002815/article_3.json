@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "8409f08342a9158b3d358e1a4a49ac927cf6b2dd",
+        "url": "https://www.newsandtribune.com/news/clark-county-commissioners-approve-solar-farm-udo-amendments/article_ebd32a9a-a8d7-11ef-b848-53b743ae1fdc.html",
+        "site_full": "www.newsandtribune.com",
+        "site": "newsandtribune.com",
+        "site_section": "http://www.newsandtribune.com/search/?f=rss&t=article&c=news&l=50&s=start_time&sd=desc",
+        "site_categories": [
+            "media",
+            "entertainment"
+        ],
+        "section_title": "www.newsandtribune.com - RSS Results in news of type article",
+        "title": "Clark County Commissioners approve solar farm UDO amendments",
+        "title_full": "Clark County Commissioners approve solar farm UDO amendments",
+        "published": "2024-11-22T22:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.chicago2.vip.townnews.com/newsandtribune.com/content/tncms/assets/v3/editorial/3/c4/3c45332a-8103-11eb-a103-83ce23c34e65/6176ebd7d8999.image.jpg?crop=1067%2C560%2C553%2C16&amp;resize=1067%2C560&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 32047,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8409f08342a9158b3d358e1a4a49ac927cf6b2dd",
+    "url": "https://www.newsandtribune.com/news/clark-county-commissioners-approve-solar-farm-udo-amendments/article_ebd32a9a-a8d7-11ef-b848-53b743ae1fdc.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANDREW HARP andrew.harp@newsandtribune.com",
+    "published": "2024-11-22T22:30:00.000+02:00",
+    "title": "Clark County Commissioners approve solar farm UDO amendments",
+    "text": "JEFFERSONVILLE — The Clark County Commissioners on Thursday approved amendments made to the unified development ordinance pertaining to solar energy systems.\nAt its meeting earlier this month, the Clark County Plan Commission decided to change some aspects of the UDO for these systems, but decided to leave setbacks at 650 feet from a non-participating residential dwelling to the solar farm property on one side instead of the proposed changes that would've reduced the setbacks to as low as 400 feet.\nClark County Planning and Zoning Department Executive Director Eric Wise read seven different text amendments for the UDO that included regulations on screening, wildlife corridors and construction. Each one was unanimously approved by the commissioners.\nThere was no discussion had among the commissioners on the setbacks.\nCompanies including BrightNight and Orion Renewable Energy have been working with local landowners in rural Clark County on leases to construct solar energy farms on hundreds of acres of land.\nThe Clark County Board of Zoning Appeals denied a permit from BrightNight on Oct. 18, 2023, to develop 3,900 acres of land for a solar farm, which kickstarted meetings and a citizens advisory committee.\nAdjacent property owners have expressed criticisms and concerns about these projects, which has now led to stricter regulations for these solar energy facilities in the UDO that hadn't existed last year.\nMax Zimmerman is one of the landowners who is leasing several acres of farm land to these companies. He said there are families in the area that want to be able to afford paying taxes and other expenses on the land using income from the leases.\n\"This is a way that will help them to maintain it a little bit more easily,\" he said.\nHe said while he doesn't agree with some of the regulations, including the setbacks, he's now looking forward to moving on.\n\"We had a year to work on it, and ... it's been compromised on both sides,\" he said.\nOverall, Sandy Basham, one of the adjacent landowners who has been outspoken about her skepticism of the solar energy facilities, said she is happy with the regulations that were approved, although some things that they had asked for were not included, like 1,000-foot setbacks for schools.\n\"I think, for the most part, everybody else is happy,\" she said. However, she said not everyone will be happy with the regulations since some don't want them in the county at all.\nBasham said that the 650-foot setbacks are reasonable, and she feels more comfortable with these regulations in place and with the solar farms coming in the county.\nNow, Zimmerman said the solar companies will have to decide, once the projects are reconfigured to the new regulations, if it's still financially worth it. If it is, then they will have to begin requesting zoning changes through the BZA.\n\"I want to get this project across the finish line,\" he said.\nLike anything in the county's UDO, petitioners could ask for variances to these rules, and, if the BZA deems them reasonable, could recommend the commissioners accept them.\n\"Our biggest challenge going forward is gonna be, when a solar company makes an application and it gets approved, is them asking for variances,\" Basham said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Environment",
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": false,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Eric Wise",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Clark County Board of Zoning Appeals",
+                "sentiment": "none"
+            },
+            {
+                "name": "Orion Renewable Energy",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:01:06.059+02:00",
+    "updated": "2024-11-23T00:01:06.059+02:00"
+}

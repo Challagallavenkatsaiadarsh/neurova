@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "6095032ca4b81da8fa8e0c49805c5ab17a8bf603",
+        "url": "https://kstp.com/kstp-news/top-news/bca-agents-questioned-about-alleged-eavesdropping-witness-intimidation-in-hells-angels-case",
+        "site_full": "kstp.com",
+        "site": "kstp.com",
+        "site_section": "https://kstp.com/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "KSTP.com 5 Eyewitness News",
+        "title": "BCA agents questioned about alleged eavesdropping, witness intimidation in Hells Angels case",
+        "title_full": "BCA agents questioned about alleged eavesdropping, witness intimidation in Hells Angels case",
+        "published": "2024-11-23T01:41:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://kstp.com/wp-content/uploads/2024/11/BCA-EAVESDROPPING-FOLO_PKG_00.00.49.10.jpg",
+        "performance_score": 0,
+        "domain_rank": 7371,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6095032ca4b81da8fa8e0c49805c5ab17a8bf603",
+    "url": "https://kstp.com/kstp-news/top-news/bca-agents-questioned-about-alleged-eavesdropping-witness-intimidation-in-hells-angels-case",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Eric Rasmussen KSTP",
+    "published": "2024-11-23T01:41:00.000+02:00",
+    "title": "BCA agents questioned about alleged eavesdropping, witness intimidation in Hells Angels case",
+    "text": "BCA agents questioned about alleged eavesdropping, witness intimidation in Hells Angels case\nMembers of the Minnesota Bureau of Criminal Apprehension faced intense questioning under oath on Friday.\nThe unusual scene at the St. Louis County courthouse in Virginia was the result of allegations that agents intimidated witnesses and illegally monitored text messages and jail phone calls between inmates and their attorneys.\nThe defendants are among four members of the Hells Angels Iron Range chapter arrested last December and charged with a variety of felonies, including kidnapping, assault, and rape during an incident in Eveleth last year.\n[As 5 INVESTIGATES reported in October, a prosecutor with St. Louis County first alerted defense attorneys that law enforcement had access to privileged communications with their clients. ](https://kstp.com/kstp-news/top-news/bca-agents-accused-of-eavesdropping-on-private-calls-texts-between-jail-inmates-and-attorneys/)\nShauna Kieffer, attorney for defendant Paul Debelak, is now asking a judge to dismiss the criminal charges against him.\n“This is extreme outrageous government conduct,” Kieffer said. “There’s certain constitutional rights that protect what you say to your lawyer and part of that is the government can’t just dig through and know your strategy and have an unfair advantage.”\nDuring a hearing to consider the allegations of witness intimidation and attorney-client violations, Judge Robert Friday allowed defense attorneys to call witnesses, including BCA special agents Mike Dieter and Cory Skorczewski.\nAnother witness, Johnathon Jay Cooper, appeared remotely from prison and testified that agents pressured him to help them with their criminal investigation into the Hells Angels members.\n“They just kept trying to get me to say someone was raped and no one was raped,” Cooper said.\nOn the witness stand, Skorczewski denied threatening Cooper, but acknowledged he was previously accused of lying on a warrant application in an unrelated case in 2004.\nIn that case, the Minnesota Court of Appeals later found Skorczewski’s statements demonstrated a “reckless disregard for the truth.”\nSkorczewski declined to comment further when approached by 5 INVESTIGATES on Friday.\nIn court, he testified that he has been on leave from the BCA for the last three months.\nBoth the BCA and the St. Louis County Attorney’s Office declined to issue any statement, citing the active case.\n“The duty is to seek justice. It’s not to win at all costs because you want, of course, the truth to come forward,” Kieffer said.\nJudge Friday will take the matter under advisement after both sides file briefs in January.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Shauna Kieffer",
+                "sentiment": "none"
+            },
+            {
+                "name": "Paul Debelak",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hells Angels",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Minnesota Bureau of Criminal Apprehension",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "St. Louis County",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:51:59.938+02:00",
+    "updated": "2024-11-28T06:00:08.552+02:00"
+}

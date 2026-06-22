@@ -1,0 +1,131 @@
+{
+    "thread": {
+        "uuid": "e4a0b879885c26553f111369f967bf1fda6c7c6b",
+        "url": "https://www.cnbc.com/2024/11/22/donald-trump-chooses-hedge-fund-executive-scott-bessent-for-treasury-secretary.html",
+        "site_full": "www.cnbc.com",
+        "site": "cnbc.com",
+        "site_section": "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+        "site_categories": [
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_tw",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_kr",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "US Top News and Analysis",
+        "title": "Donald Trump chooses hedge fund executive Scott Bessent for Treasury secretary",
+        "title_full": "Donald Trump chooses hedge fund executive Scott Bessent for Treasury secretary",
+        "published": "2024-11-23T01:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://image.cnbcfm.com/api/v1/image/108060598-1731101381076-108060598-1731101306613-gettyimages-2155831262-SCOTT_BESSENT_INTERVIEW.jpeg?v=1731101396&amp;w=1920&amp;h=1080",
+        "performance_score": 0,
+        "domain_rank": 142,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e4a0b879885c26553f111369f967bf1fda6c7c6b",
+    "url": "https://www.cnbc.com/2024/11/22/donald-trump-chooses-hedge-fund-executive-scott-bessent-for-treasury-secretary.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jeff Cox",
+    "published": "2024-11-23T01:25:00.000+02:00",
+    "title": "Donald Trump chooses hedge fund executive Scott Bessent for Treasury secretary",
+    "text": "President-elect Donald Trump signaled Friday his intention to nominate hedge fund executive Scott Bessent as his Treasury secretary, in a move that puts a seasoned market pro and a close Trump loyalist in a critical economic position. The founder of Key Square Group had been considered a strong favorite for the position along with a few other close contenders including former Fed Governor Kevin Warsh and private equity executive Marc Rowan. As head of Treasury, Bessent, 62, will be both the U.S. fiscal watchdog as well as a key official to help Trump enact his ambitious economic agenda. Both a Wall Street heavyweight and advocate for many of the incoming president's economic goals, he would come to office at a critical time as the U.S. wrestles with a growing economy alongside long-festering debt and deficit issues. Trump in a statement called the prospective nominee \"one of the World's foremost International Investors and Geopolitical and Economic Strategists. Scott's story is that of the American Dream.\" Like Trump, Bessent favors gradual tariffs and deregulation to push American business and control inflation. In addition, he has advocated for a revival in manufacturing as well as energy independence. \"If you're going to think about the market and think about what matters, the guy is brilliant,\" said a source familiar with Trump's thinking who spoke on condition of anonymity to talk frankly about the matter. \"There aren't many people who know the market better than Bessent does.\" The prospective nominee also has deep philanthropic ties through Yale University along with Rockefeller University and the Classical American Homes Preservation Trust. One obstacle Bessent will have to overcome is his past affiliation with billionaire investor and global progressive gadfly George Soros. He served as chief investment officer for Soros' fund. Trump, though, said Bessent \"will support my Policies that will drive U.S. competitiveness, and stop unfair Trade imbalances.\" Trump's decision to name Bessent to the key position follows a week of intense speculation about who would win out. Over the past day, the Wall Street Journal posted a report suggesting that Warsh could get the job , then work there until mid-2026 when he would slide over to the Federal Reserve and take the chair at the central bank after Jerome Powell's term expires. Putting Bessent in the Treasury job could then clear the way for Warsh eventually to take over at the Fed, though he also is thought to be a contender to head the National Economic Council. The Treasury secretary is the lynchpin for the White House economic agenda. Bessent will be Trump's key advisor on fiscal issues while managing a financial situation that has seen debt and deficits swell in recent years. The U.S. has a total debt of more than $36 trillion , of which $28.7 trillion is owed by the public. The deficit is expected again to approach $2 trillion in fiscal 2025, with debt service payments projected around $1.2 trillion. In addition, he will be responsible for helping to supervise financial institutions and lead the battle against financial crimes. He would replace outgoing Secretary Janet Yellen, who had previously served as Fed chair, the first woman ever to assume either role. Not everybody around Trump has been happy with his interest in Bessent. Trump confidante Elon Musk last week endorsed Cantor Fitzgerald chief Howard Lutnick. Others close to the president-elect think Bessent has not been rigorous enough in his support for tariffs, though Warsh also has made public statements against the levies.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Besse",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bessent",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Rockefeller University",
+                "sentiment": "none"
+            },
+            {
+                "name": "Key Square Group",
+                "sentiment": "none"
+            },
+            {
+                "name": "Yale University",
+                "sentiment": "none"
+            },
+            {
+                "name": "NBC News",
+                "sentiment": "none"
+            },
+            {
+                "name": "Treasury",
+                "sentiment": "none"
+            },
+            {
+                "name": "CNBC",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:33:44.822+02:00",
+    "updated": "2024-11-23T12:19:09.268+02:00"
+}

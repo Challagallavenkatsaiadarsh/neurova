@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "0d33777021b2fa6588c12232ee04c8f0baabca5d",
+        "url": "https://matzav.com/school-choice-north-carolina-house-senate-override-governors-veto-on-school-voucher-bill",
+        "site_full": "matzav.com",
+        "site": "matzav.com",
+        "site_section": "https://matzav.com/category",
+        "site_categories": [
+            "religion",
+            "judaism"
+        ],
+        "section_title": "Category 5 Hurricane Maria Is A Severe Threat To The Caribbean, Puerto Rico; Jose To Scrape Northeast Coast | Matzav.com",
+        "title": "SCHOOL CHOICE: North Carolina House, Senate Override Governor’s Veto on School Voucher Bill | Matzav.com",
+        "title_full": "SCHOOL CHOICE: North Carolina House, Senate Override Governor’s Veto on School Voucher Bill | Matzav.com",
+        "published": "2024-11-23T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 114013,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0d33777021b2fa6588c12232ee04c8f0baabca5d",
+    "url": "https://matzav.com/school-choice-north-carolina-house-senate-override-governors-veto-on-school-voucher-bill",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T07:00:00.000+02:00",
+    "title": "SCHOOL CHOICE: North Carolina House, Senate Override Governor’s Veto on School Voucher Bill | Matzav.com",
+    "text": "The North Carolina House of Representatives voted 72-44 on Nov. 19 to reverse Gov. Roy Cooper’s veto of legislation to expand access to private education.\nThe state Senate approved the override of the veto by a 30-19 vote on Nov. 20.\nRabbi Ari Weisenfeld, associate national director of state relations for Agudath Israel of America, told JNS: “This veto override demonstrates what Agudath Israel is seeing across the country—parents are demanding education options and lawmakers are responding.”\nHouse Bill 10 would increase funding for the state’s Opportunity Scholarship school voucher program by $463.5 million. It passed the state House and Senate largely along party lines in September. Cooper vetoed the bill a week later.\n“This is great news for North Carolina families,” Jason Bedrick, a research fellow at the Heritage Foundation’s Center for Education Policy, told JNS. “By overriding Governor Cooper’s veto, the Republican-controlled legislature is empowering North Carolina families to choose the schools that align with their values and work best for their children.”\nThrough the increased funding, the legislation would clear a waiting list of students seeking a scholarship to attend a private school. It will also provide the program with more than $2 billion over the next decade.\n“There are more than 54,000 students on the waitlist for an Opportunity Scholarship, showing just how popular school choice is among families,” Bedrick said. “The legislature has now provided the funding to clear that waitlist, ensuring that every student gets access to greater education opportunities.”\n(JNS)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Education",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Roy Cooper",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ari Weisenfeld",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jason Bedrick",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "North Carolina House",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            },
+            {
+                "name": "Heritage Foundation’s Center for Education Policy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Agudath Israel of America",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T03:28:29.812+02:00",
+    "updated": "2024-11-24T03:28:29.812+02:00"
+}

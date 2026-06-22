@@ -1,0 +1,204 @@
+{
+    "thread": {
+        "uuid": "5edb324acf7e5a0a39f8a311492368aee069ed45",
+        "url": "https://www.yourobserver.com/news/2024/nov/22/pines-wit-wisdom-luncheon",
+        "site_full": "www.yourobserver.com",
+        "site": "yourobserver.com",
+        "site_section": "https://yourobserver.com/news/health",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Health | Your Observer",
+        "title": "Guests gather pearls of wisdom at Pines' annual Wit and Wisdom luncheon",
+        "title_full": "Guests gather pearls of wisdom at Pines' annual Wit and Wisdom luncheon",
+        "published": "2024-11-22T23:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://media.yourobserver.com/img/photos/2024/11/22/0002_r1080x720.jpg?a5a8e335434cfe3a93dc299de6ea435221e0bf0d",
+        "performance_score": 0,
+        "domain_rank": 48521,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5edb324acf7e5a0a39f8a311492368aee069ed45",
+    "url": "https://www.yourobserver.com/news/2024/nov/22/pines-wit-wisdom-luncheon",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Lori Sax",
+    "published": "2024-11-22T23:56:00.000+02:00",
+    "title": "Guests gather pearls of wisdom at Pines' annual Wit and Wisdom luncheon",
+    "text": "Loading\nTyler Ward, Elise Aubourg, David Anthony and Vickie Ward\nPines President and CEO Mike Ward with Vickie Ward\nKim and Chris LeClair with Dawn Lansing\nEvent Moderator Ray Collins and Robyn Marinelli\nHelen Kuenzner, Donna Albano and Jodi Jackson\nRichard Pocker and Marilynn Petrillo\nJohn Stephens, Stacey Maloney and Craig McCoy\nBernitha Celestin and Lisa MacBlane\nSusan and Jim Tollerton\nMaggie Moffitt and Eddie Morton\nRandy Kaak, Linda Long, Julie Harris and JoAnn Burhart\nRay Collins and Erin Hurter\nAmanda Harrison and Mark Freeman\nLarry and Marie Bowman\nDiana Correa and Jack Pilkington\nJacki Boedecker and Kathy Seider\nBetsy and Tom Marshall and Cheryl Gordon\nJack and Nancy Rozance with Mark Midyett\nCharlie Bailey and Rae Dowling\nJim Hunter and Booker Rice\nGregory Matthews and Jane Hunder\nEvent Chair John Schaub\nBoard member Lisa Keverian-Press adresses the guests.\nMike Ward, president and CEO of the Pines of Sarasota, gives opening remarks at the luncheon.\nAnne Hryniewicz shares her mother's experiences at the Pines.\nThe Pines of Sarasota Foundation President Andrea Stephens speaks at the luncheon.\nThe Wit and Wisdom Panel included Rick Piccolo, Rae Dowling and Dan Bailey, with Ray Collins moderating.\nWhat: Wit & Wisdom of Aging Luncheon\nBenefiting: The Pines of Sarasota Foundation\nWhen: Nov. 20\nWhere: Michael's On East",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Social Issue",
+        "Human Interest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "David Anthony",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mike Ward",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Elise Aubourg",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Tyler Ward",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Jack Pilkington\nJacki Boedecker",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marilynn Petrillo\nJohn Stephens",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robyn Marinelli\nHelen Kuenzner",
+                "sentiment": "none"
+            },
+            {
+                "name": "Craig McCoy\nBernitha Celestin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jim Tollerton\nMaggie Moffitt",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Midyett\nCharlie Bailey",
+                "sentiment": "none"
+            },
+            {
+                "name": "Erin Hurter\nAmanda Harrison",
+                "sentiment": "none"
+            },
+            {
+                "name": "Jodi Jackson\nRichard Pocker",
+                "sentiment": "none"
+            },
+            {
+                "name": "Marie Bowman\nDiana Correa",
+                "sentiment": "none"
+            },
+            {
+                "name": "JoAnn Burhart\nRay Collins",
+                "sentiment": "none"
+            },
+            {
+                "name": "Eddie Morton\nRandy Kaak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Rae Dowling\nJim Hunter",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lisa MacBlane\nSusan",
+                "sentiment": "none"
+            },
+            {
+                "name": "Lisa Keverian-Press",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mark Freeman\nLarry",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kathy Seider\nBetsy",
+                "sentiment": "none"
+            },
+            {
+                "name": "Cheryl Gordon\nJack",
+                "sentiment": "none"
+            },
+            {
+                "name": "Andrea Stephens",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vickie Ward\nKim",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anne Hryniewicz",
+                "sentiment": "none"
+            },
+            {
+                "name": "Stacey Maloney",
+                "sentiment": "none"
+            },
+            {
+                "name": "Chris LeClair",
+                "sentiment": "none"
+            },
+            {
+                "name": "Nancy Rozance",
+                "sentiment": "none"
+            },
+            {
+                "name": "Tom Marshall",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donna Albano",
+                "sentiment": "none"
+            },
+            {
+                "name": "Julie Harris",
+                "sentiment": "none"
+            },
+            {
+                "name": "Linda Long",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Jane Hunder\nEvent Chair John Schaub\nBoard",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pines of Sarasota Foundation",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:13:55.579+02:00",
+    "updated": "2024-11-23T02:13:55.579+02:00"
+}

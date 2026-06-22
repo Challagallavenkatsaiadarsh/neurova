@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "184926fcadb0e2e491b4208bf3541bc7ef44b1a8",
+        "url": "https://futurism.com/the-byte/donald-trump-ignoring-elon-musk",
+        "site_full": "futurism.com",
+        "site": "futurism.com",
+        "site_section": "http://futurism.com/feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Futurism",
+        "title": "Donald Trump Is Already Ignoring Elon Musk's Suggestions",
+        "title_full": "Donald Trump Is Already Ignoring Elon Musk's Suggestions",
+        "published": "2024-11-22T22:16:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://wordpress-assets.futurism.com/2024/11/donald-trump-ignoring-elon-musk.jpg",
+        "performance_score": 0,
+        "domain_rank": 2110,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 16,
+                "comments": 21,
+                "shares": 1
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "184926fcadb0e2e491b4208bf3541bc7ef44b1a8",
+    "url": "https://futurism.com/the-byte/donald-trump-ignoring-elon-musk",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ashley Bardhan",
+    "published": "2024-11-22T22:16:00.000+02:00",
+    "title": "Donald Trump Is Already Ignoring Elon Musk's Suggestions",
+    "text": "Win Some, Lose Some Donald Trump Is Already Ignoring Elon Musk's Suggestions by Ashley Bardhan Better luck next time. Nov 22, 3:16 PM EST Brandon Bell via Getty Better luck next time. Writing on the Wall These days, it feels like everyone's trying to figure out how long Elon Musk and Donald Trump's new bromance could possibly last. The latest datapoint, make of it what you will. The president-elect is already disregarding some of Musk's suggestions.\n\"While I have offered my opinion on some cabinet candidates,\" Musk wrote on X-formerly-Twitter , \"many selections occur without my knowledge, and decisions are 100 percent that of the President.\"\nIn case you're wondering, Musk — who shoveled a stomach-churning $200 million into Trump's reelection efforts — is acting like he's totally unbothered by that emerging dynamic.\n\"I really enjoy spending time with President @realDonaldTrump,\" he wrote. \"Haven’t seen him do one bad thing even once.\" But groveling didn't save Trump's former soulmate, Steve Bannon, from being abruptly fired after Trump got sick of playing with him.\nBreakup Text It's unlikely that fawning would protect Musk, either. Especially since he's pairing his sycophantic enthusiasm for Trump with several hard shoves to make the future president do what he wants.\n\"Elon Musk... and other tech leaders are influencing Trump's preparations for his second term, something which no other business leaders have been able to do at this level in past presidential elections,\" Trump's former chief of staff Mick Mulvaney told his lobbying clients in a new presentation, the New York Times reports .\nThat tracks, given Musk's maybe inept, maybe tyrannical Department of Government Efficiency (DOGE), as well as Trump's awkward recent appearance at a SpaceX launch . Trump has trouble even typing , so it seems likely that his sudden interest in the tech execs of the world does stem from his relationship with Musk.\nBut surrounded by irritated Trump staffers , Musk is learning that his influence has hard boundaries. As he acknowledged in his X post, and according to the New York Times , the billionaire has made multiple, sometimes public pleas for cabinet members that have gone unheard.\nAs the richest person in the world, Musk wields undeniable power — but it's no match for a hotheaded Trump.\nMore on Musk: Elon Musk's Diablo IV Build May Only Look Good Because He's Great At Exploiting Loopholes\nShare This Article",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Steve Bannon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:16:07.029+02:00",
+    "updated": "2024-11-23T01:23:20.612+02:00"
+}

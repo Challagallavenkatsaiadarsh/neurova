@@ -1,0 +1,78 @@
+{
+    "thread": {
+        "uuid": "624efaf0ec5785c596ad98493c020c76e601b9fd",
+        "url": "https://www.thestar.com.my/news/nation/2024/11/23/sabah-keen-on-chinese-investment-in-blue-economy-sector-says-hajiji",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Sabah keen on Chinese investment in Blue Economy sector, says Hajiji",
+        "title_full": "Sabah keen on Chinese investment in Blue Economy sector, says Hajiji",
+        "published": "2024-11-23T05:04:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/23/3031786.jpg",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "624efaf0ec5785c596ad98493c020c76e601b9fd",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/23/sabah-keen-on-chinese-investment-in-blue-economy-sector-says-hajiji",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "KRISTY INUS",
+    "published": "2024-11-23T05:04:00.000+02:00",
+    "title": "Sabah keen on Chinese investment in Blue Economy sector, says Hajiji",
+    "text": "By KRISTY INUS Sabah & Sarawak Saturday, 23 Nov 2024\n11:04 AM MYT Related News Sabah & Sarawak 20h ago Sabah adopts new law to regulate Islamic adoptions Sabah & Sarawak 23h ago Sabah's location makes it ideal choice for China investors, says Deputy CM Sabah & Sarawak 19h ago All eyes on who will be Sabah's next Yang di-Pertua with Juhar's term ending Dec 31 KOTA KINABALU: Sabah is keen to see Chinese investors explore new opportunities in the state's Blue Economy sector, says Chief Minister Datuk Seri Hajiji Noor.\nHe said the initiative offers immense investment opportunities in fisheries and aquaculture, logistics, tourism, renewable energy, mineral resources, biotechnology and pharmaceuticals.\n“We are pleased that Sabah has remained a sought-after destination for China visitors, both for leisure and for business.\n“Sabah’s exports to China amounted to RM7.6bil or 19.5% of the state’s total exports in 2023 with key exports including palm oil, timber, seafood, and rubber while imports included machinery, electronics, and various manufactured goods,” he said after officiating at the Malaysia (Sabah)-China Business Summit on Friday (Nov 22) night.\nHis speech was delivered by Deputy Chief Minister Datuk Seri Dr Joachim Gunsalam.\nThe Blue Economy is an initiative that promotes sustainable practices in using ocean resources for economic growth, comprising four main components namely harvesting of living resources, extraction of non-living resources, commerce and trade in and around the oceans; and response to ocean and river health challenges.\nHajiji said there were also opportunities to explore under the Blue Carbon initiative, waste management and pollution control, research and development, and marine infrastructure.\n“We see vast potential in green technology and high-tech agriculture, smart cities, manufacturing, renewable energy, e-commerce and education.\n“Similarly, the energy sector presents significant opportunities while oil and gas (O&G) remain important revenue streams for Sabah. We welcome investors to also explore solar and storage technologies, hydro, geothermal, and carbon market opportunities,\" he added.\nHajiji said that Chinese investments in the Kota Kinabalu Industrial Park (KKIP) have created jobs and spurred economic growth particularly in solar glass, food, and rubber manufacturing.\n\"We welcome advanced technologies like drones to optimise logistics and manufacturing while exploring other sectors to drive sustainable economic development,\" he added.\nTo ensure a skilled workforce, Hajiji said the state government also encouraged partnerships for twinning programmes and cultural exchanges.\n“We aim to promote joint educational programmes and cultural exchanges that will build bridges of trust and understanding between the people of Sabah and China,\" he added.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = ' Already a subscriber? Log in . Subscribe or renew your subscriptions to win prizes worth up to RM68,000! Monthly Plan RM13.90/month\nSubscribe Annual Plan RM12.33/month\nBilled as RM148.00/year\nSubscribe 1 month Free Trial\nFor new subscribers only\nSubscribe",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://whatsapp.com/channel/0029Va5zqNVLCoWsM8VWSc2k",
+        "https://www.whatsapp.com/channel/0029Va5zqNVLCoWsM8VWSc2k"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:47:20.476+02:00",
+    "updated": "2024-11-23T06:02:05.131+02:00"
+}

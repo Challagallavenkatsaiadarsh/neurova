@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "c60e695aaaa4604001986a1e63b2c78e24f4f568",
+        "url": "https://punchng.com/punch-journalists-nominated-for-african-media-awards",
+        "site_full": "punchng.com",
+        "site": "punchng.com",
+        "site_section": "https://punchng.com/photos-of-stella-obasanjo-maryam-babangida-with-foreign-vips-spark-debate",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Photos of Stella Obasanjo, Maryam Babangida with foreign VIPs spark debate",
+        "title": "PUNCH journalists nominated for African media awards",
+        "title_full": "PUNCH journalists nominated for African media awards",
+        "published": "2024-11-23T00:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://cdn.punchng.com/wp-content/uploads/2024/11/22230538/duo.jpg",
+        "performance_score": 0,
+        "domain_rank": 6171,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "c60e695aaaa4604001986a1e63b2c78e24f4f568",
+    "url": "https://punchng.com/punch-journalists-nominated-for-african-media-awards",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Olayiwola Ajisafe",
+    "published": "2024-11-23T00:06:00.000+02:00",
+    "title": "PUNCH journalists nominated for African media awards",
+    "text": "Two PUNCH journalists, Olugbon Saheed and Segun Odunayo, have been nominated for the 2024 Journalists of the Year Award by the Africa Media Development Foundation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Human Interest",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:25:54.943+02:00",
+    "updated": "2024-11-23T03:33:26.365+02:00"
+}

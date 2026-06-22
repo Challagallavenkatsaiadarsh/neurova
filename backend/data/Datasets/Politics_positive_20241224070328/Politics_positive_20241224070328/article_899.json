@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "fad710af65167a88f292d5bd9ddcaf075c3fa819",
+        "url": "https://www.aa.com.tr/en/americas/uk-france-germany-us-welcome-un-nuclear-watchdog-s-board-resolution-on-irans-safeguards-agreements/3402526",
+        "site_full": "www.aa.com.tr",
+        "site": "aa.com.tr",
+        "site_section": "https://www.aa.com.tr/en/rss/default?cat=live",
+        "site_categories": [
+            "media",
+            "top_news_iq",
+            "top_news_tr",
+            "top_news"
+        ],
+        "section_title": "Anadolu Ajansı Güncel Haberler",
+        "title": "UK, France, Germany, US welcome UN nuclear watchdog’s board resolution on Iran's Safeguards Agreements",
+        "title_full": "UK, France, Germany, US welcome UN nuclear watchdog’s board resolution on Iran's Safeguards Agreements",
+        "published": "2024-11-24T04:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "TR",
+        "main_image": "https://cdnuploads.aa.com.tr/uploads/Contents/2024/11/24/thumbs_b_c_de0b1cdb47e1c15cbb4ee6b7535786aa.jpg?v=082230",
+        "performance_score": 0,
+        "domain_rank": 1762,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fad710af65167a88f292d5bd9ddcaf075c3fa819",
+    "url": "https://www.aa.com.tr/en/americas/uk-france-germany-us-welcome-un-nuclear-watchdog-s-board-resolution-on-irans-safeguards-agreements/3402526",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T04:22:00.000+02:00",
+    "title": "UK, France, Germany, US welcome UN nuclear watchdog’s board resolution on Iran's Safeguards Agreements",
+    "text": "World,\nAmericas,\nMiddle East,\nEurope\nUK, France, Germany, US welcome UN nuclear watchdog’s board resolution on Iran's Safeguards Agreements\nIran announced activation of new, advanced centrifuges in response to resolution passed by IAEA’s board\nISTANBUL\nThe UK, France, Germany and the US welcomed Saturday the adoption of an International Atomic Energy Agency (IAEA) Board of Governors resolution on Iran's Safeguards Agreements.\n\"The resolution responds to Iran’s continued failure to provide the IAEA the information and cooperation needed to clarify long outstanding issues relating to undeclared nuclear material detected at multiple locations in Iran,\" according to a statement from the quad group. \"These issues are central to the Agency’s ability to provide assurance of the exclusively peaceful nature of Iran’s nuclear programme.\"\nUnder the Nuclear Non-Proliferation Treaty (NPT) Safeguards Agreement, Iran is legally required to cooperate with the IAEA and provide a complete account of all nuclear materials and activities, it said.\n\"We expect Iran to reengage on the path of dialogue and cooperation with the Agency,\" it added.\nIran announced Friday the activation of new and advanced centrifuges in response to the latest resolution passed by the board of the UN nuclear watchdog.\nA statement by Iran's Foreign Ministry and the Atomic Energy Organization of Iran said the nuclear body chief has ordered \"effective measures\" in response to the new IAEA resolution.\nThe measures include deploying a \"significant range of new and advanced centrifuges of various types.\"\nAnadolu Agency website contains only a portion of the news stories offered to subscribers in the AA News Broadcasting System (HAS), and in summarized form. Please contact us for subscription options.\nUK, France, Germany, US welcome UN nuclear watchdog’s board resolution on Iran's Safeguards Agreements\nTens of thousands of homes without power as severe weather strikes England, Wales\nTurkish, Russian foreign ministers discuss bilateral relations over phone\nİstanbul Photo Awards provides extra motivation to document what is happening in world: Young Photographer Award winner\nMorning Briefing: Nov. 23, 2024\nRelated news",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "UN",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "International Atomic Energy Agency",
+                "sentiment": "none"
+            },
+            {
+                "name": "IAEA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Middle East",
+                "sentiment": "none"
+            },
+            {
+                "name": "Americas",
+                "sentiment": "none"
+            },
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T07:34:32.957+02:00",
+    "updated": "2024-11-24T07:34:32.957+02:00"
+}

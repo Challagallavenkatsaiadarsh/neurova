@@ -1,0 +1,119 @@
+{
+    "thread": {
+        "uuid": "bf3a4f6724398d8d4c915c6bfe7f5da1679736d7",
+        "url": "https://news.bloomberglaw.com/health-law-and-business/trump-builds-health-team-with-fda-surgeon-general-picks",
+        "site_full": "news.bloomberglaw.com",
+        "site": "bloomberglaw.com",
+        "site_section": "https://news.bloomberglaw.com",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Bloomberg Law News",
+        "title": "Trump Builds Health Team With FDA, Surgeon General Picks",
+        "title_full": "Trump Builds Health Team With FDA, Surgeon General Picks",
+        "published": "2024-11-23T04:05:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+        "performance_score": 0,
+        "domain_rank": 2125,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bf3a4f6724398d8d4c915c6bfe7f5da1679736d7",
+    "url": "https://news.bloomberglaw.com/health-law-and-business/trump-builds-health-team-with-fda-surgeon-general-picks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "John Tozzi",
+    "published": "2024-11-23T04:05:00.000+02:00",
+    "title": "Trump Builds Health Team With FDA, Surgeon General Picks",
+    "text": "- Surgeon and author Marty Makary nominated for FDA head\n- Fox News contributor Janette Nesheiwat to be Surgeon General\nPresident-elect\n“I am confident that Dr. Makary, having dedicated his career to High-Quality, Lower-Cost Care, will restore FDA to the Gold Standard of Scientific Research, and cut the bureaucratic red tape at the Agency to make sure Americans get the Medical Cures and Treatments they deserve,” Trump said in a release Friday.\nMakary, a pancreatic surgeon at Johns Hopkins Medicine, has had a long career as a health researcher, writing about hospital safety and quality and health-care prices. He gained prominence in recent years after questioning public health authorities and the medical establishment about Covid boosters and mask mandates. Bloomberg News reported late Wednesday that he was the leading candidate to run the agency.\n“A golden age of transparency, innovation, and efficiency coming to the FDA,” Calley Means, a top advisor to Robert F. Kennedy Jr., said in a post on X. Trump nominated Kennedy to be head of Health and Human Services.\nIf confirmed, Makary would lead an around $7 billion agency that’s considered the gold standard among the world’s top authorities for judging the safety and efficacy of medicines. The commissioner has the ultimate power at the agency to override decisions they disagree with, though they have rarely done that.\nRead More:\nMakary has defended [Fox News](https://www.foxnews.com/video/6364826272112) recently, he asked people to disregard Kennedy’s record of promoting debunked theories that vaccines cause autism and praised his focus on chronic diseases.\n“Think Makary will be fine for the sector and is clearly pro-science/innovation etc.,” Mizuho’s Jared Holz said in a note prior to the announcement.\nLike Kennedy, Makary has been critical of highly processed foods and in a September [post](https://x.com/MartyMakary/status/1839368726245978593) on X said that “we have poisoned the food supply for our nation’s children.” As FDA commissioner, he would oversee food safety, along with drug approvals, medical devices and tobacco regulation.\nIn a 2021 Fox News [column](https://www.foxnews.com/opinion/fda-leadership-marty-makary), he called for new leadership at the FDA to “change the culture at the agency and promote scientific advancement, not hinder it.” Among his critiques, Makary called for the agency to move faster to approve novel medicines and adapt more quickly to new evidence.\nOn Friday, Trump also nominated Janette Nesheiwat to be US Surgeon General. In a statement, Trump called Nesheiwat “a fierce advocate and strong communicator for preventative medicine and public health.”\n“She is committed to ensuring that Americans have access to affordable, quality healthcare, and believes in empowering individuals to take charge of their health to live longer healthier lives,” Trump said.\nNesheiwat has been a Fox News contributor and says on her website that she’s a board-certified medical doctor and medical news correspondent. She’s the author of the forthcoming book “Beyond the Stethoscope: Miracles in Medicine,” which includes stories that “illuminate the transformative power of prayer and unwavering dedication to healing and service,” according to the publisher’s website.\nTo contact the reporters on this story:[jtozzi2@bloomberg.net](mailto:jtozzi2@bloomberg.net);[mmuller84@bloomberg.net](mailto:mmuller84@bloomberg.net);[gsmith233@bloomberg.net](mailto:gsmith233@bloomberg.net)\nTo contact the editors responsible for this story:[ckoons@bloomberg.net](mailto:ckoons@bloomberg.net)\nMichelle Fay Cortez\n© 2024 Bloomberg L.P. All rights reserved. Used with permission.\nLearn more about Bloomberg Law or Log In to keep reading:\nLearn About Bloomberg Law\nAI-powered legal analytics, workflow tools and premium legal & business news.\nAlready a subscriber?\nLog in to keep reading or access research tools.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Health",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.foxnews.com/video/6364826272112",
+        "https://x.com/MartyMakary/status/1839368726245978593",
+        "https://www.foxnews.com/opinion/fda-leadership-marty-makary",
+        "https://foxnews.com/opinion/fda-leadership-marty-makary",
+        "https://foxnews.com/video/6364826272112",
+        "https://www.x.com/MartyMakary/status/1839368726245978593"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Janette Nesheiwat",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Marty Makary",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Robert F. Kennedy Jr.",
+                "sentiment": "none"
+            },
+            {
+                "name": "Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "FDA",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Fox News",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gold Standard of Scientific Research",
+                "sentiment": "none"
+            },
+            {
+                "name": "Health and Human Services",
+                "sentiment": "none"
+            },
+            {
+                "name": "Johns Hopkins Medicine",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bloomberg News",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "bf3a4f6724398d8d4c915c6bfe7f5da1679736d7",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:36:45.442+02:00",
+    "updated": "2024-11-23T04:36:45.442+02:00"
+}

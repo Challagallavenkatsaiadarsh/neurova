@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "8a8d561ac46b6ccb6c51d2601e5128612bb970f8",
+        "url": "https://www.wboc.com/news/us-wind-donations-to-maryland-coastal-bays-program-get-called-into-question/article_a7c63146-a925-11ef-97d2-8721c875ad06.html",
+        "site_full": "www.wboc.com",
+        "site": "wboc.com",
+        "site_section": "https://wboc.com",
+        "site_categories": [
+            "vehicles"
+        ],
+        "section_title": "WBOC TV | Delmarva's News Leader",
+        "title": "US Wind Donations to Maryland Coastal Bays Program get Called Into Question | Latest News | wboc.com",
+        "title_full": "US Wind Donations to Maryland Coastal Bays Program get Called Into Question | Latest News | wboc.com",
+        "published": "2024-11-22T15:01:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/wboc.com/content/tncms/assets/v3/editorial/a/a5/aa5983d4-a927-11ef-8e16-bb3281178f3f/674110a399989.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 17511,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8a8d561ac46b6ccb6c51d2601e5128612bb970f8",
+    "url": "https://www.wboc.com/news/us-wind-donations-to-maryland-coastal-bays-program-get-called-into-question/article_a7c63146-a925-11ef-97d2-8721c875ad06.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Kyle Orens",
+    "published": "2024-11-22T15:01:00.000+02:00",
+    "title": "US Wind Donations to Maryland Coastal Bays Program get Called Into Question | Latest News | wboc.com",
+    "text": "WORCESTER COUNTY, Md. -- The Maryland Coastal Bays Program hopes to secure a multi-million dollar grant from the state of Maryland. However, when it asked Worcester County Commissioners for a letter of support, the conversation sharply turned towards offshore wind.\nCBP is seeking the roughly $20 million grant from Maryland's Department of Natural Resources for projects in Newport Bay, which consistently scores the lowest in the Maryland Coastal Bays report card.\nThe request sparked questions about past donations the CBP received from US Wind.\nCBP Executive Director Kevin Smith told commissioners that the organization received a total of $125,000 from US Wind over the past three years. According to Smith, the money came with no strings attached.\n\"Our intention with that money was to put it towards bird habitat conservation in the coastal bays and that's what we did with it,\" said Smith.\nCommissioner Ted Elder views the donations differently.\n\"It sounds to me like that was a payoff to keep you neutral,\" said Elder.\nAs Elder just referenced, the CBP has not taken a stance for or against US Wind's proposed project off the coast of Delmarva. Now, the organization does not have any authority over that project. However, it still struck a chord with Worcester County leaders.\n\"Sold their soul to the devil is the statement I made and I stand by that,\" said Elder when we spoke with him on Friday.\nCommissioners Eric Fiori and Diana Purnell both made motions to approve the letter of support; however, it was not passed .\n\"Balls in their[CBP] court,\" said Elder. \"If they come and support us in our opposition to these windmills I think we can go back to our great working relationship again .\"\nSmith told us on Friday that the CBP board is discussing its stance on US Wind's project. He also said the program plans to go before commissioners again before the grant application deadline on December 3rd .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kevin Smith",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ted Elder",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Maryland Coastal Bays Program",
+                "sentiment": "negative"
+            },
+            {
+                "name": "CBP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "COUNTY",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:48:32.011+02:00",
+    "updated": "2024-11-28T04:54:32.499+02:00"
+}

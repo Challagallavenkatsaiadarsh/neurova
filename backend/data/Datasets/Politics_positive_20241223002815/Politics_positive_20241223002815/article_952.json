@@ -1,0 +1,100 @@
+{
+    "thread": {
+        "uuid": "0a801a43d46916b29295e69672d47d17f9e65295",
+        "url": "https://www.devdiscourse.com/article/politics/3167769-aap-candidate-leads-in-barnala-bypoll-surprises",
+        "site_full": "www.devdiscourse.com",
+        "site": "devdiscourse.com",
+        "site_section": "https://devdiscourse.com/news-analysis",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Breaking News, Development News, Latest News, Politics News, Sports News | Devdiscourse",
+        "title": "AAP Candidate Leads in Barnala Bypoll Surprises | Politics",
+        "title_full": "AAP Candidate Leads in Barnala Bypoll Surprises | Politics",
+        "published": "2024-11-23T03:17:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/aiimagegallery/07_07_2024_13_28_42_2860273.png?width=920&format=jpeg",
+        "performance_score": 0,
+        "domain_rank": 9543,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0a801a43d46916b29295e69672d47d17f9e65295",
+    "url": "https://www.devdiscourse.com/article/politics/3167769-aap-candidate-leads-in-barnala-bypoll-surprises",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Devdiscourse News Desk",
+    "published": "2024-11-23T03:17:00.000+02:00",
+    "title": "AAP Candidate Leads in Barnala Bypoll Surprises | Politics",
+    "text": "AAP Candidate Leads in Barnala Bypoll Surprises\nIn the Barnala assembly bypoll, AAP candidate Harinder Singh Dhaliwal is leading over Congress' Kuldeep Singh Dhillon by 634 votes. The vote counting for this and other Punjab assembly segments began on Saturday morning. Bypolls were necessary after legislators moved to Lok Sabha.\n- Country:\n- India\nIn the latest updates from the Barnala assembly bypoll, Aam Aadmi Party's Harinder Singh Dhaliwal is leading against Congress candidate Kuldeep Singh Dhillon, with a margin of 634 votes. This comes as part of the initial trends observed on polling day.\nThe counting, which started sharply at 8 am on Saturday, has placed BJP's Kewal Dhillon in third position, marking an intense competition among the major parties vying for control in the assembly.\nThe bypolls, conducted in Barnala, along with Gidderbaha, Dera Baba Nanak, and Chabbewal (SC) segments, became necessary following the election of the incumbent legislators to the Lok Sabha earlier this year.\n(With inputs from agencies.)\nALSO READ\n[Republicans On Track for Congressional Dominance](/article/politics/3149624-republicans-on-track-for-congressional-dominance)[Republican Surge: Trump’s Party Eyes Total Congress Control](/article/politics/3149616-republican-surge-trumps-party-eyes-total-congress-control)[BJP MLA Calls for Nationalization of Waqf Properties in Karnataka Amid Land Controversy](/article/headlines/3149660-bjp-mla-calls-for-nationalization-of-waqf-properties-in-karnataka-amid-land-controversy)[BJP MP Tejasvi Surya Booked for Spreading Alleged Fake News](/article/law-order/3149665-bjp-mp-tejasvi-surya-booked-for-spreading-alleged-fake-news)[Political Tensions Flare as Vijayan Challenges Congress Over Jamaat-e-Islami Links](/article/politics/3149644-political-tensions-flare-as-vijayan-challenges-congress-over-jamaat-e-islami-links)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Harinder Singh Dhaliwal",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kuldeep Singh Dhillon",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dera Baba Nanak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Kewal Dhillon",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Punjab",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:52:21.653+02:00",
+    "updated": "2024-11-23T05:52:21.653+02:00"
+}

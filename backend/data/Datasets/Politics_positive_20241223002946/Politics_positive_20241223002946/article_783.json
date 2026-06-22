@@ -1,0 +1,90 @@
+{
+    "thread": {
+        "uuid": "19b24cae50af2f1f7e39e5f15b4d049d0c6d5265",
+        "url": "https://www.irishexaminer.com/news/spotlight/arid-41520689.html",
+        "site_full": "www.irishexaminer.com",
+        "site": "irishexaminer.com",
+        "site_section": "https://www.irishexaminer.com",
+        "site_categories": [
+            "tech",
+            "top_news_ie",
+            "top_news"
+        ],
+        "section_title": "Irish Examiner",
+        "title": "Election 2024: Childcare in Sweden — Roscommon native pays €110 a month for two kids",
+        "title_full": "Election 2024: Childcare in Sweden — Roscommon native pays €110 a month for two kids",
+        "published": "2024-11-23T04:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IE",
+        "main_image": "https://www.irishexaminer.com/cms_media/module_img/8774/4387016_13_seoimageog_Maj_20Britt_2c_20Florentin_2c_20and_20Family.jpg",
+        "performance_score": 0,
+        "domain_rank": 3394,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "19b24cae50af2f1f7e39e5f15b4d049d0c6d5265",
+    "url": "https://www.irishexaminer.com/news/spotlight/arid-41520689.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Cianan Brennan",
+    "published": "2024-11-23T04:00:00.000+02:00",
+    "title": "Election 2024: Childcare in Sweden — Roscommon native pays €110 a month for two kids",
+    "text": "Maj Britt Gleeson is a Roscommon native who has a Swedish mother and currently lives in Helenelund in Sollentuna kommun (municipality), just north of Stockholm. While she grew up in Ireland, she also attended school in Sweden as a child.\nShe has two daughters with her French husband Florentin — five-year-old Linnaea and Emilia, who is three.\nMaj Britt, 40, was formerly a social worker with Tusla. The couple were looking for a new country to try a different way of life. They have now been living in Sweden for three years.\n“Why did we come here? Just housing, childcare, the seasons. And I had great memories of going to school here when I was younger,” she says.\n“We wanted a change from Ireland and we wanted to see how we’d get on. I mean we’d always heard about this perfect kind of work-life balance, and we wanted to see what it was like.”\nThe specifics of the childcare system itself are eye-opening immediately from a costs point of view. Such care in Sweden is means-tested, aimed basically at making having children an affordable aim regardless of income.\nAs Maj Britt is currently studying, their outgoings are slightly less than what others might pay — care for their two children comes to roughly 1,125 Swedish kroner, or about €110 per month.\nBoth are in forskola (pre-school), which runs from 8am until 2.30pm for children between the ages of one and six.\nThe two girls are in the same class despite there being a two-year gap between them. Officially, the fees paid cover all care between 7am and 5pm, though most parents take their children out earlier.\nIn terms of the quality of care though, which country does it better does she think?\n“Here everything is State-funded. They have a particularly outdoors approach, there is so much emphasis on nature and the climate helps. They do so much outside and there is a lot less rote-learning,” Maj Britt says.\nChildren do not begin traditional schooling as we would recognise it until the age of six at the earliest.\n“When you come to the school in the winter, it’s maybe minus three degrees outside, they’ll have a massive speaker blaring music and all the children will be dancing, trying to keep warm, right beside the forest — forests are a very big thing here. It’s a really nice kind of energy.”\nIn Sweden, childcare is administered by each municipality, the equivalent of a local council. Parents apply for multiple facilities in order of preference. A place is guaranteed, though it may not be their first choice, which is definitely very different to Ireland, where a lack of care spaces, particularly in rural areas, bedevils the sector.\nMaj Britt says:\n“There are fantastic childcare services in Ireland too, it just needs to be more structured.”\nIf you want one small indicator of the differences between the two countries — in Swedish childcare nappies are included in the fee. Not so in Ireland. It might seem like a small thing, but it matters.\nNot that everything is perfect. “The cost of living is an issue. Food is definitely more expensive, and eating out, restaurants, definitely costs more,” she says.\nWhether or not Maj Britt and family stay in Sweden isn’t set in stone either. “Flo (her husband) is gung-ho on staying here because of the quality of the schools systems,” she says.\n“We’ll give here another shot for another while. I mean, your family is in Ireland, your friends. I think if we were to go anywhere again it would be back home.\"",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Education",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Britt Gleeson",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Florentin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Helenelund",
+                "sentiment": "none"
+            },
+            {
+                "name": "Linnaea",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T04:49:19.972+02:00",
+    "updated": "2024-11-23T04:49:19.972+02:00"
+}

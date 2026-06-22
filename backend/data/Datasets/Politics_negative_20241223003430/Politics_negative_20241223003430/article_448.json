@@ -1,0 +1,97 @@
+{
+    "thread": {
+        "uuid": "9c2abd73ed7c8528a20fe7082b985c2984e342e9",
+        "url": "https://www.thecanary.co/uk/news/2024/11/22/censoring-palestine",
+        "site_full": "www.thecanary.co",
+        "site": "thecanary.co",
+        "site_section": "https://www.thecanary.co",
+        "site_categories": [
+            "politics",
+            "law_government_and_politics"
+        ],
+        "section_title": "Home - Canary",
+        "title": "New film from the makers of The Big Lie will expose the ‘censoring of Palestine’",
+        "title_full": "New film from the makers of The Big Lie will expose the ‘censoring of Palestine’",
+        "published": "2024-11-22T20:44:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "CO",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 32112,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "9c2abd73ed7c8528a20fe7082b985c2984e342e9",
+    "url": "https://www.thecanary.co/uk/news/2024/11/22/censoring-palestine",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "The Canary",
+    "published": "2024-11-22T20:44:00.000+02:00",
+    "title": "New film from the makers of The Big Lie will expose the ‘censoring of Palestine’",
+    "text": "The recent arrests of 10 Palestine Action activists and other activists using counter-terrorism laws are just the “tip of an intimidation iceberg” of attacks on freedom of speech and dissent, according to the producer of a new film. It is from the makers of The Big Lie – and will be called Censoring Palestine .\nCensoring Palestine – at any cost Norman Thomas of Platform Films said:\nWe are seeing a state-sponsored clampdown designed to silence anyone who speaks out or demonstrates in support of Palestine. The arrests we’ve seen so far are just the tip of an intimidation iceberg. The government is criminalising dissent.\nThomas’s comments are based on research carried out for the new Platform Films documentary Censoring Palestine which will be released in December.\nIn recent weeks police raids on activists including Sarah Wilkinson and Asa Winstanley , and the arrest of the Jewish academic Haim Bresheeth, have caused outrage and anger, but, according to Thomas, these in no way reflect the true scale of the problem.\nHe said:\nIn the course of making our film, we’ve coming across so many cases of people who’ve been treated scandalously by the police and whose only crime has been to protest against the genocide in Palestine.\nPolice break down their doors, impose curfews on them, restrict where they can and can’t go, limit their use of social media, confiscate equipment they need for work and, in some cases, treat them with brutality.\nThomas says they are also collecting more and more many stories of “doxing” — Palestine supporters being reported, often anonymously, to their employers.\nHe says “people are being smeared to their employers as antisemitic simply for going on a Palestine demo. Some even lose their jobs. Teachers and students in particular have been attacked in this way”:\nThis kind of victimisation and intimidation thrives on being kept secret. We are appealing to anyone who has been targeted, whether by the police or in their workplace, to come and tell us their story. We will respect total confidentiality but we must expose the extent of what’s happening.\n‘It was a scam’ – but on a far, bigger scale Platform Films are the producers of Oh Jeremy Corbyn – The Big Lie , which tells the story of the rise and fall of the Labour Party leader and was shown across the country last year. Mr Thomas says the current attacks on pro-Palestine activists have a strong echo of the way antisemitism was weaponised against Jeremy Corbyn and his supporters.\nHe said:\nThe same people determined to smear Corbyn are now taking part in a campaign to smear the pro-Palestine protesters. But this is all on a much bigger scale and, I think, reflects the desperation of the pro-Israel lobby and the size of the Palestine solidarity campaign.\nThe film Censoring Palestine , which stars legendary filmmaker Ken Loach, will be released next month and local groups are being invited to set up screenings. Thomas said “as with our previous film about Jeremy Corbyn we will make no charge to screen the film, but donations will be welcome”.\nWatch the trailer below:\nFeatured image via screengrab",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.jewishvoiceforlabour.org.uk/article/reasons-to-see-oh-jeremy-corbyn-the-big-lie/",
+        "https://www.youtube.com/embed/RcLdpvNY-gg?feature=oembed",
+        "http://www.platformfilms.co.uk/",
+        "https://www.jewishvoiceforlabour.org.uk/article/reasons-to-see-oh-jeremy-corbyn-the-big-lie",
+        "https://jewishvoiceforlabour.org.uk/article/reasons-to-see-oh-jeremy-corbyn-the-big-lie/",
+        "http://www.platformfilms.co.uk",
+        "http://platformfilms.co.uk/",
+        "https://www.youtube.com/embed/RcLdpvNY-gg",
+        "https://youtube.com/embed/RcLdpvNY-gg?feature=oembed"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Sarah Wilkinson",
+                "sentiment": "none"
+            },
+            {
+                "name": "Asa Winstanley",
+                "sentiment": "none"
+            },
+            {
+                "name": "Haim Bresheeth",
+                "sentiment": "none"
+            },
+            {
+                "name": "Norman Thomas",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:49:44.789+02:00",
+    "updated": "2024-11-23T00:49:44.789+02:00"
+}

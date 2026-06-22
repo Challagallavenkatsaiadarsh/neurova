@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "97fe89d851a30ffc18952fafc6a6895263bb61f6",
+        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1247117",
+        "site_full": "www.daijiworld.com",
+        "site": "daijiworld.com",
+        "site_section": "https://www.daijiworld.com/home",
+        "site_categories": [
+            "media",
+            "top_news_kw",
+            "top_news_ae",
+            "top_news"
+        ],
+        "section_title": "Daijiworld - A News portal linking West coast of India and the World",
+        "title": "Maha election results will impact upcoming polls in Delhi: Kailash Gahlot - Daijiworld.com",
+        "title_full": "Maha election results will impact upcoming polls in Delhi: Kailash Gahlot - Daijiworld.com",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "http://daijiworld.com/images/daijiSquareLogo.png",
+        "performance_score": 0,
+        "domain_rank": 24675,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "97fe89d851a30ffc18952fafc6a6895263bb61f6",
+    "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1247117",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Maha election results will impact upcoming polls in Delhi: Kailash Gahlot - Daijiworld.com",
+    "text": "New Delhi, Nov 24 (IANS): After the BJP-led MahaYuti alliance secured a landslide victory in the Assembly elections in Maharashtra, party leader Kailash Gahlot has said that the poll result would have an impact on the upcoming Delhi polls expected to take place early next year.\nHe also mentioned the Assembly poll results in Maharashtra as an important moment for both the state and the entire nation.\n\"It is a very big day for Maharashtra and the entire nation. The credit for this victory goes to PM Modi and every BJP worker. The public has placed their trust in the BJP, which stands for a developed nation. The results will affect the upcoming Delhi Assembly elections also...\" Gahlot said.\nWhen asked about the Delhi elections, he added, \"The people of Delhi deserve the best infrastructure and services. They understand that for the development of Delhi, the BJP government must be formed.\"\nEarlier on Saturday, Union Minister Piyush Goyal termed the MahaYuti alliance's win in Maharashtra a 'good message' to accelerate the goal of Prime Minister Narendra Modi's vision of developed India 2047, adding that the people in Maharashtra supported the good work done by the Prime Minister.\nPiyush Goyal also noted that the people of Maharashtra have rejected the politics of appeasement of the Congress and the Maha Vikas Aghadi (MVA).\nThe ruling MahaYuti alliance won the Maharashtra Assembly polls and won the polls with a landslide mandate.\nIn Maharashtra, the BJP led the MahaYuti alliance to a smashing victory carrying its allies - Shiv Sena and NCP - with its momentum.\nThe BJP has won 132 seats; Shiv Sena, led by Chief Minister Eknath Shinde, has won 57 seats, and the NCP, led by Deputy Chief Minister Ajit Pawar, won 41 seats. The state has 288 Assembly seats.\nThe constituents of Maha Vikas Aghadi (MVA) suffered a huge jolt with Shiv Sena (UBT) led by Uddhav Thackeray winning 20 seats, Congress 16, and NCP (SCP) led by Sharad Pawar only 10 seats.\nThe BJP saw a fabulous strike rate with the party winning 133 of the 148 seats it contested in Maharashtra.\nThe party's allies Shiv Sena and NCP also have a very good strike rate.\nThe Assembly elections in Maharashtra were held on November 20.\nDisclaimer:\nPlease write your correct name and email address. Kindly do not post any personal, abusive, defamatory, infringing, obscene, indecent, discriminatory or unlawful or similar comments. Daijiworld.com will not be responsible for any defamatory message posted under this article.\nPlease note that sending false messages to insult, defame, intimidate, mislead or deceive people or to intentionally cause public disorder is punishable under law. It is obligatory on Daijiworld to provide the IP address and other details of senders of such comments, to the authority concerned upon request.\nHence, sending offensive comments using daijiworld will be purely at your own risk, and in no way will Daijiworld.com be held responsible.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kailash Gahlot",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            },
+            {
+                "name": "Piyush Goyal",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "IANS",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Assembly",
+                "sentiment": "none"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:26:20.908+02:00",
+    "updated": "2024-11-24T05:26:20.908+02:00"
+}

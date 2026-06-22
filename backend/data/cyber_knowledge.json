@@ -1,0 +1,5 @@
+{
+  "phishing": "A fraudulent attempt to obtain sensitive information by disguising as a trustworthy entity.",
+  "sql_injection": "A code injection technique that might destroy your database.",
+  "encryption": "The process of converting information into code to prevent unauthorized access."
+}

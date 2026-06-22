@@ -1,0 +1,82 @@
+{
+    "thread": {
+        "uuid": "ca34aa20b576c1e7334d8c9445bd7cd9897e1da4",
+        "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-congress-seeks-jpc-probe-into-bribery-charges-against-adani-group-9685365",
+        "site_full": "indianexpress.com",
+        "site": "indianexpress.com",
+        "site_section": "https://indianexpress.com",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_kw",
+            "top_news_nz",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_au",
+            "top_news_za",
+            "top_news_qa",
+            "top_news_sg",
+            "top_news_sa",
+            "top_news_my",
+            "top_news"
+        ],
+        "section_title": "Latest News Today: Breaking News and Top Headlines from India, Entertainment, Business, Politics and Sports | The Indian Express",
+        "title": "Gujarat Congress seeks JPC probe into bribery charges against Adani Group",
+        "title_full": "Gujarat Congress seeks JPC probe into bribery charges against Adani Group",
+        "published": "2024-11-22T22:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.indianexpress.com/2024/11/Gautam-Adani-3.jpg",
+        "performance_score": 0,
+        "domain_rank": 990,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ca34aa20b576c1e7334d8c9445bd7cd9897e1da4",
+    "url": "https://indianexpress.com/article/cities/ahmedabad/gujarat-congress-seeks-jpc-probe-into-bribery-charges-against-adani-group-9685365",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@indianexpress",
+    "published": "2024-11-22T22:55:00.000+02:00",
+    "title": "Gujarat Congress seeks JPC probe into bribery charges against Adani Group",
+    "text": "Gujarat Congress president Shaktisinh Gohil on Friday demanded a Joint Parliamentary Committee (JPC) probe against the Adani Group into the allegations of bribery and fraud levelled by the US Department of Justice. Gohil, a Rajya Sabha MP, also demanded a CBI investigation under the monitoring of a sitting Supreme Court judge into the allegations. “If the US agencies can investigate and file a case in court against the Adani Group, then why can Indian agencies not do it?” he asked in a press conference. “Let us think that the allegations are wrong. But when there are allegations of corruption, why is there no probe in India? They take no time in probing the opposition leaders,” he said. “We demand a JPC probe into the allegations of bribery which runs into crores of rupees. The money was paid in India and it should be investigated in the country. Action should be taken against the persons concerned,” the Congress leader said. The CBI should also probe the charges under direct monitoring of a sitting Supreme Court judge, Gohil said. Gautam Adani and seven others, including his nephew Sagar, have been charged by the US Department of Justice with paying bribes to unidentified officials of state governments in Andhra Pradesh and Odisha to buy expensive solar power, potentially earning more than USD 2 billion in profit over 20 years. Adani Group, however, have denied the charges saying the allegations by the US prosecutors are “baseless” and the conglomerate is “compliant with all laws”.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:31:40.950+02:00",
+    "updated": "2024-11-23T01:55:23.656+02:00"
+}

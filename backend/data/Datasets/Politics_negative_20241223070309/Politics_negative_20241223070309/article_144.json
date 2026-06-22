@@ -1,0 +1,74 @@
+{
+    "thread": {
+        "uuid": "08ada09784d80765a4fb9a9c725930a5d3fccbba",
+        "url": "https://www.eenews.net/articles/utah-lawsuit-seeking-blm-lands-plainly-lacks-merit-doj-says",
+        "site_full": "www.eenews.net",
+        "site": "eenews.net",
+        "site_section": "https://www.eenews.net",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "E&amp;E News by POLITICO | Essential Energy and Environment News",
+        "title": "Utah lawsuit seeking BLM lands ‘plainly lacks merit,’ DOJ says",
+        "title_full": "Utah lawsuit seeking BLM lands ‘plainly lacks merit,’ DOJ says",
+        "published": "2024-11-22T20:18:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/92/7f/4e1dd5e74d1081bca9b6dc162e5d/14783486239-b5c899e090-c.jpg",
+        "performance_score": 0,
+        "domain_rank": 5526,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "08ada09784d80765a4fb9a9c725930a5d3fccbba",
+    "url": "https://www.eenews.net/articles/utah-lawsuit-seeking-blm-lands-plainly-lacks-merit-doj-says",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Scott Streater",
+    "published": "2024-11-22T20:18:00.000+02:00",
+    "title": "Utah lawsuit seeking BLM lands ‘plainly lacks merit,’ DOJ says",
+    "text": "The Biden administration struck back at a Utah lawsuit seeking control of 18.5 million acres of federal lands, arguing in a legal brief filed with the Supreme Court on Thursday that the U.S. Constitution clearly allows the federal government to control the lands.\nThe Department of Justice’s [brief in opposition](https://www.supremecourt.gov/DocketPDF/22/22O160/332496/20241121182208255_22O160opp.pdf) to the lawsuit concludes that Utah’s lawsuit “plainly lacks merit,” saying it is not worthy of being heard by the nation’s highest court.\nThe Supreme Court has yet to decide whether it will take up the lawsuit, which asserts the Bureau of Land Management is not authorized to indefinitely hold 18.5 million acres of “unappropriated” rangelands in the state not designated for a specific purpose, such as a national monument. Utah’s complaint says it should be allowed to manage them.\nWhile legal experts have called the potential for a ruling in Utah’s favor a long shot at best, [it would have widespread implications if successful](https://subscriber.politicopro.com/article/eenews/2024/10/23/other-states-urge-supreme-court-to-hear-utah-federal-land-case-00183633), opening up the potential for other states to claim control over an estimated 144 million acres across the West and an additional 66 million acres in Alaska.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://subscriber.politicopro.com/article/eenews/2024/10/23/other-states-urge-supreme-court-to-hear-utah-federal-land-case-00183633",
+        "https://www.supremecourt.gov/DocketPDF/22/22O160/332496/20241121182208255_22O160opp.pdf",
+        "https://www.subscriber.politicopro.com/article/eenews/2024/10/23/other-states-urge-supreme-court-to-hear-utah-federal-land-case-00183633",
+        "https://supremecourt.gov/DocketPDF/22/22O160/332496/20241121182208255_22O160opp.pdf"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:17:41.579+02:00",
+    "updated": "2024-11-23T00:17:41.579+02:00"
+}

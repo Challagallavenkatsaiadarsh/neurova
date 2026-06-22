@@ -1,0 +1,69 @@
+{
+    "thread": {
+        "uuid": "ebb02cb8fd2fe55af2fce18bfce06506252d7513",
+        "url": "https://cryptonews.net/news/legal/30125278",
+        "site_full": "cryptonews.net",
+        "site": "cryptonews.net",
+        "site_section": "https://cryptonews.net/rss.xml",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "World news about cryptocurrency and blockchain technology from different sources",
+        "title": "Elon Musk Wins Against SEC as Court Denies Sanction Request",
+        "title_full": "Elon Musk Wins Against SEC as Court Denies Sanction Request",
+        "published": "2024-11-24T00:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "RU",
+        "main_image": "https://cnews24.ru/uploads/008/008eda3d0a4d8c983dba15e77d8fd1b49b578558.jpg",
+        "performance_score": 0,
+        "domain_rank": 55532,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ebb02cb8fd2fe55af2fce18bfce06506252d7513",
+    "url": "https://cryptonews.net/news/legal/30125278",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-24T00:21:00.000+02:00",
+    "title": "Elon Musk Wins Against SEC as Court Denies Sanction Request",
+    "text": "- Elon Musk avoids SEC sanctions after reimbursing costs for a missed meeting regarding the $44B X acquisition.\n- Court postpones Donald Trump’s sentencing, allowing time to seek dismissal before his January 20 inauguration.\n- Ripple’s legal team urges Elon Musk to investigate SEC spending on enforcement actions amid Musk’s legal victory.\nElon Musk achieved a legal victory after a court denied the US Securities and Exchange Commission’s (SEC) request to impose sanctions on him. The case centered around Musk’s $44 billion acquisition of X. The decision was made by US District Judge Jacqueline Scott Corley, who ruled that sanctions were unnecessary as Musk had already compensated the SEC for expenses related to a missed meeting.\nThis marks Musk’s second courtroom success in a week, following the dismissal of an investor appeal in a separate Dogecoin-related case.\nCourt Denies SEC Sanctions Over Missed Meeting\nThe SEC’s request for sanctions against Musk stemmed from a meeting he failed to attend in December. The meeting was scheduled to gather his testimony on the X acquisition deal. Instead, Musk chose to watch a rocket launch. Judge Corley dismissed the request, noting that Musk reimbursed the SEC $2,923 for travel expenses incurred by its legal team.\nElon Musk has won a legal battle as a U.S. judge rejected the Securities and Exchange Commission's request to sanction him for not appearing to testify in the investigation regarding his $44 billion Twitter deal\n— Dima Zeniuk (@DimaZeniuk) November 23, 2024\nCongratulations, Elon! pic.twitter.com/6IVAbl5nyu\nThe judge also pointed out that Musk eventually provided testimony on October 3, fulfilling the SEC’s request. The ruling ended the latest chapter in an ongoing legal saga between Musk and the federal agency, which has frequently scrutinized the billionaire’s business dealings and public statements.\nAnother prominent figure, US President-elect Donald Trump, secured a favorable court decision on the same day. A New York judge indefinitely delayed Trump’s sentencing in a hush-money case. The delay allows Trump’s legal team to seek dismissal of the conviction before his inauguration on January 20.\nThis development adds to Trump’s recent legal momentum. Reports suggest that the Department of Justice is considering winding down two federal criminal cases against him, citing its policy against prosecuting sitting presidents. These decisions come as Trump prepares to assume office, making the legal proceedings unprecedented in US history.\nRipple’s Legal Team Urges Further Investigation\nIn light of Musk’s victory, Ripple Chief Legal Officer Stuart Alderoty urged Musk to investigate the SEC’s use of taxpayer funds. Alderoty alleged the agency had allocated resources inefficiently to pursue enforcement actions that yielded minimal results. Musk, slated to co-lead the Department of Government Efficiency, may have the opportunity to review the SEC’s budgetary practices.\nThis series of legal decisions underscores the dynamic relationships between prominent figures and regulatory bodies, with implications that extend into political and financial spheres.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T02:47:26.414+02:00",
+    "updated": "2024-11-24T02:47:26.414+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "a3f8c04e6963dc8ddbf79cd59ef98ce688673121",
+        "url": "https://freerepublic.com/focus/f-news/4280286/posts",
+        "site_full": "freerepublic.com",
+        "site": "freerepublic.com",
+        "site_section": "http://www.freerepublic.com/tag/*/feed.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest Articles",
+        "title": "The new missile Russia is using in Ukraine and why it has NATO on edge",
+        "title_full": "The new missile Russia is using in Ukraine and why it has NATO on edge",
+        "published": "2024-11-22T10:14:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 4310,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a3f8c04e6963dc8ddbf79cd59ef98ce688673121",
+    "url": "https://freerepublic.com/focus/f-news/4280286/posts",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "McGruff",
+    "published": "2024-11-22T10:14:00.000+02:00",
+    "title": "The new missile Russia is using in Ukraine and why it has NATO on edge",
+    "text": "Russia launched a volley of missiles toward the eastern Ukrainian city of Dnipro early Thursday morning, including a new type of ballistic missile that has North Atlantic Treaty Organization members on edge.\nThe powerful next-level, multiple-warhead battlefield weapon, which has been analyzed by the Pentagon, has prompted NATO to hold an emergency summit on Tuesday. Among the cruise missiles intercepted in the assault was what the Defense Department has identified as a variant of the RS-26, an \"experimental\" intermediate-range ballistic missile (IRBM), a reconfigured Russian intercontinental ballistic missile, according to a U.S. official.\nWhile publicly, U.S. officials say Russia likely possesses only a handful of these experimental missiles, sources say these ballistic missiles pose a unique threat. They're capable of reaching 3,000 miles, and carrying a multiple-payload system. These systems are designed to carry and launch multiple warheads and to release them at different speeds and different directions, potentially over an area of more than 1,000 miles. They're also capable of carrying nuclear warheads. Heightening U.S. and NATO concerns further, it's the first time such a system has been used, and much still remains unknown about their utilization.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Science and Technology"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "NATO",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Defense Department",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pentagon",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Dnipro",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:16:27.558+02:00",
+    "updated": "2024-11-23T01:16:27.558+02:00"
+}

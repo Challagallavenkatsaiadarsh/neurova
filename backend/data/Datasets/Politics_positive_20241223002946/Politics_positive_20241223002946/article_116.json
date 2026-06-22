@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "8bb4ae11a6233d8d415522cb5f0438cc3d44d67c",
+        "url": "https://gov.texas.gov/news/post/governor-abbott-statement-on-passage-of-teas-bluebonnet-learning",
+        "site_full": "gov.texas.gov",
+        "site": "texas.gov",
+        "site_section": "https://gov.texas.gov/news",
+        "site_categories": [
+            "law_government_and_politics",
+            "us_government_resources"
+        ],
+        "section_title": "News | Office of the Texas Governor | Greg Abbott",
+        "title": "Governor Abbott Statement On Passage Of TEA’s Bluebonnet Learning | Office of the Texas Governor | Greg Abbott",
+        "title_full": "Governor Abbott Statement On Passage Of TEA’s Bluebonnet Learning | Office of the Texas Governor | Greg Abbott",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://gov.texas.gov//assets/images/logos/fb.png",
+        "performance_score": 0,
+        "domain_rank": 848,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8bb4ae11a6233d8d415522cb5f0438cc3d44d67c",
+    "url": "https://gov.texas.gov/news/post/governor-abbott-statement-on-passage-of-teas-bluebonnet-learning",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "Governor Abbott Statement On Passage Of TEA’s Bluebonnet Learning | Office of the Texas Governor | Greg Abbott",
+    "text": "Governor Greg Abbott today issued a statement commending the State Board of Education's (SBOE) passage of the Texas Education Agency’s (TEA) Bluebonnet Learning reading and math instructional materials.\n“The passage of Bluebonnet Learning is a critical step forward to bring students back to the basics of education and provide the best education in the nation,” said Governor Abbott. “These transformative educational materials are voluntary and free for schools and teachers to use. And with parents also able to access these materials online, we will ensure young Texans have access to high-quality, grade-level appropriate curricula that will provide the necessary fundamentals in math, reading, science, and other core subjects and boost student outcomes across Texas. I thank the Texas Education Agency for working tirelessly to bolster students’ educational foundation and equip them with the knowledge they need to lead bright, successful lives in Texas.”\nSchool districts will receive additional state funding if they choose to use the SBOE-approved materials. Additionally, if school districts voluntarily opt-in to use Bluebonnet Learning, a second stream of additional funding will be made available to defray printing costs. Bluebonnet Learning will be available online for free to everyone, allowing families to access quality educational materials aligned with the Texas Essential Knowledge and Skills for their children.\nLast year, the Texas Legislature passed and the Governor signed House Bill 1605 into law, which requires TEA to provide Open Education Resource textbooks for core subjects in key grades, including reading and math for Pre-K to 8th grade. This law also directed TEA to appoint an advisory board to ensure the materials are of the highest quality and compliant with suitability requirements.\nView the approved materials here .",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Education"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "8bb4ae11a6233d8d415522cb5f0438cc3d44d67c",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:47:14.486+02:00",
+    "updated": "2024-11-23T00:47:14.486+02:00"
+}

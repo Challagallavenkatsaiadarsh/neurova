@@ -1,0 +1,115 @@
+{
+    "thread": {
+        "uuid": "a348d8be0d5611c3df9f8efdc354860a3ced6b40",
+        "url": "https://www.newsbreak.com/ksn-news-1589928/3686141607721-gov-laura-kelly-issues-two-new-pardons-friday",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/ksn-news-1589928",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "KSN News&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-22T22:58:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0L1TYO_0wyEkzKY00?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a348d8be0d5611c3df9f8efdc354860a3ced6b40",
+    "url": "https://www.newsbreak.com/ksn-news-1589928/3686141607721-gov-laura-kelly-issues-two-new-pardons-friday",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-22T22:58:00.000+02:00",
+    "title": "",
+    "text": "By Matthew Self ,\n3 hours ago\nTOPEKA ( KSNT ) – Kansas Governor Laura Kelly granted two additional pardons Friday.\nKelly made the announcement on Nov. 22 for two people who showed signs they’ve been rehabilitated, according to a press release from the Office of the Governor. The decision follows independent reviews from the Prison Review Board, the Kansas Department of Administration and the governor’s legal team.\n“The decision to grant these pardons comes after a meticulous and thorough review process,” Kelly said. “One of the largest factors taken into consideration is a person’s commitment to rehabilitation, making amends, and positively contributing to society. Granting these pardons will give a second chance to two individuals who have taken responsibility for their actions and are working to move on with their lives.”\nFormer Kansas Republican congressional candidate arrested on harassment charge in Shawnee County Kelly’s pardons were extended to Anthony Mitchell and Richard McMichael . Kelly previously issued a series of pardons and commutations on Nov. 6 .\nFactors that go into the decision-making process of issuing pardons includes the nature of the offense, harsh sentences, impact of the crime on victims/survivors, demonstration of rehabilitation, criminal history, absence of disciplinary issues in prison and more, according to the Office of the Governor. More information on this process can be found by clicking here .\nCopyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to KSN-TV.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ksn.com",
+        "https://www.ksnt.com/capitol-bureau/kansas-gov-grants-7-pardons-commutes-wednesday/",
+        "https://img.particlenews.com/image.php?url=0L1TYO_0wyEkzKY00",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0L1TYO_0wyEkzKY00",
+        "https://www.doc.ks.gov/prb",
+        "https://www.ksnt.com/",
+        "https://www.ksnt.com/news/crime/former-kansas-congressional-candidate-arrested-on-multiple-charges-in-shawnee-county/",
+        "https://ksnt.com/news/crime/former-kansas-congressional-candidate-arrested-on-multiple-charges-in-shawnee-county/",
+        "https://www.ksnt.com/capitol-bureau/kansas-gov-grants-7-pardons-commutes-wednesday",
+        "https://www.ksnt.com/news/crime/former-kansas-congressional-candidate-arrested-on-multiple-charges-in-shawnee-county",
+        "https://www.img.particlenews.com/image.php?url=0L1TYO_0wyEkzKY00",
+        "https://www.ksnt.com",
+        "https://img.particlenews.com/image.php",
+        "https://ksnt.com/capitol-bureau/kansas-gov-grants-7-pardons-commutes-wednesday/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0L1TYO_0wyEkzKY00",
+        "https://ksnt.com/",
+        "https://ksn.com",
+        "https://doc.ks.gov/prb"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Laura Kelly",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Matthew Self",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Richard McMichael",
+                "sentiment": "none"
+            },
+            {
+                "name": "Anthony Mitchell",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Kansas Department of Administration",
+                "sentiment": "none"
+            },
+            {
+                "name": "Prison Review Board",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:14:45.265+02:00",
+    "updated": "2024-11-23T02:14:45.265+02:00"
+}

@@ -1,0 +1,93 @@
+{
+    "thread": {
+        "uuid": "183b9f8b4fa43fb1d1996d38e3c67b205170143b",
+        "url": "https://www.thestar.com.my/news/nation/2024/11/24/together-towards-a-better-msia",
+        "site_full": "www.thestar.com.my",
+        "site": "thestar.com.my",
+        "site_section": "https://www.thestar.com.my/news/nation",
+        "site_categories": [
+            "media",
+            "top_news_sa",
+            "top_news_my",
+            "top_news_ph",
+            "top_news_sg",
+            "top_news"
+        ],
+        "section_title": "Nation - News | The Star",
+        "title": "Together towards a better M’sia | The Star",
+        "title_full": "Together towards a better M’sia | The Star",
+        "published": "2024-11-24T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://apicms.thestar.com.my/uploads/images/2024/11/24/3032661.jpg",
+        "performance_score": 0,
+        "domain_rank": 2219,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "183b9f8b4fa43fb1d1996d38e3c67b205170143b",
+    "url": "https://www.thestar.com.my/news/nation/2024/11/24/together-towards-a-better-msia",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NA",
+    "published": "2024-11-24T02:00:00.000+02:00",
+    "title": "Together towards a better M’sia | The Star",
+    "text": "KUALA LUMPUR: The Federal Government remains committed to engaging with state governments to find common ground on various pressing issues, says Deputy Prime Minister Datuk Seri Fadillah Yusof.\nHe said Prime Minister Datuk Seri Anwar Ibrahim’s visits to the states aim to strengthen ties with local leaders and gain insights into the challenges and priorities of each state.\n“These briefings provide an opportunity to discuss the Federal Government’s strategies while gathering feedback from state governments on their projects, implementation progress, and areas for improvement.\n“This collaborative approach ensures that priority is given to jointly implementing programmes and projects while effectively addressing shared challenges,” Fadillah said during a townhall session during an event to mark the government’s two-year anniversary and the 2024 National Convention on Public Service Reform attended by Anwar yesterday, Bernama reported.\nFadillah, who is also the Energy Transition and Water Transformation Minister and responsible for Sabah and Sarawak affairs, said the Prime Minister’s efforts have significantly strengthened the partnership between the federal and state governments.\nAddressing concerns over perceived tensions between the Federal Government and certain state administrations, Fadillah reaffirmed that both sides are committed to ongoing discussions to find the best possible solutions.\n“This is why discussions are held. In the context of Sabah and Sarawak, we have the Malaysia Agreement 1963 (MA63), along with technical committees, and many agreed-upon matters have already been implemented.\n“However, some issues remain unresolved. Voices of concern continue to emerge in Sabah and Sarawak, but we remain attentive and dedicated to finding solutions,” he said.\nFadillah added that some issues require time to address due to the need for detailed deliberation, particularly in cases involving differing legal interpretations between the states and the Federal Government.\n“These matters need careful consideration. However, we must not overlook the foundation of Malaysia’s formation, which is based on agreements and legal provisions enshrined in the Constitution.\n“This includes the rights accorded to individual states. As long as we operate within the constitutional framework, Malaysia will remain united, its stability assured, and we can continue advancing the nation’s development,” he said.\nOpen Modal × $(document).ready(function(){ var freeBoxShow = false; $(window).scroll(function() { var scrollPercent = 100 * $(window).scrollTop() / ($(document).height() - $(window).height()); window.setTimeout(function () { //scroll to page length 35% then show the pop-up if (scrollPercent >= 35 && !freeBoxShow) { freeBoxShow = true; $('#freeHTMLBoxBtn').click(); } }, 500); }); var freeModal = document.getElementById(\"freeModal\"); $(\"#freeHTMLBoxBtn\").click(function () { freeModal.style.display = \"block\"; //$('body').addClass('free-modal-open'); }); $(\".free-close\").click(function () { freeModal.style.display = \"none\"; //$('body').removeClass('free-modal-open'); }); var freeBox = '",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Datuk Seri Fadillah Yusof",
+                "sentiment": "none"
+            },
+            {
+                "name": "Datuk Seri Anwar Ibrahim",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Energy Transition",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bernama",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:34:59.527+02:00",
+    "updated": "2024-11-24T05:34:59.527+02:00"
+}

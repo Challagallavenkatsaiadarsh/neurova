@@ -1,0 +1,70 @@
+{
+    "thread": {
+        "uuid": "56506978a682bee1442b9494116596f9234b1ba5",
+        "url": "https://www.fox5ny.com/news/nyc-congestion-pricing-plan-gets-federal-approval-set-begin-janaury-5",
+        "site_full": "www.fox5ny.com",
+        "site": "fox5ny.com",
+        "site_section": "https://fox5ny.com/latest.xml",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Latest &amp; Breaking News on Fox News on WNYW",
+        "title": "NYC Congestion pricing plan gets federal approval, set to begin Janaury 5 | FOX 5 New York",
+        "title_full": "NYC Congestion pricing plan gets federal approval, set to begin Janaury 5 | FOX 5 New York",
+        "published": "2024-11-23T02:06:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/11/1280/720/snapshot-2024-11-22t180822.836.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 7254,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "56506978a682bee1442b9494116596f9234b1ba5",
+    "url": "https://www.fox5ny.com/news/nyc-congestion-pricing-plan-gets-federal-approval-set-begin-janaury-5",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Morgan McKay",
+    "published": "2024-11-23T02:06:00.000+02:00",
+    "title": "NYC Congestion pricing plan gets federal approval, set to begin Janaury 5 | FOX 5 New York",
+    "text": "NEW YORK - New York City’s long-debated congestion pricing plan has cleared its final federal hurdle and is set to go into effect on January 5, barring any successful legal challenges. The Federal Highway Administration gave the green light, making NYC the first U.S. city to implement such a program. The plan will require drivers entering Manhattan below 60th Street to pay a $9 toll, which will increase to $12 in 2028 and $15 by 2031. The initiative is projected to generate $15 billion in revenue for the MTA to fund transit improvements and accessibility upgrades. MTA Chair and CEO Janno Leiber, adding that the plan aims to deliver \"better transit for more people, safer streets, cleaner air for all, along with reduced congestion.\" Legal Challenges Loom Despite federal approval, the program faces strong opposition. Critics of the plan have called it an added tax, saying that drivers are being forced to pay for the MTA&apos;s inability to handle its finances. Nine lawsuits are pending, including one from the New York State United Teachers Union. A judge is expected to rule on that case by December 20. Additionally, the town of Hempstead announced it would file its own lawsuit, claiming procedural errors in the plan’s rollout. Hempstead Town Supervisor Donald Clavin Jr. criticized the tolls and recent remarks by Gov. Kathy Hochul. \"The concept that the governor is doing you a favor by lowering the price of congestion pricing, and you should thank her, is not only astonishing; it’s tone-deaf,\" said Clavin. Public Awareness Efforts To prepare New Yorkers for the changes, the MTA plans to host seven informational webinars during the first three weeks of December. These sessions will explain how the tolling system works and address public concerns.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:42:45.902+02:00",
+    "updated": "2024-11-30T00:17:19.965+02:00"
+}

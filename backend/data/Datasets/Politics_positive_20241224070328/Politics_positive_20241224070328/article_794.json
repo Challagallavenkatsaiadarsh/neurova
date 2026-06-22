@@ -1,0 +1,101 @@
+{
+    "thread": {
+        "uuid": "8640340ba62d5b8fc0f4c366f34e113b6f8e2d8a",
+        "url": "https://www.latestly.com/agency-news/world-news-un-celebrates-diamond-jubilee-of-hindi-diwas-in-new-york-6440721.html",
+        "site_full": "www.latestly.com",
+        "site": "latestly.com",
+        "site_section": "https://www.latestly.com/rss.xml",
+        "site_categories": [
+            "media",
+            "cricket",
+            "sports"
+        ],
+        "section_title": "",
+        "title": "World News | UN Celebrates Diamond Jubilee of Hindi Diwas in New York",
+        "title_full": "World News | UN Celebrates Diamond Jubilee of Hindi Diwas in New York",
+        "published": "2024-11-24T01:22:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://st1.latestly.com/wp-content/uploads/2024/11/ANI-20241124040822-588x441.jpg",
+        "performance_score": 0,
+        "domain_rank": 11020,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8640340ba62d5b8fc0f4c366f34e113b6f8e2d8a",
+    "url": "https://www.latestly.com/agency-news/world-news-un-celebrates-diamond-jubilee-of-hindi-diwas-in-new-york-6440721.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "ANI",
+    "published": "2024-11-24T01:22:00.000+02:00",
+    "title": "World News | UN Celebrates Diamond Jubilee of Hindi Diwas in New York",
+    "text": "New York [US], November 24 (ANI): The Permanent Mission of India to the United Nations recently organised the Diamond Jubilee of Hindi Diwas in New York. This significant event marked the 75th anniversary of Hindi being adopted as an official language in India.\n\"Permanent Mission of India to the United Nations organised the Diamond Jubilee celebrations of Hindi Diwas on November 22, 2024 in New York. The day marks adoption of Hindi as an official language in India, on 14 September 1949,\" Permanent Mission of India in New York said in a press release.\nAlso Read | Elon Musk Hails India for Counting '640 Million Votes in 1 Day', Takes Jibe at US Electoral Process.\nThe visiting delegation of Members of Parliament from India, consisting of Birendra Prasad Baishya, Pradan Baruah, Sushmita Dev, Akshay Yadav, Sandhya Ray, Tejasvi Surya, Bansuri Swaraj, graced the event. The event was also attended by Permanent Representatives (PR) and Deputy PRs of over 40 countries, senior officials of the UN, Academics, Diaspora Members and award winners of competitions.\nSpeaking on the occasion, Birendra Prasad Baishya said that Hindi is growing at a rapid pace in the 21st century in different parts of the world and added that the heightened global stature of Hindi is increasingly making it a medium in international polity and diplomacy.\nAlso Read | M-Pox Remains Public Health Emergency: WHO.\nHe also commended the addition of Hindi under the ambit of Multilingualism Resolution of the UN in September 2024. PR of India, Ambassador P. Harish noted that the importance of Hindi as a bridge language is reinforcing national integration, given India's multilingual and multicultural background.\nPR of Mauritius highlighted Hindi was a bridge to preserve culture, tradition, and identity whereas PR of Nepal underlined that Nepali and Hindi share common linguistic roots and Hindi is widely understood and spoken in Nepal. Deputy PR of Guyana spoke about Hindi's remarkable contributions towards enriching the cultural fabric of her country and noted that Hindi is very popular in her country. Charge d'affaires of Suriname mentioned that Hindi is part of school curriculum in Suriname. Director of Global Communications commended the initiative of Government of India in establishing the Hindi Project at UN.\nThe mission also organised competitions in essay writing, poetry, and recital in Hindi, and the winners were awarded prizes. (ANI)\n(This is an unedited and auto-generated story from Syndicated News feed, LatestLY Staff may not have modified or edited the content body)",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Birendra Prasad Baishya",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bansuri Swaraj",
+                "sentiment": "none"
+            },
+            {
+                "name": "Pradan Baruah",
+                "sentiment": "none"
+            },
+            {
+                "name": "Akshay Yadav",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sandhya Ray",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Permanent Mission of India",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T06:43:47.086+02:00",
+    "updated": "2024-11-24T06:43:47.086+02:00"
+}

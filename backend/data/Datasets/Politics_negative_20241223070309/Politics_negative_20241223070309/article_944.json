@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "6730634b0c7f7f0b9f1d5566d535e52999ed0602",
+        "url": "https://www.montanarightnow.com/missoula/breaking-armed-standoff-on-kemp-street-in-missoula-prompts-police-response/video_4633d980-a928-11ef-8296-372b51032a6c.html",
+        "site_full": "www.montanarightnow.com",
+        "site": "montanarightnow.com",
+        "site_section": "https://www.montanarightnow.com/weather",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Montana Local Weather | montanarightnow.com",
+        "title": "BREAKING: Armed standoff on Kemp Street in Missoula prompts police response | Missoula News | montanarightnow.com",
+        "title_full": "BREAKING: Armed standoff on Kemp Street in Missoula prompts police response | Missoula News | montanarightnow.com",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://bloximages.newyork1.vip.townnews.com/montanarightnow.com/content/tncms/assets/v3/editorial/4/63/4633d980-a928-11ef-8296-372b51032a6c/6741128202e9b.image.jpg?crop=1920%2C1008%2C0%2C35&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+        "performance_score": 0,
+        "domain_rank": 46863,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "6730634b0c7f7f0b9f1d5566d535e52999ed0602",
+    "url": "https://www.montanarightnow.com/missoula/breaking-armed-standoff-on-kemp-street-in-missoula-prompts-police-response/video_4633d980-a928-11ef-8296-372b51032a6c.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "BREAKING: Armed standoff on Kemp Street in Missoula prompts police response | Missoula News | montanarightnow.com",
+    "text": "Missoula Police temporarily blocked off Kemp Street on Friday due to an ongoing armed standoff. The intersection has since reopened, but several armed officers are on scene. Residents are advised\" /",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Social Issue",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Wild University of Montana Zoo Crew",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Kemp Street",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:49:08.757+02:00",
+    "updated": "2024-11-23T03:47:36.100+02:00"
+}

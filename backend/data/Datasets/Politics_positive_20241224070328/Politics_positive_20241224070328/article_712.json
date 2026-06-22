@@ -1,0 +1,95 @@
+{
+    "thread": {
+        "uuid": "3484673b5f57965efc6b85bcf63840144a0a4477",
+        "url": "https://www.newindianexpress.com/states/telangana/2024/Nov/24/maharashtra-assembly-election-result-exposed-congress-falsehoods-says-union-minister-kishan-reddy",
+        "site_full": "www.newindianexpress.com",
+        "site": "newindianexpress.com",
+        "site_section": "https://www.newindianexpress.com/states/rssfeed/?id=172&getxmlfeed=true",
+        "site_categories": [
+            "media",
+            "top_news_in",
+            "top_news_qa",
+            "top_news"
+        ],
+        "section_title": "States",
+        "title": "Maharashtra assembly election result exposed Congress falsehoods, says Union Minister Kishan Reddy",
+        "title_full": "Maharashtra assembly election result exposed Congress falsehoods, says Union Minister Kishan Reddy",
+        "published": "2024-11-24T00:45:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://media.assettype.com/newindianexpress%2F2024-11-23%2Fyywlf7wq%2Fesults-exposed-Cong-falsehoods-says.jpg?rect=0%2C0%2C405%2C213&amp;w=1200&amp;ar=40%3A21&amp;auto=format%2Ccompress&amp;ogImage=true&amp;mode=crop&amp;enlarge=true&amp;overlay=false&amp;overlay_position=bottom&amp;overlay_width=100",
+        "performance_score": 0,
+        "domain_rank": 3306,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "3484673b5f57965efc6b85bcf63840144a0a4477",
+    "url": "https://www.newindianexpress.com/states/telangana/2024/Nov/24/maharashtra-assembly-election-result-exposed-congress-falsehoods-says-union-minister-kishan-reddy",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ireddy Srinivas Reddy",
+    "published": "2024-11-24T00:45:00.000+02:00",
+    "title": "Maharashtra assembly election result exposed Congress falsehoods, says Union Minister Kishan Reddy",
+    "text": "HYDERABAD: Union minister G Kishan Reddy on Saturday expressed happiness over the victory of the BJP-led Mahayuti alliance in Maharashtra.\nHe stated that despite Congress’s false propaganda, the people of Maharashtra had once again chosen the double-engine government led by Prime Minister Narendra Modi.\nAddressing a presser at the BJP state office here, Kishan accused the Congress of creating a wrong narrative that reservations would be removed under BJP rule in the recent Parliament elections. He said that within five months the people of Maharashtra had realised the truth and gave BJP a resounding victory.\nKishan criticised Chief Minister A Revanth Reddy for his campaign in Maharashtra which did not deliver results. The people of Maharashtra had not even considered the guarantees offered and avoided the Congress, he said, added that the people of Telangana voted for the grand old party as they trusted it to deliver on its promises.\nThe Union minister said that for the first time since the Maharashtra-Gujarat split, the Mahayuti alliance achieved such a significant victory.\nHe accused the Congress of dividing people based on caste, language, and religion in Maharashtra elections.\nKishan said that Rahul Gandhi made baseless allegations against the BJP and said that these allegations were applicable more to the Congress. He took potshots at the Congress for not being able to cross even 30 seats in Jharkhand and Maharashtra.\nHe highlighted BJP’s repeated electoral successes in states like Gujarat, Haryana, Uttar Pradesh, Uttarakhand, Assam, and now Maharashtra and credited these victories to the development carried out under PM Modi’s leadership and ridiculed the Congress for blaming EVM tampering for its losses.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "G Kishan Reddy",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Narendra Modi",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Congress",
+                "sentiment": "negative"
+            },
+            {
+                "name": "BJP",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Maharashtra",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T05:57:05.294+02:00",
+    "updated": "2024-11-24T05:57:05.294+02:00"
+}

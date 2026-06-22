@@ -1,0 +1,87 @@
+{
+    "thread": {
+        "uuid": "ed92ff2dde6159d6c2794d7f4896fc674f292176",
+        "url": "https://www.ukrinform.net/rubric-polytics/3930546-biden-on-holodomor-memorial-day-us-honors-ukraines-past-and-stands-with-it-in-the-present.html",
+        "site_full": "www.ukrinform.net",
+        "site": "ukrinform.net",
+        "site_section": "https://www.ukrinform.net/rubric-polytics",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Politics",
+        "title": "Biden on Holodomor Memorial Day: U.S. honors Ukraine's past and stands with it in the present",
+        "title_full": "Biden on Holodomor Memorial Day: U.S. honors Ukraine's past and stands with it in the present",
+        "published": "2024-11-23T22:56:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "LV",
+        "main_image": "https://static.ukrinform.com/photos/2024_06/thumb_files/630_360_1718383184-304.jpeg",
+        "performance_score": 0,
+        "domain_rank": 13732,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "ed92ff2dde6159d6c2794d7f4896fc674f292176",
+    "url": "https://www.ukrinform.net/rubric-polytics/3930546-biden-on-holodomor-memorial-day-us-honors-ukraines-past-and-stands-with-it-in-the-present.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ukrinform",
+    "published": "2024-11-23T22:56:00.000+02:00",
+    "title": "Biden on Holodomor Memorial Day: U.S. honors Ukraine's past and stands with it in the present",
+    "text": "Biden on Holodomor Memorial Day: U.S. honors Ukraine's past and stands with it in the present\nHe said this in a statement issued by the [White House](https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-remembering-the-holodomor/) on Saturday, Ukrinform reports.\n\"Ninety-one years ago, Joseph Stalin and the Soviet regime engineered the Holodomor, a forced and deliberate famine that killed millions of Ukrainians. We remember the men, women, and children who perished during the Holodomor,\" Biden said.\nHe stressed that the U.S. honors the survivors of the Holodomor and their descendants who, despite Stalin's efforts to repress Ukraine's national identity, have built a free, independent, and democratic Ukraine.\n\"Today, as we mark the solemn anniversary of the Holodomor, we also renew our commitment to stand with the Ukrainian people in their time of need,\" Biden said.\nHe recalled that for nearly three years, Russia has been waging a brutal war against the Ukrainian people in an attempt to wipe Ukraine off the map.\n\"In this effort, Russia has failed. Kyiv stands free, thanks in part to the United States and the more than 50 other countries that are committed to providing Ukraine with the assistance it needs to defend itself,\" Biden said.\nIn this regard, he delivered a direct message to the Ukrainian people.\n\"The United States honors your past and stands with you in the present. On this day, we reaffirm our commitment to supporting Ukraine's ongoing defense of its freedom, its pursuit of justice, and its path to the Euro-Atlantic future it has chosen for itself. The courage and strength of the Ukrainian people will prevail,\" Biden said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-remembering-the-holodomor/",
+        "https://whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-remembering-the-holodomor/",
+        "https://www.whitehouse.gov/briefing-room/statements-releases/2024/11/23/statement-from-president-joe-biden-remembering-the-holodomor"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Biden",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Joseph Stalin",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russ",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "ed92ff2dde6159d6c2794d7f4896fc674f292176",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:58:09.714+02:00",
+    "updated": "2024-11-24T00:58:09.714+02:00"
+}

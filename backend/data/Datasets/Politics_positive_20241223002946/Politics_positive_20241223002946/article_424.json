@@ -1,0 +1,128 @@
+{
+    "thread": {
+        "uuid": "8cc1a8ba2ca49479472d838c5d16bf4aac70bff2",
+        "url": "https://markets.businessinsider.com/news/currencies/trump-plans-to-name-pro-crypto-hedge-fund-manager-scott-bessent-as-treasury-secretary-1034056875",
+        "site_full": "markets.businessinsider.com",
+        "site": "businessinsider.com",
+        "site_section": "https://markets.businessinsider.com/news",
+        "site_categories": [
+            "investing",
+            "financial_news",
+            "finance",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sg",
+            "top_news_rs",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_kw",
+            "top_news_fi",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "News | Financial and Business News | Markets Insider",
+        "title": "Trump Picks Pro-Crypto Hedge Fund Manager Scott Bessent for Treasury Secretary",
+        "title_full": "Trump Picks Pro-Crypto Hedge Fund Manager Scott Bessent for Treasury Secretary",
+        "published": "2024-11-23T01:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 126,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "8cc1a8ba2ca49479472d838c5d16bf4aac70bff2",
+    "url": "https://markets.businessinsider.com/news/currencies/trump-plans-to-name-pro-crypto-hedge-fund-manager-scott-bessent-as-treasury-secretary-1034056875",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Helene Braun",
+    "published": "2024-11-23T01:28:00.000+02:00",
+    "title": "Trump Picks Pro-Crypto Hedge Fund Manager Scott Bessent for Treasury Secretary",
+    "text": "U.S. President-elect Donald Trump named hedge fund manager Scott Bessent, a cryptocurrency enthusiast, as his pick for Treasury Secretary. If the Senate confirms him, the next person whose signature adorns U.S. paper currency will be a fan of the digital currency ecosystem set up to replace the conventional financial system. Bessent runs Key Square Group, a macro investing firm. He worked for prominent investor George Soros three decades ago and was, according to The Wall Street Journal , \"one of the driving forces\" behind Soros Fund Management's famous bet — that netted a more than $1 billion profit — that the British pound would collapse. Bitcoin {{BTC}} and crypto as a whole are now in his sights. \"I have been excited about [Trump's] embrace of crypto and I think it fits very well with the Republican Party, the ethos of it. Crypto is about freedom and the crypto economy is here to stay,\" he said in an interview with Fox Business in July. \"Crypto is bringing in young people, people who have not participated in markets.\" Polymarket traders had bet that he was a frontrunner. At one point, Cantor Fitzgerald CEO Howard Lutnick was viewed as one, too, but he was ultimately picked as Commerce Secretary . Lutnick has also dabbled in digital assets, helping stablecoin issuer Tether manage the giant stockpile of U.S. Treasuries that back its USDT stablecoin since 2021. This story originally appeared on Coindesk RELATED EXCHANGE RATES |",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Corporate News and Profiles",
+        "Economy, Business and Finance"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://truthsocial.com/@realDonaldTrump/posts/113529294640959784",
+        "https://www.wsj.com/politics/elections/the-ex-soros-executive-who-is-trumps-new-obsession-4be2d493",
+        "https://www.coindesk.com/policy/2024/11/19/howard-lutnick-tethers-wall-street-banker-is-trumps-pick-for-commerce-chief-not-treasury-secretary-reports/",
+        "https://grabien.com/story.php?id=482742",
+        "https://www.truthsocial.com/@realDonaldTrump/posts/113529294640959784",
+        "https://wsj.com/politics/elections/the-ex-soros-executive-who-is-trumps-new-obsession-4be2d493",
+        "https://grabien.com/story.php",
+        "https://www.coindesk.com/policy/2024/11/19/howard-lutnick-tethers-wall-street-banker-is-trumps-pick-for-commerce-chief-not-treasury-secretary-reports",
+        "https://coindesk.com/policy/2024/11/19/howard-lutnick-tethers-wall-street-banker-is-trumps-pick-for-commerce-chief-not-treasury-secretary-reports/",
+        "https://www.grabien.com/story.php?id=482742"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Scott Bessent",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "George Soros",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Republican Party",
+                "sentiment": "none"
+            },
+            {
+                "name": "Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T02:34:21.271+02:00",
+    "updated": "2024-11-23T02:34:21.271+02:00"
+}

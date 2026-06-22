@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "d208c4f55c837355c28504d345c1670c4f21d4ed",
+        "url": "https://www.camera.org/article/pbs-newshour-doubles-down-on-inaccurate-reporting-about-israel",
+        "site_full": "www.camera.org",
+        "site": "camera.org",
+        "site_section": "https://www.camera.org",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "CAMERA",
+        "title": "PBS Newshour Doubles Down on Inaccurate Reporting about Israel | CAMERA",
+        "title_full": "PBS Newshour Doubles Down on Inaccurate Reporting about Israel | CAMERA",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.camera.org/wp-content/uploads/2023/12/PBS.Newshour.jpg",
+        "performance_score": 0,
+        "domain_rank": 54745,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d208c4f55c837355c28504d345c1670c4f21d4ed",
+    "url": "https://www.camera.org/article/pbs-newshour-doubles-down-on-inaccurate-reporting-about-israel",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "PBS Newshour Doubles Down on Inaccurate Reporting about Israel | CAMERA",
+    "text": "Earlier this month CAMERA wrote about a [PBS Newshour report](https://www.camera.org/article/pbs-newshour-makes-inaccurate-claim-about-international-law/) that inaccurately described international law, and then portrayed Israel as breaking the law. Not only did PBS refuse to correct this claim, it has doubled down with more biased reporting. On the [November 11 edition](https://www.pbs.org/newshour/show/humanitarian-chief-jan-egeland-says-israel-deliberately-starving-people-in-gaza) of PBS Newshour, Nick Schifrin began his report by saying, “this weekend, an independent famine review committee affiliated with the United Nations declared that across Northern Gaza, starvation, malnutrition and excess mortality are, quote, rapidly increasing, and famine thresholds may have already been crossed or else will be in the near future.”\nBut the [statement](https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_FRC_Alert_Gaza_Nov2024.pdf) Schifrin referenced was not based on data. The fuller passage that was quoted says, “It can therefore be assumed that starvation, malnutrition, and excess mortality due to malnutrition and disease, are rapidly increasing in these areas. Famine thresholds may have already been crossed or else will be in the near future.” (Emphasis added.) When it comes to the UN, bias against the Jewish state is pervasive and ubiquitous, and the claim that there is such a thing as an “independent” committee affiliated with the UN is itself suspect. Such assumptions, therefore, ought to be met with some degree of skepticism. Schifrin, instead, elevated this biased assumption to a fact and led his report with it.\nSchifrin then introduced his guest, Jan Egeland, the head of a Norwegian NGO, who was permitted to make baseless claims about the way Israel is conducting this war unchallenged. Egeland falsely called Israel’s bombing in Gaza “indiscriminate,” and said that Israel is “carpet-bombing” Gaza.\nIsrael is targeting [Hamas infrastructure](https://www.fdd.org/analysis/2024/10/15/idf-pushes-to-weaken-hamas-in-north-gaza/) in Gaza just as it is targeting Hezbollah infrastructure in Lebanon. The problem, as CAMERA readers surely know, is that Hamas infrastructure is embedded and interwoven within civilian infrastructure. But only to someone blind to Hamas could it appear that Israel is “[carpet bombing](https://www.merriam-webster.com/dictionary/carpet-bomb)” Gaza.\nSchifrin did push back, mildly, on Egeland’s claim that Israel is starving women and children “deliberately,” with the Israeli statement that 700 trucks filled with aid had gone in to Gaza within the past month. In response, Egeland said, “I’m amazed how journalists sort of take one party in a very dirty war as a good source. Don’t believe the Israeli propaganda. Don’t believe Hamas propaganda. Don’t believe Hezbollah propaganda.” Yet just a few sentences later, in the very same answer, Egeland himself regurgitates Hamas propaganda, claiming “Israel is deliberately starving the population,” and belying his claim to be “independent, neutral, [and] impartial.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_FRC_Alert_Gaza_Nov2024.pdf",
+        "https://www.merriam-webster.com/dictionary/carpet-bomb",
+        "https://www.fdd.org/analysis/2024/10/15/idf-pushes-to-weaken-hamas-in-north-gaza/",
+        "https://www.pbs.org/newshour/show/humanitarian-chief-jan-egeland-says-israel-deliberately-starving-people-in-gaza",
+        "https://pbs.org/newshour/show/humanitarian-chief-jan-egeland-says-israel-deliberately-starving-people-in-gaza",
+        "https://www.fdd.org/analysis/2024/10/15/idf-pushes-to-weaken-hamas-in-north-gaza",
+        "https://fdd.org/analysis/2024/10/15/idf-pushes-to-weaken-hamas-in-north-gaza/",
+        "https://ipcinfo.org/fileadmin/user_upload/ipcinfo/docs/IPC_FRC_Alert_Gaza_Nov2024.pdf",
+        "https://merriam-webster.com/dictionary/carpet-bomb"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nick Schifrin",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United Nations",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:05:39.182+02:00",
+    "updated": "2024-11-23T00:05:39.182+02:00"
+}

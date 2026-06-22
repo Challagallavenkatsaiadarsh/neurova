@@ -1,0 +1,86 @@
+{
+    "thread": {
+        "uuid": "85a8a86b35bc49a43009db9efef3b2189e137d5b",
+        "url": "https://iowastartingline.com/2024/11/22/sen-nate-boulton-concedes-to-mike-pike-following-recount",
+        "site_full": "iowastartingline.com",
+        "site": "iowastartingline.com",
+        "site_section": "https://iowastartingline.com/feed/",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Iowa Starting Line",
+        "title": "Sen. Nate Boulton concedes to Mike Pike following recount",
+        "title_full": "Sen. Nate Boulton concedes to Mike Pike following recount",
+        "published": "2024-11-22T22:52:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://iowastartingline.com/wp-content/uploads/sites/4/2024/11/boulton-otherguy2.jpg",
+        "performance_score": 0,
+        "domain_rank": 104011,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "85a8a86b35bc49a43009db9efef3b2189e137d5b",
+    "url": "https://iowastartingline.com/2024/11/22/sen-nate-boulton-concedes-to-mike-pike-following-recount",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Zachary Oren Smith",
+    "published": "2024-11-22T22:52:00.000+02:00",
+    "title": "Sen. Nate Boulton concedes to Mike Pike following recount",
+    "text": "A recount confirmed Republican Mike Pike’s victory over Democratic incumbent state Sen. Nate Boulton.\nThe votes were counted and recounted. And Mike Pike flipped Senate District 20 red.\nThe Republican will represent an area that includes Des Moines, Altoona, Pleasant Hill and southwest Ankeny.\nAt the end of election night, Pike was ahead by 44 votes.\nFollowing the recount results Friday, state Sen. Nate Boulton conceded the race, thanking supporters.\n“It’s been an honor to serve two terms in the Iowa Senate. I look forward to a new phase in my advocacy for working Iowans,” Bolton wrote on X, formerly Twitter.\nWhen the Legislative session begins this January, the Iowa Senate will remain in Republican hands.\nThe seat was among three Iowa Legislative races and one congressional race where the candidate trailing called for a recount.\nElection 2024\nSupport Our Cause\nThank you for taking the time to read our work. Before you go, we hope you'll consider supporting our values-driven journalism, which has always strived to make clear what's really at stake for Iowans and our future.\nSince day one, our goal here at Iowa Starting Line has always been to empower people across the state with fact-based news and information. We believe that when people are armed with knowledge about what's happening in their local, state, and federal governments—including who is working on their behalf and who is actively trying to block efforts aimed at improving the daily lives of Iowan families—they will be inspired to become civically engaged.\n<a href=\"https://www.paypal.com/donate/?hosted_button_id=U85M5ALVUVF2A\">\nYour support keeps us going\nHelp us continue delivering fact-based news to Iowans\n</a>\nHarris says nation must accept election results while urging supporters to keep fighting\nHarris delivered her remarks at Howard University, her alma mater and one of the country's most prominent historically Black schools, in the same...\nAime Wichtendahl makes history again, first trans woman elected to Iowa House\nIowa's first-elected transgender woman, Aime Wichtendahl, made history a second time when she won a seat in the Iowa Legislature. Wichtendahl, a...\nWe care for us: Iowa places to support as another Trump presidency looms\nWe care for us: That's the message we want Iowans to carry with them in the immediate aftermath of the election, instead of despair. Starting Line...\nRepublicans maintain control in Iowa, see small gains on historic majorities\nDespite some Democratic wins, Republicans carried the night. They maintain control of the Iowa Legislature and congressional seats. Going into...\nTrump wins the White House\nIn state after state, Trump outperformed what he did in the 2020 election while Harris failed to do as well as Joe Biden did in winning the...\nPresidential race too close to call as vote counts continue in key swing states\nResults in Michigan, Pennsylvania, and Wisconsin may not come in until Wednesday morning, and Arizona and Nevada are unlikely to see calls made...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Nate Boulton",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mike Pike",
+                "sentiment": "none"
+            },
+            {
+                "name": "Bolton",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Iowa Senate",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:03:42.868+02:00",
+    "updated": "2024-11-23T00:03:42.868+02:00"
+}

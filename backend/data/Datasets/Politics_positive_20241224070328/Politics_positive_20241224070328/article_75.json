@@ -1,0 +1,76 @@
+{
+    "thread": {
+        "uuid": "cee92b3bdf90d827509131e5af7480ce3b0f8f94",
+        "url": "https://www.thenews.com.pk/print/1254390-tepa-ordered-to-ensure-implementation-of-parking-agreements",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://www.thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "TEPA ordered to ensure implementation of parking agreements",
+        "title_full": "TEPA ordered to ensure implementation of parking agreements",
+        "published": "2024-11-24T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-24/l_1254390_025747_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "cee92b3bdf90d827509131e5af7480ce3b0f8f94",
+    "url": "https://www.thenews.com.pk/print/1254390-tepa-ordered-to-ensure-implementation-of-parking-agreements",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Our Correspondent",
+    "published": "2024-11-24T00:00:00.000+02:00",
+    "title": "TEPA ordered to ensure implementation of parking agreements",
+    "text": "Lahore Development Authority (LDA) Director General Tahir Farooq. — Facebook@sufian.bajar/file",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T00:41:08.945+02:00",
+    "updated": "2024-11-24T10:29:54.349+02:00"
+}

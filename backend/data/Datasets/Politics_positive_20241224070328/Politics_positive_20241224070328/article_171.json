@@ -1,0 +1,104 @@
+{
+    "thread": {
+        "uuid": "7fc33754f029747be1a950578aaf5e20fd2d4ef1",
+        "url": "https://pledgetimes.com/madrid-the-first-spanish-community-to-work-with-scope",
+        "site_full": "pledgetimes.com",
+        "site": "pledgetimes.com",
+        "site_section": "https://www.pledgetimes.com",
+        "site_categories": [
+            "financial_news",
+            "finance"
+        ],
+        "section_title": "Pledge Times -",
+        "title": "Madrid, the first Spanish community to work with Scope",
+        "title_full": "Madrid, the first Spanish community to work with Scope",
+        "published": "2024-11-24T00:25:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 71730,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "7fc33754f029747be1a950578aaf5e20fd2d4ef1",
+    "url": "https://pledgetimes.com/madrid-the-first-spanish-community-to-work-with-scope",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "admin_l6ma5gus",
+    "published": "2024-11-24T00:25:00.000+02:00",
+    "title": "Madrid, the first Spanish community to work with Scope",
+    "text": "The Community of Madrid has become the first Spanish administration to work formally with the German rating agency Scope, thus reaffirming the regional government’s support for the European Union’s rating agency sector.\nFounded in 2002 Scope is the first European credit rating agency what is authorized by the European Central Bank in the credit assessment framework of the eurosystem (ECAF), indicates the Ministry of Economy and Finance in a statement.\nLast September this agency improved to A with Stable Outlook from A- the rating of the Community of Madrid, which is the only region of Spain with the same rating as the National Treasury in the main international agencies.\nThus, it has the grade A with Stable Outlook granted by S&P, the A rating with Positive Outlook from DBRS, the A- rating with Positive Outlook from FitchRatings and the Baa1 rating with Positive Outlook from Moody’s.\nLikewise, it has the lowest debt of all the regions of Spain that do not have a special regime with a 12.8% of GDP 9.1 points below the average of the autonomous communities, which stands at 21.9%.\nIn the last year, this debt-to-GDP ratio has been reduced by 0.6 points passing from 13.4% to 12.8% In the second quarter of 2024, the counseling concludes.\nWhatsApp Twitter Linkedin Beloud\n#Madrid #Spanish #community #work #Scope",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://s03.s3c.es/imag3/logos/logos-redes/beloud-menu.svg",
+        "https://twitter.com/share?text=Madrid%2C+primera+comunidad+espa%C3%B1ola+que+trabaja+con+Scope&url=https://www.eleconomista.es/economia/noticias/13100850/11/24/madrid-primera-comunidad-espanola-que-trabaja-con-scope.html&via=elEconomistaes&id=1648118839245_twitter",
+        "https://twitter.com/share?text=Madrid%2C+primera+comunidad+espa%C3%B1ola+que+trabaja+con+Scope&url=https://eleconomista.es/economia/noticias/13100850/11/24/madrid-primera-comunidad-espanola-que-trabaja-con-scope.html&via=elEconomistaes&id=1648118839245_twitter",
+        "https://twitter.com/share",
+        "https://www.s03.s3c.es/imag3/logos/logos-redes/beloud-menu.svg"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Community of Madrid",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ministry of Economy and Finance",
+                "sentiment": "none"
+            },
+            {
+                "name": "European Central Bank",
+                "sentiment": "none"
+            },
+            {
+                "name": "National Treasury",
+                "sentiment": "none"
+            },
+            {
+                "name": "European Union",
+                "sentiment": "none"
+            },
+            {
+                "name": "DBRS",
+                "sentiment": "none"
+            },
+            {
+                "name": "S&P",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T01:27:39.616+02:00",
+    "updated": "2024-11-24T01:27:39.616+02:00"
+}

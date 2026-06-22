@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "f797342b691a06cd215ddc2a8416abdedcbdeedd",
+        "url": "https://www.thenews.com.pk/print/1254073-north-korea-s-kim-accuses-us-of-stoking-tension-warns-of-nuclear-war",
+        "site_full": "www.thenews.com.pk",
+        "site": "thenews.com.pk",
+        "site_section": "https://thenews.com.pk",
+        "site_categories": [
+            "media",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_za",
+            "top_news_ie",
+            "top_news_nz",
+            "top_news"
+        ],
+        "section_title": "The News International: Latest News Breaking, Pakistan News",
+        "title": "North Korea’s Kim accuses US of stoking tension, warns of nuclear war",
+        "title_full": "North Korea’s Kim accuses US of stoking tension, warns of nuclear war",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.thenews.com.pk/assets/uploads/akhbar/2024-11-23/l_1254073_041757_updates.jpg",
+        "performance_score": 0,
+        "domain_rank": 5015,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f797342b691a06cd215ddc2a8416abdedcbdeedd",
+    "url": "https://www.thenews.com.pk/print/1254073-north-korea-s-kim-accuses-us-of-stoking-tension-warns-of-nuclear-war",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@Reuters",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "North Korea’s Kim accuses US of stoking tension, warns of nuclear war",
+    "text": "SEOUL: North Korean leader Kim Jong Un has accused the United States of ramping up tension and provocations, saying the Korean peninsula has never faced a greater risk of nuclear war, state media KCNA said on Friday. The comments came amid international criticism over increasingly close military co-operation between Pyongyang and Moscow, and assertions that North Korea sent more than 10,000 troops to Russia to support its invasion of Ukraine. Previous negotiations with Washington have only highlighted its “aggressive and hostile” policy toward North Korea, Kim said in a speech at a military exhibition in Pyongyang, the capital, the KCNA news agency said. “Never before have the warring parties on the Korean peninsula faced such a dangerous and acute confrontation that it could escalate into the most destructive thermonuclear war,” he said on Thursday. “We have already gone as far as we can on negotiating with the United States,” he said, adding that the talks had only shown its aggressive and hostile policy toward North Korea could never change. North Korean state media have not yet publicly mentioned the re-election of Donald Trump, who held three unprecedented meetings with Kim during his first term, in Singapore, Hanoi, and at the Korean border, in 2018 and 2019. But their diplomacy yielded no concrete outcome due to the gap between US calls for North Korea to abandon its nuclear weapons and Kim’s demands for sanctions relief. Trump has long touted his ties with Kim, saying last month the two countries would have had “a nuclear war with millions of people killed”, but he had stopped it, thanks to his ties with the North’s leader. Hong Min, a research fellow at the Korea Institute for National Unification in Seoul, said Kim could be trying to underscore the North’s nuclear capabilities ahead of Trump’s second term, while leaving the door open for diplomacy. US President-elect Donald Trump.— AFP/file NEW YORK: The judge in Donald Trump´s criminal hush money case ordered... Russian President Vladimir Putin conducts an exercise of Russia's strategic nuclear deterrence forces to train actions... Pantsir-S surface-to-air missile and anti-aircraft artillery systems move through Red Square in Moscow, Russia. —... The Iranian flag flutters in front of the International Atomic Energy Agency organisation's headquarters in Vienna,... Indian Prime Minister Narendra Modi listens as President Joe Biden, not pictured, delivers remarks during an event... A Taliban security personnel stands in Baraki Barak district of Logar Province. — AFP/fileKABUL: At least 10 people...",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kim Jong Un",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "KCNA",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Pyongyang",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:33:56.363+02:00",
+    "updated": "2024-11-23T01:37:58.673+02:00"
+}

@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "19b80d4bd5bc5f93c425fae29a3809cd9f57bba2",
+        "url": "https://www.barrietoday.com/local-news/bill-212-hwy-413-traffic-act-set-dangerous-precedent-ontario-nature-9849626",
+        "site_full": "www.barrietoday.com",
+        "site": "barrietoday.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "Bill 212, Hwy. 413 Traffic Act 'set dangerous precedent': Ontario Nature",
+        "title_full": "Bill 212, Hwy. 413 Traffic Act 'set dangerous precedent': Ontario Nature",
+        "published": "2024-11-23T01:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "CA",
+        "main_image": "https://www.vmcdn.ca/f/files/bradfordtoday/2024-01-04cr4mo001.JPG;w=1200;h=800;mode=crop",
+        "performance_score": 0,
+        "domain_rank": 76728,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "19b80d4bd5bc5f93c425fae29a3809cd9f57bba2",
+    "url": "https://www.barrietoday.com/local-news/bill-212-hwy-413-traffic-act-set-dangerous-precedent-ontario-nature-9849626",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T01:30:00.000+02:00",
+    "title": "Bill 212, Hwy. 413 Traffic Act 'set dangerous precedent': Ontario Nature",
+    "text": "NEWS RELEASE\nONTARIO NATURE\n************************\nOn Nov. 20, Ontario Nature and its partners submitted their analysis of the government of Ontario’s misleadingly titled Bill 212, Reducing Gridlock, Saving You Time Act, 2024 and the Highway 413 Act on the day that the Environmental Registry of Ontario comment period closed.\nThese proposals would expedite large infrastructure projects – such as the controversial Highway 413 and the Bradford Bypass – without proper environmental assessments, Indigenous consultation and public transparency.\nFalsely presented as an effort to reduce congestion in the Greater Toronto Area (GTA), these proposals would override municipal bylaws, affect property rights, threaten the Greenbelt and vital farmland, and destroy significant natural areas like the Holland Marsh.\nThe attack on bike lanes has understandably been a flashpoint in the news, but it is only one of the many regressive aspects of Bill 212.\nThe government of Ontario is seeking to rush this process without honest accounting of the true economic and environmental costs. It is well documented that more highways lead to more demand, increasing congestion. In fact, an expert panel determined that Highway 413 will only save drivers in the GTA about 30 to 60 seconds per trip.\nRecent polling by EOS found that 81 per cent of respondents side with farmers in objecting to Highway 413, and that 74 per cent agree that the Greenbelt is no place for new highways. The question becomes, who the government is doing this for?\n“Bill 212 and the Highway 413 Act set a dangerous precedent for major infrastructure projects in Ontario,” said Tony Morris, Ontario Nature’s director of conservation policy and campaigns. “There are cheaper and more effective alternatives to alleviate congestion than building more highways. A comprehensive review of the total costs and environmental impacts is missing in the rush associated with Bill 212 and the Highway 413 Act.”\nThis continues a pattern of promoting sprawl and car dependency that we’ve seen with other changes to Ontario’s planning framework and weakening of environmental protections. Farmland and natural areas in southern Ontario are already limited, so paving over more of these vital areas will jeopardize Ontario’s resilience to climate change and food security.\nOntario Nature calls on the government of Ontario to abandon Bill 212 and the Highway 413 Act in favour of more cost-effective, environmentally sustainable and socially responsible solutions to traffic congestion.\n***********************",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Environment"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ontario Nature",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Environmental Registry of Ontario",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:38:47.141+02:00",
+    "updated": "2024-11-23T02:57:08.849+02:00"
+}

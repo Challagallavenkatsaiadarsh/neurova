@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "0de0496a707d2e64ee8f00f950095fa4d6fe9d36",
+        "url": "https://www.foxnews.com/video/6365066186112",
+        "site_full": "www.foxnews.com",
+        "site": "foxnews.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_us",
+            "top_news_pt",
+            "top_news_gb",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_nl",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_se",
+            "top_news_dk",
+            "top_news_ch",
+            "top_news_za",
+            "top_news_my",
+            "top_news_il",
+            "top_news_fi",
+            "top_news_be",
+            "top_news_no",
+            "top_news_ca",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "David Schoen argues why the New York v. Trump case needs to be 'dismissed' | Fox News Video",
+        "title_full": "David Schoen argues why the New York v. Trump case needs to be 'dismissed' | Fox News Video",
+        "published": "2024-11-23T00:21:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba03f249-8bed-4ac7-985c-57f3ff935573/50be086f-5879-4fc8-83ea-a4c3b18ffdfc/1280x720/match/1024/512/image.jpg?ve=1&amp;tl=1",
+        "performance_score": 0,
+        "domain_rank": 317,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "0de0496a707d2e64ee8f00f950095fa4d6fe9d36",
+    "url": "https://www.foxnews.com/video/6365066186112",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T00:21:00.000+02:00",
+    "title": "David Schoen argues why the New York v. Trump case needs to be 'dismissed' | Fox News Video",
+    "text": "to top close Video This video is playing in picture-in-picture. Life Liberty Levin November 22, 2024 02:56 CLIP David Schoen argues why the New York v. Trump case needs to be 'dismissed' Former Trump impeachment lawyer David Schoen David Schoen says it's 'absurd' if they try to 'revive' the New York v. Trump case four years from now on 'Life, Liberty & Levin.'\nFacebook Twitter Email Copy to clipboard Copy to clipboard Tags POLITICS SHOWS WHAT TO WATCH | VIDEOS LATEST NEWS | VIDEOS ON AIR LIFE LIBERTY & LEVIN DONALD TRUMP TRUMP TRANSITION Live Now All times eastern NOW - 6:00 PM 6:00 PM 6:30 PM 7:00 PM 7:30 PM 8:00 PM Fox News Channel The Five 5:00 PM - 6:00 PM Watch Special Report with Bret Baier 6:00 PM - 7:00 PM The Ingraham Angle 7:00 PM - 8:00 PM Jesse Watters Primetime 8:00 PM - 8:30 PM Fox Business Channel The Evening Edit with Elizabeth Macdonald 5:00 PM - 6:00 PM Watch The Bottom Line 6:00 PM - 7:00 PM Maria Bartiromo's Wall Street 7:00 PM - 7:30 PM Barron's Roundtable 7:30 PM - 8:00 PM COPS 8:00 PM - 8:30 PM Fox Weather Channel Fox Weather Live Stream Watch Fox News Radio FOX News Radio Live Channel Coverage Live Stream Watch Fox News Channel Live WATCH LIVE: Biden hosts the Boston Celtics at the White House to celebrate their 2024 NBA victory Live Stream Watch",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Crime, Law and Justice",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:55:45.403+02:00",
+    "updated": "2024-11-23T00:55:45.403+02:00"
+}

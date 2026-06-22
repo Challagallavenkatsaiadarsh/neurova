@@ -1,0 +1,136 @@
+{
+    "thread": {
+        "uuid": "adddad08dc9563398baab5f227e90a92e4a0514b",
+        "url": "https://www.newsbreak.com/newsnation-2045693/3686385483964-trump-picks-project-2025-author-russell-vought-to-lead-budget-office",
+        "site_full": "www.newsbreak.com",
+        "site": "newsbreak.com",
+        "site_section": "https://www.newsbreak.com/newsnation-2045693",
+        "site_categories": [
+            "under_construction"
+        ],
+        "section_title": "NewsNation&#x27;s Home Page | NewsBreak",
+        "title": "",
+        "title_full": "",
+        "published": "2024-11-23T03:28:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "",
+        "main_image": "https://img.particlenews.com/img/id/0g2M78_0wyUEIb100?type=thumbnail_1600x1200",
+        "performance_score": 0,
+        "domain_rank": 3674,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "adddad08dc9563398baab5f227e90a92e4a0514b",
+    "url": "https://www.newsbreak.com/newsnation-2045693/3686385483964-trump-picks-project-2025-author-russell-vought-to-lead-budget-office",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "NewsBreak Original",
+    "published": "2024-11-23T03:28:00.000+02:00",
+    "title": "",
+    "text": "By Juliann Ventura The Hill ,\n2 hours ago\nPresident-elect Donald Trump tapped Project 2025 co-author Russell Vought to serve as the director of the Office of Management and Budget (OMB) during his second administration.\nVought served as Trump’s OMB deputy director during his first term in the Oval Office.\n“I am very pleased to nominate Russell Thurlow Vought, from the Great State of Virginia, as the Director of the United States Office of Management and Budget (OMB),” Trump wrote in a post on Truth Social on Friday.\n“He did an excellent job serving in this role in my First Term – We cut four Regulations for every new Regulation, and it was a Great Success!” he added in the post.\nVought penned the chapter on the Executive Office of the President of the United States — which largely references OMB — in The Heritage Foundation’s Project 2025, a “governing agenda” filled with conservative priorities and insight from scholars and policy experts.\nTrump on the campaign trail sought to distance himself from the playbook, previously saying he has “nothing to do with it,” especially as it came under fire for some of its more controversial policies. Democrats launched a campaign earlier this year to push back on Project 2025, forming a task force to fight what they said is a threat to the institutions of American democracy and government.\nThe project makes a wide range of policy proposals, perhaps most notably reshaping the powers of the executive branch. It also calls for striking various small government agencies and rolling back funding for abortions and approval of the abortion pill mifepristone.\nhttps://trumpwhitehouse.archives.gov/people/russell-vought Copyright 2024 Nexstar Media, Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. For the latest news, weather, sports, and streaming video, head to NewsNation.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://thehill.com/homenews/campaign/4756602-trump-project-2025-heritage-foundation/",
+        "https://img.particlenews.com/image.php?url=0g2M78_0wyUEIb100",
+        "https://trumpwhitehouse.archives.gov/people/russell-vought",
+        "https://www.newsnationnow.com/politics/donald-trump-new-administration/",
+        "https://www.newsnationnow.com",
+        "https://truthsocial.com/@realDonaldTrump/posts/113529338208908362",
+        "https://img.particlenews.com/image.php?type=thumbnail_580x000&url=0g2M78_0wyUEIb100",
+        "https://thehill.com/homenews/house/4714841-democrats-launch-effort-to-counter-conservatives-sweeping-project-2025/",
+        "https://www.img.particlenews.com/image.php?type=thumbnail_580x000&url=0g2M78_0wyUEIb100",
+        "https://www.newsnationnow.com/politics/donald-trump-new-administration",
+        "https://thehill.com/homenews/campaign/4756602-trump-project-2025-heritage-foundation",
+        "https://newsnationnow.com",
+        "https://img.particlenews.com/image.php",
+        "https://www.thehill.com/homenews/house/4714841-democrats-launch-effort-to-counter-conservatives-sweeping-project-2025/",
+        "https://www.img.particlenews.com/image.php?url=0g2M78_0wyUEIb100",
+        "https://www.trumpwhitehouse.archives.gov/people/russell-vought",
+        "https://thehill.com/homenews/house/4714841-democrats-launch-effort-to-counter-conservatives-sweeping-project-2025",
+        "https://newsnationnow.com/politics/donald-trump-new-administration/",
+        "https://www.truthsocial.com/@realDonaldTrump/posts/113529338208908362",
+        "https://www.thehill.com/homenews/campaign/4756602-trump-project-2025-heritage-foundation/"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Juliann Ventura The Hill",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Russell Thurlow Vought",
+                "sentiment": "none"
+            },
+            {
+                "name": "Russell Vought",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "United States Office of Management and Budget",
+                "sentiment": "none"
+            },
+            {
+                "name": "Heritage Foundation",
+                "sentiment": "none"
+            },
+            {
+                "name": "Executive Office",
+                "sentiment": "none"
+            },
+            {
+                "name": "Vought",
+                "sentiment": "none"
+            },
+            {
+                "name": "OMB",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Great State of",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oval Office",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T05:31:08.902+02:00",
+    "updated": "2024-11-23T05:31:08.902+02:00"
+}

@@ -1,0 +1,80 @@
+{
+    "thread": {
+        "uuid": "d4405c6a2113c2148ae4011bba30347474ae5d3b",
+        "url": "https://play.prx.org/listen?ge=prx_299_64601069-819a-4448-a938-0fc2e5a6c818&uf=http%3A%2F%2Ffeeds.feedburner.com%2Fpri%2Ftheworld",
+        "site_full": "play.prx.org",
+        "site": "prx.org",
+        "site_section": "http://www.studio360.org/feeds/episodes",
+        "site_categories": [],
+        "section_title": "The World",
+        "title": "Brazil's former President Bolsonaro is indicted",
+        "title_full": "Brazil's former President Bolsonaro is indicted",
+        "published": "2024-11-23T00:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://f.prxu.org/299/images/b0305e95-9a86-448b-b3f5-fb6b87f921cd/tw-latest-edition-3000.jpg",
+        "performance_score": 0,
+        "domain_rank": 6694,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "d4405c6a2113c2148ae4011bba30347474ae5d3b",
+    "url": "https://play.prx.org/listen?ge=prx_299_64601069-819a-4448-a938-0fc2e5a6c818&uf=http%3A%2F%2Ffeeds.feedburner.com%2Fpri%2Ftheworld",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "PRX (help@prx.org)",
+    "published": "2024-11-23T00:00:00.000+02:00",
+    "title": "Brazil's former President Bolsonaro is indicted",
+    "text": "Host Marco Werman and his team of producers bring you the world's most interesting stories that remind us just how small our planet really is.\nHost Marco Werman and his team of producers bring you the world's most interesting stories that remind us just how small our planet really is.\nPolice in Brazil say they've indicted former President Jair Bolsonaro — along with three dozen others — for allegedly planning a coup to keep Bolsonaro in power in 2022. Also, Albania will transform an Islamic Sufi order into a sovereign state. If all goes to plan, the Sovereign State of the Bektashi Order will become the world's smallest state, just a quarter of the size of Vatican City, with its own administration, passports and borders. And, the Cambridge Dictionary's English word of the year is \"manifest.\" But what about words of the year in other languages?\nListen to today’s Music Heard on Air.\nListener support ensures that the coverage we provide on air, online and through our podcast is free and accessible to everyone. Help us keep The World free! Give today!",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Marco Werman",
+                "sentiment": "positive"
+            },
+            {
+                "name": "Jair Bolsonaro",
+                "sentiment": "neutral"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Vatican City",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:30:01.470+02:00",
+    "updated": "2024-11-23T00:30:01.470+02:00"
+}

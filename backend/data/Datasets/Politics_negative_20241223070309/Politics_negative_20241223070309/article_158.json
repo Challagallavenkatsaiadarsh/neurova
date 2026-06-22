@@ -1,0 +1,113 @@
+{
+    "thread": {
+        "uuid": "bc43a2f98ed6dc53a08b61a1d2d3f86ebb6e2e71",
+        "url": "https://timesofindia.indiatimes.com/india/sc-extends-grap-4-till-monday-delhis-air-turns-severe-again-later-in-day/articleshow/115579317.cms",
+        "site_full": "timesofindia.indiatimes.com",
+        "site": "indiatimes.com",
+        "site_section": "https://timesofindia.indiatimes.com/entertainment/trichy/movies/1680",
+        "site_categories": [
+            "under_construction",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_ae",
+            "top_news_us",
+            "top_news_gb",
+            "top_news_th",
+            "top_news_sa",
+            "top_news_sg",
+            "top_news_ph",
+            "top_news_hk",
+            "top_news_nl",
+            "top_news_qa",
+            "top_news_ie",
+            "top_news_pk",
+            "top_news_id",
+            "top_news_dk",
+            "top_news_eg",
+            "top_news_za",
+            "top_news_my",
+            "top_news_kw",
+            "top_news_be",
+            "top_news_in",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news"
+        ],
+        "section_title": "Movies in Trichy: Now Showing &amp; Upcoming Movies in Trichy | Top Theatres in Trichy | eTimes",
+        "title": "SC extends Grap-4 till Monday; Delhi's air turns 'severe' again later in day | India News - Times of India",
+        "title_full": "SC extends Grap-4 till Monday; Delhi's air turns 'severe' again later in day | India News - Times of India",
+        "published": "2024-11-22T22:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://static.toiimg.com/thumb/msid-115580149,width-1070,height-580,imgsize-1112728,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "performance_score": 0,
+        "domain_rank": 285,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bc43a2f98ed6dc53a08b61a1d2d3f86ebb6e2e71",
+    "url": "https://timesofindia.indiatimes.com/india/sc-extends-grap-4-till-monday-delhis-air-turns-severe-again-later-in-day/articleshow/115579317.cms",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "TNN",
+    "published": "2024-11-22T22:49:00.000+02:00",
+    "title": "SC extends Grap-4 till Monday; Delhi's air turns 'severe' again later in day | India News - Times of India",
+    "text": "India News: NEW DELHI: Supreme Court Friday refused to relax the strict measures in force under stage 4 of Grap despite Delhi's air quality improving a bit from '.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Environment",
+        "Politics",
+        "Health"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Amit Anand Choudhary.SC",
+                "sentiment": "none"
+            },
+            {
+                "name": "Augustine George Masih",
+                "sentiment": "none"
+            },
+            {
+                "name": "Oka",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Supreme Court",
+                "sentiment": "negative"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:18:57.066+02:00",
+    "updated": "2024-11-23T00:57:11.241+02:00"
+}

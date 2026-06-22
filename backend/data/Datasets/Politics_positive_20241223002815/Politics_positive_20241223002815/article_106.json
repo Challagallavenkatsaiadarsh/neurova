@@ -1,0 +1,102 @@
+{
+    "thread": {
+        "uuid": "5e044d5b433ff0a66a9f23563286713daeabacf7",
+        "url": "https://nypost.com/2024/11/22/opinion/trump-and-elon-musk-bring-american-swagger-back-to-space",
+        "site_full": "nypost.com",
+        "site": "nypost.com",
+        "site_section": "https://nypost.com/rss",
+        "site_categories": [
+            "social",
+            "top_news_pk",
+            "top_news_gb",
+            "top_news_il",
+            "top_news_dk",
+            "top_news_se",
+            "top_news_nz",
+            "top_news_au",
+            "top_news_sg",
+            "top_news_ie",
+            "top_news_za",
+            "top_news_ph",
+            "top_news_us",
+            "top_news_ca",
+            "top_news_iq",
+            "top_news_at",
+            "top_news"
+        ],
+        "section_title": "New York Post",
+        "title": "Trump and Elon Musk bring American swagger back to space",
+        "title_full": "Trump and Elon Musk bring American swagger back to space",
+        "published": "2024-11-23T00:24:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://nypost.com/wp-content/uploads/sites/2/2024/11/u-s-president-elect-donald-94122614-e1732312171765.jpg?quality=75&#038;strip=all&#038;w=1024",
+        "performance_score": 0,
+        "domain_rank": 357,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "5e044d5b433ff0a66a9f23563286713daeabacf7",
+    "url": "https://nypost.com/2024/11/22/opinion/trump-and-elon-musk-bring-american-swagger-back-to-space",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Rich Lowry",
+    "published": "2024-11-23T00:24:00.000+02:00",
+    "title": "Trump and Elon Musk bring American swagger back to space",
+    "text": "At his Madison Square Garden event a week before the election, Donald Trump went on an extended riff about the famous “chopstick” maneuver of Elon Musk’s Space X.\nIn describing his slack-jawed amazement at watching the feat — the first stage of a Starship rocket returning to the launch tower upon coming back to Earth — Trump spoke for all us.\nThe various videos of the operation that witnesses have posted online never get old.\nIt’s not just the technical achievement — the joyous awe of spectators is itself wonderful to behold.\nThe other day, President-elect Trump took time off from forming his new administration to travel to South Texas with Musk to observe another test launch of Starship, and why not?\nRockets are an enduring object of human fascination, and Space X is bringing an appropriate sense of brio to one of mankind’s coolest ventures .\nMore From Rich Lowry ‘Whispered conversations’ on woke overreach drove pro-Trump election backlash There’s a reason progressives don’t have their own Joe Rogan Democrats learn the hard way we won’t be bullied by trans moralism Modern rocketry is the product of a couple of centuries of human thought and ingenuity, from the 13th century when the Chinese used “arrows of flying fire” to fight the Mongols, to Newton’s 16th-century work on the laws of motion, to the experiments of Robert Goddard early in the 20th century, to the advances driven by World War II and the Cold War.\nA rocket launch is literally spectacular. It is a feast for the eyes and an assault on the ears, as a tall, thin projectile is, after a controlled explosion, propelled upwards on a raging plume of fire.\nThe iconic 1969 launch of Apollo 11 on the sleek, instantly recognizable Saturn V rocket emblazoned with the words “United States” in red lettering remains a thing of beauty, and a symbol of 20th-century technological achievement.\nA rocket is otherworldly in more than one sense.\nA car can be analogized to horse. A plane can be analogized to a bird. A rocket is like nothing in nature.\nAnd it promises to take us to worlds beyond our own, whether outer space, or the moon — or, if Musk can achieve his ambitions, Mars.\nThere is an inherent risk to the enterprise, making it even more compelling.\nThe countdown of mission control always holds a certain drama, and the announcement of “liftoff!” always carries a justified tone of triumph.\nSpace X’s chopstick operation had a little of all of this.\nThe returning rocket stage looked like a Roman candle flying in reverse, and it created visible — and then audible — sonic booms as it descended.\nIt represented a new frontier in human achievement, since such a thing had never been done before.\nAnd, as it hovered above the tower, the success of the test remained in doubt until it nestled in the metal arms.\nIn engineering terms, it was like watching a skater land a quadruple axle.\nGet opinions and commentary from our columnists Subscribe to our daily Post Opinion newsletter!\nThanks for signing up! Enter your email address Please provide a valid email address.\nBy clicking above you agree to the Terms of Use and Privacy Policy .\nNever miss a story.\nCheck out more newsletters When Musk was with Trump and demonstrated how the latest Starship test would work with a model in his hand, he looked every bit a boy smitten with the adventure of rocketry and eager to share his enthusiasm.\nThat, in large part, is what Musk is, but no one should mistake the seriousness of his achievements.\nFor all that rockets are emblems of the future, there was a decades-long period of stagnation in launch costs until Musk came along and revolutionized the business with his entrepreneurial mindset.\nNow, launch costs have radically diminished and Musk alone operates 10 times more satellites than any other country or company, according to Ars Technica.\nThe tests of Starship, the world’s largest and most powerful rocket, are the latest iteration of Musk’s approach of rapid innovation toward the goal of sending men to the moon again, and then Mars .\nIt is an expression of a basic human instinct for exploration and adventure, with the rocket its symbol and vehicle.\nTwitter: @RichLowry",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Donald Trump",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Joe Rogan",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Square Garden",
+                "sentiment": "none"
+            },
+            {
+                "name": "South",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:43:06.448+02:00",
+    "updated": "2024-11-24T01:20:33.820+02:00"
+}

@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "e31cc200abe493b65220996bbcff39ca563b9dc6",
+        "url": "https://harrell.seattle.gov/2024/11/22/mayor-harrell-promotes-experienced-legal-and-judicial-leader-bonnie-glenn-to-serve-as-opa-director",
+        "site_full": "harrell.seattle.gov",
+        "site": "seattle.gov",
+        "site_section": "http://news.seattle.gov",
+        "site_categories": [],
+        "section_title": "News.seattle.gov – News from the City of Seattle",
+        "title": "Mayor Harrell Promotes Experienced Legal and Judicial Leader Bonnie Glenn to Serve as OPA Director  - Office of the Mayor",
+        "title_full": "Mayor Harrell Promotes Experienced Legal and Judicial Leader Bonnie Glenn to Serve as OPA Director  - Office of the Mayor",
+        "published": "2024-11-22T22:30:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://harrell.seattle.gov/wp-content/uploads/sites/23/2022/04/Seattle-Skyline.jpg",
+        "performance_score": 0,
+        "domain_rank": 3772,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "e31cc200abe493b65220996bbcff39ca563b9dc6",
+    "url": "https://harrell.seattle.gov/2024/11/22/mayor-harrell-promotes-experienced-legal-and-judicial-leader-bonnie-glenn-to-serve-as-opa-director",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Jamie Housen",
+    "published": "2024-11-22T22:30:00.000+02:00",
+    "title": "Mayor Harrell Promotes Experienced Legal and Judicial Leader Bonnie Glenn to Serve as OPA Director  - Office of the Mayor",
+    "text": "Seattle – Today, Mayor Bruce Harrell announced that Bonnie Glenn will serve as the interim director of the Office of Police Accountability (OPA) following director Gino Betts’ upcoming resignation in December. Glenn currently serves as OPA deputy director and is an experienced leader in this space, with more than 25 years of legal and judicial experience.\n“Bonnie Glenn is well equipped to lead the City’s Office of Police Accountability and to serve as a trusted voice for fairness and responsibility,” said Mayor Harrell. “I’ve known Bonnie for decades, which means I’ve seen firsthand her advocacy for accountability and for improved outcomes for our communities, as well as her commitment to procedural justice. As we seek to restore and further strengthen our Seattle Police Department, I am confident that Bonnie will bring a thoughtful approach to addressing misconduct focused on continuous growth, system improvement, and appropriate accountability for inappropriate actions.”\nBefore serving as deputy OPA director, Glenn served for more than seven years as an administrative law judge with the Washington State Office of Administrative hearings. Her experience includes decades of public service, including as the deputy chief of staff at the King County Prosecuting Attorney’s Office, the acting director of the Seattle City Attorney’s Office Domestic Violence Unit, and the assistant to the secretary of the Department of Social and Health Services on Juvenile Justice.\n“It is my honor to serve as the Interim Director of Seattle’s Office of Police Accountability,” said Interim Director Glenn. “I look forward to serving the people of Seattle in this important role, with the highest integrity, respect, and fairness to all. I know the importance of ensuring a well-functioning accountability system in strengthening community and police relationships. I will draw on my years of judicial and legal experience to lead the office forward with the incredible team at OPA.”\nEarlier today, Gino Betts announced his intension to resign on December 13, 2024, following two and a half years of service leading the OPA. Under Betts’ leadership, OPA recently received Seattle’s first “Achievement in Oversight” award from the National Association for Civilian Oversight of Law Enforcement, the country’s premier civilian oversight body. Betts also doubled OPA’s community outreach efforts, innovated projects to promote transparency and trust, and earned consistently high-performance ratings from the Office of Inspector General.\n“I want to offer my sincere gratitude to Director Gino Betts for leading the Office of Police Accountability over the last two and a half years,” said Mayor Harrell. “Since his appointment and unanimous confirmation by the City Council, Gino has provided an essential service to our city and its communities through thoughtful oversight of the Seattle Police Department. As we’ve sought to build trust in the department and the City’s robust accountability system, Gino has focused on delivering rigorous independent investigations and improving understanding of the accountability system with the community. I wish him the best as he enters this next stage in his career.”\nGino Betts said, “I am exceedingly proud of our contribution toward improving the Seattle Police Department and appreciative of the overwhelming support we received from community members and law enforcement throughout my tenure. I sincerely wish Interim Director Glenn great success leading this essential office.”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Bonnie Glenn",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Bruce Harrell",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Gino Betts",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Office of Police Accountability",
+                "sentiment": "none"
+            },
+            {
+                "name": "Seattle Police Department",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:35:09.434+02:00",
+    "updated": "2024-11-23T00:35:09.434+02:00"
+}

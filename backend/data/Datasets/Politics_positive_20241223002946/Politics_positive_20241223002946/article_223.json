@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "a11673fc8c40a2b32e51674b441df7bc6e82e10f",
+        "url": "https://www.thecoinrepublic.com/2024/11/22/solana-etf-gain-momentum-as-sec-engages-in-approval-talks",
+        "site_full": "www.thecoinrepublic.com",
+        "site": "thecoinrepublic.com",
+        "site_section": "https://www.thecoinrepublic.com",
+        "site_categories": [
+            "finance"
+        ],
+        "section_title": "The Coin Republic: Bitcoin, Ethereum, DeFi, Altcoins News Analysis",
+        "title": "Solana ETF Gains Momentum as SEC Engages in Approval Talks",
+        "title_full": "Solana ETF Gains Momentum as SEC Engages in Approval Talks",
+        "published": "2024-11-22T22:42:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AD",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 60047,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "a11673fc8c40a2b32e51674b441df7bc6e82e10f",
+    "url": "https://www.thecoinrepublic.com/2024/11/22/solana-etf-gain-momentum-as-sec-engages-in-approval-talks",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Maxwell Mutuma",
+    "published": "2024-11-22T22:42:00.000+02:00",
+    "title": "Solana ETF Gains Momentum as SEC Engages in Approval Talks",
+    "text": "The SEC is reportedly advancing discussions with ETF issuers regarding approving a Solana ETF . This development follows increasing optimism driven by the potential for pro-crypto regulatory leadership in the U.S.\nTalks remain informal, but significant engagement has been observed, signaling a shift in the regulatory landscape.\nSolana ETF Applications Signal Growing Industry Confidence Multiple firms are reportedly talking to the SEC about Solana spot ETFs in private discussions, according to industry sources. This includes reviewing S-1 filings, a crucial first step to product approval. The dialogue is a stark departure from the regulatory skepticism towards crypto-based ETFs before this.\nMeanwhile, economic applications, such as ETFs from key Solana-focused players like Bitwise and Canary Capital, have been filed. Due to these firms, Solana is posed as a strong DeFi ecosystem, high transaction volumes, and super user-friendly low-fee firm. The expanding list of applications reflects renewed confidence in regulatory progress.\nEven with Gary Gensler still leading the SEC, his position seems increasingly untenable. These discussions could accelerate if his replacement should be pro-crypto in a potential pro-crypto administration. The industry hopes the leadership changes match the administration’s crypto-friendly policies.\nUS Approval Could Spark Global Crypto ETF Wave The green light on a Solana ETF hinges on the advent of a pro-crypto government. Donald Trump’s re-election campaign also targets appointing supportive leadership at the SEC, and that includes plans for a slate of US crypto regulation changes. Firing Gensler may turn out to be the first part of what could be a much bigger turn for crypto regulation.\nUnder the current leadership, initiatives to introduce similar products met regulatory resistance. SEC often takes time to acknowledge submissions, leaving applications in limbo. This is likely to change under the next regime.\nOnly in Brazil have Solana ETFs been approved, but developments in the US could create global ripple effects. US approval of a crypto ETF is a critically important indicator of the market’s acceptance.\nApproval May Still Face Delays Until 2025 Optimism is on the rise, but sources indicate a Solana ETF approval could take until early 2025. Informal negotiations are underway, and as of now the SEC has not officially broached any application.\nMarket dynamics favor more and more crypto assets, and ETF issuers are in no rush. Firms such as Canary Capital highlight Solana’s utility and adoption because it benefits the apps they support. This is consistent with the new positive institutional outlook towards blockchain technology.\nNotably, the market has shifted from extreme skepticism to cautious optimism in terms of ETF approvals.\nIndustry watchers agree that these talks are a big step forward. But that won’t be the last word until future SEC actions and leadership changes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Gary Gensler",
+                "sentiment": "none"
+            },
+            {
+                "name": "Solana",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "SEC",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Canary Capital",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "a11673fc8c40a2b32e51674b441df7bc6e82e10f",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:18:04.674+02:00",
+    "updated": "2024-11-23T01:18:04.674+02:00"
+}

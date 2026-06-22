@@ -1,0 +1,91 @@
+{
+    "thread": {
+        "uuid": "2e5e760908bf13614f0e5e0e84e4ad404192cfee",
+        "url": "https://abcnews.go.com/Politics/process-replace-matt-gaetz-cut-house-gops-narrow/story",
+        "site_full": "abcnews.go.com",
+        "site": "go.com",
+        "site_section": "https://flipboard.com/@abc.rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "ABC News",
+        "title": "Process to replace Matt Gaetz could cut into House GOP's narrow majority",
+        "title_full": "Process to replace Matt Gaetz could cut into House GOP's narrow majority",
+        "published": "2024-11-23T00:55:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://i.abcnewsfe.com/a/8f1f90f4-4f16-446f-af64-a598304ed892/matt-gaetz-1-ap-gmh-241115_1731682225794_hpMain_16x9.jpg?w=1600",
+        "performance_score": 0,
+        "domain_rank": 149,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "2e5e760908bf13614f0e5e0e84e4ad404192cfee",
+    "url": "https://abcnews.go.com/Politics/process-replace-matt-gaetz-cut-house-gops-narrow/story",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Brittany Shepherd",
+    "published": "2024-11-23T00:55:00.000+02:00",
+    "title": "Process to replace Matt Gaetz could cut into House GOP's narrow majority",
+    "text": "Process to replace Matt Gaetz could cut into House GOP's narrow majority\nIn bad news for House Republicans, his seat will be left vacant for months.\nFollowing news Friday that former Florida Rep. Matt Gaetz does not intend to return to Congress after he withdrew from consideration to be President-elect Donald Trump's attorney general, it appears his seat will be vacant for months -- presenting a challenge for House Republicans who already maintain a slim majority in the incoming Congress.\nOn Friday, Florida Gov. Ron DeSantis set the FL-01 special election primary for Jan. 28 and the general election for April 1. That means Gaetz's seat will be unfilled for at least 12 weeks in the 119th Congress.\n\"At Gov. Ron DeSantis' direction, this special election is being conducted as quickly as statutorily possible,\" said Florida Secretary of State Cord Byrd on Friday. \"We are committed to ensuring this election is held as soon as we are allowed to hold it by state law.\"\nSuch a vacancy would cut into the narrow majority House Republicans are projected to have in the next Congress, which will only continue to shrink if GOP Reps. Elise Stefanik and Michael Waltz are confirmed to be in Trump's Cabinet.\nABC News projects that Republicans have won 219 seats and Democrats 213 in the House. The numbers do not take into account any departures for jobs in the Trump administration or Gaetz's resignation. There are also three outstanding House races that still haven't been called, which will determine the ultimate size of the GOP's majority.\nThe special election schedule is at the Florida governor's discretion. For instance, the dates set by DeSantis in 2022 to fill the vacancy of the late Democratic Rep. Alcee Hastings left the seat open for nine months, despite Democrats' pushing for a speedier process.\nAt least half a dozen Florida Republicans have already expressed willingness to run for Gaetz's seat. 538 rates Florida's 1st Congressional District, which Gaetz represented for eight years, as \"solid Republican.\"\nGaetz on Friday sat for his first interview with conservative commentator Charlie Kirk since withdrawing as Trump's attorney general pick. During the interview, the conservative firebrand announced then that he would not return to Congress, despite having won reelection in November by 32 points.\n\"I'm going to be fighting for President Trump. I'm going to be doing whatever he asks of me, as I always have,\" Gaetz said. \"But I think that eight years is probably enough time in the United States Congress.\"\nABC News' Jay O'Brien contributed to this report.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Matt Gaetz",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ron DeSantis",
+                "sentiment": "none"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "House GOP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Congress",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "2e5e760908bf13614f0e5e0e84e4ad404192cfee",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:09:04.540+02:00",
+    "updated": "2024-11-23T01:09:04.540+02:00"
+}

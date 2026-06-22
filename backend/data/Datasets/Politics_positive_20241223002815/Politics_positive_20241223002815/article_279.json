@@ -1,0 +1,98 @@
+{
+    "thread": {
+        "uuid": "bbb94f0ac1da69e16c04e50699827c745703eedf",
+        "url": "https://democraticunderground.com/105811947",
+        "site_full": "democraticunderground.com",
+        "site": "democraticunderground.com",
+        "site_section": "https://democraticunderground.com/index.php",
+        "site_categories": [],
+        "section_title": "Democratic Underground: Forums for U.S. Liberals and Democrats",
+        "title": "Democrat poised to win MSU board seat after GOP opponent concedes",
+        "title_full": "Democrat poised to win MSU board seat after GOP opponent concedes",
+        "published": "2024-11-23T01:31:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://www.democraticunderground.com/imgs/du100x100.gif",
+        "performance_score": 0,
+        "domain_rank": 10738,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bbb94f0ac1da69e16c04e50699827c745703eedf",
+    "url": "https://democraticunderground.com/105811947",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T01:31:00.000+02:00",
+    "title": "Democrat poised to win MSU board seat after GOP opponent concedes",
+    "text": "Democrat Rebecca Bahar-Cook is poised to be elected to one of two open seats on the Michigan State University Board of Trustees after Republican candidate Julie Maday this week conceded. In the unofficial results, Republican Mike Balow won the first board seat with 24.9% of the votes or more than 2.49 million votes, according to the Secretary of State office's website. He is followed by Bahar-Cook at 24.24%, who leads Maday at 24.2% by 4,083 votes. The State Board of Canvassers is scheduled to meet Friday to certify the election results. If the state canvassers uphold the results, the composition of MSU's board would remain seven Democrats and one Republican. Bahar-Cook, who previously served on the Ingham County Board of Canvassars, said she is \"very confident\" she has won after all the counties have all uploaded their vote totals and Secretary of State officials are making sure all the totals match. https://www.detroitnews.com/story/news/politics/elections/2024/11/21/democrat-poised-to-win-msu-board-seat-after-gop-opponent-concedes/76478272007/",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Rebecca Bahar-Cook",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Julie Maday",
+                "sentiment": "none"
+            },
+            {
+                "name": "Mike Balow",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "GOP",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Ingham County Board of Canvassars",
+                "sentiment": "none"
+            },
+            {
+                "name": "State Board of Canvassers",
+                "sentiment": "none"
+            },
+            {
+                "name": "MSU",
+                "sentiment": "none"
+            }
+        ],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:38:23.645+02:00",
+    "updated": "2024-11-23T01:38:23.645+02:00"
+}

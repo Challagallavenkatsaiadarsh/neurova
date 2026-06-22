@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "fcd621dbe8b9b56c3a862603399c654a168e172b",
+        "url": "https://abc7ny.com/videoClip/15574689",
+        "site_full": "abc7ny.com",
+        "site": "abc7ny.com",
+        "site_section": "https://abc7ny.com/live/5347049/",
+        "site_categories": [
+            "media",
+            "television",
+            "entertainment"
+        ],
+        "section_title": "Eyewitness News Live Streaming Video - ABC7 New York",
+        "title": "Closer look at Mayor Adams' indictment and others in his orbit",
+        "title_full": "Closer look at Mayor Adams' indictment and others in his orbit",
+        "published": "2024-11-22T23:49:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://cdn.abcotvs.com/dip/images/15574232_112224-wabc-krauth-web-pic-img.jpg?w=1600",
+        "performance_score": 0,
+        "domain_rank": 3640,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "fcd621dbe8b9b56c3a862603399c654a168e172b",
+    "url": "https://abc7ny.com/videoClip/15574689",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ABC7NY",
+    "published": "2024-11-22T23:49:00.000+02:00",
+    "title": "Closer look at Mayor Adams' indictment and others in his orbit",
+    "text": "24/7 Live New York City New Jersey Long Island Northern Suburbs Connecticut Welcome, Mickey mickey@disney.com Manage MyDisney Account Log Out POLITICS Friday, November 22, 2024 9:49PM 7 On Your Side's Dan Krauth has the latest on an investigation into the Adams administration. Report a correction or typo Copyright © 2024 WABC-TV. All Rights Reserved. Related Topics POLITICS NEW YORK CITY POLITICAL SCANDAL 7 ON YOUR SIDE INVESTIGATION ERIC ADAMS INVESTIGATION Watch Live ON NOW Top Stories Police officer and suspect injured after shots fired in the Bronx 17 minutes ago Defense in Daniel Penny case rests without client taking the stand 1 hour ago Judge to rule on Sean Combs' bail hearing next week 29 minutes ago 1 hour ago Families displaced after fire damages at least 3 buildings in Bayonne 2 hours ago Thanksgiving holiday rush starts early at LaGuardia Airport 1 hour ago Final hurdle cleared to legally launch congestion pricing on Jan. 5 2 hours ago NY judge adjourns Donald Trump's sentencing date in hush money case",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Adams",
+                "sentiment": "neutral"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            },
+            {
+                "name": "Dan Krauth",
+                "sentiment": "none"
+            },
+            {
+                "name": "Sean Combs",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Island Northern Suburbs",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:09:08.167+02:00",
+    "updated": "2024-11-23T01:09:08.167+02:00"
+}

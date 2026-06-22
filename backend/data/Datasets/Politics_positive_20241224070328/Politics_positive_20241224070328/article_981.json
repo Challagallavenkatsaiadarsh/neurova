@@ -1,0 +1,89 @@
+{
+    "thread": {
+        "uuid": "f04bf6e58edb919626a5b970e2874844e10f9ae9",
+        "url": "https://www.prokerala.com/news/articles/a1584067.html",
+        "site_full": "www.prokerala.com",
+        "site": "prokerala.com",
+        "site_section": "https://www.prokerala.com/news",
+        "site_categories": [
+            "alternative_medicine",
+            "science",
+            "health",
+            "astrology",
+            "top_news_in",
+            "top_news_ph",
+            "top_news_pk",
+            "top_news_ae",
+            "top_news_qa",
+            "top_news_sa",
+            "top_news_kw",
+            "top_news"
+        ],
+        "section_title": "Latest News Headlines, Top Stories, Today's Headlines, Today's News",
+        "title": "Mann Ki Baat: PM Modi asks youth to participate in Viksit Bharat Young Leaders Dialogue",
+        "title_full": "Mann Ki Baat: PM Modi asks youth to participate in Viksit Bharat Young Leaders Dialogue",
+        "published": "2024-11-24T03:10:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "",
+        "performance_score": 0,
+        "domain_rank": 22355,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f04bf6e58edb919626a5b970e2874844e10f9ae9",
+    "url": "https://www.prokerala.com/news/articles/a1584067.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@prokerala",
+    "published": "2024-11-24T03:10:00.000+02:00",
+    "title": "Mann Ki Baat: PM Modi asks youth to participate in Viksit Bharat Young Leaders Dialogue",
+    "text": "New Delhi, Nov 24 : Prime Minister Narendra Modi on Sunday urged the youth to actively participate in the upcoming Viksit Bharat Young Leaders Dialogue, which will coincide with the 162nd birth anniversary of Swami Vivekananda and the celebration of National Youth Day.\nSpeaking during the 116th episode of his monthly radio programme Mann Ki Baat, PM Modi emphasised the critical role the youth play in shaping India's future.\n\"The youth have a big role in making India a Viksit Bharat (developed India). When young minds come together to brainstorm and contemplate the country's progress, we certainly see concrete results,\" he said.\n\"On January 12, we celebrate National Youth Day in honour of Swami Vivekananda's birth anniversary.\"\nHe further announced that next year marks the 162nd birth anniversary of Swami Vivekananda, and the occasion will be marked by a special celebration.\n\"On January 11-12, at Delhi's Bharat Mandapam, a large gathering of young ideas will take place as part of the Viksit Bharat Young Leaders Dialogue,\" he added.\nPM Modi explained that youth from across India would participate in this initiative, with 2,000 selected youth from villages, blocks, districts, and states coming together for the dialogue at Bharat Mandapam.\n\"You must remember, from the ramparts of the Red Fort, I had urged youth from non-political backgrounds to join politics. Many special campaigns have been organised to connect over a hundred thousand youth with politics. Viksit Bharat Young Leaders Dialogue is one such effort,\" he stated.\nThe event will feature numerous national and international experts and celebrities, with PM Modi also planning to attend as much as possible.\n\"Youth will have the opportunity to present their ideas. How can a country move forward with these ideas? How can we create a solid roadmap? A blueprint will be developed for this,\" he said.\nConcluding his address, PM Modi urged the youth to seize this opportunity to shape the nation's future.\n\"So, get ready. This is a big opportunity for those who can help build the future of India and its next generation. Let's come together, build the country, and make it Viksit,\" he said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Human Interest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Narendra Modi",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Mann Ki Baat",
+                "sentiment": "negative"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f04bf6e58edb919626a5b970e2874844e10f9ae9",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-24T08:16:46.969+02:00",
+    "updated": "2024-11-24T08:16:46.969+02:00"
+}

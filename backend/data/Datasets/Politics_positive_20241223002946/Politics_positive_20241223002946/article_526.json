@@ -1,0 +1,79 @@
+{
+    "thread": {
+        "uuid": "552858c88fdadb8934fc06ecb559b0e16baa8b1f",
+        "url": "https://www.fijivillage.com/feature/US-to-provide-49M-in-foreign-military-financing-to-Fiji-f5xr84",
+        "site_full": "www.fijivillage.com",
+        "site": "fijivillage.com",
+        "site_section": "https://www.fijivillage.com/fashion",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Fijivillage",
+        "title": "US to provide $4.9M in foreign military financing to Fiji",
+        "title_full": "US to provide $4.9M in foreign military financing to Fiji",
+        "published": "2024-11-23T02:39:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "AU",
+        "main_image": "https://www.fijivillage.com/news_images/1267182566741242c81e5d1e42c593.jpg",
+        "performance_score": 0,
+        "domain_rank": 89316,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "552858c88fdadb8934fc06ecb559b0e16baa8b1f",
+    "url": "https://www.fijivillage.com/feature/US-to-provide-49M-in-foreign-military-financing-to-Fiji-f5xr84",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "fijivillage",
+    "published": "2024-11-23T02:39:00.000+02:00",
+    "title": "US to provide $4.9M in foreign military financing to Fiji",
+    "text": "The United States of America will be providing $4.9 million in foreign military financing to Fiji after Congressional approval.\nUS Secretary of Defence Lloyd J. Austin III highlighted this at the Mariott in Denarau today.\nAustin says in their bilateral meeting this morning, they also discussed the security environment and Fiji's role as a regional leader.\nHe says this includes a new acquisition, a cross-servicing agreement which will be signed with the Ministry for Home Affairs later today.\nThe Secretary of Defence says this agreement will mean a closer logistics cooperation between our forces, including for humanitarian assistance in disaster relief.\nHe says they are also announcing the start of negotiations on a status of forces agreement, or SOFA, which once complete, will expand the two nations bilateral defence cooperation through increased exercises and military-to-military engagement.\nAustin says maritime security is essential, and the first delivery of rigid, mobile, inflatable boats will arrive in the next several months.\nHe says they will also deliver a new boat ramp to support maritime patrols over the border.\nStay tuned for the latest news on our radio stations",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Economy, Business and Finance",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [],
+        "organizations": [
+            {
+                "name": "Ministry for Home Affairs",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Denarau",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T03:08:46.139+02:00",
+    "updated": "2024-11-23T03:08:46.139+02:00"
+}

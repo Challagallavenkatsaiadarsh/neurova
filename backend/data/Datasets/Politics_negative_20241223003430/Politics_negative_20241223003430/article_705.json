@@ -1,0 +1,84 @@
+{
+    "thread": {
+        "uuid": "4941bcd042a1da518e46fe936427e35649180b13",
+        "url": "https://newrepublic.com/post/188776/trump-defense-secretary-nominee-pete-hegseth-proposed-civil-war-military",
+        "site_full": "newrepublic.com",
+        "site": "newrepublic.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "shopping",
+            "top_news_us",
+            "top_news"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "The New Republic",
+        "title_full": "The New Republic",
+        "published": "2024-11-22T07:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://images.newrepublic.com/62f00fbecead4e078e00f3678b07df19f4dfe9ac.jpeg?w=1200&amp;h=630&amp;crop=faces&amp;fit=crop&amp;fm=jpg",
+        "performance_score": 0,
+        "domain_rank": 1615,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "4941bcd042a1da518e46fe936427e35649180b13",
+    "url": "https://newrepublic.com/post/188776/trump-defense-secretary-nominee-pete-hegseth-proposed-civil-war-military",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Malcolm Ferguson",
+    "published": "2024-11-22T07:00:00.000+02:00",
+    "title": "The New Republic",
+    "text": "Trump Cabinet Nominee Proposed Terrifying Role for Military In a 2020 book, Pete Hegseth envisioned a dark post-election scenario. Donald Trump’s Christian nationalist, crusades-obsessed defense secretary nominee expects the military to mobilize against U.S. citizens in a civil war. Pete Hegseth, a veteran and former Fox & Friends co-host, outlined a deeply troubling, extremist right-wing agenda for America’s future in his 2020 book American Crusade. “America will decline and die. A national divorce will ensue. Outnumbered freedom lovers will fight back,” Hegseth writes. “The military and police, both bastions of freedom-loving patriots, will be forced to make a choice. It will not be good. Yes, there will be some form of civil war.” In another section, Hegseth writes that “our present moment is much like the 11th Century. We don’t want to fight, but, like our fellow Christians one thousand years ago, we must. Arm yourself—metaphorically, intellectually, physically. Our fight is not with guns. Yet.” This is deeply troubling rhetoric from the man who might be in charge of the Pentagon in a few months. Hegseth also continuously cites internal cultural threats that need to be eliminated, like socialism, secularism, environmentalism, Islamism, and genderism, and identifies the need to “defeat America’s internal enemies,” aligning seamlessly with Trump’s “ enemy within ” talking points. Hegseth’s nomination is currently in jeopardy over accusations that he sexually assaulted a woman in California in 2017. The former Fox News host is the exact type of defense secretary Trump is looking for—little experience, complete loyalty, and a deep personal vendetta against anything outside a narrow right-wing vision for society. Hegseth drives this point home in American Crusade, ending the book with: “See you on the battlefield. Together, with God’s help, we will save America. Deus vult!”",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Social Issue",
+        "War, Conflict and Unrest"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.theguardian.com/us-news/2024/nov/22/trump-defense-secretary-pete-hegseth-book",
+        "https://theguardian.com/us-news/2024/nov/22/trump-defense-secretary-pete-hegseth-book"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Pete Hegseth",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Donald Trump",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": []
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "4941bcd042a1da518e46fe936427e35649180b13",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:21:40.744+02:00",
+    "updated": "2024-11-23T01:21:40.744+02:00"
+}

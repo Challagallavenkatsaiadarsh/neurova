@@ -1,0 +1,94 @@
+{
+    "thread": {
+        "uuid": "08aa887f3a9f44e6d91f1f9f2b3c1c540b781c7a",
+        "url": "https://www.bankinfosecurity.com/north-korean-workers-using-fake-sites-to-evade-detection-a-26890",
+        "site_full": "www.bankinfosecurity.com",
+        "site": "bankinfosecurity.com",
+        "site_section": "https://www.golf.einnews.com/live_feed",
+        "site_categories": [
+            "media",
+            "hacking",
+            "tech"
+        ],
+        "section_title": "Live Feed Wire - Golf News Today - EIN Presswire",
+        "title": "North Korean IT Workers Using Fake Sites to Evade Detection",
+        "title_full": "North Korean IT Workers Using Fake Sites to Evade Detection",
+        "published": "2024-11-22T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "US",
+        "main_image": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/north-korean-workers-using-fake-sites-to-evade-detection-showcase_image-8-a-26890.jpg",
+        "performance_score": 0,
+        "domain_rank": 15016,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "08aa887f3a9f44e6d91f1f9f2b3c1c540b781c7a",
+    "url": "https://www.bankinfosecurity.com/north-korean-workers-using-fake-sites-to-evade-detection-a-26890",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@BnkInfoSecurity",
+    "published": "2024-11-22T02:00:00.000+02:00",
+    "title": "North Korean IT Workers Using Fake Sites to Evade Detection",
+    "text": "North Korean state actors are using fake websites of foreign technology services firms sidestep sanctions and raise funding for Kim Jong-un regime's weapons development programs, said security firm SentinelOne. See Also: Modernise Your IT Monitoring with Predictive Analytics SentinelOne's threat intelligence arm SentinelLabs found North Korean individuals hiding behind front companies based in China, Russia, Southeast Asia and Africa to set up fake IT services and consultancy websites to evade Western sanctions. These websites, which U.S. law enforcement agencies took down on Oct. 10, mirrored those of software and information technology service providers based in the U.S. and India, hiding their real locations and people in charge to avoid detection by law enforcement agencies and helping the workers gain trust, access sensitive contracts and earn money for North Korea. SentinelLabs narrowed its focus to four fraudulent websites, learning during its investigation that the sites were linked together through a common InterServer hosting infrastructure, common operators and a network of front companies registered in China. The recent takedown of North Korean-run shadow technology websites follows similar action in Oct. 2023 when law enforcement agencies in the U.S. took down 17 North Korea-run website domains that mimicked domains of legitimate, U.S.-based IT services companies. The Justice Department said North Korean IT workers used these websites to \"hide their true identities and location when applying online to do remote work for U.S. and other businesses worldwide.\" SentinelLabs researchers found that many of the websites taken down on Oct. 10 were registered in China, but contained sufficient information that investigators could piece together deep ties with the North Korean state. Shenyang Tonywang Technology Ltd, the owner of the fraudulent domain tonywangtech[.]com, was registered in the same building in Shenyang City's Tawan Street as Shenyang Huguo Technology, whose website copied content and logos from software firm TatvaSoft located in Noida, India. The researchers also found that some of the fraudulent domains were associated with an individual named Tony Wang. Tony WKJ LLC IT Services, whose domain was a copy of that of ArohaTech IT Services based in Noida, branded itself as a U.S. company and shared linkages with HopanaTech, a custom software development company that copied content from the legitimate firm ITechArt. HopanaTech used Wang Kejia as its contact, but used the Tonywkj@Hopana email address in its contact form. Similarly, HopanaTech's contact Tong Yuze was also the corporate registrant of Beijing Xiwang Technology Company. A closer look at Yuze revealed that he is the corporate registrant of at least two businesses in China. \"We hypothesize that his collection of businesses may serve to provide cover for illegal ones,\" SentinelLabs said. \"Our research not only exposes the deceptive tactics employed by DPRK IT workers but also connects these efforts to a broader, active network of front companies originating in China,\" the firm said. \"This linkage emphasizes the scale and complexity of North Korea's financial schemes and the importance of vigilance across industries.\" The U.S. Justice department https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north in May that North Korean IT workers had infiltrated more than 300 U.S. organizations using borrowed or stolen identities of U.S. citizens to pose as domestic workers. The specially trained IT workers set up accounts on U.S. payment platforms and job sites and used proxy computers located in the U.S. to win contracts and roles with major organizations and earn millions as a result. \"The overseas IT workers gained employment at U.S. companies, including at a top-five major television network, a Silicon Valley technology company, an aerospace manufacturer, an American car manufacturer, a luxury retail store, and a U.S.-hallmark media and entertainment company, all of which were Fortune 500 companies,\" the department said.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "Politics",
+        "Crime, Law and Justice",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [
+        "https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation",
+        "https://www.justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north",
+        "https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china/",
+        "https://www.sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china",
+        "https://justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation",
+        "https://sentinelone.com/labs/dprk-it-workers-a-network-of-active-front-companies-and-their-links-to-china/",
+        "https://justice.gov/usao-dc/pr/charges-and-seizures-brought-fraud-scheme-aimed-denying-revenue-workers-associated-north"
+    ],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Kim Jong-un",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Southeast",
+                "sentiment": "none"
+            },
+            {
+                "name": "Africa",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "08aa887f3a9f44e6d91f1f9f2b3c1c540b781c7a",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:35:58.833+02:00",
+    "updated": "2024-11-23T01:18:30.988+02:00"
+}

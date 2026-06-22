@@ -1,0 +1,96 @@
+{
+    "thread": {
+        "uuid": "f56eb11309b505e6b3e17e34ddc7d63ab7357a00",
+        "url": "https://www.ukrinform.net/rubric-defense/3930079-poland-invites-slovakia-to-join-east-shield-project.html",
+        "site_full": "www.ukrinform.net",
+        "site": "ukrinform.net",
+        "site_section": "http://www.ukrinform.net",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Ukrinform - Ukrainian National News Agency",
+        "title": "Poland invites Slovakia to join East Shield project",
+        "title_full": "Poland invites Slovakia to join East Shield project",
+        "published": "2024-11-23T00:20:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "LV",
+        "main_image": "https://static.ukrinform.com/photos/2024_11/thumb_files/630_360_1732302067-609.jpeg",
+        "performance_score": 0,
+        "domain_rank": 13732,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "f56eb11309b505e6b3e17e34ddc7d63ab7357a00",
+    "url": "https://www.ukrinform.net/rubric-defense/3930079-poland-invites-slovakia-to-join-east-shield-project.html",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "@ukrinform",
+    "published": "2024-11-23T00:20:00.000+02:00",
+    "title": "Poland invites Slovakia to join East Shield project",
+    "text": "Poland invites Slovakia to join East Shield project\nThis announcement was made by Polish Deputy Prime Minister and Minister of National Defense, Mariusz Błaszczak, during his visit to Bratislava, according to a report by Ukrinform.\n\"We are ready to deepen cooperation in the field of training military personnel and sharing experiences. I have invited Slovakia to join the East Shield initiative, within which we are building fortifications on NATO's eastern flank. Slovakia has excellent engineering capabilities, and cooperation in this area is needed,\" Błaszczak was quoted as saying by Poland's Ministry of Defense on social media.\nDuring a briefing with his Slovak counterpart, Robert Kaliňák, Błaszczak expressed his admiration for Slovakia’s defense industry, particularly in producing 155mm caliber ammunition.\n\"You have an incredible potential, one of the largest not only in Europe but in the world. We want to develop the defense industry together with you; you are our strategic partner in this area,\" he emphasized.\nHe added that for Poland's defense industry, it is crucial to acquire the ability to produce munitions of various calibers in large quantities, which would be difficult without Slovakia's partnership.\nBłaszczak also mentioned the preparation of an intergovernmental agreement between Poland and Slovakia on strategic cooperation in the defense industry, with hopes that the document would be signed soon.\n[Ukraine, Poland discuss border situation, crime prevention measures](/rubric-society/3929507-ukraine-poland-discuss-border-situation-crime-prevention-measures.html)\nAs previously reported by Ukrinform, Poland plans to build 700 km of fortifications, detection and alert systems, advanced bases, logistics hubs, and drone countermeasures along its border with Russia and Belarus as part of the East Shield project by 2028. The implementation of this project has already begun.\nIn 2022, Poland constructed a 5.5-meter-high, 186-kilometer-long barrier along its border with Belarus and installed a modern electronic surveillance system. This was a response to the so-called \"migration pressure\" created by Belarus and Russia on the border between Belarus and Poland, as well as the Baltic states, starting in the summer of 2021.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics",
+        "Social Issue"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Mariusz Błaszczak",
+                "sentiment": "none"
+            },
+            {
+                "name": "Robert Kaliňák",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Ministry of Defense",
+                "sentiment": "none"
+            },
+            {
+                "name": "Ukrinform",
+                "sentiment": "none"
+            },
+            {
+                "name": "NATO",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Europe",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": "f56eb11309b505e6b3e17e34ddc7d63ab7357a00",
+        "first_syndicated": true
+    },
+    "rating": null,
+    "crawled": "2024-11-23T01:39:56.671+02:00",
+    "updated": "2024-11-23T01:39:56.671+02:00"
+}

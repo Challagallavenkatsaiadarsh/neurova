@@ -1,0 +1,88 @@
+{
+    "thread": {
+        "uuid": "bee7c0518405bccfb0fcc98c4e7441b338f33786",
+        "url": "https://origin.mid-day.com/mumbai/mumbai-news/article/maharashtra-elections-2024-zeeshan-siddique-loses-bandra-seat-to-aaditya-thackerays-cousin-23435072",
+        "site_full": "origin.mid-day.com",
+        "site": "mid-day.com",
+        "site_section": "https://origin.mid-day.com/lifestyle/health-and-fitness",
+        "site_categories": [
+            "top_news_in",
+            "top_news_pk",
+            "top_news"
+        ],
+        "section_title": "Health and Fitness News: Stay Updated on Wellness, Workouts, Healthy Living, Health Issues, Health Tips, Beauty Tips, Good Health",
+        "title": "Maharashtra Elections 2024: Aaditya Thackeray’s Cousin Defeats Zeeshan Siddique in Bandra Seat",
+        "title_full": "Maharashtra Elections 2024: Aaditya Thackeray’s Cousin Defeats Zeeshan Siddique in Bandra Seat",
+        "published": "2024-11-24T01:46:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 1,
+        "site_type": "news",
+        "country": "IN",
+        "main_image": "https://images.mid-day.com/images/images/2024/nov/Zeeshan-a_d.jpg",
+        "performance_score": 0,
+        "domain_rank": 6468,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "bee7c0518405bccfb0fcc98c4e7441b338f33786",
+    "url": "https://origin.mid-day.com/mumbai/mumbai-news/article/maharashtra-elections-2024-zeeshan-siddique-loses-bandra-seat-to-aaditya-thackerays-cousin-23435072",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": "Ranjeet Jadhav",
+    "published": "2024-11-24T01:46:00.000+02:00",
+    "title": "Maharashtra Elections 2024: Aaditya Thackeray’s Cousin Defeats Zeeshan Siddique in Bandra Seat",
+    "text": "In a significant win for the Shiv Sena Uddhav Thackeray faction, Varun Sardesai, the UBT-Maha Vikas Aghadi (MVA) candidate, emerged victorious in the Bandra East constituency. Sardesai, who is also the cousin of Aaditya Thackeray defeated Zeeshan Siddique, the candidate fielded from the NCP Ajit PawarMahayuti faction, marking a major victory for the party and its leadership. Zeeshan Siddique is the son of the recently assassinated Baba Siddique, and who contested from the NCP-Ajit Pawar faction. The seat was one of the most watched this election and Siddique had won it back in 2019 when he had contested the Bandra East assembly constituency and defeated former Mumbai mayorVishwanath Mahadeshwar by a margin of 5,790 votes. The buzz within the political circles was that even though Zeeshan was the MLA, it was his father who was the guiding force behind Zeeshans popular public welfare initiatives. One of which include improving civic infrastructure like building public toilets. After his fathers assassination, Siddique joined the NCP-Ajit Pawar faction and many expected that this move along with a sympathy wave, might help Siddique to clinch the seat. Sardesais candidature also indicated just how prestigious this seat is for the Shiv Sena UBT. The constituency is also where the Thackeray family currently resides (Matoshree Bungalow). Since the vote counting started, Sardesai who had been keeping abreast of the area by meeting the local cadre for the last two to three years, was seen taking the lead in majority of the rounds. At the end of the 19th round of vote counting Sardesai won the seat by getting 57,708 votes and defeated Zeeshan Siddique by a lead of 11,365 votes.",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "positive",
+    "categories": [
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Varun Sardesai",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Zeeshan Siddique",
+                "sentiment": "negative"
+            },
+            {
+                "name": "Baba Siddique",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [],
+        "locations": [
+            {
+                "name": "Bandra East",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-24T04:42:55.403+02:00",
+    "updated": "2024-11-24T04:42:55.403+02:00"
+}

@@ -1,0 +1,92 @@
+{
+    "thread": {
+        "uuid": "996d6b3be548b3306622c8751168a62190d08e4d",
+        "url": "https://english.almanar.com.lb/2275341",
+        "site_full": "english.almanar.com.lb",
+        "site": "almanar.com.lb",
+        "site_section": "https://english.almanar.com.lb/rss",
+        "site_categories": [
+            "media"
+        ],
+        "section_title": "Al-Manar TV Lebanon",
+        "title": "Islamic Resistance targets a Merkava tank in Al-Jebayn town with a guided missile, destroying it and killing or injuring all the Israeli soldiers on board: statement – Al-Manar TV Lebanon",
+        "title_full": "Islamic Resistance targets a Merkava tank in Al-Jebayn town with a guided missile, destroying it and killing or injuring all the Israeli soldiers on board: statement – Al-Manar TV Lebanon",
+        "published": "2024-11-23T02:00:00.000+02:00",
+        "replies_count": 0,
+        "participants_count": 0,
+        "site_type": "news",
+        "country": "LB",
+        "main_image": "https://english.almanar.com.lb/framework/includes/uploads/2016/08/manar-006391000147265057010-757x354.jpg",
+        "performance_score": 0,
+        "domain_rank": 25945,
+        "domain_rank_updated": "2024-11-18T23:00:00.000+02:00",
+        "social": {
+            "facebook": {
+                "likes": 0,
+                "comments": 0,
+                "shares": 0
+            },
+            "vk": {
+                "shares": 0
+            }
+        }
+    },
+    "uuid": "996d6b3be548b3306622c8751168a62190d08e4d",
+    "url": "https://english.almanar.com.lb/2275341",
+    "ord_in_thread": 0,
+    "parent_url": null,
+    "author": null,
+    "published": "2024-11-23T02:00:00.000+02:00",
+    "title": "Islamic Resistance targets a Merkava tank in Al-Jebayn town with a guided missile, destroying it and killing or injuring all the Israeli soldiers on board: statement – Al-Manar TV Lebanon",
+    "text": "Islamic Resistance targets a Merkava tank in Al-Jebayn town with a guided missile, destroying it and killing or injuring all the Israeli soldiers on board: statement – Al-Manar TV Lebanon عربي Fr Es Leb. Communication Grp Al Manar TV About Contact Archive Saturday - November 23, 2024 Menu News Middle East World Lebanon Featured Must-watch videos Opinion Imam Khamenei Speeches Focus on Zionists Services Home News Exclusive Speeches Hezbollah Statements Frequencies Live Stream It’s Not Beirut, It’s Tel Aviv Lebanon Stands Firm against Israeli Conditions in Under-Fire Ceasefire Negotiations Islamic Resistance targets, for the third time, an IOF gathering south of Khiam town with a missile barrage: statement Berri to Netanyahu: Pressure-for-Surrender Policy Doesn’t Work Islamic Resistance targeted a gathering of Israeli occupation forces in Maroun Al-Ras town with a barrage of Nasr-1 missiles: statement Israeli Media Discloses Bravery of Hezbollah: 3 Fighters Confronted Entire Israeli Force in Aitaroun Dutch Youth Take Revenge on Israeli Hooligans Who Chanted Anti-Palestine Genocidal Slogans Hezbollah’s Sheikh Qassem: ‘Israel’ Will Scream, We Bet on Battlefield Rather than Political Action What to Know About US Knife-Edge Presidential Race: Harris or Trump? “Battle of Mighty Warriors” on Day 43: Hezbollah Rains Drones on Israelis Islamic Resistance targets a Merkava tank in Al-Jebayn town with a guided missile, destroying it and killing or injuring all the Israeli soldiers on board: statement 34 mins ago November 23, 2024 Live News - Urgent Comments Related Articles Islamic Resistance targets Kiryat Shmona settlement with a missile barrage: statement Israeli air raid targets Chiah area in Beirut’s South Suburb Sirens sounded in Kiryat Shmona and its vicinity: statement X Urgent Lebanon Hezbollah Statements S. Nasrallah Speeches Bahrain Egypt Iran Imam Khamenei Speeches Iraq Jordan Kuwait Oman Palestine Qatar Saudi Arabia Syria Turkey UAE Yemen Zionist entity Only Pictures Videos World African countries Americas Asian Countries Europe Int’l Organizations Islamic World {{#breaking_news}} {{.}} {{/breaking_news}} {{first.title}} {{#articles}} {{#.}} {{title}} {{/.}} {{/articles}} More.. {{#cats}} {{category}} {{/cats}} {{#articles}} {{title}} {{/articles}} More..",
+    "highlightText": "",
+    "highlightTitle": "",
+    "highlightThreadTitle": "",
+    "language": "english",
+    "sentiment": "negative",
+    "categories": [
+        "War, Conflict and Unrest",
+        "Politics"
+    ],
+    "ai_allow": true,
+    "canonical": false,
+    "webz_reporter": false,
+    "external_links": [],
+    "external_images": [],
+    "entities": {
+        "persons": [
+            {
+                "name": "Netanyahu",
+                "sentiment": "none"
+            },
+            {
+                "name": "Berri",
+                "sentiment": "none"
+            }
+        ],
+        "organizations": [
+            {
+                "name": "Hezbollah",
+                "sentiment": "none"
+            }
+        ],
+        "locations": [
+            {
+                "name": "Aitaroun",
+                "sentiment": "none"
+            },
+            {
+                "name": "Khiam",
+                "sentiment": "none"
+            }
+        ]
+    },
+    "syndication": {
+        "syndicated": false,
+        "syndicate_id": null,
+        "first_syndicated": false
+    },
+    "rating": null,
+    "crawled": "2024-11-23T00:58:14.068+02:00",
+    "updated": "2024-11-23T00:58:14.068+02:00"
+}
