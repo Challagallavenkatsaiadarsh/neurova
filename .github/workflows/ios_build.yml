@@ -1,8 +1,8 @@
-name: iOS Build
+name: iOS Build (Kivy Placeholder)
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   workflow_dispatch:
 
 jobs:
@@ -13,25 +13,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Install Flutter
-        uses: subosito/flutter-action@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          flutter-version: "stable"
+          python-version: "3.10"
 
-      - name: Get dependencies
-        run: flutter pub get
-
-      - name: Install CocoaPods
+      - name: Install dependencies
         run: |
-          sudo gem install cocoapods
-          pod repo update
-        working-directory: ios
+          pip install --upgrade pip
+          pip install kivy kivymd cython
 
-      - name: Build iOS (no code signing)
-        run: flutter build ios --release --no-codesign
+      - name: iOS Build (NOT REAL IPA yet)
+        run: |
+          echo "⚠ Kivy iOS needs kivy-ios toolchain + Apple signing"
+          echo "This is placeholder build step"
 
-      - name: Upload artifact
+      - name: Upload project snapshot
         uses: actions/upload-artifact@v4
         with:
-          name: ios-build
-          path: build/ios/iphoneos 
+          name: ios-source
+          path: .
