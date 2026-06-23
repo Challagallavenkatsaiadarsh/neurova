@@ -27,13 +27,11 @@ jobs:
           echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
           echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
 
-      # ================= CLEAN INSTALL =================
-      - name: Upgrade pip + reinstall PyInstaller clean
+      # ================= INSTALL =================
+      - name: Install dependencies (CLEAN)
         run: |
           python -m pip install --upgrade pip
-          pip uninstall -y pyinstaller
-          pip install pyinstaller --no-cache-dir
-          pip install kivy kivymd requests numpy pygame oscpy
+          pip install --no-cache-dir pyinstaller kivy kivymd requests numpy pygame oscpy
 
       # ================= CLEAN BUILD =================
       - name: Clean old builds
@@ -41,11 +39,11 @@ jobs:
         run: |
           if (Test-Path build) { Remove-Item build -Recurse -Force }
           if (Test-Path dist) { Remove-Item dist -Recurse -Force }
-          Get-ChildItem -Filter "*.spec" -ErrorAction SilentlyContinue | Remove-Item -Force
 
-      # ================= BUILD EXE (FIXED STABLE MODE) =================
-      - name: Build EXE (STABLE MODE)
-        run: python -m PyInstaller --noconfirm --clean --onefile --windowed --name Neurova --paths=. --hidden-import=kivy --hidden-import=kivymd --hidden-import=requests --hidden-import=numpy --hidden-import=pygame --hidden-import=oscpy --exclude-module=tkinter --exclude-module=matplotlib main.py
+      # ================= BUILD (FIXED CORE) =================
+      - name: Build EXE (SAFE MODE)
+        run: |
+          python -m PyInstaller --noconfirm --clean --onefile --windowed --name Neurova main.py
 
       # ================= UPLOAD =================
       - name: Upload build
