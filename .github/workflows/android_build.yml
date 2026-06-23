@@ -13,6 +13,9 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # ===============================
+      # PYTHON SETUP
+      # ===============================
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -40,9 +43,9 @@ jobs:
           pip install buildozer cython kivy kivymd
 
       # ===============================
-      # FORCE STABLE ANDROID SDK (FIXED)
+      # ANDROID SDK FIX (AIDL + LICENSE + BUILD TOOLS)
       # ===============================
-      - name: Setup Android SDK (FIXED BUILD TOOLS + AIDL)
+      - name: Setup Android SDK
         run: |
           export ANDROID_HOME=$HOME/android-sdk
           mkdir -p $ANDROID_HOME
@@ -61,28 +64,16 @@ jobs:
 
           export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
 
-          # 🔥 FORCE LICENSE ACCEPTANCE (FIX #1)
           yes | sdkmanager --licenses || true
 
-          # 🔥 INSTALL ONLY STABLE TOOLS (FIX #2)
-          sdkmanager --sdk_root=$ANDROID_HOME \
+          sdkmanager \
             "platform-tools" \
             "platforms;android-33" \
             "build-tools;33.0.2" \
             "ndk;25.2.9519653"
 
       # ===============================
-      # FORCE BUILD TO USE STABLE SDK
-      # ===============================
-      - name: Force Buildozer SDK config
-        run: |
-          mkdir -p ~/.buildozer
-          echo "[app]" > buildozer.spec
-          echo "android.api = 33" >> buildozer.spec
-          echo "android.build_tools_version = 33.0.2" >> buildozer.spec
-
-      # ===============================
-      # FIX OPENGL / CI
+      # SAFE ENV (KIVY OPENGL FIX)
       # ===============================
       - name: Set safe environment
         run: |
@@ -90,12 +81,8 @@ jobs:
           echo "SDL_VIDEODRIVER=dummy" >> $GITHUB_ENV
 
       # ===============================
-      # BUILD APK
+      # BUILD APK (IMPORTANT FIX)
       # ===============================
-      - name: Initialize Buildozer
-        run: |
-          buildozer init || true
-
       - name: Build Android APK
         run: |
           buildozer -v android debug
