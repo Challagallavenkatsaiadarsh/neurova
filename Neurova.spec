@@ -1,12 +1,28 @@
 # -*- mode: python ; coding: utf-8 -*-
 
+from PyInstaller.utils.hooks import collect_submodules
 
+# ========================
+# COLLECT ALL MODULES
+# ========================
+kivy_hidden = collect_submodules('kivy')
+kivymd_hidden = collect_submodules('kivymd')
+screens_hidden = collect_submodules('screens')
+
+hiddenimports = []
+hiddenimports += kivy_hidden
+hiddenimports += kivymd_hidden
+hiddenimports += screens_hidden
+
+# ========================
+# MAIN BUILD
+# ========================
 a = Analysis(
     ['main.py'],
-    pathex=[],
+    pathex=['.'],   # IMPORTANT FIX (was empty)
     binaries=[],
     datas=[],
-    hiddenimports=[],
+    hiddenimports=hiddenimports,
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
@@ -14,6 +30,7 @@ a = Analysis(
     noarchive=False,
     optimize=0,
 )
+
 pyz = PYZ(a.pure)
 
 exe = EXE(
@@ -27,12 +44,5 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    upx_exclude=[],
-    runtime_tmpdir=None,
-    console=True,
-    disable_windowed_traceback=False,
-    argv_emulation=False,
-    target_arch=None,
-    codesign_identity=None,
-    entitlements_file=None,
+    console=False,   # better for GUI apps
 )
