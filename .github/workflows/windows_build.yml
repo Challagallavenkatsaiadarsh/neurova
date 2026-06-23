@@ -10,8 +10,10 @@ jobs:
     runs-on: windows-latest
 
     steps:
+      # ================= CHECKOUT =================
       - uses: actions/checkout@v4
 
+      # ================= PYTHON =================
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
@@ -25,38 +27,41 @@ jobs:
           echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
           echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
 
-      # ================= INSTALL =================
-      - name: Install dependencies
+      # ================= CLEAN INSTALL =================
+      - name: Upgrade pip + reinstall PyInstaller clean
         run: |
           python -m pip install --upgrade pip
-          pip install kivy kivymd pyinstaller requests numpy pygame oscpy
+          pip uninstall -y pyinstaller
+          pip install pyinstaller --no-cache-dir
+          pip install kivy kivymd requests numpy pygame oscpy
 
-      # ================= CLEAN BUILD (FIXED POWERSHELL) =================
+      # ================= CLEAN BUILD =================
       - name: Clean old builds
         shell: pwsh
         run: |
           if (Test-Path build) { Remove-Item build -Recurse -Force }
           if (Test-Path dist) { Remove-Item dist -Recurse -Force }
-          Get-ChildItem -Filter "*.spec" | Remove-Item -Force -ErrorAction SilentlyContinue
+          Get-ChildItem -Filter "*.spec" -ErrorAction SilentlyContinue | Remove-Item -Force
 
-      # ================= BUILD =================
-      - name: Build EXE
+      # ================= BUILD EXE (FIXED) =================
+      - name: Build EXE (STABLE MODE)
         run: |
-          python -m PyInstaller main.py `
-            --name Neurova `
-            --onefile `
-            --windowed `
-            --clean `
-            --noconfirm `
-            --paths=. `
-            --hidden-import=kivy `
-            --hidden-import=kivymd `
-            --hidden-import=requests `
-            --hidden-import=numpy `
-            --hidden-import=pygame `
-            --hidden-import=oscpy `
-            --exclude-module=tkinter `
-            --exclude-module=matplotlib
+          python -m PyInstaller ^
+            --noconfirm ^
+            --clean ^
+            --onefile ^
+            --windowed ^
+            --name Neurova ^
+            --paths=. ^
+            --hidden-import=kivy ^
+            --hidden-import=kivymd ^
+            --hidden-import=requests ^
+            --hidden-import=numpy ^
+            --hidden-import=pygame ^
+            --hidden-import=oscpy ^
+            --exclude-module=tkinter ^
+            --exclude-module=matplotlib ^
+            main.py
 
       # ================= UPLOAD =================
       - name: Upload build
