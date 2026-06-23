@@ -34,11 +34,11 @@ jobs:
       # ================= BUILD =================
       - name: Build EXE
         run: |
-          python -m PyInstaller --onefile --windowed --clean --name Neurova main.py ^
-          --paths=. ^
-          --collect-submodules screens ^
-          --collect-submodules kivy ^
-          --collect-submodules kivymd
+          python -m PyInstaller --onefile --windowed --clean --name Neurova main.py `
+            --paths=. `
+            --collect-submodules screens `
+            --collect-submodules kivy `
+            --collect-submodules kivymd
 
       # ================= UPLOAD =================
       - name: Upload build
