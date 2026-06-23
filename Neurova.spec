@@ -1,28 +1,27 @@
 # -*- mode: python ; coding: utf-8 -*-
 
-from PyInstaller.utils.hooks import collect_submodules
+from PyInstaller.utils.hooks import collect_all
 
-# ========================
-# COLLECT ALL MODULES
-# ========================
-kivy_hidden = collect_submodules('kivy')
-kivymd_hidden = collect_submodules('kivymd')
-screens_hidden = collect_submodules('screens')
+# SAFE KIVY COLLECTION (NO collect_submodules)
+kivy_datas, kivy_binaries, kivy_hidden = collect_all('kivy')
+kivymd_datas, kivymd_binaries, kivymd_hidden = collect_all('kivymd')
 
-hiddenimports = []
-hiddenimports += kivy_hidden
-hiddenimports += kivymd_hidden
-hiddenimports += screens_hidden
+block_cipher = None
 
-# ========================
-# MAIN BUILD
-# ========================
 a = Analysis(
     ['main.py'],
-    pathex=['.'],   # IMPORTANT FIX (was empty)
-    binaries=[],
-    datas=[],
-    hiddenimports=hiddenimports,
+    pathex=['.'],
+    binaries=kivy_binaries + kivymd_binaries,
+    datas=kivy_datas + kivymd_datas,
+    hiddenimports=[
+        *kivy_hidden,
+        *kivymd_hidden,
+        'screens',
+        'requests',
+        'numpy',
+        'pygame',
+        'oscpy',
+    ],
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
@@ -44,5 +43,5 @@ exe = EXE(
     bootloader_ignore_signals=False,
     strip=False,
     upx=True,
-    console=False,   # better for GUI apps
+    console=False,   # IMPORTANT for Kivy apps
 )
