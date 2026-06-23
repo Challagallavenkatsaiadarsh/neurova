@@ -18,14 +18,19 @@ jobs:
         with:
           python-version: "3.10"
 
-      # ================= SAFE ENV (IMPORTANT FIX) =================
+      # ================= MARK CI (IMPORTANT FIX) =================
+      - name: Mark CI
+        shell: pwsh
+        run: echo "CI=true" >> $env:GITHUB_ENV
+
+      # ================= SAFE ENV =================
       - name: Set safe environment (KIVY FIX)
         shell: pwsh
         run: |
           echo "KIVY_NO_ARGS=1" >> $env:GITHUB_ENV
-          echo "KIVY_WINDOW=dummy" >> $env:GITHUB_ENV
-          echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
-          echo "KIVY_GL_BACKEND=mock" >> $env:GITHUB_ENV
+          echo "KIVY_WINDOW=sdl2" >> $env:GITHUB_ENV
+          echo "SDL_VIDEODRIVER=windows" >> $env:GITHUB_ENV
+          echo "KIVY_GL_BACKEND=sdl2" >> $env:GITHUB_ENV
           echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
 
       # ================= INSTALL =================

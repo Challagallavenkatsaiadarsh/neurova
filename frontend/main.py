@@ -13,6 +13,12 @@ if BASE_DIR not in sys.path:
     sys.path.append(BASE_DIR)
 
 # =====================================================
+# SAFE KIVY BOOT (MUST BE FIRST LINE)
+# =====================================================
+from frontend.boot import safe_kivy_boot
+safe_kivy_boot()
+
+# =====================================================
 # KIVYMD
 # =====================================================
 from kivymd.app import MDApp
@@ -70,11 +76,10 @@ from screens.create_space_screen import CreateSpaceScreen
 from screens.live_discussion_screen import LiveDiscussionScreen
 
 # =====================================================
-# 🔥 ADD FOLLOWERS SYSTEM (MISSING FIX)
+# FOLLOWERS SYSTEM
 # =====================================================
 from screens.followers_screen import FollowersScreen
 from screens.following_screen import FollowingScreen
-
 
 # =====================================================
 # MAIN APP
