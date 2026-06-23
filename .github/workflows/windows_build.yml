@@ -18,20 +18,21 @@ jobs:
         with:
           python-version: "3.10"
 
-      # ================= SAFE ENV =================
-      - name: Set safe environment (FIX OPENGL CRASH)
+      # ================= SAFE ENV (IMPORTANT FIX) =================
+      - name: Set safe environment (KIVY FIX)
         shell: pwsh
         run: |
-          echo "KIVY_GL_BACKEND=mock" >> $env:GITHUB_ENV
+          echo "KIVY_NO_ARGS=1" >> $env:GITHUB_ENV
           echo "KIVY_WINDOW=dummy" >> $env:GITHUB_ENV
           echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
+          echo "KIVY_GL_BACKEND=mock" >> $env:GITHUB_ENV
           echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
 
       # ================= INSTALL =================
-      - name: Install dependencies (CLEAN)
+      - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install --no-cache-dir pyinstaller kivy kivymd requests numpy pygame oscpy
+          pip install pyinstaller kivy kivymd requests numpy pygame oscpy
 
       # ================= CLEAN BUILD =================
       - name: Clean old builds
@@ -40,10 +41,25 @@ jobs:
           if (Test-Path build) { Remove-Item build -Recurse -Force }
           if (Test-Path dist) { Remove-Item dist -Recurse -Force }
 
-      # ================= BUILD (FIXED CORE) =================
-      - name: Build EXE (SAFE MODE)
+      # ================= BUILD =================
+      - name: Build EXE
         run: |
-          python -m PyInstaller --noconfirm --clean --onefile --windowed --name Neurova main.py
+          python -m PyInstaller main.py `
+            --name Neurova `
+            --onefile `
+            --windowed `
+            --clean `
+            --noconfirm `
+            --paths=. `
+            --hidden-import=kivy `
+            --hidden-import=kivymd `
+            --hidden-import=requests `
+            --hidden-import=numpy `
+            --hidden-import=pygame `
+            --hidden-import=oscpy `
+            --exclude-module=tkinter `
+            --exclude-module=matplotlib `
+            --runtime-hook disable_kivy_window.py
 
       # ================= UPLOAD =================
       - name: Upload build
