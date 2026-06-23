@@ -43,7 +43,7 @@ jobs:
           if (Test-Path dist) { Remove-Item dist -Recurse -Force }
           Get-ChildItem -Filter "*.spec" -ErrorAction SilentlyContinue | Remove-Item -Force
 
-      # ================= BUILD EXE (FIXED - NO ^ ERROR) =================
+      # ================= BUILD EXE (FIXED STABLE MODE) =================
       - name: Build EXE (STABLE MODE)
         run: python -m PyInstaller --noconfirm --clean --onefile --windowed --name Neurova --paths=. --hidden-import=kivy --hidden-import=kivymd --hidden-import=requests --hidden-import=numpy --hidden-import=pygame --hidden-import=oscpy --exclude-module=tkinter --exclude-module=matplotlib main.py
 
