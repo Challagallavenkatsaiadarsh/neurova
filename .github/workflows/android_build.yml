@@ -13,17 +13,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # ===============================
-      # SET PYTHON
-      # ===============================
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      # ===============================
-      # SYSTEM DEPENDENCIES
-      # ===============================
       - name: Install system dependencies
         run: |
           sudo apt update
@@ -34,26 +28,20 @@ jobs:
             libffi-dev libssl-dev \
             libgl1-mesa-dev libgles2-mesa-dev libsdl2-dev
 
-      # ===============================
-      # PYTHON TOOLS
-      # ===============================
       - name: Install Python tools
         run: |
           python -m pip install --upgrade pip
           pip install buildozer cython kivy kivymd
 
       # ===============================
-      # ANDROID SDK (FIXED AIDL + PATH ALIGNMENT)
+      # FIX: FORCE STABLE ANDROID SDK
       # ===============================
-      - name: Setup Android SDK (FIXED AIDL)
+      - name: Setup Android SDK (FIXED NDK + AIDL)
         run: |
           export ANDROID_HOME=$HOME/android-sdk
-          export ANDROID_SDK_ROOT=$ANDROID_HOME
-
           mkdir -p $ANDROID_HOME
 
           echo "ANDROID_HOME=$ANDROID_HOME" >> $GITHUB_ENV
-          echo "ANDROID_SDK_ROOT=$ANDROID_HOME" >> $GITHUB_ENV
           echo "$ANDROID_HOME/cmdline-tools/latest/bin" >> $GITHUB_PATH
           echo "$ANDROID_HOME/platform-tools" >> $GITHUB_PATH
 
@@ -69,40 +57,44 @@ jobs:
 
           yes | sdkmanager --licenses || true
 
-          sdkmanager \
+          sdkmanager --sdk_root=$ANDROID_HOME \
             "platform-tools" \
             "platforms;android-33" \
-            "build-tools;33.0.2" \
-            "ndk;25.2.9519653"
+            "build-tools;33.0.2"
 
       # ===============================
-      # FORCE BUILD OZER CONFIG (NO OVERWRITE BUG)
+      # 🔥 IMPORTANT FIX: DISABLE BROKEN NDK DOWNLOAD
       # ===============================
-      - name: Setup Buildozer config (DO NOT INIT)
+      - name: Force Buildozer config (NO auto NDK download)
         run: |
           mkdir -p ~/.buildozer
 
-          echo "[app]" > buildozer.spec
-          echo "title = Neurova" >> buildozer.spec
-          echo "package.name = neurova" >> buildozer.spec
-          echo "package.domain = org.neurova" >> buildozer.spec
-          echo "source.dir = ." >> buildozer.spec
-          echo "version = 1.0" >> buildozer.spec
-          echo "android.api = 33" >> buildozer.spec
-          echo "android.build_tools_version = 33.0.2" >> buildozer.spec
-          echo "android.ndk = 25.2.9519653" >> buildozer.spec
+          cat > buildozer.spec << EOF
+[app]
+title = Neurova
+package.name = neurova
+package.domain = org.neurova
+source.dir = .
+version = 1.0
+
+android.api = 33
+android.build_tools_version = 33.0.2
+android.ndk = 25.1.8937393
+EOF
 
       # ===============================
-      # SAFE ENVIRONMENT (KIVY FIX)
+      # FIX OPENGL / CI
       # ===============================
       - name: Set safe environment
         run: |
           echo "KIVY_GL_BACKEND=mock" >> $GITHUB_ENV
           echo "SDL_VIDEODRIVER=dummy" >> $GITHUB_ENV
 
-      # ===============================
-      # BUILD APK
-      # ===============================
-      - name: Build Android APK
+      - name: Clean build cache
+        run: |
+          rm -rf .buildozer
+          rm -rf ~/.buildozer
+
+      - name: Build APK
         run: |
           buildozer -v android debug
