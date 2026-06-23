@@ -31,14 +31,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install kivy kivymd pyinstaller requests numpy pygame oscpy
 
-      # ================= CLEAN BUILD (IMPORTANT FIX) =================
+      # ================= CLEAN BUILD (FIXED POWERSHELL) =================
       - name: Clean old builds
+        shell: pwsh
         run: |
-          if exist build rmdir /s /q build
-          if exist dist rmdir /s /q dist
-          if exist *.spec del /f /q *.spec
+          if (Test-Path build) { Remove-Item build -Recurse -Force }
+          if (Test-Path dist) { Remove-Item dist -Recurse -Force }
+          Get-ChildItem -Filter "*.spec" | Remove-Item -Force -ErrorAction SilentlyContinue
 
-      # ================= BUILD (NO SPEC FILE) =================
+      # ================= BUILD =================
       - name: Build EXE
         run: |
           python -m PyInstaller main.py `
