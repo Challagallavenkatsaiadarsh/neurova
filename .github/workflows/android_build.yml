@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
 
       # ===============================
-      # PYTHON SETUP
+      # SET PYTHON
       # ===============================
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,14 +43,17 @@ jobs:
           pip install buildozer cython kivy kivymd
 
       # ===============================
-      # ANDROID SDK FIX (AIDL + LICENSE + BUILD TOOLS)
+      # ANDROID SDK (FIXED AIDL + PATH ALIGNMENT)
       # ===============================
-      - name: Setup Android SDK
+      - name: Setup Android SDK (FIXED AIDL)
         run: |
           export ANDROID_HOME=$HOME/android-sdk
+          export ANDROID_SDK_ROOT=$ANDROID_HOME
+
           mkdir -p $ANDROID_HOME
 
           echo "ANDROID_HOME=$ANDROID_HOME" >> $GITHUB_ENV
+          echo "ANDROID_SDK_ROOT=$ANDROID_HOME" >> $GITHUB_ENV
           echo "$ANDROID_HOME/cmdline-tools/latest/bin" >> $GITHUB_PATH
           echo "$ANDROID_HOME/platform-tools" >> $GITHUB_PATH
 
@@ -73,7 +76,24 @@ jobs:
             "ndk;25.2.9519653"
 
       # ===============================
-      # SAFE ENV (KIVY OPENGL FIX)
+      # FORCE BUILD OZER CONFIG (NO OVERWRITE BUG)
+      # ===============================
+      - name: Setup Buildozer config (DO NOT INIT)
+        run: |
+          mkdir -p ~/.buildozer
+
+          echo "[app]" > buildozer.spec
+          echo "title = Neurova" >> buildozer.spec
+          echo "package.name = neurova" >> buildozer.spec
+          echo "package.domain = org.neurova" >> buildozer.spec
+          echo "source.dir = ." >> buildozer.spec
+          echo "version = 1.0" >> buildozer.spec
+          echo "android.api = 33" >> buildozer.spec
+          echo "android.build_tools_version = 33.0.2" >> buildozer.spec
+          echo "android.ndk = 25.2.9519653" >> buildozer.spec
+
+      # ===============================
+      # SAFE ENVIRONMENT (KIVY FIX)
       # ===============================
       - name: Set safe environment
         run: |
@@ -81,7 +101,7 @@ jobs:
           echo "SDL_VIDEODRIVER=dummy" >> $GITHUB_ENV
 
       # ===============================
-      # BUILD APK (IMPORTANT FIX)
+      # BUILD APK
       # ===============================
       - name: Build Android APK
         run: |
