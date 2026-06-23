@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@v4
 
       # ===============================
-      # SET GLOBAL SAFE ENV (IMPORTANT FIX)
+      # SET SAFE ENVIRONMENT (CRITICAL FIRST)
       # ===============================
       - name: Set global Kivy safe environment
         shell: pwsh
@@ -22,6 +22,8 @@ jobs:
           echo "KIVY_GL_BACKEND=mock" >> $env:GITHUB_ENV
           echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
           echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
+          echo "KIVY_NO_CONSOLELOG=1" >> $env:GITHUB_ENV
+          echo "KIVY_NO_FILELOG=1" >> $env:GITHUB_ENV
 
       # ===============================
       # SETUP PYTHON
@@ -40,11 +42,11 @@ jobs:
           pip install kivy kivymd pyinstaller requests
 
       # ===============================
-      # BUILD EXE (SAFE MODE)
+      # BUILD EXE (STABLE MODE)
       # ===============================
       - name: Build EXE
         run: |
-          python -m PyInstaller --onefile --windowed --name Neurova main.py
+          python -m PyInstaller --noconfirm --clean --onefile --windowed --name Neurova main.py
 
       # ===============================
       # UPLOAD OUTPUT

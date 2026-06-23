@@ -40,9 +40,9 @@ jobs:
           pip install buildozer cython kivy kivymd
 
       # ===============================
-      # ANDROID SDK (FIXED STRUCTURE)
+      # FORCE STABLE ANDROID SDK (FIXED)
       # ===============================
-      - name: Setup Android SDK (FIXED AIDL + SDK)
+      - name: Setup Android SDK (FIXED BUILD TOOLS + AIDL)
         run: |
           export ANDROID_HOME=$HOME/android-sdk
           mkdir -p $ANDROID_HOME
@@ -56,26 +56,37 @@ jobs:
           wget https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
           unzip commandlinetools-linux-*.zip -d $ANDROID_HOME
 
-          # FIXED: proper structure (NO broken mv)
           mkdir -p $ANDROID_HOME/cmdline-tools/latest
           mv $ANDROID_HOME/cmdline-tools/* $ANDROID_HOME/cmdline-tools/latest/ || true
 
           export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
 
+          # 🔥 FORCE LICENSE ACCEPTANCE (FIX #1)
           yes | sdkmanager --licenses || true
 
-          sdkmanager \
+          # 🔥 INSTALL ONLY STABLE TOOLS (FIX #2)
+          sdkmanager --sdk_root=$ANDROID_HOME \
             "platform-tools" \
             "platforms;android-33" \
             "build-tools;33.0.2" \
             "ndk;25.2.9519653"
 
       # ===============================
-      # FIX OPENGL / CI SAFETY
+      # FORCE BUILD TO USE STABLE SDK
+      # ===============================
+      - name: Force Buildozer SDK config
+        run: |
+          mkdir -p ~/.buildozer
+          echo "[app]" > buildozer.spec
+          echo "android.api = 33" >> buildozer.spec
+          echo "android.build_tools_version = 33.0.2" >> buildozer.spec
+
+      # ===============================
+      # FIX OPENGL / CI
       # ===============================
       - name: Set safe environment
         run: |
-          echo "KIVY_GL_BACKEND=angle_sdl2" >> $GITHUB_ENV
+          echo "KIVY_GL_BACKEND=mock" >> $GITHUB_ENV
           echo "SDL_VIDEODRIVER=dummy" >> $GITHUB_ENV
 
       # ===============================
