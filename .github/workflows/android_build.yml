@@ -40,9 +40,9 @@ jobs:
           pip install buildozer cython kivy kivymd
 
       # ===============================
-      # ANDROID SDK (FIXED PROPERLY)
+      # ANDROID SDK (FIXED STRUCTURE)
       # ===============================
-      - name: Setup Android SDK (FIX AIDL + BUILD TOOLS)
+      - name: Setup Android SDK (FIXED AIDL + SDK)
         run: |
           export ANDROID_HOME=$HOME/android-sdk
           mkdir -p $ANDROID_HOME
@@ -56,12 +56,15 @@ jobs:
           wget https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip
           unzip commandlinetools-linux-*.zip -d $ANDROID_HOME
 
+          # FIXED: proper structure (NO broken mv)
           mkdir -p $ANDROID_HOME/cmdline-tools/latest
-          mv $ANDROID_HOME/cmdline-tools/cmdline-tools/* $ANDROID_HOME/cmdline-tools/latest/
+          mv $ANDROID_HOME/cmdline-tools/* $ANDROID_HOME/cmdline-tools/latest/ || true
 
-          yes | $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager --licenses || true
+          export PATH=$ANDROID_HOME/cmdline-tools/latest/bin:$PATH
 
-          $ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager \
+          yes | sdkmanager --licenses || true
+
+          sdkmanager \
             "platform-tools" \
             "platforms;android-33" \
             "build-tools;33.0.2" \

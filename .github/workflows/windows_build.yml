@@ -13,6 +13,19 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      # ===============================
+      # SET GLOBAL SAFE ENV (IMPORTANT FIX)
+      # ===============================
+      - name: Set global Kivy safe environment
+        shell: pwsh
+        run: |
+          echo "KIVY_GL_BACKEND=mock" >> $env:GITHUB_ENV
+          echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
+          echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
+
+      # ===============================
+      # SETUP PYTHON
+      # ===============================
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -27,16 +40,7 @@ jobs:
           pip install kivy kivymd pyinstaller requests
 
       # ===============================
-      # FIX OPENGL (CRITICAL)
-      # ===============================
-      - name: Set safe Kivy environment (fix OpenGL)
-        run: |
-          set KIVY_GL_BACKEND=angle_sdl2
-          set SDL_VIDEODRIVER=dummy
-          set PYTHONUNBUFFERED=1
-
-      # ===============================
-      # BUILD EXE
+      # BUILD EXE (SAFE MODE)
       # ===============================
       - name: Build EXE
         run: |
