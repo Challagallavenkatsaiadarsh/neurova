@@ -1,0 +1,24 @@
+name: iOS Build
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build-ios:
+    runs-on: macos-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          pip install kivy kivymd
+
+      - name: iOS Build Placeholder
+        run: echo "iOS build requires Xcode + kivy-ios setup"
