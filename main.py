@@ -4,8 +4,8 @@ import os
 # Prevent Kivy crashing in headless environments (GitHub Actions / Windows runner)
 if os.environ.get("CI") == "true":
     os.environ["KIVY_WINDOW"] = "sdl2"
-    os.environ["KIVY_GL_BACKEND"] = "sdl2"
-    os.environ["SDL_VIDEODRIVER"] = "windows"
+    os.environ["KIVY_GL_BACKEND"] = "angle_sdl2"  
+    os.environ["SDL_VIDEODRIVER"] = "dummy"
 
 # ================= IMPORT APP =================
 from frontend.main import MainApp

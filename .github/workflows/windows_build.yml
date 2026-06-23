@@ -18,26 +18,26 @@ jobs:
         with:
           python-version: "3.10"
 
-      # ================= MARK CI (IMPORTANT FIX) =================
+      # ================= MARK CI =================
       - name: Mark CI
         shell: pwsh
         run: echo "CI=true" >> $env:GITHUB_ENV
 
-      # ================= SAFE ENV =================
+      # ================= SAFE ENV (FIXED OPENGL) =================
       - name: Set safe environment (KIVY FIX)
         shell: pwsh
         run: |
           echo "KIVY_NO_ARGS=1" >> $env:GITHUB_ENV
           echo "KIVY_WINDOW=sdl2" >> $env:GITHUB_ENV
-          echo "SDL_VIDEODRIVER=windows" >> $env:GITHUB_ENV
-          echo "KIVY_GL_BACKEND=sdl2" >> $env:GITHUB_ENV
+          echo "SDL_VIDEODRIVER=dummy" >> $env:GITHUB_ENV
+          echo "KIVY_GL_BACKEND=angle_sdl2" >> $env:GITHUB_ENV
           echo "PYTHONUNBUFFERED=1" >> $env:GITHUB_ENV
 
       # ================= INSTALL =================
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install pyinstaller kivy kivymd requests numpy pygame oscpy
+          pip install pyinstaller kivy kivymd requests numpy pygame oscpy kivy_deps.angle
 
       # ================= CLEAN BUILD =================
       - name: Clean old builds
